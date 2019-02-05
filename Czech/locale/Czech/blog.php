@@ -1,0 +1,30 @@
+<?php
+$locale['blog_100'] = "Archiv blogů";
+
+$locale['blog_070'] = "Přidal ";
+$locale['blog_070b'] = "Zobrazit všechny příspěvky od %s";
+$locale['blog_071'] = "dne ";
+$locale['blog_071b'] = "Autor";
+$locale['blog_072'] = "Číst více";
+$locale['blog_073'] = " Komentářů";
+$locale['blog_073b'] = " Komentář";
+$locale['blog_074'] = " Přečtení";
+$locale['blog_074b'] = " Přečtení";
+$locale['blog_075'] = "Tisk";
+$locale['blog_076'] = "Upravit";
+$locale['blog_077'] = "Blog";
+$locale['blog_078'] = "Žádné blogy nejsou zatím zvěřejněny";
+$locale['blog_079'] = "V ";
+$locale['blog_080'] = "Nezařazené";
+$locale['blog_081'] = "Domovská stránka blogu";
+$locale['blog_082'] = "Blog";
+$locale['blog_083'] = "Naposledy aktualizováno";
+$locale['blog_084'] = "Kategorie";
+$locale['blog_085'] = "Všechny ostatní kategorie";
+$locale['blog_086'] = "Nejnovější";
+$locale['blog_087'] = "Nejvíce komentované";
+$locale['blog_088'] = "Nejvíce hodnocené";
+$locale['blog_089'] = "Napište první komentář %s";
+$locale['blog_089a'] = "Buďte první, kdo to ohodnotí %s";
+$locale['blog_089b'] = "Galerie";
+$locale['blog_089c'] = "Seznam";

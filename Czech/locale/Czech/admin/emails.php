@@ -1,0 +1,52 @@
+<?php
+// Titles
+$locale['400'] = "Šablony e-mailů";
+$locale['401'] = "Dostupné šablóny";
+$locale['410'] = "Šablona byla úspěšně aktualizována.";
+$locale['411'] = "Testovaci e-mail byl odeslán na %s.";
+$locale['412'] = "Test-Predmet";
+$locale['413'] = "Test-Zpráva";
+$locale['414'] = "Nějaký uživatel";
+$locale['415'] = "Příjemce zprávy";
+$locale['416'] = "URL na některé vlákno";
+$locale['417'] = "Upravit";
+$locale['418'] = "HTML";
+$locale['419'] = "Prostý text";
+$locale['420'] = "Šablóna: ";
+$locale['421'] = "Použit šablónu";
+$locale['422'] = "Maily budou odeslány ve formátu %s pomocí této šablony.";
+$locale['423'] = "Maily budou odeslány ve formátu prostého textu pomocí výchozích lokalizačních souborů.";
+$locale['424'] = "Ano";
+$locale['425'] = "Ne";
+$locale['426'] = "Formát šablony";
+$locale['427'] = "<strong>Poznámka:</strong> Použití obrázků a stylování textu nebude fungovat v obyčejných textových mailech!";
+$locale['428'] = "Jméno příjemce";
+$locale['429'] = "Jméno odesílatele";
+$locale['430'] = "Použije se jako jméno odesílatele na testování šablon";
+$locale['431'] = "E-mail příjemce";
+$locale['432'] = "E-mail odesílatele";
+$locale['433'] = "Použije se jako e-mail odesílatele na testování šablon";
+$locale['434'] = "Předmět";
+$locale['435'] = "Zpráva";
+$locale['436'] = "Pozadí"; // Button
+$locale['437'] = "Otestovat šablónu";
+$locale['438'] = "Šablona se uloží a na vaši adresu bude odeslána testovací pošta: %s. Pokračovat?";
+$locale['439'] = "Uložit";
+$locale['440'] = "Resetovat";
+// Help
+$locale['450'] = "Pomoc";
+$locale['451'] = "Stručný přehled o tlačítkách";
+$locale['452'] = "Tlačítko";
+$locale['453'] = "Funkce / Náhrada";
+$locale['454'] = "Předmět zprávy nebo vlákna";
+$locale['455'] = "Úryvek textu zprávy nebo příspěvku";
+$locale['456'] = "Odesílatel zprávy, autor vlákna nebo příspěvku";
+$locale['457'] = "Odesílatel mailu";
+$locale['458'] = "Příjemce mailu";
+$locale['459'] = "URL adresa vlákna ve fóru, se používá pouze v upozornění na nové příspěvky ve fóru.";
+// Messages
+$locale['469'] = "Vložit obrázek";
+$locale['470'] = "Předmět nemůže být prázdný!";
+$locale['471'] = "Zpráva nemůže být prázdná!";
+$locale['472'] = "Jméno odesílatele nemůže být prázdné!";
+$locale['473'] = "E-mail odesílatele nemůže být prázdný!";
