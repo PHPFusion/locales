@@ -1,6 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] - Adminisztráció";
+$locale['200a'] = "Adminisztráció";
 $locale['ac00'] = "Admin főoldal";
 $locale['ac01'] = "Tartalom";
 $locale['ac02'] = "Felhasználók";
