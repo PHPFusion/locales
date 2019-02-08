@@ -17,6 +17,7 @@
 +--------------------------------------------------------*/
 // Admin Links
 $locale['200'] = "[SITENAME] administračný panel";
+$locale['200a'] = "Administračný panel";
 $locale['ac00'] = "Administrácia";
 $locale['ac01'] = "Obsah";
 $locale['ac02'] = "Užívatelia";
