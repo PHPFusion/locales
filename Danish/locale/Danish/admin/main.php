@@ -17,6 +17,7 @@
 +--------------------------------------------------------*/
 // Admin Links
 $locale['200'] = "[SITENAME] Administrationsside";
+$locale['200a'] = "Admin Panel";
 $locale['ac00'] = "Adminpanel";
 $locale['ac01'] = "Indhold";
 $locale['ac02'] = "Brugere";
