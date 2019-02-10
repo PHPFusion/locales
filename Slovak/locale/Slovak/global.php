@@ -2,10 +2,11 @@
 /**
  * Slovak Locale by RobiNN
  *
- * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale charset     ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+ * @locale region      ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+ * @locale tinymce     refer to path includes/jscripts/tinymce/langs/{value}.js
+ * @locale phpmailer   refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale filemanager refer to path includes/filemanager/lang/{value}.php
  * @package locale/Slovak
  */
 
@@ -16,6 +17,7 @@ $locale['xml_lang'] = "sk";
 $locale['short_lang_name'] = "sk";
 $locale['tinymce'] = "sk";
 $locale['select2'] = "sk";
+$locale['phpmailer'] = "sk";
 $locale['phpmailer'] = "sk";
 $locale['datepicker'] = "sk";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";

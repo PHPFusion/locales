@@ -2,10 +2,11 @@
 /**
  * Czech Locale by https://www.phpfusion.cz/ - Team
  *
- * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale charset     ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+ * @locale region      ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+ * @locale tinymce     refer to path includes/jscripts/tinymce/langs/{value}.js
+ * @locale phpmailer   refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale filemanager refer to path includes/filemanager/lang/{value}.php
  * @package locale/Czech
  */
 
@@ -17,6 +18,7 @@ $locale['short_lang_name'] = "cs";
 $locale['tinymce'] = "cs";
 $locale['select2'] = "cs";
 $locale['phpmailer'] = "cs";
+$locale['filemanager'] = "cs";
 $locale['datepicker'] = "cs";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
