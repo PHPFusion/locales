@@ -22,6 +22,7 @@
  * @locale select2           refer to path includes/dynamics/select2/select2_locale_{value}.js
  * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
+ * @locale filemanager       refer to path includes/filemanager/lang/{value}.php
  */
 setlocale(LC_ALL, "sk_SK.utf8", "sk-SK", "slovak");
 $locale['charset'] = "utf-8";
@@ -31,6 +32,7 @@ $locale['short_lang_name'] = "sk";
 $locale['tinymce'] = "sk";
 $locale['select2'] = "sk";
 $locale['phpmailer'] = "sk";
+$locale['filemanager'] = "sk";
 $locale['datepicker'] = "sk";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
