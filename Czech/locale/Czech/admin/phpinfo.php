@@ -30,8 +30,6 @@ $locale['409'] = "Předpona cookie";
 $locale['410'] = "Webový prohlížeč a operační systém";
 //PHP settings
 $locale['420'] = "Nastavení PHP";
-$locale['421'] = "Ano";
-$locale['422'] = "Ne";
 $locale['423'] = "Bezpečnostní mód";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Podpora pro ";

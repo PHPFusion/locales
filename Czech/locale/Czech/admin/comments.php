@@ -25,7 +25,6 @@ $locale['411'] = "Komentář byl smazán";
 $locale['420'] = "Deaktivujte smajlíky v tomto komentáři";
 $locale['421'] = "Uložit komentář";
 // Comments
-$locale['430'] = "Upravit";
 $locale['431'] = "Vymazat & zablokovat";
 $locale['432'] = "IP uživatele:";
 $locale['433'] = "Smazat tento komentář?";

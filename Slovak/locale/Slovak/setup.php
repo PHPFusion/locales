@@ -207,6 +207,7 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Správca tém";
 $locale['setup_3057'] = "Migračný nástroj";
 $locale['setup_3058'] = "Nastavenia tém";
+$locale['setup_3059'] = "Fusion správca súborov";
 // Multilanguage table rights
 $locale['setup_3200'] = "Články";
 $locale['setup_3201'] = "Vlastné stránky";

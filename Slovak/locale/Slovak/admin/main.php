@@ -84,6 +84,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Správca tém";
 $locale['S13'] = "Nastavenia blogu";
 $locale['LANG'] = "Nastavenie jazyka";
+$locale['FM'] = "Fusion správca súborov";
 
 // Site Information
 $locale['250'] = "Prehľad o stránke";

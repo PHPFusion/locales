@@ -64,8 +64,7 @@ $locale['SL_0050'] = "Název odkazu";
 $locale['SL_0051'] = "Viditelnost";
 $locale['SL_0052'] = "Pořadí";
 $locale['SL_0053'] = "Možnosti";
-$locale['SL_0060'] = "Upravit";
-$locale['SL_0061'] = "Vymazat";
+
 $locale['SL_0062'] = "Nebyly definovány žádné odkazy na stránky.";
 $locale['SL_0063'] = "Použít BB kódy v názvu odkazu?";
 

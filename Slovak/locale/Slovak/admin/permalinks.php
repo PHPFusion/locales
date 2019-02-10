@@ -26,7 +26,6 @@ $locale['PL_403'] = "Popis";
 $locale['PL_404'] = "Možnosti";
 $locale['PL_404a'] = "Povoliť";
 $locale['PL_404b'] = "Zakázať";
-$locale['PL_404c'] = "Upraviť";
 $locale['PL_404d'] = "Preinštalovať";
 
 // Editing Permalinks

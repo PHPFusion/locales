@@ -28,9 +28,6 @@ $locale['412'] = "Názov súboru:";
 $locale['413'] = "Dátum zálohy:";
 $locale['414'] = "Názov databázy:";
 $locale['415'] = "Prefix tabuliek jadra:";
-$locale['416'] = "Tabuľky:";
-$locale['417'] = "Zobraziť";
-$locale['418'] = "Zrušiť";
 $locale['419'] = "tabuľky";
 // Database Restore
 $locale['430'] = "Obnoviť možnosti";
@@ -42,7 +39,6 @@ $locale['435'] = "Vybrať:";
 $locale['436'] = "všetko";
 $locale['437'] = "nič";
 $locale['438'] = "Obnoviť";
-$locale['439'] = "Zrušiť";
 $locale['440'] = "Podporované typy súborov:";
 // Database Backup
 $locale['450'] = "Zálohovanie databázy";

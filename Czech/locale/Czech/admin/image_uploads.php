@@ -15,6 +15,8 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['100'] = "Fusion správce souborů";
+
 // Delete Image
 $locale['400'] = "Smazat obrázek";
 $locale['401'] = "Obrázek byl smazán";
@@ -38,7 +40,6 @@ $locale['442'] = "Smazat tento obrázek";
 // Image Managementů
 $locale['460'] = "Obrázky";
 $locale['461'] = "Náhled";
-$locale['462'] = "Vymazat";
 $locale['463'] = "Tato složka je prázdná";
 $locale['464'] = "Aktualizovat seznam obrázků pro editor TinyMCE";
 // Popup Error/Warning Messages

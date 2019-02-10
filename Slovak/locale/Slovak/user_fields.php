@@ -44,10 +44,8 @@ $locale['u064'] = "Email";
 $locale['u066'] = "Dátum registrácie";
 $locale['u067'] = "Posledná návšteva";
 $locale['u068'] = "Užívateľské meno";
-$locale['u069'] = "Upraviť";
 $locale['u070'] = "Ban";
 $locale['u071'] = "Pozastaviť";
-$locale['u072'] = "Zmazať";
 $locale['u073'] = "Zmazať tohto užívateľa?";
 $locale['u074'] = "Odbanovať";
 // Profile and register
@@ -157,7 +155,6 @@ $locale['u180'] = "Pri nahrávaní avataru sa vyskytla chyba";
 $locale['u184'] = "Max. veľkosť súboru: %s / Max. rozmer: %ux%u pixlov";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Kliknite na tlačidlo Prehľadávať pre nahratie obrázka";
-$locale['u187'] = "Zmazať";
 // Captcha and terms
 $locale['u190'] = "Validačný kód";
 $locale['u191'] = "Vložte validačný kód";
