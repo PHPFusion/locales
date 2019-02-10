@@ -12,9 +12,6 @@ $locale['412'] = "Fájlnév:";
 $locale['413'] = "Dátum:";
 $locale['414'] = "Adatbázis neve:";
 $locale['415'] = "Tábla előtag:";
-$locale['416'] = "Táblák:";
-$locale['417'] = "Megtekint";
-$locale['418'] = "Mégsem";
 $locale['419'] = "tábla";
 // Database Restore
 $locale['430'] = "Visszaállítási beállítások";
@@ -26,7 +23,6 @@ $locale['435'] = "";
 $locale['436'] = "összes";
 $locale['437'] = "egyik sem";
 $locale['438'] = "Visszaállítás";
-$locale['439'] = "Mégsem";
 $locale['440'] = "Támogatott fájlformátumok:";
 // Database Backup
 $locale['450'] = "Adatbázis biztonsági mentése";

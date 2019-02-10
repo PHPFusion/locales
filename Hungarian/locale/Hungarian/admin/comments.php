@@ -9,7 +9,6 @@ $locale['411'] = "Hozzászólás törölve";
 $locale['420'] = "Hangulatjelek kikapcsolása ebben a hozzászólásban";
 $locale['421'] = "Hozzászólás mentése";
 // Comments
-$locale['430'] = "Szerkesztés";
 $locale['431'] = "Törlés és Ban";
 $locale['432'] = "Felhasználó IP:";
 $locale['433'] = "Biztosan törölni szeretnéd ezt a hozzászólást?";

@@ -37,8 +37,6 @@ $locale['blog_0415'] = "Képek csak a következő formátumok lehetnek: %s.";
 $locale['blog_0416'] = "Kép mérete nem lehet nagyobb, mint %s pixel.";
 $locale['blog_0417'] = "Ismeretlen hiba";
 // Blog form
-$locale['blog_0420'] = "Szerkesztés";
-$locale['blog_0421'] = "Törlés";
 $locale['blog_0422'] = "Tárgy:";
 $locale['blog_0423'] = "Kategória:";
 $locale['blog_0424'] = "Nincs kategorizálva";

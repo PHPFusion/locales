@@ -49,8 +49,6 @@ $locale['SL_0051'] = "Hozzáférés";
 $locale['SL_0052'] = "Sorrend";
 $locale['SL_0053'] = "Lehetőségek";
 
-$locale['SL_0060'] = "Szerkeszt";
-$locale['SL_0061'] = "Töröl";
 $locale['SL_0062'] = "Nincs létrehozva Navigációs link.";
 $locale['SL_0063'] = "Használjon BBKódot a Link nevében?";
 

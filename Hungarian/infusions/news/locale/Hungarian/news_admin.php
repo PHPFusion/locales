@@ -2,7 +2,6 @@
 $locale['news_0000'] = "Jelenlegi Hírek";
 $locale['news_0001'] = "Hírek";
 $locale['news_0002'] = "Hír Hozzáadása";
-$locale['news_0003'] = "Hír Szerkesztése";
 $locale['news_0004'] = "Beállítások";
 $locale['news_0005'] = "Hír Tartalom";
 $locale['news_0006'] = "Hír Kép Galéria";

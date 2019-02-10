@@ -14,8 +14,6 @@ $locale['409'] = "Cookie előtag";
 $locale['410'] = "Böngésző és OS";
 //PHP settings
 $locale['420'] = "PHP beállítások";
-$locale['421'] = "Igen";
-$locale['422'] = "Nem";
 $locale['423'] = "Biztonságos mód";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Támogatás";

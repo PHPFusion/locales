@@ -191,6 +191,7 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Felület testreszabás";
 $locale['setup_3057'] = "Migrációs eszköz";
 $locale['setup_3058'] = "Felület Beállítások";
+$locale['setup_3059'] = "Fusion Fájl Manager";
 //Multilanguage table rights
 $locale['setup_3200'] = "Cikkek";
 $locale['setup_3201'] = "Egyedi oldalak";

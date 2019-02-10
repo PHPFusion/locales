@@ -28,10 +28,8 @@ $locale['u064'] = "E-mail";
 $locale['u066'] = "Regisztráció dátuma";
 $locale['u067'] = "Legutóbbi látogatás";
 $locale['u068'] = "Felhasználónév";
-$locale['u069'] = "Szerkeszt";
 $locale['u070'] = "Kitilt";
 $locale['u071'] = "Felfüggeszt";
-$locale['u072'] = "Töröl";
 $locale['u073'] = "Valóban törölni szereznéd ezt a felhasználót?";
 $locale['u074'] = "Kitiltás visszavonva";
 // Profile and register
@@ -142,7 +140,6 @@ $locale['u180'] = "Nem sikerült feltölteni az avatar-t.";
 $locale['u184'] = "Max méret: %s / %ux%u pixel";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Kép feltöltéséhez kattints a 'Tallózás' gombra";
-$locale['u187'] = "Törlés";
 // Captcha and terms
 $locale['u190'] = "Ellenőrzőkód";
 $locale['u191'] = "Add meg az ellenőrzőkódot";

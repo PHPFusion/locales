@@ -10,7 +10,6 @@ $locale['PL_403'] = "Leírás";
 $locale['PL_404'] = "Beállítások";
 $locale['PL_404a'] = "Bekapcsol";
 $locale['PL_404b'] = "Kikapcsol";
-$locale['PL_404c'] = "Javít";
 $locale['PL_404d'] = "Telepítsd újra";
 
 // Editing Permalinks

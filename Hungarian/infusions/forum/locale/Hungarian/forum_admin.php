@@ -12,8 +12,6 @@ $locale['510'] = "Engedélyezett formátumok:";
 $locale['511'] = "Minden típust vesszővel válassz el";
 $locale['512'] = "Témák figyelésének engedélyezése:<br /><span class='small2'>(új hozzászólásnál e-mail küldése)</span>";
 $locale['513'] = "A hírnév megjelenítése";
-$locale['518'] = "Igen";
-$locale['519'] = "Nem";
 $locale['520'] = "Fórum rang rendszer használata:";
 $locale['521'] = "Szerkesztés lehetőségének kikapcsolása:";
 $locale['522'] = "(A tagok nem módosíthatják üzeneteiket)";

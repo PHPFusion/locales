@@ -1,4 +1,5 @@
 <?php
+$locale['100'] = "Fusion Fájl Manager";
 // Delete Image
 $locale['400'] = "Kép törlése";
 $locale['401'] = "Kép törölve";
@@ -22,7 +23,6 @@ $locale['442'] = "Kép törlése";
 // Image Management
 $locale['460'] = "Képek";
 $locale['461'] = "Megnyitás";
-$locale['462'] = "Törlés";
 $locale['463'] = "Ez a kategória üres";
 $locale['464'] = "Kép lista frissítése a TinyMCE szerkesztőben";
 // Popup Error/Warning Messages
