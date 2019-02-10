@@ -65,8 +65,6 @@ $locale['SL_0051'] = "Kan ses af";
 $locale['SL_0052'] = "Rækkefølge";
 $locale['SL_0053'] = "Valgmuligheder";
 
-$locale['SL_0060'] = "Rediger";
-$locale['SL_0061'] = "Slet";
 $locale['SL_0062'] = "Der er ikke oprettet interne links.";
 $locale['SL_0063'] = "Benyt BB-kode i linknavn?";
 

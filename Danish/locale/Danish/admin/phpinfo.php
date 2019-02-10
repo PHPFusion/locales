@@ -30,8 +30,6 @@ $locale['409'] = "Cookiefornavn";
 $locale['410'] = "Browser og Operativsystem";
 //PHP settings
 $locale['420'] = "PHP-indstillinger";
-$locale['421'] = "Ja";
-$locale['422'] = "Nej";
 $locale['423'] = "Safemode";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Understøttelse af";

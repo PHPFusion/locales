@@ -44,10 +44,8 @@ $locale['u064'] = "Mail";
 $locale['u066'] = "Oprettelsesdato";
 $locale['u067'] = "Seneste besøg ";
 $locale['u068'] = "Brugernavn";
-$locale['u069'] = "Rediger";
 $locale['u070'] = "Udeluk";
 $locale['u071'] = "Udeluk tidsbegrænset";
-$locale['u072'] = "Slet";
 $locale['u073'] = "Skal denne bruger slettes?";
 $locale['u074'] = "Hæv blokering";
 // Profile and register
@@ -157,7 +155,6 @@ $locale['u180'] = "Der opstod en fejl i forbindelse med upload af din avatar";
 $locale['u184'] = "Maks. filstørrelse: %s / Maks. størrelse: %ux%u pixels";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Klik på gennemse for at uploade et billede";
-$locale['u187'] = "Slet";
 // Captcha and terms
 $locale['u190'] = "Sikkerhedskode";
 $locale['u191'] = "Indskriv sikkerhedskode";

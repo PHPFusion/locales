@@ -26,7 +26,6 @@ $locale['PL_403'] = "Beskrivelse";
 $locale['PL_404'] = "Valgmuligheder";
 $locale['PL_404a'] = "Slå til";
 $locale['PL_404b'] = "Slå fra";
-$locale['PL_404c'] = "Rediger";
 $locale['PL_404d'] = "Geninstaller";
 
 // Editing Permalinks

@@ -28,9 +28,6 @@ $locale['412'] = "Sikkerhedskopiens filnavn";
 $locale['413'] = "Sikkerhedskopiens dato";
 $locale['414'] = "Databasenavn";
 $locale['415'] = "Tabellernes fornavn";
-$locale['416'] = "Tabeller ";
-$locale['417'] = "Se";
-$locale['418'] = "Fortryd";
 $locale['419'] = "tabeller";
 // Database Restore
 $locale['430'] = "Valgmuligheder for genskabelse";
@@ -42,7 +39,6 @@ $locale['435'] = "Vælg";
 $locale['436'] = "alle";
 $locale['437'] = "ingen";
 $locale['438'] = "Genskab";
-$locale['439'] = "Fortryd";
 $locale['440'] = "Understøttede filtyper";
 // Database Backup
 $locale['450'] = "Sikkerhedskopiering af database";

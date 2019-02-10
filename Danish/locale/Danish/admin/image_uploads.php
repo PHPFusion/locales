@@ -38,7 +38,6 @@ $locale['442'] = "Slet dette billede";
 // Image Management
 $locale['460'] = "Billeder";
 $locale['461'] = "Vis";
-$locale['462'] = "Slet";
 $locale['463'] = "Denne folder er tom. ";
 $locale['464'] = "Opdater billedliste til TinyMCE";
 // Popup Error/Warning Messages
