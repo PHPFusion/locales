@@ -15,7 +15,7 @@ $locale['off'] = "Uit";
 $locale['on'] = "Aan";
 // Navigation
 $locale['next'] = "Volgende";
-$locale['pevious'] = "Vorige";
+$locale['previous'] = "Vorige";
 $locale['back'] = "Terug";
 $locale['forward'] = "Vooruit";
 // Action

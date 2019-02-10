@@ -16,8 +16,9 @@ $locale['009'] = "Afronden";
 
 // Step 1
 $locale['010'] = "Kies a.u.b. de gewenste taal (locale):";
-$locale['011'] = "U kunt meer talen downloaden van de <a href='http://www.php-fusion.co.uk/downloads.php'>php-fusion.co.uk</a> website";
-
+$locale['011'] = "U kunt meer talen downloaden van de <a href='https://www.php-fusion.co.uk/infusions/downloads/downloads.php?cat_id=29' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
+$locale['012'] = "Om PHP-Fusion te kunnen gebruiken dient u akkoord te gaan met de algemene voorwaarden van PHP-Fusion,";
+$locale['013'] = " I heb heb de algemene voorwaarden gelezen van PHP-Fusion en ga hiermee akkoord <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>Terms and Conditions of Use</a>";
 // Step 2
 $locale['020'] = "Om de setup te kunnen vervolgen dienen de volgende bestanden/mappen schrijfbaar te zijn:";
 $locale['021'] = "Test voor schrijfpermissies geslaagd, klik op Volgende om verder te gaan.";

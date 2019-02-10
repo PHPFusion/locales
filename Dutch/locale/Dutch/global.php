@@ -12,8 +12,11 @@ Nederlandstalige support site: http://www.phpfusion-nederlands.info
 setlocale(LC_TIME, "nl_NL"); // Voor Linux Server
 ini_set('default_charset', 'utf-8');
 $locale['charset'] = "utf-8";
+$locale['region'] = "NL";
 $locale['xml_lang'] = "nl";
+$locale['short_lang_name'] = "nl";
 $locale['tinymce'] = "nl";
+$locale['select2'] = "nl";
 $locale['phpmailer'] = "nl";
 $locale['datepicker'] = "nl-nl";
 $locale['datepicker_js'] = "DD-m-YYYY H:mm:ss";
@@ -230,9 +233,9 @@ $locale['UM094'] = "Download inzenden";
 $locale['UM095'] = "Blog inzenden";
 $locale['UM102'] = "FAQ inzenden";
 // User Panel
-$locale['UM095'] = "Welkom: ";
-$locale['UM096'] = "Persoonlijk menu";
-$locale['UM097'] = "Kies taal";
+$locale['UM096'] = "Welkom: ";
+$locale['UM097'] = "Persoonlijk menu";
+$locale['UM101'] = "Kies taal";
 // Gauges
 $locale['UM098'] = "Berichten inbox:";
 $locale['UM099'] = "Berichten outbox:";
@@ -340,6 +343,7 @@ $locale['global_465'] = "TB";
 $locale['global_500'] = "U wordt doorgestuurd naar %s, wacht een moment. Als u niet wordt doorgestuurd, klikt u hier.";
 // Captcha Locales
 $locale['global_600'] = "Validatie Code";
+$locale['global_601'] = "U dient een correcte Validatie code in te vullen";
 $locale['recaptcha'] = "en";
 // Site links
 $locale['global_700'] = "Toon meer";

@@ -59,5 +59,6 @@ $locale['156'] = "Zijn verplaatst vanaf";
 $locale['157'] = "Gebruikers Groepen konden niet worden ge&uuml;dated door een database fout";
 $locale['158'] = "gebruikers Groepen";
 $locale['159'] = "gebruiker niveau kon niet worden ge&uuml;dated door een database fout";
+$locale['160'] = "Nieuw Gebruikers niveau -";
 $locale['161'] = "gebruiker niveaus konden niet worden   ge&uuml;dated omdat ze lager of gelijk warne aan het primaire account";
 $locale['162'] = "Er zijn geen gebruikerd met ID";

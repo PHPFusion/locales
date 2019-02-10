@@ -120,4 +120,10 @@ $locale['287'] = "Verwijder inzending";
 $locale['290'] = "Er is een automatisch opgeslagen item van deze inzending welke recenter is dan onderstaande versie.";
 $locale['291'] = "Bekijk de automatisch opgeslagen";
 $locale['292'] = "Opgeslagen Revisies";
-$locale['293'] = "Kopie naar Autom. opgeslagrn inzending";
+$locale['293'] = "Kopie naar Autom. opgeslagen inzending";
+
+$locale['search_msg_100'] = 'Systeem validatie mislukt';
+$locale['search_msg_101'] = 'Systeem beveiligings test mislukt';
+$locale['search_msg_102'] = 'Pagina&rsquo;s niet geladen';
+$locale['search_msg_103'] = 'Zoek term is te kort';
+$locale['search_msg_104'] = 'Geen zoekresultaten gevonden';

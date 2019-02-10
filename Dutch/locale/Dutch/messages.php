@@ -23,6 +23,7 @@ $locale['419'] = "U heeft geen priv&eacute; berichten";
 $locale['420'] = "Priv&eacute; bericht versturen";
 $locale['421'] = "Naar";
 $locale['422'] = "Bericht";
+$locale['422a'] = "Origineel Bericht";
 $locale['423'] = "BB Code"; 
 $locale['424'] = "Smileys"; 
 $locale['425'] = "Opties";
