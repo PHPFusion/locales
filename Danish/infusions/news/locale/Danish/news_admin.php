@@ -18,7 +18,6 @@
 $locale['news_0000'] = "Aktuelle nyheder";
 $locale['news_0001'] = "Nyheder";
 $locale['news_0002'] = "Tilføj nyhed";
-$locale['news_0003'] = "Rediger nyhed";
 $locale['news_0004'] = "Opsætning";
 $locale['news_0005'] = "Nyhedsindhold";
 $locale['news_0006'] = "Nyheder: Billedgalleri";

@@ -55,6 +55,6 @@ $locale['A9_1007'] = 'Footer kolonne 2';
 $locale['A9_1008'] = 'Footer kolonne 3';
 $locale['A9_1009'] = 'Footer kolonne 4';
 $locale['A9_1010'] = '2 kolonnes layout';
-$locale['A9_1011'] = 'Kolonne side';
+$locale['A9_1011'] = 'Kolonneside';
 $locale['A9_1012'] = 'Venstre';
 $locale['A9_1013'] = 'Højre';

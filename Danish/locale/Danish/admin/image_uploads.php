@@ -15,6 +15,8 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['100'] = "Fusion Fil Manager";
+
 // Delete Image
 $locale['400'] = "Slet billede";
 $locale['401'] = "Billedet er slettet";

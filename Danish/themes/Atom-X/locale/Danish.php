@@ -17,7 +17,7 @@
 +--------------------------------------------------------*/
 $locale['AX9_001'] = 'Hej, ';
 $locale['AX9_002'] = 'Konto';
-$locale['AX9_003'] = 'Hurtig logind';
+$locale['AX9_003'] = 'Hurtig log ind';
 $locale['AX9_004'] = 'Fusioneer ';
 $locale['AX9_005'] = 'Min indbakke';
 $locale['AX9_006'] = 'Du har ingen ulæste beskeder.';
@@ -33,7 +33,7 @@ $locale['AX9_015'] = 'Vis mere information';
 $locale['AX9_016'] = 'Skjul information';
 $locale['AX9_017'] = 'Ingen data tilgængelig';
 $locale['AX9_018'] = 'Seneste aktiviteter';
-$locale['AX9_019'] = 'Du har ikke tilladelse til at se dette. Venligst <a href="'.BASEDIR.'register.php">registrer dig</a> eller <a href="'.BASEDIR.'login.php">logind</a> for at se brugerens seneste aktiviteter.';
+$locale['AX9_019'] = 'Du har ikke tilladelse til at se dette. Venligst <a href="'.BASEDIR.'register.php">registrer dig</a> eller <a href="'.BASEDIR.'login.php">log ind</a> for at se brugerens seneste aktiviteter.';
 $locale['AX9_020'] = '[USER] har ingen aktiviteter endnu.';
 $locale['AX9_021'] = 'I går';
 $locale['AX9_022'] = 'En uge siden';
@@ -55,7 +55,7 @@ $locale['AX9_037'] = 'I dag:';
 $locale['AX9_038'] = 'Seneste 7 dage:';
 $locale['AX9_039'] = 'Seneste 30 dage:';
 $locale['AX9_040'] = 'registrering|registreringer';
-$locale['AX9_041'] = 'I dag Besøgte / I alt Medlemmer';
+$locale['AX9_041'] = 'I dag besøgte / I alt medlemmer';
 $locale['AX9_042'] = 'Fødselsdage';
 $locale['AX9_043'] = 'Ingen fødselsdage i dag';
 $locale['AX9_044'] = 'Det er [MEMBERS] fødselsdag i dag: ';

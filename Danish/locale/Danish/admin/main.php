@@ -84,6 +84,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Tema";
 $locale['S13'] = "Blogopsætning";
 $locale['LANG'] = "Sprogopsætning";
+$locale['FM'] = "Fusion Fil Manager";
 
 // Site Information
 $locale['250'] = "Hovedpanel <small>Sideoversigt</small>";

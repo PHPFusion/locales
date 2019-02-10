@@ -207,6 +207,7 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Tema";
 $locale['setup_3057'] = "Opgraderingsværktøj";
 $locale['setup_3058'] = "Temaopsætning";
+$locale['setup_3059'] = "Fusion Fil Manager";
 //Multilanguage table rights
 $locale['setup_3200'] = "Artikler";
 $locale['setup_3201'] = "Brugeroprettede sider";

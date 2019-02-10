@@ -17,7 +17,6 @@
 +--------------------------------------------------------*/
 $locale['news_0001'] = "Se mere";
 $locale['news_0002'] = "Udskriv";
-$locale['news_0003'] = "Rediger";
 $locale['news_0004'] = "Nyheder";
 $locale['news_0005'] = "Der er ikke blevet offentliggjort nyheder endnu.";
 $locale['news_0006'] = "Udenfor kategori";

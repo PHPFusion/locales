@@ -25,6 +25,7 @@ $locale['short_lang_name'] = "da";
 $locale['tinymce'] = "da";
 $locale['select2'] = "da";
 $locale['phpmailer'] = "da";
+$locale['filemanager'] = "da_DK";
 $locale['datepicker'] = "da";
 $locale['datepicker_js'] = "DD-M-YYYY, H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y, H:i:s";
