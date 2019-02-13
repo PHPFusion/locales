@@ -144,7 +144,7 @@ return array(
     'wrong option' => "Forkert option",
     'wrong data' => "Forkert data",
     'wrong action' => "Forkert action",
-    'wrong sub-action' => "Forkert sub-actio",
+    'wrong sub-action' => "Forkert sub-action",
     'no action passed' => "Ingen action sket",
     'no path' => "Ingen sti",
     'no file' => "Ingen fil",
