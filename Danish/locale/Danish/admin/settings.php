@@ -78,8 +78,8 @@ $locale['443b'] = "Udeluk elementer for bruger 2 ";
 $locale['443c'] = "Udeluk elementer for bruger 3 ";
 $locale['443d'] = "Udeluk elementer for bruger 4 ";
 $locale['444'] = "Domæne servere";
-$locale['444a'] = "Konfiguration af flere domæner på et enkelt site.<br/><br/>Adskil og tilføj et domæne i hver sin række.";
-$locale['444b'] = "Registrerede domænenavne";
+$locale['444a'] = "Konfiguration af flere domæner på et enkelt site.<br/><br/>Adskil og tilføj et domæne i hver sin linje med (\"enter\").";
+$locale['444b'] = "Registrerede domænenavne<br/><i>Du skal indsætte det nuværende domæne (læst under webhost) når du aktiverer denne feature</i>.";
 $locale['445'] = "Ugyldig (test formål)";
 
 // Time & Date Settings
