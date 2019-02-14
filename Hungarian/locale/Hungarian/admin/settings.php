@@ -62,8 +62,8 @@ $locale['443b'] = "2 Felhasználói Panel Elrejtése";
 $locale['443c'] = "3 Felhasználói Panel Elrejtése";
 $locale['443d'] = "4 Felhasználói Panel Elrejtése";
 $locale['444'] = "Domain szerverek";
-$locale['444a'] = "Egyetlen webhely több tartományának konfigurálása.<br />Adja meg soronként a tartományokat.";
-$locale['444b'] = "Regisztrált Domain Nevek";
+$locale['444a'] = "Egyetlen webhely több tartományának konfigurálása.<br />Adja meg soronként a tartományokat. (\"enter\")";
+$locale['444b'] = "Regisztrált Domain Nevek <br /> <i>Ha engedélyezi ezt a funkciót, akkor meg kell adni az aktuális tartományt a Webhely-gazdagép alatt</i>.";
 $locale['445'] = "Érvénytelen (Teszt Célra)";
 
 // Time & Date Settings
