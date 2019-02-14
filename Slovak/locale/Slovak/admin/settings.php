@@ -78,8 +78,8 @@ $locale['443b'] = "Vypnúť užívateľ 2 panely";
 $locale['443c'] = "Vypnúť užívateľ 3 panely";
 $locale['443d'] = "Vypnúť užívateľ 4 panely";
 $locale['444'] = "Doménové servery";
-$locale['444a'] = "Konfigurácia pre viaceré domény na jednej stránke.<br/><br/>Oddeľte a zadajte jednu doménu v každom riadku.";
-$locale['444b'] = "Registrované doménové mená";
+$locale['444a'] = "Konfigurácia viacerých domén na jednom webe.<br/><br/>Zadajte každú doménu na jeden riadok (\"stalč enter\")";
+$locale['444b'] = "Registrované doménové mená<br/><i>Musíte pridať aj aktuálnu doménu (Hostiteľ stránky) pre zapnutie tejto funkcie</i>.";
 $locale['445'] = "Neplatné (testovacie účely)";
 
 // Time & Date Settings
