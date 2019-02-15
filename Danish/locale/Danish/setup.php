@@ -309,17 +309,6 @@ $locale['setup_3660'] = "Hjemmeside information";
 $locale['setup_3661'] = "Diskussioner vedrørende styringen af denne hjemmeside";
 
 // Stage 6 - User Fields
-require_once INCLUDES.'user_fields/public/user_aim/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_icq/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_location/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_sig/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_skype/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_web/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_yahoo/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_timezone/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/public/user_timezone/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/preference/user_birthdate/locale/'.LANGUAGE.'.php';
-require_once INCLUDES.'user_fields/preference/user_theme/locale/'.LANGUAGE.'.php';
 require_once __DIR__."/user_fields/user_aim.php";
 require_once __DIR__."/user_fields/user_birthdate.php";
 require_once __DIR__."/user_fields/user_icq.php";
