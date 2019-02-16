@@ -287,16 +287,16 @@ $locale['setup_3606'] = "Diskutující";
 $locale['setup_3607'] = "Stařešina";
 $locale['setup_3608'] = "Fusionista";
 // Stage 6 - Sample Smileys
-$locale['setup_3620'] = "Usměj se";
-$locale['setup_3621'] = "Mrkat";
+$locale['setup_3620'] = "Usmívající se";
+$locale['setup_3621'] = "Mrkající";
 $locale['setup_3622'] = "Smutný";
-$locale['setup_3623'] = "Mračit";
-$locale['setup_3624'] = "Šokovat";
+$locale['setup_3623'] = "Zamračený";
+$locale['setup_3624'] = "Šokován";
 $locale['setup_3625'] = "Pfft";
-$locale['setup_3626'] = "Chladný";
-$locale['setup_3627'] = "Úsměv";
+$locale['setup_3626'] = "Cool";
+$locale['setup_3627'] = "Šklebící se";
 $locale['setup_3628'] = "Rozzlobený";
-$locale['setup_3629'] = "Like";
+$locale['setup_3629'] = "Líbí se mi to";
 // Stage 6 - User Field Categories
 $locale['setup_3640'] = "Profil";
 $locale['setup_3641'] = "Kontaktní informace";

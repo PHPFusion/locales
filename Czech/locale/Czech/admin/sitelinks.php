@@ -71,8 +71,8 @@ $locale['SL_0063'] = "Použít BB kódy v názvu odkazu?";
 $locale['SL_0070'] = "Ikona";
 $locale['SL_0071'] = "Nové okno?";
 $locale['SL_0072'] = "Menu";
-$locale['SL_0073'] = "Hýbat";
-$locale['SL_0074'] = "Hýbat";
+$locale['SL_0073'] = "Změna pořadí";
+$locale['SL_0074'] = "Přesunout";
 $locale['SL_0075'] = "Zobrazit možnosti";
 
 // Delete Site Link category

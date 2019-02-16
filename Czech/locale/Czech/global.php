@@ -275,7 +275,7 @@ $locale['global_180'] = "Administrace";
 $locale['global_181'] = "Zpět na stránku";
 $locale['global_182'] = "Heslo správce nebylo zadáno nebo je nesprávné.";
 // Miscellaneous
-$locale['global_190'] = "Režim údržby byl aktivován";
+$locale['global_190'] = "Režim údržby je aktivován";
 $locale['global_191'] = "Vaše IP adresa je v současné době na černé listině.";
 $locale['global_192'] = "Platnost vaší přihlašovací relace vypršela. Chcete-li pokračovat, přihlaste se znovu.";
 $locale['global_193'] = "Nelze nastavit soubor cookie. Ujistěte se, že máte povoleny soubory cookie, abyste mohli správně přihlásit.";
