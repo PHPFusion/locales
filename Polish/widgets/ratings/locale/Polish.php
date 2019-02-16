@@ -15,7 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
-$locale['RTW_0100'] = "Ratings Widget";
-$locale['RTW_0101'] = "Core Ratings Plugin";
-$locale['RTW_0102'] = "Ratings Created";
-$locale['RTW_0104'] = "Unable to create Ratings";
+$locale['RTW_0100'] = "Oceny Widżetów";
+$locale['RTW_0101'] = "Rdzeń Oceny Pluginów";
+$locale['RTW_0102'] = "Oceny Stworzono";
+$locale['RTW_0104'] = "Nie Można Stworzyć Ocen";
