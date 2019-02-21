@@ -27,7 +27,7 @@ $locale['ax8_24'] = 'Три недели назад';
 $locale['ax8_25'] = 'Месяц назад';
 $locale['ax8_26'] = " :: Последняя активность";
 $locale['ax8_27'] = 'пока не проявлял активности.';
-$locale['ax8_28'] = 'You do not have permissions to view this. Please register or <a href=\'".BASEDIR."login.php\'>login</a> to view user\'s latest activities.';
+$locale['ax8_28'] = 'У вас нет прав для просмотра данной страницы. Пожалуйста, зарегистрируйтесь или <a href=\'".BASEDIR."login.php\'>войдите</a> для просмотра последней активности пользователей.';
 $locale['ax8_29'] = " :: Страница профиля";
 $locale['ax8_30'] = 'Интересные ссылки';
 $locale['ax8_31'] = 'Личные сообщения';

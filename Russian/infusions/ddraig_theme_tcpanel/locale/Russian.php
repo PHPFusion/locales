@@ -2,8 +2,8 @@
 $locale['tcp_title'] = "Панель управления темой Ddraig ";
 
 $locale['sets_up'] = "Все настройки <b>успешно обновлены</b>";
-$locale['invalid'] = "<b>Ошибка:</b> input value is not a valid number or the field was left empty!";
-$locale['maxwidth_low'] = "<b>Ошибка:</b> input on Max Width should be higher or the same as Min Width ";
+$locale['invalid'] = "<b>Ошибка:</b> заданное значение не является допустимым или поле оставлено пустым!";
+$locale['maxwidth_low'] = "<b>Ошибка:</b> Максимальная ширина должна быть больше или равна Минимальной ширине ";
 
 $locale['g_sets'] = "Общие настройки";
 
