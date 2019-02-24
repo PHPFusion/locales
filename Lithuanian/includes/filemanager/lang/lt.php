@@ -105,7 +105,7 @@ return array(
     'File_Permission_Recursive' => 'Taikyti rekursyviai?',
     'File_Permission_Wrong_Mode' => "Nurodytas leidimų modelis negalimas.",
     'User' => 'Vartotojas',
-    'Group' => 'Grup4',
+    'Group' => 'Grupė',
     'Yes' => 'Taip',
     'No' => 'Ne',
     'Lang_Not_Found' => 'Nepavyko rasti kalbos.',
