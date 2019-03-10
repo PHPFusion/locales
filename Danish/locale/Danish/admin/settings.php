@@ -341,7 +341,3 @@ $locale['security_007'] = "Alle system sessioner er nu blevet ryddet";
 $locale['security_008'] = "Formular tokens";
 $locale['security_009'] = "Antal af udstedte tokens til hver formular";
 $locale['security_010'] = "Fusion GateWay";
-$locale['security_011'] = "Fejllogning";
-$locale['security_012'] = "Fejllogning metode";
-$locale['security_013'] = "Fil";
-$locale['security_014'] = "Database";
