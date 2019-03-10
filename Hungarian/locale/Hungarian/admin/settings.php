@@ -320,3 +320,7 @@ $locale['security_007'] = "Az összes rendszeres munkamenet sikeresen törölve 
 $locale['security_008'] = "Űrlap Token";
 $locale['security_009'] = "Űrlap Tokenek Száma";
 $locale['security_010'] = "Fusion Regisztráció Védelem";
+$locale['security_011'] = "Hiba naplózása";
+$locale['security_012'] = "Hiba naplózási módszer";
+$locale['security_013'] = "Fájl";
+$locale['security_014'] = "Adatbázis";
