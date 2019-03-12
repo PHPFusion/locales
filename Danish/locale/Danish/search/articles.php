@@ -21,4 +21,3 @@ $locale['a402'] = "Artikler";
 $locale['a403'] = "fundet i";
 $locale['a404'] = "artikeloverskrift";
 $locale['a405'] = "artikeltekst";
-?>

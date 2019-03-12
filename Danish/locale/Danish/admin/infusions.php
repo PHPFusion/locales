@@ -39,4 +39,3 @@ $locale['419'] = "Valgmuligheder";
 $locale['420'] = "Version";
 $locale['421'] = "Skribent";
 $locale['422'] = "Download flere Addons";
-?>

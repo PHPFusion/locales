@@ -107,4 +107,3 @@ Hvis du ikke længere ønsker at følge med i denne debat, kan du klikke på lin
 
 Venlig hilsen
 ".$settings['siteusername'].".";
-?>

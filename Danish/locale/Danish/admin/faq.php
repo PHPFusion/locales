@@ -54,4 +54,3 @@ $locale['547'] = "Skal denne FAQ slettes?";
 $locale['460'] = "Angiv venligst et kategorinavn.";
 $locale['461'] = "Denne kategori eksisterer allerede.";
 $locale['462'] = "Der skal angives et spørgsmål og et svar.";
-?>

@@ -31,4 +31,3 @@ $locale['E_ALL'] = "Viser alle fejlmeddelelsen med undtagelse af E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
 $locale['err_101'] = "<strong>ADVARSEL:</strong> Der opstod en fejl i forbindelse med skrivningen af siden. Se i PHP-Fusions <a href='[ERROR_LOG_URL]'>error log</a> for yderligere detaljer.";
-?>

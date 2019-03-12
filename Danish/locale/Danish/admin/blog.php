@@ -57,4 +57,3 @@ $locale['452'] = "%s er deaktiveret for alle emner.<br />Denne indstilling vil k
 $locale['453'] = "Kommentarer";
 $locale['454'] = "Bedømmelser";
 $locale['455'] = $locale['453']." and ".$locale['454'];
-?>

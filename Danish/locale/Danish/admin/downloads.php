@@ -74,4 +74,3 @@ $locale['461'] = "%s er nu slået fra for alle.<br />Dette valg vil først være
 $locale['462'] = "Kommentarer";
 $locale['463'] = "Vurdering";
 $locale['464'] = $locale['462']." and ".$locale['463'];
-?>

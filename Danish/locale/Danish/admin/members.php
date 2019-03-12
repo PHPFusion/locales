@@ -161,4 +161,3 @@ $locale['618'] = "Det anbefales stærkt at ændre den handling, som udløses af 
 $locale['619'] = "Det kan du gøre det samme <a href='".ADMIN."settings_users.php".$aidlink."'>HER</a>.";
 $locale['620'] = "anonymiser";
 $locale['621'] = "Automatisk deaktivering af inaktive brugere.";
-?>

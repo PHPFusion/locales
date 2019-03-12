@@ -161,4 +161,3 @@ $locale['error-MP000'] = "Fejl i forbindelse med flytningen";
 $locale['error-MP001'] = "Den nye debat eksisterer ikke.";
 $locale['error-MP002'] = "Indlæg som du har anmodet om at få flyttet eksisterer ikke eller også har en anden flyttet dem.";
 $locale['error-MP003'] = "Ingen indlæg at flytte.";
-?>

@@ -61,4 +61,3 @@ $locale['461'] = "Krævet information";
 $locale['480'] = "Genskab fra sikkerhedskopi";
 $locale['481'] = "Filnavn:";
 $locale['481b'] = "Indtast venligst et filnavn";
-?>

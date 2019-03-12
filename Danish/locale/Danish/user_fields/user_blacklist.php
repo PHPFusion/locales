@@ -27,5 +27,3 @@ $locale['uf_blacklist_003'] = "Der er ingen udelukkede brugere.";
 $locale['uf_blacklist_004'] = "Bruger %s er nu fjernet fra din udelukkelsesliste.";
 $locale['uf_blacklist_005'] = "Bruger blev ikke udelukket.";
 $locale['uf_blacklist_006'] = "Ingen bruger fundet.";
-
-?>

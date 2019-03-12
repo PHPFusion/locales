@@ -22,4 +22,3 @@ $locale['n403'] = "fundet i";
 $locale['n404'] = "Blogemne";
 $locale['n405'] = "Blogtekst";
 $locale['n406'] = "udvidet blogtekst";
-?>

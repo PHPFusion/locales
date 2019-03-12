@@ -34,4 +34,3 @@ $locale['html415'] = "Sort";
 $locale['html416'] = "Grå";
 $locale['html417'] = "Sølv";
 $locale['html418'] = "Hvid";
-?>

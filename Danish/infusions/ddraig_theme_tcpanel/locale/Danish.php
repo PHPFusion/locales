@@ -40,4 +40,3 @@ $locale['save_sets'] 	= "Gem indstillinger";
 
 $locale['enabled']		= "Aktiveret";
 $locale['disabled']		= "Deaktiveret";
-?>

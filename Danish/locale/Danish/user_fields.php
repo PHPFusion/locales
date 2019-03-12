@@ -168,5 +168,3 @@ Bemærk: Du skal være logget på for at fortsætte.\n
 Venlig hilsen
 ".$settings['siteusername']."
 ".$settings['sitename'];
-
-?>

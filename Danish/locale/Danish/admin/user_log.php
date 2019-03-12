@@ -35,4 +35,3 @@ $locale['116'] = "Slet";
 $locale['117'] = "Valgmuligheder";
 $locale['118'] = "Alle data ældre end %d dage er slettet.";
 $locale['119'] = "Post i brugerlog er slettet";
-?>

@@ -53,4 +53,3 @@ Din brugerkonto på ".$settings['sitename']." er blevet suspenderet af ".$userda
 [REASON].\n
 Hvis du vil vide mere om denne suspension, så vær så venlig at kontakte os via denne mailadresse: ".$settings['siteemail'].".\n
 ".$settings['siteusername'];
-?>

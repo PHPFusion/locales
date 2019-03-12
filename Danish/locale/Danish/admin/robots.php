@@ -29,4 +29,3 @@ $locale['420'] = "Rediger filen robots.txt";
 $locale['421'] = "Du kan finde mere information om robots.txt her.";
 $locale['422'] = "Gem";
 $locale['423'] = "Sæt tilbage til standard";
-?>

@@ -96,4 +96,3 @@ $locale['520'] = "%s er slået fra for alle billeder.<br/>Denne valgmulighed vil
 $locale['521'] = "Kommentar";
 $locale['522'] = "Vurdering";
 $locale['523'] = $locale['521']." and ".$locale['522'];
-?>

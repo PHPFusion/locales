@@ -57,4 +57,3 @@ $locale['452'] = "%s er nu slået fra for alle nyheder.<br />Denne valgmulighed 
 $locale['453'] = "Kommentarer";
 $locale['454'] = "Vurdering";
 $locale['455'] = $locale['453']." and ".$locale['454'];
-?>

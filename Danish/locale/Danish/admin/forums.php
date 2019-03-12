@@ -96,4 +96,3 @@ $locale['609'] = "Antal slettede indlæg: ";
 $locale['610'] = "Antal slettede filtilføjelser: ";
 $locale['611'] = "Antal emner slettet: ";
 $locale['612'] = "Vælger du at rydde op i debatten, så vil indlæg, emner og tilknyttede filer være væk. Er du sikker på, at du vil rydde op i debatten?";
-?>

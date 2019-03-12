@@ -45,5 +45,3 @@ $locale['436'] = "Der er endnu ikke oprettet nogen smileys.";
 $locale['437'] = "Venligst indtast en smileykode";
 $locale['438'] = "Venligst vælg en smiley";
 $locale['439'] = "Venligst indtast en smileytekst";
-
-?>

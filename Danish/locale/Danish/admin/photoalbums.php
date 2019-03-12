@@ -60,4 +60,3 @@ $locale['470'] = "Genopfrisk alle data";
 $locale['471'] = "Der er endnu ikke oprettet albums.";
 // Delete Album
 $locale['500'] = "Skal dette album slettes?";
-?>

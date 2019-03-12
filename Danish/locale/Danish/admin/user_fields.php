@@ -54,4 +54,3 @@ $locale['452'] = "Brugervalg";
 $locale['453'] = "Statistik";
 
 $locale['480'] = "Brugeroprettelse";
-?>

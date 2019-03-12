@@ -48,4 +48,3 @@ $locale['450'] = "Skal denne artikelkategori slettes?";
 // Error Messages
 $locale['460'] = "Der skal angives et navn på kategorien.";
 $locale['461'] = "Denne kategori eksisterer allerede.";
-?>

@@ -61,4 +61,3 @@ $locale['460'] = "Søg efter downloads:";
 $locale['461'] = "Søg";
 $locale['462'] = "Kategori:";
 $locale['463'] = "Sorter efter:";
-?>

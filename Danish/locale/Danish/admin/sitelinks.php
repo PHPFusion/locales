@@ -54,4 +54,3 @@ $locale['460'] = "Skal dette interne link slettes?";
 // Error
 $locale['461'] = "Venligst indtast linknavn";
 $locale['462'] = "Venligst indtast link URL";
-?>

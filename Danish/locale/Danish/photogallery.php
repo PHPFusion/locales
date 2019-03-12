@@ -49,4 +49,3 @@ $locale['457'] = "Antal visninger: ";
 $locale['458'] = "Klik her for at lukke";
 $locale['459'] = "Første billede";
 $locale['460'] = "Sidste billede";
-?>

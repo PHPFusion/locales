@@ -26,4 +26,3 @@ $locale['c107'] = " Slå smileys fra i denne kommentar";
 $locale['c108'] = "Rediger";
 $locale['c109'] = "Slet";
 $locale['c110'] = "Slet denne kommentar";
-?>

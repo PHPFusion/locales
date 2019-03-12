@@ -56,5 +56,3 @@ $locale['434'] = "Normaliser";
 $locale['435'] = "Skift for at strippe URLs for alle special tegn";
 $locale['436'] = "Debug SEO";
 $locale['437'] = "Skift for at starte SEO Engine Debugger";
-
-?>

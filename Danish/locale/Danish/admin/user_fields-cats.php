@@ -55,4 +55,3 @@ $locale['450'] = "Skal denne kategori slettes?";
 // Error message
 $locale['450a'] = 'Indtast venligst et kategorinavn.';
 $locale['450b'] = 'Hvis du anvender en anden database end default brugertabellen, så udfyld venligst både databasetabelnavn og dets UserId-kolonne.';
-?>

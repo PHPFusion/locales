@@ -49,4 +49,3 @@ $locale['462'] = "Forfatter";
 $locale['463'] = "Offentliggjort";
 $locale['464'] = "Der er ikke fundet noget - prøv igen.";
 $locale['465'] = "Du skal angive mindst et søgeudtryk.";
-?>

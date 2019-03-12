@@ -53,4 +53,3 @@ $locale['438'] = "Type / Antal";
 // Forum Ranks Disabled
 $locale['450'] = "Rangsystemet er aktuelt slået fra.<br />Gå til elementet %s for at slå det til.";
 $locale['451'] = "Debatopsætning";
-?>

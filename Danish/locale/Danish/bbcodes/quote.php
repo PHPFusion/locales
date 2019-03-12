@@ -21,4 +21,3 @@ $locale['bb_quote_expand'] = "Se hele teksten";
 $locale['bb_quote_collapse'] = "Skjul hele teksten";
 $locale['bb_quote'] = "Citer";
 $locale['bb_wrote'] = "skrev";
-?>

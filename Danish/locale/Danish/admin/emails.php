@@ -66,4 +66,3 @@ $locale['470'] = "Emne skal udfyldes!";
 $locale['471'] = "Besked skal udfyldes!";
 $locale['472'] = "Afsendernavn skal udfyldes!";
 $locale['473'] = "Afsender mailadresse skal udfyldes!";
-?>

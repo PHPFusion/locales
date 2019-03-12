@@ -42,5 +42,3 @@ $locale['438'] = "Gem afstemning";
 $locale['439'] = "Udefineret";
 $locale['439a'] = "Indtast venligst en afstemningstitel";
 $locale['439b'] = "Du skal mindst oprette 1 afstemningsvalg";
-
-?>

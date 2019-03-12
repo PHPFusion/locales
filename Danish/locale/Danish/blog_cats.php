@@ -23,4 +23,3 @@ $locale['blog_404'] = "Der er ingen blogemner i denne kategori.";
 $locale['blog_405'] = "Mere";
 $locale['blog_406'] = "Vis alle kategorier";
 $locale['blog_407'] = "Ingen blogkategorier oprettet";
-?>

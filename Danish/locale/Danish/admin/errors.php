@@ -39,4 +39,3 @@ $locale['450'] = "Ny";
 $locale['451'] = "Løst";
 $locale['452'] = "Ignoreret";
 $locale['453'] = "Anvend";
-?>

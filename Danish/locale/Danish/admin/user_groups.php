@@ -56,4 +56,3 @@ $locale['462'] = "Fjern alle brugere";
 $locale['463'] = "Der er ingen brugere i denne gruppe.";
 // Error Messages
 $locale['464'] = "Venligst indtast et gruppenavn";
-?>

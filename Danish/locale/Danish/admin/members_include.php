@@ -51,4 +51,3 @@ $locale['susp112'] = "IP: ";
 $locale['susp113'] = "Fjernet";
 $locale['susp114'] = "Udelukkelseslog";
 $locale['susp115'] = "Brugere";
-?>

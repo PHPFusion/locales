@@ -50,4 +50,3 @@ $locale['456'] = "%s er slået fra for alle tekster.<br />Denne funktion vil fø
 $locale['457'] = "Kommentarer";
 $locale['458'] = "Vurdering";
 $locale['459'] = $locale['457']." and ".$locale['458'];
-?>

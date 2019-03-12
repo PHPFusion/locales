@@ -38,4 +38,3 @@ $locale['tcp_warning']				= "<div class=\'admin-message tcp-warn\'>\n
 $locale['sticky']					= "Fastgjort";
 $locale['locked']					= "Låst";
 $locale['deleted_user']				= "Slettet bruger";
-?>

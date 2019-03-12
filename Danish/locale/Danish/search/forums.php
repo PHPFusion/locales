@@ -24,4 +24,3 @@ $locale['f405'] = "Bekendtgørelse:";
 $locale['f406'] = "fundet i";
 $locale['f407'] = "indlæggets emne";
 $locale['f408'] = "indlæggets tekst";
-?>

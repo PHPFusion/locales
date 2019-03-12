@@ -21,4 +21,3 @@ $locale['402'] = "NY";
 $locale['403'] = "Der er endnu ikke tilføjet artikler til denne kategori";
 $locale['404'] = "Hovedside for artikler";
 $locale['405'] = "Artikelhierarki";
-?>

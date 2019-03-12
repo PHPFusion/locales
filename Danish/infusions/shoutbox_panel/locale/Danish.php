@@ -59,4 +59,3 @@ $locale['SB_yes'] = "Ja";
 $locale['SB_no'] = "Nej";
 $locale['SB_submit'] = "Gem";
 $locale['SB_update_ok'] = "Indstillinger opdateret";
-?>

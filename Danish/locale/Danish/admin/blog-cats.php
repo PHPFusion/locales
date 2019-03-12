@@ -38,4 +38,3 @@ $locale['450'] = "Slet denne blogkategori?";
 // Error Messages
 $locale['460'] = "Venligst indtast et kategorinavn.";
 $locale['461'] = "Denne kategori findes allerede.";
-?>

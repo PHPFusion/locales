@@ -30,4 +30,3 @@ $locale['431'] = "Slet";
 $locale['432'] = "Brugers IP:";
 $locale['433'] = "Skal denne kommentar slettes?";
 $locale['434'] = "Ingen kommentarer her.";
-?>

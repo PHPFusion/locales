@@ -25,4 +25,3 @@ $locale['406'] = "Ikke medlemmer af nogen grupper";
 $locale['407'] = "Adgang til alle grupper";
 $locale['408'] = "Søg efter bruger:";
 $locale['409'] = "Søg";
-?>
