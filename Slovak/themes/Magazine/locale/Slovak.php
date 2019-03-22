@@ -26,4 +26,3 @@ $locale['MG_201'] = 'Nastavenia témy boli aktualizované.';
 $locale['MG_202'] = 'GitHub URL';
 $locale['MG_203'] = 'Facebook URL';
 $locale['MG_204'] = 'Twitter URL';
-$locale['MG_205'] = 'Google Plus URL';
