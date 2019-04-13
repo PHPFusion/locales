@@ -17,6 +17,7 @@
 +--------------------------------------------------------*/
 // Infusion Management
 $locale['400'] = "Infusioner";
+$locale['400a'] = "Infusion";
 $locale['401'] = "Installer";
 $locale['402'] = "Denne infusion er aktuelt installeret";
 $locale['403'] = "Denne funktion kan ikke installeres som en infusion";
@@ -38,6 +39,7 @@ $locale['418'] = "Status";
 $locale['419'] = "Valgmuligheder";
 $locale['420'] = "Version";
 $locale['421'] = "Udgiver";
-$locale['422'] = "Download flere udvidelser";
+$locale['422'] = "Infusioner gør dig i stand til at udvide din hjemmesides basale features og tilføje mere funktionalitet. Du kan finde flere infusioner i  [LINK]PHP-Fusion Marketplace[/LINK]";
 $locale['423'] = "%s infusionen er blevet installeret";
 $locale['424'] = "%s infusionen er blevet afinstalleret";
+$locale['425'] = "Beskrivelse";
