@@ -245,6 +245,7 @@ $locale['UM102'] = "Foreslå FAQ";
 // User Panel
 $locale['UM096'] = "Velkommen: ";
 $locale['UM097'] = "Privat menu";
+$locale['UM101'] = "Skift sprog";
 // Gauges
 $locale['UM098'] = "Indbakke";
 $locale['UM099'] = "Udbakke";
