@@ -250,7 +250,6 @@ $locale['UM101'] = "Skift sprog";
 $locale['UM098'] = "Indbakke";
 $locale['UM099'] = "Udbakke";
 $locale['UM100'] = "Arkiv";
-$locale['UM103'] = "Kontoindstillinger";
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
