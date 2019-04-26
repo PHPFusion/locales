@@ -18,7 +18,7 @@ Vertė:
 
 // Locale Settings
 setlocale(LC_TIME, "lt","LT"); // Linux Server (Windows may differ)
-$locale['charset'] = "utf8";
+$locale['charset'] = "utf-8";
 
 $locale['xml_lang'] = "lt";
 $locale['tinymce'] = "lt";

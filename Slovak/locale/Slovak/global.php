@@ -10,7 +10,7 @@
  * @package locale/Slovak
  */
 
-setlocale(LC_ALL, "sk_SK.utf8", "sk-SK", "slovak");
+setlocale(LC_ALL, "sk_SK.UTF-8", "sk-SK", "slovak");
 $locale['charset'] = "utf-8";
 $locale['region'] = "SK";
 $locale['xml_lang'] = "sk";
