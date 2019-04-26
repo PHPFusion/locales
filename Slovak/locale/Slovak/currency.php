@@ -16,7 +16,7 @@
 | written permission from the original author(s).
 +--------------------------------------------------------*/
 $locale['currency'] = [
-    "AED" => "Emerati Dirham",
+    "AED" => "Emirati Dirham",
     "AFN" => "Afghanistan Afghani",
     "ALL" => "Albanian Lek",
     "AMD" => "Armenian Dram",

@@ -9,7 +9,7 @@ Web: http://www.phpfusion.ro/
 */
 
 // Locale Settings
-setlocale(LC_TIME, "ro_RO.utf8"); // Linux Server (Windows may differ)
+setlocale(LC_TIME, "ro_RO.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "RO";
 $locale['xml_lang'] = "ro";

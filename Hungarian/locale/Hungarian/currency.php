@@ -1,6 +1,6 @@
 <?php
 $locale['currency'] = array(
-    "AED" => "Emerati Dirham",
+    "AED" => "Emirati Dirham",
 	"AFN" => "Afganisztán Afghani",
 	"ALL" => "Albán Lek",
 	"AMD" => "Örmény Dram",

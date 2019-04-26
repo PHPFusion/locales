@@ -1,6 +1,6 @@
 <?php
 // Locale Settings
-setlocale(LC_TIME, "it_IT.UTF-8", "it_IT.UTF8", "it_IT.utf-8", "it_IT.utf8", "it_IT", "it", "IT");
+setlocale(LC_TIME, "it_IT.UTF-8", "it_IT", "it", "IT");
 $locale['charset'] = "utf-8";
 $locale['region'] = "IT";
 $locale['xml_lang'] = "it";

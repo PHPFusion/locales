@@ -24,7 +24,7 @@
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
  * @locale filemanager       refer to path includes/filemanager/lang/{value}.php
  */
-setlocale(LC_ALL, "cs_CZ.utf8", "cs_CZ", "czech");
+setlocale(LC_ALL, "cs_CZ.UTF-8", "cs_CZ", "czech");
 $locale['charset'] = "utf-8";
 $locale['region'] = "CZ";
 $locale['xml_lang'] = "cs";

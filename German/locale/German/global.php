@@ -2,12 +2,12 @@
 
 /*
 +--------------------------------------------------+
-| Deutsche Übersetzung für PHP-Fusion 9.3 Edition  |
+| Deutsche Übersetzung für PHP-Fusion 9.03 Edition  |
 +--------------------------------------------------+
 by Dahliban              |
 */
 
-setlocale(LC_TIME, "de_DE.utf8"); // Linux Server (Windows may differ)
+setlocale(LC_TIME, "de_DE.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "DE";
 $locale['xml_lang'] = "de";
