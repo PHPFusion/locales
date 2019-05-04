@@ -25,6 +25,6 @@ Pokud se nemůžete přihlásit, obraťte se na správce webu na adrese [SITEEMA
 // Send confirmation mail
 $locale['504'] = "Účet byl znovu aktivován na [SITENAME]";
 $locale['505'] = "Ahoj [USER_NAME],
-<br>Váš účet na [SITENAME] Byla znovu aktivována. Doufáme, že vás na stránkách častěji vidíme.<br/><br/>
-S pozdravem,<br/>[SITEUSERNAME]";
+<br/>\r\nVáš účet na [SITENAME] Byla znovu aktivována. Doufáme, že vás na stránkách častěji vidíme.<br/><br/>\r\n
+S pozdravem,<br/>\r\n[SITEUSERNAME]";
 $locale['506'] = "Reaktivováno uživatelem.";

@@ -25,6 +25,6 @@ Ak sa nemôžete prihlásiť, kontaktujte hlavného administrátora cez [SITEEMA
 // Send confirmation mail
 $locale['504'] = "Účet reaktivovaný na [SITENAME]";
 $locale['505'] = "Ahoj [USER_NAME],
-<br>YVáš účet na [SITENAME] bol reaktivovaný. Dúfame, že nás budete navštevovať častejšie.<br/><br/>
-A pozdravom,<br/>[SITEUSERNAME]";
+<br/>\r\nYVáš účet na [SITENAME] bol reaktivovaný. Dúfame, že nás budete navštevovať častejšie.<br/><br/>\r\n
+A pozdravom,<br/>\r\n[SITEUSERNAME]";
 $locale['506'] = "Reaktivovaný používateľom.";

@@ -320,28 +320,28 @@ $locale['global_412'] = "Tento účet bol anonymizovaný, pravdepodobne kvôli n
 // Flood control
 $locale['global_440'] = "Automatický BAN od kontroly pretečenia";
 $locale['global_441'] = "Váš účet na [SITENAME] bol zabanovaný";
-$locale['global_442'] = "Ahoj [USER_NAME],<br/>
-Váš účet na [SITENAME] bol pre priveľa príspevkov v krátkom čase z IP [USER_IP], pozastavený. Jedná sa o prevenciu pred SPAM-botmi s množstvom príspevkov.<br/>
-Prosím kontaktujte hlavného administrátora cez [SITE_EMAIL] na obnovenie účtu, ak sa nejedná o porušenie bezpečnosti.<br/>
-S pozdravom,<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Ahoj [USER_NAME],<br/>\r\n
+Váš účet na [SITENAME] bol pre priveľa príspevkov v krátkom čase z IP [USER_IP], pozastavený. Jedná sa o prevenciu pred SPAM-botmi s množstvom príspevkov.<br/>\r\n
+Prosím kontaktujte hlavného administrátora cez [SITE_EMAIL] na obnovenie účtu, ak sa nejedná o porušenie bezpečnosti.<br/>\r\n
+S pozdravom,<br/>\r\n[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Dočasné pozastavenie automaticky zrušené systémom";
 $locale['global_451'] = "Dočasné pozastavenie zrušené na [SITENAME]";
-$locale['global_452'] = "Ahoj USER_NAME,<br/>
-Dočasné pozastavenie vášho účtu na [SITEURL] bolo zrušené. Tu sú vaše prihlasovacie údaje:<br/>
-Užívateľské meno: USER_NAME<br/>Heslo: Skryté z bezpečnostných dôvodov<br/>
-Ak ste zabudli svoje heslo, môžete ho obnoviť pomocou nasledujúceho odkazu: LOST_PASSWORD<br/>
-S pozdravom,<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Ahoj USER_NAME,<br/>Dočasné pozastavenie vášho účtu na [SITEURL] bolo zrušené.<br/>
-S pozdravom,<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Ahoj USER_NAME,<br/>\r\n
+Dočasné pozastavenie vášho účtu na [SITEURL] bolo zrušené. Tu sú vaše prihlasovacie údaje:<br/>\r\n
+Užívateľské meno: USER_NAME<br/>\r\nHeslo: Skryté z bezpečnostných dôvodov<br/>\r\n
+Ak ste zabudli svoje heslo, môžete ho obnoviť pomocou nasledujúceho odkazu: LOST_PASSWORD<br/>\r\n
+S pozdravom,<br/>\r\n[SITEUSERNAME]";
+$locale['global_453'] = "Ahoj USER_NAME,<br/>\r\nDočasné pozastavenie vášho účtu na [SITEURL] bolo zrušené.<br/>\r\n
+S pozdravom,<br/>\r\n[SITEUSERNAME]";
 $locale['global_454'] = "Účet bol znova aktivovaný na [SITENAME]";
-$locale['global_455'] = "Ahoj USER_NAME,<br/>
-Posledne ste boli prihlásený v obnovenom účte na [SITEURL] a váš účet už nie je označený ako neaktívny.<br/>
-S pozdravom,<br/>[SITEUSERNAME]";
+$locale['global_455'] = "Ahoj USER_NAME,<br/>\r\n
+Posledne ste boli prihlásený v obnovenom účte na [SITEURL] a váš účet už nie je označený ako neaktívny.<br/>\r\n
+S pozdravom,<br/>\r\n[SITEUSERNAME]";
 $locale['global_456'] = "Oznámenie nového hesla pre [SITENAME]";
 $locale['global_457'] = "Ahoj USER_NAME,
-<br/>Nové heslo bolo pre váš účet nastavené na [SITENAME]. Nájdete tu priložené nové prihlasovacie údaje:<br/>
-Meno: USER_NAME<br/>heslo: [PASSWORD]<br/>S pozdravom,<br/>[SITEUSERNAME]";
+<br/>\r\nNové heslo bolo pre váš účet nastavené na [SITENAME]. Nájdete tu priložené nové prihlasovacie údaje:<br/>\r\n
+Meno: USER_NAME<br/>\r\nheslo: [PASSWORD]<br/>\r\nS pozdravom,<br/>\r\n[SITEUSERNAME]";
 $locale['global_458'] = "Bolo nastavené nové heslo USER_NAME";
 $locale['global_459'] = "Bolo nastavené nové heslo USER_NAME, a e-mail nebol odoslaný. Dovoľte, aby ste používateľovi oznámili nové podrobnosti.";
 // Function parsebytesize()

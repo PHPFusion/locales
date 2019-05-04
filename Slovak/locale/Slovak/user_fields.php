@@ -121,12 +121,12 @@ $locale['u149b'] = "Vaše aktuálne prihl. heslo nebolo zadané alebo je neplatn
 // Email activation
 $locale['u150'] = "Vaša registrácia je takmer kompletná, dostanete e-mail obsahujúci vaše prihlasovacie údaje spolu s odkazom na overenie účtu.";
 $locale['u151'] = "Vítajte na [SITENAME]";
-$locale['u152'] = "Dobrý deň USER_NAME,<br/>
-Vítajte na SITENAME. Tu sú vaše prihlasovacie údaje:<br/>
-Meno: USER_NAME<br/>
-Heslo: USER_PASSWORD<br/>
-Prosím aktivujte váš účet kliknutím na tento odkaz: ACTIVATION_LINK<br/>
-S pozdravom,<br/>
+$locale['u152'] = "Dobrý deň USER_NAME,<br/>\r\n
+Vítajte na SITENAME. Tu sú vaše prihlasovacie údaje:<br/>\r\n
+Meno: USER_NAME<br/>\r\n
+Heslo: USER_PASSWORD<br/>\r\n
+Prosím aktivujte váš účet kliknutím na tento odkaz: ACTIVATION_LINK<br/>\r\n
+S pozdravom,<br/>\r\n
 SITEUSERNAME";
 
 $locale['u153'] = "Aktivačný e-mail sa nepodarilo odoslať.";
@@ -168,13 +168,13 @@ $locale['u195'] = "Captcha kód nemôže byť prázdny.";
 $locale['u200'] = "Overovací email bude odoslaný na vašu novú emailovú adresu (%s). Prosím, skontrolujte si e-mail.";
 $locale['u201'] = "Vaša e-mailová adresa sa zmení, keď kliknete na odkaz v e-maile.";
 $locale['u202'] = "Emailová adresa overená - [SITENAME]";
-$locale['u203'] = "Dobrý deň [USER_NAME],<br/>
-Niekto nastavil túto e-mailovú adresu vo vašom účte na našich stránkach.<br/>
-Ak naozaj chcete zmeniť svoju emailovú adresu, kliknite na nasledujúci odkaz:<br/>
-[EMAIL_VERIFY_LINK]<br/>
-Poznámka: Ak chcete pokračovať, musíte sa prihlásiť.<br/>
+$locale['u203'] = "Dobrý deň [USER_NAME],<br/>\r\n
+Niekto nastavil túto e-mailovú adresu vo vašom účte na našich stránkach.<br/>\r\n
+Ak naozaj chcete zmeniť svoju emailovú adresu, kliknite na nasledujúci odkaz:<br/>\r\n
+[EMAIL_VERIFY_LINK]<br/>\r\n
+Poznámka: Ak chcete pokračovať, musíte sa prihlásiť.<br/>\r\n
 S pozdravom,
-[SITEUSERNAME]<br/>
+[SITEUSERNAME]<br/>\r\n
 [SITENAME]";
 
 $locale['u210'] = "Reputácia";
