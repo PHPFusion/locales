@@ -26,11 +26,11 @@ $locale['apw_404'] = "Begrundelse for ændringen";
 $locale['apw_405'] = "Omlæg både log ind data og administrativt kodeord ";
 $locale['apw_406'] = "Ændring af kodeord";
 $locale['apw_407'] = "Kodeord ændret for ";
-$locale['apw_408'] = "Hej [USER_NAME],<br/>Dit administrative kodeord er blevet ændret på [SITEURL]:<br/>
-Nyt administrativt kodeord: [NEW_ADMIN_PASS]<br/>Årsagen til denne ændring er: [RESET_MESSAGE]<br/>Venlig hilsen.<br/>[ADMIN]";
-$locale['apw_409'] = "Hej [USER_NAME],<br/>Dine pålogningsdata og dit administrative kodeord er blevet ændret på [SITEURL]:<br/>
-Primært kodeord: [NEW_PASS]\nAdministrativt kodeord: [NEW_ADMIN_PASS]<br/>Årsagen til ændringen er: [RESET_MESSAGE]<br/>
-Venlig hilsen.<br/>[ADMIN]";
+$locale['apw_408'] = "Hej [USER_NAME],<br/>\r\nDit administrative kodeord er blevet ændret på [SITEURL]:<br/>\r\n
+Nyt administrativt kodeord: [NEW_ADMIN_PASS]<br/>\r\nÅrsagen til denne ændring er: [RESET_MESSAGE]<br/>\r\nVenlig hilsen.<br/>\r\n[ADMIN]";
+$locale['apw_409'] = "Hej [USER_NAME],<br/>\r\nDine pålogningsdata og dit administrative kodeord er blevet ændret på [SITEURL]:<br/>\r\n
+Primært kodeord: [NEW_PASS]\nAdministrativt kodeord: [NEW_ADMIN_PASS]<br/>\r\nÅrsagen til ændringen er: [RESET_MESSAGE]<br/>\r\n
+Venlig hilsen.<br/>\r\n[ADMIN]";
 $locale['apw_410'] = "Resultater af ændringen";
 $locale['apw_411'] = "Opdater administrativt kodeord.";
 $locale['apw_412'] = "Administrativt kodeord";

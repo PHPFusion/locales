@@ -121,12 +121,12 @@ $locale['u149b'] = "Dit aktuelle kodeord blev ikke opgivet eller er forkert.<br/
 // Email actiation
 $locale['u150'] = "Din tilmelding er næsten færdig. Du vil modtage en mail med dine pålogningsoplysninger sammen med et link, som du skal bruge til at bekræfte din tilmelding.";
 $locale['u151'] = "Velkommen til [SITENAME]";
-$locale['u152'] = "Hej USER_NAME,<br/>
-Velkommen til SITENAME. Herunder følger dine brugeroplysninger:<br/>
-Brugernavn: USER_NAME<br/>
-Kodeord: USER_PASSWORD<br/>
-Vær så venlig at aktivere din konto ved at klikke på følgende link: ACTIVATION_LINK<br/>
-Venlig hilsen.<br/>
+$locale['u152'] = "Hej USER_NAME,<br/>\r\n
+Velkommen til SITENAME. Herunder følger dine brugeroplysninger:<br/>\r\n
+Brugernavn: USER_NAME<br/>\r\n
+Kodeord: USER_PASSWORD<br/>\r\n
+Vær så venlig at aktivere din konto ved at klikke på følgende link: ACTIVATION_LINK<br/>\r\n
+Venlig hilsen.<br/>\r\n
 SITEUSERNAME";
 
 $locale['u153'] = "Aktiveringsmail kunne ikke afsendes.";
@@ -168,13 +168,13 @@ $locale['u195'] = "Der skal indskrives en sikkerhedskode.";
 $locale['u200'] = "En bekræftelsesmail er sendt til din mailadresse (%s).";
 $locale['u201'] = "Din mailadresse ændres, når du klikker på linket i mailen.";
 $locale['u202'] = "Bekræftelse af mailadresse på - [SITENAME]";
-$locale['u203'] = "Hej [USER_NAME]<br/>
-Du eller en anden har angivet denne mailadresse i relation til kontoen på vores side.<br/>
-Hvis du virkelig vil ændre din mailadresse til det angivne, så klik på følgende link:<br/>
-[EMAIL_VERIFY_LINK]<br/>
-Bemærk: Du skal være logget på for at fortsætte.<br/>
+$locale['u203'] = "Hej [USER_NAME]<br/>\r\n
+Du eller en anden har angivet denne mailadresse i relation til kontoen på vores side.<br/>\r\n
+Hvis du virkelig vil ændre din mailadresse til det angivne, så klik på følgende link:<br/>\r\n
+[EMAIL_VERIFY_LINK]<br/>\r\n
+Bemærk: Du skal være logget på for at fortsætte.<br/>\r\n
 Venlig hilsen
-[SITEUSERNAME]<br/>
+[SITEUSERNAME]<br/>\r\n
 [SITENAME]";
 
 $locale['u210'] = "Brugeromdømme";

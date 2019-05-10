@@ -325,7 +325,7 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Velkommen til din side";
 // Final message
 $locale['setup_1700'] = "Installationen er færdig";
-$locale['setup_1701'] = "PHP-Fusion version 9.00 er nu klar til at blive taget i brug. Klik på afslut for at få gemt din config_temp.php fil som config.php<br/>";
+$locale['setup_1701'] = "PHP-Fusion version 9 er nu klar til at blive taget i brug. Klik på afslut for at få gemt din config_temp.php fil som config.php<br/>";
 $locale['setup_1702'] = "[STRONG]Bemærk: Når du første gang går ind på din nye side, så skal du slette hele folderen includes/classes/PHPFusion/install og ændre rettigheder på din config.php til 0644 af sikkerhedsmæssige årsager.[/STRONG]";
 $locale['setup_1703'] = "Tak fordi du valgte PHP-Fusion.";
 // Default time settings
@@ -340,10 +340,10 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3800'] = "Mailskabeloner";
 $locale['setup_3801'] = "Underretning ved ny privat besked";
 $locale['setup_3802'] = "Du har modtaget en ny privat besked fra [USER]. Den kan ses på [SITENAME]";
-$locale['setup_3803'] = "Hej [RECEIVER],<br/>Du har modtaget en ny Privat besked [SUBJECT] fra [USER] på [SITENAME]. Du kan læse beskeden på [SITEURL]messages.php<br/>Besked: [MESSAGE]<br/>Du kan deaktivere mailunderretning i Private beskeder administrationen, hvis du ikke ønsker underretning om nye beskeder.<br/>Med venlig hilsen,<br/>[SENDER].";
+$locale['setup_3803'] = "Hej [RECEIVER],<br/>\r\nDu har modtaget en ny Privat besked [SUBJECT] fra [USER] på [SITENAME]. Du kan læse beskeden på [SITEURL]messages.php<br/>\r\nBesked: [MESSAGE]<br/>\r\nDu kan deaktivere mailunderretning i Private beskeder administrationen, hvis du ikke ønsker underretning om nye beskeder.<br/>\r\nMed venlig hilsen,<br/>\r\n[SENDER].";
 $locale['setup_3804'] = "Underretning ved nye debatindlæg";
 $locale['setup_3805'] = "Der er kommet et nyt indlæg - [SUBJECT]";
-$locale['setup_3806'] = "Hej [RECEIVER],<br/>Der er blevet skrevet et indlæg i debatten \'[SUBJECT]\' som du følger på [SITENAME]. Du kan bruge følgende link til at se indlægget:<br/>[THREAD_URL]<br/>Hvis du ikke længere ønsker den slags underretninger, kan du klikke på linket \'Hold op med at følge\' i toppen af debatten.<br/>Venligst,<br/>[SENDER].";
+$locale['setup_3806'] = "Hej [RECEIVER],<br/>\r\nDer er blevet skrevet et indlæg i debatten \'[SUBJECT]\' som du følger på [SITENAME]. Du kan bruge følgende link til at se indlægget:<br/>\r\n[THREAD_URL]<br/>\r\nHvis du ikke længere ønsker den slags underretninger, kan du klikke på linket \'Hold op med at følge\' i toppen af debatten.<br/>\r\nVenligst,<br/>\r\n[SENDER].";
 $locale['setup_3807'] = "Kontaktformular";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

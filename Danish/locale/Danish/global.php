@@ -314,27 +314,27 @@ $locale['global_412'] = "Denne konto er blevet anonymiseret sandsynligvis på gr
 // Flood control
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
 $locale['global_441'] = "Din brugerkonto på ".fusion_get_settings('sitename')."er blevet udelukket";
-$locale['global_442'] = "Hej [USER_NAME],<br/>
-Din konto på [SITENAME] har offentliggjort for meget indhold på meget kort tid fra IP-adressen [USER_IP], og er derfor blevet udelukket. Udelukkelsen er gennemført for at forhindre automatfunktioner i at offentliggøre spam meget hurtigt.<br/>
-Kontakt administratoren på [SITE_EMAIL] for at få genaktiveret din konto eller for at godtgøre, at det ikke var dig, som udløste denne sikkerhedsudelukkelse.<br/>[SITEUSERNAME]";
+$locale['global_442'] = "Hej [USER_NAME],<br/>\r\n
+Din konto på [SITENAME] har offentliggjort for meget indhold på meget kort tid fra IP-adressen [USER_IP], og er derfor blevet udelukket. Udelukkelsen er gennemført for at forhindre automatfunktioner i at offentliggøre spam meget hurtigt.<br/>\r\n
+Kontakt administratoren på [SITE_EMAIL] for at få genaktiveret din konto eller for at godtgøre, at det ikke var dig, som udløste denne sikkerhedsudelukkelse.<br/>\r\n[SITEUSERNAME]";
 // Lifting of suspension
 $locale['global_450'] = "Udelukkelsen er automatisk ophævet af systemet";
 $locale['global_451'] = "Suspendering er ophævet på [SITENAME]";
-$locale['global_452'] = "Hej USER_NAME,<br/>
-Suspenderingen af din konto på [SITEURL] er blevet ophævet. Herunder følger dine pålogningsdata:<br/>
-Brugernavn: USER_NAME<br/>Kodeord: Skjult af sikkerhedsmæssige årsager<br/>
-Hvis du har glemt dit kodeord kan du klikke på dette link for at få et nyt: LOST_PASSWORD<br/>
-Venlig hilsen.<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Hej USER_NAME,<br/>Suspenderingen af din konto på [SITEURL] er blevet ophævet.<br/>
-Venlig hilsen.<br/>[SITEUSERNAME]";
+$locale['global_452'] = "Hej USER_NAME,<br/>\r\n
+Suspenderingen af din konto på [SITEURL] er blevet ophævet. Herunder følger dine pålogningsdata:<br/>\r\n
+Brugernavn: USER_NAME<br/>\r\nKodeord: Skjult af sikkerhedsmæssige årsager<br/>\r\n
+Hvis du har glemt dit kodeord kan du klikke på dette link for at få et nyt: LOST_PASSWORD<br/>\r\n
+Venlig hilsen.<br/>\r\n[SITEUSERNAME]";
+$locale['global_453'] = "Hej USER_NAME,<br/>\r\nSuspenderingen af din konto på [SITEURL] er blevet ophævet.<br/>\r\n
+Venlig hilsen.<br/>\r\n[SITEUSERNAME]";
 $locale['global_454'] = "Din konto er blevet genaktiveret på [SITENAME]";
-$locale['global_455'] = "Hej USER_NAME,<br/>
-Sidste gang, hvor du loggede på [SITEURL] blev din konto genaktiveret, og du er nu ikke længere registreret som inaktiv.<br/>
-Venlig hilsen.<br/>[SITEUSERNAME]";
+$locale['global_455'] = "Hej USER_NAME,<br/>\r\n
+Sidste gang, hvor du loggede på [SITEURL] blev din konto genaktiveret, og du er nu ikke længere registreret som inaktiv.<br/>\r\n
+Venlig hilsen.<br/>\r\n[SITEUSERNAME]";
 $locale['global_456'] = "Orientering om nyt kodeord på [SITENAME]";
 $locale['global_457'] = "Hej USER_NAME,
-<br/>Der er blevet lavet et nyt kodeord for din konto på [SITENAME]. Herunder kan du se dine nye data:<br/>
-Brugernavn: USER_NAME<br/>Kodeord: [PASSWORD]<br/>Venlig hilsen.<br/>[SITEUSERNAME]";
+<br/>\r\nDer er blevet lavet et nyt kodeord for din konto på [SITENAME]. Herunder kan du se dine nye data:<br/>\r\n
+Brugernavn: USER_NAME<br/>\r\nKodeord: [PASSWORD]<br/>\r\nVenlig hilsen.<br/>\r\n[SITEUSERNAME]";
 $locale['global_458'] = "Der er oprettet et nyt kodeord for USER_NAME";
 $locale['global_459'] = "Der er oprettet et nyt kodeord for USER_NAME, og der blev ikke sendt en mail. Husk at underrette brugeren om ændringen.";
 
