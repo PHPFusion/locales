@@ -10,7 +10,7 @@
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
  * @package locale/Spanish
  */
-setlocale(LC_TIME, "es_ES.utf8"); // Linux Server (Windows may differ)
+setlocale(LC_TIME, "es_ES.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "ES";
 $locale['xml_lang'] = "es";

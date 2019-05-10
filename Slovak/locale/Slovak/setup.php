@@ -325,7 +325,7 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Vitajte na vašich stránkach";
 // Final message
 $locale['setup_1700'] = "Inštalácia je dokončená";
-$locale['setup_1701'] = "PHP-Fusion 9.0 je teraz pripravený na použitie. Kliknutím na tlačidlo Dokončiť prepíše sa súbor config_temp.php na config.php<br/>";
+$locale['setup_1701'] = "PHP-Fusion 9 je teraz pripravený na použitie. Kliknutím na tlačidlo Dokončiť prepíše sa súbor config_temp.php na config.php<br/>";
 $locale['setup_1702'] = "<strong>Poznámka: Po vstupe na stránku by ste mali vymazať install.php súbor a z bezpečnostných dôvodov zmeňte atribúty config.php späť na 0644.</strong>";
 $locale['setup_1703'] = "Ďakujeme, že ste si vybrali PHP-Fusion.";
 // Default time settings
@@ -340,10 +340,10 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3800'] = "Šablóny e-mailov";
 $locale['setup_3801'] = "Oznámenie o novej SS";
 $locale['setup_3802'] = "Máte novú súkromnú správu od [USER] čakajúca na [SITENAME]";
-$locale['setup_3803'] = "Ahoj [RECEIVER],<br/>Dostali ste novú súkromnú správu s názvom [SUBJECT] od [USER] na [SITENAME]. Môžete si prečítať súkromnú správu na adrese [SITEURL]messages.php<br/>Správa: [MESSAGE]<br/>Ak už nechcete dostávať nové správy, môžete vypnúť upozornenie e-mailom, prostredníctvom panelu možností na stránke Súkromná správa.<br/>S pozdravom,<br/>[SENDER].";
+$locale['setup_3803'] = "Ahoj [RECEIVER],<br/>\r\nDostali ste novú súkromnú správu s názvom [SUBJECT] od [USER] na [SITENAME]. Môžete si prečítať súkromnú správu na adrese [SITEURL]messages.php<br/>\r\nSpráva: [MESSAGE]<br/>\r\nAk už nechcete dostávať nové správy, môžete vypnúť upozornenie e-mailom, prostredníctvom panelu možností na stránke Súkromná správa.<br/>\r\nS pozdravom,<br/>\r\n[SENDER].";
 $locale['setup_3804'] = "Oznámenie o nových príspevkoch na fóre";
 $locale['setup_3805'] = "Oznámenie odpovede na vlákno - [SUBJECT]";
-$locale['setup_3806'] = "Ahoj [RECEIVER],<br/>Odpoveď bola zverejnená vo fóre \'[SUBJECT]\', ktoré sledujete na [SITENAME]. Na zobrazenie odpovede môžete použiť nasledujúci odkaz:<br/>[THREAD_URL]<br/>Ak už nechcete sledovať túto vlákno, môžete kliknúť na \'Zastaviť sledovanie tohto vlákna\' odkaz umiestnený v hornej časti vlákna.<br/>S pozdravom,<br/>[SENDER].";
+$locale['setup_3806'] = "Ahoj [RECEIVER],<br/>\r\nOdpoveď bola zverejnená vo fóre \'[SUBJECT]\', ktoré sledujete na [SITENAME]. Na zobrazenie odpovede môžete použiť nasledujúci odkaz:<br/>\r\n[THREAD_URL]<br/>\r\nAk už nechcete sledovať túto vlákno, môžete kliknúť na \'Zastaviť sledovanie tohto vlákna\' odkaz umiestnený v hornej časti vlákna.<br/>\r\nS pozdravom,<br/>\r\n[SENDER].";
 $locale['setup_3807'] = "Kontaktný formulár";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

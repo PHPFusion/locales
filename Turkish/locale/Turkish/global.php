@@ -11,7 +11,7 @@
  * @package locale/Turkish
  * @Translated by ALTUN Web Site(https://alapelit.com)
  */
-setlocale(LC_TIME, "tr_TR.utf8"); // Linux Server (Windows may differ)
+setlocale(LC_TIME, "tr_TR.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "TR";
 $locale['xml_lang'] = "tr";

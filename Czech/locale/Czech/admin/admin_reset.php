@@ -26,11 +26,11 @@ $locale['apw_404'] = "Odůvodnění resetování:";
 $locale['apw_405'] = "Obnovit přihlašovací i administrátorská hesla?";
 $locale['apw_406'] = "Obnovit hesla";
 $locale['apw_407'] = "Reset hesla na ";
-$locale['apw_408'] = "Ahoj [USER_NAME],<br/>Vaše heslo administrátora bylo resetováno na [SITEURL]:<br/>
-Nové administrátorské heslo: [NEW_ADMIN_PASS]<br/>Důvod resetování: [RESET_MESSAGE]<br/>S pozdravem,<br/>[ADMIN]";
-$locale['apw_409'] = "Ahoj [USER_NAME],<br/>Vaše přihlašovací a administrátorská hesla byla obnovena na [SITEURL]:<br/>
-Nové přihlašovací heslo: [NEW_PASS]<br/>Nové administrátorské heslo: [NEW_ADMIN_PASS]<br/>Důvod resetování: [RESET_MESSAGE]<br/>
-S pozdravem,<br/>[ADMIN]";
+$locale['apw_408'] = "Ahoj [USER_NAME],<br/>\r\nVaše heslo administrátora bylo resetováno na [SITEURL]:<br/>\r\n
+Nové administrátorské heslo: [NEW_ADMIN_PASS]<br/>\r\nDůvod resetování: [RESET_MESSAGE]<br/>\r\nS pozdravem,<br/>\r\n[ADMIN]";
+$locale['apw_409'] = "Ahoj [USER_NAME],<br/>\r\nVaše přihlašovací a administrátorská hesla byla obnovena na [SITEURL]:<br/>\r\n
+Nové přihlašovací heslo: [NEW_PASS]<br/>\r\nNové administrátorské heslo: [NEW_ADMIN_PASS]<br/>\r\nDůvod resetování: [RESET_MESSAGE]<br/>\r\n
+S pozdravem,<br/>\r\n[ADMIN]";
 $locale['apw_410'] = "Resetovat výsledky";
 $locale['apw_411'] = "Aktualizovat heslo administrátora.";
 $locale['apw_412'] = "Heslo administrátora:";

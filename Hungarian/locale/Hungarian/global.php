@@ -10,7 +10,7 @@
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
  * @package locale/Hungarian
  */
-setlocale(LC_TIME, "hu_HU", "hu_HU.UTF8", "hu.UTF8", "hun_hun", "Hungarian", "hu");
+setlocale(LC_TIME, "hu_HU", "hu_HU.UTF-8", "hu.UTF-8", "hun_hun", "Hungarian", "hu");
 $locale['charset'] = "UTF-8";
 $locale['region'] = "HU";
 $locale['xml_lang'] = "hu";

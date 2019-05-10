@@ -15,6 +15,7 @@
 | copyright header is strictly prohibited without
 | written permission from the original author(s).
 +--------------------------------------------------------*/
+$locale['blog.php'] = "Blog";
 $locale['b400'] = "Blog";
 $locale['b401'] = "Blogindlæg";
 $locale['b402'] = "Blogindlæg";

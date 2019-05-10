@@ -4,7 +4,7 @@
  * charset as ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
  * region as ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
  */
-setlocale(LC_TIME, "zh_CN.utf8"); // Linux Server (Windows may differ)
+setlocale(LC_TIME, "zh_CN.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset']    = "utf-8";
 $locale['region'] = "CM";
 $locale['xml_lang'] = "zh";

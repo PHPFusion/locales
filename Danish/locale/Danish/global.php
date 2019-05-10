@@ -245,12 +245,10 @@ $locale['UM102'] = "Foreslå FAQ";
 // User Panel
 $locale['UM096'] = "Velkommen: ";
 $locale['UM097'] = "Privat menu";
-$locale['UM101'] = "Skift sprog";
 // Gauges
 $locale['UM098'] = "Indbakke";
 $locale['UM099'] = "Udbakke";
 $locale['UM100'] = "Arkiv";
-$locale['UM103'] = "Kontoindstillinger";
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
