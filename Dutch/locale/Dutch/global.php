@@ -157,6 +157,20 @@ $locale['global_089'] = "Wees de eerste om een commentaar te plaatsen op %s";
 $locale['global_089a'] = "Wees de eerste om een waardeering te geven voor %s";
 $locale['global_089b'] = "Miniatuur weergave";
 $locale['global_089c'] = "Lijst weergave";
+// ------------------------
+// ERWEITERUNG: HeaderLogin
+// ------------------------
+$locale_hl['001'] = "Profiel van ";
+$locale_hl['002'] = " (wijzig)";
+$locale_hl['003'] = "Privé Berichten";
+$locale_hl['004'] = "Ledenlijst";
+$locale_hl['005'] = "Beheerder Paneel";
+$locale_hl['006'] = "Uitloggen";
+$locale_hl['007'] = "Uitloggen van ";
+$locale_hl['008'] = "Klik hier om aan te melden...";
+$locale_hl['009'] = "<b>Aanmelden</b>";
+$locale_hl['010'] = "Klik hier als je je wachtwoord kwijt bent...";
+$locale_hl['011'] = "<b>Wachtwoord kwijt</b>";
 // Page Navigation
 $locale['global_090'] = "Vorige";
 $locale['global_091'] = "Volgende";
@@ -178,7 +192,7 @@ $locale['global_107'] = "Aanmelden";
 $locale['global_108'] = "Wachtwoord kwijt";
 $locale['global_109'] = "Aanmelden";
 // Member User Menu
-$locale['global_120'] = "Pas us profiel pagina aan";
+$locale['global_120'] = "Pas uw profiel pagina aan";
 $locale['global_121'] = "Priv&eacute; Berichten";
 $locale['global_122'] = "Ledenlijst";
 $locale['global_123'] = "Beheerder Paneel";
