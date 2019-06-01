@@ -81,18 +81,18 @@ $locale['ME_501'] = 'Obnovit';
 $locale['ME_502'] = 'Deaktivovat';
 $locale['ME_503'] = 'Pozastavit';
 $locale['ME_504'] = 'Bezpečnostní zákaz';
-$locale['ME_505'] = 'Zrušení';
-$locale['ME_506'] = 'Anonymní';
+$locale['ME_505'] = 'Zrušit';
+$locale['ME_506'] = 'Anonymizovat';
 
 // a_message keys
-$locale['ME_550'] = 'Zabanován';
-$locale['ME_551'] = 'Obnoven';
-$locale['ME_552'] = 'Deaktivován';
-$locale['ME_553'] = 'Pozastaven';
-$locale['ME_554'] = 'Bezpečnostní zákaz';
-$locale['ME_555'] = 'Zrušeno';
-$locale['ME_556'] = 'Anonymní';
-$locale['ME_557'] = 'Trvale zabanován';
+$locale['ME_550'] = 'zakázán';
+$locale['ME_551'] = 'obnoven';
+$locale['ME_552'] = 'deaktivován';
+$locale['ME_553'] = 'pozastaven';
+$locale['ME_554'] = 'bezpečnostně zakázán';
+$locale['ME_555'] = 'zrušen';
+$locale['ME_556'] = 'anonymizován';
+$locale['ME_557'] = 'permanentně odstraněn';
 
 $locale['ME_560'] = "Zobrazit výsledky";
 $locale['ME_561'] = "Zobrazovat uživatele se stavem";
