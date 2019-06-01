@@ -202,7 +202,7 @@ $locale['698'] = "SMTP ověřování?";
 $locale['699'] = "Metoda přihlášení";
 $locale['699b'] = "Oba";
 $locale['699e'] = "E-mailem";
-$locale['699f'] = "Kontrolovat nahrané soubory pro typ MIME?";
+$locale['699f'] = "Zkontrolovat MIME typ nahraných souborů?";
 
 // Private Message Settings
 $locale['700'] = "Soukromé zprávy";
