@@ -1,26 +1,10 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/gallery/locale/Slovak/gallery_admin.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['album_0001'] = "Názov albumu";
 $locale['album_0002'] = "Názov fotogalérie";
 $locale['album_0003'] = "Popis albumu";
 $locale['album_0004'] = "Popíšte album";
 $locale['album_0005'] = "Kľúčové slová";
-$locale['album_0006'] = "Po každom slove stlačte enter";
+$locale['album_0006'] = "Stlačte enter po každom kľúčovom slove";
 $locale['album_0007'] = "Viditeľnosť";
 $locale['album_0008'] = "Jazyk";
 $locale['album_0009'] = "Náhľad albumu";
@@ -133,5 +117,4 @@ $locale['photo_0024'] = "Fotografia bola odstránená";
 $locale['photo_0025'] = "Odstrániť všetky fotografie";
 $locale['photo_0026'] = "[STRONG]VAROVANIE:[/STRONG] Kliknutím na odstrániť [STRONG] sa natrvalo odstránia všetky fotografie [/STRONG] v tomto albume. Si si istý?";
 $locale['photo_0027'] = "Potvrďte odstránenie";
-$locale['photo_0028'] = "Zrušiť";
 $locale['gallery_submit'] = "%s fotky";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/blog/locale/Slovak/blog_admin.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Blog Submissions messages
 $locale['blog_0130'] = "Momentálne nie sú odoslané žiadne príspevky na schválenie.";
 $locale['blog_0131'] = "Preskúmať príspevok";
@@ -27,12 +11,12 @@ $locale['blog_0137'] = "Momentálne %s čakajú na vašu kontrolu.";
 $locale['blog_0138'] = "Ospravedlňujeme sa, momentálne neprijímame žiadne príspevky na tejto stránke.";
 $locale['blog_0141'] = "Náhľad blogu";
 $locale['blog_0142'] = "Autor príspevku";
-$locale['blog_0143'] = "Čas príspevku";
+$locale['blog_0143'] = "Dátum odoslania";
 $locale['blog_0144'] = "ID príspevku";
 $locale['blog_0145'] = "Príspevok bol odstránený";
 $locale['blog_0146'] = "Príspevok bol publikovaný";
 $locale['blog_0147'] = "Príspevok je uložený ako koncept";
-$locale['blog_0148'] = "Pridané od ";
+$locale['blog_0148'] = "Pridal/a ";
 $locale['blog_0149'] = "%s bolo zakázané a nebude účinné.";
 // Blog titles
 $locale['blog_0400'] = "Aktuálne blogy";
@@ -53,8 +37,6 @@ $locale['blog_0415'] = "Obrázok musí byť jeden z nasledujúcich typov súboro
 $locale['blog_0416'] = "Obrázok nesmie byť väčší ako %s pixelov.";
 $locale['blog_0417'] = "Neznáma chyba";
 // Blog form
-$locale['blog_0420'] = "Upraviť";
-$locale['blog_0421'] = "Odstrániť";
 $locale['blog_0422'] = "Predmet";
 $locale['blog_0423'] = "Kategória:";
 $locale['blog_0424'] = "Nekategorizované";
@@ -62,7 +44,7 @@ $locale['blog_0425'] = "Úryvok:";
 $locale['blog_0425a'] = "Stručný úvod blogu";
 $locale['blog_0426'] = "Rozšírené:";
 $locale['blog_0426b'] = "Obsah blogu";
-$locale['blog_0427'] = "Dátum začiatku:";
+$locale['blog_0427'] = "Dátum začatia:";
 $locale['blog_0428'] = "Dátum ukončenia:";
 $locale['blog_0429'] = "(Voliteľné)";
 $locale['blog_0430'] = "Viditeľnosť:";
@@ -76,7 +58,7 @@ $locale['blog_0438'] = "Koncept";
 $locale['blog_0439'] = "Obrázok blogu:";
 $locale['blog_0440'] = "Max. veľkosť súborov %s / Povolené typy súborov GIF, JPEG alebo PNG.";
 $locale['blog_0441'] = "Zalomenie stránky";
-$locale['blog_0442'] = "Pozícia obrázku:";
+$locale['blog_0442'] = "Pozícia obrázka:";
 $locale['blog_0443'] = "Kľúčové slová:";
 $locale['blog_0444'] = "Stlačte enter po každom kľúčovom slove";
 // Blog Category
@@ -98,8 +80,8 @@ $locale['blog_0535'] = "Nie sú pridané žiadne kategórie blogov";
 $locale['blog_0536'] = "Kliknutím tu môžete nahrať obrázky kategórie";
 $locale['blog_0537'] = "Rodič";
 $locale['blog_0538'] = "Byty (bajty)";
-$locale['blog_0539'] = "KB (Kilobajtov)";
-$locale['blog_0540'] = "MB (Megabajtov)";
+$locale['blog_0539'] = "KB (Kilobajty)";
+$locale['blog_0540'] = "MB (Megabajty)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Odstrániť túto kategóriu blogu?";
 // Error Messages
@@ -118,7 +100,7 @@ $locale['blog_0459'] = "Zobraziť kategóriu podľa";
 $locale['blog_0460'] = "Všetky položky blogu";
 //Alignment
 $locale['left'] = "Vľavo";
-$locale['center'] = "Stred";
+$locale['center'] = "Na stred";
 $locale['right'] = "Vpravo";
 $locale['blog_0600'] = "Na schválenie";
 $locale['blog_0601'] = "Obrázok príspevku";
@@ -134,7 +116,7 @@ $locale['blog_0704'] = "Späť na [SITENAME]";
 $locale['blog_601'] = "Veľkosť náhľadu:";
 $locale['blog_602'] = "Veľkosť fotky:";
 $locale['blog_603'] = "Max. veľkosť fotky:";
-$locale['blog_604'] = "Šírka x výška";
+$locale['blog_604'] = "Šírka x Výška";
 $locale['blog_605'] = "Max. veľkosť súboru (bajtov):";
 // Blog Settings
 $locale['blog_950'] = "Nahrať obrázok";

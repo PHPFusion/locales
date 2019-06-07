@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/admin/smileys.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Smiley titles
 $locale['SMLY_400'] = "Aktuálne smajlíky";
 $locale['SMLY_401'] = "Pridať smajlíka";
@@ -32,7 +16,7 @@ $locale['SMLY_414'] = "Text smajlíka sa už používa.";
 $locale['SMLY_415'] = "Kód smajlíka sa už používa.";
 $locale['SMLY_416'] = "Naozaj chcete vymazať tohoto smajlíka?";
 $locale['SMLY_417'] = "Naozaj chcete deaktivovať tento smajlík?";
-$locale['SMLY_418'] = "Chyba pri nahravaní smajlíka";
+$locale['SMLY_418'] = "Chyba pri nahrávaní smajlíka";
 // Smiley form
 $locale['SMLY_420'] = "Kód smajlíka:";
 $locale['SMLY_421'] = "Obrázok smajlíka:";

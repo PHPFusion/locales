@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/admin/emails.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['MAIL_000'] = "Šablóny e-mailov";
 $locale['MAIL_001'] = "Šablóna bola úspešne aktualizovaná.";
 $locale['MAIL_002'] = "Test-Predmet";
@@ -22,7 +6,7 @@ $locale['MAIL_003'] = "Test-Správa";
 $locale['MAIL_004'] = "Nejaký užívateľ";
 $locale['MAIL_005'] = "Prijímateľ správy";
 $locale['MAIL_006'] = "URL na niektoré vlákno";
-$locale['MAIL_007'] = "Testovaci e-mail bol odoslaný na %s.";
+$locale['MAIL_007'] = "Testovací e-mail bol odoslaný na %s.";
 $locale['MAIL_008'] = "HTML";
 $locale['MAIL_009'] = "Obyčajný text";
 $locale['MAIL_010'] = "Použiť šablónu";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/setup.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['setup_0000'] = "PHP-Fusion - Inštalácia";
 $locale['setup_0002'] = "Vitajte v inštalácii PHP-Fusion";
 $locale['setup_0003'] = "Inštalačný sprievodca vás prevedie krokmi potrebnými na inštaláciu PHP-Fusion CMS na Váš server. Ak potrebujete ďalšiu pomoc, prosím skontrolujte našu <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>online dokumentáciu inštalácie</a>.";
@@ -157,10 +141,10 @@ $locale['setup_1603'] = "Populácia údajov ";
 $locale['setup_5010'] = "Uživateľské meno obsahuje neplatné znaky.";
 $locale['setup_5011'] = "Pole užívateľského mena nemôže byť prázdne.";
 $locale['setup_5012'] = "Heslá sa nezhodujú.";
-$locale['setup_5013'] = "Neplatné prihlasovacie heslo, použite iba alfanumerické znaky.<br />Heslo musí mať minimálne 8 znakov.";
+$locale['setup_5013'] = "Neplatné prihlasovacie heslo, použite iba alfa-numerické znaky.<br />Heslo musí mať minimálne 8 znakov.";
 $locale['setup_5015'] = "Admin heslá sa nezhodujú.";
 $locale['setup_5016'] = "Heslo a admin heslo sa nesmú zhodovať.";
-$locale['setup_5017'] = "Neplatné admin heslo, použite iba alfanumerické znaky.<br />Heslo musí mať minimálne 8 znakov.";
+$locale['setup_5017'] = "Neplatné admin heslo, použite iba alfa-numerické znaky.<br />Heslo musí mať minimálne 8 znakov.";
 $locale['setup_5020'] = "Pole e-mailu nemôže byť prázdne.";
 // Step 6 - Admin Panels
 $locale['setup_3000'] = "Administrátori";
@@ -264,7 +248,7 @@ $locale['setup_3500'] = "Chyby";
 $locale['setup_3501'] = "Na stiahnutie";
 $locale['setup_3502'] = "Hry";
 $locale['setup_3503'] = "Grafika";
-$locale['setup_3504'] = "Hardware";
+$locale['setup_3504'] = "Hardvér";
 $locale['setup_3505'] = "Tlač";
 $locale['setup_3506'] = "Užívatelia";
 $locale['setup_3507'] = "Modifikácie";
@@ -273,7 +257,7 @@ $locale['setup_3509'] = "Sieť";
 $locale['setup_3510'] = "Novinky";
 $locale['setup_3511'] = "PHP-Fusion";
 $locale['setup_3512'] = "Bezpečnosť";
-$locale['setup_3513'] = "Software";
+$locale['setup_3513'] = "Softvér";
 $locale['setup_3514'] = "Vzhľady";
 $locale['setup_3515'] = "Windows";
 // Stage 6 - Sample Forum Ranks
@@ -293,7 +277,7 @@ $locale['setup_3622'] = "Smutný";
 $locale['setup_3623'] = "Zamračený";
 $locale['setup_3624'] = "Šokovaný";
 $locale['setup_3625'] = "Pfft";
-$locale['setup_3626'] = "Cool";
+$locale['setup_3626'] = "Super";
 $locale['setup_3627'] = "Škeriaci sa";
 $locale['setup_3628'] = "Nahnevaný";
 $locale['setup_3629'] = "Páči sa mi to";

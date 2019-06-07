@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/messages.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Standard
 $locale['400'] = "Súkromné správy";
 $locale['401'] = "Napísať novú správu";
@@ -55,7 +39,7 @@ $locale['434'] = "Poslať všetkým";
 $locale['437'] = "Odoslať";
 $locale['439'] = "Odpovedať";
 $locale['440'] = "(prijatých %s)";
-$locale['441'] = "Odoslať ako Majiteľ stránky";
+$locale['441'] = "Odoslať ako majiteľ stránky";
 $locale['442'] = "Úrovne užívateľov";
 $locale['443'] = "Skupiny";
 $locale['444'] = "Viac";

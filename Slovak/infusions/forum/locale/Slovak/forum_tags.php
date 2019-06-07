@@ -1,22 +1,6 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/forum/locale/Slovak/forum_tags.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['forum_tag_0100'] = "Tagy fóra";
-$locale['forum_tag_0101'] = "Tagy sa používajú na usporiadanie vašich vlákien a pomáhajú vám pri mikroorganizácii vašich diskusných vlákien.";
+$locale['forum_tag_0101'] = "Tagy sa používajú na usporiadanie vašich vlákien a pomáhajú vám pri mikro-organizácii vašich diskusných vlákien.";
 $locale['forum_tag_0102'] = "Aktuálne tagy";
 $locale['forum_tag_0103'] = "Vytvoriť tag";
 $locale['forum_tag_0104'] = "Upraviť tag";
@@ -34,3 +18,4 @@ $locale['forum_tag_0205'] = "Tento tag je aktívny";
 $locale['forum_tag_0206'] = "Tento tag je neaktívny";
 $locale['forum_tag_0207'] = "Vytvoriť tag";
 $locale['forum_tag_0208'] = "Aktualizvať tag";
+$locale['forum_tag_0209'] = "Nie sú pridané žiadne tagy.";

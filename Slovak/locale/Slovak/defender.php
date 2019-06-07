@@ -1,23 +1,7 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/defender.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['validate'] = "Prosím, skontrolujte a opätovne potvrďte pole.";
-$locale['error_request'] = "Pri spracovaní vašej žiadosti sa vyskytla chyba";
-$locale['regex_error'] = "Prosím, skontrolujte pole %s a znovu ho potvrďte";
+$locale['error_request'] = "Pri spracovaní vašej žiadosti sa vyskytla chyba"; // to be moved
+$locale['regex_error'] = "Prosím, skontrolujte pole %s a znovu ho potvrďte"; // to be moved
 // Text fields errors
 $locale['error_input_username'] = "Zadajte platné užívateľské meno";
 $locale['error_input_default'] = "Prosím, vyplňte toto pole";
@@ -29,8 +13,8 @@ $locale['error_input_regex'] = "Prosím, zadajte platný vzor";
 $locale['error_input_safemode'] = "Prosím, vyplňte toto pole správne";
 $locale['error_input_check'] = "Prosím, vyplňte správnu hodnotu poľa";
 $locale['df_error_text'] = "%s má chybu a vyžaduje vašu pozornosť.";
-$locale['error_invalid_theme'] = "Prosím, vyberte platnú tému";
-$locale['error_input_checkbox'] = "Prosím, začiarknite toto políčko";
+$locale['error_invalid_theme'] = "Prosím, vyberte platnú tému"; // to be moved
+$locale['error_input_checkbox'] = "Prosím, začiarknite toto políčko"; // to be moved
 $locale['error_input_file'] = "Prosím, vyberte platný súbor";
 $locale['error_secure_file'] = "Nahraný súbor bol odmietnutý z dôvodu možnosti škodlivého zaťaženia.";
 // Admin Login
@@ -56,8 +40,8 @@ $locale['name_error'] = "Meno a priezvisko nemôžu byť rovnaké.";
 // Document errors
 $locale['doc_type_error'] = "Typ dokumentu vyžaduje pozornosť.";
 $locale['doc_series_error'] = "Séria dokumentov vyžaduje pozornosť.";
-$locale['doc_number_error'] = "Document number vyžaduje pozornosť.";
-$locale['doc_authority_error'] = "Číslo dokumentu vyžaduje pozornosť.";
+$locale['doc_number_error'] = "Číslo dokumentu vyžaduje pozornosť.";
+$locale['doc_authority_error'] = "Autorita dokumentu vyžaduje pozornosť.";
 $locale['date_issue_error'] = "Dátum vydania dokumentu vyžaduje pozornosť.";
 // Tokens
 $locale['token_error_title'] = "Chyba tokenu";
@@ -103,7 +87,7 @@ $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Googlu";
 $locale['no_keys'] = "Zdá sa, že zatiaľ nemáte žiadne kľúče. Zaregistrujte sa a získajte svoje [RECAPTCHA_LINK]kľúče tu[/RECAPTCHA_LINK]";
 // here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Skontrolujte svoje kľúče Google reCAPTCHA</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Kľúč stránky";
 $locale['grecaptcha_0101'] = "Tajný kľúč";
 $locale['grecaptcha_0102'] = "Téma";
@@ -111,5 +95,5 @@ $locale['grecaptcha_0102a'] = "Svetlá";
 $locale['grecaptcha_0102b'] = "Tmavá";
 $locale['grecaptcha_0103'] = "Typ validácie";
 $locale['grecaptcha_0103a'] = "Text";
-$locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0103b'] = "Zvuk";
 $locale['grecaptcha_warn'] = "Zadajte prosím svoj kľúč stránky a tajný kľúč reCAPTCHA";

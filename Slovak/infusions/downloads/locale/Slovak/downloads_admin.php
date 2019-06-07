@@ -1,21 +1,5 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/downloads/locale/Slovak/downloads_admin.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-$locale['download_604'] = "Šírka x výška";
+$locale['download_604'] = "Šírka x Výška";
 $locale['download_930'] = "Maximálna veľkosť nahratí:";
 $locale['download_931'] = "Maximálna veľkosť súboru v bajtoch";
 $locale['download_932'] = "Povolené typy súborov:";
@@ -87,7 +71,7 @@ $locale['download_0153'] = "K tejto kategórii patria súbory na stiahnutie aleb
 $locale['download_0154'] = "Kategória bola odstránená";
 $locale['download_0200'] = "Názov";
 $locale['download_0201'] = "Úplný popis súboru";
-$locale['download_0202'] = "Stručný opis:";
+$locale['download_0202'] = "Stručný popis:";
 $locale['download_0202a'] = "Popis:";
 $locale['download_0203'] = "Kľúčové slová:";
 $locale['download_0203a'] = "Stlačte enter po každom kľúčovom slove";
@@ -103,24 +87,22 @@ $locale['download_0212'] = "Uložiť súbor";
 $locale['download_0213'] = "Aktualizovať dátum publikácie";
 $locale['download_0214'] = "Súbor na stiahnutie";
 $locale['download_0215'] = "Odkaz na stiahnutie";
-$locale['download_0216'] = "Odstrániť";
 $locale['download_0217'] = "Vypočítať veľkosť súboru";
 $locale['download_0218'] = "Max. veľkosť súboru: %s / Povolené typy súborov: %s";
 $locale['download_0219'] = "Max. veľkosť súboru: %s / Povolené typy súborov: / Max. šírka: %spx, max. výška: %spx";
 $locale['download_0220'] = "Screenshot";
 $locale['download_0221'] = "Domovská stránka";
-$locale['download_0222'] = "Autorské právo";
+$locale['download_0222'] = "Autorské práva";
 $locale['download_0223'] = "Povoliť komentáre";
 $locale['download_0224'] = "Povoliť hodnotenia";
-$locale['download_0225'] = "Zrušiť";
-$locale['download_0226'] = "Stiahnúť súbor na prevzatie";
+$locale['download_0226'] = "Stiahnuť súbor na prevzatie";
 $locale['download_0227'] = "Možnosti";
 $locale['download_0249'] = "Nie sú pridané žiadne kategórie.";
 $locale['download_0250'] = "Do tejto kategórie neboli pridané žiadne súbory na prevzatie";
 $locale['download_0251'] = "Nie sú pridané žiadne kategórie";
 $locale['download_0252'] = "Musíte pridať aspoň jednu kategóriu predtým, než začnete pridávať nejaké súbory na prevzatie";
-$locale['download_0253'] = "kliknite tu";
-$locale['download_0254'] = " prejdete do kategórií";
+$locale['download_0253'] = "Kliknite tu";
+$locale['download_0254'] = " pre prejdenie do kategórií";
 $locale['download_0255'] = "Chcete odstrániť tento súbor na prevzatie?";
 $locale['download_0256'] = "%s sú zakázané pre všetky položky.<br/>Toto nastavenie bude mať vplyv iba ak budú znova povolené.";
 $locale['download_0300'] = "Názov kategórie";

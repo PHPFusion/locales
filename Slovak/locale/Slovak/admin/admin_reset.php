@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/admin/admin_reset.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['apw_title'] = "Obnovenie admin hesla";
 $locale['apw_desc'] = "Zmeniť administrátorské prihlasovacie/admin heslá";
 $locale['apw_admin1'] = "Administrátor obnovený";
@@ -23,7 +7,7 @@ $locale['apw_401'] = "Všetci administrátori";
 $locale['apw_402'] = "Len hlavní administrátori";
 $locale['apw_403'] = "Len administrátori";
 $locale['apw_404'] = "Odôvodnenie pre obnovenie:";
-$locale['apw_405'] = "Obnovenie prihlsovacieho a admin hesla";
+$locale['apw_405'] = "Obnovenie prihlasovacieho a admin hesla";
 $locale['apw_406'] = "Obnovenie hesiel";
 $locale['apw_407'] = "Heslo obnovené na ";
 $locale['apw_408'] = "Dobrý deň [USER_NAME],<br/>\r\nVaše admin heslo bolo obnovené na [SITEURL]:<br/>\r\n

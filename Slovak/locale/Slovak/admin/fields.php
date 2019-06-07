@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/admin/fields.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // New locale for Quantum Fields
 $locale['fields_0100'] = "Táto stránka pridá pole priamo do tabuľky: %s";
 $locale['fields_0101'] = "Táto stránka pridáva polia priamo do tabuľky: %s, v kombinácii s DB_USERS pomocou stĺpca %s";
@@ -129,7 +113,7 @@ $locale['fields_0501'] = "Text-box";
 $locale['fields_0502'] = "Drop-down";
 $locale['fields_0503'] = "Text-area";
 $locale['fields_0504'] = "Checkbox";
-$locale['fields_0505'] = "Switch";
+$locale['fields_0505'] = "Prepínač";
 $locale['fields_0506'] = "Dátum";
 $locale['fields_0507'] = "Farba";
 $locale['fields_0508'] = "Súbor";

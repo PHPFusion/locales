@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/admin/settings.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['400'] = "Nastavenia";
 $locale['401a'] = "Nastavenia hostiteľskej stránky";
 $locale['401b'] = "Konfigurácia pre vaše webové adresy, porty a protokoly stránky.";
@@ -114,7 +98,7 @@ $locale['559'] = "Licenčné podmienky";
 $locale['601'] = "Veľkosť náhľadu:";
 $locale['602'] = "Veľkosť fotky:";
 $locale['603'] = "Maximálna veľkosť fotky:";
-$locale['604'] = "Šírka x výška";
+$locale['604'] = "Šírka x Výška";
 $locale['605'] = "Maximálna veľkosť súboru (v bytoch):";
 $locale['606'] = "Metóda kompresie náhľadov";
 $locale['607'] = "GD1";

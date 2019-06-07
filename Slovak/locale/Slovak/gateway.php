@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/gateway.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Number to word function
 $locale['gateway_001'] = "jeden";
 $locale['gateway_002'] = "dva";
@@ -74,7 +58,7 @@ $locale['gateway_052'] = "Ak sa chcete zaregistrovať, povoľte Javascript";
 $locale['gateway_053'] = "fax";
 $locale['gateway_054'] = "telefón";
 $locale['gateway_055'] = "adresa";
-$locale['gateway_056'] = "email";
+$locale['gateway_056'] = "e-mail";
 $locale['gateway_057'] = "meno";
 $locale['gateway_058'] = "užívateľ";
 $locale['gateway_059'] = "heslo";

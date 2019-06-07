@@ -1,30 +1,13 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/news/locale/Slovak/news_admin.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['news_0000'] = "Aktuálne novinky";
 $locale['news_0001'] = "Novinky";
 $locale['news_0002'] = "Pridať novinku";
-$locale['news_0003'] = "Upraviť novinku";
 $locale['news_0004'] = "Nastavenia";
 $locale['news_0005'] = "Obsah novinky";
 $locale['news_0006'] = "Galéria obrázkov";
 $locale['news_0007'] = "Spravovať galériu";
 $locale['news_0008'] = "Nahrať foto";
-$locale['news_0009'] = "Obrázka novinky";
+$locale['news_0009'] = "Obrázky noviniek";
 $locale['news_0010'] = "Odstrániť foto";
 $locale['news_0011'] = "Úvodný obrázok";
 $locale['news_0012'] = "Celý obrázok novinky";
@@ -69,8 +52,8 @@ $locale['news_0203a'] = "Stručný úvod novinky";
 $locale['news_0204'] = "Rozšírené";
 $locale['news_0205'] = "Kľúčové slová";
 $locale['news_0205a'] = "Stlačte enter po každom kľúčovom slove";
-$locale['news_0206'] = "Zahájená";
-$locale['news_0207'] = "Ukončená";
+$locale['news_0206'] = "Dátum začatia";
+$locale['news_0207'] = "Dátum ukončenia";
 $locale['news_0208'] = "(Voliteľné)";
 $locale['news_0209'] = "Viditeľnosť";
 $locale['news_0210'] = "Uložiť ako koncept";
@@ -79,9 +62,9 @@ $locale['news_0212'] = "Automatické zalomenie riadkov";
 $locale['news_0213'] = "Povoliť komentáre";
 $locale['news_0214'] = "Povoliť hodnotenia";
 $locale['news_0215'] = "Koncept";
-$locale['news_0217'] = "Max. veľkosť súborov %s / Povolené typy súborov GIF, JPEG alebo PNG.";
+$locale['news_0217'] = "Max. veľkosť súborov %s / Povolené typy súborov .gif, .jpg alebo .png.";
 $locale['news_0218'] = "Zarovnanie obrázku";
-$locale['news_0219'] = "Zlom strany";
+$locale['news_0219'] = "Zalomenie stránky";
 $locale['news_0241'] = "Uložiť novinku";
 $locale['news_0242'] = "Možnosti vyhľadávania";
 $locale['news_0243'] = "Vymazať";
@@ -140,7 +123,7 @@ $locale['news_0710'] = "Konfigurácia fotografií noviniek";
 $locale['news_601'] = "Veľkosť náhľadu:";
 $locale['news_602'] = "Veľkosť fotky:";
 $locale['news_603'] = "Max. veľkosť fotky:";
-$locale['news_604'] = "Šírka x výška";
+$locale['news_604'] = "Šírka x Výška";
 $locale['news_605'] = "Max. veľkosť súboru (bajtov):";
 $locale['news_950'] = "Nahraná fotka";
 $locale['news_951'] = "Link obrázk:";

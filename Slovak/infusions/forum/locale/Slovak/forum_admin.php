@@ -1,24 +1,8 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/forum/locale/Slovak/forum_admin.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['500'] = "Fórum";
 $locale['501'] = "Panel najnovších aktivít vlákien fóra:";
-$locale['502'] = "On";
-$locale['503'] = "Off";
+$locale['502'] = "Zap";
+$locale['503'] = "Vyp";
 $locale['505'] = "Nedávne vlákna";
 $locale['506'] = "(Panel najnovších aktivít vlákien fóra)";
 $locale['507'] = "Zobraziť IP verejne:";
@@ -28,11 +12,9 @@ $locale['510'] = "Povolené typy súborov:";
 $locale['511'] = "Stlačte enter po každom kľúčovom slove";
 $locale['512'] = "Oznámenie o vlákne";
 $locale['513'] = "Zobraziť reputáciu";
-$locale['518'] = "Áno";
-$locale['519'] = "Nie";
 $locale['520'] = "Povoliť hodnosti fóra";
 $locale['521'] = "Zamkúť úpravu:";
-$locale['522'] = "(Zabráňte užívateľom upravovať ich príspevky)";
+$locale['522'] = "(Zabrániť užívateľom upravovať ich príspevky)";
 $locale['523'] = "Prepočítať príspevky užívateľov";
 $locale['524'] = "[HOTOVO]";
 $locale['525'] = "Časový limit obľúbených vlákien:";
@@ -74,7 +56,7 @@ $locale['forum_011'] = "Alias fóra";
 $locale['forum_012'] = "Kľúčové slová (stlačte enter po každom kľúčovom slove)";
 $locale['forum_013'] = "Nahrať obrázok";
 $locale['forum_014'] = "URL obrázku";
-$locale['forum_015'] = "Max. veľkosť súboru: %s a musí to byť typ obrázka .png,.bmp,.jpg,.gif";
+$locale['forum_015'] = "Max. veľkosť súboru: %s a musí to byť typ obrázka .png, .bmp, .jpg, .gif";
 $locale['forum_016'] = "Ak sa nahraje obrázok, URL adresa sa nepoužije.";
 $locale['forum_017'] = "Pravidlá fóra alebo oznámenia";
 $locale['forum_018'] = "Zadajte nový názov fóra";
@@ -115,7 +97,7 @@ $locale['forum_053'] = "Nie, odstrániť vlákna a príspevky fóra";
 $locale['forum_054'] = "Presunúť subfóra";
 $locale['forum_055'] = "Nie, odstrániť subfóra";
 $locale['forum_056'] = "Základný adresár";
-$locale['forum_057'] = "Vlákna: ";
+$locale['forum_057'] = "Témy: ";
 $locale['forum_058'] = "Subfóra: ";
 $locale['forum_059'] = "Príspevky: ";
 $locale['forum_060'] = "Možnosti odstránenia fóra";
@@ -170,7 +152,7 @@ $locale['forum_142'] = "Prílohy súborov a obrázkov príspevku";
 $locale['forum_143'] = "Konfigurácia správania sa príspevku";
 
 $locale['forum_150'] = "<strong>Povoliť užívateľské polia v podrobných príspevkoch.</strong> Užívateľské polia sú vlastné užívateľské informácie, ktoré je možné spravovať v [LINK]administrácii užívateľských polí[/LINK]";
-$locale['forum_151'] = "V tejto kategórii Nie sú pridané užívateľské polia.";
+$locale['forum_151'] = "V tejto kategórii nie sú pridané užívateľské polia.";
 $locale['forum_152'] = "Neexistujú žiadne kategórie užívateľských polí.";
 $locale['forum_admin_000'] = "Správa fóra";
 $locale['forum_admin_001'] = "Hodnosti fóra";
@@ -212,4 +194,4 @@ $locale['forum_opts_002'] = "Fórum";
 $locale['forum_opts_003'] = "Odkaz";
 $locale['forum_opts_004'] = "Podpora &amp; Odpovede";
 $locale['forum_points'] = "Body fóra";
-$locale['forum_root'] = "Fórum index";
+$locale['forum_root'] = "Správa fóra";

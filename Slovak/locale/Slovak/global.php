@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/global.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 /**
  * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
  * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
@@ -24,7 +8,7 @@
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
  * @locale filemanager       refer to path includes/filemanager/lang/{value}.php
  */
-setlocale(LC_ALL, "sk_SK.UTF-8", "sk-SK", "slovak");
+setlocale(LC_ALL, "sk_SK.UTF-8", "sk-SK", "slovak"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "SK";
 $locale['xml_lang'] = "sk";
@@ -454,7 +438,7 @@ $locale['choose-user'] = "Prosím, vyberte užívateľa..";
 $locale['choose-location'] = "Prosím, vyberte miesto";
 $locale['parent'] = "Vytvoriť ako nový rodič..";
 $locale['item_order'] = "Zoradenie položiek";
-$locale['status'] = "Status";
+$locale['status'] = "Stav";
 $locale['note'] = "Poznačiť si túto položku";
 $locale['publish'] = "Publikovať";
 $locale['unpublish'] = "Nepublikovať";

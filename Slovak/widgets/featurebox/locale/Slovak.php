@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: widgets/featurebox/locale/Slovak.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['FBW_0100'] = "Feature Box";
 $locale['FBW_0101'] = "Feature Box Plugin";
 $locale['FBW_0200'] = "Názov boxu";
@@ -39,7 +23,7 @@ $locale['FBW_0218'] = "Margin top ikonky";
 $locale['FBW_0219'] = "Zadajte top margin medzi ikonou a okrajom";
 $locale['FBW_0220'] = "Margin bottom ikonky";
 $locale['FBW_0221'] = "Zadajte bottom margin medzi ikonou a nadpisom";
-$locale['FBW_0222'] = "Box Padding";
+$locale['FBW_0222'] = "Padding bloku";
 $locale['FBW_0223'] = "Zadajte vzdialenosť top, left, right, bottom boxu";
 $locale['FBW_0224'] = "Box Link Margin Top";
 $locale['FBW_0225'] = "Zadajte top margin medzi linkom a popisom";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/articles/locale/Slovak/article_admin.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['article_0000'] = "Články";
 $locale['article_0001'] = "Články";
 $locale['article_0002'] = "Pridať článok";
@@ -37,8 +21,8 @@ $locale['article_0044'] = "V kategórii sú články alebo podkategórie";
 $locale['article_0045'] = "Kategórie boli úspešne aktualizované";
 $locale['article_0046'] = "Kategórie sa nedajú odstrániť";
 $locale['article_0048'] = "Musíte si vybrať aspoň jednu kategóriu";
-$locale['article_0060'] = "Príspevok bol úspešne zverejnený";
-$locale['article_0061'] = "Príspevok bol úspešne uložený ako koncept";
+$locale['article_0060'] = "Príspevok bol publikovaný";
+$locale['article_0061'] = "Príspevok bol uložený ako koncept";
 $locale['article_0062'] = "Príspevok bol úspešne odstránený";
 $locale['article_0063'] = "Neexistujú žiadne nové príspevky na schválenie.";
 $locale['article_0100'] = "Predmet";
@@ -50,11 +34,11 @@ $locale['article_0105'] = "Autor";
 $locale['article_0106'] = "Viditeľnosť";
 $locale['article_0107'] = "Akcie";
 $locale['article_0111'] = "Odstrániť tento článok?";
-$locale['article_0112'] = "Neboli vytvorené žiadne články.";
+$locale['article_0112'] = "Nie sú vytvorené žiadne články.";
 $locale['article_0113'] = "Neexistujú žiadne články, ktoré by sa zhodovali s možnosťami vyhľadávania.";
 $locale['article_0114'] = "Skôr než vytvoríte článok, musíte vytvoriť kategóriu.";
 $locale['article_0121'] = "Hľadať";
-$locale['article_0122'] = "Vymazať";
+$locale['article_0122'] = "Vyčistiť";
 $locale['article_0123'] = "Vyberte stav";
 $locale['article_0124'] = "Všetky stavy";
 $locale['article_0125'] = "Vyberte viditeľnosť";
@@ -81,7 +65,7 @@ $locale['article_0253'] = "Samotný článok.";
 $locale['article_0254'] = "Úryvok z článku.";
 $locale['article_0256'] = "Uložiť ako koncept";
 $locale['article_0257'] = "Automatické zalomenie riadkov";
-$locale['article_0258'] = "Povoliť homentáre";
+$locale['article_0258'] = "Povoliť komentáre";
 $locale['article_0259'] = "Povoliť hodnotenia";
 $locale['article_0260'] = "Kľúčové slová";
 $locale['article_0260a'] = "Stlačte enter po každom kľúčovom slove.";
@@ -95,7 +79,7 @@ $locale['article_0274'] = "%s sú zakázané pre všetky položky.<br/>Toto nast
 $locale['article_0303'] = "Rodič";
 $locale['article_0304'] = "Popis";
 $locale['article_0320'] = "Musíte zadať názov.";
-$locale['article_0321'] = "Už existuje kategória s týmto názvom.";
+$locale['article_0321'] = "Kategória s týmto názvom už existuje.";
 $locale['article_0322'] = "Musíte zadať popis.";
 $locale['article_0350'] = "Vyššie uvedený príspevok bol odoslaný od {%SUBMISSION_AUTHOR%}.";
 $locale['article_0351'] = "Dátum príspevku: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";

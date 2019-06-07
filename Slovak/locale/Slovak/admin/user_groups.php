@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/admin/user_groups.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Edit/Save/Delete User Group Messages
 $locale['GRP_400'] = "Užívateľská skupina bola aktualizovaná";
 $locale['GRP_401'] = "Užívateľská skupina bola pridaná";
@@ -27,7 +11,7 @@ $locale['GRP_408'] = "Nebol vybraný užívateľ alebo skupina.";
 $locale['GRP_409'] = " Pridať užívateľskú skupinu.";
 
 $locale['GRP_410'] = "Užívateľ \"%s\" bol pridaný do \"%s\"";
-$locale['GRP_411'] = "Užívateľ \"%s\" bol odstránemý z \"%s\"";
+$locale['GRP_411'] = "Užívateľ \"%s\" bol odstránený z \"%s\"";
 $locale['GRP_412'] = "\"%s\" užívatelia boli odstránený z \"%s\"";
 
 // Edit/Delete Options

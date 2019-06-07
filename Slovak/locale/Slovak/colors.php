@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Slovak/colors.php
-| Author: RobiNN
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 //color selection for multiple droplists
 $locale['color_0'] = "Null";
 $locale['color_1'] = "Alicová modrá";
@@ -57,7 +41,7 @@ $locale['color_37'] = "Tmavofialová";
 $locale['color_38'] = "Sýto ružová";
 $locale['color_39'] = "Sýto nebeská modrá";
 $locale['color_40'] = "Šedá";
-$locale['color_41'] = "Dodger Blue";
+$locale['color_41'] = "Púdrovo modrá";
 $locale['color_42'] = "Šamotová tehla";
 $locale['color_43'] = "Kvietinová bielá";
 $locale['color_44'] = "Lesná zelená";
@@ -72,7 +56,7 @@ $locale['color_52'] = "Zeleno žltá";
 $locale['color_53'] = "Medovicová";
 $locale['color_54'] = "Horúca rúžová";
 $locale['color_55'] = "Indická červená";
-$locale['color_56'] = "Indigo";
+$locale['color_56'] = "Tmavomodrá";
 $locale['color_57'] = "Khaki";
 $locale['color_58'] = "Levanduľová";
 $locale['color_59'] = "Levanduľovo červená";
@@ -156,7 +140,7 @@ $locale['color_136'] = "Pálená oranžová";
 $locale['color_137'] = "Tmavo olivová";
 $locale['color_138'] = "Tmavo zelená";
 $locale['color_139'] = "Tmavo azúrová";
-$locale['color_140'] = "Indigo";
+$locale['color_140'] = "Tmavomodrá";
 $locale['color_141'] = "Tmavošedá";
 $locale['color_142'] = "Oranžová";
 $locale['color_143'] = "Sivo modrá";
