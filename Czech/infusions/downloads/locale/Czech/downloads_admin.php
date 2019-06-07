@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/downloads/locale/Czech/downloads_admin.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['download_604'] = "Šířka x Výška";
 $locale['download_930'] = "Maximální velikost souboru:";
 $locale['download_931'] = "Maximální velikost souboru v bajtech";
@@ -103,7 +87,6 @@ $locale['download_0212'] = "Uložit soubor";
 $locale['download_0213'] = "Aktualizovat datum publikace";
 $locale['download_0214'] = "Nahrát soubor";
 $locale['download_0215'] = "URL odkaz ke stažení";
-$locale['download_0216'] = "Vymazat";
 $locale['download_0217'] = "Vypočítat velikost souboru";
 $locale['download_0218'] = "Max. velikost souboru: %s / Povolené typy souborů: %s";
 $locale['download_0219'] = "Max. velikost souboru: %s / Povolené typy souborů: %s / Max. šířka: %spx, max. výška: %spx";
@@ -112,7 +95,6 @@ $locale['download_0221'] = "Domovská stránka:";
 $locale['download_0222'] = "Autorská práva:";
 $locale['download_0223'] = "Povolit komentáře";
 $locale['download_0224'] = "Povolit hodnocení";
-$locale['download_0225'] = "Zrušit";
 $locale['download_0226'] = "Otestovat soubor";
 $locale['download_0227'] = "Možnosti";
 $locale['download_0249'] = "Nejsou definovány žádné kategorie.";

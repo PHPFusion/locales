@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/colors.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 //color selection for multiple droplists
 $locale['color_0'] = "Null";
 $locale['color_1'] = "Alice modrá";
@@ -28,7 +12,7 @@ $locale['color_8'] = "Černá";
 $locale['color_9'] = "Blanched Almond";
 $locale['color_10'] = "Modrá";
 $locale['color_11'] = "Modrá fialová";
-$locale['color_12'] = "Brown";
+$locale['color_12'] = "Hnědá";
 $locale['color_13'] = "Břicho dřeva";
 $locale['color_14'] = "Cadet Blue";
 $locale['color_15'] = "Kartografie";
@@ -37,7 +21,7 @@ $locale['color_17'] = "Korál";
 $locale['color_18'] = "Chrpa modrá";
 $locale['color_19'] = "Konzola";
 $locale['color_20'] = "Karmínová";
-$locale['color_21'] = "Cyan";
+$locale['color_21'] = "Azurová";
 $locale['color_22'] = "Tmavě modrá";
 $locale['color_23'] = "Tmavě azurová";
 $locale['color_24'] = "Dark Golden Rod";
@@ -54,7 +38,7 @@ $locale['color_34'] = "Tmavá břidlice modrá";
 $locale['color_35'] = "Tmavá bílá šedá";
 $locale['color_36'] = "Tmavě tyrkysová";
 $locale['color_37'] = "Tmavě fialová";
-$locale['color_38'] = "Deep Pink";
+$locale['color_38'] = "Tmavě růžová";
 $locale['color_39'] = "Deep Sky Blue";
 $locale['color_40'] = "Dim šedá";
 $locale['color_41'] = "Dodger Blue";
@@ -91,8 +75,8 @@ $locale['color_71'] = "Světlé nebe modrá";
 $locale['color_72'] = "Světlá šedá šedá";
 $locale['color_73'] = "Světlá ocelová modrá";
 $locale['color_74'] = "Světlá žlutá";
-$locale['color_75'] = "Lime";
-$locale['color_76'] = "Magenta";
+$locale['color_75'] = "Limetková";
+$locale['color_76'] = "Fialová";
 $locale['color_77'] = "Purpurová";
 $locale['color_78'] = "Medium Aqua Marine";
 $locale['color_79'] = "Střední modrá";
@@ -110,9 +94,9 @@ $locale['color_90'] = "Moccasin";
 $locale['color_91'] = "Navajo White";
 $locale['color_92'] = "Námořnictvo";
 $locale['color_93'] = "Stará krajka";
-$locale['color_94'] = "Olive";
+$locale['color_94'] = "Olivová";
 $locale['color_95'] = "Olive Drab";
-$locale['color_96'] = "Orange";
+$locale['color_96'] = "Oranžová";
 $locale['color_97'] = "Oranžová červená";
 $locale['color_98'] = "Orchid";
 $locale['color_99'] = "Bledý zlatý prut";
@@ -122,8 +106,8 @@ $locale['color_102'] = "Bledá fialová červená";
 $locale['color_103'] = "Papája bič";
 $locale['color_104'] = "Peach Puff";
 $locale['color_105'] = "Peru";
-$locale['color_106'] = "Pink";
-$locale['color_107'] = "Plum";
+$locale['color_106'] = "Růžová";
+$locale['color_107'] = "Švestkově modrá";
 $locale['color_108'] = "Prášek modrý";
 $locale['color_109'] = "Fialová";
 $locale['color_110'] = "Červená";
@@ -142,7 +126,7 @@ $locale['color_122'] = "Sníh";
 $locale['color_123'] = "Spring Green";
 $locale['color_124'] = "Ocelová modrá";
 $locale['color_125'] = "Opálená";
-$locale['color_126'] = "Teal";
+$locale['color_126'] = "Modrozelená";
 $locale['color_127'] = "Bodlovka";
 $locale['color_128'] = "Tomato";
 $locale['color_129'] = "Tyrkysová";
@@ -158,21 +142,21 @@ $locale['color_138'] = "Tmavě zelená";
 $locale['color_139'] = "Tmavý azurový";
 $locale['color_140'] = "Indigo";
 $locale['color_141'] = "Tmavě šedá";
-$locale['color_142'] = "Orange";
+$locale['color_142'] = "Oranžová";
 $locale['color_143'] = "Šedá modrá";
 $locale['color_144'] = "Jantar";
 $locale['color_145'] = "Světle zelená";
-$locale['color_146'] = "Sea Green";
-$locale['color_147'] = "Turquoise";
+$locale['color_146'] = "Zelené moře";
+$locale['color_147'] = "Tyrkysová";
 $locale['color_148'] = "Královská modrá";
 $locale['color_149'] = "Střední šedá";
 $locale['color_150'] = "Zlato";
-$locale['color_151'] = "Sky Blue";
+$locale['color_151'] = "Modrá obloha";
 $locale['color_152'] = "Červená fialová";
-$locale['color_153'] = "Pink";
+$locale['color_153'] = "Růžová";
 $locale['color_154'] = "Peach";
 $locale['color_155'] = "Světlá žlutá";
 $locale['color_156'] = "Pale zelená";
 $locale['color_157'] = "Bledá azurová";
 $locale['color_158'] = "Pale modrá";
-$locale['color_159'] = "Plum";
+$locale['color_159'] = "Švestkově modrá";

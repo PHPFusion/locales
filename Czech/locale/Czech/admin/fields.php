@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/admin/fields.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // New locale for Quantum Fields
 $locale['fields_0100'] = "Tato stránka přidává pole přímo do tabulky: %s";
 $locale['fields_0101'] = "Tato stránka přidává pole přímo do tabulky: %s, v kombinaci s DB_USERS pomocí sloupce %s";

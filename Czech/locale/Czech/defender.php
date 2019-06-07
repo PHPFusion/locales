@@ -1,23 +1,7 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/defender.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['validate'] = "Zkontrolujte zápis a znovu ověřte správnost";
-$locale['error_request'] = "Během zpracování žádosti došlo k chybě";
-$locale['regex_error'] = "Zkontrolujte a znovu potvrďte platnost %s pole";
+$locale['error_request'] = "Během zpracování žádosti došlo k chybě"; // to be moved
+$locale['regex_error'] = "Zkontrolujte a znovu potvrďte platnost %s pole"; // to be moved
 // Text fields errors
 $locale['error_input_username'] = "Zadejte své uživatelské jméno";
 $locale['error_input_default'] = "Vyplňte toto pole";
@@ -29,8 +13,8 @@ $locale['error_input_regex'] = "Zadejte nyní platný vzor";
 $locale['error_input_safemode'] = "Vyplňte toto pole správně";
 $locale['error_input_check'] = "Vyplňte správnou hodnotu pole";
 $locale['df_error_text'] = "%s má chybu a vyžaduje vaši pozornost.";
-$locale['error_invalid_theme'] = "Vyberte platné vzhledy";
-$locale['error_input_checkbox'] = "Označte zaškrtávací políčko";
+$locale['error_invalid_theme'] = "Vyberte platné vzhledy"; // to be moved
+$locale['error_input_checkbox'] = "Označte zaškrtávací políčko"; // to be moved
 $locale['error_input_file'] = "Vyberte platný soubor";
 $locale['error_secure_file'] = "Nahraný soubor byl zamítnut kvůli možné škodlivé užitečné zátěži.";
 // Admin Login
@@ -103,7 +87,7 @@ $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Googlu";
 $locale['no_keys'] = "Vypadá to, že ještě žádné klíče nemáte. Zaregistrujte se a získejte své [RECAPTCHA_LINK]klíče zde[/RECAPTCHA_LINK]";
 // here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Zkontrolujte své klíče Google reCAPTCHA</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Klíč stránky";
 $locale['grecaptcha_0101'] = "Tajný klíč";
 $locale['grecaptcha_0102'] = "Téma";

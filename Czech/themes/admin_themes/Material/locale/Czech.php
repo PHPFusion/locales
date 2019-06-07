@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: themes/admin_themes/Material/locale/Czech.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['material_001'] = 'Vyhledávání (více než 2 znaky)';
 $locale['material_002'] = 'Nastavení témata';
 $locale['material_003'] = 'Skrýt postranní panel';

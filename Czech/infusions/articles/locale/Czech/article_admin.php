@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/articles/locale/Czech/article_admin.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['article_0000'] = "Články";
 $locale['article_0001'] = "Články";
 $locale['article_0002'] = "Přidat článek";
@@ -114,4 +98,4 @@ $locale['article_0920'] = "Použijte tento formulář k odeslání článku.<br/
 $locale['article_0921'] = "Chcete-li odeslat článek, musíte se přihlásit.";
 $locale['article_0922'] = "V současné době nepřijímáme nové příspěvky.";
 $locale['article_0923'] = "Nemůžete odeslat článek, protože nejsou definovány žádné kategorie.";
-$locale['article_submit']  = "%s články";
+$locale['article_submit'] = "%s články";

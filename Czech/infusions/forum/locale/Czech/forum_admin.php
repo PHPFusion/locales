@@ -1,24 +1,8 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/forum/locale/Czech/forum_admin.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['500'] = "Fórum";
 $locale['501'] = "Panel nejnovějších aktivit vláken fóra:";
-$locale['502'] = "On";
-$locale['503'] = "Off";
+$locale['502'] = "Zap";
+$locale['503'] = "Vyp";
 $locale['505'] = "Nedávné vlákna";
 $locale['506'] = "(Panel nejnovějších aktivit vláken fóra)";
 $locale['507'] = "Zobrazit IP veřejně:";
@@ -28,8 +12,6 @@ $locale['510'] = "Povolené typy souborů:";
 $locale['511'] = "Po každém klíčovém slove stiskněte enter";
 $locale['512'] = "Oznámení o vláknu";
 $locale['513'] = "Zobrazit reputaci";
-$locale['518'] = "Ano";
-$locale['519'] = "Ne";
 $locale['520'] = "Povolit hodnosti fóra";
 $locale['521'] = "Zamknout upravu:";
 $locale['522'] = "(Zabraňte uživatelům, aby upravovali své příspěvky)";
@@ -109,7 +91,7 @@ $locale['forum_045'] = "Posunout dolů";
 $locale['forum_046'] = "Posunout nahoru";
 $locale['forum_049'] = "Odstranit fórum";
 $locale['forum_050'] = "Subforum";
-$locale['forum_051'] = "Alias: ";
+$locale['forum_051'] = "Alias:";
 $locale['forum_052'] = "Přesunout vlákna a příspěvky fóra";
 $locale['forum_053'] = "Ne, odstranit vlákna a příspěvky fóra";
 $locale['forum_054'] = "Přesunout subfóra";
@@ -208,7 +190,7 @@ $locale['forum_notice_8'] = "Obrázek fóra byl odstraněn";
 $locale['forum_notice_9'] = "Podrobnosti fóra byly aktualizovány";
 $locale['forum_notice_na'] = "Neplatná akce fóra";
 $locale['forum_opts_001'] = "Kategorie";
-$locale['forum_opts_002'] = "Forum";
+$locale['forum_opts_002'] = "Fórum";
 $locale['forum_opts_003'] = "Odkaz";
 $locale['forum_opts_004'] = "Podpora &amp; Odpovědi";
 $locale['forum_points'] = "Body fóra";

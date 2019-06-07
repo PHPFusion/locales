@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/global.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 /**
  * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
  * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
@@ -24,7 +8,7 @@
  * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
  * @locale filemanager       refer to path includes/filemanager/lang/{value}.php
  */
-setlocale(LC_ALL, "cs_CZ.UTF-8", "cs_CZ", "czech");
+setlocale(LC_ALL, "cs_CZ.UTF-8", "cs_CZ", "czech"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8";
 $locale['region'] = "CZ";
 $locale['xml_lang'] = "cs";
@@ -104,7 +88,7 @@ $locale['status5'] = "Zrušeno";
 $locale['status6'] = "Anonymní";
 $locale['status7'] = "Deaktivováno";
 $locale['status8'] = "Neaktivní";
-// Standard User Status
+// Forum Moderator Level(s)
 $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigace";
@@ -147,7 +131,7 @@ $locale['global_044'] = "Vlákno";
 $locale['global_045'] = "Zobrazení";
 $locale['global_046'] = "Odpovědi";
 $locale['global_047'] = "Poslední příspěvek";
-$locale['global_048'] = "Forum";
+$locale['global_048'] = "Fórum";
 $locale['global_049'] = "Přidáno";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Anketa";

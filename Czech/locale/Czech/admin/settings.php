@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/admin/settings.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['400'] = "Nastavení";
 $locale['401a'] = "Nastavení hostitelské stránky";
 $locale['401b'] = "Konfigurace pro vaše webové adresy, porty a protokoly stránky.";
@@ -149,7 +133,7 @@ $locale['669ML'] = "Vyberte tabulky, které budou obsahovat vícejazyčné údaj
 $locale['670ML'] = "Články";
 $locale['671ML'] = "Vlastní stránky";
 $locale['672ML'] = "Ke stažení";
-$locale['673ML'] = "FAQs";
+$locale['673ML'] = "FAQ";
 $locale['674ML'] = "Fórum";
 $locale['675ML'] = "Novinky";
 $locale['676ML'] = "Foto galérie";

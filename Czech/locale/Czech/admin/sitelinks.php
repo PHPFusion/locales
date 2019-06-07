@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/admin/sitelinks.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // News titles
 $locale['SL_0001'] = "Odkazy na stránku";
 $locale['SL_0010'] = "Přidat odkaz na stránku";
@@ -67,6 +51,7 @@ $locale['SL_0053'] = "Možnosti";
 
 $locale['SL_0062'] = "Nebyly definovány žádné odkazy na stránky.";
 $locale['SL_0063'] = "Použít BB kódy v názvu odkazu?";
+
 
 $locale['SL_0070'] = "Ikona";
 $locale['SL_0071'] = "Nové okno?";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/blog/locale/Czech/blog_admin.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Blog Submissions messages
 $locale['blog_0130'] = "V současné době nejsou odeslány žádné blogy";
 $locale['blog_0131'] = "Prozkoumat příspěvek";
@@ -53,8 +37,6 @@ $locale['blog_0415'] = "Obrázek musí být jeden z následujících typů soubo
 $locale['blog_0416'] = "Obrázek nesmí být větší než %s pixelů.";
 $locale['blog_0417'] = "Neznámá chyba";
 // Blog form
-$locale['blog_0420'] = "Upravit";
-$locale['blog_0421'] = "Vymazat";
 $locale['blog_0422'] = "Předmět blogu";
 $locale['blog_0423'] = "Kategorie:";
 $locale['blog_0424'] = "Nezařazené";

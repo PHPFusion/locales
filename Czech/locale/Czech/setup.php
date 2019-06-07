@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/setup.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['setup_0000'] = "PHP-Fusion Instalace";
 $locale['setup_0002'] = "Vítej v PHP-Fusion instalaci";
 $locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>online dokumentaci instalace</a>.";
@@ -293,7 +277,7 @@ $locale['setup_3622'] = "Smutný";
 $locale['setup_3623'] = "Zamračený";
 $locale['setup_3624'] = "Šokován";
 $locale['setup_3625'] = "Pfft";
-$locale['setup_3626'] = "Cool";
+$locale['setup_3626'] = "Hustý";
 $locale['setup_3627'] = "Šklebící se";
 $locale['setup_3628'] = "Rozzlobený";
 $locale['setup_3629'] = "Líbí se mi to";

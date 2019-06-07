@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/faq/locale/Czech/faq.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['faq_0000'] = "FAQ";
 $locale['faq_0001'] = "Kategorie";
 $locale['faq_0002'] = "Hore";
@@ -49,8 +33,8 @@ $locale['faq_0105'] = "Autor";
 $locale['faq_0106'] = "Viditelnost";
 $locale['faq_0107'] = "Akce";
 $locale['faq_0111'] = "Smazat tento FAQ?";
-$locale['faq_0112'] = "Nejsou zde definovány žádné FAQ.";
 $locale['faq_0112'] = "Nejsou zde definovány žádné FAQ kategorie.";
+$locale['faq_0112a'] = "Nejsou definovány žádné kategorie.";
 $locale['faq_0113'] = "Neexistují žádné nejčastější dotazy, které by odpovídaly možnosti hledání.";
 $locale['faq_0114'] = "Než vytvoříte FAQ, musíte vytvořit kategorii.";
 $locale['faq_0115'] = "Název Kategorie";

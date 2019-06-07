@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/member_poll_panel/locale/Czech/polls.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['POLL_001'] = "Ankety";
 $locale['POLL_002'] = "Archiv anket";
 $locale['POLL_005'] = "Anketa byla přidána";
@@ -29,7 +13,7 @@ $locale['POLL_013'] = "Váš hlas byl zaregistrován";
 $locale['POLL_014'] = "Chyba při odesílání hlasu";
 $locale['POLL_020'] = "Odeslat hlas";
 $locale['POLL_021'] = "Možnosti";
-$locale['POLL_022'] = "Start";
+$locale['POLL_022'] = "Začátek";
 $locale['POLL_023'] = "Restartovat";
 $locale['POLL_024'] = "Zavřít";
 $locale['POLL_040'] = "Hlas|Hlasy|Hlasů";

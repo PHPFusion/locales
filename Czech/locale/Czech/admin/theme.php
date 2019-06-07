@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Czech/admin/theme.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['theme_1000'] = "Správce vzhledu";
 $locale['theme_1001'] = "Název vzhledu:";
 $locale['theme_1002'] = "Přednastavené vzhledy";
@@ -107,7 +91,7 @@ $locale['theme_3013'] = "Šířka hranice";
 $locale['theme_3014'] = "Poloměr hranice";
 $locale['theme_3015'] = "Hlavní";
 $locale['theme_3016'] = "Normální stav";
-$locale['theme_3017'] = "Hover State";
+$locale['theme_3017'] = "Při přechodu";
 $locale['theme_3018'] = "Aktivní stav";
 $locale['theme_3019'] = "Barev pozadí na pozadí";
 $locale['theme_3020'] = "Aktivní barva pozadí";
@@ -134,7 +118,7 @@ $locale['theme_4015'] = "Horizontální stylování textu";
 $locale['theme_4016'] = "Styling odkazů";
 
 $locale['theme_5000'] = "Normální";
-$locale['theme_5001'] = "Bold";
+$locale['theme_5001'] = "Tučně";
 $locale['theme_5002'] = "Kurzíva";
 $locale['theme_5003'] = "Podtrženo";
 $locale['theme_5004'] = "Tučné a podtržené";

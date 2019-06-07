@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/gallery/locale/Czech/gallery_admin.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['album_0001'] = "Název alba";
 $locale['album_0002'] = "Název fotogalerie";
 $locale['album_0003'] = "Popis alba";
@@ -133,5 +117,4 @@ $locale['photo_0024'] = "Fotografie byla smazána";
 $locale['photo_0025'] = "Odstranit všechny fotografie";
 $locale['photo_0026'] = "[STRONG]VAROVÁNÍ:[/STRONG] Kliknutím na odstranit [STRONG]se natrvalo odstraní všechny fotografie[/STRONG] v tomto albu. Jste si tím jistí?";
 $locale['photo_0027'] = "Potvrďte smazání";
-$locale['photo_0028'] = "Zrušení";
 $locale['gallery_submit'] = "%s fotky";

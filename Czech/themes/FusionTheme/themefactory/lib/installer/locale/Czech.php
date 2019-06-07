@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: themes/FusionTheme/themefactory/lib/installer/locale/Czech.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['homeSetup_0200'] = 'Chcete nainstalovat výchozí stránku témata Nebula?';
 $locale['homeSetup_0201'] = 'Ano, nainstalovat stránku';
 $locale['homeSetup_0202'] = 'Ne, díky';
@@ -29,7 +13,7 @@ $locale['homeSetup_0103'] = 'Nejjednodušší způsob, jak vytvořit webovou str
 $locale['homeSetup_0104'] = "Carousel";
 $locale['homeSetup_0105'] = "Feature Box";
 $locale['homeSetup_0106'] = "Panel";
-$locale['homeSetup_0107'] = "Block";
+$locale['homeSetup_0107'] = "Blok";
 $locale['homeSetup_0112'] = "Témata";
 $locale['homeSetup_0113'] = "Naše témata přinášejí úžasný design a výkonné funkce pro vaše webové stránky. Na pixel dokonalé prokázání všestrannosti funkcí vašich webových stránek.";
 $locale['homeSetup_0114'] = "Proč budete milovat PHP-Fusion 9";

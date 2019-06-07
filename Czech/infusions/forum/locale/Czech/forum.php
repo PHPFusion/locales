@@ -1,27 +1,12 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/forum/locale/Czech/forum.php
-| Author: https://www.phpfusion.cz/ - Team
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['error-DP001'] = "Nejsou žádné příspěvky, které mají být odstraněny.";
 $locale['error-MP000'] = "Přesun příspěvků - chyba";
 $locale['error-MP001'] = "Nové vlákno neexistuje.";
 $locale['error-MP002'] = "Příspěvky, které jste označili na přesun, neexistují, nebo je už někdo jiný přesunul.";
 
+
 $locale['forum_0000'] = "Diskuzní fórum";
-$locale['forum_0001'] = "Forum";
+$locale['forum_0001'] = "Fórum";
 $locale['forum_0002'] = "Vlákna";
 $locale['forum_0003'] = "Příspěvky";
 $locale['forum_0004'] = "Poslední příspěvek";
@@ -47,6 +32,7 @@ $locale['forum_0022'] = "Odpověděl v";
 $locale['forum_0023'] = "Re:";
 $locale['forum_0024'] = "Zobrazit všechny diskusní příspěvky";
 
+
 $locale['forum_0050'] = "Zobrazit fórum";
 $locale['forum_0051'] = "Předmět";
 $locale['forum_0052'] = "Autor";
@@ -54,7 +40,7 @@ $locale['forum_0053'] = "Zobrazení";
 $locale['forum_0054'] = "Odpovědi";
 $locale['forum_0055'] = "Stránka:";
 $locale['forum_0056'] = "Žádné vlákna nebyly spuštěny";
-$locale['forum_0057'] = $locale['forum_0264'] = "Začít nové vlákno";
+$locale['forum_0057'] = "Založit novou diskusi";
 $locale['forum_0058'] = "Zeptat se otázku";
 
 $locale['forum_0080'] = "Označit vše";
@@ -138,7 +124,6 @@ $locale['forum_0261'] = "Žádné nové příspěvky";
 $locale['forum_0262'] = "Připnuté vlákno";
 $locale['forum_0263'] = "Uzamčené vlákno";
 
-$locale['forum_0265'] = "Upravit";
 $locale['forum_0266'] = "Citovat";
 $locale['forum_0267'] = "napsal";
 $locale['forum_0268'] = "IP uživatele";
@@ -277,7 +262,6 @@ $locale['forum_0606'] = "Možnost hlasování %s";
 $locale['forum_0607'] = "Anketa byla přidána do diskuze.";
 $locale['forum_0608'] = "Přidat možnost hlasování";
 $locale['forum_0609'] = "Aktualizace";
-$locale['forum_0610'] = "Vymazat";
 $locale['forum_0611'] = "Důvod úpravy";
 $locale['forum_0612'] = "Anketa byla upravena";
 $locale['forum_0613'] = "Pole označené {REQUIRED} obsahuje hlasy nebo je povinné. V opačném případě ponechte prázdné pro odstranění možností dotazování";
@@ -380,5 +364,6 @@ $locale['forum_perm_rate'] = "Vy %s příspěvku zvýšit nebo snížit hodnocen
 $locale['forum_perm_reply'] = "Vy %s odpovědět v této diskusi.";
 $locale['forum_perm_upload'] = "Vy %s na tomto fóru nahrát přílohy.";
 $locale['forum_perm_vote_poll'] = "Vy %s hlasovat v anketě v tomto vlákně";
+
 $locale['success-DP001'] = "Příspěvek byl úspěšně odstraněn";
 $locale['success-DP002'] = "Všechny příspěvky byly smazány. Fóra byly odebrány, protože již neobsahují žádný příspěvek.";
