@@ -2,7 +2,7 @@ PHP-Fusion Locales
 =================
 
 #### Crowdin
-https://crowdin.com/project/php-fusion-locales
+https://translate.php-fusion.co.uk/
 
 
 Locales for v9: https://github.com/php-fusion/locales/tree/version-9
