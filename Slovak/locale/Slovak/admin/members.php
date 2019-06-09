@@ -58,6 +58,7 @@ $locale['ME_465'] = 'Upozorňujeme, že niektorí užívatelia môžu na váš w
 $locale['ME_466'] = 'Dôrazne sa odporúča zmeniť akciu deaktivácie na anonymizáciu namiesto odstránenia, aby sa zabránilo strate dát!';
 $locale['ME_467'] = "Nastavte deaktivačný systém na anonymizáciu.";
 $locale['ME_468'] = 'Automatické deaktivovanie neaktívnych užívateľov.';
+$locale['ME_469'] = 'Užívateľ bol aktivovaný';
 
 // Actions
 $locale['ME_500'] = 'Ban';
@@ -67,6 +68,7 @@ $locale['ME_503'] = 'Pozastaviť';
 $locale['ME_504'] = 'Bezpečnostný ban';
 $locale['ME_505'] = 'Zrušiť';
 $locale['ME_506'] = 'Anonymizovať';
+$locale['ME_507'] = 'Aktivovať';
 
 // a_message keys
 $locale['ME_550'] = 'zakázaný';
