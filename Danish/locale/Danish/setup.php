@@ -39,7 +39,6 @@ $locale['setup_0118'] = "Det ser ikke ud til, at din server understøtter PDO (P
 $locale['setup_0119a'] = "Overvej at øge grænsen for memory allokeret til PHP til %memory_minimum_limit for at forebygge fejl under installation.";
 $locale['setup_0119b'] = "Øg mængden af allokeret memory ved at rette værdien memory_limit i filen ".get_cfg_var('cfg_file_path')." og genstart så din webserver (eller kontakt din systemadministrator eller din udbyder for at få hjælp til det).";
 $locale['setup_0119c'] = "Kontakt din systemadministrator eller din udbyder for at få hjælp til at øge grænsen for memory allokeret til PHP.";
-$locale['setup_stepx'] = "%2\\$s";
 // Buttons
 $locale['setup_0120'] = "Gør konfigurationen færdig";
 $locale['setup_0121'] = "Gem og fortsæt";
@@ -310,7 +309,7 @@ $locale['setup_3650'] = "Velkommen til din side";
 // Final message
 $locale['setup_1700'] = "Installationen er færdig";
 $locale['setup_1701'] = "PHP-Fusion version 9 er nu klar til at blive taget i brug. Klik på afslut for at få gemt din config_temp.php fil som config.php<br/>";
-$locale['setup_1702'] = "<strong>Bemærk: Når du første gang går ind på din nye side, så skal du slette hele folderen /install og ændre rettigheder på din config.php til 0644 af sikkerhedsmæssige årsager.</strong>";
+$locale['setup_1702'] = "<strong>Bemærk: Når du første gang går ind på din nye side, så skal du slette /install.php og ændre rettigheder på din config.php til 0644 af sikkerhedsmæssige årsager.</strong>";
 $locale['setup_1703'] = "Tak fordi du valgte PHP-Fusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php

@@ -39,7 +39,6 @@ $locale['setup_0118'] = "Váš webový server zřejmě nepodporuje PDO (PHP Data
 $locale['setup_0119a'] = "Zvažte zvýšení limitu paměti PHP na %memory_minimum_limit, abyste zabránili chybám v procesu instalace";
 $locale['setup_0119b'] = "Zvyšte limit paměti úpravou memory_limit parameter v souboru ".get_cfg_var('cfg_file_path')." A poté restartujte webový server (nebo se obraťte na správce systému nebo poskytovatele hostingu o pomoc).";
 $locale['setup_0119c'] = "Obraťte se na svého správce systému nebo poskytovatele hostingu o pomoc při zvyšování limitu paměti PHP";
-$locale['setup_stepx'] = "%2\$s";
 // Buttons
 $locale['setup_0120'] = "Dokončit konfiguraci";
 $locale['setup_0121'] = "Uložit a pokračovat";
@@ -310,7 +309,7 @@ $locale['setup_3650'] = "Vítejte na vašem webu";
 // Final message
 $locale['setup_1700'] = "Instalace je dokončena";
 $locale['setup_1701'] = "PHP-Fusion 9 je nyní připraven k použití. Klepnutím na tlačítko Dokončit přepíšete soubor config_temp.php na config.php<br/>";
-$locale['setup_1702'] = "<strong>Poznámka: Po zadání vašeho webu byste měli z bezpečnostních důvodů smazat celou / instalační složku a chmod your config.php zpět na 0644.</strong>";
+$locale['setup_1702'] = "<strong>Poznámka: Po vstupu na stránku byste měli vymazat /install.php soubor a z bezpečnostních důvodů změňte atributy config.php zpět na 0644.</strong>";
 $locale['setup_1703'] = "Děkujeme, že jste si vybrali PHP-Fusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
@@ -327,7 +326,7 @@ $locale['setup_3802'] = "Máte novou soukromou zprávu od [USER] čekající na 
 $locale['setup_3803'] = "Ahoj [RECEIVER],<br/>\r\nObdrželi jste novou zprávu s názvem [SUBJECT] od [USER] na [SITENAME]. Můžete si přečíst soukromou zprávu na adrese [SITEURL]messages.php<br/>\r\nZpráva: [MESSAGE]<br/>\r\nPokud již nechcete být upozorněni na nové zprávy, můžete vypnout upozornění e-mailem prostřednictvím panelu možností na stránce Soukromá zpráva.<br/>\r\nS pozdravem,<br/>\r\n[SENDER].";
 $locale['setup_3804'] = "Oznámení o nových příspěvcích na fóru";
 $locale['setup_3805'] = "Oznámení odpovědi na téma - [SUBJECT]";
-$locale['setup_3806'] = "Ahoj [RECEIVER],<br/>Odpověď byla zveřejněna ve fóru \'[SUBJECT]\' které sledujete na [SITENAME]. Pro zobrazení odpovědi můžete použít následující odkaz:<br/>[THREAD_URL]<br/>Pokud již nechcete sledovat tuto vlákno, můžete kliknout na \'Zastavit sledování tohoto vlákna\' odkaz umístěný v horní části vlákna.<br/>S pozdravem,<br/>[SENDER].";
+$locale['setup_3806'] = "Ahoj [RECEIVER],<br/>Odpověď byla zveřejněna ve fóru \\'[SUBJECT]\\' které sledujete na [SITENAME]. Pro zobrazení odpovědi můžete použít následující odkaz:<br/>[THREAD_URL]<br/>Pokud již nechcete sledovat tuto vlákno, můžete kliknout na \\'Zastavit sledování tohoto vlákna\\' odkaz umístěný v horní části vlákna.<br/>S pozdravem,<br/>[SENDER].";
 $locale['setup_3807'] = "Kontaktní formulář";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

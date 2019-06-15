@@ -1,26 +1,17 @@
 <?php
-/**
- * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale select2           refer to path includes/dynamics/select2/select2_locale_{value}.js
- * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
- * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
- * @locale filemanager       refer to path includes/filemanager/lang/{value}.php
- */
 setlocale( LC_ALL, "da", "dan", "da_DK", "da_DK.DK.UTF-8", "danish" ); // Linux Server (Windows may differ)
-$locale['charset'] = "utf-8";
-$locale['region'] = "DK";
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "DK"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "da";
 $locale['short_lang_name'] = "da";
-$locale['tinymce'] = "da";
-$locale['select2'] = "da";
-$locale['phpmailer'] = "da";
-$locale['filemanager'] = "da";
-$locale['datepicker'] = "da";
+$locale['tinymce'] = "da"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "da"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "da"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "da"; // refer to path includes/filemanager/lang/{value}.php
+$locale['datepicker'] = "da"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "DD-M-YYYY, H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y, H:i:s";
-$locale['password_strength'] = "da";
+$locale['password_strength'] = "da"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%b %d";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
@@ -329,10 +320,6 @@ $locale['global_459'] = "Der er oprettet et nyt kodeord for USER_NAME, og der bl
 // Function parsebytesize()
 $locale['global_460'] = "Tom";
 $locale['global_461'] = "Bytes";
-$locale['global_462'] = "kB";
-$locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
-$locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Vi sender dig videre til %s, vent venligst. Hvis du ikke bliver sendt videre, så klik her.";
 // Captcha Locales

@@ -96,7 +96,7 @@ $locale['u144'] = "Nové admin heslo";
 $locale['u144a'] = "Aktuálne admin heslo";
 $locale['u145'] = "Potvrdiť admin heslo";
 $locale['u146'] = " nemôže byť rovnaké ako aktuálne ";
-$locale['u147'] = "Heslo musí mať od 8 do 64 znakov.<br/>Povolené znaky sú a-z, 0-9 a @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Heslo musí mať od 8 do 64 znakov.<br/>Povolené znaky sú a-z, 0-9 a @!#$%&\\/()=-_?+*.,:;";
 $locale['u148'] = "Nové prihlasovacie heslá nie sú totožné.";
 $locale['u148a'] = "Nové admin heslá nie sú totožné.";
 $locale['u149'] = "Vaše aktuálne prihlasovacie heslo nebolo zadané alebo je neplatné.";

@@ -1,26 +1,17 @@
 <?php
-/**
- * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale select2           refer to path includes/dynamics/select2/select2_locale_{value}.js
- * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
- * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
- * @locale filemanager       refer to path includes/filemanager/lang/{value}.php
- */
 setlocale(LC_ALL, "cs_CZ.UTF-8", "cs_CZ", "czech"); // Linux Server (Windows may differ)
-$locale['charset'] = "utf-8";
-$locale['region'] = "CZ";
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "CZ"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "cs";
 $locale['short_lang_name'] = "cs";
-$locale['tinymce'] = "cs";
-$locale['select2'] = "cs";
-$locale['phpmailer'] = "cs";
-$locale['filemanager'] = "cs";
-$locale['datepicker'] = "cs";
+$locale['tinymce'] = "cs"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "cs"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "cs"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "cs"; // refer to path includes/filemanager/lang/{value}.php
+$locale['datepicker'] = "cs"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
-$locale['password_strength'] = "cs";
+$locale['password_strength'] = "cs"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
@@ -331,10 +322,6 @@ $locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, A e-mail nebyl od
 // Function parsebytesize()
 $locale['global_460'] = "Prázdný";
 $locale['global_461'] = "Byty";
-$locale['global_462'] = "kB";
-$locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
-$locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Budete přesměrováni %s, prosím, čekejte. Pokud nejste přesměrováni, klikněte sem.";
 // Captcha Locales
