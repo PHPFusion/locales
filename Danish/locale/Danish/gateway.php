@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/gateway.php
-| Author: Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Number to word function
 $locale['gateway_001'] = "En";
 $locale['gateway_002'] = "To";
@@ -45,9 +29,9 @@ $locale['gateway_026'] = "Halvfjerds";
 $locale['gateway_027'] = "Firs";
 $locale['gateway_028'] = "Halvfems";
 $locale['gateway_029'] = "Hundrede";
-$locale['gateway_030'] = "tusind";
+$locale['gateway_030'] = "tusinde";
 $locale['gateway_031'] = "million";
-$locale['gateway_032'] = "billion";
+$locale['gateway_032'] = "milliard";
 $locale['gateway_033'] = "trillion";
 $locale['gateway_034'] = "quadrillion";
 $locale['gateway_035'] = "quintillion";
@@ -87,7 +71,7 @@ $locale['gateway_063'] = "Tal";
 $locale['gateway_064'] = "Du skal besvare spørgsmålet";
 $locale['gateway_065'] = "Fortsæt";
 
-$locale['gateway_066'] = "Dit svar er forkert!";
+$locale['gateway_066'] = "Dit svar er forkert!<br/>Venligst skriv alle svar i en linje. Eksempel: seksogtyve eller nitten";
 $locale['gateway_067'] = "Prøv igen!";
-$locale['gateway_068'] = "Venligst prøv igen senere!";
+$locale['gateway_068'] = "Prøv igen senere!";
 $locale['gateway_069'] = "Fusion GateWay";

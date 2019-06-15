@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/infusions.php
-| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // Infusion Management
 $locale['400'] = "Infusioner";
 $locale['401'] = "Installer";
@@ -29,15 +13,15 @@ $locale['409'] = "Mail";
 $locale['410'] = "Hjemmeside";
 $locale['411'] = "Afinstaller";
 $locale['412'] = "Skal denne infusion afinstalleres?";
-$locale['413'] = "Nøgle";
+$locale['413'] = "Nøgle:";
 $locale['414'] = "Ikke installeret";
 $locale['415'] = "Installeret";
-$locale['416'] = "Opgradering tilgængelig";
+$locale['416'] = "Opgradering";
 $locale['417'] = "Ingen infusioner tilgængelige.";
 $locale['418'] = "Status";
 $locale['419'] = "Valgmuligheder";
 $locale['420'] = "Version";
-$locale['421'] = "Udgiver";
+$locale['421'] = "Forfatter";
 $locale['422'] = "Download flere udvidelser";
 $locale['423'] = "%s infusionen er blevet installeret";
 $locale['424'] = "%s infusionen er blevet afinstalleret";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/sitelinks.php
-| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // News titles
 $locale['SL_0001'] = "Interne links";
 $locale['SL_0010'] = "Tilføj internt link";
@@ -27,30 +11,30 @@ $locale['SL_0017'] = "Det interne link er slettet";
 $locale['SL_0018'] = "Opsætningen for interne links er opdateret";
 // Site Links form
 $locale['SL_0020'] = "Linkets overskrift";
-$locale['SL_0020a'] = "Linkikon ";
-$locale['SL_0021'] = "Linkadresse ";
-$locale['SL_0022'] = "Kan ses af ";
-$locale['SL_0023'] = "Rækkefølge ";
-$locale['SL_0024'] = "Placering ";
-$locale['SL_0025'] = "kun i navigationspanelet";
-$locale['SL_0026'] = "både i navigationspanelet og øverst på siden";
-$locale['SL_0027'] = "kun øverst på siden";
-$locale['SL_0028'] = "Luk linket op i et nyt vindue ";
-$locale['SL_0029'] = "Linkkategori ";
-$locale['SL_0030'] = "Linkets ikon";
-$locale['SL_0031'] = "Linkstatus ";
+$locale['SL_0020a'] = "Linkikon";
+$locale['SL_0021'] = "Linkadresse";
+$locale['SL_0022'] = "Kan ses af";
+$locale['SL_0023'] = "Rækkefølge";
+$locale['SL_0024'] = "Placering";
+$locale['SL_0025'] = "Kun i navigationselementet";
+$locale['SL_0026'] = "Både i navigationselementet og øverst på siden";
+$locale['SL_0027'] = "Kun øverst på siden";
+$locale['SL_0028'] = "Luk linket op i et nyt vindue";
+$locale['SL_0029'] = "Linkkategori";
+$locale['SL_0030'] = "Linkikon";
+$locale['SL_0031'] = "Linkets status";
 $locale['SL_0032'] = "Ingen overkategori";
 $locale['SL_0033'] = "Linkets sprog";
 $locale['SL_0034'] = "Beskyttet";
 $locale['SL_0035'] = "Underlinks";
-$locale['SL_0036'] = "Flyt internt link til...";
-$locale['SL_0037'] = "Vælg linkets overlink";
-$locale['SL_0038'] = "Der er ikke oprettet links, der kan bruges som overlink";
+$locale['SL_0036'] = "Flyt internt link til ...";
+$locale['SL_0037'] = "Vælg linkets forælderlink";
+$locale['SL_0038'] = "Der er ikke oprettet links, der kan bruges som forælderlink";
 $locale['SL_0039'] = "Bekræft flytning";
 
 $locale['SL_0040'] = "Gem link";
 $locale['SL_0041'] = "Linkopsætning";
-$locale['SL_0042'] = "Ret opsætningen for dine interne links navigationsfunktioner.";
+$locale['SL_0042'] = "Ret opsætningen for dine interne links navigationsfunktioner";
 $locale['SL_0043'] = "Links pr. side";
 $locale['SL_0044'] = "Maksimalt antal interne links vist i navigationsbjælken";
 $locale['SL_0045'] = "Antal links";
@@ -70,7 +54,7 @@ $locale['SL_0063'] = "Benyt BB-kode i linknavn?";
 
 
 $locale['SL_0070'] = "Ikon";
-$locale['SL_0071'] = "Nyt vindue";
+$locale['SL_0071'] = "Nyt vindue?";
 $locale['SL_0072'] = "Menu";
 $locale['SL_0073'] = "Opdater rækkefølge";
 $locale['SL_0074'] = "Flyt";

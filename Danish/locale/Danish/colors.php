@@ -1,25 +1,9 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/colors.php
-| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 //color selection for multiple droplists
-$locale['color_0'] = "Null";
-$locale['color_1'] = "Perlehvid";
+$locale['color_0'] = "Tom";
+$locale['color_1'] = "Alice Blue";
 $locale['color_2'] = "Antikhvid";
-$locale['color_3'] = "Blå";
+$locale['color_3'] = "Aqua";
 $locale['color_4'] = "Mørkeblå";
 $locale['color_5'] = "Azurblå";
 $locale['color_6'] = "Beige";
@@ -56,7 +40,7 @@ $locale['color_36'] = "Mørk turkis";
 $locale['color_37'] = "Mørkviolet";
 $locale['color_38'] = "Pink";
 $locale['color_39'] = "Dybblå";
-$locale['color_40'] = "Lyseblå";
+$locale['color_40'] = "Lysegrå";
 $locale['color_41'] = "Intens lyseblå";
 $locale['color_42'] = "Tegl";
 $locale['color_43'] = "Hvid";
@@ -129,7 +113,7 @@ $locale['color_109'] = "Purpur";
 $locale['color_110'] = "Rød";
 $locale['color_111'] = "Brunrosa";
 $locale['color_112'] = "Lys læderbrun";
-$locale['color_113'] = "Laks";
+$locale['color_113'] = "Laksefarvet";
 $locale['color_114'] = "Sandbrun";
 $locale['color_115'] = "Havgrøn";
 $locale['color_116'] = "Muslingeskal";
@@ -140,7 +124,7 @@ $locale['color_120'] = "Blågrå";
 $locale['color_121'] = "Lysegrå";
 $locale['color_122'] = "Snehvid";
 $locale['color_123'] = "Forårsgrøn";
-$locale['color_124'] = "Stålgrå";
+$locale['color_124'] = "Stålblå";
 $locale['color_125'] = "Gråbrun";
 $locale['color_126'] = "Blågrøn";
 $locale['color_127'] = "Tidselgrøn";
@@ -166,13 +150,13 @@ $locale['color_146'] = "Havgrøn";
 $locale['color_147'] = "Turkis";
 $locale['color_148'] = "Kongeblå";
 $locale['color_149'] = "Mellemgrå";
-$locale['color_150'] = "Guld";
+$locale['color_150'] = "Gylden";
 $locale['color_151'] = "Himmelblå";
 $locale['color_152'] = "Rødviolet";
 $locale['color_153'] = "Pink";
 $locale['color_154'] = "Fersken";
 $locale['color_155'] = "Lysegul";
-$locale['color_156'] = "Lysegrøn";
+$locale['color_156'] = "Bleggrøn";
 $locale['color_157'] = "Lys cyan";
 $locale['color_158'] = "Lys blå";
 $locale['color_159'] = "Blommefarvet";

@@ -1,29 +1,13 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: locale/Danish/admin/fields.php
-| Authors: Jan Mølgaard (janmol) & Helmuth Mikkelsen (helmuth)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 // New locale for Quantum Fields
-$locale['fields_0100'] = 'Denne side tilføjer et felt direkte ind i tabellen: %s';
+$locale['fields_0100'] = "Denne side tilføjer et felt direkte i tabellen: %s";
 $locale['fields_0101'] = "Denne side tilføjer felter direkte ind i tabellen: [STRONG]%s[/STRONG], og knytter sig til tabellen DB_USERS via kolonnen [STRONG]%s[/STRONG]";
 $locale['fields_0102'] = "Der er ikke tilføjet felter i ";
 $locale['fields_0103'] = "Ingen side er oprettet. Tilføj en side ved at lave en side som en kategori.";
 $locale['fields_0104'] = "Feltnavnet var der i forvejen i %s og det lykkedes ikke at ændre navnet på kolonnen. Vælg et andet navn.";
 $locale['fields_0105'] = "ID for brugerfeltet er ikke korrekt";
 $locale['fields_0106'] = "Der var en record med det samme navn i databasen. Vælg et andet navn.";
-$locale['fields_0107'] = "Feltnavnet er forkert";
+$locale['fields_0107'] = "Brugerfeltskategori er ugyldigt";
 $locale['fields_0108'] = "Felttypen er ikke angivet";
 $locale['fields_0109'] = "Den plugin-fil, der svarer til dette plugin kunne ikke findes.";
 $locale['fields_0110'] = "Tabellen eksisterer allerede. Vælg et andet tabelnavn";
@@ -42,45 +26,45 @@ $locale['field_0208'] = "Kategorien er blevet tilføjet";
 
 $locale['fields_0300'] = "Felter";
 $locale['fields_0301'] = "Moduler";
-$locale['fields_0305'] = "Tilføj en kategori";
-$locale['fields_0306'] = "Tilføj et felt";
-$locale['fields_0307'] = "Tilføj et modul";
-$locale['fields_0308'] = "Rediger kategorien";
-$locale['fields_0309'] = "Rediger feltet";
-$locale['fields_0310'] = "Rediger modulet";
-$locale['fields_0311'] = "Tilføj en ny kategori";
+$locale['fields_0305'] = "Tilføj kategori";
+$locale['fields_0306'] = "Tilføj felt";
+$locale['fields_0307'] = "Tilføj modul";
+$locale['fields_0308'] = "Rediger kategori";
+$locale['fields_0309'] = "Rediger felt";
+$locale['fields_0310'] = "Rediger modul";
+$locale['fields_0311'] = "Tilføj ny kategori";
 $locale['fields_0312'] = "Installer";
-$locale['fields_0313'] = "Slet kategorien";
-$locale['fields_0314'] = "Flyt kategorien";
+$locale['fields_0313'] = "Slet kategori";
+$locale['fields_0314'] = "Flyt kategori";
 $locale['fields_0315'] = "Slet alle kategorier og alle felter under dem";
 $locale['fields_0316'] = "Flyt felter";
 $locale['fields_0317'] = "Slet alle felter under denne kategori";
-$locale['fields_0318'] = "Gem kategorien";
+$locale['fields_0318'] = "Gem kategori";
 
 $locale['fields_0400'] = "Modulfeltsinformation";
-$locale['fields_0401'] = "Version";
+$locale['fields_0401'] = "Version:";
 $locale['fields_0402'] = "Rettigheder";
-$locale['fields_0403'] = "Kolonne";
+$locale['fields_0403'] = "Kolonne:";
 $locale['fields_0404'] = "Kan ikke installeres";
-$locale['fields_0405'] = "Feltinformation";
+$locale['fields_0405'] = "Feltinformation:";
 $locale['fields_0406'] = "Dette er ikke et felt";
-$locale['fields_0407'] = "Feltbeskrivelse";
+$locale['fields_0407'] = "Feltbeskrivelse:";
 $locale['fields_0410'] = "Vælg kategori";
 $locale['fields_0411'] = "Dette er et obligatorisk felt";
-$locale['fields_0412'] = "Log brugerfeltet";
-$locale['fields_0413'] = "Skal feltet tilføjes oprettelsesformularen?";
+$locale['fields_0412'] = "Log brugerfelter";
+$locale['fields_0413'] = "Skal feltet tilføjes tilmeldingsformularen?";
 $locale['fields_0414'] = "Feltrækkefølge";
 $locale['fields_0415'] = "Opdater felt";
 $locale['fields_0416'] = "Installer felt";
 
-$locale['fields_0430'] = "Kategoriens navn ";
-$locale['fields_0431'] = "Overordnet kategori ";
+$locale['fields_0430'] = "Kategorinavn";
+$locale['fields_0431'] = "Overordnet kategori";
 $locale['fields_0432'] = "Som ny side";
-$locale['fields_0433'] = "Kategoriernes rækkefølge ";
-$locale['fields_0434'] = "Primær tabel (%s) ";
-$locale['fields_0435'] = "Primær tabels brugerkolonne ";
-$locale['fields_0436'] = "Ikonklasse ";
-$locale['fields_0437'] = "ikon til tabeller";
+$locale['fields_0433'] = "Kategorirækkefølge";
+$locale['fields_0434'] = "Primær tabel (%s)";
+$locale['fields_0435'] = "Primær tabels brugerkolonne";
+$locale['fields_0436'] = "Ikonklasse";
+$locale['fields_0437'] = "ikon til faner";
 
 $locale['fields_0450'] = "Vælg kategori";
 $locale['fields_0451'] = "Feltoverskrift";
@@ -135,9 +119,9 @@ $locale['fields_0507'] = "Farve";
 $locale['fields_0508'] = "Fil";
 $locale['fields_0509'] = "Skjult";
 $locale['fields_0510'] = "Adresse";
-$locale['fields_0511'] = "Nøgleord";
+$locale['fields_0511'] = "Tags";
 $locale['fields_0512'] = "Placering";
-$locale['fields_0513'] = "Antal";
+$locale['fields_0513'] = "Nummer";
 $locale['fields_0514'] = "Mail";
 $locale['fields_0515'] = "Webadresse";
 
@@ -146,8 +130,8 @@ $locale['fields_0601'] = "Der eksisterer %s felt(er) under denne kategori";
 $locale['fields_0602'] = "Dette modul kan ikke installeres. Der mangler nødvendig tabelinformation.";
 
 $locale['fields_0650'] = "Flyt felt-ID ";
-$locale['fields_0651'] = " en position op og felt-ID [FIELD_ID] ned et trin.";
-$locale['fields_0652'] = " en position ned og felt-ID [FIELD_ID] en position op.";
+$locale['fields_0651'] = " En position op og felt-ID [FIELD_ID] ned et trin.";
+$locale['fields_0652'] = " En position ned og felt-ID [FIELD_ID] en position op.";
 $locale['fields_0653'] = "Intet resultat";
 $locale['fields_0654'] = "Slet felter";
 $locale['fields_0655'] = "Kategori-ID blev ikke fundet. Kig efter en gang mere.";
@@ -156,8 +140,8 @@ $locale['fields_0657'] = " sæt til indlæsning.";
 $locale['fields_0658'] = " indlæst.";
 $locale['fields_0659'] = " der mangler en tekst!";
 $locale['fields_0660'] = "Ingen moduler fundet";
-$locale['fields_0661'] = "Opdaterings-modus";
-$locale['fields_0662'] = "Gem-modus";
+$locale['fields_0661'] = "Opdateringstilstand";
+$locale['fields_0662'] = "Gemtilstand";
 $locale['fields_0663'] = "Tabelnavn";
 $locale['fields_0664'] = "Gammel tabelinformation -";
 $locale['fields_0665'] = "Ny tabelinformation -";
