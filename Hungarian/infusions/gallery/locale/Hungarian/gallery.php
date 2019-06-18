@@ -32,6 +32,6 @@ $locale['gallery_458'] = "Kattints a bezáráshoz";
 $locale['gallery_459'] = "Első kép";
 $locale['gallery_460'] = "Utolsó kép";
 $locale['gallery_461'] = "Kép";
-$locale['gallery_463'] = 'Kiadó|Kiadók';
+$locale['gallery_463'] = "Kiadó|Kiadók";
 $locale['gallery_464'] = "Hozzáadás dátuma:";
 $locale['gallery_465'] = "Galéria";

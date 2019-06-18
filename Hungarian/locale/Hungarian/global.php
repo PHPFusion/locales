@@ -1,28 +1,17 @@
 <?php
-/**
- * Hungarian Locale
- *
- * @locale charset           ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * @locale region            ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- * @locale tinymce           refer to path includes/jscripts/tinymce/langs/{value}.js
- * @locale select2           refer to path includes/dynamics/select2/select2_locale_{value}.js
- * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
- * @locale password_strength refer to path includes/dynamics/password/lang/{value}.js
- * @package locale/Hungarian
- */
-setlocale(LC_TIME, "hu_HU", "hu_HU.UTF-8", "hu.UTF-8", "hun_hun", "Hungarian", "hu");
-$locale['charset'] = "UTF-8";
-$locale['region'] = "HU";
+setlocale(LC_TIME, "hu_HU", "hu_HU.UTF-8", "hu.UTF-8", "hun_hun", "Hungarian", "hu"); // Linux Server (Windows may differ)
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "HU"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "hu";
 $locale['short_lang_name'] = "hu";
-$locale['tinymce'] = "hu";
-$locale['select2'] = "hu";
-$locale['phpmailer'] = "hu";
-$locale['filemanager'] = "hu_HU";
-$locale['datepicker'] = "hu";
+$locale['tinymce'] = "hu"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "hu"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "hu"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "hu_HU"; // refer to path includes/filemanager/lang/{value}.php
+$locale['datepicker'] = "hu"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
 $locale['datepicker_php'] = "Y-m-d H:i:s";
-$locale['password_strength'] = "hu";
+$locale['password_strength'] = "hu"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%b %d";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
@@ -45,8 +34,8 @@ $locale['minute_a'] = "perc";
 $locale['second'] = "másodperc";
 $locale['second_a'] = "másodperc";
 $locale['just_now'] = "épp most";
-$locale['now'] = "most";
-$locale['ago'] = "";
+$locale['now'] = 'most';
+$locale['ago'] = "óta";
 // Geo
 $locale['street1'] = "Lakcím 1";
 $locale['street2'] = "Lakcím 2";
@@ -94,7 +83,8 @@ $locale['status8'] = "Inaktív";
 $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigáció";
-$locale['global_002'] = "Nincs megadva link<br />\n";
+$locale['global_002'] = "Nincs megadva link<br />
+";
 $locale['global_003'] = "Nincs előnézet";
 // Users Online
 $locale['global_010'] = "Felhasználók";
@@ -268,22 +258,26 @@ $locale['global_193'] = "A bejelentkezés nem sikerült. Kérjük ellenőrizd, h
 $locale['global_194'] = "Hozzáférésedet felfüggesztettük";
 $locale['global_195'] = "Az adminisztrátorok még nem aktiválták hozzáférésedet";
 $locale['global_196'] = "Hibás felhasználónév vagy jelszó";
-$locale['global_197'] = "Átirányítás folyamatban...<br />\n<br />\n[ [LINK]Kattints ide, ha nem akarsz várni[/LINK] ]";
+$locale['global_197'] = "Átirányítás folyamatban...<br />
+<br />
+[ [LINK]Kattints ide, ha nem akarsz várni[/LINK] ]";
 $locale['global_198'] = "FIGYELEM: Telepítő fájlt észleltünk, kérjük, törölje az install-PHP fájlt azonnal.";
-$locale['global_199'] = "FIGYELEM: Az admin jelszavad még nem állítottad be - [LINK]".$locale['global_120']."[/LINK]";
+$locale['global_199'] = "FIGYELEM: Az admin jelszavad még nem állítottad be - [LINK]Profil Módosítás[/LINK]";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = $locale['global_200']."Keresés";
-$locale['global_203'] = $locale['global_200']."GyIK";
-$locale['global_204'] = $locale['global_200']."Fórum";
+$locale['global_202'] = " - Kereső";
+$locale['global_203'] = " - GyIK";
+$locale['global_204'] = " - Fórum";
 //Themes
 $locale['global_210'] = "Ugrás az oldal tartalmához";
 $locale['global_300'] = "nem található felület";
 $locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem található egyetlen theme (felület) sem. Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver <em>themes/</em> mappájába bármilyen <em>PHP-Fusion v7</em> kompatibilis készült theme-t. Feltöltés után ellenőrizd az <em>Alap beállítások</em> admin oldalon, hogy az általad választott felület szerepel-e a szerver <em>themes/</em> mappájában. Ha igen, és mégsem működik, akkor ellenőrizd, hogy nincsenek-e különleges karakterek benne, illetve ügyelj arra, hogy a szerverek többsége megkülönbözteti a kis- és Nagybetűket!<br /><br />Ha csak egy látogató vagy az oldalon, kérjük lépj kapcsolatba az oldal adminisztrátorával ([SITE_EMAIL]) és jelentsd neki a hibát.";
 $locale['global_302'] = "A Rendszer-beállítások - Alap beállítások menüpontja alatt beállított theme nem található vagy hibás!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Hiba történt! Nem működik a <strong>JavaScript</strong>!<br />\nA böngésződben le van tiltva a JavaScript futtatása, vagy nem támogatja a JavaScript használatát. Az oldal megfelelő használatához kérjük engedélyezd a JavaScript futtatását böngésződben,<br />\n vagy frissítsd egy újabb verzióra, amely támogatja a JavaScript-et:<br /><a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a>, vagy az <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> 6-nál újabb verziója.";
+$locale['global_303'] = "Hiba történt! Nem működik a <strong>JavaScript</strong>!<br />
+A böngésződben le van tiltva a JavaScript futtatása, vagy nem támogatja a JavaScript használatát. Az oldal megfelelő használatához kérjük engedélyezd a JavaScript futtatását böngésződben,<br />
+ vagy frissítsd egy újabb verzióra, amely támogatja a JavaScript-et:<br /><a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a>, vagy az <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> 6-nál újabb verziója.";
 // User Management
 $locale['global_400'] = "felfüggesztve";
 $locale['global_401'] = "kitiltva";
@@ -334,10 +328,6 @@ $locale['global_459'] = "Új jelszó beállítva neki: USER_NAME, de email nem l
 // Function parsebytesize()
 $locale['global_460'] = "Üres";
 $locale['global_461'] = "Bájt";
-$locale['global_462'] = "kB";
-$locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
-$locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Átirányítás folyamatban: %s, kérjük várj. Ha ez nem történik meg, kérjük kattints ide.";
 // Captcha Locales

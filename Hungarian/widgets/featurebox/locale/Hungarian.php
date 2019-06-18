@@ -1,21 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------*
-| Filename: Featurebox/locale/English.php
-| Author: Frederick MC Chan (Chan)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
 $locale['FBW_0100'] = "Feature Box";
 $locale['FBW_0101'] = "Feature Box Alkalmazás";
 $locale['FBW_0200'] = "Box Neve";
@@ -33,7 +16,7 @@ $locale['FBW_0211'] = "Ikon Színe";
 $locale['FBW_0212'] = "Ikon stacked Kategória";
 $locale['FBW_0213'] = "Ikon stacked Méret";
 $locale['FBW_0214'] = "Ikon stacked Szín";
-$locale['FBW_0215'] = "Link URL";
+$locale['FBW_0215'] = "Link URL:";
 $locale['FBW_0216'] = "Link Kategória";
 $locale['FBW_0217'] = "Keretek margók és térközök";
 $locale['FBW_0218'] = "Ikon Felsó margó";

@@ -31,6 +31,6 @@ $locale['SB_update_shout'] = "Módosítás";
 $locale['SB_userip'] = "Felhasználó IP:";
 $locale['SB_visbility'] = "Hozzáférés";
 $locale['SB_visible_shouts'] = "Megjelenített üzenetek";
-$locale['SB_warning_shouts'] = "Biztosan törölni szeretnéd az üzeneteket?";
 $locale['SB_warning_shout'] = "Biztosan törölni szeretnéd ezt az üzenetet?";
+$locale['SB_warning_shouts'] = "Biztosan törölni szeretnéd az üzeneteket?";
 $locale['SB_warning_validation_code'] = "Add meg a helyes ellenőrzőkódot";

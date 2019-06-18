@@ -40,4 +40,4 @@ $locale['PL_429'] = "Permalink illesztőprogram %s";
 $locale['PL_427'] = "Nincs permalink csomag engedélyezve.";
 $locale['PL_428'] = "Permalink";
 $locale['seo_htc_warning'] = "Figyelem, ezen beállítások módosítása felülírja a `.htaccess` tartalmat és az ez előtti módosítások elvesznek.";
-//$locale['rewrite_disabled'] = "Úgy tűnik `mod_rewrite` nem engedélyezett a tárhelyeden. SEF URL-ek engedélyezése tönkre teheti az oldalt. Kérjük vedd fel a kapcsolatot a szolgáltatóddal a `mod_rewrite` engedélyezéséhez.";
+$locale['rewrite_disabled'] = "Úgy tűnik `mod_rewrite` nem engedélyezett a tárhelyeden. SEF URL-ek engedélyezése tönkre teheti az oldalt. Kérjük vedd fel a kapcsolatot a szolgáltatóddal a `mod_rewrite` engedélyezéséhez.";

@@ -80,7 +80,7 @@ $locale['gallery_0209'] = "Album leírás vízjelének színe:";
 $locale['gallery_0210'] = "Kép cím vízjelének színe:";
 $locale['gallery_0211'] = "Vízjelek törlése";
 $locale['gallery_0212'] = "Adj meg .png képet vízjelnek";
-$locale['gallery_0213'] =  "Fényképek szöveges leírásának engedélyezése?";
+$locale['gallery_0213'] = "Fényképek szöveges leírásának engedélyezése?";
 $locale['gallery_0214'] = "Kép vízjelek engedélyezése?";
 $locale['gallery_0215'] = "Létrehozott vízjelek mentése?";
 $locale['gallery_0216'] = "Galéria beállítások mentése";
@@ -91,7 +91,6 @@ $locale['gallery_0220'] = "Fotóbeállítások";
 $locale['gallery_0221'] = "Konfiguráció a Galéria fotóihoz";
 $locale['gallery_0222'] = "Szélesség";
 $locale['gallery_0223'] = "Magasság";
-
 $locale['photo_0001'] = "Kép címe:";
 $locale['photo_0002'] = "Kép neve";
 $locale['photo_0003'] = "Kép Album";

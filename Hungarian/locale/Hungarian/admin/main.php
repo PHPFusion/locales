@@ -68,6 +68,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Felület";
 $locale['S13'] = "Blog Beállítások";
 $locale['LANG'] = "Nyelvi beállítások";
+$locale['FM'] = "Fusion Fájl Manager";
 
 // Site Information
 $locale['250'] = "Irányítópult <small>Oldal áttekintő</small>";
@@ -119,9 +120,9 @@ $locale['290'] = "Van egy automatikus mentése ebből a bejegyzésből.";
 $locale['291'] = "Automatikus mentés megtekintése";
 $locale['292'] = "Mentett módosítások";
 $locale['293'] = "Űrlap kitöltése";
-// Result Messages
-$locale['search_msg_100'] = "Sikertelen rendszerérvényesítés";
-$locale['search_msg_101'] = "Sikertelen rendszer biztonsági intézkedések";
-$locale['search_msg_102'] = "Oldalt nem sikerült betölteni";
-$locale['search_msg_103'] = "Keresendő szöveg túl rövid";
-$locale['search_msg_104'] = "Nincs találat";
+
+$locale['search_msg_100'] = 'Sikertelen rendszerérvényesítés';
+$locale['search_msg_101'] = 'Sikertelen rendszer biztonsági intézkedések';
+$locale['search_msg_102'] = 'Oldalt nem sikerült betölteni';
+$locale['search_msg_103'] = 'Keresendő szöveg túl rövid';
+$locale['search_msg_104'] = 'Nincs találat';

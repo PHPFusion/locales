@@ -1,5 +1,5 @@
 <?php
-// blog Submissions messages
+// Blog Submissions messages
 $locale['blog_0130'] = "Jelenleg nincs beküldött új blog.";
 $locale['blog_0131'] = "Beküldött blog kezelése";
 $locale['blog_0132'] = "Beküldte ";
@@ -82,7 +82,6 @@ $locale['blog_0537'] = "Főkategória";
 $locale['blog_0538'] = "Bájt (bájt)";
 $locale['blog_0539'] = "KB (Kilobájt)";
 $locale['blog_0540'] = "MB (Megabájt)";
-
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Törlöd ezt a Blog kategóriát?";
 // Error Messages
@@ -91,10 +90,10 @@ $locale['blog_0561'] = "Ez a kategória már létezik.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Adj meg új címet";
 $locale['blog_0451'] = "Törlöd ezt a blogot?";
-$locale['blog_0452'] = "%s tiltva.\n\rEz a beállítás akkor érhető el, ha újra engedélyezik.";
-$locale['blog_0456'] = "Ebben a kategóriában nincs blog.";
+$locale['blog_0452'] = "%s tiltva.<br/>Ez a beállítás akkor érhető el, ha újra engedélyezik.";
+$locale['blog_0456'] = 'Ebben a kategóriában nincs blog.';
 $locale['blog_0457'] = "Nem adtál meg kulcsszavakat";
-$locale['blog_0461'] = "Nincs Blog kategória definiálva.";
+$locale['blog_0461'] = 'Nincs Blog kategória definiálva.';
 // Filters
 $locale['blog_0458'] = "Szűrés:";
 $locale['blog_0459'] = "Szűrés kategóriák szerint";

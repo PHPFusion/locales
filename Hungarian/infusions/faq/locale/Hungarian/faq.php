@@ -67,7 +67,8 @@ $locale['faq_0258'] = "További beállítások";
 $locale['faq_0259'] = "További Információk";
 $locale['faq_0270'] = "Ki kell választani egy GyIK-ot.";
 $locale['faq_0271'] = "Ki kell választani egy Kérdést.";
-$locale['faq_0274'] = "%s minden elem esetében tiltva van.\nEz a beállítás csak akkor lép életbe, ha újból engedélyezve lesz.";
+$locale['faq_0274'] = "%s minden elem esetében tiltva van.
+Ez a beállítás csak akkor lép életbe, ha újból engedélyezve lesz.";
 $locale['faq_0350'] = "A Beküldő {%SUBMISSION_AUTHOR%}.";
 $locale['faq_0351'] = "Beküldve: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
 $locale['faq_0400'] = "GyIK Rendszer Beállítások.";
@@ -76,8 +77,10 @@ $locale['faq_0910'] = "GyIK Sikeresen Beküldve.";
 $locale['faq_0911'] = "Köszönjük a GyIK-et.";
 $locale['faq_0912'] = "Másik GyIK Küldése";
 $locale['faq_0913'] = "Vissza a [SITENAME]";
-$locale['faq_0920'] = "GyIK Beküldésére használd az alábbi űrlapot.\n
-A GyIK csak akkor kerül ki az oldalra, ha egy Adminisztrátor engedélyezi. [SITENAME] oldalunk fenntartja a jogot a GyIK Bővítésére, Szerkesztésére, Törlésére.\n
+$locale['faq_0920'] = "GyIK Beküldésére használd az alábbi űrlapot.
+
+A GyIK csak akkor kerül ki az oldalra, ha egy Adminisztrátor engedélyezi. [SITENAME] oldalunk fenntartja a jogot a GyIK Bővítésére, Szerkesztésére, Törlésére.
+
 Csak az oldal tartalmához illeszkedő GyIK-ot küldj be, különben töröljük..";
 $locale['faq_0921'] = "Be kell jelentkezned a GyIK Beküldéshez.";
 $locale['faq_0922'] = "Sajnáljuk, De jelenleg az oldal nem fogad GyIK-ot.";

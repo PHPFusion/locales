@@ -8,5 +8,3 @@ $locale['rss_news'] = "Hírek";
 $locale['rss_weblinks'] = "Web Linkek";
 $locale['rss_in'] = " ebben ";
 $locale['rss_nodata'] = "RSS adat nem elérhető";
-
-$locale['rss009'] = "RSS Hírcsatornák";

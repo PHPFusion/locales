@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------*
-| Filename: Slider/locale/English.php
-| Author: Frederick MC Chan (Chan)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['SLDW_0100'] = "Dia";
 $locale['SLDW_0101'] = "Dia beépülő modul";
 $locale['SLDW_0200'] = "Dia törlése";
@@ -22,7 +6,7 @@ $locale['SLDW_0300'] = "Aktuális Dia";
 $locale['SLDW_0301'] = "Dia Szerkesztése";
 $locale['SLDW_0302'] = "Dia Hozzáadás";
 $locale['SLDW_0303'] = "Dia Beállítások";
-$locale['SLDW_0304'] = "Slider Control Settings";
+$locale['SLDW_0304'] = "Dia Beállítások";
 $locale['SLDW_0400'] = "Dia Címe";
 $locale['SLDW_0401'] = "Dia Kép";
 $locale['SLDW_0402'] = "Dia Sorrend";
@@ -44,7 +28,7 @@ $locale['SLDW_0511'] = "Válassz vagy tölts fel új hátteret";
 $locale['SLDW_0512'] = "Kérem, válasszon egy meglévő hátteret";
 $locale['SLDW_0513'] = "Dia Neve";
 $locale['SLDW_0514'] = "Dia megjegyzés";
-$locale['SLDW_0515'] = "Link URL";
+$locale['SLDW_0515'] = "Link URL:";
 $locale['SLDW_0516'] = "Sorrend";
 $locale['SLDW_0517'] = "Dia Beállítások";
 $locale['SLDW_0518'] = "Dia Kinézet Beállítása";

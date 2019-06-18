@@ -32,7 +32,6 @@ $locale['MIG_138'] = "áthelyezni innen";
 $locale['MIG_139'] = "Válassz részeket áthelyezésre";
 $locale['MIG_140'] = "Jelöld be a mozgatni kívánt adatokat.";
 $locale['MIG_141'] = "Felhasználó törlése az áthelyezés után";
-$locale['MIG_142'] = "A Felhasználó törlése kerül kijelölés esetén.";
 $locale['MIG_150'] = "Felhasználói szint és engedélyek mozgatása";
 $locale['MIG_151'] = "Privát üzenetek mozgatása";
 $locale['MIG_152'] = "Hozzászólások mozgatása";

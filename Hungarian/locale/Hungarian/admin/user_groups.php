@@ -9,9 +9,11 @@ $locale['GRP_406'] = "A csoportnak vannak tagjai";
 $locale['GRP_407'] = "Felhasználói csoport törölve";
 $locale['GRP_408'] = "Nincs Kijelölve Felhasználó, vagy Csoport.";
 $locale['GRP_409'] = " Felhasználó hozzáadva a csoporthoz.";
+
 $locale['GRP_410'] = " Felhasználó Tagja a csoportnak.";
 $locale['GRP_411'] = " Felhasználó Törölve a csoportból.";
 $locale['GRP_412'] = " Felhasználó Nem Tagja a csoportnak.";
+
 // Edit/Delete Options
 $locale['GRP_420'] = "Felhasználói csoportok";
 $locale['GRP_421'] = "Csoport Szerkesztése";
@@ -22,6 +24,7 @@ $locale['GRP_425'] = "Biztosan törölni szeretnéd ezt a felhasználói csoport
 $locale['GRP_426'] = "Alap Csoport";
 $locale['GRP_427'] = "Jelenleg %d megjelenítve a %d Tagokból.";
 $locale['GRP_428'] = "Csoport Hozzáadása";
+$locale['GRP_430'] = "%s hozzáadva a Csoporthoz";
 // Edit/Add User Group
 $locale['GRP_432'] = "Csoport neve";
 $locale['GRP_433'] = "Csoport leírása";

@@ -83,11 +83,11 @@ $locale['df_424'] = "A fájlok mérete nagyobb, mint a maximálisan megengedett 
 // ReCaptcha2
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha_desc'] = "Google Recaptcha Profil Modul";
-$locale['grecaptcha_placeholder_1'] = "SITE KEY from Google";
-$locale['grecaptcha_placeholder_2'] = "SECRET-KEY from Google";
+$locale['grecaptcha_placeholder_1'] = "SITE KEY a Google-tól";
+$locale['grecaptcha_placeholder_2'] = "SECRET-KEY a Google-tól";
 $locale['no_keys'] = "Úgy tűnik nincs beállítva kulcsod. Regisztrálj és kapd meg a RECAPTCHAd itt: [RECAPTCHA_LINK]Nyilvános kulcsok[/RECAPTCHA_LINK]";
 // here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Kulcsaid ellenőrzéseit: Google reCAPTCHA</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Helyi kulcs";
 $locale['grecaptcha_0101'] = "Biztonsági kulcs";
 $locale['grecaptcha_0102'] = "Felület";

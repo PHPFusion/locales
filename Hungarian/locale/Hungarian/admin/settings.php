@@ -1,10 +1,10 @@
 <?php
 $locale['400'] = "Beállítások";
-// Site Settings
-$locale['401'] = "Alapbeállítások";
 $locale['401a'] = "Webhely beállításai";
 $locale['401b'] = "A webhely URL-je, a webhely portja és a webhely-protokollok konfigurációja.";
 
+// Site Settings
+$locale['401'] = "Alapbeállítások";
 $locale['402'] = "Oldal neve";
 $locale['403'] = "Oldal URL";
 $locale['404'] = "Oldal banner";
@@ -182,7 +182,6 @@ $locale['913'] = "Hozzászólások oldalanként";
 $locale['955'] = "Eredeti";
 $locale['956'] = "Négyzet";
 
-// Removed Recaptcha
 $locale['698'] = "SMTP Authentikáció?";
 $locale['699'] = "Belépési metódus";
 $locale['699b'] = "Mindkettő";
@@ -272,6 +271,12 @@ $locale['dateformats'][] = "%Y. %m. %d. %H:%M:%S";
 $locale['dateformats'][] = "%Y. %B %d. %H:%M";
 $locale['dateformats'][] = "%Y. %B %d. %H:%M:%S";
 $locale['dateformats'][] = "%Y. %B %d. %A, %H:%M:%S";
+$locale['dateformats'][] = "%B %d %Y %H:%M";
+$locale['dateformats'][] = "%d. %B %Y %H:%M";
+$locale['dateformats'][] = "%d %B %Y %H:%M";
+$locale['dateformats'][] = "%Y %B %d %H:%M:%S";
+$locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
+$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
 $locale['error_rate'] = "Add meg az értéket.";
 $locale['error_type'] = "Add meg a kiterjesztés típusát.";
 $locale['error_width'] = "Add meg a szélességet.";

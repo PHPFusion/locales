@@ -1,5 +1,6 @@
 <?php
 $locale['100'] = "Fusion Fájl Manager";
+
 // Delete Image
 $locale['400'] = "Kép törlése";
 $locale['401'] = "Kép törölve";

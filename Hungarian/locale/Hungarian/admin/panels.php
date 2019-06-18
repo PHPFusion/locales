@@ -20,12 +20,11 @@ $locale['424'] = "PHP";
 $locale['425'] = "Lent középen";
 $locale['426'] = "Fejléc alatt";
 $locale['427'] = "Lábléc felett";
-// Panel Options
 $locale['428a'] = "Felhasználó 1";
 $locale['428b'] = "Felhasználó 2";
 $locale['428c'] = "Felhasználó 3";
 $locale['428d'] = "Felhasználó 4";
- // Panel Options1
+// Panel Options1
 $locale['430'] = "Áthelyezés bal oldalra";
 $locale['431'] = "Áthelyezés jobb oldalra";
 $locale['432'] = "Mozgatás fel";
@@ -63,7 +62,7 @@ $locale['467'] = "Megjelenítés csak a Nyitóoldalon";
 $locale['468'] = "Panel típusa";
 $locale['469'] = "Nincs";
 $locale['469a'] = "Tartalom";
- // Update/Add new Panel Errors
+// Update/Add new Panel Errors
 $locale['470'] = "Nincs megadva a panel neve";
 $locale['471'] = "Ez a panelnév már használatban van";
 $locale['472'] = "Nincs megadva a panel tartalma";

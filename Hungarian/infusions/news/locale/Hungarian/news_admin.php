@@ -112,7 +112,7 @@ $locale['news_0703'] = "Hír beküldésére használd az alábbi űrlapot.
 A hír csak akkor kerül ki az oldalra, ha egy Adminisztrátor engedélyezi. Oldalunk fenntartja a jogot a hír bővítésére, szerkesztésére.
 Csak az oldal tartalmához illeszkedő hírt küldj be, különben töröljük.";
 $locale['news_0704'] = "Vissza a főoldalra";
-// New locale requried to update
+
 $locale['news_0705'] = "Szélesség";
 $locale['news_0706'] = "Magasság";
 $locale['news_0707'] = "Fő beállítások";

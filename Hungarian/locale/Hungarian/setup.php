@@ -39,7 +39,6 @@ $locale['setup_0118'] = "A web szerver úgy tűnik nem támogja a PDO (PHP Data 
 $locale['setup_0119a'] = "Fontolja meg a PHP memória korlátjának %memory_minimum_limit növelését, amely segít megelőzni a hibákat a telepítés folyamán.";
 $locale['setup_0119b'] = "Növelje a memória korlátot ".get_cfg_var('cfg_file_path')." fájl memory_limit paraméter szerkesztésével a majd indítsa újra a web szervert (vagy lépjen kapcsolatba a rendszergazdával vagy kérjen segítséget tárhely szolgáltatójától).";
 $locale['setup_0119c'] = "Lépjen kapcsolatba a rendszergazdával, vagy a szolgáltató adhat segítséget a PHP memória korlát növeléséhez.";
-$locale['setup_stepx'] = "%2\$s";
 // Buttons
 $locale['setup_0120'] = "Beállítások befejezve";
 $locale['setup_0121'] = "Tovább";
@@ -119,7 +118,7 @@ $locale['setup_1311'] = "A megadott MySQL adatbázis nem létezik.";
 $locale['setup_1313'] = "A megadott tábla előtag már használatban van, és fut. A tábla nem lesz telepítve. Kérjük kezdje újra, vagy folytassa a következő lépéssel.";
 $locale['setup_1315'] = "Kérjük bizonyosodj meg róla, hogy a MySQL felhasználód rendelkezik olvasási, írási és törlési jogokkal is a megadott adatbázisban.";
 $locale['setup_1317'] = "Kérjük ellenőrizd, hogy minden szükséges mezőt kitöltöttél-e.";
-// Step 6 - Rendszer admin bejelentkezes
+// Step 6 - Super Admin login
 $locale['setup_1500'] = "Elsődleges főadminisztrátor létrehozása";
 $locale['setup_1501'] = "Állítsd be a Rendszergazda fiók adatait.";
 $locale['setup_1504'] = "Felhasználónév:";
@@ -192,7 +191,7 @@ $locale['setup_3056'] = "Felület testreszabás";
 $locale['setup_3057'] = "Migrációs eszköz";
 $locale['setup_3058'] = "Felület Beállítások";
 $locale['setup_3059'] = "Fusion Fájl Manager";
-//Multilanguage table rights
+// Multilanguage table rights
 $locale['setup_3200'] = "Cikkek";
 $locale['setup_3201'] = "Egyedi oldalak";
 $locale['setup_3202'] = "Letöltések";
@@ -224,7 +223,7 @@ $locale['setup_3314'] = "Letöltés beküldése";
 $locale['setup_3315'] = "Beküldések";
 $locale['setup_3316'] = "Üzenőfal";
 $locale['setup_3317'] = "Blog beküldése";
-$locale['setup_3318'] = "Blog Archive Panel";
+$locale['setup_3318'] = "Blog archív Panel";
 $locale['setup_3319'] = "Legújabb Téma";
 $locale['setup_3320'] = "Hozzászólásaid";
 $locale['setup_3321'] = "Követett Téma";
@@ -288,6 +287,9 @@ $locale['setup_3642'] = "Információk";
 $locale['setup_3643'] = "Beállítások";
 $locale['setup_3644'] = "Statisztika";
 $locale['setup_3645'] = "Magán";
+// Stage 6 - Forum Tags
+$locale['setup_3660'] = "Honlap Információ";
+$locale['setup_3661'] = "A honlap kezelésével kapcsolatos Témák";
 
 // Stage 6 - User Fields
 require_once __DIR__."/user_fields/user_aim.php";
@@ -304,9 +306,6 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 
 // Welcome message
 $locale['setup_3650'] = "Üdvözöllek oldalunkon.";
-// Stage 6 - Forum Tags
-$locale['setup_3660'] = "Honlap Információ";
-$locale['setup_3661'] = "A honlap kezelésével kapcsolatos Témák";
 // Final message
 $locale['setup_1700'] = "A telepítés befejeződött.";
 $locale['setup_1701'] = "PHP-Fusion 9 készen áll a használatra. Kattints a Befejezés gombra, hogy átírjam a config_temp.php fájlt config.php-ra.";
@@ -324,10 +323,28 @@ $locale['setup_3704'] = "%Y %B %d %H:%M:%S";
 $locale['setup_3800'] = "Email Minták";
 $locale['setup_3801'] = "Értesítés új privát üzenetről";
 $locale['setup_3802'] = "Új privát üzeneted van tőle: [USER] itt: [SITENAME]";
-$locale['setup_3803'] = "Helló [RECEIVER],\r\nÚj privát üzenetet kaptál.\r\nCíme: [SUBJECT]\r\nKüldő: [USER]\r\nitt: [SITENAME].\r\nÜzeneteidet itt elolvashatod: [SITEURL]messages.php\r\n\r\nÜzenet: [MESSAGE]\r\nKikapcsolhatod az email értesítéseket a beállítások panelen, ha nem szeretnél értesítést az új üzenetekről.\r\nÜdvözlettel,\r\n[SENDER].";
+$locale['setup_3803'] = "Helló [RECEIVER],
+Új privát üzenetet kaptál.
+Címe: [SUBJECT]
+Küldő: [USER]
+itt: [SITENAME].
+Üzeneteidet itt elolvashatod: [SITEURL]messages.php
+
+Üzenet: [MESSAGE]
+Kikapcsolhatod az email értesítéseket a beállítások panelen, ha nem szeretnél értesítést az új üzenetekről.
+Üdvözlettel,
+[SENDER].";
 $locale['setup_3804'] = "Új fórum hozzászólások értesítései";
 $locale['setup_3805'] = "Válaszok értesítései - [SUBJECT]";
-$locale['setup_3806'] = "Helló [RECEIVER],\r\n\r\nEgy választ írtak a fórumtémára: \'[SUBJECT]\' amit itt követsz nyomon: [SITENAME].\r\nA következő linkre kattintva megtekintheted:\r\n[THREAD_URL]\r\nHa nem akarod tovább nyomon követni a témát kattints a \'Téma nyomkövetésének kikapcsolása\' linkre a téma alján.\r\n\r\nÜdvözlettel,\r\n[SENDER].";
+$locale['setup_3806'] = "Helló [RECEIVER],
+
+Egy választ írtak a fórumtémára: \\'[SUBJECT]\\' amit itt követsz nyomon: [SITENAME].
+A következő linkre kattintva megtekintheted:
+[THREAD_URL]
+Ha nem akarod tovább nyomon követni a témát kattints a \\'Téma nyomkövetésének kikapcsolása\\' linkre a téma alján.
+
+Üdvözlettel,
+[SENDER].";
 $locale['setup_3807'] = "Kapcsolatok űrlap";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

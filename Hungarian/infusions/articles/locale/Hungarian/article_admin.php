@@ -1,5 +1,5 @@
 <?php
-$locale['article_0000'] = "Jelenlegi cikkek";
+$locale['article_0000'] = "Cikkek";
 $locale['article_0001'] = "Cikkek";
 $locale['article_0002'] = "Cikk írása";
 $locale['article_0003'] = "Cikk szerkesztése";
@@ -20,13 +20,11 @@ $locale['article_0043'] = "Kategória Nem Törölhető";
 $locale['article_0044'] = "Cikkek vagy alkategóriák vannak ebben a kategóriában";
 $locale['article_0045'] = "Kategóriák sikeresen Módosítva";
 $locale['article_0046'] = "Kategóriák Nem Törölhetőek";
-$locale['article_0047'] = "Cikkek vagy alkategóriák vannak ebben a kategóriában";
 $locale['article_0048'] = "Ki kell választani legalább egy Kategóriát";
 $locale['article_0060'] = "Beküldött cikk publikálva";
 $locale['article_0061'] = "A Cikk elmentve a piszkozatok közé";
 $locale['article_0062'] = "Beküldött cikk Törölve";
 $locale['article_0063'] = "Nincs Új Beküldött Cikk.";
-
 $locale['article_0100'] = "Cím";
 $locale['article_0101'] = "Kategória";
 $locale['article_0102'] = "Piszkozat";
@@ -35,7 +33,6 @@ $locale['article_0104'] = "Értékelés";
 $locale['article_0105'] = "Szerző";
 $locale['article_0106'] = "Hozzáférés";
 $locale['article_0107'] = "Művelet";
-$locale['article_0110'] = "Cikk írása";
 $locale['article_0111'] = "Biztosan törölni szeretnéd ezt a cikket?";
 $locale['article_0112'] = "Nincs Cikk Létrehozva.";
 $locale['article_0113'] = "Nincs Cikk, amely egyezik a keresési feltétellel.";
@@ -78,7 +75,8 @@ $locale['article_0270'] = "Ki kell választani egy Címet.";
 $locale['article_0271'] = "Ki kell választani egy Bevezetőt.";
 $locale['article_0272'] = "Ki kell választani egy Cikket.";
 $locale['article_0273'] = "Ki kell választani egy Kategóriát.";
-$locale['article_0274'] = "%s minden elem esetében tiltva van.\nEz a beállítás csak akkor lép életbe, ha újból engedélyezve lesz.";
+$locale['article_0274'] = "%s minden elem esetében tiltva van.
+Ez a beállítás csak akkor lép életbe, ha újból engedélyezve lesz.";
 $locale['article_0303'] = "Kategória";
 $locale['article_0304'] = "Leírás";
 $locale['article_0320'] = "Meg kell adnia a Nevet.";

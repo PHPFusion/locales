@@ -44,7 +44,8 @@ $locale['theme_2002'] = "téma komponensek";
 $locale['theme_2003'] = "Navigáció";
 $locale['theme_2004'] = "Alap Betűtípusok";
 $locale['theme_2005'] = "%s téma újjáépítése";
-$locale['theme_2006'] = "A téma jelenleg újjáépítés alatt, eltarthat akár 15-30 másodpercig függően a hálózat sebességétől.\nKérjük, ne zárja be, vagy frissítse az ablakot.";
+$locale['theme_2006'] = "A téma jelenleg újjáépítés alatt, eltarthat akár 15-30 másodpercig függően a hálózat sebességétől.
+Kérjük, ne zárja be, vagy frissítse az ablakot.";
 $locale['theme_2007'] = "Egyéni beállított cím";
 $locale['theme_2008'] = "Sablon";
 $locale['theme_2009'] = "Válassz Színt";
@@ -115,7 +116,6 @@ $locale['theme_4012'] = "Szöveg Szín";
 $locale['theme_4013'] = "Link Szín";
 $locale['theme_4014'] = "Szöveg Stílus";
 $locale['theme_4015'] = "Vízszintes Szöveg Stílus";
-$locale['theme_4016'] = "Link Stílus";
 $locale['theme_4016'] = "Vízszintes Szöveg Stílus";
 
 $locale['theme_5000'] = "Normál";

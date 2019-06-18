@@ -6,7 +6,8 @@ $locale['403'] = "Vissza a főoldalra";
 $locale['404'] = "Nincs ilyen e-mail címmel rendelkező tag.";
 $locale['405'] = "A megadott e-mail cím érvénytelen.";
 $locale['406'] = "Kérjük próbáld újra";
-$locale['407'] = "Add meg a regisztrációnál megadott e-mail címedet.<br />\nErre a címre fogjuk elküldeni az új jelszavad.";
+$locale['407'] = "Add meg a regisztrációnál megadott e-mail címedet.<br />
+Erre a címre fogjuk elküldeni az új jelszavad.";
 $locale['408'] = "Jelszó küldése";
 $locale['409'] = "Új jelszó - ";
 $locale['410'] = "Szia [USER_NAME],<br />Valaki új jelszót kért oldalunkon a felhasználónevedre.<br />
