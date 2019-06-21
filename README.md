@@ -2,8 +2,7 @@ PHP-Fusion Locales
 =================
 
 #### Crowdin
-https://translate.php-fusion.co.uk/
-
+Invitation Link: https://translate.php-fusion.co.uk/project/php-fusion-locales/invite
 
 Locales for v9: https://github.com/php-fusion/locales/tree/version-9
 
