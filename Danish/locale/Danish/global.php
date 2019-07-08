@@ -117,7 +117,7 @@ $locale['global_035'] = "Velkommen";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Senest aktive debatemner";
 $locale['global_041'] = "Mine nyeste emner";
-$locale['global_042'] = "Mine nyeste emner";
+$locale['global_042'] = "Mine nyeste indlæg";
 $locale['global_043'] = "Nye indlæg";
 $locale['global_044'] = "Debat";
 $locale['global_045'] = "Visninger";
