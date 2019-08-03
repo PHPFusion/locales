@@ -1,8 +1,9 @@
 <?php
-$locale['n400'] = "Blog";
-$locale['n401'] = "Blog item";
-$locale['n402'] = "Blog items";
-$locale['n403'] = "found in";
-$locale['n404'] = "Blog subject";
-$locale['n405'] = "Blog text";
-$locale['n406'] = "extended Blog text";
+$locale['blog.php'] = "Blog";
+$locale['b400'] = "Blog";
+$locale['b401'] = "Blog item";
+$locale['b402'] = "Blog items";
+$locale['b403'] = "gevonden in";
+$locale['b404'] = "Blog onderwerp";
+$locale['b405'] = "Blog tekst";
+$locale['b406'] = "uitgebreide Blog tekst";

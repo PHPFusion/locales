@@ -1,4 +1,4 @@
 <?php
-$locale['uf_phone_work'] = "Werk (kantoor) Telefoon Nummer";
-$locale['uf_phone_work_desc'] = "Door gebruiker opgegeven Werk (kantoor) Telefoon Nummer";
-$locale['uf_phone_work_error'] = "Werk (kantoor) Telefoon Nummer kan niet leeg worden gelaten.";
+$locale['uf_phone_work'] = "Telefoon werk (kantoor)";
+$locale['uf_phone_work_desc'] = "Gebruiker werk (kantoor) telefoonnummer";
+$locale['uf_phone_work_error'] = "Gebruikerswerk (kantoor) telefoonnummer kan niet leeg blijven.";

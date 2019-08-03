@@ -23,11 +23,11 @@ $locale['ERROR_450'] = "Nieuw";
 $locale['ERROR_451'] = "Opgelost";
 $locale['ERROR_452'] = "Genegeerd";
 $locale['ERROR_453'] = "Uitvoeren";
-$locale['ERROR_454'] = "Ernstigheid";
+$locale['ERROR_454'] = "Ernst";
 
 $locale['ERROR_460'] = "Fouten";
-$locale['ERROR_461'] = "Fouten Bestand";
+$locale['ERROR_461'] = "Fouten Log";
 $locale['ERROR_462'] = "Opties";
 $locale['ERROR_463'] = "Gegenereerd door";
-$locale['ERROR_464'] = "Fouten Console";
-$locale['ERROR_465'] = "Bron Bestand";
+$locale['ERROR_464'] = "Foutconsole";
+$locale['ERROR_465'] = "Bronbestand";

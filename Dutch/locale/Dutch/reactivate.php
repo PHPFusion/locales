@@ -1,18 +1,17 @@
 <?php
 // Error messages
-$locale['500'] = "Er is een fout ontstaan";
-$locale['501'] = "De reactivering link waar u op klikte is niet langer geldig.<br /><br />
-Neem contact op met de Beheerder van de site via <a href='mailto:".fusion_get_settings('siteemail')."'>".fusion_get_settings('siteemail')."</a> om een handmatige reactivering aan te vragen.";
-$locale['502'] = "De reactivering link waar je op hebt geklikt is ongeldig!<br /><br />
-Neem contact op met de Beheerder van de site via <a href='mailto:".fusion_get_settings('siteemail')."'>".fusion_get_settings('siteemail')."</a> om een handmatige reactivering aan te vragen.";
-$locale['503'] = "De reactivering link die je hebt gevolgd heeft je account niet kunnen reactiveren.<br />
-Misschien is uw account al gereactiveerd en als dat het geval is kan je <a href='".fusion_get_settings('siteurl')."login.php'>hier inloggen</a>.<br /><br />
-Als je nog steeds niet kunt inloggen, neem dan contact op met de Beheerder van de site via <a href='mailto:".fusion_get_settings('siteemail')."'>".fusion_get_settings('siteemail')."</a> om een handmatige reactivering aan te vragen.";
+$locale['500'] = "Er is een fout opgetreden";
+$locale['501'] = "De re-activeringslink waarop u klikte is niet langer geldig.<br /><br />Neem contact op met de beheerder van de site op [SITEEMAIL] als u een handmatige re-activering wilt aanvragen.";
+$locale['502'] = "De re-activeringslink waarop u hebt geklikt is ongeldig!<br /><br />Neem contact op met de beheerder van de site op [SITEEMAIL] als u een handmatige re-activering wilt aanvragen.";
+$locale['503'] = "De opnieuw-activeringslink die u hebt gevolgd kon uw account niet opnieuw activeren.<br />
+Misschien is uw account al opnieuw geactiveerd en in dat geval moet u hier [LINK]inloggen[/LINK].<br /><br />
+Als u nu niet in kunt loggen, neem dan contact op met de beheerder van de site op [SITEEMAIL] als u een handmatige re-activering wilt aanvragen.";
 // Send confirmation mail
-$locale['504'] = "Account gereactiveerd ".fusion_get_settings('sitename');
-$locale['505'] = "Beste [USER_NAME],\n
-Uw account op ".fusion_get_settings('sitename')." is gereactiveerd. We hopen dat we u vaker zien op onze site.\n\n
-Met vriendelijke groet,\n\n
-".fusion_get_settings('siteusername');
-$locale['506'] = "Gereactiveerd door gebruiker.";
+$locale['504'] = "Account gereactiveerd op [SITENAME]";
+$locale['505'] = "Beste [USER_NAME],<br/>
 
+Uw account op [SITENAME] is gereactiveerd. We hopen dat we u vaker zien op onze site.<br/><br/>
+
+Met vriendelijke groet,<br/><br/>
+[SITEUSERNAME]";
+$locale['506'] = "Gereactiveerd door gebruiker.";

@@ -1,49 +1,33 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/forum/locale/Dutch/forum_ranks.php
-| Author: Pascal Hospers (pedro)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-$locale['400'] = "Rang toevoegen";
-$locale['401'] = "Rang bijwerken";
-$locale['402'] = "Huidige rangen";
-$locale['403'] = "Rang is uitgeschakeld";
-$locale['404'] = "Forum rangen";
-$locale['410'] = "Rang toegevoegd";
-$locale['411'] = "Rang bijgewerkt";
-$locale['412'] = "Rang is verwijderd";
-$locale['413'] = "Er kan slechts &eacute;&eacute;n rang worden toegewezen aan beheerder en moderator";
-$locale['414'] = "Voer een rangnaam in";
-$locale['420'] = "Rangnaam:";
-$locale['421'] = "Afbeelding van rang:";
-$locale['422'] = "Aantal berichten:";
-$locale['423'] = "Toepassen op:";
-$locale['424'] = "Leden";
-$locale['425'] = "Moderators";
-$locale['426'] = "Administrators";
-$locale['427'] = "Super administrators";
-$locale['429'] = "Rangtype:";
-$locale['429a'] = "Speciaal";
-$locale['429b'] = "Admin";
-$locale['429c'] = "Aantal berichten";
-$locale['430'] = "Naam";
-$locale['431'] = "Toegepast op";
-$locale['432'] = "Afbeelding";
-$locale['433'] = "Posts";
-$locale['434'] = "Opties";
-$locale['437'] = "Er is geen rang toegevoegd aan het forum.";
-$locale['438'] = "Type / aantal";
-$locale['450'] = "Forumrang is net uitgeschakeld.<br>Ga naar %s en schakel het in.";
-$locale['451'] = "Foruminstellingen";
-$locale['0100'] = "Forumrangen worden gebruikt om forumgebruikers te beheren en hun prestaties en activiteiten weer te geven";
+$locale['forum_rank_400'] = "Voeg Rang toe";
+$locale['forum_rank_401'] = "Bewerk Rang";
+$locale['forum_rank_402'] = "Huidige rangen";
+$locale['forum_rank_403'] = "Rangsysteem uitgeschakeld";
+$locale['forum_rank_404'] = "Forum Rangen";
+$locale['forum_rank_410'] = "Rang toegevoegd";
+$locale['forum_rank_411'] = "Rang bijgewerkt";
+$locale['forum_rank_412'] = "Rang verwijderd";
+$locale['forum_rank_413'] = "Slechts één rang kan worden toegewezen aan beheerders en mods";
+$locale['forum_rank_414'] = "Voer a.u.b. een Rang Titel in";
+$locale['forum_rank_420'] = "Rang Titel:";
+$locale['forum_rank_421'] = "Rank afbeelding:";
+$locale['forum_rank_422'] = "Rang Berichten:";
+$locale['forum_rank_423'] = "Toepassen op:";
+$locale['forum_rank_424'] = "Leden";
+$locale['forum_rank_425'] = "Moderatoren";
+$locale['forum_rank_426'] = "Beheerders";
+$locale['forum_rank_427'] = "Super beheerders";
+$locale['forum_rank_429'] = "Rang type:";
+$locale['forum_rank_429a'] = "Speciaal";
+$locale['forum_rank_429b'] = "Beheerder";
+$locale['forum_rank_429c'] = "Aantal berichten";
+$locale['forum_rank_430'] = "Titel";
+$locale['forum_rank_431'] = "Is van toepassing op";
+$locale['forum_rank_432'] = "Afbeelding";
+$locale['forum_rank_433'] = "Forum Berichten";
+$locale['forum_rank_434'] = "Opties";
+$locale['forum_rank_437'] = "Geen Forum Ranks gedefinieerd.";
+$locale['forum_rank_438'] = "Type / aantal";
+$locale['forum_rank_450'] = "Forum rangen zijn momenteel uitgeschakeld.<br/>Ga naar het %s Beheerder Paneel om ze in te schakelen.";
+$locale['forum_rank_451'] = "Forum instellingen";
+$locale['forum_rank_0100'] = "Forum rangenworden gebruikt voor micro-beheer van forum gebruikers en toont hun prestaties en activiteit";

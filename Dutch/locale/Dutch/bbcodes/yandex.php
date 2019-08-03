@@ -1,4 +1,3 @@
 <?php
-$locale['bb_yandex_description'] = "Yandex Zoek machine";
-$locale['bb_yandex_usage'] = "Tekst om te zoeken via Yandex";
-
+$locale['bb_yandex_description'] = "Yandex Zoekmachine";
+$locale['bb_yandex_usage'] = "Tekst om via Yandex te zoeken";

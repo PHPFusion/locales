@@ -1,5 +1,4 @@
 <?php
-$locale['uf_geo'] = "Leden Geo";
-$locale['uf_geo_desc'] = "Plaats,Provincie, Adres, Postcode uit onze Geo DB";
-$locale['uf_geo_error'] = "Geo velden kunnen niet leeg worden gelaten.";
-
+$locale['uf_geo'] = "Gebruiker Geo";
+$locale['uf_geo_desc'] = "Land, regio, stad, adres, Zip van onze Geo DB";
+$locale['uf_geo_error'] = "Geo velden kunnen niet leeg blijven.";

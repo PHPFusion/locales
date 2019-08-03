@@ -1,15 +1,15 @@
 <?php
 // Nebula
-$locale['NB_000'] = "De Nebula is een van de eerste PHP-Fusion 9 themakader dat veel inhoud elementen, stijlen en functies aanbiedt en om beter te begrijpen en te leren hoe je content bouwt met PHP-Fusion 9, zonder codering.";
+$locale['NB_000'] = "De Nebula is PHP-Fusion 9's eerste FusionTheme Framework met veel content elementen, stijlen en functies om beter te begrijpen en te leren om inhoud te bouwen met behulp van de PHP-Fusion 9, zonder coderen.";
 $locale['NB_001'] = "Over Ons";
 // Nebula Submissions Template
-$locale['NB_100'] = "Nieuws Titel";
-$locale['NB_101'] = "Typ hier een kort en krachtige nieuwe introductie.";
-$locale['NB_102'] = "Typ hier de volledige nieuws tekst";
-$locale['NB_103'] = "Eigenschappen van inzendingen";
+$locale['NB_100'] = "Nieuwskop";
+$locale['NB_101'] = "Schrijf hier een korte en korte nieuwe introductie.";
+$locale['NB_102'] = "Schrijf hier de volledige Nieuwstekst";
+$locale['NB_103'] = "Eigenschappen inzendingen";
 // Nebula News Template
 $locale['NB_200'] = "Door";
 // News Module
-$locale['NEWS_001'] = "Recente Nieuws";
+$locale['NEWS_001'] = "Laatste nieuws";
 // Widget
-$locale['WIDGET_001'] = "Stijl instellingen bijgewerkt";
+$locale['WIDGET_001'] = "Thema instellingen bijgewerkt";

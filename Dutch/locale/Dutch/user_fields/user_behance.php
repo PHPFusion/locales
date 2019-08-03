@@ -1,6 +1,5 @@
 <?php
-$locale['uf_behance'] = "Behance";
-$locale['uf_behance_id'] = "Behance Gebruikersnaam";
-$locale['uf_behance_desc'] = "Behance Profiel Pagina";
-$locale['uf_behance_error'] = "Behance Gebruikersnaam kan niet leeg worden gelaten.";
-
+$locale['uf_behance'] = "Gedrag";
+$locale['uf_behance_id'] = "Gedrag gebruikersnaam";
+$locale['uf_behance_desc'] = "Gedrag profielpagina";
+$locale['uf_behance_error'] = "Gedrag Gebruikersnaam mag niet leeg blijven.";

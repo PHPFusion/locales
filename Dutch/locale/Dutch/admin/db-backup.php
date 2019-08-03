@@ -4,7 +4,7 @@ $locale['400'] = "Database Herstel";
 $locale['401'] = "Fout";
 $locale['402'] = "Ongeldig formaat van back-upbestand";
 $locale['403'] = "Sluiten";
-$locale['404'] = "Database Herstel gereed";
+$locale['404'] = "Database herstellen voltooid";
 // Backup File Information
 $locale['410'] = "Informatie van back-up bestand";
 $locale['411'] = "Informatie van herstel bestand";
@@ -12,10 +12,7 @@ $locale['412'] = "Naam van back-up bestand:";
 $locale['413'] = "Datum van back-up:";
 $locale['414'] = "Naam van database:";
 $locale['415'] = "Voorvoegsel core-tabellen:";
-$locale['416'] = "Tabellen:";
-$locale['417'] = "Bekijken";
-$locale['418'] = "Afbreken";
-$locale['419'] = "tabellen";
+$locale['419'] = "Tabellen";
 // Database Restore
 $locale['430'] = "Opties voor herstel";
 $locale['431'] = "Naam van bestand:";
@@ -26,7 +23,6 @@ $locale['435'] = "Selecteer:";
 $locale['436'] = "alle";
 $locale['437'] = "geen";
 $locale['438'] = "Herstellen";
-$locale['439'] = "Afbreken";
 $locale['440'] = "Ondersteunde Bestands Typen:";
 // Database Backup
 $locale['450'] = "Database back-up";
@@ -40,9 +36,9 @@ $locale['457'] = "Database tabellen";
 $locale['458'] = "core";
 $locale['459'] = "Back-up";
 $locale['460'] = "Beheerderwachtwoord:";
-$locale['460b'] = "Geef uw Beheerders wachtwoord in";
+$locale['460b'] = "Geef a.u.b. uw beheerders wachtwoord";
 $locale['461'] = "Vereiste informatie";
 // Backup List
 $locale['480'] = "Back-up herstellen";
-$locale['481'] = "Bestandsnaam:";
+$locale['481'] = "Naam van bestand:";
 $locale['481b'] = "Geef a.u.b een bestandsnaam op";

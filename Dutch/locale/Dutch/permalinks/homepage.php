@@ -1,3 +1,3 @@
 <?php
-$locale['pl_homepage_title'] = "Homepage";
-$locale['pl_homepage_desc'] = "Enable Permalinks for the Homepage link in the site.";
+$locale['pl_homepage_title'] = "Startpagina";
+$locale['pl_homepage_desc'] = "Permalinks inschakelen voor de Homepage link op de site.";

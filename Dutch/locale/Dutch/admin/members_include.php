@@ -8,23 +8,20 @@ $locale['susp05'] = "Geannuleerde";
 $locale['susp06'] = "Geanonimiseerde";
 $locale['susp07'] = "Gedeactiveerde";
 $locale['susp08'] = "Inactieve";
-
-$locale['susp10'] = "Terugzetten";
+$locale['susp10'] = "Herstellen";
 $locale['susp11'] = "Verbannen";
-$locale['susp12'] = "Niet actief | Activering ongedaan maken?";
+$locale['susp12'] = "Niet actief";
 $locale['susp13'] = "Schorsen";
-$locale['susp14'] = "Wegens veiligheid verbannen";
+$locale['susp14'] = "VeiligheidsBan";
 $locale['susp15'] = "Annuleren";
 $locale['susp16'] = "Anonimiseren";
 $locale['susp17'] = "Deactiveren";
-$locale['susp18'] = "Inactief | Op non actief zetten?";
-
+$locale['susp18'] = "Inactief";
 $locale['susp_sys'] = "Systeem actie";
-
 $locale['susp100'] = "Gebruikerslogboek voor %s";
 $locale['susp100b'] = "%s logboekvermeldingen voor %s";
 $locale['susp101'] = "Alle gebruikerslogboekvermeldingen voor gebruiker %s";
-$locale['susp102'] = "Vorige <strong>%s</strong> geschiedenis voor gebruiker %s";
+$locale['susp102'] = "Vorige [STRONG]%s[/STRONG] geschiedenis voor gebruiker %s";
 $locale['susp103'] = "ID";
 $locale['susp104'] = "Datum";
 $locale['susp105'] = "Type / Reden";
@@ -34,7 +31,7 @@ $locale['susp108'] = "IP";
 $locale['susp109'] = "Systeem actie";
 $locale['susp110'] = "Deze gebruiker heeft geen logboekvermeldingen.";
 $locale['susp111'] = "Geactiveerd";
-$locale['susp112'] = "IP: "; 
+$locale['susp112'] = "IP: ";
 $locale['susp113'] = "Opgeheven";
 $locale['susp114'] = "Schorsingen logboek";
 $locale['susp115'] = "Leden";

@@ -7,14 +7,13 @@ $locale['403'] = "Webserver software";
 $locale['404'] = "PHP versie";
 $locale['405'] = "PHP interface";
 $locale['406'] = "MySQL Server versie";
+$locale['406a'] = "Database Driver";
 $locale['407'] = "PHP-Fusion versie";
 $locale['408'] = "Database voorvoegsel";
 $locale['409'] = "Cookie voorvoegsel";
-$locale['410'] = "Webbrowser en OS";
+$locale['410'] = "Web-browser en OS";
 //PHP settings
 $locale['420'] = "PHP instellingen";
-$locale['421'] = "Ja";
-$locale['422'] = "Nee";
 $locale['423'] = "Safemode";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Ondersteuning door";

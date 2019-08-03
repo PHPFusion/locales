@@ -1,101 +1,87 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: infusions/weblinks/locale/Dutch/weblinks_admin.php
-| Author: Pascl Hospers (pedro)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-$locale['WLS_0001'] = "Weblinks";
-$locale['WLS_0002'] = "Link toevoegen";
-$locale['WLS_0003'] = "Link bewerken";
-$locale['WLS_0004'] = "Categorie";
+$locale['WLS_0001'] = "Web Links";
+$locale['WLS_0002'] = "Weblink toevoegen";
+$locale['WLS_0003'] = "Weblink bewerken";
+$locale['WLS_0004'] = "Categorieën";
 $locale['WLS_0005'] = "Categorie toevoegen";
-$locale['WLS_0006'] = "Categorie bewerken";
+$locale['WLS_0006'] = "Wijzig categorie";
 $locale['WLS_0007'] = "Inzendingen";
 $locale['WLS_0008'] = "Instellingen";
-$locale['WLS_0030'] = "Link succesvol aangemaakt";
-$locale['WLS_0031'] = "Link succesvol bewerkt";
-$locale['WLS_0032'] = "Link succesvol verwijderd";
-$locale['WLS_0034'] = "Umoet ten minste &eacute;&eacute;n link selecteren";
-$locale['WLS_0035'] = "Link succesvol gepubliceerd";
-$locale['WLS_0036'] = "Link is niet gepubliceerd";
-$locale['WLS_0040'] = "Categorie succesvol gemaakt";
-$locale['WLS_0041'] = "Categorie succesvol bewerkt";
+$locale['WLS_0030'] = "Web link succesvol aangemaakt";
+$locale['WLS_0031'] = "Web Link is succesvol bijgewerkt";
+$locale['WLS_0032'] = "Weblink succesvol verwijderd";
+$locale['WLS_0034'] = "U moet ten minste één weblink kiezen";
+$locale['WLS_0035'] = "Weblink succesvol gepubliceerd";
+$locale['WLS_0036'] = "Weblink succesvol gedepubliceerd";
+$locale['WLS_0040'] = "Categorie succesvol aangemaakt";
+$locale['WLS_0041'] = "Categorie succesvol bijgewerkt";
 $locale['WLS_0042'] = "Categorie succesvol verwijderd";
-$locale['WLS_0043'] = "Categorie kan niet verwijderd worden";
-$locale['WLS_0044'] = "In de categorie zijn links of subcategorie&euml;n";
-$locale['WLS_0046'] = "Categorie&euml;n kunnen niet worden verwijderd";
-$locale['WLS_0048'] = "U moet ten minste &eacute;&eacute;n categorie selecteren";
+$locale['WLS_0043'] = "Artikelcategorie kan niet worden verwijderd";
+$locale['WLS_0044'] = "Er zijn weblink of Subcategorieën in de categorie";
+$locale['WLS_0046'] = "Categorieën kunnen niet verwijderd worden";
+$locale['WLS_0048'] = "U moet ten minste één categorie kiezen";
 $locale['WLS_0049'] = "Categorie succesvol gepubliceerd";
-$locale['WLS_0050'] = "Categorie publiceren is verwijderd";
-$locale['WLS_0060'] = "Post succesvol gepubliceerd";
-$locale['WLS_0061'] = "Het bericht is  succesvol verwijderd";
-$locale['WLS_0062'] = "Er zijn geen nieuwe berichten.";
+$locale['WLS_0050'] = "Categorie publicatie verwijderd";
+$locale['WLS_0060'] = "Inzending succesvol gepubliceerd";
+$locale['WLS_0061'] = "Inzending succesvol verwijderd";
+$locale['WLS_0062'] = "Er zijn geen nieuwe inzedingen.";
+$locale['WLS_0063'] = "Er zijn momenteel %s wachtend op uw beoordeling.";
 $locale['WLS_0100'] = "Naam";
 $locale['WLS_0101'] = "Categorie";
 $locale['WLS_0102'] = "Status";
 $locale['WLS_0103'] = "Zichtbaarheid";
-$locale['WLS_0104'] = "Actie";
-$locale['WLS_0111'] = "Deze link verwijderen?";
-$locale['WLS_0112'] = "Geen links aangemaakt.";
-$locale['WLS_0113'] = "Er zijn geen links die overeenkomen met de zoekopties.";
-$locale['WLS_0114'] = "U moet een categorie maken voordat u een koppeling maakt.";
-$locale['WLS_0115'] = "%s Gekoppelde en verborgen koppelingen gevonden.";
-$locale['WLS_0116'] = "Niet-gepubliceerde status bijgewerkt.";
+$locale['WLS_0104'] = "Acties";
+$locale['WLS_0105'] = "X bekeken";
+$locale['WLS_0106'] = "Publicatiedatum";
+$locale['WLS_0111'] = "Deze weblink verwijderen?";
+$locale['WLS_0112'] = "Er zijn geen weblinks aangemaakt.";
+$locale['WLS_0113'] = "Er zijn geen weblinks die overeenkomen met de zoekopties.";
+$locale['WLS_0114'] = "U dient ten minste &eacute;&eacute;n categorie aan te maken voordat u web link kunt toevoegen";
+$locale['WLS_0115'] = "Weblink is aangevinkt, ongeldige links gevonden %s.";
+$locale['WLS_0116'] = "Status niet gepubliceerd update.";
 $locale['WLS_0120'] = "Onderwerp";
 $locale['WLS_0121'] = "Zoeken";
 $locale['WLS_0122'] = "Wissen";
-$locale['WLS_0123'] = "Selecteer een status";
+$locale['WLS_0123'] = "Kies status";
 $locale['WLS_0124'] = "Alle statussen";
-$locale['WLS_0125'] = "Selecteer zichtbaarheid";
-$locale['WLS_0126'] = "Selecteer een categorie";
-$locale['WLS_0127'] = "Alle categorie&euml;n";
-$locale['WLS_0128'] = "Selecteer een taal";
+$locale['WLS_0125'] = "Kies zichtbaarheid";
+$locale['WLS_0126'] = "Kies Categorie";
+$locale['WLS_0127'] = "Alle Categorieën";
+$locale['WLS_0128'] = "Kies taal";
 $locale['WLS_0129'] = "Alle talen";
-$locale['WLS_0132'] = "Paginalinks";
-$locale['WLS_0151'] = "Link";
-$locale['WLS_0161'] = "Deze categorie verwijderen?";
-$locale['WLS_0162'] = "Geen categorie&euml;n toegevoegd";
+$locale['WLS_0132'] = "Items per Pagina Instellingen";
+$locale['WLS_0151'] = "Web Links";
+$locale['WLS_0161'] = "Wilt u deze categorie verwijderen?";
+$locale['WLS_0162'] = "Er zijn geen Categorieën gedefinieerd.";
 $locale['WLS_0200'] = "ID";
-$locale['WLS_0201'] = "Link titel";
-$locale['WLS_0202'] = "Inzender";
+$locale['WLS_0201'] = "Naam van de link";
+$locale['WLS_0202'] = "Indiener";
 $locale['WLS_0203'] = "Datum";
 $locale['WLS_0204'] = "Opties";
-$locale['WLS_0205'] = "Inzendingen beoordelen";
-$locale['WLS_0206'] = "Kies alles";
-$locale['WLS_0252'] = "Link titel";
-$locale['WLS_0253'] = "URL link";
+$locale['WLS_0205'] = "Beoordeel inzending";
+$locale['WLS_0206'] = "Selecteer alles";
+$locale['WLS_0252'] = "Een naam van de weblink.";
+$locale['WLS_0253'] = "Weblink (URL)";
 $locale['WLS_0254'] = "Beschrijving";
-$locale['WLS_0255'] = "Voer een beschrijving in";
-$locale['WLS_0259'] = "Bewerk publicatiedatum";
+$locale['WLS_0255'] = "Gelieve een beschrijving in te voeren";
+$locale['WLS_0259'] = "Publicatiedatum bijwerken";
 $locale['WLS_0260'] = "Meer informatie";
-$locale['WLS_0261'] = "Verifieer koppelingen";
-$locale['WLS_0270'] = "U moet een onderwerp invoeren.";
-$locale['WLS_0303'] = "Parent";
-$locale['WLS_0320'] = "U moet een naam invoeren.";
-$locale['WLS_0321'] = "De categorie met deze naam bestaat al.";
-$locale['WLS_0350'] = "Het bovenste bericht is verzonden {%SUBMISSION_AUTHOR%}.";
-$locale['WLS_0351'] = "Datum van inzending: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
-$locale['WLS_0400'] = "Link-instellingen voor frontend en backend";
-$locale['WLS_0403'] = "Linkbeschrijving vereist";
-$locale['WLS_0900'] = "Link insturen";
-$locale['WLS_0910'] = "Link succesvol verzonden.";
+$locale['WLS_0261'] = "Weblinks verifiëren";
+$locale['WLS_0262'] = "Reset teller";
+$locale['WLS_0270'] = "U dient een onderwerp op te geven.";
+$locale['WLS_0303'] = "Bovenliggende";
+$locale['WLS_0320'] = "U dient een naam op te geven.";
+$locale['WLS_0321'] = "Er reeds bestaat een categorie met deze naam.";
+$locale['WLS_0350'] = "De bovenstaande indiening is verstuurd door{%SUBMISSION_AUTHOR%}.";
+$locale['WLS_0351'] = "Datum inzending: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
+$locale['WLS_0400'] = "Instellingen voor het weblinksysteem in de Frontend en Backend.";
+$locale['WLS_0403'] = "Vereiste link beschrijving";
+$locale['WLS_0900'] = "Weblink indienen";
+$locale['WLS_0910'] = "Web link is succesvol ingediend.";
 $locale['WLS_0911'] = "Bedankt voor uw inzending.";
-$locale['WLS_0912'] = "Dien nog een link in";
+$locale['WLS_0912'] = "Nog een weblink indienen";
 $locale['WLS_0913'] = "Terug naar [SITENAME]";
-$locale['WLS_0920'] = "Gebruik dit formulier om een link in te dienen.<br/>Uw inzending wordt beoordeeld door de beheerder.
-[SITENAME] behoudt zich het recht voor om elke bijdrage te wijzigen of aan te passen.
-Weblinks moeten verwijzen naar gerelateerde content van deze pagina. Ongepaste berichten worden verwijderd";
-$locale['WLS_0922'] = "We accepteren momenteel geen nieuwe inzendingen.";
-$locale['WLS_0923'] = "U kunt geen koppeling verzenden, omdat er geen categorie&euml;n zijn toegevoegd.";
-$locale['weblink_submit'] = "%s Links";
+$locale['WLS_0920'] = "Gebruik het volgende formulier om een Web link in te dienen. Uw indiening zal worden beoordeeld door een beheerder. [SITENAME] behoudt het recht om een indiening te wijzigen of te bewerken. Web links 's moeten van toepassing zijn op de inhoud van deze site. Niet-geschikte inzendingen zullen worden verwijderd.";
+$locale['WLS_0922'] = "Sorry, we accepteren momenteel geen web link inzendingen op deze site.";
+$locale['WLS_0923'] = "U kunt geen web link indienen, omdat er geen categorieën zijn gedefinieerd.";
+$locale['weblink_submit'] = "%s weblinks";

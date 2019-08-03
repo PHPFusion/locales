@@ -9,8 +9,9 @@ $locale['411'] = "Reactie verwijderd";
 $locale['420'] = "Smileys in deze reactie uitschakelen";
 $locale['421'] = "Reactie opslaan";
 // Comments
-$locale['430'] = "Wijzigen";
-$locale['431'] = "Verwijderen";
+$locale['431'] = "Verwijderen en blokkeren";
 $locale['432'] = "IP van gebruiker:";
 $locale['433'] = "Deze reactie verwijderen?";
 $locale['434'] = "Er zijn nog geen reacties op dit item.";
+$locale['435'] = "Wilt u deze gebruiker echt toevoegen aan de zwarte lijst?";
+$locale['436'] = "Uw reactie is op de zwarte lijst geplaatst.";
