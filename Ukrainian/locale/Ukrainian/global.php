@@ -52,7 +52,7 @@ $locale['sel_state'] = "Регіон";
 $locale['sel_user'] = "Будь ласка, введіть ім&lsquo;я";
 $locale['add_language'] = "Додати мови";
 $locale['add_lang'] = "Додати %s";
-+$locale['other_states'] = "Інше";
+$locale['other_states'] = "Інше";
 
 // Name
 $locale['name'] = "Повне ім&lsquo;я";
