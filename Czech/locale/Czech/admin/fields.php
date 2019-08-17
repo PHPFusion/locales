@@ -100,7 +100,7 @@ $locale['fields_0481'] = "Hodnota chyby pole";
 $locale['fields_0482'] = "Povinné pole";
 $locale['fields_0483'] = "Záznam pole";
 $locale['fields_0484'] = "Pořadí polí";
-$locale['fields_0485'] = "Registrace v terénu";
+$locale['fields_0485'] = "Registrační pole";
 $locale['fields_0488'] = "Uložit pole";
 $locale['fields_0489'] = "Pouze obrázky";
 
