@@ -290,7 +290,6 @@ $locale['setup_3660'] = "Informacje o witrynie";
 $locale['setup_3661'] = "Dyskusje dotyczące zarządzania tą stroną internetową";
 
 // Stage 6 - User Fields
-require_once __DIR__."/user_fields/user_aim.php";
 require_once __DIR__."/user_fields/user_birthdate.php";
 require_once __DIR__."/user_fields/user_icq.php";
 require_once __DIR__."/user_fields/user_location.php";

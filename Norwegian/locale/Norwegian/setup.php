@@ -289,7 +289,6 @@ $locale['setup_3644'] = "Statistikk";
 $locale['setup_3645'] = "Privat";
 
 // Stage 6 - User Fields
-require_once("user_fields/user_aim.php");
 require_once("user_fields/user_birthdate.php");
 require_once("user_fields/user_blacklist.php");
 require_once("user_fields/user_icq.php");

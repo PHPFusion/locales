@@ -311,7 +311,6 @@ $locale['setup_3660'] = "Informa&#355;ii sait";
 $locale['setup_3661'] = "Discu&#355;ii legate de managementul acestui sait";
 
 // Stage 6 - User Fields
-require_once __DIR__."/user_fields/user_aim.php";
 require_once __DIR__."/user_fields/user_birthdate.php";
 require_once __DIR__."/user_fields/user_icq.php";
 require_once __DIR__."/user_fields/user_location.php";
