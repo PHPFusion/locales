@@ -19,13 +19,10 @@ $locale['download_1018'] = "Besøk Hjemmesiden";
 $locale['download_1019'] = "Redaktørens Fulle Gjenomgang";
 $locale['download_1020'] = "Fil Størrelse";
 $locale['download_1021'] = "Publiserings Dato";
-
-// filters
 $locale['download_2001'] = 'Mest Kommentert';
 $locale['download_2002'] = 'Seneste';
 $locale['download_2003'] = 'Mest Nedlastet';
 $locale['download_2004'] = 'Topp Vurdert Nedlasting';
-// errors
 $locale['download_3000'] = "Ingen Nedlasting har blitt lagt til ennu";
 $locale['download_3001'] = "Ingen Kategori";
 $locale['download_3002'] = "Ingen Utgiver";

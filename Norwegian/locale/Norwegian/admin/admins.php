@@ -1,46 +1,34 @@
 <?php
 // Administrators messages
-$locale['400'] = "Administrator lagt til";
-$locale['401'] = "Administrator  oppdateret";
-$locale['402'] = "Administrator  fjernet";
+$locale['ADM_400'] = "Administrator added";
+$locale['ADM_401'] = "Administrator updated";
+$locale['ADM_402'] = "Administrator removed";
 // Search/Add Administrator
-$locale['410'] = "Legg til Administrator";
-$locale['411'] = "Søk etter brukere med skjemaet under.";
-$locale['412'] = "Bruker ID";
-$locale['413'] = "Brukernavn";
-$locale['414'] = "Søk";
-$locale['415'] = "Gi alle rettigheter";
-$locale['416'] = "Gjør til Superadministrator";
-$locale['417'] = "Legg til Admin";
-$locale['418'] = "Ingen medlemmer funnet.";
-$locale['419'] = "Søk igjen";
+$locale['ADM_410'] = "Add Administrator";
+$locale['ADM_411'] = "Search for users to add using the form below.";
+$locale['ADM_413'] = "User Name";
+$locale['ADM_415'] = "Apply all privileges";
+$locale['ADM_416'] = "Make Super Administrator";
+$locale['ADM_418'] = "No users found.";
+$locale['ADM_419'] = "Search Again";
 // Current Administrators
-$locale['420'] = "Administratorer";
-$locale['421'] = "Brukernavn";
-$locale['422'] = "Admin Nivå";
-$locale['423'] = "Valg";
-$locale['424'] = "Hoved Admin";
-$locale['425'] = "Ingen rettigheter tildelt";
-$locale['426'] = "Rediger";
-$locale['427'] = "Fjern";
+$locale['ADM_420'] = "Administratorer";
+$locale['ADM_421'] = "User Name";
+$locale['ADM_422'] = "Admin Level";
+$locale['ADM_423'] = "Valg";
+$locale['ADM_425'] = "No rights assigned";
 // Edit Admin Rights
-$locale['440'] = "Rediger Admin Rettigheter";
-$locale['441'] = "Innhold Admin";
-$locale['442'] = "Bruker Admin";
-$locale['443'] = "System Admin";
-$locale['444'] = "Infusjoner";
-$locale['445'] = "Merk alle";
-$locale['446'] = "Merk ingen";
-$locale['447'] = "Admin Passord:";
-$locale['448'] = "Lagre Admin Rettigheter";
-$locale['449'] = "Innstillinger";
-$locale['450'] = "Velg kun sikre";
+$locale['ADM_440'] = "Edit Admin Rights";
+$locale['ADM_441'] = "Content Admin";
+$locale['ADM_442'] = "User Admin";
+$locale['ADM_443'] = "System Admin";
+$locale['ADM_444'] = "Infusjoner";
+$locale['ADM_445'] = "Velg alle";
+$locale['ADM_448'] = "Save Admin Rights";
+$locale['ADM_449'] = "Settings";
+$locale['ADM_450'] = "Check secure";
 // Popup Error/Warning Messages
-$locale['460'] = "Fjern denne administrator?";
-$locale['461'] = "Legg til denne administrator?";
-$locale['462'] = "Å gi disse admin rettigheter til en bruker er en potensjonel sikkerhets risiko!";
-// Remove Admin confirmation
-$locale['470'] = "Slett Admin";
-$locale['471'] = "For å kunne fjerne denne Administratoren, vennligst skriv inn ditt admin Passordet:";
-$locale['472'] = "Bekreft";
-$locale['473'] = "Avbryt";
+$locale['ADM_460'] = "Remove this administrator?";
+$locale['ADM_461'] = "Add this administrator?";
+$locale['ADM_462'] = "Giving these admin rights to a user is a potential security risk!";
+$locale['ADM_463'] = "No action selected!";

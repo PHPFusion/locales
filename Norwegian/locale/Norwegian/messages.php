@@ -21,9 +21,9 @@ $locale['417'] = "Vis avsender med navn som begynner med:";
 $locale['418'] = "Alle";
 $locale['419'] = "Det er ingen Private Meldinger";
 $locale['420'] = "Send en Privat Melding";
+$locale['420a'] = "Recipient";
 $locale['421'] = "Til";
 $locale['422'] = "tekst";
-$locale['422a'] = "Opprinnelig Melding";
 $locale['423'] = "BB Kode";
 $locale['424'] = "Smilefjes";
 $locale['425'] = "Valgmuligheter";
@@ -36,17 +36,19 @@ $locale['431'] = "Les private meldinger";
 $locale['432'] = "Lukk";
 $locale['433'] = "Svar";
 $locale['434'] = "Send til alle";
-$locale['435'] = "Avbryt";
-$locale['436'] = "Se svar";
 $locale['437'] = "Send";
-$locale['438'] = "Se melding";
 $locale['439'] = "Svar";
 $locale['440'] = "(mottatt %s)";
 $locale['441'] = "Skriv som sidens eier";
 $locale['442'] = "Brukerstatus";
 $locale['443'] = "Brukergrupper";
+$locale['444'] = "More";
+$locale['445'] = "Configuration saved";
+$locale['446'] = "Unread Messages";
+$locale['447'] = "Read Messages";
+$locale['448'] = "Settings";
 
-// Search Options
+// Search Options -- this is used by Search.php
 $locale['450'] = "Søke og sorterings sorteringsmuligheter";
 $locale['451'] = "Søk / Sorter";
 $locale['452'] = "Slett alt";
@@ -58,7 +60,7 @@ $locale['457'] = "(Bruk ? og * som jokertegn)";
 $locale['458'] = "Akkurat nå vises brukere med '%s' i '%s' ";
 $locale['459'] = "Avsendere med navn som begynner på '%s' ";
 $locale['460'] = "Sorter etter '%s'";
-$locale['461'] = "Denne meldingsboksen er tom";
+$locale['461'] = "Denne meldingsboksen er tom"; // del
 $locale['462'] = "Emne";
 $locale['463'] = "Melding";
 $locale['464'] = "Avsender";
@@ -67,7 +69,7 @@ $locale['466'] = "Ikke valgt";
 $locale['467'] = "Ingen sammtale er valgt";
 $locale['468'] = "Start en ny samtale med %s";
 $locale['469'] = "Svare til %s";
-$locale['470'] = 'Søkefilter (Virker ikke nå)';
+
 $locale['471'] = "Ingen meldinger funnet";
 
 // Error Messages
@@ -79,6 +81,16 @@ $locale['484'] = "Dine private meldinger er avstengt på grunn av missbruk.";
 $locale['485'] = "Vennligst velg minst en melding";
 $locale['486'] = "Du må fullføre alle felt: Emne og Melding";
 $locale['487'] = "Flooding! Vennligst vent %s sekunder før du skriver neste melding.";
+$locale['488'] = "An unknown error occurred with the message, ";
+$locale['489'] = "Message archived";
+$locale['489b'] = "Message unarchived";
+$locale['490'] = "Message deleted";
+$locale['491'] = "Message sent";
+$locale['492'] = "There are no users in this group.";
+$locale['493'] = "Mark All as Read";
+$locale['494'] = "Mark as Read";
+$locale['495'] = "Mark as Unread";
+$locale['496'] = "Mark All as Unread";
 
 // Tooltips
 $locale['500'] = "Klikk her for å skrive en melding";
@@ -98,6 +110,11 @@ $locale['513'] = "Klikk her for å vise markerte meldinger som leste";
 $locale['514'] = "Klikk her for å vise markerte meldinger som uleste";
 $locale['515'] = "Klikk her for å slette markerte meldinger";
 $locale['516'] = "Klikk her for å endre dine innstillinger";
+$locale['520'] = "Default";
+$locale['521'] = "Do not notify me";
+$locale['522'] = "Yes, keep me informed";
+$locale['523'] = "Do not keep a record";
+$locale['524'] = "Yes, keep my sent messages";
 
 // Options
 $locale['620'] = "Innstillinger";
@@ -106,10 +123,13 @@ $locale['622'] = "Lagre sendte meldinger automatisk:";
 $locale['623'] = "Lagre innstillinger";
 $locale['624'] = "Lagrede innstillinger";
 $locale['625'] = "Du har mottatt en ny privat melding på; ".fusion_get_settings('sitename');
-$locale['626'] = ",\r\nDu har mottatt en ny privat melding på; ".$settings['sitename'].". Du kan lese din private melding på ".$settings['siteurl']."messages.php\r\n\r\n Hvis du ikke ønsker beskjed om nye meldinger per e-post kan du skru av dette i valg for Private Meldinger.";
+$locale['626'] = ",<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can [LINK]read[/LINK] your private message.You can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.";
 $locale['627'] = "Feil";
 $locale['628'] = "Kunne ikke sende Privat Melding. Mottagers innboks er full.";
 $locale['629'] = "Du kan ikke flytte valgte melding(er) til den angitte mappen. Den maksimale grensen for antall meldinger vil da overskrides.";
 $locale['630'] = " Grense for antall meldinger";
-$locale['631'] = "Ja";
-$locale['632'] = "Nei";
+
+$locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
+$locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
+$locale['702'] = "Message Recipient User ID is invalid";
+$locale['703'] = "You are flooding, send_pm halted";

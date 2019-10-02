@@ -1,24 +1,29 @@
 <?php
-$locale['400'] = "BB Koder Admin";
-$locale['401'] = "Test BB Koder";
+$locale['BBCA_400'] = "BB koder";
+$locale['BBCA_400a'] = "BB Codes Admin";
+$locale['BBCA_401'] = "Test BB Codes";
 // Enabled BB Codes
-$locale['402'] = "Aktiver BB Koder";
-$locale['403'] = "Navn";
-$locale['404'] = "Ikon";
-$locale['405'] = "Beskrivelse";
-$locale['406'] = "Bruk";
-$locale['407'] = "Rekkefølge";
-$locale['408'] = "Ned";
-$locale['409'] = "Opp";
-$locale['410'] = "Deaktiver";
-$locale['411'] = "Det er ingen BB koder aktivert";
+$locale['BBCA_402'] = "Enabled BB Codes";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Description";
+$locale['BBCA_406'] = "Usage";
+$locale['BBCA_407'] = "Order";
+$locale['BBCA_408'] = "Down";
+$locale['BBCA_409'] = "Up";
+$locale['BBCA_410'] = "Deaktiver";
+$locale['BBCA_411'] = "There are no BB Codes enabled.";
 // Disabled BB Codes
-$locale['413'] = "Deaktiver BB Koder.";
-$locale['414'] = "Aktiver";
-$locale['415'] = "Linjeskift.";
-$locale['416'] = "Det er ingen BB Koder deaktivert";
+$locale['BBCA_413'] = "Disabled BB Codes";
+$locale['BBCA_414'] = "Aktiver";
+$locale['BBCA_416'] = "There are no BB Codes disabled.";
 // Test BB Codes
-$locale['417'] = "BB koder Testresultat";
-$locale['418'] = "Deaktiver smilefjes i denne testen";
-$locale['418a'] = "Test Melding";
-$locale['418b'] = "Vennligst skriv inn en melding for å teste BB Koder.";
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Disable smileys in this test";
+$locale['BBCA_418a'] = "Test Message";
+$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+// Notices
+$locale['BBCA_430'] = "BB Code has been moved Up.";
+$locale['BBCA_431'] = "BB Code has been moved Down.";
+$locale['BBCA_432'] = "BB Code has been Enabled.";
+$locale['BBCA_433'] = "BB Code has been Disabled.";

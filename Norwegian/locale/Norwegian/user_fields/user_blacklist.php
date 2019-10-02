@@ -11,5 +11,4 @@ $locale['uf_blacklist_003'] = "Det er ingen svartelistede brukere.";
 $locale['uf_blacklist_004'] = "Brukeren %s har blitt flyttet fra sin svarteliste.";
 $locale['uf_blacklist_005'] = "Brukeren ble ikke svartelistet.";
 $locale['uf_blacklist_006'] = "Ingen bruker funnet.";
-
-
+$locale['uf_blacklist_007'] = "Not available.";

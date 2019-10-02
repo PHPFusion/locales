@@ -1,9 +1,15 @@
 <?php
-$locale['400'] = "Nett Lenker";
-// Download File Information
-$locale['410'] = "NY";
-$locale['411'] = "Dato Lagt Til:";
-$locale['412'] = "Besøk:";
-// Downloads Notices
-$locale['430'] = "Ingen Nett Lenke Kategorier er defineret";
-$locale['431'] = "Ingen Nett Lenker har blitt lagt til denne Kategorien";
+// Overview
+$locale['web_0000'] = "Lenker";
+$locale['web_0001'] = "All Web Links";
+$locale['fmt_open'] = "open|open";
+// Sorting
+$locale['web_0030'] = "Most Recent";
+$locale['web_0031'] = "Top Opened";
+$locale['web_0032'] = "Eldst";
+// Views
+$locale['web_0040'] = "Miniatyr utseende";
+$locale['web_0041'] = "Liste utseende";
+// Messages
+$locale['web_0060'] = "No Web Link Categories defined.";
+$locale['web_0062'] = "There are no Web Link in this Category.";

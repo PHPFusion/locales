@@ -23,3 +23,5 @@ $locale['419'] = "Valgmuligheter";
 $locale['420'] = "Versjon";
 $locale['421'] = "Forfatter";
 $locale['422'] = "Last ned flere tillegg";
+$locale['423'] = "%s Infusion has been installed";
+$locale['424'] = "%s Infusion has been uninstalled";

@@ -1,6 +1,6 @@
 <?php
 // New locale for Quantum Fields
-$locale['fields_0100'] = 'Denne siden legger feltet direkte inn i tabellen: %s';
+$locale['fields_0100'] = "Denne siden legger feltet direkte inn i tabellen: %s";
 $locale['fields_0101'] = "Denne siden legger felt direkte inn i tabellen: <strong>%s</strong>, og kombinerer seg med DB_USERS via kolonne <strong>%s</strong>";
 $locale['fields_0102'] = "Det er ikke lagt til felt i ";
 $locale['fields_0103'] = "Ingen side er opprettet. Vennligst legg til side ved å lage en side som en kategori.";
@@ -14,6 +14,15 @@ $locale['fields_0110'] = "Tabellen eksisterer allerede. Velg et annet tabellnavn
 $locale['fields_0111'] = "Brukerfeltets side kan utvides til å lese andre databaser på visning.";
 $locale['fields_0112'] = "Hvilken tabell brukes først og fremst av denne siden?";
 $locale['fields_0113'] = "Hvilken kolonne i det primære er din bruker ID kolonne?";
+$locale['field_0200'] = "Field category has been deleted";
+$locale['field_0201'] = "Field has been deleted";
+$locale['field_0202'] = "Field action cancelled";
+$locale['field_0203'] = "Field have been updated";
+$locale['field_0204'] = "Field have been added successfully";
+$locale['field_0205'] = "Module not Found";
+$locale['field_0206'] = "Category not Found";
+$locale['field_0207'] = "Category have been updated";
+$locale['field_0208'] = "Category have been added successfully";
 
 $locale['fields_0300'] = "Felter";
 $locale['fields_0301'] = "Moduler";
@@ -55,6 +64,7 @@ $locale['fields_0433'] = "Kategorienes rekkefølge";
 $locale['fields_0434'] = "Primær tabell (%s)";
 $locale['fields_0435'] = "Primær tabells Bruker Kolonne";
 $locale['fields_0436'] = "Ikon Klasse";
+$locale['fields_0437'] = "icon for tabs";
 
 $locale['fields_0450'] = "Velg Kategori";
 $locale['fields_0451'] = "Felt Tittel";
@@ -92,6 +102,7 @@ $locale['fields_0483'] = "Feltets Logg";
 $locale['fields_0484'] = "Felt Rekkefølge";
 $locale['fields_0485'] = "Felt Registrering";
 $locale['fields_0488'] = "Lagre Felt";
+$locale['fields_0489'] = "Images Only";
 
 $locale['fields_0490'] = "Bytes (bytes)";
 $locale['fields_0491'] = "KB (Kilobytes)";
@@ -117,3 +128,25 @@ $locale['fields_0515'] = "Nettadresse";
 $locale['fields_0600'] = "Det er %s under-kategori(er) i denne kategorien";
 $locale['fields_0601'] = "Det er %s felt(er) i denne kategorien";
 $locale['fields_0602'] = "Denne modulen kan ikke installeres. Det mangler tabell kolonne informasjon.";
+
+$locale['fields_0650'] = "Move Field ID ";
+$locale['fields_0651'] = " Up a slot and Field ID [FIELD_ID] down a slot.";
+$locale['fields_0652'] = " Down a slot and Field ID [FIELD_ID] up a slot.";
+$locale['fields_0653'] = "No result";
+$locale['fields_0654'] = "Delete Fields";
+$locale['fields_0655'] = "Cat ID was not found. Please check again.";
+$locale['fields_0656'] = "Category ID was not found. Please check again.";
+$locale['fields_0657'] = " set for load.";
+$locale['fields_0658'] = " loaded.";
+$locale['fields_0659'] = " locale missing!";
+$locale['fields_0660'] = "No modules found";
+$locale['fields_0661'] = "Update Mode";
+$locale['fields_0662'] = "Save Mode";
+$locale['fields_0663'] = "Table Name";
+$locale['fields_0664'] = "Old table information -";
+$locale['fields_0665'] = "New table information -";
+$locale['fields_0666'] = "Fork No.1 - Update Field on a different table";
+$locale['fields_0667'] = "Column conflict. There are columns on [OLD_TABLE] existed in ";
+$locale['fields_0668'] = "Fork No.2 - Update Field on the same table";
+$locale['fields_0669'] = "Renaming column [FIELD_NAME] on [OLD_TABLE] to [FIELD_NAME_] with attributes of ";
+$locale['fields_0670'] = "Old Data";

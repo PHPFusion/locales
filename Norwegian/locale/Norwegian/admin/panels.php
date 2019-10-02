@@ -7,7 +7,10 @@ $locale['403'] = "Rekkefølge";
 $locale['404'] = "Type";
 $locale['405'] = "Adgang";
 $locale['406'] = "Valg";
-
+$locale['407'] = "Current Panels";
+$locale['408'] = "Add Panel";
+$locale['409'] = "Edit Panel";
+$locale['410'] = "You can drag and drop the panels across the panels window to switch positions or shuffle the panel ordering.";
 // Panel Settings
 $locale['420'] = "Venstre";
 $locale['421'] = "Øvre Senter";
@@ -17,16 +20,17 @@ $locale['424'] = "PHP";
 $locale['425'] = "Nedre Senter";
 $locale['426'] = "Over overskrift";
 $locale['427'] = "Under bunntekst";
-
-// Panel Options
+$locale['428a'] = "User 1";
+$locale['428b'] = "User 2";
+$locale['428c'] = "User 3";
+$locale['428d'] = "User 4";
+// Panel Options1
 $locale['430'] = "Flytt til venstre";
 $locale['431'] = "Flytt til høyre";
 $locale['432'] = "Flytt opp";
 $locale['433'] = "Flytt ned";
-$locale['434'] = "Rediger";
 $locale['435'] = "Slå på";
 $locale['436'] = "Slå av";
-$locale['437'] = "Slett";
 $locale['438'] = "Legg til nytt panel";
 $locale['439'] = "Oppdater rekkefølge";
 $locale['440'] = "Slett dette panelet?";
@@ -36,7 +40,6 @@ $locale['443'] = "Opp";
 $locale['444'] = "Ned";
 $locale['445'] = "Flytt til øvre";
 $locale['446'] = "Flytt til nedre";
-
 // Add/Edit Panel Form
 $locale['450'] = "Rediger Panel";
 $locale['451'] = "Legg til Panel";
@@ -56,7 +59,9 @@ $locale['464'] = "Ekskluder kun på disse sidene";
 $locale['465'] = "Ta med kun på disse sidene";
 $locale['466'] = "Panel Språk:";
 $locale['467'] = "Vis kun på hjem siden";
-
+$locale['468'] = "Panel Type";
+$locale['469'] = "None";
+$locale['469a'] = "Content";
 // Update/Add new Panel Errors
 $locale['470'] = "Panel navn er ikke definert";
 $locale['471'] = "Dette navn er alle rede i bruk";
@@ -82,3 +87,4 @@ $locale['603'] = "Brukte panel";
 $locale['604'] = "Paneler";
 $locale['605'] = "Panel";
 $locale['606'] = "Sidens innhold";
+$locale['607'] = "File";

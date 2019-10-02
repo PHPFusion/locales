@@ -1,26 +1,25 @@
 <?php
 // Contact Form
-$locale['400'] = "Kontakt siden";
-$locale['401'] = "Det er flere måter du kan kontakte siden på, du kan sende en e-post direkte til adressen ".hide_email($settings['siteemail']).". 
-Hvis du er medlem på siden kan du sende administrator en privat melding.<a href='messages.php?msg_send=1'>Privat melding</a>.
-Alternativt kan du bruke dette skjemaet som sender meldingen din som e-post til meg.";
-$locale['402'] = "Navn:";
-$locale['403'] = "E-postadresse:";
-$locale['404'] = "Emne:";
-$locale['405'] = "Melding:";
-$locale['406'] = "Send melding";
-$locale['407'] = "Sikkerhetskode:";
-$locale['408'] = "Skriv inn sikkerhetskode:";
+$locale['CT_400'] = "Contact";
+$locale['CT_401'] = "There are several ways you can get in contact. You can email directly at
+[SITE_EMAIL]. If you are a Member you can send a [PM_LINK].
+Alternatively, you can fill in the form on this page which sends your message via Email.";
+$locale['CT_402'] = "Navn:";
+$locale['CT_403'] = "Email Address:";
+$locale['CT_404'] = "Subject:";
+$locale['CT_405'] = "Message:";
+$locale['CT_406'] = "Send Message";
+$locale['CT_407'] = "Validation Code:";
+$locale['CT_408'] = "Enter Validation Code:";
 // Contact Errors
-$locale['420'] = "Du må oppgi et navn";
-$locale['421'] = "Du må oppgi en e-postadresse";
-$locale['422'] = "Du må oppgi et emne";
-$locale['423'] = "Du må skrive en melding";
-$locale['424'] = "Du må skrive inn riktig sikkerhetskode.";
-$locale['425'] = "Intern feil: kan ikke sende meldingen din.";
+$locale['CT_420'] = "You must specify a Name";
+$locale['CT_421'] = "You must specify an Email Address";
+$locale['CT_422'] = "You must specify a Subject";
+$locale['CT_423'] = "You must specify a Message";
+$locale['CT_424'] = "You must enter correct Validation Code";
+$locale['CT_425'] = "Internal error: cannot send your message.";
 // Message Sent
-$locale['440'] = "Meldingen din ble sendt";
-$locale['441'] = "Takk skal du ha";
-$locale['442'] = "Meldingen din ble ikke sendt av følgende årsak(er):";
-$locale['443'] = "Vennligst forsøk igjen.";
-
+$locale['CT_440'] = "Your Message has been sent";
+$locale['CT_441'] = "Thank You";
+$locale['CT_442'] = "Your message was not sent for the following reason(s):";
+$locale['CT_443'] = "Please try again.";

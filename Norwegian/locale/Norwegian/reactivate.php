@@ -1,18 +1,14 @@
 <?php
 // Error messages
 $locale['500'] = "En feil har oppstått";
-$locale['501'] = "Re-aktiverings lenken du klikket er ikke lenger gyldig.<br /><br />
-Kontakt sidens administrator på <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> hvis du ønsker en manuell re-aktivering.";
-$locale['502'] = "Re-aktiverings linken du klikket er ugyldig!<br /><br />
-Kontakt siden administrator på <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a> hvis du ønsker en manuell re-aktivering.";
-$locale['503'] = "Re-aktviverings linken du fulgte kunne ikke re-aktivere kontoen din.<br />
-Kanskje har kontoen din allerede blitt re-aktivert, og hvis så er tilfelle bør du kunne <a href='".$settings['siteurl']."login.php'>logge ind her</a>.<br /><br />
-Hvis du ikke kan logge inn nå, vennligst kontakt sidens administrator på <a href='mailto:".$settings['siteemail']."'>".$settings['siteemail']."</a>
-hvis du ønsker en manuell re-aktivering.";
-$locale['504'] = "Konto re-aktivert på ".$settings['sitename'];
-$locale['505'] = "Hei [USER_NAME],\n
-Kontoen din på ".$settings['sitename']." har blitt re-aktivert. Vi håper å se deg oftere på siden.\n\n
-Men vennlig hilsen,\n\n
-".$settings['siteusername'];
+$locale['501'] = "The re-activation link you clicked is no longer valid.<br /><br />Contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
+$locale['502'] = "The re-activation link you clicked is invalid!<br /><br />Contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
+$locale['503'] = "The re-activation link you followed could not re-activate your account.<br />
+Perhaps your account has already been re-activated and in that case you should be able to [LINK]log in here[/LINK].<br /><br />
+If you cannot log in now, please contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
+// Send confirmation mail
+$locale['504'] = "Account re-activated at [SITENAME]";
+$locale['505'] = "Hello [USER_NAME],
+<br/>\r\nYour account at [SITENAME] has been re-activated. We hope to see you more often at the site.<br/><br/>\r\n
+Regards,<br/><br/>\r\n[SITEUSERNAME]";
 $locale['506'] = "Re-aktivert av bruker.";
-

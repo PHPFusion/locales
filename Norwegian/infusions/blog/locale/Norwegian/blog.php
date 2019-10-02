@@ -18,3 +18,4 @@ $locale['testimonial_join'] = "Jeg ble medlem på denne nettsiden den %s";
 $locale['testimonial_web'] = "Jeg driver også en annen nettside på %s";
 $locale['testimonial_contact'] = "Hvis du trenger å kontakte meg, kan du nå meg på %s";
 $locale['testimonial_email'] = "Du kan også nå meg via min e-post adresse som er %s";
+$locale['blog_archive'] = "%b %Y";

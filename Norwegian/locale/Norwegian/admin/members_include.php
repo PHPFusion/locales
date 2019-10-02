@@ -31,8 +31,7 @@ $locale['susp108'] = "IP";
 $locale['susp109'] = "System handling";
 $locale['susp110'] = "Denne brukeren har ingen oppførte handlinger i loggen.";
 $locale['susp111'] = "Aktivert";
-$locale['susp112'] = "IP: "; 
+$locale['susp112'] = "IP: ";
 $locale['susp113'] = "Fjernet";
 $locale['susp114'] = "Suspenderings logg";
 $locale['susp115'] = "Brukere";
-

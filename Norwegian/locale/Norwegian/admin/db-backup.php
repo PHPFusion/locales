@@ -4,6 +4,7 @@ $locale['400'] = "Database Gjenoppretting";
 $locale['401'] = "Feil";
 $locale['402'] = "Sikkerhetskopiens filformat er feil";
 $locale['403'] = "Lukk";
+$locale['404'] = "Database Restore complete";
 // Backup File Information
 $locale['410'] = "Informasjon om Sikkerhetskopi";
 $locale['411'] = "Gjenopprett Fil Informasjonen";
@@ -11,9 +12,6 @@ $locale['412'] = "Navn på sikkerhetskopi:";
 $locale['413'] = "Dato for kopiering:";
 $locale['414'] = "Databasens navn:";
 $locale['415'] = "Prefiks for kjernetabeller:";
-$locale['416'] = "Tabeller:";
-$locale['417'] = "Vis";
-$locale['418'] = "Avbryt";
 $locale['419'] = "tabeller";
 // Database Restore
 $locale['430'] = "Valgmuligheter ved gjenopprettelse";
@@ -25,7 +23,6 @@ $locale['435'] = "Velg:";
 $locale['436'] = "alle";
 $locale['437'] = "ingen";
 $locale['438'] = "Gjenopprett";
-$locale['439'] = "Avbryt";
 $locale['440'] = "Filtyper som støttes:";
 // Database Backup
 $locale['450'] = "Database Sikkerhetskopiering";

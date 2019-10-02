@@ -1,41 +1,33 @@
 <?php
-// Forum Ranks Titles
+$locale['forum_rank_400'] = "Add Rank";
+$locale['forum_rank_401'] = "Edit Rank";
+$locale['forum_rank_402'] = "Current Ranks";
+$locale['forum_rank_403'] = "Rank System Disabled";
+$locale['forum_rank_404'] = "Debatt: Brukerkategorier";
+$locale['forum_rank_410'] = "Rank added";
+$locale['forum_rank_411'] = "Rank updated";
+$locale['forum_rank_412'] = "Rank deleted";
+$locale['forum_rank_413'] = "Only one rank can be assigned to admins and mods";
+$locale['forum_rank_414'] = "Please enter a Rank Title";
+$locale['forum_rank_420'] = "Rank Title:";
+$locale['forum_rank_421'] = "Rank Image:";
+$locale['forum_rank_422'] = "Rank Posts:";
+$locale['forum_rank_423'] = "Apply to:";
+$locale['forum_rank_424'] = "Brukere";
+$locale['forum_rank_425'] = "Moderators";
+$locale['forum_rank_426'] = "Administratorer";
+$locale['forum_rank_427'] = "Super Administratorer";
+$locale['forum_rank_429'] = "Rank type:";
+$locale['forum_rank_429a'] = "Special";
+$locale['forum_rank_429b'] = "Admininistrator";
+$locale['forum_rank_429c'] = "Post count";
+$locale['forum_rank_430'] = "Title";
+$locale['forum_rank_431'] = "Applies To";
+$locale['forum_rank_432'] = "Image";
+$locale['forum_rank_433'] = "Innlegg:";
+$locale['forum_rank_434'] = "Valg";
+$locale['forum_rank_437'] = "No Forum Ranks defined.";
+$locale['forum_rank_438'] = "Type / Count";
+$locale['forum_rank_450'] = "Forum ranks are currently disabled.<br/>Please go to the %s Admin Panel to enable.";
+$locale['forum_rank_451'] = "Forum Innstillinger";
 $locale['forum_rank_0100'] = "Forum rangering brukes til å detaljstyre  forumbrukerne , for å viser deres prestasjoner og aktivitet";
-$locale['400'] = "Legg til Rangering";
-$locale['401'] = "Rediger Rangering";
-$locale['402'] = "Nåværend Rangeringer";
-$locale['403'] = "Rangerings Systemet er Deaktivert";
-$locale['404'] = "Forum Rangering";
-// News messages
-$locale['410'] = "Rangering lagt til";
-$locale['411'] = "Rangering oppdatert";
-$locale['412'] = "Rangering slettet";
-$locale['413'] = "Kun en rangering kan bli tildelt admin og moderator";
-$locale['414'] = "Vennligst skriv inn en Rangerings Tittel";
-// Forum Ranks form
-$locale['420'] = "Rangerings Tittel:";
-$locale['421'] = "Rangerings Bilde:";
-$locale['422'] = "Rangerings Innlegg:";
-$locale['423'] = "Vis til:";
-$locale['424'] = "Medlemmer";
-$locale['425'] = "Moderatorer";
-$locale['426'] = "Administratorer";
-$locale['427'] = "Super Administratorer";
-$locale['428'] = "Lagre Rangering";
-$locale['429'] = "Rangerings type:";
-$locale['429a'] = "Spesiell";
-$locale['429b'] = "Admin";
-$locale['429c'] = "Innleggs teller";
-// Current Forum Ranks
-$locale['430'] = "Tittel";
-$locale['431'] = "Viser til";
-$locale['432'] = "Bilde";
-$locale['433'] = "Innlegg";
-$locale['434'] = "Alternativer";
-$locale['435'] = "Rediger";
-$locale['436'] = "Slett";
-$locale['437'] = "Ingen Forum Rangeringer er definert.";
-$locale['438'] = "Type / Telle";
-// Forum Ranks Disabled
-$locale['450'] = "Forum rangering er midlertidlig deaktivert.<br />Vennligst gå til %s Admin Panel for å aktivere.";
-$locale['451'] = "Forum Innstillinger";

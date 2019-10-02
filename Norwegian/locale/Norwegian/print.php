@@ -1,5 +1,5 @@
 <?php
-//news, articles
+//news, articles, blog
 $locale['400'] = "Postet av ";
 $locale['401'] = " den ";
 $locale['402'] = "Utvidet nyhetstekst";

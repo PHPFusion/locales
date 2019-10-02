@@ -1,31 +1,38 @@
 <?php
-// Edit/Save/Delete Smiley Messages
-$locale['400'] = "Nåværende Smilefjes";
-$locale['401'] = "Legg til Smilefjes";
-$locale['402'] = "Endre Smilefjes";
+// Smiley titles
+$locale['SMLY_400'] = "Current Smileys";
+$locale['SMLY_401'] = "Add Smiley";
+$locale['SMLY_402'] = "Edit Smiley";
+$locale['SMLY_403'] = "Smilefjes";
+$locale['SMLY_404'] = "Active Smileys";
+$locale['SMLY_405'] = "Inactive Smileys";
 // Smiley messages
-$locale['410'] = "Smilefjes er lagt til";
-$locale['411'] = "Smilefjes er oppdatert";
-$locale['412'] = "Smilefjes er slettet";
-$locale['413'] = "Kunne ikke oppdatere smilefjes";
-$locale['414'] = "Kunne ikke legge til smilefjes";
-$locale['415'] = "Smilefjeskoden brukes allerede.";
-$locale['416'] = "Vil du virkelig slette dette smilefjeset?";
+$locale['SMLY_410'] = "Smiley added";
+$locale['SMLY_411'] = "Smiley updated";
+$locale['SMLY_412'] = "Smiley deleted";
+$locale['SMLY_413'] = "Inactive Smileys";
+
+$locale['SMLY_414'] = "The smiley Text is in use.";
+$locale['SMLY_415'] = "The smiley Code is in use.";
+$locale['SMLY_416'] = "Do you really want to delete this smiley?";
+$locale['SMLY_417'] = "Do you really want to deactivate this smiley?";
+$locale['SMLY_418'] = "Error Uploading smiley";
 // Smiley form
-$locale['420'] = "Kode til Smilefjes:";
-$locale['421'] = "Bilde til Smilefjes:";
-$locale['422'] = "Tekst til Smilefjes:";
-$locale['423'] = "Lagre Smilefjes";
-$locale['424'] = "Forhåndsvising av Smilefjes:";
+$locale['SMLY_420'] = "Smiley Code:";
+$locale['SMLY_421'] = "Smiley Image:";
+$locale['SMLY_422'] = "Smiley Text:";
+$locale['SMLY_423'] = "Save Smiley";
+$locale['SMLY_424'] = "Update Smiley";
 // Current Smileys
-$locale['430'] = "Kode";
-$locale['431'] = "Bilde";
-$locale['432'] = "Tekst";
-$locale['433'] = "Valgmuligheter";
-$locale['434'] = "Endre";
-$locale['435'] = "Slett";
-$locale['436'] = "Ingen smilefjes lagt til.";
+$locale['SMLY_430'] = "Code";
+$locale['SMLY_431'] = "Image";
+$locale['SMLY_432'] = "Tekst";
+$locale['SMLY_433'] = "Valg";
+$locale['SMLY_435'] = "Innaktiv";
+$locale['SMLY_436'] = "There are no smileys defined.";
 // Error Message
-$locale['437'] = "Vennligst legg til en Smilefjes kode";
-$locale['438'] = "Vennligst velg et Smilefjes";
-$locale['439'] = "Vennligst legg til en Smilefjes Tekst";
+$locale['SMLY_437'] = "Please enter a Smiley Code";
+$locale['SMLY_438'] = "Please select a Smiley";
+$locale['SMLY_439'] = "Please enter a Smiley Text";
+$locale['SMLY_440'] = "No active Smileys";
+$locale['SMLY_441'] = "No inactive Smileys";

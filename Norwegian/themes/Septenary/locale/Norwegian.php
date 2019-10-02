@@ -9,4 +9,4 @@ $locale['sept_007'] = "Nyheter";
 $locale['sept_008'] = "Fotoalbum";
 $locale['sept_009'] = "Debatt";
 $locale['sept_010'] = "Nedlastinger";
-$locale['sept_011'] = "";
+$locale['sept_011'] = "Made on HTML5 and CSS3";

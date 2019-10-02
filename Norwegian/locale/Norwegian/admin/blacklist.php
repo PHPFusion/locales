@@ -1,35 +1,44 @@
 <?php
-// Delete blacklisted user
-$locale['400'] = "Slett bruker fra Svartelista";
-$locale['401'] = "Bruker slettet fra Svartelista";
-$locale['402'] = "Tilbake til Svartelistas Admin";
-$locale['403'] = "Tilbake til admin Hovedside";
-$locale['404'] = "Vennligst skriv inn Svartelistes IP eller Svartelistes E-Post Adresse";
-$locale['405'] = "Svartelistes e-post adresse er ikke en gyldig e-post.";
-// Add/Edit Blacklist Titles
-$locale['420'] = "Svartelist Bruker";
-$locale['421'] = "Rediger svartelistet bruker";
-// Add/Edit blacklist form
-$locale['440'] = "Hvis du skriver inn en IP-adresse, vil det hindre bruker av denne IP-adressen å besøke dette nettstedet.
-Du kan enten skrive inn en full IP-adresse, f.eks. <strong>123.45.67.89</strong>, eller en del av en IP-adresse, f.eks.<strong>123.45.67</strong> eller <strong>123.45</strong>.
-VÆR OPPMERKSOM PÅ : IPv6 adresser konverteres til full lengde her på siden,
-dvs. at <strong>ABCD:1234:5:6:7:8:9:FF</strong> vil bli vist som <strong>ABCD:1234:0005:0006:0007:0008:0009:00FF</strong>.
-Blanende IP-adresser (som inneholder både en IPv6-del og en IPv4-del) vil ikke bli sjekket for delvis match.
-<br /><br />
-Å skriver inn en e-post adresse vil hindre medlemmer fra registrering ved hjelp av denne adressen.
-Du kan legge inn en fullstendig e-postadresse, f.eks <strong>foo@bar.com</strong>, eller en e-post domene, f.eks <strong>bar.com</strong>.<br /><br />
+$locale['BLS_000'] = "Svarteliste"; //406
+//Blacklist message
+$locale['BLS_010'] = "Invalid E-mail or IP address.";
+$locale['BLS_011'] = "Adding users to blacklist.";
+$locale['BLS_012'] = "User Modified blacklist.";
+$locale['BLS_013'] = "User deleted from Blacklist"; //401
+$locale['BLS_014'] = "Are you sure you want to delete this entry?";
+$locale['BLS_015'] = "The blacklist is currently empty."; //465
+$locale['BLS_016'] = "Blacklist email address is not valid email."; //405
 
-$locale['441'] = "Svartelist IP adresse: <strong>eller</strong>";
-$locale['442'] = "Svartelist e-post adresse:";
-$locale['443'] = "Årsak til svartelisting";
-$locale['444'] = "Svartelist bruker";
-// Current blacklisted users
-$locale['460'] = "Svartelistede brukere";
-$locale['461'] = "Svartelisted informasjon";
-$locale['462'] = "Valg";
-$locale['463'] = "Rediger";
-$locale['464'] = "Slett";
-$locale['465'] = "Svartelisten er for tiden tom.";
-$locale['466'] = "N/A";
-$locale['467'] = "Admin";
-$locale['468'] = "Dato";
+$locale['BLS_020'] = "Blacklist User"; //420
+$locale['BLS_021'] = "Edit blacklisted user"; //421
+$locale['BLS_022'] = "Add blacklisted user";
+$locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
+
+$locale['BLS_030'] = "Blacklisted info"; //461
+$locale['BLS_031'] = "Admininistrator"; //467
+$locale['BLS_032'] = "Dato";  //468
+$locale['BLS_033'] = "Valg"; //462
+$locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
+$locale['BLS_035'] = "Blacklist email address"; //442
+$locale['BLS_036'] = "Blacklist reason"; //443
+$locale['BLS_037'] = "Blacklist user";  //444
+$locale['BLS_038'] = "Update";
+$locale['BLS_039'] = "Select All";
+
+$locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
+You can enter a full IP, e.g. <em>123.45.67.89.</em>, or a partial IP, e.g. <em>123.45.67</em> or <em>123.45</em>.
+Please note: IPv6 addresses are converted to their full length form on this site,
+e.g. <em>ABCD:1234:5:6:7:8:9:FF</em> will be shown as <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Mixed IP addresses (those contain both IPv6 and IPv4 part) will not be checked for partial match.
+<br /><br />
+Entering an email address will prevent members from registering using that address.
+You can enter a full email address, e.g. <em>foo@bar.com</em>, or an email domain, e.g. <em>bar.com</em>.<br /><br />
+
+% - matches any string.<br /><br />
+
+%.%.%.%@domain.tld bans any address that contains at least 3 dots.<br />
+%+%@domain.tld bans any address that contains at least one plus sign.<br />
+%@domain.tld bans any address from domain.tld<br />
+%.domain.tld bans all sub-domains of domain.tld<br />
+%payday% bans any address that contains the word \"payday\" which was very often on sites.<br />
+domain.tld is an alias of %@domain.tld to make it compatible with rules defined in v7.<br />"; //440

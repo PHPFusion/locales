@@ -1,6 +1,7 @@
 <?php
 // Admin Links
-$locale['200'] = fusion_get_settings('sitename')." Admin Panel";
+$locale['200'] = "[SITENAME] Admin Panel";
+$locale['200a'] = "Administrasjon";
 $locale['ac00'] = "Betjeningspanel";
 $locale['ac01'] = "Innhold";
 $locale['ac02'] = "Brukere";
@@ -8,8 +9,9 @@ $locale['ac03'] = "System";
 $locale['ac04'] = "Innstillinger";
 $locale['ac05'] = "Infusjoner";
 $locale['ac10'] = "Hovedpanel";
-$locale['201'] = "Administratorer";
+$locale['202'] = "User Profile Configuration";
 
+// Pre-defined sections
 $locale['AC'] = "Artikkel Kategorier";
 $locale['A'] = "Artikler";
 $locale['BLOG'] = "Blogg";
@@ -17,32 +19,32 @@ $locale['BLC'] = "Blogg Kategorier";
 $locale['CP'] = "Brukeropprettede Sider";
 $locale['DC'] = "Nedlastings Kategorier";
 $locale['D'] = "Nedlastinger";
-$locale['ESHP'] = "Nettbutikk";
 $locale['FQ'] = "FAQs";
 $locale['F'] = "Forum";
 $locale['IM'] = "Bilder";
 $locale['I'] = "Infusjoner";
 $locale['IP'] = "Infusjons elementer";
 $locale['M'] = "Brukere";
+$locale['MI'] = "Migreringsverktøy";
 $locale['N'] = "Nyheter";
 $locale['P'] = "Elementer";
 $locale['PH'] = "Fotoalbums";
 $locale['B'] = "Svarteliste";
 $locale['C'] = "Kommentarer";
 $locale['DB'] = "Database Sikkerhetskopi";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "PHP informasjon";
 $locale['PO'] = "Avstemmninger";
 $locale['SL'] = "Sidens Lenker";
 $locale['SU'] = "Brukerforslag";
 $locale['U'] = "Oppgradere";
 $locale['UG'] = "Bruker Grupper";
+$locale['UP'] = "Users Profile";
 $locale['WC'] = "Lenke Kategorier";
 $locale['W'] = "Lenker";
 $locale['S1'] = "Hovedinnstillinger";
 $locale['S2'] = "Dato og Klokkeslett";
 $locale['S3'] = "Tema Innstillinger";
 $locale['S4'] = "Brukeropprettelse";
-$locale['S5'] = "Fotoalbum";
 $locale['S6'] = "Diverse";
 $locale['S7'] = "Private Meldinger";
 $locale['NC'] = "Nyhets Kategorier";
@@ -66,6 +68,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Tema";
 $locale['S13'] = "Blogginnstillinger";
 $locale['LANG'] = "Språkinnstillinger";
+$locale['FM'] = "Fusion File Manager";
 
 // Site Information
 $locale['250'] = "Hovedpanel <small>Sideoversikt</small>";
@@ -111,3 +114,15 @@ $locale['282'] = "Bytt språk";
 $locale['283'] = "Infusjoner";
 $locale['284'] = "Der er ingen infusjoner instalert";
 $locale['285'] = "Behandle Infusjoner";
+$locale['286'] = "Review Submission";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

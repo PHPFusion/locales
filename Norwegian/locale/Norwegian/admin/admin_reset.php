@@ -1,32 +1,36 @@
 <?php
-// Infusion titles & description
 $locale['apw_title'] = "Tilbakestilling av Administrator Passord";
 $locale['apw_desc'] = "Endre Administrator Logg inn/admin passord";
 $locale['apw_admin1'] = "Tilbakestill Administrator";
-$locale['400'] = "Velg Administrator (er) som skal tilbakestilles:";
-$locale['401'] = "Alle Administratorer";
-$locale['402'] = "Kun super Adminisrators";
-$locale['403'] = "Kun Administrators";
-$locale['404'] = "Begrunnelse for tilbakestillingen:";
-$locale['405'] = "Tilbakestill både logg inn og admin passord";
-$locale['406'] = "Tilbakestill passord";
-$locale['407'] = "Passord er tilbakestilt på ";
-$locale['408'] = "Hei [USER_NAME],\n\nDitt admin passord er blitt tilbakestilt på [SITEURL]:\n\n
-Admin Passord: [NEW_ADMIN_PASS]\n\nGrunnen til denne tilbakestillingen er: [RESET_MESSAGE]\n\nHilsen,\n[ADMIN]";
-$locale['409'] = "Hei [USER_NAME], Ditt logg inn og admin passord er blitt tilbakestilt på [SITEURL]:\n\n
-Logg inn Passord: [NEW_PASS]\nAdmin Passord: [NEW_ADMIN_PASS]\n\nGrunnen til denne tilbakestillingen er: [RESET_MESSAGE]\n
-Venlig hilsen, \n[ADMIN]";
-
-
-$locale['410'] = "Tilbakestillings Resultat";
-$locale['411'] = "Merknad: Admin Passord ikke angitt eller feil.";
-$locale['412'] = "Admin Passord:";
-$locale['415'] = "Tilbakestill Log";
-$locale['416'] = "Log ID";
-$locale['417'] = "Tilbakestillings tidspunkt";
-$locale['418'] = "Ansvarlig";
-$locale['419'] = "Endret";
-$locale['420'] = "Vellykket";
-$locale['421'] = "Årsak";
-$locale['422'] = "av";
-$locale['423'] = "Ingen årsak angitt.";
+$locale['apw_400'] = "Administrator(s) to reset:";
+$locale['apw_401'] = "All Administrators";
+$locale['apw_402'] = "Only Super Administrators";
+$locale['apw_403'] = "Only Administrators";
+$locale['apw_404'] = "Justification for reset:";
+$locale['apw_405'] = "Reset both login and admin passwords";
+$locale['apw_406'] = "Reset Passwords";
+$locale['apw_407'] = "Password reset at ";
+$locale['apw_408'] = "Hello [USER_NAME],<br/>\r\nYour admin password has been reset at [SITEURL]:<br/>\r\n
+Admin Password: [NEW_ADMIN_PASS]<br/>\r\nThe reason for this reset is: [RESET_MESSAGE]<br/>\r\nRegards,<br/>\r\n[ADMIN]";
+$locale['apw_409'] = "Hello [USER_NAME],<br/>\r\nYour login and admin passwords have been reset at [SITEURL]:<br/>\r\n
+Login Password: [NEW_PASS]<br/>\r\nAdmin Password: [NEW_ADMIN_PASS]<br/>\r\nThe reason for this reset is: [RESET_MESSAGE]<br/>\r\n
+Regards,<br/>\r\n[ADMIN]";
+$locale['apw_410'] = "Reset Results";
+$locale['apw_411'] = "Update Admin Password.";
+$locale['apw_412'] = "Administrator passord:";
+$locale['apw_415'] = "Reset Log";
+$locale['apw_416'] = "Log ID";
+$locale['apw_417'] = "Reset time";
+$locale['apw_418'] = "Responsible";
+$locale['apw_419'] = "Reset";
+$locale['apw_420'] = "Successful";
+$locale['apw_421'] = "Årsak";
+$locale['apw_422'] = "of";
+$locale['apw_423'] = "No reason given.";
+$locale['apw_424'] = "Admins reset:";
+$locale['apw_425'] = "Admins failed:";
+$locale['apw_426'] = "No password is modified.";
+$locale['apw_427'] = "Valg";
+$locale['apw_428'] = "Do you really want to delete this log?";
+$locale['apw_429'] = "Log deleted";
+$locale['apw_430'] = "Select All";

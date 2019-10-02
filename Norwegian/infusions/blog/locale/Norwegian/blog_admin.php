@@ -1,5 +1,5 @@
 <?php
-// blog Submissions messages
+// Blog Submissions messages
 $locale['blog_0130'] = "Det er for tiden ingen Blogg innlegg";
 $locale['blog_0131'] = "Anmeldelse av Blogg innlegg";
 $locale['blog_0132'] = "Bloggen over ble lagt til av ";
@@ -17,6 +17,7 @@ $locale['blog_0145'] = "Blogg innlegget har blitt slettet";
 $locale['blog_0146'] = "Blogg innlegget har blitt publisert";
 $locale['blog_0147'] = "Blogg innlegget har blitt lagret som et utkast";
 $locale['blog_0148'] = "Publisert av";
+$locale['blog_0149'] = "%s has been disabled and will not take effect.";
 // Blog titles
 $locale['blog_0400'] = "Foreløpige Bloggs";
 $locale['blog_0401'] = "Legg til Blogg";
@@ -36,8 +37,6 @@ $locale['blog_0415'] = "Bilde må være en av følgende filtyper %s.";
 $locale['blog_0416'] = "Bilde må ikke være større enn %s piksler.";
 $locale['blog_0417'] = "Ukjent feil";
 // Blog form
-$locale['blog_0420'] = "Rediger";
-$locale['blog_0421'] = "Slett";
 $locale['blog_0422'] = "Emne:";
 $locale['blog_0423'] = "Kategori:";
 $locale['blog_0424'] = "Ikke kategorisert";
@@ -54,7 +53,6 @@ $locale['blog_0432'] = "Fest dette Blogg elementet til toppen";
 $locale['blog_0433'] = "Automatisk Linjeskift";
 $locale['blog_0434'] = "Aktiver Kommentarer";
 $locale['blog_0435'] = "Aktiver Vurderinger";
-$locale['blog_0436'] = "Forhåndsvis Blogg";
 $locale['blog_0437'] = "Lagre Blogg";
 $locale['blog_0438'] = "Utkast";
 $locale['blog_0439'] = "Blogg Bilde:";
@@ -66,7 +64,6 @@ $locale['blog_0444'] = "Trykk enter etter hver søkeord";
 // Blog Category
 // Blog Categories titles
 $locale['blog_0500'] = "Rediger Blogg Kategori";
-$locale['blog_0501'] = "Legg til Blogg Kategori";
 $locale['blog_0502'] = "Aktuelle Blogg Kategori";
 // Blog Categories messages
 $locale['blog_0520'] = "Blogg Kategori er lagt til";
@@ -82,6 +79,9 @@ $locale['blog_0533'] = "Kategori Eier:";
 $locale['blog_0535'] = "Ingen Blogg Kategori er definert";
 $locale['blog_0536'] = "Klikk her for å laste opp kategori bilder";
 $locale['blog_0537'] = "Eier";
+$locale['blog_0538'] = "Bytes (bytes)";
+$locale['blog_0539'] = "KB (Kilobytes)";
+$locale['blog_0540'] = "MB (Megabytes)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Slett denne Blogg Kategorien?";
 // Error Messages
@@ -90,8 +90,8 @@ $locale['blog_0561'] = "Denne kategorien finnes alle rede.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Vennligst oppgi et emne";
 $locale['blog_0451'] = "Slett denne Bloggen?";
-$locale['blog_0451b'] = "Slett denne Blogg Kategorien?";
-$locale['blog_0452'] = "%s er deaktivert for alle elementer.\n\rDenne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
+$locale['blog_0452'] = "%s er deaktivert for alle elementer.
+Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
 $locale['blog_0456'] = 'Det er ingen Blogg i denne kategorien.';
 $locale['blog_0457'] = "Vennligst oppgi søkeord";
 $locale['blog_0461'] = 'Det er ikke definert noen Blogg kategorier.';
@@ -114,21 +114,20 @@ $locale['blog_0703'] = "Bruk følgende skjema for å legge til en Blogg. Ditt bi
 Administrator. [SITENAME] forbeholder seg retten til å endre eller redigere innsending. Bloggen
 bør være aktuelt for innholdet på dette nettstedet. Uegnede innleveringer vil bli slettet.";
 $locale['blog_0704'] = "Tilbake til [SITENAME]";
-$locale['601'] = "Miniatyrbilde størrelse:";
-$locale['602'] = "Foto størrelse:";
-$locale['603'] = "Maksimum foto størrelse:";
-$locale['604'] = "Bredde x Høyde";
-$locale['605'] = "Maksimum fil størrelse (bytes):";
-// Blog & News Settings
-$locale['950'] = "Opplasting av bilder";
-$locale['951'] = "Bilde Link:";
-$locale['952'] = "Kategori";
-$locale['953'] = "Nyhet";
-$locale['953b'] = "Blogg innlegg";
-$locale['954'] = "Forminskelsesforhold:";
-$locale['955'] = "Original";
-$locale['956'] = "Kvadratisk";
-$locale['957'] = "Bilde på forsiden";
-$locale['958'] = "Bilde på utvidet tekst";
-$locale['959'] = "Last opp bildene";
-$locale['960'] = "Kategori-ikon";
+$locale['blog_601'] = "Bildets filnavn ble lagt til feil.";
+$locale['blog_602'] = "Bildet må være mindre enn %u bytes.";
+$locale['blog_603'] = "Aksepterte skjema er kun GIF, JPEG eller PNG.";
+$locale['blog_604'] = "Bildet må ikke være større enn %uw x %uh piksler.";
+$locale['blog_605'] = "Maks. fil størrelse (i bytes):";
+// Blog Settings
+$locale['blog_950'] = "Image Upload";
+$locale['blog_951'] = "Image link:";
+$locale['blog_952'] = "Category";
+$locale['blog_953'] = "Blog Item";
+$locale['blog_954'] = "Thumb ratio:";
+$locale['blog_955'] = "Original";
+$locale['blog_956'] = "Firkantet";
+$locale['blog_959'] = "Uploaded Photo";
+$locale['blog_960'] = "Category Image";
+$locale['blog_961'] = "Allowed file types:";
+$locale['blog_submit'] = "%s Blog";

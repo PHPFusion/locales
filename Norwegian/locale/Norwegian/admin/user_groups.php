@@ -1,42 +1,54 @@
 <?php
 // Edit/Save/Delete User Group Messages
-$locale['400'] = "Rediger brukergruppe";
-$locale['401'] = "Brukergruppe er oppdatert";
-$locale['402'] = "Legg til brukergruppe";
-$locale['403'] = "Brukergruppen er lagt til";
-$locale['404'] = "Rediger brukere i gruppen";
-$locale['405'] = "De utvalgte brukerene er fjernet fra gruppen";
-$locale['406'] = "Alle brukere er fjernet fra gruppen";
-$locale['407'] = "De utvalgte brukerene er lagt til gruppen";
+$locale['GRP_400'] = "User Group updated";
+$locale['GRP_401'] = "User Group added";
+$locale['GRP_403'] = "Not Selected User";
+$locale['GRP_404'] = "No Group ";
+$locale['GRP_405'] = "Cannot delete User Group";
+$locale['GRP_406'] = "There are users assigned to this group";
+$locale['GRP_407'] = "User Group deleted";
+$locale['GRP_408'] = "No Selected User or Group.";
+$locale['GRP_409'] = " Add a user group.";
+
+$locale['GRP_410'] = "User \"%s\" added to group \"%s\"";
+$locale['GRP_411'] = "User \"%s\" removed from group \"%s\"";
+$locale['GRP_412'] = "\"%s\" users removed from group \"%s\"";
+
 // Edit/Delete Options
-$locale['420'] = "Brukergrupper";
-$locale['421'] = "Rediger";
-$locale['422'] = "Slett";
-$locale['423'] = "Skal denne brukergruppen slettes?";
+$locale['GRP_420'] = "Brukergrupper";
+$locale['GRP_421'] = "Edit Group";
+$locale['GRP_422'] = "Delete Group";
+$locale['GRP_423'] = "Brukeradministrasjon";
+$locale['GRP_424'] = "Displaying %d User Group.";
+$locale['GRP_425'] = "Delete this user group?";
+$locale['GRP_426'] = "Default Group";
+$locale['GRP_427'] = "Currently %d displaying %d members.";
+$locale['GRP_428'] = "Add Group";
+$locale['GRP_430'] = "added to Group %s";
 // Edit/Add User Group
-$locale['430'] = "Rediger brukergruppe ";
-$locale['431'] = "Legg til brukergruppe";
-$locale['432'] = "Gruppe navn:";
-$locale['433'] = "Gruppe beskrivelse:";
-$locale['434'] = "Lagre gruppen";
+$locale['GRP_432'] = "Group Name";
+$locale['GRP_433'] = "Group Description";
+$locale['GRP_434'] = "Save Group";
+$locale['GRP_435'] = "ID";
+$locale['GRP_436'] = "Icon";
+$locale['GRP_437'] = "Action";
+$locale['GRP_438'] = "Brukere";
+$locale['GRP_439'] = "Group Icon";
 // Search/Add Group Users
-$locale['440'] = "Legg til brukere i gruppen";
-$locale['441'] = "Søk etter brukere for å legge til i denne gruppen ved hjelp av skjemaet under.";
-$locale['442'] = "Du kan søke etter flere brukere på en gang ved å skiller hver søkeord med et komma.";
-$locale['443'] = "Bruker-ID";
-$locale['444'] = "Brukernavn";
-$locale['445'] = "Søk";
-$locale['446'] = "Brukernavn";
-$locale['447'] = "Brukernnt Type";
-$locale['448'] = "Velg alle";
-$locale['449'] = "Fravelg alle";
-$locale['450'] = "Legg til valgte brukere";
-$locale['451'] = "Ingen brukere funnet.";
-$locale['452'] = "Søk igjen";
+$locale['GRP_440'] = "Add users to Group";
+$locale['GRP_441'] = "Search for users to add to this group using the form below.";
+$locale['GRP_442'] = "You can search for multiple users by separating each entry Enter.";
+$locale['GRP_446'] = "User Name";
+$locale['GRP_447'] = "User Type";
+$locale['GRP_448'] = "Check All";
+$locale['GRP_449'] = "Uncheck All";
+$locale['GRP_450'] = "Add selected users";
+$locale['GRP_451'] = "Search User";
+$locale['GRP_452'] = "Current Group: ";
 // Current Group Users
-$locale['460'] = "Nåværende Gruppemedlemmer";
-$locale['461'] = "Fjern valgte brukere";
-$locale['462'] = "Fjern alle brukere";
-$locale['463'] = "Det er ingen brukere i denne gruppen.";
+$locale['GRP_460'] = "Current Group Users";
+$locale['GRP_461'] = "Remove selected users";
+$locale['GRP_462'] = "Remove all users";
+$locale['GRP_463'] = "There are no users in this group.";
 // Error Messages
-$locale['464'] = "Vennligst skriv inn et gruppe navn";
+$locale['GRP_464'] = "Please enter a Group name";

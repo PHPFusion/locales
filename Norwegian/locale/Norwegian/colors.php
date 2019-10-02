@@ -136,7 +136,6 @@ $locale['color_132'] = "White";
 $locale['color_133'] = "WhiteSmoke";
 $locale['color_134'] = "Yellow";
 $locale['color_135'] = "YellowGreen";
-// Merged from HTML buttons
 $locale['color_136'] = "Burnt Orange";
 $locale['color_137'] = "Dark olive";
 $locale['color_138'] = "Dark green";

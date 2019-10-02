@@ -1,38 +1,57 @@
 <?php
-// News titles
 $locale['news_0000'] = "Nåværende Nyheter";
 $locale['news_0001'] = "Nyheter";
 $locale['news_0002'] = "Legg til Nyhet";
-$locale['news_0003'] = "Rediger Nyhet";
 $locale['news_0004'] = "Innstillinger";
-// News Categories titles
+$locale['news_0005'] = "News Content";
+$locale['news_0006'] = "News Image Gallery";
+$locale['news_0007'] = "Manage Gallery";
+$locale['news_0008'] = "Upload Photo";
+$locale['news_0009'] = "Nyheter";
+$locale['news_0010'] = "Slett Bilde";
+$locale['news_0011'] = "Intro Image";
+$locale['news_0012'] = "Full News Image";
 $locale['news_0020'] = "Nåværende Nyhets Kategorier";
 $locale['news_0021'] = "Rediger Nyhets Kategori";
 $locale['news_0022'] = "Legg Til Nyhets Kategori";
-
-// News messages
+$locale['news_0023'] = "Brukerforslag";
 $locale['news_0100'] = "Nyhets Punkt Lagt Til";
 $locale['news_0101'] = "Nyhets Punkt Oppdatert";
 $locale['news_0102'] = "Nyhets Punkt Slettet";
 $locale['news_0103'] = "Ugyldig bilde filnavn.";
 $locale['news_0104'] = "Bilde må være mindre enn %s.";
-$locale['news_0105'] = "Bilde må være i en av følgende filtyper %s.";
-$locale['news_0106'] = "Bilde må ikke være større enn %s piksler.";
-$locale['news_0107'] = "Ukjent feil";
-
-// News Categories messages
+$locale['news_0108'] = "There are no news selected";
+$locale['news_0109'] = "There are no news defined";
+$locale['news_0130'] = "There are currently no news submissions";
+$locale['news_0131'] = "Review News Submission";
+$locale['news_0132'] = "The above news item was submitted by ";
+$locale['news_0133'] = "Do you want to publish or delete this news item?";
+$locale['news_0134'] = "Publish news";
+$locale['news_0135'] = "Delete news";
+$locale['news_0136'] = "Innlegget klart for anmeldelse";
+$locale['news_0137'] = "Det er for tiden %s som venter på din anmeldelse.";
+$locale['news_0138'] = "Sorry, we currently do not accept any news submissions on this site.";
+$locale['news_0141'] = "Preview News";
+$locale['news_0142'] = "Innleggs Forfatter";
+$locale['news_0143'] = "Lagt inn Klokken";
+$locale['news_0144'] = "Innleggers Id";
+$locale['news_0145'] = "New Submission deleted";
+$locale['news_0146'] = "News Submissions published";
+$locale['news_0147'] = "News Submissions saved as Draft";
 $locale['news_0150'] = "Nyhets Kategori lagt til";
 $locale['news_0151'] = "Nyhets Kategorien er oppdatert";
 $locale['news_0152'] = "Nyhets Kategorien kan ikke slettes";
 $locale['news_0153'] = "Det er nyhets punkt eller under-kategorier tilknyttet denne kategorien";
 $locale['news_0154'] = "Nyhets Kategorien er slettet";
-// News form
+$locale['news_0155'] = "News Category not Selected";
 $locale['news_0200'] = "Emne";
 $locale['news_0201'] = "Kategori";
 $locale['news_0202'] = "Ukategoriserte";
 $locale['news_0203'] = "Snutt";
+$locale['news_0203a'] = "Short News Introduction";
 $locale['news_0204'] = "Utvidet";
 $locale['news_0205'] = "Søkeord";
+$locale['news_0205a'] = "Trykk enter etter hver søkeord";
 $locale['news_0206'] = "Start Dato";
 $locale['news_0207'] = "Slutt Dato";
 $locale['news_0208'] = "(Valgfri)";
@@ -43,46 +62,77 @@ $locale['news_0212'] = "Automatisk linjeskift";
 $locale['news_0213'] = "Aktiver Kommentarer";
 $locale['news_0214'] = "Aktiver Vurderinger";
 $locale['news_0215'] = "Utkast";
-$locale['news_0216'] = "Nyhets Bilde";
 $locale['news_0217'] = "Maks. filstørrelse %s / Tillatte filtyper GIF, JPEG or PNG.";
 $locale['news_0218'] = "Bilde Possisjon:";
 $locale['news_0219'] = "Sideskift";
-$locale['news_0240'] = "Forhåndsvis Nyheten";
 $locale['news_0241'] = "Lagre Nyheten";
-// Popup Error/Warning Messages
+$locale['news_0242'] = "Search Options";
+$locale['news_0243'] = "Clear";
+$locale['news_0244'] = "Select Status";
+$locale['news_0245'] = "All Status";
+$locale['news_0246'] = "Select Access";
+$locale['news_0247'] = "All Categories";
+$locale['news_0248'] = "Select Category";
+$locale['news_0249'] = "All Language";
 $locale['news_0250'] = "Vennligst spesifiser et nytt emne";
 $locale['news_0251'] = "Skal denne nyheten slettes?";
 $locale['news_0252'] = "Slette denne nyhet?";
-$locale['news_0253'] = "%s er deaktivert for alle punkter.\n\rDenne innstillingen vil kun tre i kraft når den er aktivert igjen.";
-$locale['news_0254'] = 'Det er ingen nyheter i denne kategori.';
+$locale['news_0253'] = "%s er deaktivert for alle punkter.
+Denne innstillingen vil kun tre i kraft når den er aktivert igjen.";
+$locale['news_0254'] = "Det er ingen nyheter i denne kategori.";
 $locale['news_0255'] = "Vennligst spesifiser et søkeord";
-// News Categories form
+$locale['news_0266'] = "News Date";
+$locale['news_0267'] = "No news image defined";
+$locale['news_0268'] = "%d bildene er lagt til";
+$locale['news_0269'] = "%d bildene ble ikke lastet opp på grunn av feil";
+$locale['news_0270'] = "Please choose Image";
+$locale['news_0271'] = "Allowed file types:";
+$locale['news_0280'] = "Please specify a new subject";
+$locale['news_0281'] = "Delete this News?";
+$locale['news_0282'] = "Delete this news category?";
+$locale['news_0283'] = "%s are disabled for all items.<br/>This setting will only take effect when they are enabled again.";
+$locale['news_0284'] = "There are no news in this category.";
+$locale['news_0285'] = "Vennligst oppgi søkeord";
 $locale['news_0300'] = "Kategoriens Navn:";
 $locale['news_0301'] = "Kategoriens Bilde:";
 $locale['news_0302'] = "Lagre Kategorien";
 $locale['news_0303'] = "Ingen Nyhets Kategori er definert";
 $locale['news_0304'] = "Klikk her for å laste opp et bilde til kategorien";
 $locale['news_0305'] = "Overkategori";
-// Popup Error/Warning Messages
-$locale['news_0350'] = "Slette denne nyhets kategori?";
-// Error Messages
+$locale['news_0306'] = "Save Category as Draft";
+$locale['news_0307'] = "Make Category as Sticky";
 $locale['news_0351'] = "Vennligst skriv inn et kategori navn.";
 $locale['news_0352'] = "Denne kategorien eksisterer allerede.";
-$locale['601'] = "Miniatyr størrelse:";
-$locale['602'] = "Bilde størrelse:";
-$locale['603'] = "Maksimum bilde størrelse:";
-$locale['604'] = "Bredde x Høyde";
-$locale['605'] = "Maksimum fil størrelse (bytes):";
-// Blog & News Settings
-$locale['950'] = "Upload af billeder";
-$locale['951'] = "Billedlink:";
-$locale['952'] = "Kategori";
-$locale['953'] = "Nyhets Punkt";
-$locale['953b'] = "Blogg Punkt";
-$locale['954'] = "Miniatyr størrelseforhold:";
-$locale['955'] = "Original";
-$locale['956'] = "Kvadratisk";
-$locale['957'] = "Bilde på forside";
-$locale['958'] = "Bilde på Les-mer";
-$locale['959'] = "Opplastet Bilde";
-$locale['960'] = "Kategori  Bilde";
+$locale['news_0400'] = "News Submissions";
+$locale['news_0401'] = "Innlegges bilde";
+$locale['news_0402'] = "Required extended news?";
+$locale['news_0700'] = "Foreslå Nyheter";
+$locale['news_0701'] = "Thank you for submitting your News";
+$locale['news_0702'] = "Submit another News item";
+$locale['news_0703'] = "Use the following form to submit News. Your submission will be reviewed by an
+Administrator. [SITENAME] reserves the right to amend or edit any submission. News
+should be applicable to the content of this site. Unsuitable submissions will be deleted.";
+$locale['news_0704'] = "Tilbake til [SITENAME]";
+
+$locale['news_0705'] = "Width";
+$locale['news_0706'] = "Height";
+$locale['news_0707'] = "Hoved Innstillinger";
+$locale['news_0708'] = "Configuration for News System";
+$locale['news_0709'] = "Photo Settings";
+$locale['news_0710'] = "Configuration for News Photos";
+
+$locale['news_601'] = "Bildets filnavn ble lagt til feil.";
+$locale['news_602'] = "Bildet må være mindre enn %u bytes.";
+$locale['news_603'] = "Aksepterte skjema er kun GIF, JPEG eller PNG.";
+$locale['news_604'] = "Bildet må ikke være større enn %uw x %uh piksler.";
+$locale['news_605'] = "Maks. fil størrelse (i bytes):";
+$locale['news_950'] = "Image Upload";
+$locale['news_951'] = "Image link:";
+$locale['news_953'] = "News Item";
+$locale['news_954'] = "Thumb ratio:";
+$locale['news_955'] = "Original";
+$locale['news_956'] = "Firkantet";
+$locale['news_957'] = "Image on Front-page";
+$locale['news_958'] = "Image on Read-more";
+$locale['news_959'] = "Uploaded Photo";
+$locale['news_submit'] = "%s News";
