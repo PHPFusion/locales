@@ -1,39 +1,44 @@
 <?php
-// Delete blacklisted user
-$locale['400'] = "Padamkan Ahli daripada Senarai Hitam";
-$locale['401'] = "Ahli dipadamkan daripada senarai hitam";
-$locale['402'] = "Kembali ke Penyelerasan Senarai Hitam";
-$locale['403'] = "Kembali ke Index Admin";
-$locale['404'] = "Sila isikan IP atau Emel untuk didaftar ke senarai hitam";
-$locale['405'] = "Emel untuk disenarai hitam tidak sah.";
-$locale['406'] = "Senarai Hitam";
-// Add/Edit Blacklist Titles
-$locale['420'] = "Senarai Hitam Ahli";
-$locale['421'] = "Sunting Senarai Hitam Ahli";
-$locale['440'] = "Alamat IP yang digunakan akan menghalang pengguna daripada melayari laman web ini. Anda boleh masukkan IP penuh
-sebagai [ 123.45.67.89 ], ataupun IP separa ini, sebagai [123.45.67] atau [123.45]. Sila ambil perhatian: Alamat IPv6 ditukar kepada
-bentuk panjang yang seperti [ ABCD:1234:5:6:7:8:9:FF ] akan dipaparkan sebagai [ ABCD:1234:0005:0006:0007:0008:0009:00FF ].
-Alamat IP yang bercampur (yang mengandungi kedua-dua IPv4 dan IPv6) tidak akan diperiksa untuk cocokan separa.\n\n\r\r
-Alamat Emel yang diguna di senarai ini akan menghalang ahli daripada mendaftar dengan menggunakan alamat tersebut.
-Anda boleh masukkan alamat e-mel penuh, seperti [ foo@bar.com ], ataupun domain e-mel [ bar.com ].\n\n\r\r
-% - untuk cocokan string.\n\r
-%.%.%.%@domain.tld melarang mana-mana alamat yang mengandungi sekurang-kurangnya 3 titik.\n\r
-%+%@domain.tld melarang mana-mana alamat yang mengandungi sekurang-kurangnya satu tanda tambah.\n\r
-%@domain.tld melarang mana-mana alamat dari domain.tld \n\r
-%.domain.tld melarang semua subdomain daripada domain.tld\n\r
-%payday% bulan melarang mana-mana alamat yang mengandungi perkataan \"payday\" yang seringkali digunakan.\n\r
-domain.tld merupakan alias %@domain.tld untuk menjadikannya serasi dengan kaedah-kaedah yang ditakrifkan.\n\r";
-$locale['441'] = "Senarai hitam alamat IP: atau";
-$locale['442'] = "Senarai hitam alamant e-meil:";
-$locale['443'] = "Sebab Senarai hitam";
-$locale['444'] = "Ahli Senarai hitam";
-// Current blacklisted users
-$locale['460'] = "Ahli yang disenarai hitam";
-$locale['461'] = "Maklumat Senerai Hitam";
-$locale['462'] = "Pilihan";
-$locale['463'] = "Sunting";
-$locale['464'] = "Padam";
-$locale['465'] = "Tiada senarai hitam.";
-$locale['466'] = "Tidak Berkenaan";
-$locale['467'] = "Admin";
-$locale['468'] = "Tarikh";
+$locale['BLS_000'] = "Senerai Hitam"; //406
+//Blacklist message
+$locale['BLS_010'] = "Invalid E-mail or IP address.";
+$locale['BLS_011'] = "Adding users to blacklist.";
+$locale['BLS_012'] = "User Modified blacklist.";
+$locale['BLS_013'] = "User deleted from Blacklist"; //401
+$locale['BLS_014'] = "Are you sure you want to delete this entry?";
+$locale['BLS_015'] = "The blacklist is currently empty."; //465
+$locale['BLS_016'] = "Blacklist email address is not valid email."; //405
+
+$locale['BLS_020'] = "Blacklist User"; //420
+$locale['BLS_021'] = "Edit blacklisted user"; //421
+$locale['BLS_022'] = "Add blacklisted user";
+$locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
+
+$locale['BLS_030'] = "Blacklisted info"; //461
+$locale['BLS_031'] = "Admin"; //467
+$locale['BLS_032'] = "Tarikh";  //468
+$locale['BLS_033'] = "Pilihan"; //462
+$locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
+$locale['BLS_035'] = "Blacklist email address"; //442
+$locale['BLS_036'] = "Blacklist reason"; //443
+$locale['BLS_037'] = "Blacklist user";  //444
+$locale['BLS_038'] = "Kemaskini";
+$locale['BLS_039'] = "Select All";
+
+$locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
+You can enter a full IP, e.g. <em>123.45.67.89.</em>, or a partial IP, e.g. <em>123.45.67</em> or <em>123.45</em>.
+Please note: IPv6 addresses are converted to their full length form on this site,
+e.g. <em>ABCD:1234:5:6:7:8:9:FF</em> will be shown as <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Mixed IP addresses (those contain both IPv6 and IPv4 part) will not be checked for partial match.
+<br /><br />
+Entering an email address will prevent members from registering using that address.
+You can enter a full email address, e.g. <em>foo@bar.com</em>, or an email domain, e.g. <em>bar.com</em>.<br /><br />
+
+% - matches any string.<br /><br />
+
+%.%.%.%@domain.tld bans any address that contains at least 3 dots.<br />
+%+%@domain.tld bans any address that contains at least one plus sign.<br />
+%@domain.tld bans any address from domain.tld<br />
+%.domain.tld bans all sub-domains of domain.tld<br />
+%payday% bans any address that contains the word \"payday\" which was very often on sites.<br />
+domain.tld is an alias of %@domain.tld to make it compatible with rules defined in v7.<br />"; //440

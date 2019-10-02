@@ -1,40 +1,7 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: news_admin.php
-| Author: Frederick MC Chan
-| Last updated: Mar 04 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
-$locale['601'] = "Saiz imej jari:";
-$locale['602'] = "Saiz foto:";
-$locale['603'] = "Saiz foto maksimum:";
-$locale['604'] = "Lebar x Tinggi";
-$locale['605'] = "Saiz file maksimum (bait):";
-$locale['950'] = "Muat naik imej";
-$locale['951'] = "Pautan Imej:";
-$locale['953'] = "Berita";
-$locale['954'] = "Nisbah imej jari:";
-$locale['955'] = "Asal";
-$locale['956'] = "Persegi";
-$locale['957'] = "Imej di halaman Depan";
-$locale['958'] = "Imej di Baca lebih";
-$locale['959'] = "Foto telah dimuat naik";
 $locale['news_0000'] = "Berita Semasa";
 $locale['news_0001'] = "Berita";
 $locale['news_0002'] = "Tambah Berita";
-$locale['news_0003'] = "Sunting Berita";
 $locale['news_0004'] = "Pengaturan";
 $locale['news_0005'] = "Kandungan Berita";
 $locale['news_0006'] = "Galeri Berita";
@@ -119,6 +86,7 @@ $locale['news_0267'] = "Tiada berita imej untuk berita";
 $locale['news_0268'] = "%d gambar telah ditambah";
 $locale['news_0269'] = "%d gambar tidak dimuat naik kerana kesilapan";
 $locale['news_0270'] = "Sila pilih Imej";
+$locale['news_0271'] = "Allowed file types:";
 $locale['news_0280'] = "Sila menentukan subjek baru";
 $locale['news_0281'] = "Padam berita ini?";
 $locale['news_0282'] = "Buang ini berita kategori?";
@@ -144,3 +112,26 @@ $locale['news_0701'] = "Terima kasih atas penyerahan berita anda";
 $locale['news_0702'] = "Serah berita lain";
 $locale['news_0703'] = "Sila gunakan borang untuk mengemukakan serahan Berita. Serahan anda akan disemak oleh Admin. [SITENAME] berhak untuk mengubah apa-apa penyerahan. Butiran yang tidak sesuai tidak akan diterima dan dipadamkan.";
 $locale['news_0704'] = "Kembali ke [SITENAME]";
+
+$locale['news_0705'] = "Width";
+$locale['news_0706'] = "Height";
+$locale['news_0707'] = "Pengaturan Utama";
+$locale['news_0708'] = "Configuration for News System";
+$locale['news_0709'] = "Photo Settings";
+$locale['news_0710'] = "Configuration for News Photos";
+
+$locale['news_601'] = "Saiz Jejari:";
+$locale['news_602'] = "Saiz Gambar:";
+$locale['news_603'] = "Saiz Gambar Maks.:";
+$locale['news_604'] = "Lebar x Tinggi";
+$locale['news_605'] = "Saiz fail maks. (bytes):";
+$locale['news_950'] = "Image Upload";
+$locale['news_951'] = "Image link:";
+$locale['news_953'] = "News Item";
+$locale['news_954'] = "Thumb ratio:";
+$locale['news_955'] = "Original";
+$locale['news_956'] = "Empat Segi";
+$locale['news_957'] = "Image on Front-page";
+$locale['news_958'] = "Image on Read-more";
+$locale['news_959'] = "Uploaded Photo";
+$locale['news_submit'] = "%s News";

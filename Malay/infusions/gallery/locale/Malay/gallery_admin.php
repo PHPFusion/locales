@@ -1,22 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: gallery_admin.php
-| Author: Frederick MC Chan
-| Last updated: Mar 06 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
 $locale['album_0001'] = "Tajuk Album Gambar";
 $locale['album_0002'] = "Nama Album";
 $locale['album_0003'] = "Penerangan Album";
@@ -102,6 +84,13 @@ $locale['gallery_0213'] = "Aktifkan teks watermark di foto?";
 $locale['gallery_0214'] = "Aktifkan gambar watermark?";
 $locale['gallery_0215'] = "Simpan watermark yang dijana?";
 $locale['gallery_0216'] = "Simpan pengaturan Galeri";
+$locale['gallery_0217'] = "Allowed file types:";
+$locale['gallery_0218'] = "Pengaturan Utama";
+$locale['gallery_0219'] = "Configuration for Gallery System";
+$locale['gallery_0220'] = "Photo Settings";
+$locale['gallery_0221'] = "Configuration for Gallery Photos";
+$locale['gallery_0222'] = "Width";
+$locale['gallery_0223'] = "Height";
 $locale['photo_0001'] = "Tajuk Foto";
 $locale['photo_0002'] = "Nama foto";
 $locale['photo_0003'] = "Album foto";
@@ -126,4 +115,4 @@ $locale['photo_0024'] = "Foto telah dipadamkan";
 $locale['photo_0025'] = "Padamkan semua foto";
 $locale['photo_0026'] = "&lt;strong&gt;AMARAN:&lt;/strong&gt; Tindakan pamadaman ini &lt;strong&gt;memadam semua foto&lt;/kuat&gt; dalam album ini. Adakah anda yakin dengan ini?";
 $locale['photo_0027'] = "Mengesahkan Pemadaman";
-$locale['photo_0028'] = "Batal";
+$locale['gallery_submit'] = "%s Photos";

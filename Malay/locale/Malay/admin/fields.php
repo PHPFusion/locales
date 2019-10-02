@@ -1,4 +1,5 @@
 <?php
+// New locale for Quantum Fields
 $locale['fields_0100'] = "Halaman ini tambah Isi Borang ke jadual %s";
 $locale['fields_0101'] = "Halaman ini tambah Isi Borang ke %s, dan bergabung dengan DB_USERS melalui %s";
 $locale['fields_0102'] = "Tiada Isi Borang ditambah di ";
@@ -63,6 +64,7 @@ $locale['fields_0433'] = "Susunan Kategori";
 $locale['fields_0434'] = "Jadual Utama (%s)";
 $locale['fields_0435'] = "Ruang Jadual Utama User";
 $locale['fields_0436'] = "Kelas Ikon";
+$locale['fields_0437'] = "icon for tabs";
 
 $locale['fields_0450'] = "Pilih Kategori";
 $locale['fields_0451'] = "Tajuk Isi Borang";
@@ -100,6 +102,7 @@ $locale['fields_0483'] = "Log Isi Borang";
 $locale['fields_0484'] = "Susunan Isi Borang";
 $locale['fields_0485'] = "Guna Isi Borang semasa pendaftaran";
 $locale['fields_0488'] = "Simpan Isi Borang";
+$locale['fields_0489'] = "Images Only";
 
 $locale['fields_0490'] = "Bytes (bytes)";
 $locale['fields_0491'] = "KB (Kilobytes)";
@@ -125,3 +128,25 @@ $locale['fields_0515'] = "Pautan Web";
 $locale['fields_0600'] = "Terdapat %s sub-Kategori(s) dalam Kategori ini";
 $locale['fields_0601'] = "Terdapat %s Isi Borang(s) dalam Kategori ini";
 $locale['fields_0602'] = "Modul ini tidak boleh dipasang. Tiada maklumat jadual didapati";
+
+$locale['fields_0650'] = "Move Field ID ";
+$locale['fields_0651'] = " Up a slot and Field ID [FIELD_ID] down a slot.";
+$locale['fields_0652'] = " Down a slot and Field ID [FIELD_ID] up a slot.";
+$locale['fields_0653'] = "No result";
+$locale['fields_0654'] = "Delete Fields";
+$locale['fields_0655'] = "Cat ID was not found. Please check again.";
+$locale['fields_0656'] = "Category ID was not found. Please check again.";
+$locale['fields_0657'] = " set for load.";
+$locale['fields_0658'] = " loaded.";
+$locale['fields_0659'] = " locale missing!";
+$locale['fields_0660'] = "No modules found";
+$locale['fields_0661'] = "Update Mode";
+$locale['fields_0662'] = "Save Mode";
+$locale['fields_0663'] = "Table Name";
+$locale['fields_0664'] = "Old table information -";
+$locale['fields_0665'] = "New table information -";
+$locale['fields_0666'] = "Fork No.1 - Update Field on a different table";
+$locale['fields_0667'] = "Column conflict. There are columns on [OLD_TABLE] existed in ";
+$locale['fields_0668'] = "Fork No.2 - Update Field on the same table";
+$locale['fields_0669'] = "Renaming column [FIELD_NAME] on [OLD_TABLE] to [FIELD_NAME_] with attributes of ";
+$locale['fields_0670'] = "Old Data";

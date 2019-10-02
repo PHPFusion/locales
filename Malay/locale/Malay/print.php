@@ -1,9 +1,9 @@
 <?php
-//news, articles
+//news, articles, blog
 $locale['400'] = "Diposkan Oleh ";
 $locale['401'] = " pada ";
-$locale['402'] = "Berita Penuh";
 $locale['402'] = "Blog Penuh";
+$locale['403'] = "Extended Blog";
 //forums
 $locale['500'] = "Utusan Perbincangan:";
 $locale['501'] = "Dipos oleh ";

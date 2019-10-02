@@ -28,11 +28,10 @@ $locale['u064'] = "Emel";
 $locale['u066'] = "Tarikh Daftar";
 $locale['u067'] = "Lawatan Terakhir";
 $locale['u068'] = "Kata Nama";
-$locale['u069'] = "Sunting";
 $locale['u070'] = "Haram";
 $locale['u071'] = "Dihentikan";
-$locale['u072'] = "Padam";
 $locale['u073'] = "Padam akaun ahli ini?";
+$locale['u074'] = "Unban";
 // Profile and register
 $locale['u100'] = "Anda perlu mengisi kata laluan anda untuk menukarkan kata laluan dan alamat emel.";
 $locale['u101'] = "Pendaftaran Baru";
@@ -58,7 +57,11 @@ $locale['u111'] = "%u ahli";
 $locale['u112'] = "%u ahli";
 $locale['u113'] = "Kata Nama";
 $locale['u114'] = "Jenis User";
+$locale['u115'] = "Language";
+$locale['u116'] = "There are no group members.";
+$locale['u117'] = "No user groups.";
 // User name and email
+$locale['u119'] = "User name contains.";
 $locale['u120'] = "Kata Nama mempunyai huruf yang tidak sah.";
 $locale['u121'] = "Kata Nama telah dipakai oleh Ahli lain.";
 $locale['u122'] = "Kata Nama tidak boleh dikosongkan.";
@@ -93,22 +96,26 @@ $locale['u144'] = "Kata Laluan Admin baru";
 $locale['u144a'] = "Kata Laluan Admin terkini";
 $locale['u145'] = "Semakan Kata Laluan Admin";
 $locale['u146'] = " tidak boleh sama dengan butir terkini ";
-$locale['u147'] = "Kata Laluan mestilah dari 8 sehingga 64 huruf sahaja.\nAnda boleh menggunakan huruf a-z, 0-9 and @!#$%&amp;/()=-_?+*.,:; sahaja";
+$locale['u147'] = "Kata Laluan mestilah dari 8 sehingga 64 huruf sahaja.
+Anda boleh menggunakan huruf a-z, 0-9 and @!#$%&amp;/()=-_?+*.,:; sahaja";
 $locale['u148'] = "Kata Laluan Log Masuk baru tidak sama.";
 $locale['u148a'] = "Kata Laluan Admin tidak sama.";
 $locale['u149'] = "Kata Laluan Log Masuk terkini kosong atau tidak sah.";
 $locale['u149a'] = "Kata Laluan Admin tidak didapati atau tidak sah.";
-$locale['u149b'] = "Kata Laluan Log Masuk terkini kosong atau tidak sah.\n\rAnda tidak boleh menyimpan Kata Laluan Admin tanpa Kata Laluan Log Masuk yang sah.";
-// Email actiation
+$locale['u149b'] = "Kata Laluan Log Masuk terkini kosong atau tidak sah.
+Anda tidak boleh menyimpan Kata Laluan Admin tanpa Kata Laluan Log Masuk yang sah.";
+// Email activation
 $locale['u150'] = "Pendaftaran anda hampir selesai, Anda akan menerima emel dengan butir log masuk dengan pautan untuk pengesahan akaun anda.";
 $locale['u151'] = "Selamat Datang ke [SITENAME]";
-$locale['u152'] = "Hello USER_NAME,\n\r
-Selamat datang ke SITENAME. Berikut adalah butir-butir log masuk anda:\n\r
-Kata Nama: USER_NAME\n\r
-Kata Laluan: USER_PASSWORD\n\r
-Sila aktifkan akaun anda melalui pautan ini: ACTIVATION_LINK\n\n\r\r
-Sekian,\n\r
-SITEUSERNAME";
+$locale['u152'] = "Hello USER_NAME,
+\r\nSelamat datang ke SITENAME. Berikut adalah butir-butir log masuk anda:
+\r\nKata Nama: USER_NAME
+\r\nKata Laluan: USER_PASSWORD
+\r\nSila aktifkan akaun anda melalui pautan ini: ACTIVATION_LINK
+
+\r\nSekian,
+\r\nSITEUSERNAME";
+
 $locale['u153'] = "Emel pengaktifan tidak boleh dikirimkan.";
 $locale['u154'] = "Sila [LINK]hubungi[/LINK] Penyelia Situs.";
 $locale['u155'] = "Pengaktifan Akaun";
@@ -119,8 +126,8 @@ $locale['u161'] = "Anda boleh log masuk sekarang.";
 $locale['u162'] = "Admin situs akan mengaktifkan akaun anda sebentar lagi.";
 $locale['u163'] = "Profil telah dikemaskinikan.";
 $locale['u164'] = "Tidak dapat dikemaskinikan";
+$locale['u165'] = "Email has been resended.";
 
-//$locale['u165'] = "Registration failed";
 $locale['u167'] = " untuk sebab-sebab berikut:";
 $locale['u168'] = "Sila Cuba Sekali Lagi.";
 $locale['u169'] = "Profil dikemaskinikan";
@@ -132,27 +139,37 @@ $locale['u174'] = "Buat tambahan Ahli lagi.";
 // Avatar upload
 $locale['u180'] = "Kesalahan didapati semasa muat naik imej avatar";
 
-
 $locale['u184'] = "Saiz Maks. Fail: %s / Saiz Maks. Imej : %ux%u pixels";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Clik pilih untuk muat naik imej";
-$locale['u187'] = "Padam";
 // Captcha and terms
 $locale['u190'] = "Kod Pengesahan";
 $locale['u191'] = "Isikan Kod Pengesahan";
 $locale['u192'] = "Terma dan Syarat Ahli";
 $locale['u193'] = "Saya telah baca dan faham [LINK]Syarat dan Terma Keahlian[/LINK] dan saya bersetuju dengan syarat tersebut.";
+$locale['u193a'] = "Dikemaskinikan";
+$locale['u193b'] = "I agree";
 $locale['u194'] = "Kod pengesahan tidak betul.";
 $locale['u195'] = "Kod Captcha tidak boleh dibiarkan kosong.";
 // E-mail Change Confirmation
 $locale['u200'] = "Emel pengesahan telah dihantar ke alamat emel anda di (%s).";
 $locale['u201'] = "Alamat emel anda akan ditukar secara automatik dengan menggunakan patuan yang diberikan dalam emel.";
 $locale['u202'] = "Alamat Emel untuk pengesahan - [SITENAME]";
-$locale['u203'] = "Hello [USER_NAME],\n\r
-Alamat Emel ini telah didaftarkan oleh ahli untuk laman situs kami.\n\r
-Jika anda ingin menukar alamat Emel anda ke Emel ini, sila klik pautan yang berikut:\n\r
-[EMAIL_VERIFY_LINK]\n\n\r\r
-Nota: Anda perlu daftar masuk untuk menukar emel anda selepas ini membuat penyelesaian pertukaran emel.\n\r
-Sekian,\n\r
-[SITEUSERNAME]\n\r
+$locale['u203'] = "Hello [USER_NAME],
+
+Alamat Emel ini telah didaftarkan oleh ahli untuk laman situs kami.
+
+Jika anda ingin menukar alamat Emel anda ke Emel ini, sila klik pautan yang berikut:
+
+[EMAIL_VERIFY_LINK]
+
+
+Nota: Anda perlu daftar masuk untuk menukar emel anda selepas ini membuat penyelesaian pertukaran emel.
+
+Sekian,
+
+[SITEUSERNAME]
+
 [SITENAME]";
+
+$locale['u210'] = "User Reputation";

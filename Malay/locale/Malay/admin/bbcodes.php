@@ -1,24 +1,29 @@
 <?php
-$locale['400'] = "Penyelerasan Kod BB";
-$locale['401'] = "Ujian Kod BB";
-// Enabled Kod BB
-$locale['402'] = "Kod BB Aktif";
-$locale['403'] = "Nama";
-$locale['404'] = "Ikon";
-$locale['405'] = "Butir-butir";
-$locale['406'] = "Kegunaan";
-$locale['407'] = "Susunan";
-$locale['408'] = "Bawah";
-$locale['409'] = "Atas";
-$locale['410'] = "Diaktifkan";
-$locale['411'] = "Tiada Kod BB aktif.";
-// Disabled Kod BB
-$locale['413'] = "Kod BB Belum Aktif";
-$locale['414'] = "Aktifkan";
-$locale['415'] = "Pemisah baris";
-$locale['416'] = "Tiada Kod BB yang belum diaktifkan.";
-// Test Kod BB
-$locale['417'] = "Keputusan Ujian Kod BB";
-$locale['418'] = "Jangan menggunakan Smileys dalam ujian ini";
-$locale['418a'] = "Mesej Ujian";
-$locale['418b'] = "Sila isikan mesej untuk menguji Kod BB.";
+$locale['BBCA_400'] = "Kod BB";
+$locale['BBCA_400a'] = "BB Codes Admin";
+$locale['BBCA_401'] = "Test BB Codes";
+// Enabled BB Codes
+$locale['BBCA_402'] = "Enabled BB Codes";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Description";
+$locale['BBCA_406'] = "Usage";
+$locale['BBCA_407'] = "Susunan Item";
+$locale['BBCA_408'] = "Down";
+$locale['BBCA_409'] = "Up";
+$locale['BBCA_410'] = "Tutup";
+$locale['BBCA_411'] = "There are no BB Codes enabled.";
+// Disabled BB Codes
+$locale['BBCA_413'] = "Disabled BB Codes";
+$locale['BBCA_414'] = "Buka";
+$locale['BBCA_416'] = "There are no BB Codes disabled.";
+// Test BB Codes
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Disable smileys in this test";
+$locale['BBCA_418a'] = "Test Message";
+$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+// Notices
+$locale['BBCA_430'] = "BB Code has been moved Up.";
+$locale['BBCA_431'] = "BB Code has been moved Down.";
+$locale['BBCA_432'] = "BB Code has been Enabled.";
+$locale['BBCA_433'] = "BB Code has been Disabled.";

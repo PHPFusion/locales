@@ -1,123 +1,85 @@
 <?php
-// Member Management Options
-$locale['400'] = "Pengurusan Ahli";
-$locale['401'] = "Ahli";
-$locale['402'] = "Tambah Ahli Baru";
-$locale['403'] = "Jenis Ahli";
-$locale['404'] = "Pilihan";
-$locale['405'] = "Papar";
-$locale['406'] = "Sunting";
-$locale['407'] = "Aktifkan";
-$locale['408'] = "Pulihkan";
-$locale['409'] = "Gantung";
-$locale['410'] = "Padam";
-$locale['411'] = "Tiada %s ahli";
-$locale['412'] = " yang bermula dari ";
-$locale['413'] = " yang bercocokan dengan ";
-$locale['414'] = "Papar Semua";
-$locale['415'] = "Cari ahli:";
-$locale['416'] = "Cari";
-$locale['417'] = "Pilih Aksi";
-$locale['418'] = "Batal";
-$locale['419'] = "Sembulih";
-// Ban/Unban/Delete Member
-$locale['420'] = "Pergantungan Akauan telah dilaksanakan";
-$locale['421'] = "Pergantungan Akaun telah dibatalkan";
-$locale['422'] = "Akaun Ahli telah dipadamkan";
-$locale['423'] = "Adakah anda ingin padamkan akaun ahli ini?";
-$locale['424'] = "Ahli Diaktifkan";
-$locale['425'] = "AMARAN!";
-$locale['425a'] = "Anda akan padamkan ahli %s!\nBerikut adalah jenis kandungan yang akan dipadamkan berkenaan Ahli ini jika anda meneruskan pemadaman:\n
-- Artikel\n
-- Berita\n
-- Utusan Forum. Pos oleh ahli lain dalam utusan ini juga akan dipadamkan berserta dengan undian dan fail attachment only ahli ini.\n
-- Pos Forum.\n
-- Attachment Pos.\n
-- Mesej Peribadi yang diterima dan dihantar oleh Ahli ini.\n
-- Undian\n
-- Penilaian yang diberi\n\n
-Kami mensyorkan bahawa anda boleh Haramkan, Berhentikan, Diaktifkan, Batal atau Anonymize Ahli ini jika Ahli ini bukan Spammer.
-Adakah anda ingin padam ahli ini?\n";
-$locale['426'] = "Ya";
-$locale['427'] = "Tidak";
-// Sunting Member Details
-$locale['430'] = "Sunting Ahli";
-// Add Member Errors
-$locale['480'] = "Tambah Ahli";
-$locale['481'] = "Akaun Ahli telah didaftarkan.";
-$locale['482'] = "Akaun Ahli tidak dapat didaftar.";
-// Suspension Log 
-$locale['510s'] = "Log Pergantungan Ahli untuk ";
-$locale['511s'] = "Tiada rekod log pergantungan didapati untuk ahli ini";
-$locale['512s'] = "Pergantungan sebelum oleh";
-$locale['513'] = "No."; // as in number
-$locale['514'] = "Tarikh";
-$locale['515'] = "Sebab";
-$locale['516'] = "Administrator yang menggantung";
-$locale['517'] = "Aksi System";
-$locale['518'] = "Kembali ke Profil Ahli";
-$locale['519'] = "Log untuk User ini ";
-$locale['520'] = "Dipulihkan: ";
-$locale['521'] = "IP: ";
-$locale['522'] = "Belum dipulihkan lagi";
-$locale['540'] = "Kesalahan";
-$locale['541'] = "Kesalahan: Anda mesti memberi sebab untuk You must state a reason for the pergantungan ini!";
-$locale['542'] = "Kesalahan: Anda mesti memberi sebab untuk pergantungan sekuriti ini!";
-// User Management Admin
-$locale['550'] = "Ahli untuk digantung : ";
-$locale['551'] = "Masa dalam hari:";
-$locale['552'] = "Sebab:";
-$locale['553'] = "Gantung";
-$locale['554'] = "Tiada rekod gantungan untuk member ini dalam log Ahli.";
-$locale['555'] = "Jika anda ingin gantung akaun ahli ini, anda perlu klik 'Gantung'";
-$locale['556'] = "Pemulihan Pergantungan Ahli: ";
-$locale['557'] = "Pemulihan Pergantungan";
-$locale['558'] = "Pemulihan Pergantungan Ahli: ";
-$locale['559'] = "Pemulihan Pergantungan ";
-$locale['560'] = "Pemulihan Pergantungan Sekuriti Ahli: ";
-$locale['561'] = "Pemulihan Pergantungan Sekuriti";
-$locale['562'] = "Ahli digantung: ";
-$locale['563'] = "Ahli diggantung sekuriti: ";
-$locale['585a'] = "Sila berikan sebab anda menggantung atau memulihkan pergantungan ";
-$locale['566'] = "Pergantungan Akaun dipulihkan";
-$locale['568'] = "Pergantungan Sekuriti dilaksanakan";
-$locale['569'] = "Pergantungan Sekuriti dipulihkan";
-$locale['572'] = "Ahli digantung";
-$locale['573'] = "Pergantungan dipulihkan";
-$locale['574'] = "Ahli disakhtikan";
-$locale['575'] = "Ahli diaktifkan";
-$locale['576'] = "Akaun dibatalkan";
-$locale['577'] = "Pembatalan Akaun dibatal";
-$locale['578'] = "Akaun telah dibatalkan dan diawanamakan";
-$locale['579'] = "Awanama Akaun dibatalkan";
-$locale['580'] = "Penyahaktifkan Ahli Tidak Aktif";
-$locale['581'] = "Anda ada lebih daripada 50 ahli yang tidak aktif dan perlu menjalankan proses ini (%d) kali.";
-$locale['582'] = "Aktifkan";
-$locale['583'] = "Dipulihkan";
-$locale['584'] = "Pilih status baru";
-$locale['585'] = "Ahli ini telah digantung sekara sebab sekuriti! Anda pasti hendak menjalankan pemulihan akaun ahli ini?";
-$locale['590'] = "Gantung";
-$locale['591'] = "Pulih";
-$locale['592'] = "pergantungan dilaksanakan";
-$locale['593'] = "permulihan dilaksanakan";
-$locale['594'] = "Sila isikan sebab anda ";
-$locale['595'] = " Ahli ini ";
-$locale['596'] = "Masa:";
-$locale['600'] = "Digantung Sekuriti";
-$locale['601'] = "pergantungan sekuriti";
-$locale['602'] = "Pemulihan";
-$locale['603'] = "pemulihan";
-$locale['604'] = "Sebab:";
-// Deactivation System
-$locale['610'] = "%d ahli tidak log masuk untuk %d hari dan telah ditanda sebagai tidak aktif. Jalankan penyahaktifkan supaya para pengguna akan mempunyai (%d) hari sebelum mereka adalah %s.";
-$locale['611'] = "Sila ambil perhatian bahawa ahli yang mempunyai kandungan di situs ini seperti pos forum, komen, gambar, dll akan dipadamkan apabila ahli tidak aktif dipadamkan.";
-$locale['612'] = "ahli";
-$locale['613'] = "ahli";
-$locale['614'] = "Penyahaktifan";
-$locale['615'] = "dipadamkan";
-$locale['616'] = "disembuyikan";
-$locale['617'] = "AMARAN:";
-$locale['618'] = "Kami mengesyorkan supaya anda tidak membuat penyahaktifan akaun tetapi diawanamakan akaun ini untuk memelihara data sistem!";
-$locale['619'] = "Anda boleh buat demikian di sini.";
-$locale['620'] = "awanamakan";
-$locale['621'] = "Penyahaktifan akaun ahli secara automatik.";
+$locale['ME_400'] = 'Pengurusan Ahli';
+$locale['ME_401'] = 'Search User...';
+$locale['ME_402'] = 'Display Filters';
+$locale['ME_403'] = 'Add a new User';
+$locale['ME_404'] = 'Apply Filter';
+$locale['ME_405'] = 'There are no user found under the search criteria';
+//
+$locale['ME_407'] = 'Displaying %s - %d of %d records found';
+$locale['ME_408'] = 'Maklumat Biasa';
+$locale['ME_409'] = 'Detailed Information';
+$locale['ME_410'] = 'Ahli';
+$locale['ME_411'] = 'Pangkat Ahli';
+$locale['ME_412'] = 'Alamat Emel';
+$locale['ME_413'] = ' User Account';
+$locale['ME_414'] = 'Select All';
+$locale['ME_415'] = 'Tapuk';
+$locale['ME_416'] = 'Shown';
+
+// Core Fields Filter
+$locale['ME_420'] = 'Email Hidden?';
+$locale['ME_421'] = 'Joined Date';
+$locale['ME_422'] = 'Last Login';
+$locale['ME_423'] = 'Alamat IP';
+$locale['ME_424'] = 'IP Type';
+$locale['ME_425'] = 'Kumpulan Ahli';
+$locale['ME_426'] = 'Timezone';
+$locale['ME_427'] = 'User Status';
+
+// Action Form
+$locale['ME_430'] = 'Error: Actions against selected users could not be completed';
+$locale['ME_431'] = 'The following users will be %s:';
+$locale['ME_432'] = '%s has been %s';
+$locale['ME_433'] = 'Please specify a reason for the action';
+$locale['ME_434'] = 'Sebab';
+$locale['ME_435'] = 'Duration';
+$locale['ME_436'] = 'Days';
+$locale['ME_437'] = 'Update User';
+
+$locale['ME_450'] = 'Add New User';
+$locale['ME_451'] = '%s\'s Profile';
+$locale['ME_452'] = 'Edit %s\'s Profile';
+$locale['ME_453'] = 'Delete User %s';
+$locale['ME_454'] = "Warning!";
+$locale['ME_455'] = "You are about to delete user %s!<br/><br/>The contents posted by this user on this site will be deleted if you proceed.<br/>
+Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anonymize this user.<br/>
+Are you sure you want to delete this user?<br/>";
+$locale['ME_456'] = 'Delete User';
+$locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
+Are you sure you want to delete this user?<br/>";
+
+$locale['ME_460'] = 'There are no users to be deactivated';
+$locale['ME_461'] = '%s has been deactivated';
+$locale['ME_462'] = 'Deactivate Inactive Members';
+$locale['ME_463'] = 'You have more then 50 inactive users and will have to run the deactivation process (%d) times.';
+$locale['ME_464'] = '%d user(s) have not logged in for %d day(s) and have been marked as inactive. By deactivating these users they will have (%d) day(s) before they are %s.';
+$locale['ME_465'] = 'Please note that some users may have submitted content to your site such as forum posts, comments, photos etc. These will be deleted when deactivated users are being deleted.';
+$locale['ME_466'] = 'It is strongly recommended to change deactivation action to anonymize instead of delete to prevent data loss!';
+$locale['ME_467'] = "Set deactivation system to anonymize.";
+$locale['ME_468'] = 'Automatic deactivation of inactive users.';
+$locale['ME_469'] = 'User has been activated';
+
+// Actions
+$locale['ME_500'] = 'Haram';
+$locale['ME_501'] = 'Reinstate';
+$locale['ME_502'] = 'Deactivate';
+$locale['ME_503'] = 'Dihentikan';
+$locale['ME_504'] = 'Security Ban';
+$locale['ME_505'] = 'Batal';
+$locale['ME_506'] = 'Anonymize';
+$locale['ME_507'] = 'Activate';
+
+// a_message keys
+$locale['ME_550'] = 'diharam';
+$locale['ME_551'] = 'reinstated';
+$locale['ME_552'] = 'diaktifkan';
+$locale['ME_553'] = 'dihentikan';
+$locale['ME_554'] = 'security banned';
+$locale['ME_555'] = 'cancelled';
+$locale['ME_556'] = 'anonymized';
+$locale['ME_557'] = 'permanently deleted';
+
+$locale['ME_560'] = "Display Results";
+$locale['ME_561'] = "Display User With Status";
+$locale['ME_562'] = "New Unactivated User";

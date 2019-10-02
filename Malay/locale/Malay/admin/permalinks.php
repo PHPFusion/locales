@@ -1,39 +1,44 @@
 <?php
 // Section Titles
-$locale['400'] = "Pasang Permalinks";
-$locale['401'] = "Cerai Permalinks";
+$locale['PL_400'] = "Enabled Permalinks";
+$locale['PL_401'] = "Disabled Permalinks";
+$locale['PL_401a'] = "Permalink Settings";
 
 // Common
-$locale['402'] = "Nama Rewrite";
-$locale['403'] = "Butir-butir";
-$locale['404'] = "Pilihan";
-$locale['404a'] = "Pasang";
-$locale['404b'] = "Cerai";
-$locale['404c'] = "Sunting";
+$locale['PL_402'] = "Rewrite Name";
+$locale['PL_403'] = "Description";
+$locale['PL_404'] = "Pilihan";
+$locale['PL_404a'] = "Buka";
+$locale['PL_404b'] = "Tutup";
+$locale['PL_404d'] = "Reinstall";
 
 // Editing Permalinks
-$locale['405'] = "Sunting Permalink untuk %s";
-$locale['406'] = "Tag";
-$locale['407'] = "Butir-butir";
-$locale['408'] = "Jenis";
-$locale['409'] = "Sunting Sumber";
-$locale['410'] = "Jenis Permalink %u:";
-$locale['411'] = "Kesalahan";
-$locale['412'] = "Sila semak fail Permalink %s!";
-$locale['413'] = "Simpan";
-$locale['414'] = "AMARAN: Data Permalink dan Alias Kustom akan dipadamkan!\nAdakah anda ingin ceraikan Permalink ini?";
+$locale['PL_405'] = "Editing Permalinks for %s";
+$locale['PL_406'] = "Tags";
+$locale['PL_407'] = "Description";
+$locale['PL_408'] = "Types";
+$locale['PL_409'] = "Edit Pattern";
+$locale['PL_410'] = "Permalink type %u:";
+$locale['PL_411'] = "Kesalahan";
+$locale['PL_412'] = "Check the files of the Permalink %s!";
+$locale['PL_413'] = "Terima";
+$locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
+$locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
+                  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>
+                  Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
 
 // Admin Messages
-$locale['420'] = "Kesalahan didapati.";
-$locale['421'] = "Permalink dikemaskinikan.";
-$locale['422'] = "Tiada Sumber Permalink didapati untuk %s.";
-$locale['423'] = "Permalink tidak didapati.";
-$locale['424'] = "Pemasangan Permalink untuk %s telah dilaksanakan.";
-$locale['425'] = "Permalink untuk %s telah dipasangkan.";
-$locale['426'] = "Penceraian Permalink untuk %s telah dilaksanakan.";
+$locale['PL_420'] = "An Error occurred.";
+$locale['PL_421'] = "Permalinks Updated successfully.";
+$locale['PL_422'] = "No Permalink patterns found for %s.";
+$locale['PL_423'] = "Permalink not found.";
+$locale['PL_424'] = "Enabled Permalinks for %s successfully.";
+$locale['PL_425'] = "Permalinks for %s are already enabled.";
+$locale['PL_426'] = "Disabled Permalinks for %s successfully.";
+$locale['PL_429'] = "Permalink Driver for %s";
 
 // Other
-$locale['427'] = "Tiada Permalink dipasang.";
-$locale['428'] = "Permalink";
+$locale['PL_427'] = "No Permalinks are enabled.";
+$locale['PL_428'] = "Permalinks";
 $locale['seo_htc_warning'] = "Sila ambil perhatian. Jika anda menukar pengaturan di kandungan fail .htaccess akan dikemaskinikan dan sebarang penukaran kepada fail tersebut sebelum ini akan dipadamkan.";
 $locale['rewrite_disabled'] = "modul mod_rewrite tidak didapati dalam sistem pelayar Server anda. Penggunaan SEF URL akan merosakkan halaman web anda. Sila hubungi pembekal hosting anda dan memohon supaya mod_rewrite boleh dipasang dalam sistem pelayar server host anda.";

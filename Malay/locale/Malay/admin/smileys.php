@@ -1,32 +1,38 @@
 <?php
 // Smiley titles
-$locale['400'] = "Smileys Kini";
-$locale['401'] = "Tambah Smiley";
-$locale['402'] = "Sunting Smiley";
-$locale['403'] = "Smileys";
+$locale['SMLY_400'] = "Current Smileys";
+$locale['SMLY_401'] = "Add Smiley";
+$locale['SMLY_402'] = "Edit Smiley";
+$locale['SMLY_403'] = "Smileys";
+$locale['SMLY_404'] = "Active Smileys";
+$locale['SMLY_405'] = "Inactive Smileys";
 // Smiley messages
-$locale['410'] = "Smiley ditambah";
-$locale['411'] = "Smiley dikemaskinikan";
-$locale['412'] = "Smiley dipadam";
-$locale['413'] = "Tidak dapat kemaskinikan Smiley";
-$locale['414'] = "Tidak dapat tambah Smiley";
-$locale['415'] = "Kod Smiley sedang digunakan.";
-$locale['416'] = "Adakah anda ingin padamkan Smiley ini?";
+$locale['SMLY_410'] = "Smiley added";
+$locale['SMLY_411'] = "Smiley updated";
+$locale['SMLY_412'] = "Smiley deleted";
+$locale['SMLY_413'] = "Inactive Smileys";
+
+$locale['SMLY_414'] = "The smiley Text is in use.";
+$locale['SMLY_415'] = "The smiley Code is in use.";
+$locale['SMLY_416'] = "Do you really want to delete this smiley?";
+$locale['SMLY_417'] = "Do you really want to deactivate this smiley?";
+$locale['SMLY_418'] = "Error Uploading smiley";
 // Smiley form
-$locale['420'] = "Kod Smiley:";
-$locale['421'] = "Imej Smiley:";
-$locale['422'] = "Teks Smiley:";
-$locale['423'] = "Simpan Smiley";
-$locale['424'] = "Paparkan Smiley:";
+$locale['SMLY_420'] = "Smiley Code:";
+$locale['SMLY_421'] = "Smiley Image:";
+$locale['SMLY_422'] = "Smiley Text:";
+$locale['SMLY_423'] = "Save Smiley";
+$locale['SMLY_424'] = "Update Smiley";
 // Current Smileys
-$locale['430'] = "Kod";
-$locale['431'] = "Imej";
-$locale['432'] = "Teks";
-$locale['433'] = "Pilihan";
-$locale['434'] = "Sunting";
-$locale['435'] = "Padam";
-$locale['436'] = "Tiada Smiley didapati.";
+$locale['SMLY_430'] = "Code";
+$locale['SMLY_431'] = "Imej";
+$locale['SMLY_432'] = "Teks";
+$locale['SMLY_433'] = "Pilihan";
+$locale['SMLY_435'] = "Tidak Aktif";
+$locale['SMLY_436'] = "There are no smileys defined.";
 // Error Message
-$locale['437'] = "Sila isikan kod Smiley";
-$locale['438'] = "Sila buat pilihan Smiley";
-$locale['439'] = "Sila isikan teks Smiley";
+$locale['SMLY_437'] = "Please enter a Smiley Code";
+$locale['SMLY_438'] = "Please select a Smiley";
+$locale['SMLY_439'] = "Please enter a Smiley Text";
+$locale['SMLY_440'] = "No active Smileys";
+$locale['SMLY_441'] = "No inactive Smileys";

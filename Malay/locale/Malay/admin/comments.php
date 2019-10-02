@@ -9,8 +9,9 @@ $locale['411'] = "Komen dipadamkan";
 $locale['420'] = "Jangan mengguna Smileys di komen ini";
 $locale['421'] = "Simpan Komen";
 // Comments
-$locale['430'] = "Sunting";
 $locale['431'] = "Padam";
 $locale['432'] = "IP Ahli:";
 $locale['433'] = "Padam komen ini?";
 $locale['434'] = "Tiada komen untuk item ini.";
+$locale['435'] = "Do you really want to add this user to a blacklist?";
+$locale['436'] = "Your comment are blacklisted.";

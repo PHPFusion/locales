@@ -1,10 +1,20 @@
 <?php
 $locale['400'] = "Pengaturan";
+$locale['401a'] = "Site Host Settings";
+$locale['401b'] = "The configuration for your site url, site port and site protocols.";
+
 // Site Settings
 $locale['401'] = "Utama";
 $locale['402'] = "Nama Situs";
 $locale['403'] = "URL Situs";
 $locale['404'] = "Logo Situs";
+$locale['404left'] = "Kiri";
+$locale['404center'] = "Tengah";
+$locale['404right'] = "Kanan";
+$locale['404XS'] = "Logo Position XS (mobile)";
+$locale['404SM'] = "Logo Position SM (tablet)";
+$locale['404MD'] = "Logo Position MD (laptop)";
+$locale['404LG'] = "Logo Position LG (desktop)";
 $locale['405'] = "Alamat E-mel Situs";
 $locale['406'] = "Nama anda";
 $locale['407'] = "Pengenalan Situs:";
@@ -21,17 +31,22 @@ $locale['417'] = "Bahasa Situs:";
 $locale['418'] = "Tema Situs:";
 $locale['418a'] = "Tema Admin Situs:";
 $locale['419'] = "Lokasi carian asal:";
+$locale['419a'] = "Entire Site";
 $locale['420'] = "Halaman yang abaikan Panel Kiri:";
 $locale['421'] = "Halaman yang abaikan Panel Atas Kandungan:";
 $locale['422'] = "Halaman yang abaikan Panel Bawah Kandungan:";
 $locale['423'] = "Halaman yang abaikan Panel Kanan:";
-$locale['424'] = "Contoh:\n\r/news.php\n\r/forum/index.php";
+$locale['424'] = "Contoh:
+/news.php
+/forum/index.php";
 $locale['425'] = "Alamat Situs";
 $locale['426'] = "Protocol Situs:";
 $locale['427'] = "Host Situs:";
 $locale['428'] = "Contoh:";
 $locale['429'] = "Path Situs:";
 $locale['430'] = "Port Situs:";
+$locale['430_error'] = "Incorrect Site Port Number";
+$locale['430_desc'] = "Leave blank for Port 80";
 $locale['431'] = "Paparan:";
 $locale['432'] = "Pengaturan Lain";
 $locale['433'] = "situs-saya.com";
@@ -44,6 +59,14 @@ $locale['439'] = "Bukaan Normalize Friendly URLs:";
 $locale['440'] = "Buka mod SEO Debug:";
 $locale['441'] = "Guna Entypo";
 $locale['442'] = "Guna Font-Awesome";
+$locale['443a'] = "Exclude User 1 Panels";
+$locale['443b'] = "Exclude User 2 Panels";
+$locale['443c'] = "Exclude User 3 Panels";
+$locale['443d'] = "Exclude User 4 Panels";
+$locale['444'] = "Domain Servers";
+$locale['444a'] = "Configuration for multiple domains on a single site.<br/><br/> Separate each domain per row push (\"enter\")";
+$locale['444b'] = "Registered Domain Names <br /> <i>You must write current domain read under Site Host when you enable this feature</i>.";
+$locale['445'] = "Invalid (test purposes)";
 
 // Time & Date Settings
 $locale['450'] = "Tarikh dan Masa";
@@ -62,6 +85,7 @@ $locale['462'] = "Offset Server";
 $locale['463'] = "Set Masa Server kepada GMT 0";
 $locale['464'] = "Timezone Asal";
 $locale['465'] = "Hari pertama minggu";
+$locale['466'] = "Default for New Users";
 
 // Registration Settings
 $locale['550'] = "Pendaftaran";
@@ -81,11 +105,9 @@ $locale['605'] = "Saiz fail maks. (bytes):";
 $locale['606'] = "Cara Mampatan Imej Jejari:";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+$locale['609'] = "Development Mode";
 
-$locale['955'] = "Original";
-$locale['956'] = "Empat Segi";
-
-// Other Settings
+$locale['649'] = "Prohibited user names:";
 $locale['650'] = "Seksyen DLL";
 $locale['651'] = "Senarai perkataan kotor:";
 $locale['652'] = "Guna baris baru setiap perkataan.";
@@ -93,6 +115,9 @@ $locale['653'] = "Kosongkan jika tidak perlu.";
 $locale['654'] = "Mengganti perkataan kotor dengan:";
 $locale['655'] = "Tetamu Situs boleh pos?";
 $locale['656'] = "Guna avatar dalam komen?";
+$locale['656a'] = "Enable Jquery comments?";
+$locale['656b'] = "Please set to high number comments per page if turn on Jquery for best view";
+
 $locale['657'] = "Mod Penyelenggaraan:";
 $locale['658'] = "Mesej Mod Penyelenggaraan:";
 $locale['659'] = "Guna Penapis Perkataan Kotor?";
@@ -156,7 +181,9 @@ $locale['696'] = "Sila isikan kekunci awam dan kekunci peribadi reCAPTCHA!";
 
 $locale['913'] = "Bilangan Komen setiap muka halaman";
 
-// Removed Recaptcha
+$locale['955'] = "Original";
+$locale['956'] = "Empat Segi";
+
 $locale['698'] = "Pengesahan SMTP?";
 $locale['699'] = "Cara Log Masuk";
 $locale['699b'] = "Kedua-dua";
@@ -174,6 +201,9 @@ $locale['708'] = "Nilai asal pilihan ahli";
 $locale['709'] = "Guna Notifikasi E-mel?";
 $locale['710'] = "Simpan Mesej Peribadi yang dikirim?";
 $locale['711'] = "Ambil Perhatian: Pilihan individu diberi keutamaan jika tetapan mereka didapati. Jika tiada pilihan ditetapkan, maka pilihan pengaturan admin akan digunakan.";
+$locale['712'] = "Messages has been deleted.";
+$locale['713'] = "Are you sure to delete all private messages?";
+$locale['714'] = "Delete Messages";
 
 // Save Settings
 $locale['750'] = "Simpan Pengaturan";
@@ -216,6 +246,10 @@ $locale['1012'] = "Awanama Ahli";
 $locale['1013'] = "Padam Ahli";
 $locale['1014'] = "Log Ahli boleh mengesan peranti yang berbeza pada masa yang sama?";
 $locale['1014a'] = "Jangan guna supaya lebih selamat";
+$locale['1015'] = "Width";
+$locale['1016'] = "Height";
+
+$locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Jana tag meta OpenGraph untuk Rangkaian Sosial";
@@ -250,13 +284,11 @@ $locale['error_type'] = "Sila isikan Jenis Extension";
 $locale['error_width'] = "Sila isikan Lebar";
 $locale['error_height'] = "Sila isikan Tinggi";
 $locale['error_value'] = "Sila isikan nilai yang berkenaan";
-
 $locale['blog_description'] = "Pengaturan dan konfigurasi untuk sistem Blog";
 $locale['news_description'] = "Pengaturan dan konfigurasi untuk sistem Berita";
 $locale['ipp_description'] = "Pengaturan dan konfigurasi untuk sistem IPP";
 $locale['forum_description'] = "Pengaturan dan konfigurasi untuk sistem Forum";
 $locale['download_description'] = "Pengaturan dan konfigurasi untuk sistem Muat Turun";
-$locale['eshop_description'] = "Pengaturan dan konfigurasi untuk sistem E-shop";
 $locale['language_description'] = "Pengaturan dan konfigurasi untuk sistem Bahasa";
 $locale['photo_description'] = "Pengaturan dan konfigurasi untuk sistem Galeri";
 $locale['main_description'] = "Pengaturan dan konfigurasi untuk sistem utama";
@@ -269,7 +301,6 @@ $locale['user_description'] = "Pengaturan dan konfigurasi untuk sistem Pengurusa
 $locale['theme_description'] = "Pengaturan dan konfigurasi untuk Tema Situs";
 $locale['blog_settings'] = "Pengaturan Blog";
 $locale['download_settings'] = "Pengaturan Download";
-$locale['eshop_settings'] = "Pengaturan Eshop";
 $locale['forum_settings'] = "Pengaturan Forum";
 $locale['ipp_settings'] = "Pengaturan IPP";
 $locale['photo_settings'] = "Pengaturan Galeri";
@@ -283,5 +314,16 @@ $locale['time_settings'] = "Pengaturan Tarikh dan Masa";
 $locale['user_settings'] = "Pengaturan Pengurusan Ahli";
 $locale['theme_settings'] = "Pengaturan Tema Situs";
 
-$locale['securimage'] = "Secure Image";
-$locale['securimage2'] = "Secure Image v.2";
+$locale['securimage3'] = "Secure Image v.3";
+
+// Security Settings
+$locale['security_001'] = "System Sessions";
+$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_003'] = "Sessions Type";
+$locale['security_004'] = "Database System";
+$locale['security_005'] = "File System";
+$locale['security_006'] = "Clear System Session Cache";
+$locale['security_007'] = "All system sessions has been cleared successfully";
+$locale['security_008'] = "Form Tokens";
+$locale['security_009'] = "Number of issued tokens for each form";
+$locale['security_010'] = "Fusion GateWay";

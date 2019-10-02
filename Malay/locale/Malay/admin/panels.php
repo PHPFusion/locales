@@ -20,15 +20,17 @@ $locale['424'] = "PHP";
 $locale['425'] = "Bawah Kandungan";
 $locale['426'] = "Atas";
 $locale['427'] = "Bawah";
-// Panel Options
+$locale['428a'] = "User 1";
+$locale['428b'] = "User 2";
+$locale['428c'] = "User 3";
+$locale['428d'] = "User 4";
+// Panel Options1
 $locale['430'] = "Pinda ke kiri";
 $locale['431'] = "Pinda ke kanan";
 $locale['432'] = "Pinda ke atas";
 $locale['433'] = "Pinda ke bawah";
-$locale['434'] = "Sunting";
 $locale['435'] = "Aktif";
 $locale['436'] = "Tidak Aktif";
-$locale['437'] = "Padam";
 $locale['438'] = "Panel Baru";
 $locale['439'] = "Segari Susunan Panel";
 $locale['440'] = "Padam Panel ini?";
@@ -58,6 +60,8 @@ $locale['465'] = "Guna dalam halaman berkenaan";
 $locale['466'] = "Bahasa Panel:";
 $locale['467'] = "Guna di halaman utama situs sahaja";
 $locale['468'] = "Jenis Panel";
+$locale['469'] = "None";
+$locale['469a'] = "Content";
 // Update/Add new Panel Errors
 $locale['470'] = "Nama Panel tidak boleh dikosongkan";
 $locale['471'] = "Nama Panel sedang digunakan. Sila pilih nama lain";
@@ -83,3 +87,4 @@ $locale['603'] = "Panel diguna";
 $locale['604'] = "Panel";
 $locale['605'] = "Panel";
 $locale['606'] = "Kandungan Situs";
+$locale['607'] = "File";

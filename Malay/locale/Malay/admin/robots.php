@@ -1,15 +1,12 @@
 <?php
-// Titles
-$locale['400'] = "robots.txt";
-// Messages
-$locale['410'] = "Adakah anda pasti? Fail robots.txt akan set kembali ke versi asal.";
-$locale['411'] = "Fail robots.txt file tidak didapati. Sila buat fail ini dalam direktori asas dan cuba sekali lagi.";
-$locale['412'] = "Fail robots.txt file telah dikemaskinikan.";
-$locale['413'] = "Kesalahan didapati seperti berikut:";
-$locale['414'] = "Fail robots.txt tidak dapat ditulis.";
-$locale['415'] = "Tidak dapat tulis ke fail robots.txt";
-// Edit form
-$locale['420'] = "Sunting fail robots.txt";
-$locale['421'] = "Anda boleh dapatkan maklumat bantuan bertentang robots.txt di sini.";
-$locale['422'] = "Simpan";
-$locale['423'] = "Set kembali ke versi asal";
+$locale['ROBOT_400'] = "robots.txt";
+$locale['ROBOT_410'] = "Are you sure? robots.txt file will be set to default.";
+$locale['ROBOT_411'] = "robots.txt file does not exist. You can create this file in the root directory.";
+$locale['ROBOT_412'] = "robots.txt file updated.";
+$locale['ROBOT_414'] = "robots.txt file is not writable.";
+$locale['ROBOT_416'] = "robots.txt file Create.";
+$locale['ROBOT_417'] = "robots.txt content incorrect. Please use a valid content.";
+$locale['ROBOT_420'] = "Edit your robots.txt file";
+$locale['ROBOT_421'] = "[LINK]You can find more information and help about the robots.txt here.[/LINK]";
+$locale['ROBOT_422'] = "New robots.txt file Created";
+$locale['ROBOT_423'] = "Set back to default";

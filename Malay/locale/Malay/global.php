@@ -1,25 +1,30 @@
 <?php
-/**
- * English Locale
- * charset as ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
- * region as ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
- */
-setlocale(LC_TIME, "en_GB.UTF-8"); // Linux Server (Windows may differ)
-$locale['charset'] = "utf-8";
-$locale['region'] = "MY"; // Malaysia
+setlocale(LC_ALL, "ms_MY.UTF-8"); // Linux Server (Windows may differ)
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "MY"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "en";
-$locale['tinymce'] = "ml_IN";
-$locale['phpmailer'] = "en";
-$locale['datepicker'] = "ms-my";
+$locale['short_lang_name'] = "en";
+$locale['tinymce'] = "ml_IN"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "en"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "en"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "en_EN"; // refer to path includes/filemanager/lang/{value}.php
+$locale['datepicker'] = "ms-my"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
+$locale['datepicker_php'] = "m-d-Y H:i:s";
+$locale['password_strength'] = "en"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['date_day'] = "%d %b";
+$locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januari|Februari|Mac|April|Mei|Jun|Julai|Ogos|September|Oktober|November|Disember";
 $locale['shortmonths'] = "&nbsp|Jan|Feb|Mac|Apr|Mei|Jun|Jul|Ogos|Sept|Okt|Nov|Dis";
-$locale['weekdays'] = "Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday"; // translate this line
+$locale['weekdays'] = "Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday";
 // Timers
 $locale['year'] = "tahun";
 $locale['year_a'] = "tahun";
 $locale['month'] = "bulan";
 $locale['month_a'] = "bulan";
+$locale['week'] = "week";
+$locale['week_a'] = "weeks";
 $locale['day'] = "hari";
 $locale['day_a'] = "hari";
 $locale['hour'] = "jam";
@@ -29,6 +34,7 @@ $locale['minute_a'] = "minit";
 $locale['second'] = "saat";
 $locale['second_a'] = "saat";
 $locale['just_now'] = "tadi";
+$locale['now'] = 'now';
 $locale['ago'] = "lalu";
 // Geo
 $locale['street1'] = "Alamat 1";
@@ -40,12 +46,13 @@ $locale['sel_state'] = "Sila pilih Negeri";
 $locale['sel_user'] = "Silah pilih nama pengguna";
 $locale['add_language'] = "Tambah Bahasa";
 $locale['add_lang'] = "Tambah %s";
+$locale['other_states'] = "Other States";
 // Name
 $locale['name'] = "Nama Penuh";
 $locale['username_pretext'] = "Nama pengguna juka sama dengan nama profil di %s %s";
-$locale['first_name'] = 'Nama Pertama';
-$locale['middle_name'] = 'Nama Tengah';
-$locale['last_name'] = 'Nama Akhir';
+$locale['first_name'] = "Nama Pertama";
+$locale['middle_name'] = "Nama Tengah";
+$locale['last_name'] = "Nama Akhir";
 // Documents
 $locale['doc_type'] = "Jenis Dokumen";
 $locale['doc_series'] = "Siri";
@@ -58,7 +65,7 @@ $locale['user0'] = "Awam";
 $locale['user1'] = "Ahli";
 $locale['user2'] = "Admin";
 $locale['user3'] = "Super Admin";
-$locale['user_na'] = "N/A";
+$locale['user_na'] = "Tidak Berkenaan";
 $locale['user_guest'] = "Tetamu";
 $locale['user_anonymous'] = "User Diselaputi";
 $locale['genitive'] = "%s %s";
@@ -76,7 +83,9 @@ $locale['status8'] = "Tidak Aktif";
 $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Navigasi";
-$locale['global_002'] = "Belum ada pautan\n";
+$locale['global_002'] = "Belum ada pautan
+";
+$locale['global_003'] = "Nothing to preview";
 // Users Online
 $locale['global_010'] = "Ahli Online";
 $locale['global_011'] = "Tetamu Online";
@@ -85,6 +94,7 @@ $locale['global_013'] = "Tiada Ahli Online";
 $locale['global_014'] = "Jumlah Ahli";
 $locale['global_015'] = "Jumlah Ahli belum Aktif";
 $locale['global_016'] = "Ahli Terkini";
+$locale['global_017'] = "Toggle Navigation";
 // Forum Side panel
 $locale['global_020'] = "Forum Perbincangan";
 $locale['global_021'] = "Utusan Terkini";
@@ -137,7 +147,7 @@ $locale['global_073b'] = " Komen";
 $locale['global_074'] = " Bacaan";
 $locale['global_074b'] = " Bacaan";
 $locale['global_075'] = "Cetak";
-$locale['print'] = 'Cetak';
+$locale['print'] = "Cetak";
 $locale['global_076'] = "Sunting";
 $locale['global_077'] = "Berita";
 $locale['global_078'] = "Belum ada berita dipaparkan lagi.";
@@ -174,6 +184,7 @@ $locale['global_105'] = "Belum jadi ahli lagi? [LINK]Clik sini[/LINK] untuk buat
 $locale['global_106'] = "[LINK]Terlupa Kata Laluan?[/LINK]";
 $locale['global_107'] = "Pendaftaran Baru";
 $locale['global_108'] = "Hilang Kata Laluan";
+$locale['global_109'] = "Sign Up";
 // Member User Menu
 $locale['global_120'] = "Menyesuaikan Halaman Profil";
 $locale['global_121'] = "Mesej Peribadi";
@@ -194,7 +205,9 @@ $locale['UM062'] = "Kata Laluan";
 $locale['UM063'] = "Ingati Saya";
 $locale['UM064'] = "Log Masuk";
 $locale['UM065'] = "Belum jadi ahli lagi? [LINK]Clik sini[/LINK] untuk buat pendaftaran.";
-$locale['UM066'] = "Terlupa kata laluan?\n[LINK]Dapatkan Kata Laluan Baru[/LINK].";
+$locale['UM066'] = "Terlupa kata laluan?
+[LINK]Dapatkan Kata Laluan Baru[/LINK].";
+$locale['UM067'] = "(not recommended on public or shared computer)";
 $locale['UM080'] = "Sunting Profil";
 $locale['UM081'] = "Mesej Peribadi";
 $locale['UM082'] = "Senarai Ahli";
@@ -212,6 +225,7 @@ $locale['UM092'] = "Sumbang Artikel";
 $locale['UM093'] = "Sumbang Gambar";
 $locale['UM094'] = "Sumbang Muat Turun";
 $locale['UM095'] = "Sumbang Blog";
+$locale['UM102'] = "Submit FAQ";
 // User Panel
 $locale['UM096'] = "Selamat Datang: ";
 $locale['UM097'] = "Menu Peribadi";
@@ -232,6 +246,7 @@ $locale['global_172'] = "Masa Penghasilan Paparan: %s seconds";
 $locale['global_173'] = "Pertanyaan";
 $locale['global_174'] = "Memori diguna";
 $locale['global_175'] = "Purata: %s saat";
+$locale['global_176'] = "Privacy Policy";
 // Admin Navigation
 $locale['global_180'] = "Halaman Utama Admin";
 $locale['global_181'] = "Kembali ke Situs";
@@ -244,9 +259,9 @@ $locale['global_193'] = "Tidak dapat daftar cookie pelayar. Sila memastikan pela
 $locale['global_194'] = "Akaun ini telah dihentikan.";
 $locale['global_195'] = "Akaun ini belum diaktifkan.";
 $locale['global_196'] = "Username atau password tidak betul.";
+$locale['global_197'] = "Sila tunggu sementara kami membuat pindahan anda...
 
-$locale['global_197'] = "Sila tunggu sementara kami membuat pindahan anda...\n\n[ [LINK]ataupun klik sini jika anda tidak ingin menunggu[/LINK] ]";
-
+[ [LINK]ataupun klik sini jika anda tidak ingin menunggu[/LINK] ]";
 $locale['global_198'] = "AMARAN PENTING: INSTALLER DETESISTEM PEMASANGAN DIKESAN, SILA MEMADAMKAN FOLDER /INSTALL/ SEKARANG.";
 $locale['global_199'] = "AMARAN PENTING: Kata Laluan Admin belum ditetapkan lagi, clik [LINK]Sunting Profil[/LINK] untuk menetapkan.";
 //Titles
@@ -262,10 +277,13 @@ $locale['global_301'] = "We are really sorry but this page cannot be displayed. 
  If you are a Site Administrator, please use your FTP client to upload any theme designed for PHP-Fusion 9 to the themes folder.
  After upload check in Theme Settings to see if the selected theme was correctly uploaded to your themes directory.
  Please note that the uploaded theme folder has to have the exact same name (including character case, which is important on Unix based servers)
- as chosen in Theme Settings page.\n\nIf you are regular member of this site, please contact the site\'s administrator via [SITE_EMAIL] e-mail and report this issue.";
+ as chosen in Theme Settings page.
+
+If you are regular member of this site, please contact the site\\'s administrator via [SITE_EMAIL] e-mail and report this issue.";
 $locale['global_302'] = "The Theme chosen in Main Settings does not exist or is incomplete!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Alamak! Mana JavaScript? \nPelayar Web anda tidak ada sebarang JavaScript.
+$locale['global_303'] = "Alamak! Mana JavaScript?
+Pelayar Web anda tidak ada sebarang JavaScript.
 Sila pastikan Pelayar anda dapat mengguna laman web ini tanpa ganguan ataupun anda boleh muat turun edisi pelayar yang terbaru yang dapat mengguna JavaScript.";
 // User Management
 $locale['global_400'] = "dihentikan";
@@ -281,148 +299,195 @@ $locale['global_409'] = "Akaun ini telah diharamkan kerana sebab-sebab sekuriti.
 $locale['global_410'] = "Sebab-sebab kerana ini seperti berikut: ";
 $locale['global_411'] = "Akaun ini telah ditamatkan.";
 $locale['global_412'] = "Akaun ini telah dilindungkan, kemungkinan kerana tidak aktif.";
-
 // Flood control
 $locale['global_440'] = "Dihentikan secara otomatik oleh Sistem kawalan pos banjir.";
 $locale['global_441'] = "Akaun anda di [SITENAME] telah dihentikan";
-$locale['global_442'] = "Hello [USER_NAME],\n
-Akaun anda di [SITENAME] didapati membuat pos malampaui dalam masa yang singkat di IP [USER_IP], dan akaun anda telah diberhentikan secara automatik. Ini adalah untuk memantaui sistem robot yang membuat pos secara automatik.\n
-Jika ada soalan yang selanjut yang berkenaan, sila hubungi Site Administrator di [SITE_EMAIL] untuk mendapat jawapan atau memulihkan akaun atau membuat laporan jika anda tidak menyebabkan perhentian ini.\n
-Sekian,\n[SITEUSERNAME]";
+$locale['global_442'] = "Hello [USER_NAME],
 
+Akaun anda di [SITENAME] didapati membuat pos malampaui dalam masa yang singkat di IP [USER_IP], dan akaun anda telah diberhentikan secara automatik. Ini adalah untuk memantaui sistem robot yang membuat pos secara automatik.
+
+Jika ada soalan yang selanjut yang berkenaan, sila hubungi Site Administrator di [SITE_EMAIL] untuk mendapat jawapan atau memulihkan akaun atau membuat laporan jika anda tidak menyebabkan perhentian ini.
+
+Sekian,
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Suspension automatically lifted by system";
 $locale['global_451'] = "Akuan dipulihkan di [SITENAME]";
-$locale['global_452'] = "Hello USER_NAME,\n
-Akaun anda di [SITEURL] telah dipulihkan. Berikut adalah butir-butir akauan anda:\n
-Kata Nama: USER_NAME\nKata Laluan: Lindung untuk sebab keselamatan\n
-Jika anda telah lupa kata aluan akauan, anda boleh dapatkan kata aluan yang baru melalui pautan: LOST_PASSWORD\n\n
-Sekian,\n[SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,\nAkaun anda yang dihentikan di [SITEURL] telah dipulihkan.\n\n
-Sekian,\n[SITEUSERNAME]";
+$locale['global_452'] = "Hello USER_NAME,
+
+Akaun anda di [SITEURL] telah dipulihkan. Berikut adalah butir-butir akauan anda:
+
+Kata Nama: USER_NAME
+Kata Laluan: Lindung untuk sebab keselamatan
+
+Jika anda telah lupa kata aluan akauan, anda boleh dapatkan kata aluan yang baru melalui pautan: LOST_PASSWORD
+
+
+Sekian,
+[SITEUSERNAME]";
+$locale['global_453'] = "Hello USER_NAME,
+Akaun anda yang dihentikan di [SITEURL] telah dipulihkan.
+
+
+Sekian,
+[SITEUSERNAME]";
 $locale['global_454'] = "Akaun diaktifkan di [SITENAME]";
-$locale['global_455'] = "Hello USER_NAME,\n
-Semenjak lawatan yang terakhir baru baru ini, akaun anda telah diaktifkan di [SITEURL] dan akaun anda sedia dan dipulihkan dari senarai akaun tidak aktif kami.\n\n\n
-Sekian,\n[SITEUSERNAME]";
+$locale['global_455'] = "Hello USER_NAME,
+
+Semenjak lawatan yang terakhir baru baru ini, akaun anda telah diaktifkan di [SITEURL] dan akaun anda sedia dan dipulihkan dari senarai akaun tidak aktif kami.
+
+
+
+Sekian,
+[SITEUSERNAME]";
 $locale['global_456'] = "Notis Kata Laluan baru di [SITENAME]";
 $locale['global_457'] = "Hello USER_NAME,
-\n\nKata Laluan baru telah dikeluarkan kepada akaun anda di [SITENAME]. Sila rujuk kepada butir akaun anda:\n\n
-Kata Nama: USER_NAME\nKata Laluan: [PASSWORD]\n\nSekian,\n[SITEUSERNAME]";
+
+
+Kata Laluan baru telah dikeluarkan kepada akaun anda di [SITENAME]. Sila rujuk kepada butir akaun anda:
+
+
+Kata Nama: USER_NAME
+Kata Laluan: [PASSWORD]
+
+Sekian,
+[SITEUSERNAME]";
 $locale['global_458'] = "Kata Laluan telah dikeluarkan kepada USER_NAME";
 $locale['global_459'] = "Kata Laluan telah dikeluarkan kepada USER_NAME, tetapi emel tidak dapat dihantar. Sila pastikan butir-butir baru diberitahukan kepada ahli tersebut.";
-
 // Function parsebytesize()
 $locale['global_460'] = "Kosong";
 $locale['global_461'] = "Bytes";
-$locale['global_462'] = "kB";
-$locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
-$locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Sila tunggu sementara anda diagihkan ke %s. Jika anda tidak ingin tunggu, sila klik pautan ini.";
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
+$locale['global_601'] = "You must enter a correct validation code";
 $locale['recaptcha'] = "en";
+// Site links
+$locale['global_700'] = "Show More";
 //Miscellaneous
 $locale['global_900'] = "Tidak dapat menukar HEX ke DEC";
+$locale['global_901'] = "Insert Media";
 //Language Selection
 $locale['global_ML100'] = "Bahasa:";
 $locale['global_ML101'] = "- Pilih Bahasa -";
 $locale['global_ML102'] = "Bahasa Halaman";
+$locale['global_ML103'] = "Tukar Bahasa";
 // Flood Control
 $locale['flood'] = "Anda dilarang untuk membuat sebarang pos balasan dalam tempoh kawalan pos banjir tamat. Sila tunggu selama %s.";
 $locale['no_image'] = "Tiada Gambar";
-$locale['send_message'] = 'Hantar Mesej';
-$locale['go_profile'] = 'Layari ke halaman profil %s';
+$locale['send_message'] = "Hantar Mesej";
+$locale['go_profile'] = "Layari ke halaman profil %s";
 // Global one word locales
-$locale['hello'] = 'Hello!';
-$locale['goodbye'] = 'Selamat Tinggal!';
-$locale['welcome'] = 'Selamat Kembali';
-$locale['home'] = 'Utama';
+$locale['hello'] = "Hello!";
+$locale['goodbye'] = "Selamat Tinggal!";
+$locale['welcome'] = "Selamat Kembali";
+$locale['home'] = "Utama";
 // Status
-$locale['error'] = 'Kesilapan:';
-$locale['success'] = 'Berjaya!';
-$locale['enable'] = 'Buka';
-$locale['disable'] = 'Tutup';
-$locale['can'] = 'boleh';
-$locale['cannot'] = 'tidak boleh';
-$locale['no'] = 'Tidak';
-$locale['yes'] = 'Ya';
-$locale['off'] = 'Tutup';
-$locale['on'] = 'Buka';
-$locale['or'] = 'atau';
-$locale['by'] = 'oleh';
-$locale['in'] = 'di';
-$locale['of'] = 'daripada';
+$locale['error'] = "Kesilapan:";
+$locale['success'] = "Berjaya!";
+$locale['enable'] = "Buka";
+$locale['disable'] = "Tutup";
+$locale['can'] = "boleh";
+$locale['cannot'] = "tidak boleh";
+$locale['no'] = "Tidak";
+$locale['yes'] = "Ya";
+$locale['off'] = "Tutup";
+$locale['on'] = "Buka";
+$locale['or'] = "atau";
+$locale['by'] = "oleh";
+$locale['in'] = "di";
+$locale['of'] = "daripada";
 $locale['and'] = "dan";
-$locale['na'] = 'Tidak Didapati';
+$locale['na'] = "Tidak Didapati";
 $locale['joined'] = "Didaftar sejak: ";
 // Navigation
-$locale['next'] = 'Seterus';
-$locale['previous'] = 'Sebelum';
-$locale['back'] = 'Kembali';
-$locale['forward'] = 'Seterus';
-$locale['go'] = 'Layari';
-$locale['cancel'] = 'Batal';
+$locale['next'] = "Seterus";
+$locale['previous'] = "Sebelum";
+$locale['back'] = "Kembali";
+$locale['forward'] = "Seterus";
+$locale['go'] = "Layari";
+$locale['cancel'] = "Batal";
+$locale['clear'] = "Clear";
+$locale['move'] = "Move";
 $locale['move_up'] = "Pindah keatas";
 $locale['move_down'] = "Pindah kebawah";
 $locale['load_more'] = "Dapatkan lebih Utusan";
 $locale['load_end'] = "Dapatkan Utusan dari permulaan";
 // Actions
-$locale['add'] = 'Tambah';
-$locale['save'] = 'Terima';
-$locale['save_changes'] = 'Terima Perubahan';
-$locale['confirm'] = 'Kesahi';
-$locale['update'] = 'Kemaskini';
-$locale['updated'] = 'Dikemaskinikan';
-$locale['remove'] = 'Padam';
-$locale['delete'] = 'Padam';
-$locale['search'] = 'Cari';
-$locale['help'] = 'Bantuan';
-$locale['register'] = 'Pendaftaran';
-$locale['ban'] = 'Haram';
-$locale['reactivate'] = 'Diaktifkan Semula';
-$locale['user'] = 'Ahli';
-$locale['promote'] = 'Kempen';
-$locale['show'] = 'Paparkan';
+$locale['add'] = "Tambah";
+$locale['save'] = "Terima";
+$locale['save_changes'] = "Terima Perubahan";
+$locale['save_and_close'] = "Save and Close";
+$locale['confirm'] = "Kesahi";
+$locale['update'] = "Kemaskini";
+$locale['updated'] = "Dikemaskinikan";
+$locale['remove'] = "Padam";
+$locale['delete'] = "Padam";
+$locale['search'] = "Cari";
+$locale['help'] = "Bantuan";
+$locale['register'] = "Pendaftaran";
+$locale['ban'] = "Haram";
+$locale['reactivate'] = "Diaktifkan Semula";
+$locale['user'] = "Ahli";
+$locale['promote'] = "Kempen";
+$locale['show'] = "Paparkan";
+$locale['actions'] = "Actions";
+$locale['language'] = "Language";
+$locale['loading'] = "Loading...";
+// Persons & Identifiers
+$locale['you'] = "You";
+$locale['me'] = "Me";
+$locale['they'] = "They";
+$locale['we'] = "We";
+$locale['us'] = "Us";
+$locale['he'] = "He";
+$locale['she'] = "She";
+$locale['it'] = "It";
 //Tables
-$locale['status'] = 'Status';
-$locale['order'] = 'Susunan';
-$locale['sort'] = 'Isih';
-$locale['id'] = 'ID';
-$locale['title'] = 'Tajuk';
-$locale['rights'] = 'Kebeneran';
-$locale['info'] = 'Info';
-$locale['image'] = 'Imej';
+$locale['order'] = "Susunan Item";
+$locale['sort'] = "Isih";
+$locale['id'] = "ID";
+$locale['title'] = "Tajuk";
+$locale['rights'] = "Kebeneran";
+$locale['info'] = "Info";
+$locale['image'] = "Imej";
 // Forms
-$locale['choose'] = 'Sila pilih antara satu..';
+$locale['choose'] = "Sila pilih antara satu..";
 $locale['no_opts'] = "Tiada pilihan";
-$locale['root'] = 'Sebagai Dasar Pautan...';
-$locale['choose-user'] = 'Silah pilih Ahli..';
-$locale['choose-location'] = 'Sila pilih lokasi';
-$locale['parent'] = 'Sebagai Dasar...';
-$locale['order'] = 'Susunan Item';
-$locale['status'] = 'Status';
-$locale['note'] = 'Buat nota item ini';
-$locale['publish'] = 'Diterbitkan';
-$locale['unpublish'] = 'Dimunsuhkan';
-$locale['draft'] = 'Draf';
-$locale['settings'] = 'Pengaturan';
-$locale['posted'] = 'diposkan';
-$locale['profile'] = 'Profil';
-$locale['edit'] = 'Sunting';
-$locale['qedit'] = 'Sunting Pintas';
-$locale['view'] = 'Tinjauan';
-$locale['login'] = 'Log Masuk';
-$locale['logout'] = 'Log Keluar';
-$locale['admin-logout'] = 'Log Keluar Admin';
-$locale['message'] = 'Mesej';
-$locale['logged'] = 'Log masuk sebagai ';
-$locale['version'] = 'Versi ';
-$locale['browse'] = 'Carian ...';
-$locale['close'] = 'Tutup';
-$locale['nopreview'] = 'Tiada apa yang dipaparkan';
+$locale['root'] = "Sebagai Dasar Pautan...";
+$locale['choose-user'] = "Silah pilih Ahli..";
+$locale['choose-location'] = "Sila pilih lokasi";
+$locale['parent'] = "Sebagai Dasar...";
+$locale['item_order'] = "Item Ordering";
+$locale['status'] = "Status";
+$locale['note'] = "Buat nota item ini";
+$locale['publish'] = "Diterbitkan";
+$locale['unpublish'] = "Dimunsuhkan";
+$locale['published'] = "Published";
+$locale['unpublished'] = "Unpublished";
+$locale['sticky'] = "Sticky";
+$locale['unsticky'] = "Unsticky";
+$locale['draft'] = "Draf";
+$locale['settings'] = "Pengaturan";
+$locale['posted'] = "diposkan";
+$locale['profile'] = "Profil";
+$locale['edit'] = "Sunting";
+$locale['qedit'] = "Sunting Pintas";
+$locale['view'] = "Tinjauan";
+$locale['login'] = "Log Masuk";
+$locale['logout'] = "Log Keluar";
+$locale['admin-logout'] = "Log Keluar Admin";
+$locale['message'] = "Mesej";
+$locale['logged'] = "Log masuk sebagai ";
+$locale['version'] = "Versi ";
+$locale['browse'] = "Carian ...";
+$locale['close'] = "Tutup";
+$locale['nopreview'] = "Tiada apa yang dipaparkan";
 $locale['mark_as'] = "Tanda Sebagai";
+$locale['preview'] = "Preview";
+$locale['custom'] = "Custom";
+$locale['submit'] = "Submit";
 // Alignment
 $locale['left'] = "Kiri";
 $locale['center'] = "Tengah";
@@ -467,5 +532,11 @@ $locale['fmt_views'] = "pandangan|pandangan";
 $locale['fmt_weblink'] = "pautan-laman|pautan-laman";
 $locale['fmt_week'] = "minggu|minggu";
 $locale['fmt_year'] = "tahun|tahun";
+$locale['fmt_points'] = "point|points";
+$locale['fmt_admin'] = "admin|admins";
+$locale['fmt_group'] = "group|groups";
+$locale['fmt_category'] = "category|categories";
+$locale['fmt_review'] = "review|reviews";
+$locale['fmt_infusion'] = "infusion|infusions";
 // include Defender locales
 include_once __DIR__."/defender.php";

@@ -1,22 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: article_admin.php
-| Author: Frederick MC Chan
-| Last updated: Mar 05 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
 $locale['article_0000'] = "Artikel";
 $locale['article_0001'] = "Semua Artikel";
 $locale['article_0002'] = "Tambah Artikel";
@@ -38,7 +20,6 @@ $locale['article_0043'] = "Kategori tidak boleh dipadam";
 $locale['article_0044'] = "Ada Artikel atau Sub dalam Kategori";
 $locale['article_0045'] = "Pilihan kategori berjaya dikemaskini";
 $locale['article_0046'] = "Pilihan kategori tidak boleh dipadam";
-$locale['article_0047'] = "Ada Artikel atau Sub dalam Kategori";
 $locale['article_0048'] = "Anda harus memilih sekurang-kurangnya satu Kategori";
 $locale['article_0060'] = "Sumbangan berjaya diterbitkan";
 $locale['article_0061'] = "Sumbangan berjaya disimpan sebagai draf";
@@ -72,6 +53,7 @@ $locale['article_0150'] = "Nama";
 $locale['article_0152'] = "Status";
 $locale['article_0161'] = "Padam kategori ini?";
 $locale['article_0162'] = "Tiada Kategori dibuat";
+$locale['article_0163'] = "Article Subject";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Diserah oleh";
 $locale['article_0203'] = "Tarikh";
@@ -79,7 +61,6 @@ $locale['article_0204'] = "Pilihan";
 $locale['article_0205'] = "Semakan Penyerahan";
 $locale['article_0251'] = "Coretan";
 $locale['article_0252'] = "Artikel";
-$locale['article_0252a'] = "Artikel ini";
 $locale['article_0253'] = "Artikel ini.";
 $locale['article_0254'] = "Coretan artikel";
 $locale['article_0256'] = "Simpan sebagai deraf";
@@ -115,3 +96,4 @@ $locale['article_0920'] = "Sila gunakan borang untuk membuat serahan Artikel. Se
 $locale['article_0921'] = "Anda perlu log masuk untuk menyerah artikel";
 $locale['article_0922'] = "Kami tidak terima serahan artikel buat masa ini.";
 $locale['article_0923'] = "Anda tidak boleh serah Artikel kerana tidak ada Kategori.";
+$locale['article_submit'] = "%s Articles";

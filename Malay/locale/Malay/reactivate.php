@@ -1,18 +1,14 @@
 <?php
 // Error messages
 $locale['500'] = "Kesalahan dikesan";
-$locale['501'] = "Pautan aktivasi yang digunakan sudah tidak wujud.<br /><br />Sila berhubung dengan Admin laman web di
-<a href='mailto:".fusion_get_settings('siteemail')."'>".fusion_get_settings('siteemail')."</a> jika anda ingin meminta aktivasi manual.";
-$locale['502'] = "Pautan aktivasi yang digunakan tidak sah laku!<br /><br />Sila berhubung dengan Admin laman web di
-<a href='mailto:".fusion_get_settings('siteemail')."'>".fusion_get_settings('siteemail')."</a> jika anda ingin meminta aktivasi manual.";
-$locale['503'] = "Pautan aktivasi yang digunakan tidak dapat mengaktifkan akaun anda.<br />Kemungkinan akaun anda telah diaktifkan dan jikalau begitu anda akan dapat
-<a href='".fusion_get_settings('siteurl')."login.php'>log masuk di sinie</a>.<br /><br />
-Jika anda tidak dapat log masuk sekarang, sila berhubung dengan Admin laman web di <a href='mailto:".fusion_get_settings('siteemail')."'>".fusion_get_settings('siteemail')."</a> jika anda ingin meminta aktivasi manual.";
+$locale['501'] = "The re-activation link you clicked is no longer valid.<br /><br />Contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
+$locale['502'] = "The re-activation link you clicked is invalid!<br /><br />Contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
+$locale['503'] = "The re-activation link you followed could not re-activate your account.<br />
+Perhaps your account has already been re-activated and in that case you should be able to [LINK]log in here[/LINK].<br /><br />
+If you cannot log in now, please contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
 // Send confirmation mail
-$locale['504'] = "Akaun anda diaktifkan di ".fusion_get_settings('sitename');
-$locale['505'] = "Hello [USER_NAME],\n
-Akaun anda di ".fusion_get_settings('sitename')." telah diaktifkan. Kami berharap anda akan sering melayari laman web kami.\n\n
-Sekian,\n\n
-".fusion_get_settings('siteusername');
+$locale['504'] = "Account re-activated at [SITENAME]";
+$locale['505'] = "Hello [USER_NAME],
+<br/>\r\nYour account at [SITENAME] has been re-activated. We hope to see you more often at the site.<br/><br/>\r\n
+Regards,<br/><br/>\r\n[SITEUSERNAME]";
 $locale['506'] = "Diaktifkan oleh Ahli.";
-

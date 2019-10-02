@@ -1,22 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: faq.php
-| Author: Frederick MC Chan
-| Last updated: Mar 06 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
 $locale['faq_0000'] = "Soalan";
 $locale['faq_0001'] = "Kategori";
 $locale['faq_0002'] = "Atas";
@@ -44,6 +26,7 @@ $locale['faq_0060'] = "Sumbangan berjaya diterbitkan";
 $locale['faq_0061'] = "Sumbangan berjaya disimpan sebagai draf";
 $locale['faq_0062'] = "Sumbangan berjaya dipadam";
 $locale['faq_0063'] = "Tidak ada sumbangan baru";
+$locale['faq_0064'] = "Pada masa ini terdapat %s menunggu untuk semakan anda.";
 $locale['faq_0100'] = "Soalan";
 $locale['faq_0102'] = "Draf";
 $locale['faq_0105'] = "Pengarang";
@@ -51,6 +34,7 @@ $locale['faq_0106'] = "Akses";
 $locale['faq_0107'] = "Pengaturan";
 $locale['faq_0111'] = "Padamkan soalan ini?";
 $locale['faq_0112'] = "Tiada soalan ditakrifkan";
+$locale['faq_0112a'] = "There are no FAQ Categories defined.";
 $locale['faq_0113'] = "Tiada soalan dapat dipadankan dengan pilihan carian anda.";
 $locale['faq_0114'] = "Anda perlu menambah kategori soalan dahulu sebelum dapat menambah apa-apa soalan.";
 $locale['faq_0115'] = "Nama Kategori";
@@ -96,3 +80,4 @@ $locale['faq_0920'] = "Sila gunakan borang untuk membuat serahan Soalan. Serahan
 $locale['faq_0921'] = "Anda mesti log masuk untuk membuat serahan Soalan.";
 $locale['faq_0922'] = "Kami tidak menerima apa-apa Soalan baru pada masa ini.";
 $locale['faq_0923'] = "Anda tidak boleh serah apa-apa soalan sebab tiada kategori soalan ditakrifkan.";
+$locale['faq_submit'] = "%s FAQs";

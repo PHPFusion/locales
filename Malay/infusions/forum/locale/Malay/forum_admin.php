@@ -1,22 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: forum_admin.php
-| Author: Frederick MC Chan
-| Last updated: Mar 07 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
 $locale['500'] = "Forum";
 $locale['501'] = "Panel Perbincangan Aktif Terbaru Forum:";
 $locale['502'] = "Buka";
@@ -29,8 +11,7 @@ $locale['509'] = "Saiz maksimum fail";
 $locale['510'] = "Jenis file dibenarkan:";
 $locale['511'] = "Tekan butang enter selepas setiap kata kunci";
 $locale['512'] = "Notifikasi Perbincangan";
-$locale['518'] = "Ya";
-$locale['519'] = "Tidak";
+$locale['513'] = "Show reputation";
 $locale['520'] = "Aktifkan pangkat forum";
 $locale['521'] = "Kunci sunting:";
 $locale['522'] = "(Elakkan ahli sunting pos sendiri)";
@@ -75,8 +56,6 @@ $locale['forum_011'] = "Alias Forum";
 $locale['forum_012'] = "Kata Kunci Forum (anda perlu guna butang enter selepas setiap kata kunci)";
 $locale['forum_013'] = "Muat naik gambar";
 $locale['forum_014'] = "URL gambar";
-$locale['forum_015'] = "Saiz Maksimum: %s dan mesti antara jenis .png, .bmp, .jpg, .gif";
-$locale['forum_015'] = "Max. saiz: %s dan mesti jenis imej .pengguna.kini,.format,.gif";
 $locale['forum_015'] = "Max. saiz: %s dan mesti jenis imej .pengguna.kini,.format,.gif";
 $locale['forum_016'] = "Jika fail imej dimuat naik, url tidak akan digunakan.";
 $locale['forum_017'] = "Peraturan Forum atau Notis";
@@ -164,6 +143,17 @@ $locale['forum_133'] = "Mata minimum untuk undian naik:";
 $locale['forum_134'] = "Mata minimum untuk undian turun:";
 $locale['forum_135'] = "Mata";
 $locale['forum_136'] = "Mata ahli Forum";
+$locale['forum_137'] = "General Forum Settings";
+$locale['forum_138'] = "Forum Post Settings";
+$locale['forum_139'] = "Forum User Fields Settings";
+$locale['forum_140'] = "General Display Settings";
+$locale['forum_141'] = "Notifications";
+$locale['forum_142'] = "Post File & Image Attachments";
+$locale['forum_143'] = "Post Behaviour Configurations";
+
+$locale['forum_150'] = "<strong>Enable user fields in detailed forum posts.</strong>  User Fields are custom user information that can be managed in the [LINK]user fields administration[/LINK]";
+$locale['forum_151'] = "There are no user fields defined in this category.";
+$locale['forum_152'] = "There are no user fields category.";
 $locale['forum_admin_000'] = "Pengurusan Forum";
 $locale['forum_admin_001'] = "Pangkat Forum";
 $locale['forum_admin_002'] = "Tag Forum";

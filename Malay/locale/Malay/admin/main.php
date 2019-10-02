@@ -1,17 +1,17 @@
 <?php
 // Admin Links
 $locale['200'] = "Admin Panel [SITENAME]";
+$locale['200a'] = "Panel Admin";
 $locale['ac00'] = "Halaman Utama Admin";
 $locale['ac01'] = "Kandungan";
 $locale['ac02'] = "Keahlian";
 $locale['ac03'] = "Sistem";
 $locale['ac04'] = "Pengaturan";
-$locale['ac05'] = "Infusions";
+$locale['ac05'] = "Modul Infusion";
 $locale['ac10'] = "Dashboard Admin";
 $locale['202'] = "Konfigurasi Profil Ahli";
 
-$locale['AD'] = "Administrators";
-$locale['AWPR'] = "Reset Kata Laluan Admin";
+// Pre-defined sections
 $locale['AC'] = "Kategori Artikel";
 $locale['A'] = "Artikel";
 $locale['BLOG'] = "Blog";
@@ -19,11 +19,10 @@ $locale['BLC'] = "Kategori Blog";
 $locale['CP'] = "Halaman Kustom";
 $locale['DC'] = "Kategori Muat Turun";
 $locale['D'] = "Muat Turun";
-$locale['ESHP'] = "eShop";
 $locale['FQ'] = "Soal Jawab";
 $locale['F'] = "Forum Perbincangan";
 $locale['IM'] = "Imej";
-$locale['I'] = "Infusions";
+$locale['I'] = "Modul Infusion";
 $locale['IP'] = "Panel";
 $locale['M'] = "Ahli";
 $locale['MI'] = "Sistem Migrasi";
@@ -39,6 +38,7 @@ $locale['SL'] = "Pautan Situs";
 $locale['SU'] = "Penyerahan";
 $locale['U'] = "Naik Versi Perisian";
 $locale['UG'] = "Kumpulan Ahli";
+$locale['UP'] = "Users Profile";
 $locale['WC'] = "Kategori Pautan Web";
 $locale['W'] = "Pautan Web";
 $locale['S1'] = "Utama";
@@ -68,6 +68,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Tema";
 $locale['S13'] = "Pengaturan Blog";
 $locale['LANG'] = "Pengaturan Bahasa";
+$locale['FM'] = "Fusion File Manager";
 
 // Site Information
 $locale['250'] = "Dashboard - Ringkasan Situs";
@@ -110,7 +111,18 @@ $locale['279'] = "Serahan Terbaru";
 $locale['280'] = "Panel Kontrol Administrator";
 $locale['281'] = "Sila isikan Kata Laluan Admin anda";
 $locale['282'] = "Tukar Bahasa";
-$locale['283'] = "Infusions";
+$locale['283'] = "Modul Infusion";
 $locale['284'] = "Tiada infusions yang dipasang";
 $locale['285'] = "Manage Infusions";
 $locale['286'] = "Semak Sumbangan";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

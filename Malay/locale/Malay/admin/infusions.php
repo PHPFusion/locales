@@ -1,6 +1,6 @@
 <?php
 // Infusion Management
-$locale['400'] = "Infusions";
+$locale['400'] = "Modul Infusion";
 $locale['401'] = "Infuse";
 $locale['402'] = "Modul ini telah bercantum dengan sistem Infusion";
 $locale['403'] = "Modul ini tidak dapat dicantumkan dengan sistem Infusion";
@@ -23,3 +23,5 @@ $locale['419'] = "Pilihan";
 $locale['420'] = "Versi";
 $locale['421'] = "Pemaju";
 $locale['422'] = "Muat turun lebih modul Addons";
+$locale['423'] = "%s Infusion has been installed";
+$locale['424'] = "%s Infusion has been uninstalled";

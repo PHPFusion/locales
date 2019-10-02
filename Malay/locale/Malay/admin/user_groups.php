@@ -1,42 +1,54 @@
 <?php
-// Sunting/Save/Delete User Group Messages
-$locale['400'] = "Kumpulan Ahli dikemaskinikan";;
-$locale['401'] = "Kumpulan Ahli ditambah";
-$locale['402'] = "Ahli yang dipilih telah dikeluarkan daripada kumpulan Ahli";
-$locale['403'] = "Semua ahli telah dikeluarkan daripada Kumpulan";
-$locale['404'] = "Ahli yang dipilih telah ditambah ke Kumpulan";
-$locale['405'] = "Tidak dapat padam Kumpulan Ahli";
-$locale['406'] = "Terdapat ahli dalam kumpulan ini";
-$locale['407'] = "Kumpulan Ahli telah dipadam";
-// Sunting/Delete Options
-$locale['420'] = "Kumpulan Ahli";
-$locale['421'] = "Sunting";
-$locale['422'] = "Padam";
-$locale['423'] = "Padamkan kumpulan ahli ini?";
-// Sunting/Add User Group
-$locale['430'] = "Sunting Kumpulan Ahli";
-$locale['431'] = "Tambah Kumpulan Ahli";
-$locale['432'] = "Nama Kumpulan:";
-$locale['433'] = "Butir-butir Kumpulan:";
-$locale['434'] = "Simpan Kumpulan";
+// Edit/Save/Delete User Group Messages
+$locale['GRP_400'] = "User Group updated";
+$locale['GRP_401'] = "User Group added";
+$locale['GRP_403'] = "Not Selected User";
+$locale['GRP_404'] = "No Group ";
+$locale['GRP_405'] = "Cannot delete User Group";
+$locale['GRP_406'] = "There are users assigned to this group";
+$locale['GRP_407'] = "User Group deleted";
+$locale['GRP_408'] = "No Selected User or Group.";
+$locale['GRP_409'] = " Add a user group.";
+
+$locale['GRP_410'] = "User \"%s\" added to group \"%s\"";
+$locale['GRP_411'] = "User \"%s\" removed from group \"%s\"";
+$locale['GRP_412'] = "\"%s\" users removed from group \"%s\"";
+
+// Edit/Delete Options
+$locale['GRP_420'] = "Kumpulan Ahli";
+$locale['GRP_421'] = "Edit Group";
+$locale['GRP_422'] = "Delete Group";
+$locale['GRP_423'] = "Pengurusan Ahli";
+$locale['GRP_424'] = "Displaying %d User Group.";
+$locale['GRP_425'] = "Delete this user group?";
+$locale['GRP_426'] = "Default Group";
+$locale['GRP_427'] = "Currently %d displaying %d members.";
+$locale['GRP_428'] = "Add Group";
+$locale['GRP_430'] = "added to Group %s";
+// Edit/Add User Group
+$locale['GRP_432'] = "Group Name";
+$locale['GRP_433'] = "Group Description";
+$locale['GRP_434'] = "Save Group";
+$locale['GRP_435'] = "ID";
+$locale['GRP_436'] = "Icon";
+$locale['GRP_437'] = "Action";
+$locale['GRP_438'] = "Ahli";
+$locale['GRP_439'] = "Group Icon";
 // Search/Add Group Users
-$locale['440'] = "Tambah Ahli ke Kumpulan";
-$locale['441'] = "Cari Ahli untuk tambah ke kumpulan dengan menggunakan borang di bawah.";
-$locale['442'] = "Anda boleh cari ahli-ahli dengan mengasingkan setip kata kunci dengan huruf koma (contoh: 'Ali, Baba')";
-$locale['443'] = "ID Ahli";
-$locale['444'] = "Kata Nama Ahli";
-$locale['445'] = "Carian";
-$locale['446'] = "Kta Nama Ahli";
-$locale['447'] = "Jenis Ahli";
-$locale['448'] = "Pilih Semua";
-$locale['449'] = "Kosongkan Semua";
-$locale['450'] = "Tambah Ahli yang dipilih";
-$locale['451'] = "Tida ahli didapati";
-$locale['452'] = "Cari Lagi";
+$locale['GRP_440'] = "Add users to Group";
+$locale['GRP_441'] = "Search for users to add to this group using the form below.";
+$locale['GRP_442'] = "You can search for multiple users by separating each entry Enter.";
+$locale['GRP_446'] = "User Name";
+$locale['GRP_447'] = "User Type";
+$locale['GRP_448'] = "Check All";
+$locale['GRP_449'] = "Uncheck All";
+$locale['GRP_450'] = "Add selected users";
+$locale['GRP_451'] = "Search User";
+$locale['GRP_452'] = "Current Group: ";
 // Current Group Users
-$locale['460'] = "Kumpulan Ahli Terkini";
-$locale['461'] = "Keluarkan ahli yang dipilih";
-$locale['462'] = "Keluarkan semua ahli";
-$locale['463'] = "Tiada ahli didapati dalam kumpulan ini.";
+$locale['GRP_460'] = "Current Group Users";
+$locale['GRP_461'] = "Remove selected users";
+$locale['GRP_462'] = "Remove all users";
+$locale['GRP_463'] = "Tidak ada ahli dalam kumpulan ini";
 // Error Messages
-$locale['464'] = "Sila isikan nama kumpulan";
+$locale['GRP_464'] = "Please enter a Group name";

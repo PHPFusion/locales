@@ -1,54 +1,33 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: forum_ranks.php
-| Author: Frederick MC Chan
-| Last updated: Mar 07 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
-$locale['400'] = "Tambah Pangkat Ahli";
-$locale['401'] = "Sunting Pangkat Ahli";
-$locale['402'] = "Current Pangkat Ahli";
-$locale['403'] = "Sistem Pangkat ditutup";
-$locale['404'] = "Pangkat Ahli Forum";
-$locale['410'] = "Pangkat ditambah";
-$locale['411'] = "Pangkat dikemaskini";
-$locale['412'] = "Pangkat dipadam";
-$locale['413'] = "Hanya satu pangkat ahli boleh diberi untuk admins dan moderator";
-$locale['414'] = "Sila isikan nama Pangkat Ahli";
-$locale['420'] = "Nama Pangkat:";
-$locale['421'] = "Imej Pangkat:";
-$locale['422'] = "Bil Pos Pangkat:";
-$locale['423'] = "Untuk:";
-$locale['424'] = "Ahli";
-$locale['425'] = "Moderator";
-$locale['426'] = "Administrator";
-$locale['427'] = "Super Administrator";
-$locale['428'] = "Simpan Pangkat";
-$locale['429'] = "Jenis Pangkat:";
-$locale['429a'] = "Khas";
-$locale['429b'] = "Admin";
-$locale['429c'] = "Bilangan Pos";
-$locale['430'] = "Tajuk";
-$locale['431'] = "Beri kepada";
-$locale['432'] = "Imej";
-$locale['433'] = "Pos";
-$locale['434'] = "Pilihan";
-$locale['435'] = "Sunting";
-$locale['436'] = "Padam";
-$locale['437'] = "Tiada pangkat ahli forum didapati";
-$locale['438'] = "Jenis/Bilangan";
-$locale['450'] = "Pangkat Forum tidak digunakan.&#092;nSila ke %s Admin Panel untuk membuka sistem.";
-$locale['451'] = "Pengaturan Forum";
+$locale['forum_rank_400'] = "Add Rank";
+$locale['forum_rank_401'] = "Edit Rank";
+$locale['forum_rank_402'] = "Current Ranks";
+$locale['forum_rank_403'] = "Rank System Disabled";
+$locale['forum_rank_404'] = "Pangkat Forum";
+$locale['forum_rank_410'] = "Rank added";
+$locale['forum_rank_411'] = "Rank updated";
+$locale['forum_rank_412'] = "Rank deleted";
+$locale['forum_rank_413'] = "Only one rank can be assigned to admins and mods";
+$locale['forum_rank_414'] = "Please enter a Rank Title";
+$locale['forum_rank_420'] = "Rank Title:";
+$locale['forum_rank_421'] = "Rank Image:";
+$locale['forum_rank_422'] = "Rank Posts:";
+$locale['forum_rank_423'] = "Apply to:";
+$locale['forum_rank_424'] = "Ahli";
+$locale['forum_rank_425'] = "Moderators";
+$locale['forum_rank_426'] = "Penyelia Halaman";
+$locale['forum_rank_427'] = "Super Administrator";
+$locale['forum_rank_429'] = "Rank type:";
+$locale['forum_rank_429a'] = "Special";
+$locale['forum_rank_429b'] = "Admin";
+$locale['forum_rank_429c'] = "Post count";
+$locale['forum_rank_430'] = "Title";
+$locale['forum_rank_431'] = "Applies To";
+$locale['forum_rank_432'] = "Imej";
+$locale['forum_rank_433'] = "Pos";
+$locale['forum_rank_434'] = "Pilihan";
+$locale['forum_rank_437'] = "No Forum Ranks defined.";
+$locale['forum_rank_438'] = "Type / Count";
+$locale['forum_rank_450'] = "Forum ranks are currently disabled.<br/>Please go to the %s Admin Panel to enable.";
+$locale['forum_rank_451'] = "Pengaturan Forum";
 $locale['forum_rank_0100'] = "Forum pangkat digunakan untuk mikro-urus pengguna forum dan menunjukkan prestasi dan aktiviti mereka.";

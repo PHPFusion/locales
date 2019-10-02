@@ -3,7 +3,9 @@ $locale['r100'] = "Penilaian";
 $locale['r101'] = "Belum ada Penilaian lagi.";
 $locale['r102'] = "Gugurkan Penilaian";
 $locale['r103'] = "Beri Penilaian";
-$locale['r104'] = "Penilaian tersedia hanya untuk kegunaan ahli sahaja.\n\nSila [RATING_ACTION] untuk membuat penilaian.";
+$locale['r104'] = "Penilaian tersedia hanya untuk kegunaan ahli sahaja.
+
+Sila [RATING_ACTION] untuk membuat penilaian.";
 $locale['r105'] = "Anda menilai ini sebagai %s di %s";
 $locale['r106'] = "Sila pilih markah penilaian anda";
 $locale['r107'] = "Pilih Penilaian:";

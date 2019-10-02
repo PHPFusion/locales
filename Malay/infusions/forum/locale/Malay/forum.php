@@ -1,26 +1,10 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: forum.php
-| Author: Frederick MC Chan
-| Last updated: Mar 07 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
 $locale['error-DP001'] = "Tiada pos untuk dipadamkan.";
 $locale['error-MP000'] = "Kesalahn Pindaan Pos -";
 $locale['error-MP001'] = "Utusan baru tidak didapati";
 $locale['error-MP002'] = "Pos anda yang ditandakan untuk pindaaan tidak didapati ataupun sesiapa telah meminda pos tersebut.";
+
+
 $locale['forum_0000'] = "Forum";
 $locale['forum_0001'] = "Forum";
 $locale['forum_0002'] = "Utusan";
@@ -36,6 +20,19 @@ $locale['forum_0011'] = "Pos Saya";
 $locale['forum_0012'] = "Utusan Terkini";
 $locale['forum_0013'] = "Kategori Forum";
 $locale['forum_0014'] = "Reputasi";
+$locale['forum_0015'] = "Forum Overview";
+$locale['forum_0016'] = "Activity";
+$locale['forum_0017'] = "People";
+$locale['forum_0018'] = "Person";
+$locale['forum_0019'] = "There are no sub-forums available";
+
+$locale['forum_0020'] = "Last Activity";
+$locale['forum_0021'] = "on %s by %s";
+$locale['forum_0022'] = "Responded in";
+$locale['forum_0023'] = "Re:";
+$locale['forum_0024'] = "See the full discussion posts";
+
+
 $locale['forum_0050'] = "Pandangan Forum";
 $locale['forum_0051'] = "Subjek";
 $locale['forum_0052'] = "Pengarang";
@@ -44,6 +41,8 @@ $locale['forum_0054'] = "Balasan";
 $locale['forum_0055'] = "Halaman:";
 $locale['forum_0056'] = "Tiada utusan didapati";
 $locale['forum_0057'] = "Mulakan Perbincangan Baru";
+$locale['forum_0058'] = "Ask a Question";
+
 $locale['forum_0080'] = "Tandakan Semua";
 $locale['forum_0081'] = "Nyahtandakan Semua";
 $locale['forum_0082'] = "Delete threads";
@@ -65,6 +64,7 @@ $locale['forum_0160'] = "daripada";
 $locale['forum_0161'] = "melampirkan fail yang berikut:";
 $locale['forum_0162'] = "Muat Turun";
 $locale['forum_0163'] = "Anda tidak dibenarkan untuk melihat lampiran di utusan ini.";
+$locale['forum_0163a'] = "Failed to fetch the attachment";
 $locale['forum_0164'] = "disunting terakhir oleh";
 $locale['forum_0165'] = "Sebab-sebab";
 $locale['forum_0166'] = "Click sini untuk sebab suntingan ini.";
@@ -123,14 +123,20 @@ $locale['forum_0260'] = "Pos Baru";
 $locale['forum_0261'] = "Tiada Pos Baru";
 $locale['forum_0262'] = "Utusan Lekit";
 $locale['forum_0263'] = "Utusan Kunci";
-$locale['forum_0264'] = "Mulakan Utusan Baru";
-$locale['forum_0265'] = "Sunting";
+
 $locale['forum_0266'] = "Petikan";
 $locale['forum_0267'] = "pos balas";
 $locale['forum_0268'] = "IP Ahli";
 $locale['forum_0269'] = "Tiada utusan didapati";
 $locale['forum_0270'] = "Tiada pos didapati";
 $locale['forum_0271'] = "Tiada pos di utusan ini didapati lagi. Sila kembali ke &lt;a href=&#039;../../infusions/forum/index.php&#039;&gt;Indeks Forum&lt;/a&gt;";
+$locale['forum_0272'] = "Filter by Tags";
+$locale['forum_0273'] = "Popular Threads This Week";
+$locale['forum_0274'] = "There are no thread tags";
+$locale['forum_0275'] = "There are no threads found";
+$locale['forum_0276'] = "There are no tags defined";
+
+$locale['forum_0300'] = "Move to a new thread";
 $locale['forum_0301'] = "Pilih Forum Baru";
 $locale['forum_0302'] = "Seterus";
 $locale['forum_0303'] = "Pilih Utusan Baru";
@@ -176,7 +182,9 @@ $locale['forum_0396'] = "Pilihan Forum";
 $locale['forum_0397'] = "Tiada forum didapati.";
 $locale['forum_0398'] = "Tidak dapati muat turun fail ini";
 $locale['forum_0399'] = "Tambah Karunia";
+
 $locale['forum_0400'] = "Karunia telah dikemaskinikan. Sila pastikan pilihan jawapan diberi ganjaran karunia.";
+
 $locale['forum_0500'] = "Pratonton Utusan";
 $locale['forum_0501'] = "Pos Utusan";
 $locale['forum_0505'] = "Pratonton";
@@ -243,6 +251,9 @@ $locale['forum_0591'] = "Flush Pos";
 $locale['forum_0592'] = "Flush Utusan";
 $locale['forum_0593'] = "Flush Lampiran";
 $locale['forum_0595'] = "Flush Undian";
+$locale['forum_0596'] = "Soalan";
+$locale['forum_0597'] = "Question|Questions";
+
 $locale['forum_0601'] = "Mesej";
 $locale['forum_0602'] = "Pilihan";
 $locale['forum_0603'] = "Sunting Undian";
@@ -253,7 +264,6 @@ $locale['forum_0606'] = "Pilihan Undian";
 $locale['forum_0607'] = "Undian ditambah";
 $locale['forum_0608'] = "Tambah Pilihan Undian";
 $locale['forum_0609'] = "Kemaskini";
-$locale['forum_0610'] = "Padam";
 $locale['forum_0611'] = "Sebab disunting";
 $locale['forum_0612'] = "Undian telah dikemaskinikan";
 $locale['forum_0613'] = "Isi borang yang berpangkah (**) mempunyai undian atau diperlukan. Biarkan kosong untuk memadamkan pilihan undian.";
@@ -273,6 +283,12 @@ $locale['forum_0640'] = "Dicantumkan pada";
 $locale['forum_0650'] = "Amaran: Anda tidak boleh membanjiri forum ini";
 $locale['forum_0660'] = "Pemberitahuan Notis Balasan - {THREAD_SUBJECT}";
 $locale['forum_0661'] = "Apa Khabar {USERNAME},&#092;nAda balasan telah diposkan dalam forum perbincangan &#039;{THREAD_SUBJECT}&#039; yang diikuti anda di PHP-Fusion Powered Website.&#092;nAnda boleh menggunakan pautan ini untuk memaparkan balasan tersebut:&#092;n&#092;n{THREAD_URL}&#092;nJika anda tidak ingin mengikuti utusan ini, anda boleh klik butang &#039;Berhenti mengikuti utusan ini&#039; di halaman utusan tersebut.&#092;nSalam sejahtera daripada,&#092;nadmin.";
+
+$locale['forum_0662'] = "User Options";
+$locale['forum_0663'] = "Edit User";
+$locale['forum_0664'] = "Ban User";
+$locale['forum_0665'] = "Delete User";
+
 $locale['forum_0701'] = "Utusan ini telah dipadamkan.";
 $locale['forum_0704'] = "Adakah anda pasti untuk memadamkan utusan ini?";
 $locale['forum_0705'] = "Tidak dapat memadam topik perbincangan kerana topik ini tidak wujud";
@@ -285,7 +301,6 @@ $locale['forum_0751'] = "Pinda utusan ke:";
 $locale['forum_0752'] = "Utusan ini telah dipinda.";
 $locale['forum_0759'] = "Utusan ini telah dibaharukan.";
 $locale['forum_0800'] = "Undian tidak dapat diterima";
-$locale['forum_0801'] = "Anda tidak dapat undi untuk kali kedua dalam utusan yang sama.";
 $locale['forum_0802'] = "Anda tidak dapat mengundi pos anda sendiri";
 $locale['forum_0803'] = "Undian telah diterima";
 $locale['forum_2000'] = "Topik Utusan :";
@@ -326,6 +341,8 @@ $locale['forum_4108'] = "Karunia yang telah dianugerahkan seperti yang diminta."
 $locale['forum_4109'] = "Karunia Perbincangan tidak dianugerahkan";
 $locale['forum_4110'] = "Karunia tidak boleh dianugerahkan kepada sendiri";
 $locale['forum_4120'] = "Tiada ID forum atau topik perbincangan ditakrifkan. Sila berikan ID yang sahlaku";
+$locale['forum_4121'] = "There are no activity in this forum.";
+
 $locale['forum_p001'] = "1 Hari";
 $locale['forum_p002'] = "2 Hari";
 $locale['forum_p007'] = "1 Minggu";
@@ -345,5 +362,6 @@ $locale['forum_perm_rate'] = "Anda %s mengundi pos di forum ini.";
 $locale['forum_perm_reply'] = "Anda %s membuat balasan di forum ini.";
 $locale['forum_perm_upload'] = "Anda %s muat naik lampiran di forum ini.";
 $locale['forum_perm_vote_poll'] = "Anda %s mengundi di forum ini.";
+
 $locale['success-DP001'] = "Pos berjaya dipinda";
 $locale['success-DP002'] = "Semua pos telah dipadamkan. Utusan forum akan dipadamkan kerana tiada pos yang tinggal dalam Utusan tersebut";

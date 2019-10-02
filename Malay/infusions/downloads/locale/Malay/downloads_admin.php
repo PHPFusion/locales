@@ -1,33 +1,15 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: downloads_admin.php
-| Author: Frederick MC Chan
-| Last updated: Mar 05 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
-$locale['604'] = "Lebar x Tinggi";
-$locale['930'] = "Saiz maksimum muat naik:";
-$locale['931'] = "Saiz maksimum fail dalam bait";
-$locale['932'] = "Jenis file dibenarkan:";
-$locale['933'] = "Berasingan setiap jenis dengan koma";
-$locale['934'] = "Saiz maksimum tangkapan skrin:";
-$locale['936'] = "Saiz maksimum tangkapan skrin (bait):";
-$locale['937'] = "Saiz maksimum imej jari tangkapan skrin:";
-$locale['938'] = "Gunakan tangkapan skrin?";
-$locale['939'] = "Bilangan Muat turun satu halaman";
-$locale['940'] = "Aktifkan statistik?";
+$locale['download_604'] = "Lebar x Tinggi";
+$locale['download_930'] = "Maximum size uploads:";
+$locale['download_931'] = "Maximum file size in bytes";
+$locale['download_932'] = "Allowed file types:";
+$locale['download_933'] = "Separate each type with a comma";
+$locale['download_934'] = "Maximum screenshot size:";
+$locale['download_936'] = "Maximum screenshot file size (bytes):";
+$locale['download_937'] = "Maximum screenshot thumb size:";
+$locale['download_938'] = "Enable screenshots?";
+$locale['download_939'] = "Downloads items per page";
+$locale['download_940'] = "Enable stats?";
 $locale['download_0000'] = "Muat Turun Terkini";
 $locale['download_0001'] = "Muat Turun";
 $locale['download_0002'] = "Tambah Muat Turun";
@@ -104,7 +86,6 @@ $locale['download_0212'] = "Simpan Muat Turun";
 $locale['download_0213'] = "Kemaskini tarikh penerbitan";
 $locale['download_0214'] = "Fail Muat Turun yang diserah";
 $locale['download_0215'] = "Pautan Muat Turun";
-$locale['download_0216'] = "Padam";
 $locale['download_0217'] = "Mengira saiz fail";
 $locale['download_0218'] = "Max. saiz: %s / Dibenarkan jenis fail: %s";
 $locale['download_0219'] = "Saiz fail maksimum: %s / Dibenarkan jenis fail: %s / Lebar maksimum: %pelarasan, Ketinggian maksimum: %pelarasan";
@@ -113,7 +94,6 @@ $locale['download_0221'] = "Laman web";
 $locale['download_0222'] = "Hak cipta";
 $locale['download_0223'] = "Aktifkan Komen";
 $locale['download_0224'] = "Aktifkan Penilaian";
-$locale['download_0225'] = "Jelas";
 $locale['download_0226'] = "Cuba Muat Turun Pakej";
 $locale['download_0227'] = "Pilihan";
 $locale['download_0249'] = "Tiada Kategori dibuat";
@@ -136,3 +116,4 @@ $locale['download_0309'] = "Simpan Kategori";
 $locale['download_0350'] = "Padamkan kategori Muat Turun ini?";
 $locale['download_0351'] = "Sila masukkan nama kategori.";
 $locale['download_0352'] = "Kategori ini sudah wujud.";
+$locale['download_submit'] = "%s Downloads";

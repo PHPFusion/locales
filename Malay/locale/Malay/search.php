@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Cari ".fusion_get_settings('sitename');
+$locale['400'] = "Search [SITENAME]";
 $locale['401'] = "Mencari:";
 $locale['402'] = "Cari";
 $locale['403'] = "cari apapun atas kalimat tersebut";
@@ -45,4 +45,3 @@ $locale['521'] = "kecocokan";
 $locale['522'] = "ditemukan kriteria kecocokan pencarian";
 //more than 100 results
 $locale['530'] = "Sila menggunakan teks pencarian lebih telus dan jelas. Permintaan anda menemukan %s hasil. Sistem menampilkan hanya 100 hasil utama";
-

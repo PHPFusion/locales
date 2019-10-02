@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Delete Image
 $locale['400'] = "Padam Imej";
 $locale['401'] = "Imej dipadam";
@@ -22,7 +24,6 @@ $locale['442'] = "Padam Imej ini";
 // Image Management
 $locale['460'] = "Imej";
 $locale['461'] = "Papar";
-$locale['462'] = "Padam";
 $locale['463'] = "Folder ini kosong";
 $locale['464'] = "Kemaskinikan senarai imej untuk penyunting TinyMCE";
 // Popup Error/Warning Messages

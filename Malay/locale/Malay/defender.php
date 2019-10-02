@@ -1,20 +1,22 @@
 <?php
 $locale['validate'] = "Sila meyemak dan mengesahkan isi borang.";
-$locale['error_request'] = "Kesalahan didapati semasa memproseskan permintaan anda";
-$locale['regex_error'] = 'Sila meyemak dan mengesahkan isi borang - %s';
+$locale['error_request'] = "Kesalahan didapati semasa memproseskan permintaan anda"; // to be moved
+$locale['regex_error'] = "Sila meyemak dan mengesahkan isi borang - %s"; // to be moved
 // Text fields errors
-$locale['error_input_default'] = 'Sila isikan isi borang ini';
-$locale['error_input_password'] = 'Sila isikan kata laluan yang sah';
-$locale['error_input_email'] = 'Silah isikan  alamat emel yang sah';
-$locale['error_input_number'] = 'Sila isikan nombor sahaja';
-$locale['error_input_url'] = 'Sila isikan pautan web yang sah';
-$locale['error_input_regex'] = 'Sila isikan corak yang sah';
-$locale['error_input_safemode'] = 'Sila isikan isi borang dengan betul';
-$locale['error_input_check'] = 'Sila menyemak isi borang dan isikan kandungan yang sah';
+$locale['error_input_username'] = "Please enter a valid username";
+$locale['error_input_default'] = "Sila isikan isi borang ini";
+$locale['error_input_password'] = "Sila isikan kata laluan yang sah";
+$locale['error_input_email'] = "Silah isikan  alamat emel yang sah";
+$locale['error_input_number'] = "Sila isikan nombor sahaja";
+$locale['error_input_url'] = "Sila isikan pautan web yang sah";
+$locale['error_input_regex'] = "Sila isikan corak yang sah";
+$locale['error_input_safemode'] = "Sila isikan isi borang dengan betul";
+$locale['error_input_check'] = "Sila menyemak isi borang dan isikan kandungan yang sah";
 $locale['df_error_text'] = "Sila betulkan kesilapan di %s dan memerlukan permerhatian anda.";
-$locale['error_invalid_theme'] = 'Sila pilih tema situs yang sah';
-$locale['error_input_checkbox'] = 'Silah tandakan kotak semak ini';
+$locale['error_invalid_theme'] = "Sila pilih tema situs yang sah"; // to be moved
+$locale['error_input_checkbox'] = "Silah tandakan kotak semak ini"; // to be moved
 $locale['error_input_file'] = "Sila pilih fail yang sah";
+$locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
 // Admin Login
 $locale['cookie_title'] = "Sesi Tamat Masa";
 $locale['cookie_description'] = "Tiada pengesahan sah / atau sesi anda mungkin telah tamat masa. Sila log masuk sekali lagi.";
@@ -52,6 +54,15 @@ $locale['token_error_5'] = "Tarikh dan Masa Token tidak Sah.";
 $locale['token_error_6'] = "Post terlampau cepat.";
 $locale['token_error_7'] = "Hash Token tidak Sah.";
 $locale['token_error_8'] = "Format Token tidak Sah.";
+$locale['token_error_9'] = "Cannot find any token for this form.";
+$locale['token_error_10'] = "Cannot find any token for storage: ";
+
+$locale['df_300'] = "Click to add files";
+$locale['df_301'] = "Click to add photo";
+$locale['df_302'] = "Click to add video";
+$locale['df_303'] = "Click to add audio";
+$locale['df_304'] = "Selected file Remove";
+
 $locale['df_400'] = "%s mempunyai kata huruf yang tidak dibenarkan.";
 $locale['df_401'] = "%s bukan alamat emel yang sah.";
 $locale['df_402'] = "%s bukan kata laluan yang sah.";
@@ -59,7 +70,6 @@ $locale['df_403'] = "%s bukan nombor yang sah.";
 $locale['df_404'] = "%s bukan tarikh yang sah.";
 $locale['df_405'] = "%s bukan alamat URL yang sah.";
 $locale['df_415'] = "Nama fail tidak Sah.";
-
 $locale['df_416'] = "Saiz muatan naik melampaui saiz dibenarkan. Sila cuba dengan saiz fail yang kurang daripada %s.";
 $locale['df_417'] = "Jenis fail muatan naik tidak dibenarkan. Imej yang dibenarkan adalah jenis extension - %s";
 $locale['df_418'] = "Muatan naik adalah betul, tetapi jenis tidak dibenarkan. Sila menukar jenis extension fail dan cuba sekali lagi.";
@@ -69,6 +79,7 @@ $locale['df_421'] = "Saiz Imej tidak boleh melampaui %uw x %uh pixels.";
 $locale['df_422'] = "Kasalahan Query";
 $locale['df_423'] = "Imej tidak dapat dimuat naikkan oleh Server dengan betul. Sila cuba sekali lagi.";
 $locale['df_424'] = "Muatan naik ini melampaui batasan yang dibenarkan. Sila cuba sekali lagi dan kurangkan fail yang dipilih.";
+
 // ReCaptcha2
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha_desc'] = "Modul Isi Borang Google Recaptcha";
@@ -76,6 +87,7 @@ $locale['grecaptcha_placeholder_1'] = "SITE KEY daripada Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY daripada Google";
 $locale['no_keys'] = "Anda belum mempunyai kekunci daripada Google lagi? Daftar dan dapatkanlah [RECAPTCHA_LINK]kekunci awam di sini[/RECAPTCHA_LINK]";
 // here
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Kekunci Awam";
 $locale['grecaptcha_0101'] = "Kekunci Swasta";
 $locale['grecaptcha_0102'] = "Tema";

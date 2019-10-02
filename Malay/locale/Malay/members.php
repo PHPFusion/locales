@@ -1,11 +1,20 @@
 <?php
-$locale['400'] = "Senarai Ahli";
-$locale['401'] = "Kata Nama";
-$locale['402'] = "Jenis Ahli";
-$locale['403'] = "Tiada nama ahli yang bermulai dengan ";
-$locale['404'] = "Tampilkan Semua";
-$locale['405'] = "Kumpulan Ahli";
-$locale['406'] = "Tidak didaftarkan kepada sebarang kumpulan ahli";
-$locale['407'] = "Akses untuk kumpulan ahli";
-$locale['408'] = "Cari Ahli:";
-$locale['409'] = "Cari";
+$locale['MEMB_000'] = "Senarai Ahli";
+$locale['MEMB_001'] = "Avatar";
+$locale['MEMB_002'] = "User Name";
+$locale['MEMB_003'] = "User groups";
+$locale['MEMB_004'] = "User Type";
+$locale['MEMB_005'] = "Search for member...";
+$locale['MEMB_006'] = "Cari";
+$locale['MEMB_007'] = "Sort&nbsp;By";
+$locale['MEMB_008'] = "Last Active";
+$locale['MEMB_009'] = "Newly Registered";
+$locale['MEMB_010'] = "Alphabetical";
+
+$locale['MEMB_012'] = "Ascending";
+$locale['MEMB_013'] = "Descending";
+$locale['MEMB_014'] = "Show All";
+$locale['MEMB_015'] = "Not registered to any group";
+$locale['MEMB_016'] = "Access to all groups";
+$locale['MEMB_017'] = "Viewing {%start_row%} - {%end_row%} of {%max_row%} active {%member%}";
+$locale['MEMB_018'] = "There are no user names beginning with: ";

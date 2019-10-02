@@ -1,22 +1,5 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: articles.php
-| Author: Frederick MC Chan
-| Last updated: Mar 03 2017
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
-
+$locale['article_0000'] = "Artikel";
 $locale['article_0001'] = "Semua Artikel";
 $locale['article_0002'] = "Tambah Artikel";
 $locale['article_0003'] = "Sunting Artikel";
