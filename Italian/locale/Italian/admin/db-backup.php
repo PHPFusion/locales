@@ -12,9 +12,6 @@ $locale['412'] = "Nome file ripristino:";
 $locale['413'] = "Data ripristino:";
 $locale['414'] = "Nome database:";
 $locale['415'] = "Prefisso tabelle:";
-$locale['416'] = "Tabelle:";
-$locale['417'] = "Vedi";
-$locale['418'] = "Elimina";
 $locale['419'] = "tabelle";
 // Database Restore
 $locale['430'] = "Opzioni file di ripristino";
@@ -26,7 +23,6 @@ $locale['435'] = "Seleziona:";
 $locale['436'] = "tutte";
 $locale['437'] = "nessuna";
 $locale['438'] = "Ripristina";
-$locale['439'] = "Elimina";
 $locale['440'] = "Tipi di file supportati:";
 // Database Backup
 $locale['450'] = "Crea file di ripristino del database";
@@ -46,4 +42,3 @@ $locale['461'] = "Informazioni obbligatorie";
 $locale['480'] = "Ripristina database da file";
 $locale['481'] = "Nome file:";
 $locale['481b'] = "Inserire il Nome File";
-

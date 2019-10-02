@@ -1,42 +1,44 @@
 <?php
-// Titoli di sezione
-$locale['400'] = "Abilitato Permalinks";
-$locale['401'] = "Disabili Permalink";
+// Section Titles
+$locale['PL_400'] = "Enabled Permalinks";
+$locale['PL_401'] = "Disabled Permalinks";
+$locale['PL_401a'] = "Permalink Settings";
 
-// Comune
-$locale['402'] = "Riscrivere il nome";
-$locale['403'] = "Descrizione";
-$locale['404'] = "Opzioni";
-$locale['404a'] = "Attiva";
-$locale['404b'] = "Disable";
-$locale['404c'] = "Modifica";
-$locale['404d'] = "Reinstallare";
+// Common
+$locale['PL_402'] = "Rewrite Name";
+$locale['PL_403'] = "Description";
+$locale['PL_404'] = "Opzioni";
+$locale['PL_404a'] = "Abilita";
+$locale['PL_404b'] = "Disabilita";
+$locale['PL_404d'] = "Reinstall";
 
-// Permalinks di editing
-$locale['405'] = "Modifica Permalink per %s";
-$locale['406'] = "Tag";
-$locale['407'] = "Descrizione";
-$locale['408'] = "Tipi";
-$locale['409'] = "Modifica modello";
-$locale['410'] = "Permalink tipo % u:";
-$locale['411'] = "Errore";
-$locale['412'] = "Controlla i file del Permalink %s!";
-$locale['413'] = "Salva";
-$locale['414'] = "avviso: Permalinks & Custom Alias verranno definitivamente cancellati! \n sei sicuro che si desidera disattivare questo Permalink?";
-$locale['415'] = "regole di Permalink, trasforma url che ha punti interrogativi ed è uguale a segni e lascia il tuo personalizzare la struttura di URL personalizzato per il tuo sito. \n
-Puoi accendere il Permalink nella scheda Impostazioni e attivare i permalink trovati nelle relative schede. Dopo aver aver attivato, è possibile modificare le regole per personalizzare ulteriormente le proprie preferenze modificandole. ";
+// Editing Permalinks
+$locale['PL_405'] = "Editing Permalinks for %s";
+$locale['PL_406'] = "Etichetta";
+$locale['PL_407'] = "Description";
+$locale['PL_408'] = "Types";
+$locale['PL_409'] = "Edit Pattern";
+$locale['PL_410'] = "Permalink type %u:";
+$locale['PL_411'] = "Errore";
+$locale['PL_412'] = "Check the files of the Permalink %s!";
+$locale['PL_413'] = "Salva";
+$locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
+$locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
+                  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>
+                  Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
 
-// Messaggi di admin
-$locale['420'] = "An Error occurred.";
-$locale['421'] = "Permalinks Updated successfully.";
-$locale['422'] = "Nessun Permalink modelli trovati per %s.";
-$locale['423'] = "Permalink non trovato.";
-$locale['424'] = "Enabled Permalink per %s con successo.";
-$locale['425'] = "Permalink per %s sono già abilitati.";
-$locale['426'] = "disabili Permalink per %s con successo.";
+// Admin Messages
+$locale['PL_420'] = "An Error occurred.";
+$locale['PL_421'] = "Permalinks Updated successfully.";
+$locale['PL_422'] = "No Permalink patterns found for %s.";
+$locale['PL_423'] = "Permalink not found.";
+$locale['PL_424'] = "Enabled Permalinks for %s successfully.";
+$locale['PL_425'] = "Permalinks for %s are already enabled.";
+$locale['PL_426'] = "Disabled Permalinks for %s successfully.";
+$locale['PL_429'] = "Permalink Driver for %s";
 
-// Altri
-$locale['427'] = "Nessun Permalinks sono attivati.";
-$locale['428'] = "Permalink";
+// Other
+$locale['PL_427'] = "No Permalinks are enabled.";
+$locale['PL_428'] = "Permalink";
 $locale['seo_htc_warning'] = "Per favore nota che se una di queste impostazioni è modificare il contenuto di '. htaccess' verrà sovrascritti e le eventuali modifiche fare in precedenza per questo file saranno perse.";
-$locale['rewrite_disabled'] = "sembra che 'mod_rewrite' non è abilitato sul vostro host. Abilitazione di SEF URL potrebbe rompere il tuo sito Web. Si prega di contattare il tuo provider di hosting sull'abilitazione 'mod_rewrite' sul vostro host. "; 
+$locale['rewrite_disabled'] = "sembra che 'mod_rewrite' non è abilitato sul vostro host. Abilitazione di SEF URL potrebbe rompere il tuo sito Web. Si prega di contattare il tuo provider di hosting sull'abilitazione 'mod_rewrite' sul vostro host. ";

@@ -1,5 +1,5 @@
 <?php
-//Nuove impostazioni locali per campi quantistici
+// New locale for Quantum Fields
 $locale['fields_0100'] = "la pagina aggiunge campo direttamente nella tabella: %s";
 $locale['fields_0101'] = "Questa pagina aggiunge campi direttamente nella tabella: %s, combinando sé con DB_USERS via colonna %s";
 $locale['fields_0102'] = "Non esistono campi aggiunti nel";
@@ -64,6 +64,7 @@ $locale['fields_0433'] = "Ordine di categoria";
 $locale['fields_0434'] = "Tabella primaria (%s)";
 $locale['fields_0435'] = "Tabella utente colonna primaria";
 $locale['fields_0436'] = "Icona classe";
+$locale['fields_0437'] = "icon for tabs";
 
 $locale['fields_0450'] = "Seleziona categoria";
 $locale['fields_0451'] = "Campo Title";
@@ -100,7 +101,8 @@ $locale['fields_0482'] = "Campo obbligatorio";
 $locale['fields_0483'] = "Campo Log";
 $locale['fields_0484'] = "Ordine dei campi";
 $locale['fields_0485'] = "Campo registrazione";
-$locale['fields_0488'] = "Campo Salva"; 
+$locale['fields_0488'] = "Campo Salva";
+$locale['fields_0489'] = "Images Only";
 
 $locale['fields_0490'] = "Byte (byte)";
 $locale['fields_0491'] = "KB (kilobyte)";
@@ -126,3 +128,25 @@ $locale['fields_0515'] = "Url Web";
 $locale['fields_0600'] = "Ci sono %s sub-category(s) in questa categoria";
 $locale['fields_0601'] = "Ci sono %s uno o più campi in questa categoria";
 $locale['fields_0602'] = "questo modulo non può essere installato. Mancano informazioni di colonna di tabella. ";
+
+$locale['fields_0650'] = "Move Field ID ";
+$locale['fields_0651'] = " Up a slot and Field ID [FIELD_ID] down a slot.";
+$locale['fields_0652'] = " Down a slot and Field ID [FIELD_ID] up a slot.";
+$locale['fields_0653'] = "No result";
+$locale['fields_0654'] = "Delete Fields";
+$locale['fields_0655'] = "Cat ID was not found. Please check again.";
+$locale['fields_0656'] = "Category ID was not found. Please check again.";
+$locale['fields_0657'] = " set for load.";
+$locale['fields_0658'] = " loaded.";
+$locale['fields_0659'] = " locale missing!";
+$locale['fields_0660'] = "No modules found";
+$locale['fields_0661'] = "Update Mode";
+$locale['fields_0662'] = "Save Mode";
+$locale['fields_0663'] = "Table Name";
+$locale['fields_0664'] = "Old table information -";
+$locale['fields_0665'] = "New table information -";
+$locale['fields_0666'] = "Fork No.1 - Update Field on a different table";
+$locale['fields_0667'] = "Column conflict. There are columns on [OLD_TABLE] existed in ";
+$locale['fields_0668'] = "Fork No.2 - Update Field on the same table";
+$locale['fields_0669'] = "Renaming column [FIELD_NAME] on [OLD_TABLE] to [FIELD_NAME_] with attributes of ";
+$locale['fields_0670'] = "Old Data";

@@ -8,7 +8,6 @@ $locale['susp05'] = "Cancellati";
 $locale['susp06'] = "Anonimizzati";
 $locale['susp07'] = "Disattivati";
 $locale['susp08'] = "Inattivi";
-
 $locale['susp10'] = "Reinstate";
 $locale['susp11'] = "Ban";
 $locale['susp12'] = "Disattivati";
@@ -18,9 +17,7 @@ $locale['susp15'] = "Annulla";
 $locale['susp16'] = "Anonimizza";
 $locale['susp17'] = "Disattiva";
 $locale['susp18'] = "Inattiva";
-
 $locale['susp_sys'] = "Azioni nel sistema";
-
 $locale['susp100'] = "Registro utenti di %s";
 $locale['susp100b'] = "%s registrazioni per %s";
 $locale['susp101'] = "Tutte le registrazioni di %s";
@@ -34,8 +31,7 @@ $locale['susp108'] = "IP";
 $locale['susp109'] = "Azione di sistema";
 $locale['susp110'] = "Nessuna registrazione di sistema per questo utente.";
 $locale['susp111'] = "Attivato";
-$locale['susp112'] = "IP: "; 
+$locale['susp112'] = "IP: ";
 $locale['susp113'] = "Lifted";
 $locale['susp114'] = "Log di sospensione";
 $locale['susp115'] = "Membri";
-

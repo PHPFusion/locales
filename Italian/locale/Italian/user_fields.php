@@ -1,5 +1,5 @@
 <?php
-// Items shown in profiles
+// Items shown in profile
 $locale['u040'] = "Data iscrizione";
 $locale['u041'] = "Ultima visita";
 $locale['u042'] = "Nessuna visita";
@@ -28,12 +28,10 @@ $locale['u064'] = "Email";
 $locale['u066'] = "Data iscrizione";
 $locale['u067'] = "Ultima visita";
 $locale['u068'] = "Nome utente";
-$locale['u069'] = "Modifica";
 $locale['u070'] = "Banna";
 $locale['u071'] = "Sospendi";
-$locale['u072'] = "Elimina";
 $locale['u073'] = "Eliminare questo utente?";
-
+$locale['u074'] = "Unban";
 // Profile and register
 $locale['u100'] = "Per poter modificare la tua password o il tuo indirizzo email<br />devi anche fornire la tua password attuale.";
 $locale['u101'] = "Registrati";
@@ -59,8 +57,11 @@ $locale['u111'] = "%u utente";
 $locale['u112'] = "%u utenti";
 $locale['u113'] = "Nome utente";
 $locale['u114'] = "Tipo utente";
-
+$locale['u115'] = "Language";
+$locale['u116'] = "There are no group members.";
+$locale['u117'] = "No user groups.";
 // User name and email
+$locale['u119'] = "User name contains.";
 $locale['u120'] = "Il Nome utente da te scelto contiene caratteri non permessi.";
 $locale['u121'] = "Il Nome utente da te scelto è già utilizzato da un altro utente registrato.";
 $locale['u122'] = "Il Nome utente è un campo obbligatorio.";
@@ -71,7 +72,6 @@ $locale['u126'] = "Il campo Email è obbligatorio.";
 $locale['u127'] = "Nome utente";
 $locale['u128'] = "Email";
 $locale['u129'] = "Informazioni account";
-
 // Passwords
 $locale['u130'] = "Password amministrativa";
 $locale['u131'] = "Password amministratore";
@@ -96,35 +96,41 @@ $locale['u144'] = "Nuova password dell'amministratore";
 $locale['u144a'] = "Password amministratore corrente";
 $locale['u145'] = "Conferma password amministratore";
 $locale['u146'] = "non può essere lo stesso come il tuo attuale";
-$locale['u147'] = "la Password deve essere lunga tra 8 e 64 caratteri.\n\rSimboli permessi sono a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
+$locale['u147'] = "la Password deve essere lunga tra 8 e 64 caratteri.
+Simboli permessi sono a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
 $locale['u148'] = "Nuova password di Login non sono identiche.";
 $locale['u148a'] = "Nuovo Admin password non sono identiche.";
 $locale['u149'] = "La Password di accesso corrente non è stata specificata o non è valida.";
 $locale['u149a'] = "La Password di amministratore corrente non è stata specificata o non è valida.";
-$locale['u149b'] = "La Password di accesso corrente non è stata specificata o è invalid.\n\rNon puoi impostare la password di amministratore senza la password corretta.";
-
-// Email actiation
+$locale['u149b'] = "La Password di accesso corrente non è stata specificata o è invalid.
+Non puoi impostare la password di amministratore senza la password corretta.";
+// Email activation
 $locale['u150'] = "La tua registrazione è quasi completata, riceverai una email di conferma contenente un link per attivare definitivamente il tuo account.";
-
 $locale['u151'] = "Benvenuto su [SITENAME]";
+$locale['u152'] = "Ciao USER_NAME,
+grazie per esserti registrato su [SITENAME]. Questi sono i dati con cui ti sei registrato:
 
-$locale['u152'] = "Ciao USER_NAME,\n\rgrazie per esserti registrato su [SITENAME]. Questi sono i dati con cui ti sei registrato:\n\r
-Username: [USER_NAME]\n\r
-Password: [USER_PASSWORD]\n\r
-Puoi attivare definitivamente il tuo account clickando sul seguente link: ACTIVATION_LINK\n\n\r\rSaluti,\n\rSITEUSERNAME";
+Username: [USER_NAME]
+
+Password: [USER_PASSWORD]
+
+Puoi attivare definitivamente il tuo account clickando sul seguente link: ACTIVATION_LINK
+
+Saluti,
+SITEUSERNAME";
 
 $locale['u153'] = "L'email di attivazione non può essere inviata. Contatta l'amministratore.";
 $locale['u154'] = "Si prega di [LINK]contact[/LINK] l'amministratore del sito.";
 $locale['u155'] = "Attiva account";
 $locale['u156'] = "Specifica la tua password attuale per poter modificare l'indirizzo email.";
-
 // Success / Fail
 $locale['u160'] = "Registrazione completata con successo!";
 $locale['u161'] = "Adesso puoi effettuare il login.";
 $locale['u162'] = "Un amministratore attiverà il tuo account a breve.";
 $locale['u163'] = "Il tuo profilo è stato aggiornato correttamente.";
 $locale['u164'] = "Aggiornamento fallito";
-//$locale['u165'] = "Registrazione fallita";
+$locale['u165'] = "Email has been resended.";
+
 $locale['u167'] = "a causa dei seguenti errori:";
 $locale['u168'] = "Per favore riprova.";
 $locale['u169'] = "Profilo aggiornato";
@@ -133,34 +139,38 @@ $locale['u171'] = "Il tuo account è stato verificato.";
 $locale['u172'] = "Utente aggiunto con successo.";
 $locale['u173'] = "Torna alla Gestione Utenti.";
 $locale['u174'] = "Aggiungi un altro utente.";
-
 // Avatar upload
 $locale['u180'] = "Le dimensioni del tuo avatar superano il limite consentito.";
-// $locale['u181'] = "Il tuo avatar è in un formato non consentito. I formati validi sono: jpg, png e gif.";
-// $locale['u182'] = "La risoluzione del tuo avatar supera i limiti imposti di  ".$settings['avatar_width']."x".$settings['avatar_height']." pixel.";
-// $locale['u183'] = "Il tuo avatar non è stato caricato corretamente.";
+
 $locale['u184'] = "Dimensione massima: %s / Max. size: %ux%u pixels";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Clica su Sfoglia per caricare una immagine.";
-$locale['u187'] = "Rimuovi";
-
 // Captcha and terms
 $locale['u190'] = "Codice di validazione";
 $locale['u191'] = "Inserisci il codice di validazione";
 $locale['u192'] = "Termini d'uso";
 $locale['u193'] = "Ho letto i [LINK]Terms of Agreement[/LINK] e sono d'accordo con essi.";
+$locale['u193a'] = "Aggiornato";
+$locale['u193b'] = "I agree";
 $locale['u194'] = "Codice di validazione non corretto.";
 $locale['u195'] = "Il codice di validazione è obbligatorio.";
-
 // E-mail Change Confirmation
 $locale['u200'] = "A verify email has been sent to your new email address (%s).";
 $locale['u201'] = "Your email address will be changed when you click the link in the mail.";
 $locale['u202'] = "E-mail address verify - [SITENAME]";
-$locale['u203'] = "Hello [USER_NAME],\n
-qualcuno vuole utilizzare il tuo indirizzo email sul nostro sito web.\n
-Se è quello che desideri, clicka sul seguente link:\n
-[EMAIL_VERIFY_LINK]\n
-Nota bene: dovrai fare il login per far sì che la procedura abbia successo.\n
+$locale['u203'] = "Hello [USER_NAME],
+
+qualcuno vuole utilizzare il tuo indirizzo email sul nostro sito web.
+
+Se è quello che desideri, clicka sul seguente link:
+
+[EMAIL_VERIFY_LINK]
+
+Nota bene: dovrai fare il login per far sì che la procedura abbia successo.
+
 Grazie,
-[SITEUSERNAME]\n\r
+[SITEUSERNAME]
+
 [SITENAME]";
+
+$locale['u210'] = "User Reputation";

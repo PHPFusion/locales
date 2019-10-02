@@ -1,6 +1,6 @@
 <?php
 // Infusion Management
-$locale['400'] = "Infusions";
+$locale['400'] = "Infusion (Addon)";
 $locale['401'] = "Installa";
 $locale['402'] = "Questo elemento e gia installato";
 $locale['403'] = "Questo elemento non puo essere installato";
@@ -23,3 +23,5 @@ $locale['419'] = "Opzioni";
 $locale['420'] = "Versione";
 $locale['421'] = "Autore";
 $locale['422'] = "Scarica più Addons";
+$locale['423'] = "%s Infusion has been installed";
+$locale['424'] = "%s Infusion has been uninstalled";

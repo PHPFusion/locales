@@ -9,8 +9,9 @@ $locale['411'] = "Commento eliminato";
 $locale['420'] = "Disabilita smileys in questo commento";
 $locale['421'] = "Salva commento";
 // Comments
-$locale['430'] = "Modifica";
 $locale['431'] = "Cancella";
 $locale['432'] = "IP Utente:";
 $locale['433'] = "Eliminare questo commento?";
 $locale['434'] = "Non sono stati scritti commenti.";
+$locale['435'] = "Do you really want to add this user to a blacklist?";
+$locale['436'] = "Your comment are blacklisted.";

@@ -1,5 +1,5 @@
 <?php
-// Pulsanti Descrizione
+/* Buttons description */
 $locale['html_000'] = "Bold";
 $locale['html_001'] = "Corsivo";
 $locale['html_002'] = "Sottolineato";
@@ -12,7 +12,7 @@ $locale['html_008'] = "Allinea a destra";
 $locale['html_009'] = "Align justify";
 $locale['html_010'] = "Inserisci Link";
 $locale['html_011'] = "Inserisci immagine";
-$locale['html_012'] = "Center";
+$locale['html_012'] = "Centro";
 $locale['html_013'] = "Piccolo";
 $locale['html_014'] = "Small2";
 $locale['html_015'] = "Alt";
@@ -20,6 +20,7 @@ $locale['html_016'] = "Pagebreak";
 $locale['html_017'] = "Colore";
 $locale['html_018'] = "Paragrafo";
 $locale['html_019'] = "Voci";
+$locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Testo";
 $locale['preview'] = "Anteprima";

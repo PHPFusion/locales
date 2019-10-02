@@ -21,6 +21,7 @@ $locale['417'] = "Visualizza mittenti con lettera:";
 $locale['418'] = "Tutti";
 $locale['419'] = "Non hai messaggi privati";
 $locale['420'] = "Invia messaggio privato";
+$locale['420a'] = "Recipient";
 $locale['421'] = "A";
 $locale['422'] = "Messaggio";
 $locale['423'] = "BBcode";
@@ -35,10 +36,7 @@ $locale['431'] = "Leggi messaggi privati";
 $locale['432'] = "Chiudi";
 $locale['433'] = "Rispondi";
 $locale['434'] = "Invia a tutti";
-$locale['435'] = "Cancella";
-$locale['436'] = "Anteprima risposta";
 $locale['437'] = "Invia";
-$locale['438'] = "Anteprima messaggio";
 $locale['439'] = "Rispondi";
 $locale['440'] = "(ricevuto il %s)";
 $locale['441'] = "Scrivi come gestore sito";
@@ -49,7 +47,8 @@ $locale['445'] = "Configurazione salvata";
 $locale['446'] = "I messaggi non letti";
 $locale['447'] = "Leggi messaggi";
 $locale['448'] = "Impostazioni";
-// Search Options
+
+// Search Options -- this is used by Search.php
 $locale['450'] = "Ordine di ricerca e opzioni";
 $locale['451'] = "Cerca / Ordina";
 $locale['452'] = "Svuota";
@@ -61,7 +60,7 @@ $locale['457'] = "(Usa ? e * come caratteri speciali)";
 $locale['458'] = "Visualizzazione dei membri con '%s' in '%s' ";
 $locale['459'] = "Mittenti che cominciano per '%s' ";
 $locale['460'] = "Ordina per '%s'";
-$locale['461'] = "Casella messaggi privati vuota";
+$locale['461'] = "Casella messaggi privati vuota"; // del
 $locale['462'] = "Oggetto";
 $locale['463'] = "Messaggio";
 $locale['464'] = "Mittente";
@@ -70,7 +69,9 @@ $locale['466'] = "Non selezionato";
 $locale['467'] = "Nessuna conversazione selezionata";
 $locale['468'] = "Avvia una nuova conversazione con %s";
 $locale['469'] = "Rispondi a %s";
+
 $locale['471'] = "Non sono presenti messaggi";
+
 // Error Messages
 $locale['480'] = "Errore";
 $locale['481'] = "ID messaggio errato";
@@ -90,6 +91,7 @@ $locale['493'] = "Segna tutti come letti";
 $locale['494'] = "Segna come letto";
 $locale['495'] = "Segna come non letto";
 $locale['496'] = "Segna tutti come letti";
+
 // Tooltips
 $locale['500'] = "Clicca per scrivere un nuovo messaggio";
 $locale['501'] = "Clicca per vedere i messaggi ricevuti";
@@ -113,6 +115,7 @@ $locale['521'] = "non comunica";
 $locale['522'] = "Sì, tienimi informato";
 $locale['523'] = "Non mantenere un record";
 $locale['524'] = "Sì, mantenere i miei messaggi inviati";
+
 // Options
 $locale['620'] = "Opzioni";
 $locale['621'] = "Notifica via Email al ricevimento di un nuovo PM:";
@@ -120,10 +123,13 @@ $locale['622'] = "Salva automaticamente i messaggi inviati:";
 $locale['623'] = "Salva Opzioni";
 $locale['624'] = "Opzioni Salvate";
 $locale['625'] = "Hai un nuovo messaggio su ".fusion_get_settings('sitename');
-$locale['626'] = ",\r\nHai ricevuto un messaggio privato con oggetto [SUBJECT] da [USER] su ".fusion_get_settings('sitename').". Per leggerlo vai su ".fusion_get_settings('siteurl')."messages.php\r\n\r\nPuoi disabilitare questa notifica attraverso il pannello opzioni all'interno dell'area messaggi privati del sito.";
+$locale['626'] = ",<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can [LINK]read[/LINK] your private message.You can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.";
 $locale['627'] = "Errore";
 $locale['628'] = "Impossibile inviare il messaggio. La casella In Arrivo utente É piena.";
 $locale['629'] = "Non puoi spostare il messaggio selezionato nella cartella desiderata perché supera il limite massimo.";
 $locale['630'] = " Limite Messaggi";
-$locale['631'] = "Si";
-$locale['632'] = "No";
+
+$locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
+$locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
+$locale['702'] = "Message Recipient User ID is invalid";
+$locale['703'] = "You are flooding, send_pm halted";

@@ -18,3 +18,4 @@ $locale['testimonial_join'] = "Sono entrato in questo sito Web su %s";
 $locale['testimonial_web'] = "Ho anche eseguito un altro sito Web a %s";
 $locale['testimonial_contact'] = "Se avete bisogno di contattarmi, potete raggiungerli a %s";
 $locale['testimonial_email'] = "Si può anche contattarmi al mio indirizzo di posta elettronica a %s";
+$locale['blog_archive'] = "%b %Y";

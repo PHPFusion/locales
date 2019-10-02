@@ -1,32 +1,38 @@
 <?php
-//Titoli di smiley
-$locale['400'] = "Smileys corrente";
-$locale['401'] = "Aggiungi Smiley";
-$locale['402'] = "Modifica Smiley";
-$locale['403'] = "Smileys";
-//Messaggi di smiley
-$locale['410'] = "Smiley aggiunto";
-$locale['411'] = "Smiley aggiornato";
-$locale['412'] = "Smiley cancellato";
-$locale['413'] = "Impossibile aggiornare smiley";
-$locale['414'] = "Impossibile aggiungere Smile";
-$locale['415'] = "il codice di smiley è in uso.";
-$locale['416'] = "Vuoi davvero eliminare questo smiley?";
-//Forma di smiley
-$locale['420'] = "smiley codice:";
-$locale['421'] = "immagine smiley:";
-$locale['422'] = "testo di smiley:";
-$locale['423'] = "Salva Smiley";
-$locale['424'] = "anteprima di smiley:";
-//Corrente Smileys
-$locale['430'] = "Codice";
-$locale['431'] = "Immagine";
-$locale['432'] = "Testo";
-$locale['433'] = "Opzioni";
-$locale['434'] = "Modifica";
-$locale['435'] = "Cancella";
-$locale['436'] = "Non ci sono smiley definiti.";
-//Messaggio di errore
-$locale['437'] = "Inserisci un codice di Smiley";
-$locale['438'] = "Seleziona uno Smiley";
-$locale['439'] = "Inserire un testo di Smiley";
+// Smiley titles
+$locale['SMLY_400'] = "Current Smileys";
+$locale['SMLY_401'] = "Add Smiley";
+$locale['SMLY_402'] = "Edit Smiley";
+$locale['SMLY_403'] = "Smileys";
+$locale['SMLY_404'] = "Active Smileys";
+$locale['SMLY_405'] = "Inactive Smileys";
+// Smiley messages
+$locale['SMLY_410'] = "Smiley added";
+$locale['SMLY_411'] = "Smiley updated";
+$locale['SMLY_412'] = "Smiley deleted";
+$locale['SMLY_413'] = "Inactive Smileys";
+
+$locale['SMLY_414'] = "The smiley Text is in use.";
+$locale['SMLY_415'] = "The smiley Code is in use.";
+$locale['SMLY_416'] = "Do you really want to delete this smiley?";
+$locale['SMLY_417'] = "Do you really want to deactivate this smiley?";
+$locale['SMLY_418'] = "Error Uploading smiley";
+// Smiley form
+$locale['SMLY_420'] = "Smiley Code:";
+$locale['SMLY_421'] = "Smiley Image:";
+$locale['SMLY_422'] = "Smiley Text:";
+$locale['SMLY_423'] = "Save Smiley";
+$locale['SMLY_424'] = "Update Smiley";
+// Current Smileys
+$locale['SMLY_430'] = "Code";
+$locale['SMLY_431'] = "Immagine";
+$locale['SMLY_432'] = "Testo";
+$locale['SMLY_433'] = "Opzioni";
+$locale['SMLY_435'] = "Inattivo";
+$locale['SMLY_436'] = "There are no smileys defined.";
+// Error Message
+$locale['SMLY_437'] = "Please enter a Smiley Code";
+$locale['SMLY_438'] = "Please select a Smiley";
+$locale['SMLY_439'] = "Please enter a Smiley Text";
+$locale['SMLY_440'] = "No active Smileys";
+$locale['SMLY_441'] = "No inactive Smileys";

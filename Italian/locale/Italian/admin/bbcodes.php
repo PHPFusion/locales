@@ -1,24 +1,29 @@
 <?php
-$locale['400'] = "Amministrazione BBcode";
-$locale['401'] = "Prova BBcode";
+$locale['BBCA_400'] = "BBcode";
+$locale['BBCA_400a'] = "BB Codes Admin";
+$locale['BBCA_401'] = "Test BB Codes";
 // Enabled BB Codes
-$locale['402'] = "BBcode Attivi";
-$locale['403'] = "Nome";
-$locale['404'] = "Icona";
-$locale['405'] = "Descrizione";
-$locale['406'] = "Uso";
-$locale['407'] = "Ordine";
-$locale['408'] = "Sotto";
-$locale['409'] = "Sopra";
-$locale['410'] = "Disabilita";
-$locale['411'] = "Non ci sono BBcode attivi.";
+$locale['BBCA_402'] = "Enabled BB Codes";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Description";
+$locale['BBCA_406'] = "Usage";
+$locale['BBCA_407'] = "Elemento ordine";
+$locale['BBCA_408'] = "Down";
+$locale['BBCA_409'] = "Up";
+$locale['BBCA_410'] = "Disabilita";
+$locale['BBCA_411'] = "There are no BB Codes enabled.";
 // Disabled BB Codes
-$locale['413'] = "BBcode disabilitati";
-$locale['414'] = "Abilita";
-$locale['415'] = "Taglio linea";
-$locale['416'] = "Non si sono BBcode disabilitati.";
+$locale['BBCA_413'] = "Disabled BB Codes";
+$locale['BBCA_414'] = "Abilita";
+$locale['BBCA_416'] = "There are no BB Codes disabled.";
 // Test BB Codes
-$locale['417'] = "Prova visualizzazione BBcode";
-$locale['418'] = "Disabilita smileys durante la prova";
-$locale['418a'] = "Prova Messaggio";
-$locale['418b'] = "Inserire il messaggio di prova per BBcode.";
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Disable smileys in this test";
+$locale['BBCA_418a'] = "Test Message";
+$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+// Notices
+$locale['BBCA_430'] = "BB Code has been moved Up.";
+$locale['BBCA_431'] = "BB Code has been moved Down.";
+$locale['BBCA_432'] = "BB Code has been Enabled.";
+$locale['BBCA_433'] = "BB Code has been Disabled.";

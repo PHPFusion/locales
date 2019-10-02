@@ -1,6 +1,7 @@
 <?php
-// Collegamenti di admin Backend
+// Admin Links
 $locale['200'] = "Pannello di amministrazione [SITENAME]";
+$locale['200a'] = "Pannello di amministrazione";
 $locale['ac00'] = "Admin Home";
 $locale['ac01'] = "Contenuto Admin";
 $locale['ac02'] = "Utente Admin";
@@ -9,8 +10,8 @@ $locale['ac04'] = "Impostazioni";
 $locale['ac05'] = "Infusion";
 $locale['ac10'] = "Pannello Admin";
 $locale['202'] = "Configurazione del profilo utente";
-$locale['AD'] = "Administrators";
-$locale['AWPR'] = "Admin Password Reset";
+
+// Pre-defined sections
 $locale['AC'] = "Articolo categorie";
 $locale['A'] = "Articoli";
 $locale['BLOG'] = "Blog";
@@ -18,7 +19,6 @@ $locale['BLC'] = "Categorie di Blog";
 $locale['CP'] = "Pagine personalizzate";
 $locale['DC'] = "categorie di scaricamento";
 $locale['D'] = "Downloads";
-$locale['ESHP'] = "eShop";
 $locale['FQ'] = "Domande frequenti";
 $locale['F'] = "Forum";
 $locale['IM'] = "Immagini";
@@ -32,12 +32,13 @@ $locale['PH'] = "Galleria";
 $locale['B'] = "Lista nera";
 $locale['C'] = "Commenti";
 $locale['DB'] = "Backup Database";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "Info su PHP";
 $locale['PO'] = "Sondaggi";
 $locale['SL'] = "Link Navigazione";
 $locale['SU'] = "Contributi";
 $locale['U'] = "Aggiornamento";
 $locale['UG'] = "Gruppi utenti";
+$locale['UP'] = "Users Profile";
 $locale['WC'] = "Web Link categorie";
 $locale['W'] = "Collegamenti Web";
 $locale['S1'] = "Impost. Principali";
@@ -57,9 +58,9 @@ $locale['S11'] = "Download";
 $locale['S10'] = "Elementi per pagina";
 $locale['SB'] = "Banner";
 $locale['S12'] = "Sicurezza";
-$locale['APWR'] = "Admin Password Reset";
-$locale['ERRO'] = "Error Log";
-$locale['AD'] = "Administrators";
+$locale['APWR'] = "Reimposta password amministrativa";
+$locale['ERRO'] = "Registro errori";
+$locale['AD'] = "Amministratori";
 $locale['UL'] = "Accesso utente";
 $locale['MAIL'] = "Email modelli";
 $locale['PL'] = "Permalink";
@@ -67,7 +68,9 @@ $locale['ROB'] = "Robots.txt";
 $locale['TS'] = "Tema";
 $locale['S13'] = "Impostazioni Blog";
 $locale['LANG'] = "Impostazioni Lingua";
-// Informazioni sul sito
+$locale['FM'] = "Fusion File Manager";
+
+// Site Information
 $locale['250'] = "Panoramica Pannello Amministrazione";
 $locale['251'] = "Iscritti";
 $locale['252'] = "Membri non Attivi";
@@ -112,3 +115,14 @@ $locale['283'] = "Infusion";
 $locale['284'] = "Non ci sono infusion installati";
 $locale['285'] = "Gestione infusion";
 $locale['286'] = "Review presentazione";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

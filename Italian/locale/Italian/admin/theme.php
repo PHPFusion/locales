@@ -35,13 +35,17 @@ $locale['theme_1031'] = "questo tema non supporta widget tema";
 $locale['theme_1032'] = " ci sono widget in questo tema ma non installato. Si desidera installarlo?";
 $locale['theme_1033'] = " attenzione: tutti i dati andranno persi se disinstallare. Si desidera procedere?";
 $locale['theme_1034'] = "Aggiungi nuovo predefinito";
+$locale['theme_1035'] = "No description available for this theme.";
+$locale['theme_1036'] = "Readme";
+$locale['theme_1037'] = "Select Theme Pack";
 
 $locale['theme_2001'] = "Font di Base";
 $locale['theme_2002'] = "Tema Components";
 $locale['theme_2003'] = "Navigazione";
 $locale['theme_2004'] = "Font di Base";
 $locale['theme_2005'] = "Ricostruzione nuovo %s tema";
-$locale['theme_2006'] = " The Atom Theme Engine attualmente sta ricostruendo il vostro tema e può richiedere fino a 15 a 30 secondi a seconda della rete stato. \nPlease non chiudere o aggiornare la finestra.";
+$locale['theme_2006'] = " The Atom Theme Engine attualmente sta ricostruendo il vostro tema e può richiedere fino a 15 a 30 secondi a seconda della rete stato. 
+Please non chiudere o aggiornare la finestra.";
 $locale['theme_2007'] = "Custom Preset titolo.";
 $locale['theme_2008'] = "Template";
 $locale['theme_2009'] = "Scegli colore";
@@ -110,11 +114,8 @@ $locale['theme_4010'] = "Colore bordo Link";
 $locale['theme_4011'] = "Testo Logo orizzontale";
 $locale['theme_4012'] = "Colore testo";
 $locale['theme_4013'] = "Collegamento colore";
-$locale['theme_4014'] = "Testo Styling"; 
-
-
+$locale['theme_4014'] = "Testo Styling";
 $locale['theme_4015'] = "Styling testo orizzontale";
-$locale['theme_4016'] = "Link Styling";
 $locale['theme_4016'] = "Styling testo orizzontale";
 
 $locale['theme_5000'] = "Normale";
@@ -145,3 +146,4 @@ $locale['theme_error_005'] = "il file Impossibile da verificare. Si prega di est
 $locale['theme_error_006'] = "il server non supporta il ZipArchive. Si prega di estrarre lo zip e fare l'upload di un FTP manuale";
 $locale['theme_error_007'] = "tema non può ricostruire per i seguenti motivi: - non sono state impostate le variabili o forma è ha errore";
 $locale['theme_error_008'] = "errore del compilatore. Tema non è stato aggiornato. ";
+$locale['theme_error_009'] = "File theme.php was not found.";

@@ -10,7 +10,17 @@ $locale['407'] = "Inserisci Indirizzo email con il quale il tuo account è regis
 Sar&agrave; creata una nuova password ed inviata a questo indirizzo email.";
 $locale['408'] = "Invia password";
 $locale['409'] = "Nuova password per ";
-$locale['410'] = "Ciao [USER_NAME],\nè stata richiesta una nuova password per accedere al tuo account [SITENAME] \n
-Per confermare il cambio password clicca sul seguente link:\n[NEW_PASS_LINK]\nSaluti,\n[SITEUSERNAME]";
-$locale['411'] = "Ciao [USER_NAME],\nLa tua nuova password per accedere al tuo account [SITENAME] è:\n[NEW_PASS]\nSaluti,\n[SITEUSERNAME]";
+$locale['410'] = "Ciao [USER_NAME],
+è stata richiesta una nuova password per accedere al tuo account [SITENAME] 
+
+Per confermare il cambio password clicca sul seguente link:
+[NEW_PASS_LINK]
+Saluti,
+[SITEUSERNAME]";
+$locale['411'] = "Ciao [USER_NAME],
+La tua nuova password per accedere al tuo account [SITENAME] è:
+[NEW_PASS]
+Saluti,
+[SITEUSERNAME]";
 $locale['412'] = "Si è verificato un errore, riprova.";
+$locale['413'] = "Please enter your email address:";

@@ -1,114 +1,89 @@
 <?php
-// Web Link Category titles
-$locale['402'] = "Categorie Link Web correnti";
-
-// Titoli Link Web
-$locale['wl_0001'] = "Aggiungi Web Link";
-$locale['wl_0002'] = "Link Web modifica";
-$locale['wl_0003'] = "Collegamenti Web";
-$locale['wl_0004'] = "Categorie di Link del Web";
-$locale['wl_0005'] = "Modifica Web Link Categoria";
-$locale['wl_0006'] = "Pagina di configurazione per Weblinks";
-$locale['wl_0007'] = "non ci sono attualmente %s in attesa per la tua recensione.";
-$locale['wl_0008'] = "Non ci sono attualmente nessun submisisons weblink";
-
-// Modulo Web Link
-$locale['wl_0100'] = "nome del Link Web:";
-$locale['wl_0101'] = "Nome sito";
-$locale['wl_0102'] = "Inserire un nome di collegamento";
-$locale['wl_0103'] = "Descrizione:";
-$locale['wl_0104'] = "URL Link Web:";
-$locale['wl_0105'] = "Categoria:";
-$locale['wl_0106'] = "visibilità:";
-$locale['wl_0107'] = "Data di pubblicazione di aggiornamento";
-$locale['wl_0108'] = "Salva il Link Web";
-
-// Collegamenti Web
-$locale['wl_0200'] = "Web Links";
-$locale['wl_0201'] = "Category";
-$locale['wl_0203'] = "URL";
-$locale['wl_0204'] = "Weblink Id.";
-$locale['wl_0205'] = "Modifica";
-$locale['wl_0206'] = "Cancella";
-$locale['wl_0207'] = "Non esistono collegamenti web definiti";
-$locale['wl_0208'] = "Weblink azioni";
-
-// Messaggi di Web Link
-$locale['wl_0300'] = "Web Link aggiunto";
-$locale['wl_0301'] = "Link Web aggiornato";
-$locale['wl_0302'] = "Web Link cancellato";
-$locale['wl_0303'] = "Cancella questo Weblink?";
-// Messaggi di categoria di Link Web
-$locale['wl_0304'] = "Categoria Link Web aggiunto";
-$locale['wl_0305'] = "Categoria Link Web aggiornato";
-$locale['wl_0306'] = "Categoria Link Web cancellato";
-$locale['wl_0307'] = "Categoria di Link Web non può essere eliminato";
-$locale['wl_0308'] = "non ci sono collegamenti Web o sotto-categorie collegati a questa categoria";
-$locale['wl_0309'] = "questa categoria esiste già.";
-$locale['wl_0310'] = "Elimina questa categoria weblink?";
-
-// Filtri
-$locale['wl_0400'] = "Filtra per:";
-$locale['wl_0401'] = "Filtro Mostra la categoria di";
-$locale['wl_0402'] = "Tutte le voci di Weblink";
-
-// Aggiungi/modifica modulo Web Link Categoria
-$locale['wl_0700'] = "nome della categoria:";
-$locale['wl_0701'] = "Inserisci un nome di categoria";
-$locale['wl_0702'] = "Descrizione della categoria:";
-$locale['wl_0703'] = "Categoria padre";
-$locale['wl_0704'] = "ordinamento di categoria:";
-$locale['wl_0705'] = "Weblink ID.";
-$locale['wl_0706'] = "Nome Weblink";
-$locale['wl_0707'] = "Weblink data";
-$locale['wl_0708'] = "Ascending";
-$locale['wl_0709'] = "Descending";
-$locale['wl_0710'] = "Weblink categoria Editor";
-$locale['wl_0711'] = "Categoria Salva";
-
-$locale['536'] = "Nessun collegamento Web categorie definite";
-$locale['537'] = "Non esistono categorie Link Web definito";
-$locale['538'] = "È necessario definire almeno una categoria prima di aggiungere qualsiasi link Web";
-$locale['539'] = "Clicca qui";
-$locale['540'] = "per andare al Web Link categorie";
-
-// Contributi
-$locale['wl_0500'] = "Weblink Submissions";
-$locale['wl_0501'] = "attualmente visualizzati da %d di %d weblink totale voci";
-$locale['wl_0503'] = "Oggetto di presentazione per revisione";
-$locale['wl_0504'] = "Presentazione autore";
-$locale['wl_0505'] = "Tempo di sottomissione";
-$locale['wl_0506'] = "Id di invio";
-
-$locale['wl_0507'] = "Weblink presentazione cancellata";
-$locale['wl_0508'] = "Weblink pubblicare";
-$locale['wl_0509'] = "Weblink osservazioni è stato pubblicato";
-$locale['wl_0510'] = "il link qui sopra è stato presentato da";
-$locale['wl_0511'] = "Inviato da";
-$locale['wl_0512'] = "Elimina Submission";
-
-// Pubblico
-$locale['wl_0800'] = "Invia Link";
-// Inviare Link successo
-$locale['wl_0801'] = "Grazie per averci inviato il tuo Link";
-$locale['wl_0802'] = "Invia un altro Link";
-$locale['wl_0803'] = "Torna a [SITENAME]";
-// Invia Link modulo
-$locale['wl_0804'] = "usa il seguente modulo per inviare un Link. L'invio sarà verificato da un
-Amministratore. [SITENAME] Collegamenti ritenuti non idonei non saranno accettati. ";
-$locale['wl_0805'] = "Link Categoria:";
-$locale['wl_0806'] = "nome del collegamento:";
-$locale['wl_0807'] = "Link URL:";
-$locale['wl_0808'] = "Link Descrizione:";
-$locale['wl_0809'] = "Spiacente, non accettiamo attualmente weblink osservazioni su questo sito.";
-
-// Impostazioni
-$locale['wl_0600'] = "Impostazioni";
-$locale['wl_0601'] = "Permetti weblink invii?";
-$locale['wl_0602'] = "richiedono link descrizione?";
-
-$locale['601'] = "Impostazioni aggiornate";
-$locale['602'] = "Link";
-$locale['603'] = "Link per pagina";
-$locale['604'] = "Salva impostazioni";
-$locale['error_value'] = "Inserisci un valore.";
+$locale['WLS_0001'] = "WebLinks";
+$locale['WLS_0002'] = "Add Web Link";
+$locale['WLS_0003'] = "Edit Web Link";
+$locale['WLS_0004'] = "Categories";
+$locale['WLS_0005'] = "Aggiungi categoria";
+$locale['WLS_0006'] = "Modifica categoria";
+$locale['WLS_0007'] = "Contributi";
+$locale['WLS_0008'] = "Impostazioni";
+$locale['WLS_0030'] = "Web Link successfully created";
+$locale['WLS_0031'] = "Web Link successfully updated";
+$locale['WLS_0032'] = "Web Link successfully deleted";
+$locale['WLS_0034'] = "You must choose at least one Web Link";
+$locale['WLS_0035'] = "Web Link successfully published";
+$locale['WLS_0036'] = "Web Link successfully unpublished";
+$locale['WLS_0040'] = "Category successfully created";
+$locale['WLS_0041'] = "Category successfully updated";
+$locale['WLS_0042'] = "Category successfully deleted";
+$locale['WLS_0043'] = "Category cannot be deleted";
+$locale['WLS_0044'] = "There are  Web Link or Subcategories in the Category";
+$locale['WLS_0046'] = "Categories cannot be deleted";
+$locale['WLS_0048'] = "You must choose at least on Category";
+$locale['WLS_0049'] = "Category successfully published";
+$locale['WLS_0050'] = "Category publishing deleted";
+$locale['WLS_0060'] = "Submission successfully published";
+$locale['WLS_0061'] = "Submission successfully deleted";
+$locale['WLS_0062'] = "There are no new Submissions.";
+$locale['WLS_0063'] = "Ci sono attualmente %s in attesa per la tua recensione.";
+$locale['WLS_0100'] = "Name";
+$locale['WLS_0101'] = "Category";
+$locale['WLS_0102'] = "Stato";
+$locale['WLS_0103'] = "Visibility";
+$locale['WLS_0104'] = "Actions";
+$locale['WLS_0105'] = "Visualizzazioni";
+$locale['WLS_0106'] = "Data di pubblicazione";
+$locale['WLS_0111'] = "Delete this Web Link?";
+$locale['WLS_0112'] = "There are no Web links created.";
+$locale['WLS_0113'] = "There are no Web Links which match the Search options.";
+$locale['WLS_0114'] = "Before you can create a Web Link, you must create a Category.";
+$locale['WLS_0115'] = "Web Link is checked, broken links found %s.";
+$locale['WLS_0116'] = "Status Unpublished update.";
+$locale['WLS_0120'] = "Oggetto";
+$locale['WLS_0121'] = "Cerca";
+$locale['WLS_0122'] = "Clear";
+$locale['WLS_0123'] = "Choose Status";
+$locale['WLS_0124'] = "All Status";
+$locale['WLS_0125'] = "Choose Visibility";
+$locale['WLS_0126'] = "Choose Category";
+$locale['WLS_0127'] = "All Categories";
+$locale['WLS_0128'] = "Choose Language";
+$locale['WLS_0129'] = "All Languages";
+$locale['WLS_0132'] = "Elementi per pagina";
+$locale['WLS_0151'] = "WebLinks";
+$locale['WLS_0161'] = "Delete this Category?";
+$locale['WLS_0162'] = "There are no Categories defined.";
+$locale['WLS_0200'] = "ID";
+$locale['WLS_0201'] = "Link Name";
+$locale['WLS_0202'] = "Submissioner";
+$locale['WLS_0203'] = "Data";
+$locale['WLS_0204'] = "Opzioni";
+$locale['WLS_0205'] = "Review presentazione";
+$locale['WLS_0206'] = "Select All";
+$locale['WLS_0252'] = "A Name of the Web Link.";
+$locale['WLS_0253'] = "Web Link URL";
+$locale['WLS_0254'] = "Description";
+$locale['WLS_0255'] = "Please enter the description";
+$locale['WLS_0259'] = "Data di pubblicazione di aggiornamento";
+$locale['WLS_0260'] = "More Informations";
+$locale['WLS_0261'] = "Web Links Verify";
+$locale['WLS_0262'] = "Reset Counter";
+$locale['WLS_0270'] = "You must specify a Subject.";
+$locale['WLS_0303'] = "Parent";
+$locale['WLS_0320'] = "You must specify a Name.";
+$locale['WLS_0321'] = "There exists a Category named this one.";
+$locale['WLS_0350'] = "The submission above was sent from {%SUBMISSION_AUTHOR%}.";
+$locale['WLS_0351'] = "Submission Date: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
+$locale['WLS_0400'] = "Settings for the Web Link System in the Frontend and Backend.";
+$locale['WLS_0403'] = "Required link description";
+$locale['WLS_0900'] = "Submit Web link";
+$locale['WLS_0910'] = "Web Link is successfully submitted.";
+$locale['WLS_0911'] = "Thank you for the Submission.";
+$locale['WLS_0912'] = "Submit other Web Link";
+$locale['WLS_0913'] = "Back to [SITENAME]";
+$locale['WLS_0920'] = "Use the following form to submit Web Link. Your submission will be reviewed by an
+Administrator. [SITENAME] reserves the right to amend or edit any submission. Web Link should be applicable to the content of this site.
+Unsuitable submissions will be deleted.";
+$locale['WLS_0922'] = "Sorry, we currently do not accept any Web Link submissions on this site.";
+$locale['WLS_0923'] = "You cannot submit a Web Link, because there are no Categories defined.";
+$locale['weblink_submit'] = "%s Weblinks";

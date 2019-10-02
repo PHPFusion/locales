@@ -1,44 +1,33 @@
 <?php
-// Forum classifica titoli
-$locale['400'] = "Aggiungi Grado";
-$locale['401'] = "Modifica Grado";
-$locale['402'] = "Corrente Grado";
-$locale['403'] = "Sistema Rango disabilitato";
-$locale['404'] = "Forum Grado";
-
-// Messaggi delle News
-$locale['410'] = "Grado Aggiunto";
-$locale['411'] = "Grado Aggiornato";
-$locale['412'] = "Grado Cancellato";
-$locale['413'] = "Un solo Grado può essere assegnato a Admin e Moderatori";
-$locale['414'] = "Inserisci un Titolo per il Grado";
-
-// Modulo di Gradi Forum
-$locale['420'] = "Titolo Grado:";
-$locale['421'] = "Immagine Grado:";
-$locale['422'] = "Post Grado:";
-$locale['423'] = "Applica a:";
-$locale['424'] = "Utenti";
-$locale['425'] = "Moderatori";
-$locale['426'] = "Amministratori";
-$locale['427'] = "Super Amministratori";
-$locale['428'] = "Salva Grado";
-$locale['429'] = "Tipo Grado:";
-$locale['429a'] = "Speciale";
-$locale['429b'] = "Admin";
-$locale['429c'] = "Post totali";
-
-// Attuale Forum Gradi
-$locale['430'] = "Titolo";
-$locale['431'] = "Applica a";
-$locale['432'] = "Immagine";
-$locale['433'] = "Post";
-$locale['434'] = "Opzioni";
-$locale['435'] = "Modifica";
-$locale['436'] = "Cancella";
-$locale['437'] = "Forum Gradi non definiti.";
-$locale['438'] = "Tipo / conteggio";
-
-// Forum Gradi per disabilitati
-$locale['450'] = "Gradi Forum attualmente disabilitati.<br />Vai al %s pannello Admin per attivare.";
-$locale['451'] = "Impostazioni del Forum";
+$locale['forum_rank_400'] = "Add Rank";
+$locale['forum_rank_401'] = "Edit Rank";
+$locale['forum_rank_402'] = "Current Ranks";
+$locale['forum_rank_403'] = "Rank System Disabled";
+$locale['forum_rank_404'] = "Livelli forum";
+$locale['forum_rank_410'] = "Rank added";
+$locale['forum_rank_411'] = "Rank updated";
+$locale['forum_rank_412'] = "Rank deleted";
+$locale['forum_rank_413'] = "Only one rank can be assigned to admins and mods";
+$locale['forum_rank_414'] = "Please enter a Rank Title";
+$locale['forum_rank_420'] = "Rank Title:";
+$locale['forum_rank_421'] = "Rank Image:";
+$locale['forum_rank_422'] = "Rank Posts:";
+$locale['forum_rank_423'] = "Apply to:";
+$locale['forum_rank_424'] = "Iscritti";
+$locale['forum_rank_425'] = "Moderators";
+$locale['forum_rank_426'] = "Amministratori";
+$locale['forum_rank_427'] = "Super amministratori";
+$locale['forum_rank_429'] = "Rank type:";
+$locale['forum_rank_429a'] = "Special";
+$locale['forum_rank_429b'] = "Amministratore";
+$locale['forum_rank_429c'] = "Post count";
+$locale['forum_rank_430'] = "Title";
+$locale['forum_rank_431'] = "Applies To";
+$locale['forum_rank_432'] = "Immagine";
+$locale['forum_rank_433'] = "Post";
+$locale['forum_rank_434'] = "Opzioni";
+$locale['forum_rank_437'] = "No Forum Ranks defined.";
+$locale['forum_rank_438'] = "Type / Count";
+$locale['forum_rank_450'] = "Forum ranks are currently disabled.<br/>Please go to the %s Admin Panel to enable.";
+$locale['forum_rank_451'] = "Impostazioni del Forum";
+$locale['forum_rank_0100'] = "Forum ranks are used to micro-manage forum users and shows their performance and activity";

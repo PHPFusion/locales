@@ -1,42 +1,54 @@
 <?php
 // Edit/Save/Delete User Group Messages
-$locale['400'] = "Gruppo utente aggiornato";
-$locale['401'] = "Gruppo utente aggiunto";
-$locale['402'] = "Utenti selezionati rimossi dal gruppo";
-$locale['403'] = "Tutti gli utenti sono stati rimossi dal gruppo";
-$locale['404'] = "Utenti selezionati aggiunti al gruppo";
-$locale['405'] = "Impossibile eliminare il gruppo utente";
-$locale['406'] = "Ci sono utenti assegnati a questo gruppo";
-$locale['407'] = "Gruppo utente eliminato";
+$locale['GRP_400'] = "User Group updated";
+$locale['GRP_401'] = "User Group added";
+$locale['GRP_403'] = "Not Selected User";
+$locale['GRP_404'] = "No Group ";
+$locale['GRP_405'] = "Cannot delete User Group";
+$locale['GRP_406'] = "There are users assigned to this group";
+$locale['GRP_407'] = "User Group deleted";
+$locale['GRP_408'] = "No Selected User or Group.";
+$locale['GRP_409'] = " Add a user group.";
+
+$locale['GRP_410'] = "User \"%s\" added to group \"%s\"";
+$locale['GRP_411'] = "User \"%s\" removed from group \"%s\"";
+$locale['GRP_412'] = "\"%s\" users removed from group \"%s\"";
+
 // Edit/Delete Options
-$locale['420'] = "Gruppi utente";
-$locale['421'] = "Modifica";
-$locale['422'] = "Elimina";
-$locale['423'] = "Elimina questo gruppo utente?";
+$locale['GRP_420'] = "Gruppi utente";
+$locale['GRP_421'] = "Edit Group";
+$locale['GRP_422'] = "Delete Group";
+$locale['GRP_423'] = "Utenti Management";
+$locale['GRP_424'] = "Displaying %d User Group.";
+$locale['GRP_425'] = "Delete this user group?";
+$locale['GRP_426'] = "Default Group";
+$locale['GRP_427'] = "Currently %d displaying %d members.";
+$locale['GRP_428'] = "Add Group";
+$locale['GRP_430'] = "added to Group %s";
 // Edit/Add User Group
-$locale['430'] = "Modifica gruppo utente";
-$locale['431'] = "Aggiungi gruppo utente";
-$locale['432'] = "Nome gruppo:";
-$locale['433'] = "Descrizione gruppo:";
-$locale['434'] = "Salva gruppo";
+$locale['GRP_432'] = "Group Name";
+$locale['GRP_433'] = "Group Description";
+$locale['GRP_434'] = "Save Group";
+$locale['GRP_435'] = "ID";
+$locale['GRP_436'] = "Icon";
+$locale['GRP_437'] = "Action";
+$locale['GRP_438'] = "Iscritti";
+$locale['GRP_439'] = "Group Icon";
 // Search/Add Group Users
-$locale['440'] = "Aggiungi utenti al gruppo";
-$locale['441'] = "Cerca utenti da aggiungere a questo gruppo usando il modulo qui sotto.";
-$locale['442'] = "Puoi fare ricerche per utenti multipli separando ogni nome con una virgola.";
-$locale['443'] = "ID utente";
-$locale['444'] = "Nomi utente";
-$locale['445'] = "Cerca";
-$locale['446'] = "Nome utente";
-$locale['447'] = "Livello utente";
-$locale['448'] = "Seleziona tutti";
-$locale['449'] = "Deseleziona tutti";
-$locale['450'] = "Aggiungi utenti selezionati";
-$locale['451'] = "Nessun utente è stato trovato.";
-$locale['452'] = "Cerca ancora";
+$locale['GRP_440'] = "Add users to Group";
+$locale['GRP_441'] = "Search for users to add to this group using the form below.";
+$locale['GRP_442'] = "You can search for multiple users by separating each entry Enter.";
+$locale['GRP_446'] = "User Name";
+$locale['GRP_447'] = "User Type";
+$locale['GRP_448'] = "Check All";
+$locale['GRP_449'] = "Uncheck All";
+$locale['GRP_450'] = "Add selected users";
+$locale['GRP_451'] = "Search User";
+$locale['GRP_452'] = "Current Group: ";
 // Current Group Users
-$locale['460'] = "Gruppi utente presenti";
-$locale['461'] = "Rimuovi utenti selezionati";
-$locale['462'] = "Rimuovi tutti gli utenti";
-$locale['463'] = "Non ci sono utenti in questo gruppo.";
-// Messaggi di errore
-$locale['464'] = "Inserisci un nome di gruppo";
+$locale['GRP_460'] = "Current Group Users";
+$locale['GRP_461'] = "Remove selected users";
+$locale['GRP_462'] = "Remove all users";
+$locale['GRP_463'] = "Non ci sono nessun utente a questo gruppo.";
+// Error Messages
+$locale['GRP_464'] = "Please enter a Group name";
