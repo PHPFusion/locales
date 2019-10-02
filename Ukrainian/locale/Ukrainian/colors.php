@@ -136,8 +136,6 @@ $locale['color_132'] = "Білий";
 $locale['color_133'] = "Димний";
 $locale['color_134'] = "Жовтий";
 $locale['color_135'] = "Жовто-зелений";
-
-// Merged from HTML buttons
 $locale['color_136'] = "Палений помаранчевий";
 $locale['color_137'] = "Темно-оливковий";
 $locale['color_138'] = "Темно-зелений";

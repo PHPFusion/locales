@@ -1,41 +1,83 @@
 <?php
 $locale['email_create_subject'] = "Обліковий запис на сайті [SITENAME] створено ";
-$locale['email_create_message'] = "Вітаємо, [USER_NAME]!\n
-Ваш обліковий запис на сайті [SITENAME] успішно створено.\n
-Ви можете тепер увійти на сайт, використовуючи наступні параметри авторизації:\n
-ім&lsquo;я: [USER_NAME]\n
-пароль: [PASSWORD]\n\n
-З повагою,\n
+$locale['email_create_message'] = "Вітаємо, [USER_NAME]!
+
+Ваш обліковий запис на сайті [SITENAME] успішно створено.
+
+Ви можете тепер увійти на сайт, використовуючи наступні параметри авторизації:
+
+ім&lsquo;я: [USER_NAME]
+
+пароль: [PASSWORD]
+
+
+З повагою,
+
 [SITENAME]";
+
 $locale['email_activate_subject'] = "Обліковий запис активовано ";
-$locale['email_activate_message'] = "Вітаємо, [USER_NAME]!\n
-Ваш обліковий запис на сайті [SITENAME] успішно активовано.\n
-Ви можете тепер заходити на сайт, використовуючи свої ім&lsquo;я та пароль.\n\n
-З повагою,\n
+$locale['email_activate_message'] = "Вітаємо, [USER_NAME]!
+
+Ваш обліковий запис на сайті [SITENAME] успішно активовано.
+
+Ви можете тепер заходити на сайт, використовуючи свої ім&lsquo;я та пароль.
+
+
+З повагою,
+
 [SITEUSERNAME]";
+
 $locale['email_deactivate_subject'] = "Запит на повторну активацію облікового запису на сайті [SITENAME]";
-$locale['email_deactivate_message'] = "Вітаємо, [USER_NAME].\n
-Минуло багато днів ([DEACTIVATION_PERIOD]) з часу Вашого останнього візиту на сайт [SITENAME]. Ваш обліковий запис позначено як бездіяльний, але уся інформація, пов&lsquo;язана із ним, збережена і не зазнала змін.\n
-Щоб повторно активувати Ваш обліковий запис, просто перейдіть за цим посиланням:\n
-[REACTIVATION_LINK]\n\n
-З повагою,\n
+$locale['email_deactivate_message'] = "Вітаємо, [USER_NAME].
+
+Минуло багато днів ([DEACTIVATION_PERIOD]) з часу Вашого останнього візиту на сайт [SITENAME]. Ваш обліковий запис позначено як бездіяльний, але уся інформація, пов&lsquo;язана із ним, збережена і не зазнала змін.
+
+Щоб повторно активувати Ваш обліковий запис, просто перейдіть за цим посиланням:
+
+[REACTIVATION_LINK]
+
+
+З повагою,
+
 [SITEUSERNAME]";
+
 $locale['email_ban_subject'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано";
-$locale['email_ban_message'] = "Вітаємо, [USER_NAME].\n
-Ваш обліковий запис на сайті [SITENAME] заблоковано адміністратором [USERNAME] за такою підставою:\n
-[REASON]\n
-Якщо бажаєте отримати детальну інформацію про це блокування, будь ласка, зв&lsquo;яжіться з адміністрацією сайту [SITENAME].\n
-З повагою,\n
+$locale['email_ban_message'] = "Вітаємо, [USER_NAME].
+
+Ваш обліковий запис на сайті [SITENAME] заблоковано адміністратором [USERNAME] за такою підставою:
+
+[REASON]
+
+Якщо бажаєте отримати детальну інформацію про це блокування, будь ласка, зв&lsquo;яжіться з адміністрацією сайту [SITENAME].
+
+З повагою,
+
 [SITEUSERNAME]";
+
 $locale['email_secban_subject'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано з міркувань безпеки";
-$locale['email_secban_message'] = "Вітаємо, [USER_NAME].\n
-Ваш обліковий запис на сайті [SITENAME] заблоковано адміністратором [USERNAME] в зв&lsquo;язку з певними діями (Вашими безпосередньо або пов&lsquo;язаними з Вашим обліковим записом), що мають ознаки загрози безпеці сайту.\n
-Якщо бажаєте отримати детальну інформацію про це блокування, будь ласка, зв&lsquo;яжіться з адміністрацією сайту [SITENAME].\n
+$locale['email_secban_message'] = "Вітаємо, [USER_NAME].
+
+Ваш обліковий запис на сайті [SITENAME] заблоковано адміністратором [USERNAME] в зв&lsquo;язку з певними діями (Вашими безпосередньо або пов&lsquo;язаними з Вашим обліковим записом), що мають ознаки загрози безпеці сайту.
+
+Якщо бажаєте отримати детальну інформацію про це блокування, будь ласка, зв&lsquo;яжіться з адміністрацією сайту [SITENAME].
+
 [SITENAME]";
+
 $locale['email_suspend_subject'] = "Ваш обліковий запис на сайті [SITENAME] призупинено";
-$locale['email_suspend_message'] = "Вітаємо, [USER_NAME].\n
-Дію Вашого облікового запису на сайті [SITENAME] призупинив адміністратор [USERNAME] до [DATE] (час на сайті) за такою підставою:\n
-[REASON].\n
-Якщо бажаєте отримати детальну інформацію про це призупинення, будь ласка, зв&lsquo;яжіться з адміністрацією сайту [SITENAME].\n
-З повагою,\n
+$locale['email_suspend_message'] = "Вітаємо, [USER_NAME].
+
+Дію Вашого облікового запису на сайті [SITENAME] призупинив адміністратор [USERNAME] до [DATE] (час на сайті) за такою підставою:
+
+[REASON].
+
+Якщо бажаєте отримати детальну інформацію про це призупинення, будь ласка, зв&lsquo;яжіться з адміністрацією сайту [SITENAME].
+
+З повагою,
+
 [SITEUSERNAME]";
+
+$locale['email_resend_subject'] = "Re-sent activation link - [SITENAME]";
+$locale['email_resend_message'] = "Hello [USER_NAME],<br/>\r\n
+You received this email because you did not activate the email on our site - [SITENAME].<br/>\r\nIf you do not activate an email within one day, your registration request will be canceled.<br/>\r\n
+You have registered with the following information:<br/>\r\nUsername: [USER_NAME]<br/>\r\n
+You can activate account with the following link:<br/>\r\n[ACTIVATION_LINK]<br/>\r\nRegards,<br/>\r\n[SITENAME]";

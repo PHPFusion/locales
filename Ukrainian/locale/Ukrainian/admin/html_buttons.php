@@ -20,6 +20,7 @@ $locale['html_016'] = "Розірвання сторінки";
 $locale['html_017'] = "Колір шрифту";
 $locale['html_018'] = "Абзац";
 $locale['html_019'] = "Заголовки";
+$locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Текст";
 $locale['preview'] = "Попередній перегляд";

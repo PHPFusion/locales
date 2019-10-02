@@ -11,3 +11,5 @@ $locale['NB_103'] = "Параметри ухвалення";
 $locale['NB_200'] = "Автор";
 // News Module
 $locale['NEWS_001'] = "Останні публікації";
+// Widget
+$locale['WIDGET_001'] = "Theme Settings Updated";

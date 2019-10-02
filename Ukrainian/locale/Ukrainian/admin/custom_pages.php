@@ -18,7 +18,6 @@ $locale['page_0115'] = "Усі автори";
 $locale['page_0116'] = "Виберіть автора";
 $locale['page_0117'] = "Будь ласка, введіть назву сторінки"; // 451
 $locale['page_0118'] = "Дії";
-
 // Custom Pages titles
 $locale['page_0200'] = "Створення сторінки"; //ex 400
 $locale['page_0201'] = "Редагування сторінки"; // ex 401
@@ -35,6 +34,7 @@ $locale['page_0305'] = "Статус";
 $locale['page_0306'] = "Доступ";
 $locale['page_0307'] = "Опубліковано";
 $locale['page_0308'] = "Розділ";
+$locale['page_0308a'] = "Automatic Line breaks";
 $locale['page_0309'] = "Посилання для навігації";
 $locale['page_0310'] = "Посилання не визначені";
 $locale['page_0311'] = "Додати посилання";
@@ -92,3 +92,4 @@ $locale['page_0412'] = "Некоректний стовпець";
 $locale['page_0413'] = "Видалити цю сторінку?"; // 450
 $locale['page_0440'] = "Сторінки відсутні";
 $locale['page_0441'] = "Зміст";
+$locale['page_0442'] = "You must choose at least one Page";

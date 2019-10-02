@@ -1,45 +1,44 @@
 <?php
 // Section Titles
-$locale['400'] = "Ввімкнені";
-$locale['401'] = "Вимкнені";
-$locale['401a'] = "Налаштування";
+$locale['PL_400'] = "Enabled Permalinks";
+$locale['PL_401'] = "Disabled Permalinks";
+$locale['PL_401a'] = "Permalink Settings";
 
 // Common
-$locale['402'] = "Стандартна назва";
-$locale['403'] = "Опис";
-$locale['404'] = "Опції";
-$locale['404a'] = "Ввімкнути";
-$locale['404b'] = "Вимкнути";
-$locale['404c'] = "Редагувати";
-$locale['404d'] = "Оновити";
+$locale['PL_402'] = "Rewrite Name";
+$locale['PL_403'] = "Description";
+$locale['PL_404'] = "Параметри";
+$locale['PL_404a'] = "Дозволити";
+$locale['PL_404b'] = "Заборонити";
+$locale['PL_404d'] = "Reinstall";
 
 // Editing Permalinks
-$locale['405'] = "Редагування статичних посилань для %s";
-$locale['406'] = "Теги";
-$locale['407'] = "Опис";
-$locale['408'] = "Типи";
-$locale['409'] = "Редагування представлення";
-$locale['410'] = "Тип статичного посилання %u:";
-$locale['411'] = "Помилка";
-$locale['412'] = "Будь ласка, перевірте коректність посилання %s!";
-$locale['413'] = "Зберегти";
-$locale['414'] = "УВАГА: Статичні посилання &amp; Усі налаштовані псевдоніми будуть остаточно видалені!\n
-Ви дійсно бажаєте вимкнути це статичне посилання?";
-$locale['415'] = "Статичні посилання перетворюють звичайні посилання таким чином, щоб замість тексту із символами знаку питання та рівності можна було налаштувати власну зрозумілу структуру.\n
-Якщо Ваш сервер підтримує функцію `mod_rewrite`, Ви можете ввімкнути використання статичних посилань у загальних налаштуваннях сайту. Активація посилань для відповідного розділу виконується через розділ Вимкнені. Після активації відкриється можливість подальшого налаштування правил створення відповідних статичних посилань.\n\n
-Будь ласка, зауважте, що для коректної роботи статичних посилань наявність функції `mod_rewrite` (або аналогічної) є необхідною умовою.";
+$locale['PL_405'] = "Editing Permalinks for %s";
+$locale['PL_406'] = "Теґи";
+$locale['PL_407'] = "Description";
+$locale['PL_408'] = "Types";
+$locale['PL_409'] = "Edit Pattern";
+$locale['PL_410'] = "Permalink type %u:";
+$locale['PL_411'] = "Помилка";
+$locale['PL_412'] = "Check the files of the Permalink %s!";
+$locale['PL_413'] = "Зберегти";
+$locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
+$locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
+                  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>
+                  Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
 
 // Admin Messages
-$locale['420'] = "Виявлено помилку.";
-$locale['421'] = "Статичні посилання успішно оновлено.";
-$locale['422'] = "Не знайдено жодного статичного посилання для %s.";
-$locale['423'] = "Статичне посилання відсутнє.";
-$locale['424'] = "Статичне посилання для %s успішно ввімкнено.";
-$locale['425'] = "Статичні посилання для %s вже ввімкнені.";
-$locale['426'] = "Статичні посилання для %s успішно вимкнено.";
+$locale['PL_420'] = "An Error occurred.";
+$locale['PL_421'] = "Permalinks Updated successfully.";
+$locale['PL_422'] = "No Permalink patterns found for %s.";
+$locale['PL_423'] = "Permalink not found.";
+$locale['PL_424'] = "Enabled Permalinks for %s successfully.";
+$locale['PL_425'] = "Permalinks for %s are already enabled.";
+$locale['PL_426'] = "Disabled Permalinks for %s successfully.";
+$locale['PL_429'] = "Permalink Driver for %s";
 
 // Other
-$locale['427'] = "Статичні посилання відсутні.";
-$locale['428'] = "Статичні посилання";
+$locale['PL_427'] = "No Permalinks are enabled.";
+$locale['PL_428'] = "Статичні посилання";
 $locale['seo_htc_warning'] = "Будь ласка, майте на увазі, що у разі зміни будь-чого з цих налаштувань, зміст файлу `.htaccess` буде перезаписано, тому всі раніше додані до нього виправлення будуть втрачені.";
-//$locale['rewrite_disabled'] = "Здається, що функція `mod_rewrite` заборонена на Вашому хостингу. Ввімкнення SEF може пошкодити Ваш сайт. Будь ласка, зв&lsquo;яжіться з Вашим хостером щодо ввімкнення функції `mod_rewrite` для можливості її використання.";
+$locale['rewrite_disabled'] = "It looks like `mod_rewrite` is not enabled on your host. Enabling SEF urls might break your website. Please contact your hosting provider about enabling `mod_rewrite` on your host.";

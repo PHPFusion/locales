@@ -1,51 +1,34 @@
 <?php
 // Administrators messages
-$locale['400'] = "Адміністратора успішно створено";
-$locale['401'] = "Адміністратора успішно оновлено";
-$locale['402'] = "Адміністратора успішно видалено";
-
+$locale['ADM_400'] = "Administrator added";
+$locale['ADM_401'] = "Administrator updated";
+$locale['ADM_402'] = "Administrator removed";
 // Search/Add Administrator
-$locale['410'] = "Створення адміністратора";
-$locale['411'] = "Пошук користувача для надання йому прав адміністратора";
-$locale['412'] = "за номером";
-$locale['413'] = "за ім&lsquo;ям";
-$locale['414'] = "Пошук";
-$locale['415'] = "Делегувати усі права";
-$locale['416'] = "Додати привілеї головного адміністратора";
-$locale['417'] = "Створити";
-$locale['418'] = "За вказаними параметрами користувачів не знайдено";
-$locale['419'] = "Повторний пошук";
-
+$locale['ADM_410'] = "Add Administrator";
+$locale['ADM_411'] = "Search for users to add using the form below.";
+$locale['ADM_413'] = "Ім&lsquo;я";
+$locale['ADM_415'] = "Apply all privileges";
+$locale['ADM_416'] = "Make Super Administrator";
+$locale['ADM_418'] = "No users found.";
+$locale['ADM_419'] = "Search Again";
 // Current Administrators
-$locale['420'] = "Дійсні адміністратори";
-$locale['421'] = "Ім&lsquo;я";
-$locale['422'] = "Рівень";
-$locale['423'] = "Опції";
-$locale['424'] = "Перший адміністратор";
-$locale['425'] = "Права не визначені";
-$locale['426'] = "Редагувати";
-$locale['427'] = "Видалити";
-
+$locale['ADM_420'] = "Адміністратори";
+$locale['ADM_421'] = "Ім&lsquo;я";
+$locale['ADM_422'] = "Admin Level";
+$locale['ADM_423'] = "Параметри";
+$locale['ADM_425'] = "No rights assigned";
 // Edit Admin Rights
-$locale['440'] = "Права адміністратора";
-$locale['441'] = "Сайт";
-$locale['442'] = "Користувачі";
-$locale['443'] = "Система";
-$locale['444'] = "Зберегти права адміністратора";
-$locale['445'] = "Відмітити усе";
-$locale['446'] = "Зняти усі відмітки";
-$locale['447'] = "Пароль адміністрування:";
-$locale['448'] = "Зберегти";
-$locale['449'] = "Налаштування";
-$locale['450'] = "Відмітити безпечне";
-
+$locale['ADM_440'] = "Edit Admin Rights";
+$locale['ADM_441'] = "Content Admin";
+$locale['ADM_442'] = "User Admin";
+$locale['ADM_443'] = "System Admin";
+$locale['ADM_444'] = "Додатки";
+$locale['ADM_445'] = "Вибрати все";
+$locale['ADM_448'] = "Save Admin Rights";
+$locale['ADM_449'] = "Налаштування";
+$locale['ADM_450'] = "Check secure";
 // Popup Error/Warning Messages
-$locale['460'] = "Видалити цього адміністратора?";
-$locale['461'] = "Надати цьому користувачу права адміністратора?";
-$locale['462'] = "Надання користувачу прав адміністратора є потенційно небезпечним!";
-
-// Remove Admin confirmation
-$locale['470'] = "Видалення адміністратора";
-$locale['471'] = "Для видалення адміністратора, будь ласка, введіть свій пароль адміністрування:";
-$locale['472'] = "Видалити";
-$locale['473'] = "Скасувати";
+$locale['ADM_460'] = "Remove this administrator?";
+$locale['ADM_461'] = "Add this administrator?";
+$locale['ADM_462'] = "Giving these admin rights to a user is a potential security risk!";
+$locale['ADM_463'] = "No action selected!";

@@ -1,17 +1,12 @@
 <?php
-// Titles
-$locale['400'] = "robots.txt";
-
-// Messages
-$locale['410'] = "Ви впевнені? Буде встановлено стандартний файл robots.txt.";
-$locale['411'] = "Файл robots.txt відсутній. Будь ласка, створіть його в кореневому каталозі та спробуйте ще раз.";
-$locale['412'] = "Файл robots.txt успішно оновлено";
-$locale['413'] = "Сталась така помилка:";
-$locale['414'] = "Файл robots.txt закрито для запису.";
-$locale['415'] = "Неможливий запис до файлу robots.txt.";
-
-// Edit form
-$locale['420'] = "Редагування файлу robots.txt";
-$locale['421'] = "Більше подробиць та інструкцій щодо файлу robots.txt можна знайти тут";
-$locale['422'] = "Зберегти";
-$locale['423'] = "Відновити стандартні налаштування";
+$locale['ROBOT_400'] = "robots.txt";
+$locale['ROBOT_410'] = "Are you sure? robots.txt file will be set to default.";
+$locale['ROBOT_411'] = "robots.txt file does not exist. You can create this file in the root directory.";
+$locale['ROBOT_412'] = "robots.txt file updated.";
+$locale['ROBOT_414'] = "robots.txt file is not writable.";
+$locale['ROBOT_416'] = "robots.txt file Create.";
+$locale['ROBOT_417'] = "robots.txt content incorrect. Please use a valid content.";
+$locale['ROBOT_420'] = "Edit your robots.txt file";
+$locale['ROBOT_421'] = "[LINK]You can find more information and help about the robots.txt here.[/LINK]";
+$locale['ROBOT_422'] = "New robots.txt file Created";
+$locale['ROBOT_423'] = "Set back to default";

@@ -1,27 +1,29 @@
 <?php
-$locale['400'] = "Налаштування BB кодів";
-$locale['401'] = "Тестування ВВ кодів";
-
+$locale['BBCA_400'] = "BB-коди";
+$locale['BBCA_400a'] = "BB Codes Admin";
+$locale['BBCA_401'] = "Test BB Codes";
 // Enabled BB Codes
-$locale['402'] = "Ввімкнені BB коди";
-$locale['403'] = "Код";
-$locale['404'] = "Кнопка";
-$locale['405'] = "Опис";
-$locale['406'] = "Застосування";
-$locale['407'] = "Порядок";
-$locale['408'] = "нижче";
-$locale['409'] = "вище";
-$locale['410'] = "Вимкнути";
-$locale['411'] = "Коди для ухвалення відсутні";
-
+$locale['BBCA_402'] = "Enabled BB Codes";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Description";
+$locale['BBCA_406'] = "Usage";
+$locale['BBCA_407'] = "Порядок";
+$locale['BBCA_408'] = "Down";
+$locale['BBCA_409'] = "Up";
+$locale['BBCA_410'] = "Заборонити";
+$locale['BBCA_411'] = "There are no BB Codes enabled.";
 // Disabled BB Codes
-$locale['413'] = "Вимкнені BB коди";
-$locale['414'] = "Увімкнути";
-$locale['415'] = "Перенесення рядків";
-$locale['416'] = "Показувати кнопки BB кодів з нового рядка";
-
+$locale['BBCA_413'] = "Disabled BB Codes";
+$locale['BBCA_414'] = "Дозволити";
+$locale['BBCA_416'] = "There are no BB Codes disabled.";
 // Test BB Codes
-$locale['417'] = "Тест BB кодів завершено";
-$locale['418'] = "вимкнути усміхайлики у цьому тесті";
-$locale['418a'] = "Тестове повідомлення";
-$locale['418b'] = "Будь ласка, введіть текст для перевірки роботи BB кодів.";
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Disable smileys in this test";
+$locale['BBCA_418a'] = "Test Message";
+$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+// Notices
+$locale['BBCA_430'] = "BB Code has been moved Up.";
+$locale['BBCA_431'] = "BB Code has been moved Down.";
+$locale['BBCA_432'] = "BB Code has been Enabled.";
+$locale['BBCA_433'] = "BB Code has been Disabled.";
