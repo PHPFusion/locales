@@ -47,7 +47,7 @@ $locale['MIG_161'] = "Bewege Fotogalerien";
 $locale['MIG_162'] = "Bewege Shoutbox Nachrichten";
 $locale['MIG_170'] = "L&ouml;sche Benutzer";
 $locale['MIG_171'] = "Der zusammengef&uuml;hrte Benutzer wird deaktiviert, wenn hier keine Aktion gew&auml;hlt wurde";
-$locale['MIG_175'] = "Ausgewählte Konten werden zusammengef&uuml;gt";
+$locale['MIG_175'] = "Ausgew";
 $locale['MIG_200'] = "Es wurden keine Aufzeichnungen aufgrund eines Datenbank Fehlers aktualisiert.";
 $locale['MIG_201'] = "%s records have been moveed via <strong>%s</strong> from %s to %s";
 $locale['MIG_202'] = "Es gibt keine Aufzeichnungen zu verschieben in <strong>%s</strong>";
@@ -59,5 +59,3 @@ $locale['MIG_207'] = "Benutzerlevel konnte aufgrund eines Datenbankfehlers nicht
 $locale['MIG_208'] = "<strong>Neues Benutzerlevel %s</strong> wurde von from %s zu %s transferiert";
 $locale['MIG_209'] = "Benutzerlevel konnte nicht aktualisiert werden, da dieses Gleich oder Kleiner als der Prim&auml;re Account ist.";
 $locale['MIG_210'] = "Es existieren keine Benutzer mit der BenutzerID ";
-
-?>

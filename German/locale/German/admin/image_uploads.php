@@ -1,12 +1,12 @@
 <?php
+$locale['100'] = "Fusion File Manager";
 
-// Bild löschen
+// Delete Image
 $locale['400'] = "Bild l&ouml;schen";
 $locale['401'] = "Das Bild wurde gel&ouml;scht.";
 $locale['402'] = "Zur&uuml;ck zur Bilderverwaltung";
 $locale['403'] = "Zur&uuml;ck zur Admin&uuml;bersicht";
-
-// Bild hinzufügen
+// Upload Image
 $locale['420'] = "Bild hinzuf&uuml;gen";
 $locale['421'] = "Dateiname:";
 $locale['422'] = "Hauptbilder";
@@ -17,19 +17,14 @@ $locale['426'] = "Das Bild wurde hinzugef&uuml;gt.";
 $locale['427'] = "Newskategoriebilder";
 $locale['428'] = "Blogbilder";
 $locale['429'] = "Blogkategoriebilder";
-// Bild ansehen
+// View Image
 $locale['440'] = "Bild ansehen";
 $locale['441'] = "Das Bild hat ein unbekanntes Dateiformat und kann daher nicht angezeigt werden.";
 $locale['442'] = "Dieses Bild l&ouml;schen";
-
-// Bilder Übersicht
+// Image Management
 $locale['460'] = "Aktuell vorhandene Bilder";
 $locale['461'] = "Ansehen";
-$locale['462'] = "L&ouml;schen";
 $locale['463'] = "Dieser Ordner ist leer.";
 $locale['464'] = "Die Bilderliste f&uuml;r den TinyMCE Editor erneuern";
-
-// Javascript Alerts
+// Popup Error/Warning Messages
 $locale['470'] = "Willst du dieses Bild wirklich entfernen?";
-
-?>

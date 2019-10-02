@@ -1,5 +1,10 @@
 <?php
-// Forum Index
+$locale['error-DP001'] = "Keine Forenbeitr&auml;ge zum verschieben vorhanden.";
+$locale['error-MP000'] = "Beitr&auml;ge verschieben - Fehler";
+$locale['error-MP001'] = "Das neue Thema existiert nicht.";
+$locale['error-MP002'] = "Die von Ihnen ausgew&auml;hlen Beitr&auml;ge existieren nicht, oder jemand anders hat diese bereits verschoben.";
+
+
 $locale['forum_0000'] = "Forum";
 $locale['forum_0001'] = "Forum";
 $locale['forum_0002'] = "Themen";
@@ -14,8 +19,20 @@ $locale['forum_0010'] = "Forum Start";
 $locale['forum_0011'] = "Meine Forenbeitr&auml;ge";
 $locale['forum_0012'] = "Meine Forenthemen";
 $locale['forum_0013'] = "Foren Kategorien";
+$locale['forum_0014'] = "Ruf";
+$locale['forum_0015'] = "Forum &Uuml;bersicht";
+$locale['forum_0016'] = "Aktivit&auml;t";
+$locale['forum_0017'] = "Leute";
+$locale['forum_0018'] = "Person";
+$locale['forum_0019'] = "Es sind keine Unterforen verf&uuml;gbar";
 
-// View Forum
+$locale['forum_0020'] = "Letzte Aktivit&auml;t";
+$locale['forum_0021'] = "%s von %s";
+$locale['forum_0022'] = "Beantwortet";
+$locale['forum_0023'] = "Re:";
+$locale['forum_0024'] = "Alle Diskussionsbeitr&auml;ge anzeigen";
+
+
 $locale['forum_0050'] = "Forum ansehen";
 $locale['forum_0051'] = "Betreff";
 $locale['forum_0052'] = "Autor";
@@ -24,22 +41,17 @@ $locale['forum_0054'] = "Antworten";
 $locale['forum_0055'] = "Seite: ";
 $locale['forum_0056'] = "Es wurden noch keine Themen erstellt.";
 $locale['forum_0057'] = "Neues Thema erstellen";
+$locale['forum_0058'] = "Stell eine Frage";
 
-// View Forum Moderator options
 $locale['forum_0080'] = "Alle markieren";
 $locale['forum_0081'] = "Alle demarkieren";
 $locale['forum_0082'] = "Themen l&ouml;schen";
 $locale['forum_0083'] = "Sind Sie sich sicher, dass Sie die markierten Themen entfernen m&ouml;chten?";
-
-// Forum Guide/Privelages
 $locale['forum_0100'] = "&Ouml;ffne Themen mit neuen Beitr&auml;gen seit deinem letzten Besuch.";
 $locale['forum_0101'] = "&Ouml;ffne Themem ohne neue Beitr&auml;gen seit deinem letzten Besuch.";
 $locale['forum_0102'] = "Geschlossen";
 $locale['forum_0103'] = "Gepinnt";
-
-// View Thread
 $locale['forum_0150'] = "Forum - Thema: ";
-$locale['forum_0151'] = "Beitr&auml;ge";
 $locale['forum_0152'] = "Wohnort:";
 $locale['forum_0153'] = "Registrierungsdatum:";
 $locale['forum_0154'] = " lud folgendes hoch ";
@@ -52,6 +64,7 @@ $locale['forum_0160'] = "von";
 $locale['forum_0161'] = " hat folgende Datei hochgeladen:";
 $locale['forum_0162'] = " mal heruntergeladen";
 $locale['forum_0163'] = "Sie haben nicht gen&uuml;gend Rechte, um die Anh&auml;nge des Themas zu sehen.";
+$locale['forum_0163a'] = "Das Holen der Anh&auml;ge ist fehlgeschlagen";
 $locale['forum_0164'] = "zuletzt bearbeitet von ";
 $locale['forum_0165'] = "Grund";
 $locale['forum_0166'] = "Klicken Sie hier, um den Bearbeitungsgrund anzuzeigen";
@@ -76,8 +89,7 @@ $locale['forum_0184'] = "Sie haben nicht gen&uuml;gend Rechte, um die Anh&auml;n
 $locale['forum_0185'] = "Moderator:";
 $locale['forum_0186'] = "Sie haben nicht gen&uuml;gend Rechte, dass du in diesem Forum schreiben kannst.";
 $locale['forum_0187'] = "Das von ihnen aufgerufene Forum existiert nicht.";
-
-// Moderator Options
+$locale['forum_0188'] = "Bild nicht gefunden";
 $locale['forum_0200'] = "Moderator Optionen";
 $locale['forum_0201'] = "Thema entfernen";
 $locale['forum_0202'] = "Thema schlie&szlig;en";
@@ -100,52 +112,40 @@ $locale['forum_0223'] = "Anh&auml;nge";
 $locale['forum_0224'] = "Umfragen";
 $locale['forum_0225'] = "Sortieren nach";
 $locale['forum_0226'] = "Datum - Letztes Update";
-$locale['forum_0227'] = "Antworten";
 $locale['forum_0228'] = "Titel";
 $locale['forum_0229'] = "Reihenfolge";
 $locale['forum_0230'] = "Abw&auml;rts (Z-A)";
 $locale['forum_0231'] = "Aufw&auml;rts (A-Z)";
-
-// Jump to Forum, back to top
 $locale['forum_0240'] = "Springe zu Forum";
 $locale['forum_0241'] = "Nach Oben";
-
-// Search Forum
 $locale['forum_0250'] = "Suche";
-
-// Image Alt attributes
 $locale['forum_0260'] = "Neue Beitr&auml;ge";
 $locale['forum_0261'] = "Keine neue Beitr&auml;ge";
 $locale['forum_0262'] = "Gepinntes Thema";
 $locale['forum_0263'] = "Geschlossenes Thema";
-$locale['forum_0264'] = "Neues Thema starten";
-$locale['forum_0265'] = "Bearbeiten";
+
 $locale['forum_0266'] = "Zitat";
 $locale['forum_0267'] = "geschrieben";
 $locale['forum_0268'] = "Benutzer IP Adresse";
 $locale['forum_0269'] = "Es wurden keine Themen gefunden.";
 $locale['forum_0270'] = "Es wurden keine Beitr&auml;ge gefunden.";
-$locale['forum_0271'] = "Es befinden sich keine Beitr&auml;ge mehr in diesem Thema. Bitte gehen Sie zur&uuml;ck zur <a href='".FORUM."index.php'>Foren &Uuml;bersicht</a>.";
+$locale['forum_0271'] = "Es gibt keinen Beitrag in diesem Thread mehr. Bitte kehren Sie zum <a href=\"../../infusions/forum/index.php\">Forum Index</a> zur&uuml;ck";
 $locale['forum_0272'] = "Sortiert nach Stichworten";
 $locale['forum_0273'] = "Beliebte Themen dieser Woche";
 $locale['forum_0274'] = "Es gibt keine Thread-Stichworte";
 $locale['forum_0275'] = "Es wurden keine Threads gefunden";
 $locale['forum_0276'] = "Es sind keine Stichworte definiert";
 
-// Move Posts
 $locale['forum_0300'] = "Beitr&auml;ge verschieben";
 $locale['forum_0301'] = "W&auml;hle neues Forum";
 $locale['forum_0302'] = "Weiter";
 $locale['forum_0303'] = "W&auml;hle neues Thema";
-$locale['forum_0304'] = "Beitr&auml;ge verschieben";
 $locale['forum_0305'] = "Sie versuchen den ersten Beitrag eines Themas zu verschieben!<br />Der erste Beitrag <strong>wird nicht verschoben</strong> und wird von der Liste entfernt, da sich noch andere Beitr&auml;ge in diesem Thema befinden.";
 $locale['forum_0306'] = "Sie versuchen den ersten Beitrag eines Themas zu verschieben!<br />Der erste Beitrag <strong>wird verschoben</strong> und das Thema wird gel&ouml;scht.";
 $locale['forum_0307'] = "Es existieren keine Beitr&auml;ge, welche verschoben werden k&ouml;nnen.";
 $locale['forum_0308'] = "In diesem Forum existieren keine Themen.";
 $locale['forum_0309'] = "Zur&uuml;ck zum Thema.";
 $locale['forum_0310'] = "Es existieren keine Themen um Beitr&auml;ge zu verschieben.";
-
-// Viewforum icons
 $locale['forum_0311'] = "Hei&szlig;es Thema";
 $locale['forum_0312'] = "Datei hochgeladen";
 $locale['forum_0313'] = "Bild hochgeladen";
@@ -156,7 +156,6 @@ $locale['forum_0326'] = "Neues Thema er&ouml;ffnen";
 $locale['forum_0327'] = "Es wurden noch keine Foren in dieser Kategorie angelegt.";
 $locale['forum_0328'] = "Es wurden noch keine Foren angelegt.";
 $locale['forum_0340'] = "Fragen";
-$locale['forum_0341'] = "Themen";
 $locale['forum_0350'] = " Forenregeln";
 $locale['forum_0351'] = "Unterforen";
 $locale['forum_0352'] = "Ank&uuml;ndigungen";
@@ -167,65 +166,50 @@ $locale['forum_0363'] = "Letzte Aktualisierung ";
 $locale['forum_0364'] = " Benutzer Webseite";
 $locale['forum_0365'] = " Antworten";
 $locale['forum_0366'] = " Umfrage hinzuf&uuml;gen";
-$locale['forum_0370'] = "Gelesen";
-$locale['forum_0371'] = "Beitr&auml;ge";
 $locale['forum_0372'] = "Bewertungen";
 $locale['forum_0373'] = "Letzte Antwort von: ";
 $locale['forum_0374'] = "Alle Themen";
-$locale['forum_0375'] = "Diskussionen";
-$locale['forum_0376'] = "Anh&auml;nge";
-$locale['forum_0377'] = "Umfrage";
 $locale['forum_0378'] = "Gel&ouml;ste Themen";
 $locale['forum_0379'] = "Ungel&ouml;ste Themen";
-$locale['forum_0380'] = "Autor";
 $locale['forum_0381'] = "Beitragsdatum";
-$locale['forum_0382'] = "Betreff";
-$locale['forum_0383'] = "Antworten";
-$locale['forum_0384'] = "Gelesen";
-$locale['forum_0385'] = "Abw&auml;rts (A-Z)";
-$locale['forum_0386'] = "Aufw&auml;rts (Z-A)";
-$locale['forum_0387'] = "Zeitraum";
 $locale['forum_0388'] = "Zeige Themen von";
 $locale['forum_0389'] = "Typ";
 $locale['forum_0390'] = "Alle Themen";
-$locale['forum_0391'] = "Verfassungsdatum";
 $locale['forum_0395'] = "Forum w&auml;hlen";
 $locale['forum_0396'] = "Foren Auswahl best&auml;tigen";
 $locale['forum_0397'] = "Es wurden noch keine Foren angelegt.";
+$locale['forum_0398'] = "Nicht m&ouml;glich die Datei herunterzuladen";
+$locale['forum_0399'] = "Add Bounty";
 
-// Permissions - 0400
-$locale['forum_perm_access'] = "Sie %s alle Themen in diesem Forum sehen.";
-$locale['forum_perm_post'] = "Sie %s ein neues Thema in diesem Forum er&ouml;ffnen.";
-$locale['forum_perm_create_poll'] = "Sie %s Umfragen in diesem Forum erstellen.";
-$locale['forum_perm_upload'] = "Sie %s Anh&auml;nge in diesem Forum hochladen.";
-$locale['forum_perm_download'] = "Sie %s Anh&auml;nge in diesem Forum herunterladen.";
-$locale['forum_perm_reply'] = "Sie %s auf dieses Thema antworten.";
-$locale['forum_perm_edit_poll'] = "Sie %s die Umfrage in diesem Thema bearbeiten.";
-$locale['forum_perm_vote_poll'] = "Sie %s f&uuml;r diese Umfrage abstimmen.";
-$locale['forum_perm_rate'] = "Sie %s die Beitr&auml;ge in diesem Thema bewerten.";
+$locale['forum_0400'] = "Thread bounty has been updated. Please be sure to select the answer to be awarded with the bounty";
 
-// Post Titles
 $locale['forum_0500'] = "Themenvorschau";
 $locale['forum_0501'] = "Thema starten";
-$locale['forum_0502'] = "Beitragsvorschau";
-$locale['forum_0503'] = "Zum Thema antworten";
-$locale['forum_0504'] = "Antworten";
 $locale['forum_0505'] = "&Auml;nderungen ansehen";
 $locale['forum_0506'] = "Beitrag l&ouml;schen";
 $locale['forum_0507'] = "Beitrag bearbeiten";
 $locale['forum_0508'] = "&Auml;nderungen speichern";
 $locale['forum_0509'] = "Antworten";
-
-// Post Preview
+$locale['forum_0510'] = "Zustimmung";
+$locale['forum_0511'] = "Ablehnung";
+$locale['forum_0512'] = "Antwort akzeptieren";
+$locale['forum_0513'] = "Antwort entfernen";
+$locale['forum_0514'] = "beantwortet";
+$locale['forum_0515'] = "Du hast deine Zustimmung entfernt";
+$locale['forum_0516'] = "du hast zugestimmt";
+$locale['forum_0517'] = "Du hast deine Ablehnung entfernt";
+$locale['forum_0518'] = "Du hast abgelehnt";
+$locale['forum_0519'] = "Sie haben nicht genug Privilegien für {%action%}verdient. Sie m&uuml;ssen mindestens {%points%} verdienen";
 $locale['forum_0520'] = "Keine Nachricht, der Beitrag wird entfernt, wenn Sie keine Nachricht angebent.";
 $locale['forum_0521'] = "Beitr&auml;ge:";
-$locale['forum_0522'] = "Wohnort:";
-$locale['forum_0523'] = "Registrierungsdatum:";
 $locale['forum_0524'] = "Ver&ouml;ffentlichungsdatum ";
 $locale['forum_0525'] = "Letzter Beitrag";
 $locale['forum_0526'] = "Letzten %s Beitr&auml;ge";
-
-// Post Error/Success
+$locale['forum_0527'] = "%s haben darauf geantwortet - %s";
+$locale['forum_0528'] = "%s %s %s dazu - %s";
+$locale['forum_0529'] = "reacted";
+$locale['forum_0529a'] = "You do not have sufficient permissions to vote";
+$locale['forum_0530'] = "others";
 $locale['forum_0540'] = "Der Dateityp ist nicht erlaubt.";
 $locale['forum_0541'] = "Fehlerhafter Dateiname oder fehlerhafte Dateigr&ouml;&szlig;e.";
 $locale['forum_0542'] = "Fehler: Sie haben keinen Betreff und / oder keine Nachricht angegeben.";
@@ -265,110 +249,71 @@ $locale['forum_0591'] = "Flush Beitr&auml;ge";
 $locale['forum_0592'] = "Flush Themen";
 $locale['forum_0593'] = "Flush Anh&auml;nge";
 $locale['forum_0595'] = "Flush Umfragen";
+$locale['forum_0596'] = "FAQs";
+$locale['forum_0597'] = "Question|Questions";
 
-// Post Form
-$locale['forum_0600'] = "Betreff";
 $locale['forum_0601'] = "Nachricht";
 $locale['forum_0602'] = "Optionen";
 $locale['forum_0603'] = "Umfrage bearbeiten";
 $locale['forum_0604'] = "Umfragetitel";
 $locale['forum_0604a'] = "Der Name f&uuml;r die Umfrage";
 $locale['forum_0605'] = "Antwort";
-$locale['forum_0606'] = $locale['forum_0605']." %s";
+$locale['forum_0606'] = "Poll Option %s";
 $locale['forum_0607'] = "Die Umfrage wurde erfolgreich hinzugef&uuml;gt.";
 $locale['forum_0608'] = "Antwort hinzuf&uuml;gen";
 $locale['forum_0609'] = "Aktualisieren";
-$locale['forum_0610'] = "L&ouml;schen";
 $locale['forum_0611'] = "Bearbeitungsgrund";
 $locale['forum_0612'] = "Die Umfrage wurde erfolgreich aktualisiert.";
 $locale['forum_0613'] = "<span class='required'>*</span> Markierte Felder m&uuml;ssen ausgef&uuml;llt werden oder enthalten abgegebene Stimmen. Um eine Umfrage Antwort zu entfernen, lassen Sie das Feld leer.";
 $locale['forum_0614'] = "Vielen Dank! Ihre Stimme wurde erfolgeich gespeichert.";
 $locale['forum_0615'] = "Die Umfrage wurde erfolgreich entfernt.";
 $locale['forum_0616'] = "Warnung! Wenn Sie die Umfrage entfernen, werden auch alle abgegebene Stimmen entfernt.";
-
-// Post Form Options
+$locale['forum_0617'] = "Warning: You are not eligible to cast a vote in the poll.";
 $locale['forum_0620'] = "Dieses Thema anpinnen";
 $locale['forum_0621'] = "Dieses Thema schliessen";
 $locale['forum_0622'] = "Smilies in diesen Forenbeitrag deaktivieren";
-$locale['forum_0623'] = "Signatur in diesen Forenbeitrag anzeigen";
 $locale['forum_0624'] = "Forenbeitrag entfernen";
 $locale['forum_0625'] = "Anhang entfernen -";
-$locale['forum_0626'] = "Benachrichtigen, wenn eine neue Antwort verfasst wurde";
 $locale['forum_0627'] = "Bearbeitung verstecken";
 $locale['forum_0628'] = "Beitrag sperren";
 $locale['forum_0630'] = "Die Umfrage wird nur erstellt, wenn auch das Thema erstellt wurde.";
-
-// Forum Post Merger
 $locale['forum_0640'] = "Zusammengef&uuml;rt am";
-
-// Search Forum Form
 $locale['forum_0650'] = "Flood Control - Nette Nachricht";
+$locale['forum_0660'] = "Thread Reply Notification - {THREAD_SUBJECT}";
+$locale['forum_0661'] = "Hallo {USERNAME},
 
-// Forum Notification Email
-$locale['forum_0660'] = "Neuer Forenbeitrag auf ".fusion_get_settings('sitename');
-$locale['forum_0661'] = "Hallo {USERNAME},\n\n";
-$locale['forum_0661'] .= "es wurde ein neuer Forenbeitrag in einem von Ihren abonnierten Thema verfasst.\n\n";
-$locale['forum_0661'] .= "Die Nachricht wurde im Thema mit dem Betreff \"{THREAD_SUBJECT}\" verfasst. Sie k&ouml;nnen das Thema hier aufrufen:\n";
-$locale['forum_0661'] .= "{THREAD_URL}\n\n";
-$locale['forum_0661'] .= "Wenn Sie keine Benachrichtung erhalten wollen, klicken Sie bitte bei dem Thema auf \"Thema nicht mehr verfolgen\".\n\n";
-$locale['forum_0661'] .= "Mit freundlichen Gr&uuml;&szlig;en ".fusion_get_settings('siteusername');
+";
 
-// Delete Thread
-$locale['forum_0700'] = "Thema entfernen";
+$locale['forum_0662'] = "User Options";
+$locale['forum_0663'] = "Edit User";
+$locale['forum_0664'] = "Ban User";
+$locale['forum_0665'] = "L&ouml;sche den Benutzer";
+
 $locale['forum_0701'] = "Das Thema wurde erfolgreich entfernt.";
-$locale['forum_0702'] = "Zur&uuml;ck zum Forum";
-$locale['forum_0703'] = "Zur&uuml;ck zur Foren &Uuml;bersicht";
 $locale['forum_0704'] = "Sind Sie sich sicher, dass das Thema entfert werden soll?";
-
-// Lock Thread
-$locale['forum_0710'] = "Thema sperren";
+$locale['forum_0705'] = "Unable to remove thread because thread does not exist";
 $locale['forum_0711'] = "Das Thema wurde erfolgreich gesperrt.";
-
-// Unlock Thread
 $locale['forum_0720'] = "Thema entsperren";
 $locale['forum_0721'] = "Das Thema wurde erfolgreich entsperrt.";
-
-// Make Thread Sticky
-$locale['forum_0730'] = "Thema pinnen";
 $locale['forum_0731'] = "Das Thema wurde erfolgreich angepinnt.";
-
-// Make Thread Non-Sticky
-$locale['forum_0740'] = "Thema nicht mehr pinnen";
 $locale['forum_0741'] = "Das Thema wird absofort nicht mehr angepinnt.";
-
-// Move Thread
-$locale['forum_0750'] = "Thema verschieben";
 $locale['forum_0751'] = "Thema verschieben nach";
 $locale['forum_0752'] = "Das Thema wurde erfolgreich verschoben.";
-
-// Renew Thread
-$locale['forum_0758'] = "Thema erneuern";
 $locale['forum_0759'] = "Das Thema wurde erfolgreich erneuert.";
-
-// Post vote errors
 $locale['forum_0800'] = "Abstimmung abgelehnt";
-$locale['forum_0801'] = "Sie k&ouml;nnen keine zweite Stimme in einem Thema abgeben.";
 $locale['forum_0802'] = "Sie k&ouml;nnen keine Stimme f&uuml;r dein eigenes Thema abgeben.";
 $locale['forum_0803'] = "Die abgegebene Stimme wurde erfolgreich gespeichert.";
-
-// forum.forms.php
 $locale['forum_2000'] = "Thema: ";
 $locale['forum_2001'] = "Was ist Ihre Meinung?";
 $locale['forum_2002'] = "Re: ";
 $locale['forum_2010'] = "Stimme abgeben";
 $locale['forum_2011'] = "Umfrage erstellen";
-$locale['forum_2012'] = "Umfrage bearbeiten";
 $locale['forum_2013'] = "Umfrage bearbeiten";
-
-/* Filters in viewforum */
-$locale['forum_3000'] = "Alle Themen";
-$locale['forum_3001'] = "Diskussionen";
-$locale['forum_3002'] = "Anh&auml;nge";
-$locale['forum_3003'] = "Umfragen";
-$locale['forum_3004'] = "Gel&ouml;ste Themen";
-$locale['forum_3005'] = "Ungel&ouml;ste Themen";
-$locale['forum_3006'] = "Kompletter Zeitraum";
-$locale['forum_3007'] = "Heute";
+$locale['forum_2014'] = "Set a Bounty";
+$locale['forum_2015'] = "Point|Points";
+$locale['forum_2016'] = "Bounty Description";
+$locale['forum_2017'] = "Set Bounty";
+$locale['forum_2018'] = "Start Bounty";
 $locale['forum_3008'] = "Zwei Tage";
 $locale['forum_3009'] = "Eine Woche";
 $locale['forum_3010'] = "Zwei Wochen";
@@ -377,16 +322,27 @@ $locale['forum_3012'] = "Zwei Monate";
 $locale['forum_3013'] = "Drei Monate";
 $locale['forum_3014'] = "Sechs Monate";
 $locale['forum_3015'] = "Ein Jahr";
-$locale['forum_3016'] = "Autor";
-$locale['forum_3017'] = "Beitragsdatum";
-$locale['forum_3018'] = "Betreff";
-$locale['forum_3019'] = "Antworten";
-$locale['forum_3020'] = "Gelesen";
-$locale['forum_3021'] = "Abw&auml;rts (Z-A)";
-$locale['forum_3022'] = "Aufw&auml;rts (A-Z)";
+$locale['forum_4001'] = "Thread-Beantwortung";
+$locale['forum_4002'] = "Post Answer Accepted";
+$locale['forum_4003'] = "You have marked the post as the answered to your question";
+$locale['forum_4004'] = "Post Answer Removed";
+$locale['forum_4005'] = "You have marked the post as unanswered to your question";
+$locale['forum_4006'] = "Post Answer Changed";
+$locale['forum_4007'] = "You have changed the answer to your question";
+$locale['forum_4100'] = "Edit Bounty Description";
+$locale['forum_4101'] = "This question has an open bounty worth {%points%} from {%profile_link%} ending in {%countdown%}";
+$locale['forum_4102'] = "This question is widely addressed to the entire community. The author has requested an answer to this thread.";
+$locale['forum_4103'] = "Bounty Points awarded to {%user_name%}";
+$locale['forum_4104'] = "We wish to inform you that since there are no selected answer within bounty time limit, the highest voted answer has been awarded with half of the bounty points. You can view the best answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4105'] = "You have earned a Bounty Award!";
+$locale['forum_4106'] = "Congratulations for earning half of the total bounty points made on the question in {%thread_link%}. Your answer was selected by default because it has received the highest vote by the community before bounty time ended.";
+$locale['forum_4107'] = "Award Bounty";
+$locale['forum_4108'] = "The bounty has been awarded as requested.";
+$locale['forum_4109'] = "Thread bounty not awarded";
+$locale['forum_4110'] = "Thread bounty cannot be given to yourself.";
+$locale['forum_4120'] = "There are no forum ID or thread id defined. Please define either one.";
+$locale['forum_4121'] = "There are no activity in this forum.";
 
-// Period for search & filter
-$locale['forum_p000'] = "Heute";
 $locale['forum_p001'] = "1 Tag";
 $locale['forum_p002'] = "2 Tage";
 $locale['forum_p007'] = "1 Woche";
@@ -395,16 +351,17 @@ $locale['forum_p030'] = "1 Monat";
 $locale['forum_p060'] = "2 Monate";
 $locale['forum_p090'] = "3 Monate";
 $locale['forum_p180'] = "6 Monate";
-$locale['forum_p365'] = "1 Jahr";
 $locale['forum_p999'] = "Alle Ergebnisse";
+$locale['forum_perm_access'] = "Sie %s alle Themen in diesem Forum sehen.";
+$locale['forum_perm_bounty'] = "You %s set up a bounty in this discussion thread.";
+$locale['forum_perm_create_poll'] = "Sie %s Umfragen in diesem Forum erstellen.";
+$locale['forum_perm_download'] = "Sie %s Anh&auml;nge in diesem Forum herunterladen.";
+$locale['forum_perm_edit_poll'] = "Sie %s die Umfrage in diesem Thema bearbeiten.";
+$locale['forum_perm_post'] = "Sie %s ein neues Thema in diesem Forum er&ouml;ffnen.";
+$locale['forum_perm_rate'] = "Sie %s die Beitr&auml;ge in diesem Thema bewerten.";
+$locale['forum_perm_reply'] = "Sie %s auf dieses Thema antworten.";
+$locale['forum_perm_upload'] = "Sie %s Anh&auml;nge in diesem Forum hochladen.";
+$locale['forum_perm_vote_poll'] = "Sie %s f&uuml;r diese Umfrage abstimmen.";
 
-// Notifications
-$locale['error-MP000'] = "Beitr&auml;ge verschieben - Fehler";
-$locale['error-MP001'] = "Das neue Thema existiert nicht.";
-$locale['error-MP002'] = "Die von Ihnen ausgew&auml;hlen Beitr&auml;ge existieren nicht, oder jemand anders hat diese bereits verschoben.";
-$locale['error-MP003'] = "Es sind keine Beitr&auml;ge zum verschieben vorhanden.";
 $locale['success-DP001'] = "Die Beitr&auml;ge wurden erfolgreich verschoben.";
 $locale['success-DP002'] = "Alle Beitr&auml;ge wurden erfolgreich entfernt. Die Forenthemen wurden ebenfalls entfernt, da diese keine Forenbeitr&auml;ge mehr enthalten haben.";
-$locale['error-DP001'] = "Keine Forenbeitr&auml;ge zum verschieben vorhanden.";
-
-?>

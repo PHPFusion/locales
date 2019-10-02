@@ -1,6 +1,4 @@
 <?php
-
-// Mitgliederliste
 $locale['MEMB_000'] = "Mitgliederliste";
 $locale['MEMB_001'] = "Avatar";
 $locale['MEMB_002'] = "Benutzername";
@@ -20,5 +18,3 @@ $locale['MEMB_015'] = "Ist in keiner gruppe";
 $locale['MEMB_016'] = "Zugriff auf alle Gruppen";
 $locale['MEMB_017'] = "Zeige {%start_row%} - {%end_row%} der {%max_row%} aktiven {%member%}";
 $locale['MEMB_018'] = "Es beginnt kein Name mit: ";
-
-?>

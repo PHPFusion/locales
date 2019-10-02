@@ -1,5 +1,4 @@
 <?php
-// Theme Administration
 $locale['theme_1000'] = "Themeadministration";
 $locale['theme_1001'] = "Name:";
 $locale['theme_1002'] = "Themeeinstellungen";
@@ -40,15 +39,12 @@ $locale['theme_1035'] = "No description available for this theme.";
 $locale['theme_1036'] = "Readme";
 $locale['theme_1037'] = "Select Theme Pack";
 
-// Schriftarten
 $locale['theme_2001'] = "Standard Schriftarten";
 $locale['theme_2002'] = "Komponenten";
 $locale['theme_2003'] = "Navigationen";
 $locale['theme_2004'] = "Schriftarten";
 $locale['theme_2005'] = "Erstelle neues Style f&uuml;r %s Theme";
 $locale['theme_2006'] = "Das Themesystem erstellt derzeit ein neues Style f&uuml;r dein Theme. ";
-$locale['theme_2006'] .= "Dies kann 15 bis 30 Sekunden dauern, je nach Internetgeschwindigkeit. ";
-$locale['theme_2006'] .= "Bitte lade die Seite nicht neu oder schlie&szlig;e das Fenster.\n";
 $locale['theme_2007'] = "Styletitel";
 $locale['theme_2008'] = "Template";
 $locale['theme_2009'] = "Farbe w&auml;hlen";
@@ -79,7 +75,6 @@ $locale['theme_2033'] = "Wähle einen Hintergrund Fülltyp";
 $locale['theme_2034'] = "Schriftfarbe Aktiv";
 $locale['theme_2035'] = "Schriftstyle Aktiv";
 
-// Theme Komponenten
 $locale['theme_3001'] = "Maximale Breite Einstellungen";
 $locale['theme_3002'] = "Tablets";
 $locale['theme_3003'] = "Laptops";
@@ -105,7 +100,6 @@ $locale['theme_3022'] = "Erfolgreich";
 $locale['theme_3023'] = "Warnung";
 $locale['theme_3024'] = "Fehler";
 
-// Navigations
 $locale['theme_4001'] = "Horizontale Navbar Einstellungen";
 $locale['theme_4002'] = "Navbar H&ouml;he";
 $locale['theme_4003'] = "Navbar Rahmenweite";
@@ -123,7 +117,6 @@ $locale['theme_4014'] = "Schriftart Style";
 $locale['theme_4015'] = "Horizontales Schriftstyle";
 $locale['theme_4016'] = "Link Style";
 
-// Schriftstyles
 $locale['theme_5000'] = "Normal";
 $locale['theme_5001'] = "Fett";
 $locale['theme_5002'] = "Kursiv";
@@ -133,21 +126,17 @@ $locale['theme_5005'] = "Fett und Kursiv";
 $locale['theme_5006'] = "Kursiv und Unterstrichen";
 $locale['theme_5007'] = "Kursiv, Unterstrichen und Fett";
 
-// Hintergrund Farben
 $locale['theme_5008'] = "Fläche füllen";
 $locale['theme_5009'] = "Horizontaler Verlauf";
 $locale['theme_5010'] = "Vertikaler Verlauf";
 $locale['theme_5011'] = "Kreisverlauf";
 $locale['theme_5012'] = "Diagonaler Verlauf";
 $locale['theme_5013'] = "Style speichern";
-
-// Nachrichten Erfolgreich
 $locale['theme_success_001'] = "Das Theme wurde erfolgreich in den Themeordner hochgeladen.";
 $locale['theme_success_002'] = "Das Theme Style wurde erfolgreich entfernt.";
 $locale['theme_success_003'] = "Das Theme Style wurde erfolgreich aktualisiert.";
 $locale['theme_success_004'] = "Das Theme Style wurde erfolgreich hinzugef&uuml;gt";
 
-// Nachrichten Fehler
 $locale['theme_error_001'] = "Das Themearchiv ist zu gro&szlig;. Bitte lade nur Dateien hoch, die kleiner als %s sind.";
 $locale['theme_error_002'] = "Das Themearchiv ist nicht korrekt. Bitte nur Themes, die ein ZIP-Archiv sind.";
 $locale['theme_error_003'] = "Unbekannter Uploadfehler.";
@@ -157,4 +146,3 @@ $locale['theme_error_006'] = "Dein Server unterst&uuml;tzt Zip-Archive nicht. Bi
 $locale['theme_error_007'] = "Das Theme kann nicht erneuert werden! Gr&uuml;nde: Variablen nicht gesetzt oder das Formular ist fehlerhaft.";
 $locale['theme_error_008'] = "Compiler Fehler. Theme wurde nicht aktualisiert.";
 $locale['theme_error_009'] = "File theme.php was not found.";
-?>

@@ -1,5 +1,4 @@
 <?php
-
 // Standard
 $locale['400'] = "Private Nachrichten";
 $locale['401'] = "Neue Nachricht";
@@ -25,7 +24,6 @@ $locale['420'] = "Private Nachricht senden";
 $locale['420a'] = "Empf&auml;nger";
 $locale['421'] = "Suche Benutzer ..";
 $locale['422'] = "Nachricht";
-//$locale['422a'] = "Original Nachricht";
 $locale['423'] = "BB Code";
 $locale['424'] = "Smileys";
 $locale['425'] = "Optionen";
@@ -38,10 +36,7 @@ $locale['431'] = "Private Nachricht senden";
 $locale['432'] = "Schlie&szlig;en";
 $locale['433'] = "Antworten";
 $locale['434'] = "An alle senden";
-$locale['435'] = "Abbrechen";
-//$locale['436'] = "Antwort Vorschau";
 $locale['437'] = "Senden";
-//$locale['438'] = "Vorschau der Nachricht";
 $locale['439'] = "Antwort";
 $locale['440'] = "(empfangen %s)";
 $locale['441'] = "Als Seiteninhaber schreiben";
@@ -53,7 +48,7 @@ $locale['446'] = "Ungelesene Nachrichten";
 $locale['447'] = "Nachrichten lesen";
 $locale['448'] = "Einstellungen";
 
-// Such Optionen - genutzt in Search.php
+// Search Options -- this is used by Search.php
 $locale['450'] = "Such- und Sortieroptionen";
 $locale['451'] = "Suche / Sortierung";
 $locale['452'] = "Bereinigen";
@@ -74,9 +69,10 @@ $locale['466'] = "Nicht markiert";
 $locale['467'] = "Keine Unterhaltung markiert";
 $locale['468'] = "Neue Unterhaltung mit %s beginnen";
 $locale['469'] = "Antwort an %s";
+
 $locale['471'] = "Es befinden sich keine Nachrichten in diesem Postfach.";
 
-// Error Nachrichten
+// Error Messages
 $locale['480'] = "Fehler";
 $locale['481'] = "Falsche Nachrichten ID";
 $locale['482'] = "Falsche Benutzer ID";
@@ -127,20 +123,15 @@ $locale['622'] = "Gesendete Nachrichten automatisch speichern";
 $locale['623'] = "Einstellungen speichern";
 $locale['624'] = "Deine Einstellungen wurden erfolgreich aktualisiert.";
 $locale['625'] = "Neue private Nachricht auf ".fusion_get_settings('sitename');
-$locale['626'] = "Du hast eine neue private Nachricht auf unserer Seite erhalten.\n\n";
-$locale['626'] .= "Die Nachricht wurde von [USER] mit dem Betreff \"[SUBJECT]\" versendet. Du kannst die Nachricht, nachdem du dich mit deinem Account angemeldet hast, lesen.\n\n";
-$locale['626'] .= "Wenn du keine Benachrichtungen erhalten willst, &auml;ndere bitte die Einstellungen bei den privaten Nachrichten.\n\n";
-$locale['626'] .= "Mit freundlichen Gr&uuml;&szlig;en ".fusion_get_settings('sitename');
+$locale['626'] = "Du hast eine neue private Nachricht auf unserer Seite erhalten.
+
+";
 $locale['627'] = "Fehler";
 $locale['628'] = "Die private Nachricht konnte nicht gesendet werden. Der Posteingang des Empf&auml;ngers ist voll.";
 $locale['629'] = "Du kannst die markierten Nachrichten nicht in das Postfach verschieben, da sonst das Limit &uuml;berschritten wird.";
 $locale['630'] = " Nachrichten Limit";
-$locale['631'] = "Ja";
-$locale['632'] = "Nein";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
 $locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
 $locale['702'] = "Message Recipient User ID is invalid";
 $locale['703'] = "You are flooding, send_pm halted";
-
-?>

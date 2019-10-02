@@ -1,8 +1,6 @@
 <?php
-$locale['submit_0000'] = "%s News";
-$locale['submit_0001'] = "%s Artikel";
-$locale['submit_0002'] = "%s Downloads";
-$locale['submit_0003'] = "%s Photos";
-$locale['submit_0004'] = "%s Weblinks";
-$locale['submit_0005'] = "%s Blog";
-$locale['submit_0006'] = "%s FAQs";
+$locale['article_submit'] = "%s Artikel";
+$locale['blog_submit'] = "%s Blog";
+$locale['download_submit'] = "%s Downloads";
+$locale['gallery_submit'] = "%s Fotos";
+$locale['news_submit'] = "%s News";

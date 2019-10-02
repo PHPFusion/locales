@@ -1,7 +1,7 @@
 <?php
-
-// Administration Main Links
+// Admin Links
 $locale['200'] = "[SITENAME] Adminbereich";
+$locale['200a'] = "Administration";
 $locale['ac00'] = "&Uuml;bersicht";
 $locale['ac01'] = "Inhalt";
 $locale['ac02'] = "Benutzer";
@@ -11,62 +11,66 @@ $locale['ac05'] = "Infusionen";
 $locale['ac10'] = "Admin-Dashboard";
 $locale['202'] = "Benutzerprofil Konfiguration";
 
-// Administration -> Inhalt
+// Pre-defined sections
+$locale['AC'] = "Artikelkategorien";
 $locale['A'] = "Artikel";
 $locale['BLOG'] = "Blog";
+$locale['BLC'] = "Blogkategorien";
 $locale['CP'] = "Eigene Seiten";
+$locale['DC'] = "Downloadkategorien";
 $locale['D'] = "Downloads";
 $locale['FQ'] = "FAQs";
 $locale['F'] = "Foren";
-$locale['PH'] = "Fotoalben";
 $locale['IM'] = "Bilder";
-$locale['N'] = "News";
-$locale['PO'] = "Umfragen";
-$locale['W'] = "Weblinks";
-
-// Administration -> Benutzer
-$locale['APWR'] = "Administratorenpassw&ouml;r.";
-$locale['AD'] = "Administratoren";
-$locale['B'] = "Blacklist";
-$locale['M'] = "Mitglieder";
-$locale['MI'] = "Migration Tool";
-$locale['UF'] = "Benutzerfelder";
-$locale['UG'] = "Benutzergruppen";
-$locale['UL'] = "Benutzer Log";
-$locale['UP'] = "Benutzer Profil";
-
-// Administration -> System
-$locale['SB'] = "Banner";
-$locale['BB'] = "BB Codes";
-$locale['DB'] = "Datenbankbackup";
-$locale['MAIL'] = "E-Mail Templates";
-$locale['ERRO'] = "Fehlerlog";
 $locale['I'] = "Infusionen";
+$locale['IP'] = "Infusionen Panels";
+$locale['M'] = "Mitglieder";
+$locale['MI'] = "Migrationstool";
+$locale['N'] = "News";
 $locale['P'] = "Panels";
-$locale['PL'] = "Permalinks";
+$locale['PH'] = "Fotoalben";
+$locale['B'] = "Blacklist";
+$locale['C'] = "Kommentare";
+$locale['DB'] = "Datenbankbackup";
 $locale['PI'] = "PHP Info";
-$locale['ROB'] = "robots.txt";
+$locale['PO'] = "Umfragen";
 $locale['SL'] = "Navigationslinks";
-$locale['SM'] = "Smileys";
-$locale['TS'] = "Themes";
-$locale['U'] = "Upgrade";
-
-// Administration -> Einstellungen
-$locale['LANG'] = "Sprache";
+$locale['SU'] = "Einsendungen";
+$locale['U'] = "Update";
+$locale['UG'] = "Benutzergruppen";
+$locale['UP'] = "Benutzer Profil";
+$locale['WC'] = "Weblinkkategorien";
+$locale['W'] = "Weblinks";
 $locale['S1'] = "Allgemeines";
 $locale['S2'] = "Zeit und Datum";
 $locale['S3'] = "Themes";
 $locale['S4'] = "Registrierung";
 $locale['S6'] = "Sonstiges";
 $locale['S7'] = "Private Nachrichten";
+$locale['NC'] = "Newskategorien";
+$locale['BB'] = "BB Codes";
+$locale['SM'] = "Smileys";
+$locale['UF'] = "Benutzerfelder";
+$locale['FR'] = "Forumr&auml;nge";
 $locale['S8'] = "News";
 $locale['S9'] = "Benutzerverwaltung";
 $locale['S11'] = "Downloads";
 $locale['S10'] = "Objekte pro Seite";
+$locale['SB'] = "Banner";
 $locale['S12'] = "Sicherheit";
+$locale['APWR'] = "Administratorenpassw&ouml;r.";
+$locale['ERRO'] = "Fehlerlog";
+$locale['AD'] = "Administratoren";
+$locale['UL'] = "Benutzer Log";
+$locale['MAIL'] = "E-Mail Templates";
+$locale['PL'] = "Permalinks";
+$locale['ROB'] = "robots.txt";
+$locale['TS'] = "Themes";
 $locale['S13'] = "Blog";
+$locale['LANG'] = "Sprache";
+$locale['FM'] = "Fusion File Manager";
 
-// Admin Dashboard
+// Site Information
 $locale['250'] = "Dashboard - &Uuml;bersicht";
 $locale['251'] = "Registrierte Mitglieder";
 $locale['252'] = "Unaktivierte Mitglieder";
@@ -117,17 +121,8 @@ $locale['291'] = "Zeige den autosave";
 $locale['292'] = "&Uuml;berarbeitung gespeichert";
 $locale['293'] = "F&uuml;llen f&uuml;r den Autosave";
 
-// Administration -> Nicht Verwendet?
-$locale['BLC'] = "Blogkategorien";
-$locale['DC'] = "Downloadkategorien";
-$locale['ESHP'] = "eShop";
-$locale['IP'] = "Infusion Panels";
-$locale['C'] = "Kommentare";
-$locale['NC'] = "Newskategorien";
-$locale['FR'] = "Forumr&auml;nge";
-$locale['SU'] = "Einsendungen";
-$locale['WC'] = "Weblinkkategorien";
-$locale['AWPR'] = "Administratorpassw&ouml;rter zur&uuml;cksetzten";
-$locale['AC'] = "Artikelkategorien";
-
-?>
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

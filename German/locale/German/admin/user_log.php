@@ -19,4 +19,3 @@ $locale['UL_017'] = "Tage";
 $locale['UL_018'] = "Aufstreigend";
 $locale['UL_019'] = "Absteigend";
 $locale['UL_020'] = "Alle Ausw&auml;hlen";
-?>

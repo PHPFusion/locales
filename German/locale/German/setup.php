@@ -1,12 +1,8 @@
 <?php
-// Index
 $locale['setup_0000'] = "PHP-Fusion 9.0 Edition Installation";
 $locale['setup_0002'] = "Herzlich Willkommen zur PHP-Fusion 9.0 Installation";
-$locale['setup_0003'] = "Der Installer f&uuml;hrt dich durch die notwendigen Schritte, um das Content Management System PHP-Fusion auf deinen Server zu installieren.<br /><br />\n";
-$locale['setup_0003'] .= "Solltest du in Zukunft weitere Hilfe ben&ouml;tigen, k&ouml;nntest du einen Blick in die <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208' title='Online Dokumentation (Englisch)' target='_blank'>Online Dokumentation (Englisch)</a> von PHP-Fusion.co.uk werfen.<br /><br />";
-$locale['setup_0003'] .= "Alternativ kannst du dich auch an die offiziellen Supportseiten f&uuml;r den deutschen Sprachraum wenden.<br />\n";
-$locale['setup_0003'] .= "&raquo; <a href='http://www.php-fusion.at/' title='PHP-Fusion &Ouml;sterreich' target='_blank' class='strong'>PHP-Fusion &Ouml;sterreich</a><br />\n";
-$locale['setup_0003'] .= "&raquo; <a href='http://www.phpfusion-deutschland.de/' title='PHP-Fusion Deutschland' target='_blank' class='strong'>PHP-Fusion Deutschland</a><br />\n";
+$locale['setup_0003'] = "Der Installer f&uuml;hrt dich durch die notwendigen Schritte, um das Content Management System PHP-Fusion auf deinen Server zu installieren.<br /><br />
+";
 $locale['setup_0005'] = "Ich habe die aktuellen <a href='https://php-fusion.co.uk/license/' target='_blank' title='Lizenzbedienungen'>Lizenzbedienungen</a> gelesen und akzeptiere diese ";
 $locale['setup_0006'] = "PHP-Fusion 9 braucht mindestens PHP 5.5.9. Siehe unter <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>System vorraussetzung</a> f&uuml;r mehr information.";
 $locale['setup_0007'] = "Systems with OPCache installed must have <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> enabled.";
@@ -44,8 +40,6 @@ $locale['setup_0118'] = "Your web server does not appear to support PDO (PHP Dat
 $locale['setup_0119a'] = "Consider increasing your PHP memory limit to %memory_minimum_limit to help prevent errors in the installation process.";
 $locale['setup_0119b'] = "Increase the memory limit by editing the memory_limit parameter in the file ".get_cfg_var('cfg_file_path')." and then restart your web server (or contact your system administrator or hosting provider for assistance).";
 $locale['setup_0119c'] = "Contact your system administrator or hosting provider for assistance with increasing your PHP memory limit.";
-$locale['setup_stepx'] = "Schritt %1\$d: %2\$s";
-
 // Buttons
 $locale['setup_0120'] = "Konfiguration beenden";
 $locale['setup_0121'] = "Weiter";
@@ -66,7 +60,6 @@ $locale['setup_0141'] = "Database permissions and access verified";
 $locale['setup_0142'] = "config.php file created";
 $locale['setup_0143'] = "The specified table prefix is already in use and is running. The installer will proceed with updating differences as required";
 $locale['setup_0144'] = "Database Diagnostics Completed";
-
 // Step 1
 $locale['setup_1000'] = "Bitte w&auml;hle deine Sprache";
 $locale['setup_1001'] = "Du kannst weitere Sprachpakete auf der <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank' title='Offizielle PHP-Fusion Support Seite (Englisch)'><strong>offiziellen PHP-Fusion Supportseite (Englisch)</strong></a> herunterladen.";
@@ -88,24 +81,23 @@ $locale['setup_1017'] = "Installer verlassen";
 $locale['setup_1018'] = "Du kannst den Installer einfach verlassen, in dem du auf den Button unterhalb klickst.<br />Die Datei <em>config_temp.php</em> wird wieder auf <em>config.php</em> umbenannt.";
 $locale['setup_1019'] = "Installer verlassen";
 $locale['setup_1020'] = ".htaccess file created/updated";
-
 // Step 2
 $locale['setup_1090'] = "Files";
 $locale['setup_1091'] = "Status";
 $locale['setup_1092'] = "Database Configurations and Driver";
 $locale['setup_1106'] = "Server and File Structure Requirements Diagnostics";
-
 // Step 3 - Access criteria
 $locale['setup_1200'] = "Datenbank- und Seiteneinstellungen";
 $locale['setup_1201'] = "Bitte gib im nachstehenden Formular deine Datenbank Zugangsdaten an.";
 $locale['setup_1202'] = "Datenbank Host";
+$locale['setup_1202a'] = "Database Port:";
+$locale['setup_1202b'] = "Leave empty if you do not use another port";
 $locale['setup_1203'] = "Datenbank Benutzername";
 $locale['setup_1204'] = "Datenbank Passwort";
 $locale['setup_1205'] = "Datenbank Name";
 $locale['setup_1206'] = "Tabellenprefix";
 $locale['setup_1207'] = "Cookieprefix";
 $locale['setup_1208'] = "PDO aktivieren?";
-
 // Step 4 - Database Setup
 $locale['setup_1210'] = "Nein";
 $locale['setup_1211'] = "Ja";
@@ -127,7 +119,6 @@ $locale['setup_1311'] = "Die angegebene MySQL-Datenbank existiert nicht.";
 $locale['setup_1313'] = "Das Tabellenprefix ist in Verwendung. Die Datenbanktabellen werden nicht erstellt. Bitte beginne neu oder &uuml;berspringe den Schritt.";
 $locale['setup_1315'] = "Bitte &uuml;berpr&uuml;fe, ob dein MySQL-Benutzer Lese-, Schreib- und L&ouml;sch-Berechtigungen f&uuml;r die angegebene Datenbank besitzt.";
 $locale['setup_1317'] = "Du musst alle MySQL-Datenbankfelder ausf&uuml;llen, damit die Verbindung zu stande kommen kann.";
-
 // Step 6 - Super Admin login
 $locale['setup_1500'] = "Seiteninhaber-Account";
 $locale['setup_1501'] = "Einstellungen zu dem Seiteninhaber-Account.";
@@ -141,7 +132,11 @@ $locale['setup_1510'] = "Website Email address:";
 $locale['setup_1511'] = "Auswahl der Website Region:";
 $locale['setup_1512'] = "Seiten Sprachen Installation:";
 $locale['setup_1513'] = "Seiten eigentuemer";
-
+// Progress Reports
+$locale['setup_1600'] = "Die Installation ist abgeschlossen.";
+$locale['setup_1601'] = "PHP-Fusion 9.0 kann nun benutzt weerden. Die Installation ist abgeschlossen. Bitte benenne die Datei <em>config_temp.php</em> zu <em>config.php</em> um.<br/>";
+$locale['setup_1602'] = "<strong>Hinweis! Nachdem du deine Seite aufgerufen hast, bitten wir dich, den Ordner <em>/install</em> auf deinem Webspace zu entfernen und die Schreibrechte der <em>config.php</em>-Datei auf 0644 zu setzten. Anderenfalls gehst du ein gro&szlig;es Sicherheitsrisiko ein!</strong>";
+$locale['setup_1603'] = "Vielen Dank, dass du PHP-Fusion verwendest!";
 // Step 6 - User details validation
 $locale['setup_5010'] = "Der Benutzername enth&auml;hlt ung&uuml;ltige Zeichen.";
 $locale['setup_5011'] = "Du musst einen Benutzernamen angeben.";
@@ -151,13 +146,6 @@ $locale['setup_5015'] = "Deine beiden Administrationspassw&ouml;rter stimmen nic
 $locale['setup_5016'] = "Dein Loginpasswort darf nicht identisch mit dem Administrations Passwort sein.";
 $locale['setup_5017'] = "Das Administrationspasswort ist ung&uuml;ltig, bitte benutzte nur Alphanummerische Zeichen.<br />Das Administrationspasswort muss mindestens 8 Zeichen lang sein.";
 $locale['setup_5020'] = "Du musst deine E-Mail Adresse angeben.";
-
-// Progress Reports
-$locale['setup_1600'] = "Installing ";
-$locale['setup_1601'] = "Updating table structure on ";
-$locale['setup_1602'] = "Adding new column on ";
-$locale['setup_1603'] = "Populating data ";
-
 // Step 6 - Admin Panels
 $locale['setup_3000'] = "Administratoren";
 $locale['setup_3002'] = "Artikel";
@@ -203,8 +191,8 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Theme";
 $locale['setup_3057'] = "Migrationstool";
 $locale['setup_3058'] = "Themeeinstellungen";
-
-//Multilanguage table rights
+$locale['setup_3059'] = "Fusion File Manager";
+// Multilanguage table rights
 $locale['setup_3200'] = "Artikel";
 $locale['setup_3201'] = "Eigene Seiten";
 $locale['setup_3202'] = "Downloads";
@@ -219,7 +207,6 @@ $locale['setup_3210'] = "Navigationslinks";
 $locale['setup_3211'] = "Panels";
 $locale['setup_3212'] = "Forumr&auml;nge";
 $locale['setup_3213'] = "Blog";
-
 // Step 6 - Navigation Links
 $locale['setup_3300'] = "Startseite";
 $locale['setup_3302'] = "Downloads";
@@ -247,7 +234,6 @@ $locale['setup_3324'] = "Neues Forenthema er&ouml;ffnen";
 $locale['setup_3325'] = "letzter Artikel";
 $locale['setup_3326'] = "Letzter Download";
 $locale['setup_3327'] = "FAQ einsenden";
-
 // Stage 6 - Panels
 $locale['setup_3400'] = "Navigation";
 $locale['setup_3401'] = "Benutzer Online";
@@ -257,7 +243,6 @@ $locale['setup_3405'] = "Forenthemenliste";
 $locale['setup_3406'] = "Benutzerinformationen";
 $locale['setup_3407'] = "Mitgliederumfragen";
 $locale['setup_3408'] = "RSS";
-
 // Stage 6 - News Categories
 $locale['setup_3500'] = "Fehler";
 $locale['setup_3501'] = "Downloads";
@@ -275,7 +260,6 @@ $locale['setup_3512'] = "Sicherheit";
 $locale['setup_3513'] = "Software";
 $locale['setup_3514'] = "Themes";
 $locale['setup_3515'] = "Betriebssystem";
-
 // Stage 6 - Sample Forum Ranks
 $locale['setup_3600'] = "Seiten Administrator";
 $locale['setup_3601'] = "Administrator";
@@ -286,7 +270,6 @@ $locale['setup_3605'] = "Mitglied";
 $locale['setup_3606'] = "Senior Mitglied";
 $locale['setup_3607'] = "Veteran Mitglied";
 $locale['setup_3608'] = "Fusioneer";
-
 // Stage 6 - Sample Smileys
 $locale['setup_3620'] = "L&auml;cheln";
 $locale['setup_3621'] = "Zwinkern";
@@ -298,7 +281,6 @@ $locale['setup_3626'] = "Cool";
 $locale['setup_3627'] = "Grinsen";
 $locale['setup_3628'] = "B&ouml;se";
 $locale['setup_3629'] = "Like";
-
 // Stage 6 - User Field Categories
 $locale['setup_3640'] = "Profil";
 $locale['setup_3641'] = "Kontaktinformationen";
@@ -306,7 +288,6 @@ $locale['setup_3642'] = "Sonstige Informationen";
 $locale['setup_3643'] = "Optionen";
 $locale['setup_3644'] = "Statistiken";
 $locale['setup_3645'] = "Privatsph&auml;hre";
-
 // Stage 6 - Forum Tags
 $locale['setup_3660'] = "Seiten Information";
 $locale['setup_3661'] = "Discussions regarding the management of this website";
@@ -319,19 +300,16 @@ require_once __DIR__."/user_fields/user_sig.php";
 require_once __DIR__."/user_fields/user_skype.php";
 require_once __DIR__."/user_fields/user_theme.php";
 require_once __DIR__."/user_fields/user_web.php";
-require_once __DIR__."/user_fields/user_yahoo.php";
 require_once __DIR__."/user_fields/user_timezone.php";
 require_once __DIR__."/user_fields/user_blacklist.php";
 
 // Welcome message
 $locale['setup_3650'] = "Herzlich Willkommen auf deiner neuen Webseite!<br /><br />";
-
 // Final message
-$locale['setup_1600'] = "Die Installation ist abgeschlossen.";
-$locale['setup_1601'] = "PHP-Fusion 9.0 kann nun benutzt weerden. Die Installation ist abgeschlossen. Bitte benenne die Datei <em>config_temp.php</em> zu <em>config.php</em> um.<br/>";
-$locale['setup_1602'] = "<strong>Hinweis! Nachdem du deine Seite aufgerufen hast, bitten wir dich, den Ordner <em>/install</em> auf deinem Webspace zu entfernen und die Schreibrechte der <em>config.php</em>-Datei auf 0644 zu setzten. Anderenfalls gehst du ein gro&szlig;es Sicherheitsrisiko ein!</strong>";
-$locale['setup_1603'] = "Vielen Dank, dass du PHP-Fusion verwendest!";
-
+$locale['setup_1700'] = "Setup is Complete";
+$locale['setup_1701'] = "PHP-Fusion 9 is now ready for use. Click Finish to rewrite your config_temp.php file to config.php<br/>";
+$locale['setup_1702'] = "<strong>Note: After you enter your site you should delete /install.php file and chmod your config.php back to 0644 for security reasons.</strong>";
+$locale['setup_1703'] = "Thank you for choosing PHP-Fusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";
@@ -339,29 +317,22 @@ $locale['setup_3701'] = "%d. %B %Y %H:%M:%S";
 $locale['setup_3702'] = "%d.%m.%Y um %H:%M";
 $locale['setup_3703'] = "%d. %B %Y";
 $locale['setup_3704'] = "%d. %B %Y %H:%M:%S";
-
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "E-Mail Templates";
 $locale['setup_3801'] = "Neue private Nachricht";
 $locale['setup_3802'] = "Neue private Nachricht auf [SITENAME]";
-$locale['setup_3803'] = "Hallo [RECEIVER],\n\n";
-$locale['setup_3803'] .= "Du hast eine neue private Nachricht auf unserer Seite erhalten.\n\n";
-$locale['setup_3803'] .= "Die Nachricht wurde von [USER] mit dem Betreff \"[SUBJECT]\" versendet. Du kannst die Nachricht, nachdem du dich mit deinem Account angemeldet hast, lesen.\n\n";
-$locale['setup_3803'] .= "Wenn du keine Benachrichtungen erhalten willst, &auml;ndere bitte die Einstellungen in den privaten Nachrichten.\n\n";
-$locale['setup_3803'] .= "Mit freundlichen Gr&uuml;&szlig;en [SENDER]";
+$locale['setup_3803'] = "Hallo [RECEIVER],
+
+";
 $locale['setup_3804'] = "Neuer Forenbeitrag";
 $locale['setup_3805'] = "Neuer Forenbeitrag auf [SITENAME]";
-$locale['setup_3806'] = "Hallo [RECEIVER],\n\n";
-$locale['setup_3806'] .= "es wurde ein neuer Forenbeitrag in einem von dir abonnierten Thema verfasst.\n\n";
-$locale['setup_3806'] .= "Die Nachricht wurde im Thema mit dem Betreff \"[SUBJECT]\" verfasst. Du kannst das Thema hier aufrufen:\n";
-$locale['setup_3806'] .= "[THREAD_URL]\n\n";
-$locale['setup_3806'] .= "Wenn du keine Benachrichtung erhalten willst, klicke bitte beim Thema auf \"Thema nicht mehr verfolgen\".\n\n";
-$locale['setup_3806'] .= "Mit freundlichen Gr&uuml;&szlig;en [SENDER]";
+$locale['setup_3806'] = "Hallo [RECEIVER],
+
+";
 $locale['setup_3807'] = "Kontaktformular";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";
-
 // Official Supported System List
 $locale['articles']['title'] = "Artikel";
 $locale['articles']['description'] = "Ein standardm&auml;&szlig;iges Dokumentationssystem.";
@@ -382,5 +353,3 @@ $locale['polls']['description'] = "Ein Umfragensystem, in dem angemeldete Benutz
 $locale['weblinks']['title'] = "Weblinks";
 $locale['weblinks']['description'] = "Ein Weblink-Datenbanksystem.";
 $locale['install'] = "System installieren";
-
-?>

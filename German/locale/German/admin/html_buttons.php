@@ -1,6 +1,5 @@
 <?php
-
-/* Buttons Beschreibung */
+/* Buttons description */
 $locale['html_000'] = "Fett";
 $locale['html_001'] = "Kursiv";
 $locale['html_002'] = "Unterstrichen";
@@ -10,7 +9,7 @@ $locale['html_005'] = "Horizontale Linie";
 $locale['html_006'] = "Text Links";
 $locale['html_007'] = "Text Mittig";
 $locale['html_008'] = "Text Rechts";
-$locale['html_009'] = 'Align justify';
+$locale['html_009'] = "Align justify";
 $locale['html_010'] = "Link einf&uuml;gen";
 $locale['html_011'] = "Bild einf&uuml;gen";
 $locale['html_012'] = "Mittig";
@@ -21,6 +20,7 @@ $locale['html_016'] = "Seitenumbruch";
 $locale['html_017'] = "Schriftfarbe";
 $locale['html_018'] = "Paragraph";
 $locale['html_019'] = "&Uuml;berschriften";
+$locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Text";
 $locale['preview'] = "Vorschau";

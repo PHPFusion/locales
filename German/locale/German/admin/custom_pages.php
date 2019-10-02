@@ -1,5 +1,4 @@
 <?php
-// Control Panel
 $locale['page_0100'] = "Seite";
 $locale['page_0101'] = "Seitentitel";
 $locale['page_0102'] = "Zugriff";
@@ -19,7 +18,7 @@ $locale['page_0115'] = "Alle Autoren";
 $locale['page_0116'] = "Wähle Autor";
 $locale['page_0117'] = "Bitte spezifiziere einen Seitentitel"; // 451
 $locale['page_0118'] = "Aktionen";
-// Eigene Seiten Titel
+// Custom Pages titles
 $locale['page_0200'] = "Neue Seite hinzufügen"; //ex 400
 $locale['page_0201'] = "Seite bearbeiten"; // ex 401
 $locale['page_0202'] = "Einstellungen";
@@ -93,3 +92,4 @@ $locale['page_0412'] = "Invalides Feld";
 $locale['page_0413'] = "Seite wirklich löschen?"; // 450
 $locale['page_0440'] = "Es sind noch keine Seiten angelegt worden.";
 $locale['page_0441'] = "Inhalt";
+$locale['page_0442'] = "You must choose at least one Page";

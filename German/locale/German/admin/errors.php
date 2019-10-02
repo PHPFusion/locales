@@ -1,10 +1,8 @@
 <?php
-
-// Titel
+// Titles
 $locale['ERROR_400'] = "Fehlerlog";
 $locale['ERROR_401'] = "Datei ansehen";
-
-// Fehler Tabelle
+// Errors table
 $locale['ERROR_410'] = "Fehler";
 $locale['ERROR_411'] = "Seite";
 $locale['ERROR_412'] = "Benutzer";
@@ -18,11 +16,9 @@ $locale['ERROR_419'] = "Datei";
 $locale['ERROR_420'] = "Details";
 $locale['ERROR_421'] = "Quellcode";
 $locale['ERROR_422'] = "Zurück nach Oben";
-
-// Formular löschen
+// Delete form
 $locale['ERROR_440'] = "Lösche alle Einträge mit Status";
-
-// Status Formular
+// Status form
 $locale['ERROR_450'] = "Neu";
 $locale['ERROR_451'] = "Behoben";
 $locale['ERROR_452'] = "Ignoriert";

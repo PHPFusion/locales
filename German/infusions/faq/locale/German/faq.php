@@ -1,12 +1,86 @@
 <?php
-
-// FAQs
-$locale['400'] = "FAQ (H&auml;ufig gestellte Fragen)";
-$locale['401'] = "FAQ";
-$locale['402'] = "Nach Oben";
-
-// Nachrichten
-$locale['410'] = "Entschuldigung! Es wurden noch keine FAQ-Kategorien angelegt.";
-$locale['411'] = "Entschuldigung! Es wurden noch keine FAQs in die Kategorie abgelegt.";
-
-?>
+$locale['faq_0000'] = "FAQs";
+$locale['faq_0001'] = "Kategorien";
+$locale['faq_0002'] = "Oben";
+$locale['faq_0003'] = "FAQ hinzufügen";
+$locale['faq_0004'] = "FAQ ändern";
+$locale['faq_0005'] = "Einsendungen";
+$locale['faq_0006'] = "Einstellungen";
+$locale['faq_0007'] = "Neue Kategorie hinzuf&uuml;gen";
+$locale['faq_0008'] = "FAQ-Kategorie bearbeiten";
+$locale['faq_0009'] = "FAQ-Kategorien";
+$locale['faq_0010'] = "Unkategorisiert";
+$locale['faq_0030'] = "FAQ erfolgreich erstellt";
+$locale['faq_0031'] = "FAQ erfolgreich aktualisiert";
+$locale['faq_0032'] = "FAQ erfolgreich gel&ouml;scht";
+$locale['faq_0034'] = "Sie m&uuml;ssen mindestens eine FAQ ausw&auml;hlen.";
+$locale['faq_0035'] = "FAQ kann nicht gel&ouml;scht werden";
+$locale['faq_0036'] = "Es gibt FAQ oder Unterkategorien in der Kategorie";
+$locale['faq_0037'] = "FAQ erfolgreich ver&ouml;ffentlicht";
+$locale['faq_0038'] = "FAQ-Veröffentlichung gelöscht";
+$locale['faq_0039'] = "FAQ Kategorie erstellt";
+$locale['faq_0040'] = "Die FAQ Kategorie wurde erfolgreich aktualisiert";
+$locale['faq_0041'] = "Die FAQ Kategorie wurde erfolgreich gel&ouml;scht";
+$locale['faq_0042'] = "Name der FAQ Kategorie muss eindeutig sein";
+$locale['faq_0060'] = "Einsendung wurde erfolgreich veröffentlicht.";
+$locale['faq_0061'] = "Einsendung erfolgreich als Entwurf gespeichert.";
+$locale['faq_0062'] = "Einsendung erfolgreich gelöscht.";
+$locale['faq_0063'] = "Es gibt keine neuen Einsendungen.";
+$locale['faq_0064'] = "Es sind derzeit %s zur Überprüfung verfügbar.";
+$locale['faq_0100'] = "FAQs";
+$locale['faq_0102'] = "FAQ-Kategorien";
+$locale['faq_0105'] = "Kategorie-ID";
+$locale['faq_0106'] = "Optionen";
+$locale['faq_0107'] = "Bearbeiten";
+$locale['faq_0111'] = "Antwort";
+$locale['faq_0112'] = "Bist du dir sicher, dass du die FAQ entfernen m&ouml;chtest?";
+$locale['faq_0112a'] = "Es wurden noch keine FAQ-Kategorien angelegt.";
+$locale['faq_0113'] = "Es wurden noch keine FAQs erstellt.";
+$locale['faq_0114'] = "Derzeit werden %d von %d gesamten FAQ-Eintr&auml;ge angezeigt.";
+$locale['faq_0115'] = "Derzeit werden %d von %d gesamten FAQ-Kategorien angezeigt.";
+$locale['faq_0116'] = "Es wurden noch keine FAQ-Kategorien angelegt.";
+$locale['faq_0117'] = "Sprache";
+$locale['faq_0118'] = "Kategorie speichern";
+$locale['faq_0119'] = "Kategorie hinzuf&uuml;gen";
+$locale['faq_0120'] = "Suche";
+$locale['faq_0122'] = "Leeren";
+$locale['faq_0123'] = "Status auswählen";
+$locale['faq_0124'] = "Gesamtstatus";
+$locale['faq_0125'] = "Sichtbarkeit auswählen";
+$locale['faq_0128'] = "Sprache auswählen";
+$locale['faq_0129'] = "Alle Sprachen";
+$locale['faq_0130'] = "Autor auswählen";
+$locale['faq_0131'] = "Alle Autoren";
+$locale['faq_0132'] = "Objekte pro Seite";
+$locale['faq_0200'] = "Kategoriename";
+$locale['faq_0202'] = "Kategoriebeschreibung";
+$locale['faq_0203'] = "Kategorie speichern";
+$locale['faq_0204'] = "Die FAQ-Kategorie wurde erfolgreich hinzugef&uuml;gt.";
+$locale['faq_0205'] = "Die FAQ-Kategorie wurde erfolgreich aktualisiert.";
+$locale['faq_0251'] = "Anwort";
+$locale['faq_0252'] = "Kommentare erlaubt";
+$locale['faq_0253'] = "Die Antwort selbst.";
+$locale['faq_0255'] = "Veröffentlicht";
+$locale['faq_0256'] = "Automatische Zeilenumbrüche aktivieren";
+$locale['faq_0257'] = "Ver&ouml;ffentlichungsdatum aktualisieren";
+$locale['faq_0258'] = "Weitere Einstellungen";
+$locale['faq_0259'] = "Weitere Informationen";
+$locale['faq_0270'] = "Sie m&uuml;ssen eine FAQ angeben.";
+$locale['faq_0271'] = "Sie m&uuml;ssen eine Frage angeben.
+";
+$locale['faq_0274'] = "%s sind f&uuml;r alle Eintr&auml;ge deaktiviert.
+Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
+$locale['faq_0350'] = "Die obige Einsendung wurde von {%SUBMISSION_AUTHOR%} eingesendet.";
+$locale['faq_0351'] = "Einsendungsdatum: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
+$locale['faq_0400'] = "Einstellungen für das FAQ-System.";
+$locale['faq_0900'] = "FAQ einsenden";
+$locale['faq_0910'] = "Die FAQ wurde erfolgreich &uuml;bermittelt.";
+$locale['faq_0911'] = "Vielen Dank für die Einsendung.";
+$locale['faq_0912'] = "Weitere FAQ einsenden.";
+$locale['faq_0913'] = "Zur&uuml;ck zum [SITENAME]";
+$locale['faq_0920'] = "Benutzen Sie das folgende Formular, um einen Artikel einzusenden. Ihre Einsendung wird von einem
+Administrator überprüft. [SITENAME] behält sich das Recht vor, jede Einsendung zu prüfen, zu bearbeiten oder abzulehnen. Artikel sollten den Inhalt auf dieser Website entsprechen. Nicht passende Einsendungen werden gel&ouml;scht.";
+$locale['faq_0921'] = "Du musst dich einloggen, um eine FAQ einzusenden.";
+$locale['faq_0922'] = "Wir akzeptieren im Moment keine neuen FAQ-Einsendungen.";
+$locale['faq_0923'] = "Du kannst keine FAQ einsenden, da keine Kategorien definiert sind.";
+$locale['faq_submit'] = "%s FAQs";

@@ -1,5 +1,4 @@
 <?php
-
 $locale['susp00'] = "Benutzer";
 $locale['susp01'] = "Gesperrt";
 $locale['susp02'] = "Unaktiviert";
@@ -9,8 +8,7 @@ $locale['susp05'] = "Gel&ouml;scht";
 $locale['susp06'] = "Anonymisiert";
 $locale['susp07'] = "Deaktiviert";
 $locale['susp08'] = "Inaktiv";
-
-$locale['susp10'] = "Normalisieren"; // Not needed?
+$locale['susp10'] = "Normalisieren";
 $locale['susp11'] = "Sperren";
 $locale['susp12'] = "Unaktivieren";
 $locale['susp13'] = "Tempor&auml;r sperren";
@@ -19,9 +17,7 @@ $locale['susp15'] = "L&ouml;schen";
 $locale['susp16'] = "Anonymisieren";
 $locale['susp17'] = "Deaktivieren";
 $locale['susp18'] = "Inaktivieren";
-
 $locale['susp_sys'] = "Systemaktion";
-
 $locale['susp100'] = "Benutzerlog Eintr&auml;ge f&uuml;r %s";
 $locale['susp100b'] = "%s Log Eintr&auml;ge f&uuml;r %s";
 $locale['susp101'] = "Alle Benutzerlogeintr&auml;ge f&uuml;r %s";
@@ -39,5 +35,3 @@ $locale['susp112'] = "IP-Adresse: ";
 $locale['susp113'] = "Aufgehoben";
 $locale['susp114'] = "Sperrprotokoll";
 $locale['susp115'] = "Benutzer";
-
-?>

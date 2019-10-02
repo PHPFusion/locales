@@ -42,19 +42,8 @@ $locale['ME_451'] = '%s\'s Profile';
 $locale['ME_452'] = 'Editiere %s\'s Profile';
 $locale['ME_453'] = 'L&ouml;sche Benutzer %s';
 $locale['ME_454'] = "Warnung!";
-$locale['ME_455'] = "Du bist dabei, den Benutzer <strong>%s</strong> zu l&ouml;schen.<br />\n";
-$locale['ME_455'] .= "Der folgende Inhalt des Benutzers wird ebenfalls entfernt:<br />\n";
-$locale['ME_455'] .= "- Artikel<br />\n";
-$locale['ME_455'] .= "- News<br />\n";
-$locale['ME_455'] .= "- Forenthemen, beachte bitte, auch die Forenbeitr&auml;ge anderer Benutzer in dem Forenthema, sowie die Umfragen und Anh&auml;nge werden ebenfalls entfernt.<br />\n";
-$locale['ME_455'] .= "- Forenbeitr&auml;ge<br />\n";
-$locale['ME_455'] .= "- Forenanh&auml;nge<br />\n";
-$locale['ME_455'] .= "- Kommentare<br />\n";
-$locale['ME_455'] .= "- Private Nachrichten, welche der Benutzer gesendet und/oder empfangen hat.<br />\n";
-$locale['ME_455'] .= "- Abstimmungen bei Umfragen<br />\n";
-$locale['ME_455'] .= "- Bewertungen<br />\n";
-$locale['ME_455'] .= "Sollte der Benutzer kein Spammer sein, empfehlen wir den Benutzer zu sperren, anonymisieren oder suspendieren.<br /><br />\n";
-$locale['ME_455'] .= "Bist du dir sicher, dass du den Benutzer l&ouml;schen m&ouml;chtest?<br />\n";
+$locale['ME_455'] = "Du bist dabei, den Benutzer <strong>%s</strong> zu l&ouml;schen.<br />
+";
 $locale['ME_456'] = 'L&ouml;sche den Benutzer';
 $locale['ME_457'] = "Sie sind dabei neue NICHT aktivierte %s! zu l&ouml;schen,<br/> sind Sie sich sicher?<br/>";
 
@@ -67,6 +56,7 @@ $locale['ME_465'] = 'Bitte beachte, dass einige Benutzer Inhalte eingereicht hab
 $locale['ME_466'] = 'Es wird dringend empfohlen, den Deaktivierungsprozess von L&ouml;schen auf Anonymisieren zu &auml;ndern, um Datenverlust zu verhindern!';
 $locale['ME_467'] = "Sette Deaktivierung-system auf anonymisieren.";
 $locale['ME_468'] = 'Automatische Deaktivierung von inaktiven Benutzern.';
+$locale['ME_469'] = 'User has been activated';
 
 // Actions
 $locale['ME_500'] = 'Bann';
@@ -76,6 +66,7 @@ $locale['ME_503'] = 'Sperren';
 $locale['ME_504'] = 'Sicherheit Bann';
 $locale['ME_505'] = 'Abbruch';
 $locale['ME_506'] = 'Anonymisieren';
+$locale['ME_507'] = 'Activate';
 
 // a_message keys
 $locale['ME_550'] = 'gebanned';

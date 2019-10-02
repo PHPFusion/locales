@@ -1,6 +1,5 @@
 <?php
-
-// Nachrichten
+// New locale for Quantum Fields
 $locale['fields_0100'] = "Diese Seite f&uuml;gt Tabellenfelder direkt in die Tabelle %s ein.";
 $locale['fields_0101'] = "Diese Seite f&uuml;gt Tabellenfelder direkt in die Tabelle %s ein, kombiniert mit der Tabelle DB_USERS &uuml;ber das Tabellenfeld %s.";
 $locale['fields_0102'] = "Es existieren keine Fehler in der Kategorie ";
@@ -25,7 +24,6 @@ $locale['field_0206'] = "Die Kategorie konnte nicht gefunden werden.";
 $locale['field_0207'] = "Die Kategorie wurde erfolgreich aktualisiert.";
 $locale['field_0208'] = "Die Kategorie wurde erfolgreich hinzugef&uuml;gt.";
 
-// Optionen
 $locale['fields_0300'] = "Felder";
 $locale['fields_0301'] = "Module";
 $locale['fields_0305'] = "Kategorie hinzuf&uuml;gen";
@@ -43,7 +41,6 @@ $locale['fields_0316'] = "Felder verschieben";
 $locale['fields_0317'] = "L&ouml;sche alle Felder in dieser Kategorie";
 $locale['fields_0318'] = "Kategorie speichern";
 
-// Modul Feld
 $locale['fields_0400'] = "Modulfeld Information";
 $locale['fields_0401'] = "Version:";
 $locale['fields_0402'] = "Erbe";
@@ -60,7 +57,6 @@ $locale['fields_0414'] = "Feld Sortierung";
 $locale['fields_0415'] = "Feld updaten";
 $locale['fields_0416'] = "Feld installieren";
 
-// Kategorie
 $locale['fields_0430'] = "Kategorie Name";
 $locale['fields_0431'] = "Hauptkategorie";
 $locale['fields_0432'] = "Als neue Seite";
@@ -70,7 +66,6 @@ $locale['fields_0435'] = "Prim&auml;re Tabelle Benutzer Spalte";
 $locale['fields_0436'] = "Icon Klasse";
 $locale['fields_0437'] = "icon for tabs";
 
-// Feld hinzufügen/bearbeiten
 $locale['fields_0450'] = "Kategorie";
 $locale['fields_0451'] = "Feldtitel";
 $locale['fields_0452'] = "Formular Feldtitel Name";
@@ -109,12 +104,10 @@ $locale['fields_0485'] = "Feld bei Registrierung hinzuf&uuml;gen";
 $locale['fields_0488'] = "Feld speichern";
 $locale['fields_0489'] = "Images Only";
 
-// Dateigrößen
 $locale['fields_0490'] = "Bytes (bytes)";
 $locale['fields_0491'] = "KB (Kilobytes)";
 $locale['fields_0492'] = "MB (Megabytes)";
 
-// Feld Typen
 $locale['fields_0500'] = "Module";
 $locale['fields_0501'] = "Textbox";
 $locale['fields_0502'] = "Drop &amp; Down";
@@ -126,13 +119,12 @@ $locale['fields_0507'] = "Farbe";
 $locale['fields_0508'] = "Datei";
 $locale['fields_0509'] = "Verborgen";
 $locale['fields_0510'] = "Adresse";
-$locale['fields_0511'] = "Tags";
+$locale['fields_0511'] = "Stichwörter";
 $locale['fields_0512'] = "Ort";
 $locale['fields_0513'] = "Nummer";
 $locale['fields_0514'] = "E-Mail";
 $locale['fields_0515'] = "Internet Adresse";
 
-// Warnungs Nachrichten
 $locale['fields_0600'] = "Es ist/sind %s Unterkategorie(n) in dieser Kategorie.";
 $locale['fields_0601'] = "Es ist/sind %s Benutzerfeld(er) in dieser Kategorie.";
 $locale['fields_0602'] = "Das Modul kann nicht installiert werden. Es fehlt die Tabellenfeldinformation.";
@@ -158,4 +150,3 @@ $locale['fields_0667'] = "Spalten Konflikt. Es sind Spalten in [OLD_TABLE] die e
 $locale['fields_0668'] = "Fork No.2 - Update Field on the same table";
 $locale['fields_0669'] = "Renaming column [FIELD_NAME] on [OLD_TABLE] to [FIELD_NAME_] with attributes of ";
 $locale['fields_0670'] = "Alte Daten";
-?>
