@@ -1,46 +1,34 @@
 <?php
 // Administrators messages
-$locale['400'] = "Administrator added";
-$locale['401'] = "Administrator updated";
-$locale['402'] = "Administrator removed";
+$locale['ADM_400'] = "管理员已添加";
+$locale['ADM_401'] = "管理员已更新";
+$locale['ADM_402'] = "管理员已删除";
 // Search/Add Administrator
-$locale['410'] = "Add Administrator";
-$locale['411'] = "Search for users to add using the form below.";
-$locale['412'] = "User ID";
-$locale['413'] = "User Name";
-$locale['414'] = "Search";
-$locale['415'] = "Apply all privileges";
-$locale['416'] = "Make Super Administrator";
-$locale['417'] = "Add Admin";
-$locale['418'] = "No users found.";
-$locale['419'] = "Search Again";
+$locale['ADM_410'] = "添加管理员";
+$locale['ADM_411'] = "请搜索要添加的用户";
+$locale['ADM_413'] = "用户名称";
+$locale['ADM_415'] = "应用所有权限";
+$locale['ADM_416'] = "创建超级管理员";
+$locale['ADM_418'] = "找不到用户";
+$locale['ADM_419'] = "再次搜索";
 // Current Administrators
-$locale['420'] = "Administrators";
-$locale['421'] = "User Name";
-$locale['422'] = "Admin Level";
-$locale['423'] = "Options";
-$locale['424'] = "Primary Admin";
-$locale['425'] = "No rights assigned";
-$locale['426'] = "Edit";
-$locale['427'] = "Remove";
+$locale['ADM_420'] = "管理員";
+$locale['ADM_421'] = "用户名称";
+$locale['ADM_422'] = "管理级别";
+$locale['ADM_423'] = "选项";
+$locale['ADM_425'] = "没有权利";
 // Edit Admin Rights
-$locale['440'] = "Edit Admin Rights";
-$locale['441'] = "Content Admin";
-$locale['442'] = "User Admin";
-$locale['443'] = "System Admin";
-$locale['444'] = "Infusions";
-$locale['445'] = "Check all";
-$locale['446'] = "UnCheck all";
-$locale['447'] = "Admin Password:";
-$locale['448'] = "Save Admin Rights";
-$locale['449'] = "Settings";
-$locale['450'] = "Check secure";
+$locale['ADM_440'] = "编辑管理员权利";
+$locale['ADM_441'] = "内容管理";
+$locale['ADM_442'] = "用户管理";
+$locale['ADM_443'] = "系统管理";
+$locale['ADM_444'] = "模块";
+$locale['ADM_445'] = "选择全部";
+$locale['ADM_448'] = "保存管理员权利";
+$locale['ADM_449'] = "设置";
+$locale['ADM_450'] = "勾选安全";
 // Popup Error/Warning Messages
-$locale['460'] = "Remove this administrator?";
-$locale['461'] = "Add this administrator?";
-$locale['462'] = "Giving these admin rights to a user is a potential security risk!";
-// Remove Admin confirmation
-$locale['470'] = "Delete Admin";
-$locale['471'] = "In order to remove this Administrator, please enter your admin password:";
-$locale['472'] = "Confirm";
-$locale['473'] = "Cancel";
+$locale['ADM_460'] = "删除此管理员？";
+$locale['ADM_461'] = "添加此管理员？";
+$locale['ADM_462'] = "给予这些管理员权限会带来安全风险!";
+$locale['ADM_463'] = "未选择任何操作!";

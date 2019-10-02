@@ -8,10 +8,9 @@ $locale['403'] = "Extended Blog";
 $locale['500'] = "Thread subject:";
 $locale['501'] = "Posted by ";
 $locale['502'] = " on ";
-$locale['503'] = "Edited by ";
+$locale['503'] = "编辑者";
 //License Agreement
 $locale['600'] = "Terms of Agreement";
 $locale['601'] = "Last updated on:";
 //Privacy Policy
 $locale['700'] = "Privacy Policy";
-

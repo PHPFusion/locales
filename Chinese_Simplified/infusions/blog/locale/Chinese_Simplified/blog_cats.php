@@ -1,9 +1,9 @@
 <?php
-$locale['400'] = "博客分类";
-$locale['401'] = "分类:";
-$locale['402'] = "博客数:";
-$locale['403'] = "没有分类的博客";
-$locale['404'] = "当前没有博客在此分类。";
-$locale['405'] = "更多";
-$locale['406'] = "显示所有分类";
-$locale['407'] = "没有博客分类。";
+$locale['400'] = "Blog Categories";
+$locale['401'] = "Category:";
+$locale['402'] = "Number of Items:";
+$locale['403'] = "None-Categorised Blogs";
+$locale['404'] = "There are no Blog items in this category.";
+$locale['405'] = "More";
+$locale['406'] = "Show All Categories";
+$locale['407'] = "No Blog Categories defined";

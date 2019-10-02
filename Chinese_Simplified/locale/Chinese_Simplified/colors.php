@@ -1,15 +1,15 @@
 <?php
 //color selection for multiple droplists
-$locale['color_0']  = "Null";
-$locale['color_1']  = "Alice Blue";
-$locale['color_2']  = "Antique White";
-$locale['color_3']  = "Aqua";
-$locale['color_4']  = "Aquamarine";
-$locale['color_5']  = "Azure";
-$locale['color_6']  = "Beige";
-$locale['color_7']  = "Bisque";
-$locale['color_8']  = "Black";
-$locale['color_9']  = "Blanched Almond";
+$locale['color_0'] = "Null";
+$locale['color_1'] = "Alice Blue";
+$locale['color_2'] = "Antique White";
+$locale['color_3'] = "Aqua";
+$locale['color_4'] = "Aquamarine";
+$locale['color_5'] = "Azure";
+$locale['color_6'] = "Beige";
+$locale['color_7'] = "Bisque";
+$locale['color_8'] = "Black";
+$locale['color_9'] = "Blanched Almond";
 $locale['color_10'] = "Blue";
 $locale['color_11'] = "Blue Violet";
 $locale['color_12'] = "Brown";
@@ -147,7 +147,7 @@ $locale['color_143'] = "Gray Blue";
 $locale['color_144'] = "Amber";
 $locale['color_145'] = "Light Green";
 $locale['color_146'] = "Sea Green";
-$locale['color_147'] = "Turqoise";
+$locale['color_147'] = "Turquoise";
 $locale['color_148'] = "Royal Blue";
 $locale['color_149'] = "Medium Gray";
 $locale['color_150'] = "Gold";
