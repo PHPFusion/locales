@@ -71,13 +71,13 @@ $locale['df_404'] = "%s er ikke en gyldig dato.";
 $locale['df_405'] = "%s er ikke en gyldig URL.";
 $locale['df_415'] = "Fejlagtigt filnavn.";
 $locale['df_416'] = "Din fil er for stor. Filer til upload skal være mindre end %s.";
-$locale['df_417'] = "Filtypen er ikke tilladt. Billedfiler skal være en af følgende typer: - %s";
+$locale['df_417'] = "Filtypen er ikke tilladt. Filen skal være en af følgende typer: - %s";
 $locale['df_418'] = "Filen er i orden, men den har et forbudt typenavn. Giv filen et nyt typenavn og prøv igen.";
 $locale['df_419'] = "Grafikfilen fik fejl i kontrollen. Lav en ny fil.";
 $locale['df_420'] = "Folderen eksisterer ikke. Lav folderen med din FTP-klient og prøv så igen.";
 $locale['df_421'] = "Billedet må ikke være større end %uw x %uh pixels.";
 $locale['df_422'] = "Ukendt fejl (Query)";
-$locale['df_423'] = "Billedet blev ikke uploadet korrekt. Prøv igen";
+$locale['df_423'] = "Filen blev ikke uploadet korrekt. Prøv igen";
 $locale['df_424'] = "Der er udpeget flere filer til upload, end det er tilladt. Prøv igen og tilknyt færre filer.";
 
 // ReCaptcha2
