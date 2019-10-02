@@ -71,13 +71,13 @@ $locale['df_404'] = "%s is geen geldig daum.";
 $locale['df_405'] = "%s is geen geldig URL.";
 $locale['df_415'] = "Ongeldige bestandsnaam.";
 $locale['df_416'] = "Upload bestand te groot. Nestand dient kleiner te zijn dan %s.";
-$locale['df_417'] = "Upload bestand is geen geldldig bestands type. Afbeelding dient een van de volgende types te zijn - %s";
+$locale['df_417'] = "Upload bestand is geen geldldig bestands type. Bestand dient een van de volgende types te zijn - %s";
 $locale['df_418'] = "Upload bestand is goed, maar de extensie is ongeldig. Hernoem a.u.b. uw bestands extensie en probeer het opnieuw.";
 $locale['df_419'] = "Afbeelding verificatie controle mislukt. Probeer a.u.b. opnieuw.";
 $locale['df_420'] = "Map bestaat niet. Maak a.u.b. de map aan via FTP en probee rnogmaals.";
 $locale['df_421'] = "Afbeelding mag niet groter zijn dan %uw x %uh pixels.";
 $locale['df_422'] = "Onbekende fout (Query)";
-$locale['df_423'] = "Afbeelding is niet correct geuploaded. Probeer a.u.b. nogmaals";
+$locale['df_423'] = "Bestand is niet correct geuploaded. Probeer a.u.b. nogmaals";
 $locale['df_424'] = "Huidige bestandsgrootte upload is groter dan de maximale limiet. Voeg a.u.b. minder bestanden toe en probeer nogmaals.";
 
 // ReCaptcha2

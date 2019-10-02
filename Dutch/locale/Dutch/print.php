@@ -1,12 +1,12 @@
 <?php
 //news, articles, blog
-$locale['400'] = "Gepost door ";
+$locale['400'] = "Geplaatst door ";
 $locale['401'] = " op ";
 $locale['402'] = "Uitgebreid nieuws";
 $locale['403'] = "Uitgebreide blog";
 //forums
 $locale['500'] = "Onderwerp:";
-$locale['501'] = "Gepost door ";
+$locale['501'] = "Geplaatst door ";
 $locale['502'] = " op ";
 $locale['503'] = "Gewijzigd door ";
 //License Agreement

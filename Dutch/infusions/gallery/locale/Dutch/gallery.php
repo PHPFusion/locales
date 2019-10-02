@@ -34,4 +34,4 @@ $locale['gallery_460'] = "Laatste foto";
 $locale['gallery_461'] = "Foto|Foto's";
 $locale['gallery_463'] = "Uitgever|uitgevers";
 $locale['gallery_464'] = "Datum toegevoegd:";
-$locale['gallery_465'] = "Foto Gallerij";
+$locale['gallery_465'] = "Foto Galerij";
