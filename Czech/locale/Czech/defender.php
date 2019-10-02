@@ -70,14 +70,14 @@ $locale['df_403'] = "%s není platné číslo.";
 $locale['df_404'] = "%s není platný datum.";
 $locale['df_405'] = "%s není platná adresa URL.";
 $locale['df_415'] = "Neplatný název souboru.";
-$locale['df_416'] = "Nahrát soubor příliš velký. Soubor musí být menší než %s.";
-$locale['df_417'] = "Nahrát soubor není platný typ souboru. Obrázek musí být jeden z následujících typů souborů - %s";
-$locale['df_418'] = "Nahrát soubor je v pořádku, ale rozšíření je neplatné. Přejmenujte příponu souboru a zkuste to znovu.";
+$locale['df_416'] = "Nahraný soubor je příliš velký. Soubor musí být menší než %s.";
+$locale['df_417'] = "Nahraný soubor není platný typ souboru. Soubor musí být jeden z následujících typů souborů - %s";
+$locale['df_418'] = "Nahraný soubor je v pořádku, ale přípona je neplatná. Přejmenujte příponu souboru a zkuste to znovu.";
 $locale['df_419'] = "Obrázek se nezdařil. Znovu udělejte svůj obrázek.";
 $locale['df_420'] = "Složka neexistuje. Vytvořte složku pomocí FTP a zkuste to znovu.";
 $locale['df_421'] = "Obrázek nesmí být větší než %uw x %uh pixels.";
 $locale['df_422'] = "Neznámá chyba (Query)";
-$locale['df_423'] = "Obrázek nebyl nahrán správně. Prosím zkuste to znovu";
+$locale['df_423'] = "Soubor nebyl nahrán správně. Prosím zkuste to znovu";
 $locale['df_424'] = "Aktuální soubory nahrávání jsou vyšší než maximální limit. Zkuste to prosím znovu a připojte méně souborů.";
 
 // ReCaptcha2
