@@ -9,8 +9,9 @@ $locale['411'] = "Komentaras ištrintas";
 $locale['420'] = "Išjungti šypsenėles";
 $locale['421'] = "Išsaugoti komentarą";
 // Comments
-$locale['430'] = "Redaguoti";
 $locale['431'] = "Trinti";
 $locale['432'] = "Vartotojo IP:";
 $locale['433'] = "Trinti komentarą?";
 $locale['434'] = "Komentarų nėra.";
+$locale['435'] = "Do you really want to add this user to a blacklist?";
+$locale['436'] = "Your comment are blacklisted.";

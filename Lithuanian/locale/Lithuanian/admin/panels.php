@@ -18,21 +18,19 @@ $locale['422'] = "Dešinė";
 $locale['423'] = "Failas";
 $locale['424'] = "PHP";
 $locale['425'] = "Žemesnis centras";
-$locale['426'] = "Žemiau antraštės"
-$locale['427'] = "Aukščiau poraštės"
-$locale['428a'] = "Narys 1";
+$locale['426'] = "Below header";
+$locale['427'] = "Above footer";
+$locale['428a'] = "User 1";
 $locale['428b'] = "Narys 2";
 $locale['428c'] = "Narys 3";
 $locale['428d'] = "Narys 4";
-// Panel Options
+// Panel Options1
 $locale['430'] = "Perkelti į kairę";
 $locale['431'] = "Perkelti į dešinę";
 $locale['432'] = "Pakelti aukštyn";
 $locale['433'] = "Nuleisti žemyn";
-$locale['434'] = "Redaguoti";
 $locale['435'] = "Įjungti";
 $locale['436'] = "Išjungti";
-$locale['437'] = "Ištrinti";
 $locale['438'] = "Pridėti naują panelę";
 $locale['439'] = "Atnaujinti panelių eiliškumą";
 $locale['440'] = "Ištrinti panelę?";

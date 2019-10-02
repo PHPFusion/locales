@@ -1,15 +1,12 @@
 <?php
-// Titles
-$locale['400'] = "robots.txt";
-// Messages
-$locale['410'] = "Ar esate tikras? robots.txt failas bus atstatytas į pradinę būseną.";
-$locale['411'] = "robots.txt failas neegzistuoja. Prašome sukurti failą pradinėje (root) direktorijoje ir bandyti dar kartą.";
-$locale['412'] = "robots.txt failas atnaujintas.";
-$locale['413'] = "Rastos šios klaidos:";
-$locale['414'] = "robots.txt failas nėra rašomas.";
-$locale['415'] = "Neįmanoma rašyti į robots.txt failą.";
-// Edit form
-$locale['420'] = "Redaguoti robots.txt failą";
-$locale['421'] = "Daugiau informacijos apie robots.txt failą galite rasti čia.";
-$locale['422'] = "Saugoti";
-$locale['423'] = "Atstatyti į pradinę būseną";
+$locale['ROBOT_400'] = "robots.txt";
+$locale['ROBOT_410'] = "Are you sure? robots.txt file will be set to default.";
+$locale['ROBOT_411'] = "robots.txt file does not exist. You can create this file in the root directory.";
+$locale['ROBOT_412'] = "robots.txt file updated.";
+$locale['ROBOT_414'] = "robots.txt file is not writable.";
+$locale['ROBOT_416'] = "robots.txt file Create.";
+$locale['ROBOT_417'] = "robots.txt content incorrect. Please use a valid content.";
+$locale['ROBOT_420'] = "Edit your robots.txt file";
+$locale['ROBOT_421'] = "[LINK]You can find more information and help about the robots.txt here.[/LINK]";
+$locale['ROBOT_422'] = "New robots.txt file Created";
+$locale['ROBOT_423'] = "Set back to default";

@@ -18,3 +18,4 @@ $locale['forum_tag_0205'] = "Šis raktažodis yra aktyvus";
 $locale['forum_tag_0206'] = "Šis raktažodis yra neaktyvus";
 $locale['forum_tag_0207'] = "Sukurti raktažodį";
 $locale['forum_tag_0208'] = "Atnaujinti raktažodį";
+$locale['forum_tag_0209'] = "No Forum Tag defined.";

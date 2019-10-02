@@ -1,7 +1,4 @@
 <?php
-/*
-| Lithuanian Translation: Edmundas Jankauskas - PHP-Fusion Lithuania (http://www.phpfusion-lt.com/)
-*/
 $locale['spotlight'] = "Apžvalgų centras";
 $locale['spotlight_search'] = "Ieškoti programėlių";
 $locale['copyright'] = "Copyright &copy; ";

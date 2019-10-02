@@ -18,3 +18,4 @@ $locale['UL_016'] = "Ištrinti įrašus senesnius nei: ";
 $locale['UL_017'] = "Dienos";
 $locale['UL_018'] = "Didėjančia tvarka";
 $locale['UL_019'] = "Mažėjančia tvarka";
+$locale['UL_020'] = "Select All";

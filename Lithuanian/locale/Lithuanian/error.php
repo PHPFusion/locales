@@ -6,4 +6,3 @@ $locale['err500'] = "Vidinė serverio klaida!";
 $locale['errunk'] = "Nežinoma klaida";
 $locale['errmsg'] = "Tinklapis, į kurį bandote patekti jau nebeveikia arba jūs neturite prieigos prie jo.";
 $locale['errret'] = "Grįžti į pradinį puslapį";
-

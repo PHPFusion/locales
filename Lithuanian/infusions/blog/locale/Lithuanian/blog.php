@@ -18,3 +18,4 @@ $locale['testimonial_join'] = "Šio tinklapio nariu tapau %s";
 $locale['testimonial_web'] = "Taip pat turiu kitą tinklapį %s";
 $locale['testimonial_contact'] = "Jeigu norite su manimi susisiekti, tai galite padaryti per %s";
 $locale['testimonial_email'] = "Taip pat galite man rašyti el. paštu adresu %s";
+$locale['blog_archive'] = "%b %Y";

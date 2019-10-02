@@ -2,7 +2,7 @@
 $locale['article_0000'] = "Esami straipsniai";
 $locale['article_0001'] = "Straipsniai";
 $locale['article_0002'] = "Pridėti straipsnį";
-$locale['article_0003'] = "Redaguoti straipsnį";									 
+$locale['article_0003'] = "Redaguoti straipsnį";
 $locale['article_0004'] = "Kategorijos";
 $locale['article_0005'] = "Pridėti kategoriją";
 $locale['article_0006'] = "Redaguoti kategoriją";
@@ -37,18 +37,15 @@ $locale['article_0111'] = "Ištrinti šį straipsnį?";
 $locale['article_0112'] = "Nėra sukurtų straipsnių.";
 $locale['article_0113'] = "Nėra straipsnių, atitinkančių paieškos kriterijus.";
 $locale['article_0114'] = "Prieš sukuriant straipsnį būtina sukurti bent vieną kategoriją.";
-
 $locale['article_0121'] = "Ieškoti";
 $locale['article_0122'] = "Išvalyti";
 $locale['article_0123'] = "Pasirinkti statusą";
 $locale['article_0124'] = "Visi statusai";
 $locale['article_0125'] = "Pasirinkti matomumą";
-
 $locale['article_0126'] = "Pasirinkti kategoriją";
 $locale['article_0127'] = "Visos kategorijos";
 $locale['article_0128'] = "Pasirinkti kalbą";
 $locale['article_0129'] = "Visos kalbos";
-
 $locale['article_0130'] = "Pasirinkti autorių";
 $locale['article_0131'] = "Visi autoriai";
 $locale['article_0132'] = "Rodomas kiekis";
@@ -56,7 +53,8 @@ $locale['article_0150'] = "Vardas";
 $locale['article_0152'] = "Statusas";
 $locale['article_0161'] = "Ištrinti šią kategoriją?";
 $locale['article_0162'] = "Nėra sukurtų kategorijų.";
-$locale['article_0200'] = "ID";
+$locale['article_0163'] = "Straipsnio antraštė";
+$locale['article_0200'] = "Nuorodos ID";
 $locale['article_0202'] = "Pateikėjas";
 $locale['article_0203'] = "Data";
 $locale['article_0204'] = "Nustatymai";
@@ -77,16 +75,15 @@ $locale['article_0270'] = "Prašome įvesti pavadinimą";
 $locale['article_0271'] = "Prašome įvesti ištrauką.";
 $locale['article_0272'] = "Prašome įvesti straipsnį.";
 $locale['article_0273'] = "Būtina pasirinkti kategoriją.";
-$locale['article_0274'] = "%s yra išjungtas.\n\rŠis nustatymas pradės galioti, kai tai bus įjungta.";
+$locale['article_0274'] = "%s yra išjungtas.
+Šis nustatymas pradės galioti, kai tai bus įjungta.";
 $locale['article_0303'] = "Priklausymas";
 $locale['article_0304'] = "Aprašymas";
-
 $locale['article_0320'] = "Būtina įvesti vardą.";
 $locale['article_0321'] = "Tokia kategorija jau yra sukurta.";
 $locale['article_0322'] = "Būtina įvesti aprašymą.";
 $locale['article_0350'] = "Šis pateikimas yra vartotojo {%SUBMISSION_AUTHOR%}.";
 $locale['article_0351'] = "Pateikimo data: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
-
 $locale['article_0352'] = "Leisti straipsnių pateikimus?";
 $locale['article_0400'] = "Nustatymai straipsnių sistemai.";
 $locale['article_0401'] = "Straipsnių puslapyje";
@@ -101,3 +98,4 @@ administratoriaus. [SITENAME] pasilieka teisę straipsnį redaguoti ar keisti. S
 $locale['article_0921'] = "Norėdami pateikti straipsnį prisijunkite.";
 $locale['article_0922'] = "Atsiprašome, tačiau šiuo metu nepriimame straipsnių pateikimų.";
 $locale['article_0923'] = "Atsiprašome, tačiau negalite pateikti straipsnio, nes nėra sukurtų kategorijų.";
+$locale['article_submit'] = "%s Articles";

@@ -1,34 +1,19 @@
 <?php
-/*
-Lithuanian Language Fileset
-Ready for: PHP-Fusion V9.00
-Language version: v1.8
-Vertė:
-	Edmundas Jankauskas (Creatium)[V9.0, V7.01, V7.02, V7.02.01, v7.02.02, v9]
-	Ozas Vantedas (ozzWANTED) [V7.00, V7.01, V7.02]
-	Algimantas Virbašius (MaFetas)[V7.02]
-	Gediminas Bruzgis (chipass)	  [V7.00, V7.01]
-	Gediminas Survila (Fanio)	  [V7.00]
-	Džiugas Šidlauskas (Enzo)	  [V7.00]
-	Simonas Švėgžda (Sineik)	  [V7.00]
-	Edvinas Vyšniauskas (mXt)	  [V7.00]
-
-	Adresas: http://www.phpfusion-lt.com
-*/
-
-// Locale Settings
-setlocale(LC_TIME, "lt","LT"); // Linux Server (Windows may differ)
-$locale['charset'] = "UTF-8";
-$locale['region'] = "LT"; // Lithuania
+setlocale(LC_ALL, "lt_LT.UTF-8"); // Linux Server (Windows may differ)
+$locale['charset'] = "UTF-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "LT"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "lt";
 $locale['short_lang_name'] = "lt";
-$locale['tinymce'] = "lt";
-$locale['select2'] = "lt";
-$locale['phpmailer'] = "lt";
-$locale['datepicker'] = "lt";
+$locale['tinymce'] = "lt"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "lt"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "lt"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "en_EN"; // refer to path includes/filemanager/lang/{value}.php
+$locale['datepicker'] = "lt"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
 $locale['datepicker_php'] = "Y-m-d H:i:s";
-$locale['password_strength'] = "lt";
+$locale['password_strength'] = "lt"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['date_day'] = "%d %b";
+$locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Sausis|Vasaris|Kovas|Balandis|Gegužė|Birželis|Liepa|Rugpjūtis|Rugsėjis|Spalis|Lapkritis|Gruodis";
 $locale['shortmonths'] = "&nbsp|Sau|Vas|Kov|Bal|Geg|Bir|Lie|Rug|Rgs|Spa|Lap|Gru";
@@ -38,6 +23,8 @@ $locale['year'] = "metai";
 $locale['year_a'] = "metai";
 $locale['month'] = "mėnesis";
 $locale['month_a'] = "mėnesiai";
+$locale['week'] = "week";
+$locale['week_a'] = "weeks";
 $locale['day'] = "diena";
 $locale['day_a'] = "dienos";
 $locale['hour'] = "valanda";
@@ -47,6 +34,7 @@ $locale['minute_a'] = "minutės";
 $locale['second'] = "sekundė";
 $locale['second_a'] = "sekundės";
 $locale['just_now'] = "tik ką";
+$locale['now'] = 'now';
 $locale['ago'] = "prieš";
 // Geo
 $locale['street1'] = "Gatvės adresas 1";
@@ -60,11 +48,11 @@ $locale['add_language'] = "Pridėti kalbos vertimus";
 $locale['add_lang'] = "Pridėti %s";
 $locale['other_states'] = "Kitos apskritys";
 // Name
-$locale['name'] = 'Pilnas vardas';
-$locale['username_pretext'] = 'Jūsų vartotojo vardas bus toks pat, koks ir vartotojo profilio adresas: %s %s';
-$locale['first_name'] = 'Vardas';
-$locale['middle_name'] = 'Antras vardas';
-$locale['last_name'] = 'Pavardė';
+$locale['name'] = "Pilnas vardas";
+$locale['username_pretext'] = "Jūsų vartotojo vardas bus toks pat, koks ir vartotojo profilio adresas: %s %s";
+$locale['first_name'] = "Vardas";
+$locale['middle_name'] = "Antras vardas";
+$locale['last_name'] = "Pavardė";
 // Documents
 $locale['doc_type'] = "Dokumento tipas";
 $locale['doc_series'] = "Serijos";
@@ -95,7 +83,8 @@ $locale['status8'] = "Neaktyvūs";
 $locale['userf1'] = "Moderatorius";
 // Navigation
 $locale['global_001'] = "Navigacija";
-$locale['global_002'] = "Nuorodų nėra\n";
+$locale['global_002'] = "Nuorodų nėra
+";
 $locale['global_003'] = "Nėra ką rodyti";
 // Users Online
 $locale['global_010'] = "Prisijungę vartotojai";
@@ -149,23 +138,19 @@ $locale['global_059'] = "Jūs nesekate jokių temų.";
 $locale['global_060'] = "Nustoti sekti šią temą?";
 // Blog, News & Articles
 $locale['global_070'] = "Parašė ";
-
 $locale['global_070b'] = "Rodyti visus %s pranešimus";
-
 $locale['global_071'] = "&middot; ";
 $locale['global_071b'] = "Autorius";
 $locale['global_072'] = "Skaityti toliau";
 $locale['global_073'] = " komentarai";
-
 $locale['global_073b'] = " komentaras";
 $locale['global_074'] = " perskaitymai";
 $locale['global_074b'] = " perskaitymas";
 $locale['global_075'] = "Spausdinti";
-$locale['print'] = 'Spausdinti';
+$locale['print'] = "Spausdinti";
 $locale['global_076'] = "Redaguoti";
 $locale['global_077'] = "Naujienos";
 $locale['global_078'] = "Naujienų kol kas nėra";
-
 $locale['global_079'] = " ";
 $locale['global_080'] = "Nekategorizuota";
 $locale['global_081'] = "Naujienų pradinis";
@@ -177,10 +162,7 @@ $locale['global_086'] = "Paskutinės naujienos";
 $locale['global_087'] = "Daugiausiai komentuojamos naujienos";
 $locale['global_088'] = "Didžiausių reitingų naujienos";
 $locale['global_089'] = "Būkite pirmi, pakomentavę %s";
-
-
 $locale['global_089a'] = "Būkite pirmi, įvertinę %s";
-
 $locale['global_089b'] = "Miniatiūrų rodymas";
 $locale['global_089c'] = "Sąrašo rodymas";
 // Page Navigation
@@ -276,10 +258,10 @@ $locale['global_193'] = "Negalima nustatyti dokumento slapuko. Prašome įsitiki
 $locale['global_194'] = "Šis vartotojas užblokuotas.";
 $locale['global_195'] = "Šis vartotojas neaktyvuotas.";
 $locale['global_196'] = "Neteisingas vartotojo vardas arba slaptažodis.";
+$locale['global_197'] = "Prašome palaukti kol perkelsime jus...
 
-$locale['global_197'] = "Prašome palaukti kol perkelsime jus...\n\n[ [LINK]Arba spauskite čia, jei nenorite laukti[/LINK] ]";
+[ [LINK]Arba spauskite čia, jei nenorite laukti[/LINK] ]";
 $locale['global_198'] = "DĖMESIO: RASTAS INSTALL-PHP FAILAS, NEDELSIANT JĮ IŠTRINKITE!";
-
 $locale['global_199'] = "DĖMESIO: administratoriaus slaptažodis nenustatytas, eikite į [LINK]Profilio Redagavimą[/LINK], kad jį nustatyti.";
 //Titles
 $locale['global_200'] = " - ";
@@ -290,10 +272,13 @@ $locale['global_204'] = " - Forumas";
 //Themes
 $locale['global_210'] = "Peršokti prie turinio";
 $locale['global_300'] = "dizainų nerasta";
-$locale['global_301'] = "Atsiprašome, bet negalime atvaizduoti šio puslapio. Dėl kažkokių aplinkybių nebuvo rastas joks portalo dizainas. Jeigu Jūs esate puslapio administratorius, naudodamiesi savo FTP klientu įkelkite kokį nors dizainą skirtą PHP-Fusion 9 sistemai į themes/ FTP katalogą. Po įkėlimo Pagrindiniuose nustatymuose patikrinkite ar pasirinktas dizainas buvo teisingai įkeltas į Jūsų themes/ FTP katalogą. Nepamirškite, kad įkelto dizaino katalogas turi turėti tokį patį pavadinimą(įskaitant ir didžiąsias/mažąsias raides, kas yra svarbu Unix pagrindu paremtiems serveriams) kaip ir esate pasirinke Pagrindinių nustatymų puslapyje.\n\nJeigu esate paprastas šio portalo lankytojas, prašome susisiekti su portalo administratoriumi el. paštu: [SITE_EMAIL] ir pranešti apie šią problemą.";
+$locale['global_301'] = "Atsiprašome, bet negalime atvaizduoti šio puslapio. Dėl kažkokių aplinkybių nebuvo rastas joks portalo dizainas. Jeigu Jūs esate puslapio administratorius, naudodamiesi savo FTP klientu įkelkite kokį nors dizainą skirtą PHP-Fusion 9 sistemai į themes/ FTP katalogą. Po įkėlimo Pagrindiniuose nustatymuose patikrinkite ar pasirinktas dizainas buvo teisingai įkeltas į Jūsų themes/ FTP katalogą. Nepamirškite, kad įkelto dizaino katalogas turi turėti tokį patį pavadinimą(įskaitant ir didžiąsias/mažąsias raides, kas yra svarbu Unix pagrindu paremtiems serveriams) kaip ir esate pasirinke Pagrindinių nustatymų puslapyje.
+
+Jeigu esate paprastas šio portalo lankytojas, prašome susisiekti su portalo administratoriumi el. paštu: [SITE_EMAIL] ir pranešti apie šią problemą.";
 $locale['global_302'] = "Dizainas, pasirinktas Pagrindiniuose nustatymuose neegzistuoja arba yra nebaigtas!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Oj! Kur dingo JavaScript?\nJūsų naršyklėje yra išjungtas JavaScript palaikymas, arba jo išvis nėra. Prašome įjungti JavaScript savo naršyklėje, jeigu norite matyti šį puslapį tvarkingai, arba atnaujinkite savo naršyklę į tokią, kuri palaiko JavaScript.";
+$locale['global_303'] = "Oj! Kur dingo JavaScript?
+Jūsų naršyklėje yra išjungtas JavaScript palaikymas, arba jo išvis nėra. Prašome įjungti JavaScript savo naršyklėje, jeigu norite matyti šį puslapį tvarkingai, arba atnaujinkite savo naršyklę į tokią, kuri palaiko JavaScript.";
 // User Management
 $locale['global_400'] = "suspenduotas";
 $locale['global_401'] = "blokuotas";
@@ -311,39 +296,57 @@ $locale['global_412'] = "Anketa buvo padaryta anonimine, greičiausiai dėl neak
 // Flood control
 $locale['global_440'] = "Automatinis flodo kontrolės sistemos blokavimas";
 $locale['global_441'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
-$locale['global_442'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojas tinklapyje [SITENAME] buvo pagautas pateikiantis per daug įrašų trumpame periode iš IP [USER_IP], ir todėl buvo blokuotas. Tai buvo padaryta siekiant apsisaugoti nuo botų, siunčiančių šlamšto pobūdžio informaciją.\n
-Prašome susisiekti su administratoriumi paštu [SITE_EMAIL] norėdami, kad Jūsų vartotojas būtų atkurtas arba pranešti kad tai ne Jūsų kaltė dėl šio saugumo blokavimo.\n\n
-Pagarbiai,\n[SITEUSERNAME]";
+$locale['global_442'] = "Sveiki [USER_NAME],
+
+Jūsų vartotojas tinklapyje [SITENAME] buvo pagautas pateikiantis per daug įrašų trumpame periode iš IP [USER_IP], ir todėl buvo blokuotas. Tai buvo padaryta siekiant apsisaugoti nuo botų, siunčiančių šlamšto pobūdžio informaciją.
+
+Prašome susisiekti su administratoriumi paštu [SITE_EMAIL] norėdami, kad Jūsų vartotojas būtų atkurtas arba pranešti kad tai ne Jūsų kaltė dėl šio saugumo blokavimo.
+
+
+Pagarbiai,
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Suspendavimą automatiškai pašalino sistema";
 $locale['global_451'] = "Suspendavimas pašalintas [SITENAME]";
-$locale['global_452'] = "Sveiki USER_NAME,\n
-Jūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas. Jūsų prisijungimo detalės:\n
-Slapyvardis: USER_NAME\nSlaptažodis: Nerodomas dėl saugumo motyvų\n
-Jeigu pamiršote savo slaptažodį, jį galite nustatyti nauju čia: LOST_PASSWORD\n\n
-Pagarbiai,\n[SITEUSERNAME]";
-$locale['global_453'] = "Sveiki USER_NAME,\nJūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas.\n\n
-Pagarbiai,\n[SITEUSERNAME]";
-$locale['global_454'] = "Vartotojas reaktyvuotas ".fusion_get_settings('sitename');
-$locale['global_455'] = "Sveiki USER_NAME,\n
-Paskutinį kartą kai prisijungė, Jūsų anketa buvo reaktyvuota tinklapyje ".fusion_get_settings('siteurl')." ir ji nėra daugiau pažymėta kaip neaktyvi.\n\n
-Pagarbiai,\n[SITEUSERNAME]";
+$locale['global_452'] = "Sveiki USER_NAME,
 
+Jūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas. Jūsų prisijungimo detalės:
+
+Slapyvardis: USER_NAME
+Slaptažodis: Nerodomas dėl saugumo motyvų
+
+Jeigu pamiršote savo slaptažodį, jį galite nustatyti nauju čia: LOST_PASSWORD
+
+
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['global_453'] = "Sveiki USER_NAME,
+Jūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas.
+
+
+Pagarbiai,
+[SITEUSERNAME]";
+$locale['global_454'] = "Account reactivated at [SITENAME]";
+$locale['global_455'] = "Hello USER_NAME,<br/>\r\n
+Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>\r\n
+Regards,<br/>\r\n[SITEUSERNAME]";
 $locale['global_456'] = "Naujas slaptažodis [SITENAME]";
 $locale['global_457'] = "Sveiki USER_NAME,
-\n\nJūsų vartotojui tinklapyje [SITENAME] buvo nustatytas naujas slaptažodis. Nauji prisijungimo duomenys:\n\n
-Vartotojo vardas: USER_NAME\nSlaptažodis: [PASSWORD]\n\nPagarbiai,\n[SITEUSERNAME]";
+
+
+Jūsų vartotojui tinklapyje [SITENAME] buvo nustatytas naujas slaptažodis. Nauji prisijungimo duomenys:
+
+
+Vartotojo vardas: USER_NAME
+Slaptažodis: [PASSWORD]
+
+Pagarbiai,
+[SITEUSERNAME]";
 $locale['global_458'] = "Nustatytas naujas slaptažodis vartotojui USER_NAME";
 $locale['global_459'] = "Nustatytas naujas slaptažodis vartotojui USER_NAME, tačiau el. laiškas nebuvo išsiųstas. Prašome vartotojui pranešti naujus jo duomenis.";
-
 // Function parsebytesize()
 $locale['global_460'] = "Tuščias";
 $locale['global_461'] = "Baitai";
-$locale['global_462'] = "kB";
-$locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
-$locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "Jūs buvote nukreipas į %s, prašome palaukti. Jeigu nebuvote perkeltas, spauskite čia.";
 // Captcha Locales
@@ -363,64 +366,65 @@ $locale['global_ML103'] = "Pakeisti kalbą";
 // Flood Control
 $locale['flood'] = "Jums draudžiama rašyti kol nepraėjęs flood'o laikotarpis. Prašome palaukti %s.";
 $locale['no_image'] = "Nėra paveiksliuko";
-$locale['send_message'] = 'Siųsti žinutę';
-$locale['go_profile'] = 'Eiti į %s profilį';
+$locale['send_message'] = "Siųsti žinutę";
+$locale['go_profile'] = "Eiti į %s profilį";
 // Global one word locales
-$locale['hello'] = 'Labas!';
-$locale['goodbye'] = 'Viso gero!';
-$locale['welcome'] = 'Sveiki sugrįžę';
-$locale['home'] = 'Pradinis';
+$locale['hello'] = "Labas!";
+$locale['goodbye'] = "Viso gero!";
+$locale['welcome'] = "Sveiki sugrįžę";
+$locale['home'] = "Pradinis";
 // Status
-$locale['error'] = 'Klaida!';
-$locale['success'] = 'Sėkmė!';
-$locale['enable'] = 'Įjungti';
-$locale['disable'] = 'Išjungti';
-$locale['can'] = 'gali';
-$locale['cannot'] = 'negali';
-$locale['no'] = 'Ne';
-$locale['yes'] = 'Taip';
-$locale['off'] = 'Išjungta';
-$locale['on'] = 'Įjungta';
-$locale['or'] = 'arba';
-$locale['by'] = '';
-$locale['in'] = '';
-$locale['of'] = 'iš';
+$locale['error'] = "Klaida!";
+$locale['success'] = "Sėkmė!";
+$locale['enable'] = "Įjungti";
+$locale['disable'] = "Išjungti";
+$locale['can'] = "gali";
+$locale['cannot'] = "negali";
+$locale['no'] = "Ne";
+$locale['yes'] = "Taip";
+$locale['off'] = "Išjungta";
+$locale['on'] = "Įjungta";
+$locale['or'] = "arba";
+$locale['by'] = "by";
+$locale['in'] = "in";
+$locale['of'] = "iš";
 $locale['and'] = "ir";
-$locale['na'] = 'Nėra';
+$locale['na'] = "Nėra";
 $locale['joined'] = "Užsiregistravo: ";
 // Navigation
-$locale['next'] = 'Kitas';
-$locale['previous'] = 'Ankstesnis';
-$locale['back'] = 'Atgal';
-$locale['forward'] = 'Pirmyn';
-$locale['go'] = 'Eiti';
-$locale['cancel'] = 'Atšaukti';
+$locale['next'] = "Kitas";
+$locale['previous'] = "Ankstesnis";
+$locale['back'] = "Atgal";
+$locale['forward'] = "Pirmyn";
+$locale['go'] = "Eiti";
+$locale['cancel'] = "Atšaukti";
 $locale['clear'] = "Išvalyti";
 $locale['move'] = "Perkelti";
 $locale['move_up'] = "Perkelti aukštyn";
 $locale['move_down'] = "Perkelti žemyn";
 $locale['load_more'] = "Rodyti daugiau";
 $locale['load_end'] = "Rodyti nuo pradžios";
-// Action
-$locale['add'] = 'Pridėti';
-$locale['save'] = 'Išsaugoti';
-$locale['save_changes'] = 'Išsaugoti pakeitimus';
+// Actions
+$locale['add'] = "Pridėti";
+$locale['save'] = "Išsaugoti";
+$locale['save_changes'] = "Išsaugoti pakeitimus";
 $locale['save_and_close'] = "Išsaugoti ir uždaryti";
-$locale['confirm'] = 'Patvirtinti';
-$locale['update'] = 'Atnaujinti';
-$locale['updated'] = 'Atnaujinta';
-$locale['remove'] = 'Pašalinti';
-$locale['delete'] = 'Ištrinti';
-$locale['search'] = 'Ieškoti';
-$locale['help'] = 'Pagalba';
-$locale['register'] = 'Registruotis';
-$locale['ban'] = 'Blokuoti';
-$locale['reactivate'] = 'Aktyvuoti iš naujo';
-$locale['user'] = 'Narys';
-$locale['promote'] = 'Reklamuoti';
-$locale['show'] = 'Rodyti';
+$locale['confirm'] = "Patvirtinti";
+$locale['update'] = "Atnaujinti";
+$locale['updated'] = "Atnaujinta";
+$locale['remove'] = "Pašalinti";
+$locale['delete'] = "Ištrinti";
+$locale['search'] = "Ieškoti";
+$locale['help'] = "Pagalba";
+$locale['register'] = "Registruotis";
+$locale['ban'] = "Blokuoti";
+$locale['reactivate'] = "Aktyvuoti iš naujo";
+$locale['user'] = "Narys";
+$locale['promote'] = "Reklamuoti";
+$locale['show'] = "Rodyti";
 $locale['actions'] = "Veiksmai";
 $locale['language'] = "Kalba";
+$locale['loading'] = "Loading...";
 // Persons & Identifiers
 $locale['you'] = "Tu";
 $locale['me'] = "Aš";
@@ -431,49 +435,50 @@ $locale['he'] = "Jis";
 $locale['she'] = "Ji";
 $locale['it'] = "Tai";
 //Tables
-$locale['status'] = 'Statusas';
-$locale['order'] = 'Tvarka';
-$locale['sort'] = 'Rikiavimas';
-$locale['id'] = 'ID';
-$locale['title'] = 'Pavadinimas';
-$locale['rights'] = 'Teisės';
-$locale['info'] = 'Informacija';
-$locale['image'] = 'Paveiksliukas';
+$locale['order'] = "Rodymo tvarka";
+$locale['sort'] = "Rikiavimas";
+$locale['id'] = "ID";
+$locale['title'] = "Pavadinimas";
+$locale['rights'] = "Teisės";
+$locale['info'] = "Informacija";
+$locale['image'] = "Paveiksliukas";
 // Forms
-$locale['choose'] = 'Pasirinkti...';
-$locale['no_opts'] = 'Nėra variantų';
-$locale['root'] = 'Kaip pagrindinį';
-$locale['choose-user'] = 'Pasirinkti narį...';
-$locale['choose-location'] = 'Prašome pasirinkti vietą';
-$locale['parent'] = 'Sukurti kaip pagrindinį..';
-$locale['order'] = 'Rodymo tvarka';
-$locale['status'] = 'Statusas';
-$locale['note'] = 'Pasižymėti šį daiktą';
-$locale['publish'] = 'Publikuota';
-$locale['unpublish'] = 'Nepublikuota';
+$locale['choose'] = "Pasirinkti...";
+$locale['no_opts'] = "Nėra variantų";
+$locale['root'] = "Kaip pagrindinį";
+$locale['choose-user'] = "Pasirinkti narį...";
+$locale['choose-location'] = "Prašome pasirinkti vietą";
+$locale['parent'] = "Sukurti kaip pagrindinį..";
+$locale['item_order'] = "Item Ordering";
+$locale['status'] = "Statusas";
+$locale['note'] = "Pasižymėti šį daiktą";
+$locale['publish'] = "Publikuota";
+$locale['unpublish'] = "Nepublikuota";
+$locale['published'] = "Published";
+$locale['unpublished'] = "Unpublished";
 $locale['sticky'] = "Prikabinta";
 $locale['unsticky'] = "Neprikabinta";
-$locale['draft'] = 'Juodraštis';
-$locale['settings'] = 'Nustatymai';
-$locale['posted'] = 'parašyta';
-$locale['profile'] = 'Profilis';
-$locale['edit'] = 'Redaguoti';
-$locale['qedit'] = 'Greitasis redagavimas';
-$locale['view'] = 'Rodyti';
-$locale['login'] = 'Prisijungti';
-$locale['logout'] = 'Atsijungti';
-$locale['admin-logout'] = 'Admin atsijungimas';
-$locale['message'] = 'Asmeninės žinutės';
-$locale['logged'] = 'Prisijungęs kaip ';
-$locale['version'] = 'Versija ';
-$locale['browse'] = 'Ieškoti ...';
-$locale['close'] = 'Uždaryti';
-$locale['nopreview'] = 'Nėra ką rodyti';
+$locale['draft'] = "Juodraštis";
+$locale['settings'] = "Nustatymai";
+$locale['posted'] = "parašyta";
+$locale['profile'] = "Profilis";
+$locale['edit'] = "Redaguoti";
+$locale['qedit'] = "Greitasis redagavimas";
+$locale['view'] = "Rodyti";
+$locale['login'] = "Prisijungti";
+$locale['logout'] = "Atsijungti";
+$locale['admin-logout'] = "Admin atsijungimas";
+$locale['message'] = "Asmeninės žinutės";
+$locale['logged'] = "Prisijungęs kaip ";
+$locale['version'] = "Versija ";
+$locale['browse'] = "Ieškoti ...";
+$locale['close'] = "Uždaryti";
+$locale['nopreview'] = "Nėra ką rodyti";
 $locale['mark_as'] = "Žymėti kaip";
 $locale['preview'] = "Peržiūrėti";
 $locale['custom'] = "Nestandartinis";
 $locale['submit'] = "Pateikti";
-//Alignment
+// Alignment
 $locale['left'] = "Kairė";
 $locale['center'] = "Centras";
 $locale['right'] = "Dešinė";
@@ -521,5 +526,7 @@ $locale['fmt_points'] = "taškas|taškai";
 $locale['fmt_admin'] = "administratorius|administratoriai";
 $locale['fmt_group'] = "grupė|grupės";
 $locale['fmt_category'] = "kategorija|kategorijos";
+$locale['fmt_review'] = "review|reviews";
+$locale['fmt_infusion'] = "infusion|infusions";
 // include Defender locales
 include_once __DIR__."/defender.php";

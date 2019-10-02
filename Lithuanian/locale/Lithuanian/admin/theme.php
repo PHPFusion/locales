@@ -44,7 +44,8 @@ $locale['theme_2002'] = "Dizaino komponentai";
 $locale['theme_2003'] = "Navigacija";
 $locale['theme_2004'] = "Baziniai šriftai";
 $locale['theme_2005'] = "Perkuriamas naujas %s dizainas";
-$locale['theme_2006'] = "Dizainų Variklis šiuo metu perkuria jūsų dizainą ir tai gali užtrukti nuo 15 iki 30 sekundžių, priklausomai nuo interneto ryšo.\n Prašome neišjungti ir neperkrauti lango.";
+$locale['theme_2006'] = "Dizainų Variklis šiuo metu perkuria jūsų dizainą ir tai gali užtrukti nuo 15 iki 30 sekundžių, priklausomai nuo interneto ryšo.
+ Prašome neišjungti ir neperkrauti lango.";
 $locale['theme_2007'] = "Ruošinio pavadinimas";
 $locale['theme_2008'] = "Šablonas";
 $locale['theme_2009'] = "Pasirinkite spalvą";

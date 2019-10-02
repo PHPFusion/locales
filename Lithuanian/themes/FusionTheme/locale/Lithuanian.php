@@ -1,7 +1,4 @@
 <?php
-/*
-| Lithuanian Translation: Edmundas Jankauskas - PHP-Fusion Lithuania (http://www.phpfusion-lt.com/)
-*/
 // Nebula
 $locale['NB_000'] = "Nebula yra pirmasis PHP-Fusion 9 FusionTheme Theme Framework pagrindu veikiantis dizainas, siūlantis daugybė turinio elementų, stilių ir kt. ypatybių, skirtų geriau suvokti ir išmokti kurti turinį be programavimo naudojant PHP-Fusion 9.";
 $locale['NB_001'] = "Apie mus";

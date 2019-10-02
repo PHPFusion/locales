@@ -1,6 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] valdymo pultas";
+$locale['200a'] = "Administracijos panelė";
 $locale['ac00'] = "Adm. pagrindinis";
 $locale['ac01'] = "Turinio valdymas";
 $locale['ac02'] = "Vartotojų valdymas";
@@ -11,7 +12,6 @@ $locale['ac10'] = "Administratoriaus skydelis";
 $locale['202'] = "Vartotojų profilių nustatymai";
 
 // Pre-defined sections
-
 $locale['AC'] = "Straipsnių kategorijos";
 $locale['A'] = "Straipsniai";
 $locale['BLOG'] = "Tinklaraštis";
@@ -25,6 +25,7 @@ $locale['IM'] = "Paveiksliukai";
 $locale['I'] = "Įskiepiai";
 $locale['IP'] = "Įskiepių panelės";
 $locale['M'] = "Nariai";
+$locale['MI'] = "Migravimo įrankis";
 $locale['N'] = "Naujienos";
 $locale['P'] = "Panelės";
 $locale['PH'] = "Foto albumai";
@@ -67,6 +68,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Tema";
 $locale['S13'] = "Tinklaraščio nustatymai";
 $locale['LANG'] = "Kalbos nustatymai";
+$locale['FM'] = "Fusion File Manager";
 
 // Site Information
 $locale['250'] = "Informacijos skydelis - Tinklalapio informacija";
@@ -113,3 +115,14 @@ $locale['283'] = "Įskiepiai";
 $locale['284'] = "Nėra įrašytų įskiepių";
 $locale['285'] = "Valdyti įskiepius";
 $locale['286'] = "Peržiūrėti pateikimus";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

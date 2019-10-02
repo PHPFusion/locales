@@ -1,5 +1,4 @@
 <?php
-// Titles
 $locale['MAIL_000'] = "El. laiškų ruošiniai";
 $locale['MAIL_001'] = "Ruošinys sėkmingai atnaujintas";
 $locale['MAIL_002'] = "Bandomoji tema";
@@ -44,3 +43,4 @@ $locale['MAIL_040'] = "Žinutė";
 $locale['MAIL_041'] = "Žinutė negali būti tuščia!";
 $locale['MAIL_042'] = "Temos nuoroda";
 $locale['MAIL_043'] = "Pridėti nuotrauką";
+$locale['MAIL_044'] = "Insert Image";

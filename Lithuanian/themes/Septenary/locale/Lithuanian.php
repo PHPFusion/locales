@@ -1,7 +1,4 @@
 <?php
-/*
-| Lithuanian Translation: Edmundas Jankauskas - PHP-Fusion Lithuania (http://www.phpfusion-lt.com/)
-*/
 $locale['sept_001'] = "Prisijungti";
 $locale['sept_002'] = "Registruotis";
 $locale['sept_003'] = "Administravimas";

@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Delete Image
 $locale['400'] = "Trinti paveiksliuką";
 $locale['401'] = "Paveiksliukas ištrintas";
@@ -22,7 +24,6 @@ $locale['442'] = "Trinti šį paveiksliuką";
 // Image Management
 $locale['460'] = "Paveiksliukai";
 $locale['461'] = "Peržiūrėti";
-$locale['462'] = "Trinti";
 $locale['463'] = "Šis aplankas tuščias";
 $locale['464'] = "Atnaujinti paveikslėlių sąrašą TinyMCE redaktoriui";
 // Popup Error/Warning Messages

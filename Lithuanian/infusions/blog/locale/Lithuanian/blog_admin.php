@@ -1,5 +1,5 @@
 <?php
-// blog Submissions messages
+// Blog Submissions messages
 $locale['blog_0130'] = "Šiuo metu nėra tinklaraščių pateikimų";
 $locale['blog_0131'] = "Peržiūrėti pateikimą";
 $locale['blog_0132'] = "Šį įrašą pateikė narys ";
@@ -37,8 +37,6 @@ $locale['blog_0415'] = "Nuotrauka turi būti vieno iš šių failų tipo: %s.";
 $locale['blog_0416'] = "Nuotrauka negali būti didesnė negu %s pikseliai.";
 $locale['blog_0417'] = "Nežinoma klaida";
 // Blog form
-$locale['blog_0420'] = "Redaguoti";
-$locale['blog_0421'] = "Trinti";
 $locale['blog_0422'] = "Tema:";
 $locale['blog_0423'] = "Kategorija:";
 $locale['blog_0424'] = "Nepriskirta";
@@ -92,7 +90,8 @@ $locale['blog_0561'] = "Tokia kategorija jau egzistuoja.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Prašome nurodyti pavadinimą";
 $locale['blog_0451'] = "Ištrinti šį tinklaraštį?";
-$locale['blog_0452'] = "%s yra išjungta viskam.\n\rŠis nustatymas veiks tik tuomet, kai bus vėl įjungta.";
+$locale['blog_0452'] = "%s yra išjungta viskam.
+Šis nustatymas veiks tik tuomet, kai bus vėl įjungta.";
 $locale['blog_0456'] = 'Šioje kategorijoje nėra tinklaraščių.';
 $locale['blog_0457'] = "Prašome nurodyti raktažodžius";
 $locale['blog_0461'] = 'Nėra pridėtų tinklaraščių kategorijų.';
@@ -115,19 +114,20 @@ $locale['blog_0703'] = "Naudokitės šia forma, kad pateiktumėte tinklaraštį.
 administratoriaus. [SITENAME] pasilieka teisę redaguoti ar keisti pateikimą. Tinklaraštis 
 turi atitikti tinklapio temą. Netinkami pateikimai bus ištrinti.";
 $locale['blog_0704'] = "Grįžti į [SITENAME]";
-$locale['601'] = "Albumo atvaizdo dydis:";
-$locale['602'] = "Foto atvaizdo dydis:";
-$locale['603'] = "Maksimalus foto dydis:";
-$locale['604'] = "Plotis x Aukštis";
-$locale['605'] = "Maksimalus failo dydis (baitais):";
-// Blog & News Settings
-$locale['950'] = "Paveikslėlių įkėlimas";
-$locale['951'] = "Paveikslėlio nuoroda:";
-$locale['952'] = "Kategorija";
-$locale['953'] = "Naujiena";
-$locale['954'] = "Paveikslio santykis:";
-$locale['955'] = "Originalus";
-$locale['956'] = "Kvadratas";
-$locale['959'] = "Įkelta nuotrauka";
-$locale['960'] = "Forumo kategorijos paveiksliukas";
-$locale['961'] = "Leidžiami failų tipai:";
+$locale['blog_601'] = "Albumo atvaizdo dydis:";
+$locale['blog_602'] = "Foto atvaizdo dydis:";
+$locale['blog_603'] = "Maksimalus foto dydis:";
+$locale['blog_604'] = "Plotis x Aukštis";
+$locale['blog_605'] = "Maksimalus failo dydis (baitais):";
+// Blog Settings
+$locale['blog_950'] = "Image Upload";
+$locale['blog_951'] = "Image link:";
+$locale['blog_952'] = "Leisti komentarus";
+$locale['blog_953'] = "Blog Item";
+$locale['blog_954'] = "Thumb ratio:";
+$locale['blog_955'] = "Originalus";
+$locale['blog_956'] = "Kvadratas";
+$locale['blog_959'] = "Uploaded Photo";
+$locale['blog_960'] = "Category Image";
+$locale['blog_961'] = "Allowed file types:";
+$locale['blog_submit'] = "%s Blog";

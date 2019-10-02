@@ -7,14 +7,13 @@ $locale['403'] = "Web serverio programinė įranga";
 $locale['404'] = "PHP versija";
 $locale['405'] = "PHP sąsaja";
 $locale['406'] = "MySQL serverio versija";
+$locale['406a'] = "Duomenų bazės tvarkyklė";
 $locale['407'] = "PHP-Fusion versija";
 $locale['408'] = "Duomenų bazės prefiksas";
 $locale['409'] = "Sausainėlio prefiksas";
 $locale['410'] = "Naršyklė ir OS";
 //PHP settings
 $locale['420'] = "PHP nustatymai";
-$locale['421'] = "Taip";
-$locale['422'] = "Ne";
 $locale['423'] = "Safe mode";
 $locale['424'] = "Register Globals";
 $locale['425'] = "Palaikymas";

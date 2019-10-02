@@ -12,9 +12,6 @@ $locale['412'] = "Atsarginio failo pavadinimas:";
 $locale['413'] = "Sukūrimo data:";
 $locale['414'] = "Duomenų bazės pavadinimas:";
 $locale['415'] = "Išsaugoti";
-$locale['416'] = "Lentelės:";
-$locale['417'] = "Peržiūrėti";
-$locale['418'] = "Atšaukti";
 $locale['419'] = "lentelės";
 // Database Restore
 $locale['430'] = "Atkūrimo pasirinkimai";
@@ -26,7 +23,6 @@ $locale['435'] = "Pasirinkti:";
 $locale['436'] = "viską";
 $locale['437'] = "nieko";
 $locale['438'] = "Atkurti";
-$locale['439'] = "Atšaukti";
 $locale['440'] = "Palaikomi failų tipai:";
 // Database Backup
 $locale['450'] = "Duomenų bazės atsarginės kopijos";

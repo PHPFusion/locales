@@ -9,10 +9,13 @@ $locale['503'] = "Pakartotinės aktyvacijos nuoroda, kurią nuspaudėte, negali 
 Jeigu to padaryti negalite ir pageidaujate pakartotinės aktyvacijos rankiniu būdu, prašome susisiekti su tinklapio administratoriumi adresu [SITEEMAIL].";
 // Send confirmation mail
 $locale['504'] = "Pakartotinė varotojo aktyvacija [SITEEMAIL]";
-$locale['505'] = "Sveiki [USER_NAME],\n
-Jūsų vartotojas puslapyje [SITEEMAIL] buvo pakartotinai aktyvuotas. Tikimės pamatyti Jus dažniau mūsų puslapyje.\n\n
-Pagarbiai,\n\n
+$locale['505'] = "Sveiki [USER_NAME],
+
+Jūsų vartotojas puslapyje [SITEEMAIL] buvo pakartotinai aktyvuotas. Tikimės pamatyti Jus dažniau mūsų puslapyje.
+
+
+Pagarbiai,
+
+
 [SITEUSERNAME]";
 $locale['506'] = "Reaktyvavo pats vartotojas.";
-
-

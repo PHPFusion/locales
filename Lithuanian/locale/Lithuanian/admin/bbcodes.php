@@ -1,24 +1,29 @@
 <?php
-$locale['400'] = "BB kodų administracija";
-$locale['401'] = "Testuoti BB kodus";
+$locale['BBCA_400'] = "BB kodai";
+$locale['BBCA_400a'] = "BB Codes Admin";
+$locale['BBCA_401'] = "Test BB Codes";
 // Enabled BB Codes
-$locale['402'] = "Leisti BB kodus";
-$locale['403'] = "Kodas";
-$locale['404'] = "Ikona";
-$locale['405'] = "Aprašymas";
-$locale['406'] = "Naudojimas";
-$locale['407'] = "Tvarka";
-$locale['408'] = "Žemyn";
-$locale['409'] = "Aukštyn";
-$locale['410'] = "Išjungta";
-$locale['411'] = "Nėra įjungtų BB kodų.";
+$locale['BBCA_402'] = "Enabled BB Codes";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Description";
+$locale['BBCA_406'] = "Usage";
+$locale['BBCA_407'] = "Rodymo tvarka";
+$locale['BBCA_408'] = "Down";
+$locale['BBCA_409'] = "Up";
+$locale['BBCA_410'] = "Išjungti";
+$locale['BBCA_411'] = "There are no BB Codes enabled.";
 // Disabled BB Codes
-$locale['413'] = "Išjungti BB kodus";
-$locale['414'] = "Įjungta";
-$locale['415'] = "Eilučių laužymas";
-$locale['416'] = "Nėra išjungtų BB kodų.";
+$locale['BBCA_413'] = "Disabled BB Codes";
+$locale['BBCA_414'] = "Įjungti";
+$locale['BBCA_416'] = "There are no BB Codes disabled.";
 // Test BB Codes
-$locale['417'] = "BB kodų testavimo rezultatai";
-$locale['418'] = "Išjungti šypsenėles šiame teste";
-$locale['418a'] = "Bandomoji žinutė";
-$locale['418b'] = "Norint išbandyti BBKodus prašome įvesti žinutę.";
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Disable smileys in this test";
+$locale['BBCA_418a'] = "Test Message";
+$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+// Notices
+$locale['BBCA_430'] = "BB Code has been moved Up.";
+$locale['BBCA_431'] = "BB Code has been moved Down.";
+$locale['BBCA_432'] = "BB Code has been Enabled.";
+$locale['BBCA_433'] = "BB Code has been Disabled.";

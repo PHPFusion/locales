@@ -1,20 +1,20 @@
 <?php
 $locale['validate'] = "Prašome peržiūrėti ir patikrinti laukelį.";
-$locale['error_request'] = 'Vykdant užklausą įvyko klaida'; // to be moved
-$locale['regex_error'] = 'Prašome patikrinti %s laukelį'; // to be moved
+$locale['error_request'] = "Vykdant užklausą įvyko klaida"; // to be moved
+$locale['regex_error'] = "Prašome patikrinti %s laukelį"; // to be moved
 // Text fields errors
 $locale['error_input_username'] = "Prašome įvesti teisingą vartotojo vardą";
-$locale['error_input_default'] = 'Prašome užpildyti šį laukelį';
-$locale['error_input_password'] = 'Prašome įvesti tinkamą slaptažodį';
-$locale['error_input_email'] = 'Prašome įvesti tinkamą el. pašto adresą';
-$locale['error_input_number'] = 'Prašome įvesti tinkamą numerį';
-$locale['error_input_url'] = 'Prašome įvesti tinkamą tinklalapio adresą';
-$locale['error_input_regex'] = 'Prašome įvesti tinkamą raštą';
-$locale['error_input_safemode'] = 'Prašome šį laukelį užpildyti tinkamai';
-$locale['error_input_check'] = 'Prašome įvesti tinkamą laukelio reikšmę';
+$locale['error_input_default'] = "Prašome užpildyti šį laukelį";
+$locale['error_input_password'] = "Prašome įvesti tinkamą slaptažodį";
+$locale['error_input_email'] = "Prašome įvesti tinkamą el. pašto adresą";
+$locale['error_input_number'] = "Prašome įvesti tinkamą numerį";
+$locale['error_input_url'] = "Prašome įvesti tinkamą tinklalapio adresą";
+$locale['error_input_regex'] = "Prašome įvesti tinkamą raštą";
+$locale['error_input_safemode'] = "Prašome šį laukelį užpildyti tinkamai";
+$locale['error_input_check'] = "Prašome įvesti tinkamą laukelio reikšmę";
 $locale['df_error_text'] = "%s blogai nustatymas, prašome atkreipti dėmesį.";
-$locale['error_invalid_theme'] = 'Prašome pasirinkti tinkamą dizainą'; // to be moved
-$locale['error_input_checkbox'] = 'Prašome pažymėti šį langelį'; // to be moved
+$locale['error_invalid_theme'] = "Prašome pasirinkti tinkamą dizainą"; // to be moved
+$locale['error_input_checkbox'] = "Prašome pažymėti šį langelį"; // to be moved
 $locale['error_input_file'] = "Prašome pasirinkti tinkamą failą";
 $locale['error_secure_file'] = "Įkeltas failas buvo atmestas dėl įtariamo galimo saugumo pažeidimo";
 // Admin Login
@@ -71,14 +71,15 @@ $locale['df_404'] = "%s nėra tinkama data.";
 $locale['df_405'] = "%s nėra tinkamas tinklapio adresas.";
 $locale['df_415'] = "Klaidingas failo pavadinimas.";
 $locale['df_416'] = "Įkeliamas failas per didelis. Jis turi būti mažesnis negu %s.";
-$locale['df_417'] = "Įkeliamas failas yra netinkamo tipo. Galimi tipai: %s.";
+$locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
 $locale['df_418'] = "Įkeliamas failas yra geras, bet jo plėtinys yra klaidingas. Prašome pervadinti failo plėtinį ir bandyti dar kartą.";
 $locale['df_419'] = "Paveikslėlis nepraėjo patikrinimo. Prašome bandyti dar kartą.";
 $locale['df_420'] = "Aplankas neegzistuoja. Prašome sukurti aplanką per FTP ir bandyti dar kartą.";
 $locale['df_421'] = "Paveiksliukas turi būti ne didesnis negu %uw x %uh pikselių.";
 $locale['df_422'] = "Nežinoma klaida (Užklausa)";
-$locale['df_423'] = "Paveiksliukas nebuvo įkeltas. Prašome bandyti dar kartą";
+$locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Bandomi įkelti failai užima per daug vietos. Prašome bandyti dar kartą su mažiau failų.";
+
 // ReCaptcha2
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha_desc'] = "Google Recaptcha laukelių modulis";

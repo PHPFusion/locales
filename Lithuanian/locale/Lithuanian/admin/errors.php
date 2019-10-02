@@ -24,9 +24,10 @@ $locale['ERROR_451'] = "Išspręsta";
 $locale['ERROR_452'] = "Ignoruota";
 $locale['ERROR_453'] = "Taikyti";
 $locale['ERROR_454'] = "Sunkumas";
+
 $locale['ERROR_460'] = "Klaidos";
 $locale['ERROR_461'] = "Klaidos failas";
 $locale['ERROR_462'] = "Nustatymai";
 $locale['ERROR_463'] = "Sugeneruota";
 $locale['ERROR_464'] = "Klaidos konsolė";
-$locale['ERROR_465'] = "Pradinis failas"; 
+$locale['ERROR_465'] = "Pradinis failas";

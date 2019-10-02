@@ -13,6 +13,7 @@ $locale['GRP_409'] = " Pridėti vartotojų grupę.";
 $locale['GRP_410'] = "Vartotojas \"%s\" priskirtas į grupę \"%s\"";
 $locale['GRP_411'] = "Vartotojas \"%s\" pašalintas iš grupės \"%s\"";
 $locale['GRP_412'] = "\"%s\" vartotojai pašalinti iš grupės \"%s\"";
+
 // Edit/Delete Options
 $locale['GRP_420'] = "Vartotojų grupės";
 $locale['GRP_421'] = "Redaguoti";
@@ -32,7 +33,7 @@ $locale['GRP_435'] = "ID";
 $locale['GRP_436'] = "Ikona";
 $locale['GRP_437'] = "Veiksmas";
 $locale['GRP_438'] = "Nariai";
-$locale['GRP_439'] = "Grupės ikona"; 
+$locale['GRP_439'] = "Grupės ikona";
 // Search/Add Group Users
 $locale['GRP_440'] = "Priskirti narius į vartotojų grupę";
 $locale['GRP_441'] = "Naudojantis esančia forma galite surasti vartotojus pridėjimui prie grupės.";

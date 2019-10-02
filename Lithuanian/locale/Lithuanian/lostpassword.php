@@ -10,11 +10,22 @@ $locale['407'] = "Įveskite el. pašto adresą, kurio registravotės šiame tink
 Jums bus sukurtas naujas slaptažodis ir išsiųstas į Jūsų el. pašto dėžutę.";
 $locale['408'] = "Siųsti slaptažodį";
 $locale['409'] = "Naujas slaptažodis ";
-$locale['410'] = "Sveiki [USER_NAME],\n
-Jūs, ar kažkas kitas prašėte naujo slaptažodžio prisijungimui prie [SITENAME] tinklapio vartotojo.\n
-Norėdami pasikeisti slaptažodį paspasukite ant šios nuorodos:\n
-[NEW_PASS_LINK]\n\nLinkėjimai,\n[SITEUSERNAME]";
-$locale['411'] = "Sveiki [USER_NAME],\nJūsų naujasis slaptažodis [SITENAME] yra:\n
-[NEW_PASS]\n\nLinkėjimai,\n[SITEUSERNAME]";
+$locale['410'] = "Sveiki [USER_NAME],
+
+Jūs, ar kažkas kitas prašėte naujo slaptažodžio prisijungimui prie [SITENAME] tinklapio vartotojo.
+
+Norėdami pasikeisti slaptažodį paspasukite ant šios nuorodos:
+
+[NEW_PASS_LINK]
+
+Linkėjimai,
+[SITEUSERNAME]";
+$locale['411'] = "Sveiki [USER_NAME],
+Jūsų naujasis slaptažodis [SITENAME] yra:
+
+[NEW_PASS]
+
+Linkėjimai,
+[SITEUSERNAME]";
 $locale['412'] = "Įvyko klaida, prašome pabandyti dar kartą.";
 $locale['413'] = "Prašome įvesti el. pašto adresą:";

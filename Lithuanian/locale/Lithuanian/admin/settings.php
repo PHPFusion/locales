@@ -1,5 +1,8 @@
 <?php
 $locale['400'] = "Nustatymai";
+$locale['401a'] = "Site Host Settings";
+$locale['401b'] = "The configuration for your site url, site port and site protocols.";
+
 // Site Settings
 $locale['401'] = "Pagrindiniai nustatymai";
 $locale['402'] = "Tinklapio pavadinimas:";
@@ -33,7 +36,9 @@ $locale['420'] = "Pašalinti kairės pusės paneles:";
 $locale['421'] = "Pašalinti aukštesnis paneles:";
 $locale['422'] = "Pašalinti žemesnes paneles:";
 $locale['423'] = "Pašalinti dešinės paneles:";
-$locale['424'] = "Pvz.:\n\r/news.php\n\r/forum/index.php";
+$locale['424'] = "Pvz.:
+/news.php
+/forum/index.php";
 $locale['425'] = "Puslapio adresas";
 $locale['426'] = "Puslapio protokolas:";
 $locale['427'] = "Puslapio hostingas:";
@@ -58,6 +63,10 @@ $locale['443a'] = "Pašalinti Vartotojo 1 paneles";
 $locale['443b'] = "Pašalinti Vartotojo 2 paneles";
 $locale['443c'] = "Pašalinti Vartotojo 3 paneles";
 $locale['443d'] = "Pašalinti Vartotojo 4 paneles";
+$locale['444'] = "Domain Servers";
+$locale['444a'] = "Configuration for multiple domains on a single site.<br/><br/> Separate each domain per row push (\"enter\")";
+$locale['444b'] = "Registered Domain Names <br /> <i>You must write current domain read under Site Host when you enable this feature</i>.";
+$locale['445'] = "Invalid (test purposes)";
 
 // Time & Date Settings
 $locale['450'] = "Datos ir laiko nustatymo parametrai";
@@ -96,7 +105,9 @@ $locale['605'] = "Maksimalus failo dydis (baitais):";
 $locale['606'] = "Atvaizdo kompresijos metodas:";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+$locale['609'] = "Development Mode";
 
+$locale['649'] = "Prohibited user names:";
 $locale['650'] = "Įvairūs nustatymai";
 $locale['651'] = "Keiksmažodžių sąrašas:";
 $locale['652'] = "Eilutėje įvesti tik vieną žodį.";
@@ -136,7 +147,8 @@ $locale['681ML'] = "Panelės";
 $locale['682ML'] = "Kalbos nustatymai";
 $locale['683ML'] = "Įjungti daugiakalbę sistemą";
 $locale['684ML'] = "Įjungtos kalbos";
-$locale['685ML'] = "Pasirinkite leidžiamas kalbas. \n\rDėmesio: Ištrindami kalbą, jūs taip pat pašalinate visą su ja susijusį turinį (nuorodas, kategorijas ir kt.) iš sistemos.";
+$locale['685ML'] = "Pasirinkite leidžiamas kalbas. 
+Dėmesio: Ištrindami kalbą, jūs taip pat pašalinate visą su ja susijusį turinį (nuorodas, kategorijas ir kt.) iš sistemos.";
 $locale['669'] = "Naujienos";
 $locale['669b'] = "Tinklaraščių puslapyje";
 $locale['669c'] = "Naujienų puslapyje";
@@ -173,7 +185,6 @@ $locale['913'] = "Komentarų puslapyje";
 $locale['955'] = "Originalus";
 $locale['956'] = "Kvadratas";
 
-// Removed Recaptcha
 $locale['698'] = "SMTP autentifikacija?";
 $locale['699'] = "Prisijungimo metodas";
 $locale['699b'] = "Abu";
@@ -191,6 +202,9 @@ $locale['708'] = "Administratoriaus nustatymai vartotojo atžvilgiu";
 $locale['709'] = "Perspėjimai paštu?";
 $locale['710'] = "Saugoti siųstas žinutes?";
 $locale['711'] = "Atminkite: Individualūs vartojo nustatymai turi pirmenybę, jei jie pasirinkti. Jei individualūs nustatymai nepasirinkti, tuomet galioja administratoriaus nustatymai.";
+$locale['712'] = "Messages has been deleted.";
+$locale['713'] = "Are you sure to delete all private messages?";
+$locale['714'] = "Delete Messages";
 
 // Save Settings
 $locale['750'] = "Išsaugoti nustatymus";
@@ -233,7 +247,10 @@ $locale['1012'] = "Anonimizuoti vartotoją";
 $locale['1013'] = "Ištrinti vartotoją";
 $locale['1014'] = "Leisti nariams prisijungti iš skirtingų prietaisų vienu metu?";
 $locale['1014a'] = "Dėl saugumo patariama išjungti";
-$locale['1020'] = array(1 => 'Baitai (bytes)', 1000 => 'KB (Kilobaitai)', 1000000 => 'MB (Megabaitai)');						 
+$locale['1015'] = "Width";
+$locale['1016'] = "Height";
+
+$locale['1020'] = [1 => 'Baitai (bytes)', 1024 => 'KB (Kilobaitai)', 1048576 => 'MB (Megabaitai)'];
 
 // Social integration
 $locale['1030'] = "Sukurti OpenGraph meta žymes socialiniams tinklams";
@@ -263,17 +280,11 @@ $locale['dateformats'][] = "%d %B %Y";
 $locale['dateformats'][] = "%Y %B %d";
 $locale['dateformats'][] = "%B %d %Y %H:%M";
 $locale['dateformats'][] = "%d. %B %Y %H:%M";
-$locale['dateformats'][] = "%d %B %Y %H:%M";
-$locale['dateformats'][] = "%Y %B %d %H:%M";
-$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
-$locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%Y %B %d %H:%M:%S";
-$locale['error_rate'] = 'Prašom įvesti dažnį.';
-$locale['error_type'] = 'Prašom nurodyti papildinio tipą.';
-$locale['error_width'] = 'Prašom įvesti plotį.';
-$locale['error_height'] = 'Prašom įvesti aukštį.';
-$locale['error_value'] = 'Prašom įvesti reikšmę.';
+$locale['error_rate'] = "Prašom įvesti dažnį.";
+$locale['error_type'] = "Prašom nurodyti papildinio tipą.";
+$locale['error_width'] = "Prašom įvesti plotį.";
+$locale['error_height'] = "Prašom įvesti aukštį.";
+$locale['error_value'] = "Prašom įvesti reikšmę.";
 $locale['blog_description'] = "Nustatymai Blogų sistemai";
 $locale['news_description'] = "Nustatymai Naujienų sistemai";
 $locale['ipp_description'] = "Numatyto elementų kiekio puslapyje nustatymai";
@@ -289,20 +300,31 @@ $locale['security_description'] = "Nustatymai Saugumo sistemai";
 $locale['time_description'] = "Laiko ir datos nustatymai";
 $locale['user_description'] = "Vartotojų valdymo nustatymai";
 $locale['theme_description'] = "Dizainų nustatymai";
-$locale['blog_settings'] = 'Tinklaraščio nustatymai';
-$locale['download_settings'] = 'Siuntinių nustatymai';
-
-$locale['forum_settings'] = 'Forumo nustatymai';
-$locale['ipp_settings'] = 'Elementų per puslapį nustatymai';
-$locale['photo_settings'] = 'Nuotraukų nustatymai';
-$locale['main_settings'] = 'Pagrindiniai nustatymai';
-$locale['misc_settings'] = 'Įvairūs nustatymai';
-$locale['news_settings'] = 'Naujienų nustatymai';
-$locale['message_settings'] = 'Asmeninių žinučių nustatymai';
-$locale['register_settings'] = 'Registracijos nustatymai';
-$locale['security_settings'] = 'Saugumo nustatymai';
-$locale['time_settings'] = 'Laiko ir datos nustatymai';
-$locale['user_settings'] = 'Vartotojų valdymo nustatymai';
-$locale['theme_settings'] = 'Dizaino nustatymai';
+$locale['blog_settings'] = "Tinklaraščio nustatymai";
+$locale['download_settings'] = "Siuntinių nustatymai";
+$locale['forum_settings'] = "Forumo nustatymai";
+$locale['ipp_settings'] = "Elementų per puslapį nustatymai";
+$locale['photo_settings'] = "Nuotraukų nustatymai";
+$locale['main_settings'] = "Pagrindiniai nustatymai";
+$locale['misc_settings'] = "Įvairūs nustatymai";
+$locale['news_settings'] = "Naujienų nustatymai";
+$locale['message_settings'] = "Asmeninių žinučių nustatymai";
+$locale['register_settings'] = "Registracijos nustatymai";
+$locale['security_settings'] = "Saugumo nustatymai";
+$locale['time_settings'] = "Laiko ir datos nustatymai";
+$locale['user_settings'] = "Vartotojų valdymo nustatymai";
+$locale['theme_settings'] = "Dizaino nustatymai";
 
 $locale['securimage3'] = "Saugumo paveikslėlis v.3";
+
+// Security Settings
+$locale['security_001'] = "System Sessions";
+$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_003'] = "Sessions Type";
+$locale['security_004'] = "Database System";
+$locale['security_005'] = "File System";
+$locale['security_006'] = "Clear System Session Cache";
+$locale['security_007'] = "All system sessions has been cleared successfully";
+$locale['security_008'] = "Form Tokens";
+$locale['security_009'] = "Number of issued tokens for each form";
+$locale['security_010'] = "Fusion GateWay";

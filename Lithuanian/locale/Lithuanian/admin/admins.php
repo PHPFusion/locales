@@ -1,46 +1,34 @@
 <?php
 // Administrators messages
-$locale['400'] = "Naujas admistratorius paskirtas";
-$locale['401'] = "Adminstratorius atnaujintas";
-$locale['402'] = "Adminstratorius pašalintas";
+$locale['ADM_400'] = "Administrator added";
+$locale['ADM_401'] = "Administrator updated";
+$locale['ADM_402'] = "Administrator removed";
 // Search/Add Administrator
-$locale['410'] = "Pridėti administratorių";
-$locale['411'] = "Ieškokite vartotojo naudodamiesi paieškos forma, esančia žemiau.";
-$locale['412'] = "Vartotojo ID";
-$locale['413'] = "Vartotojo vardas";
-$locale['414'] = "Ieškoti";
-$locale['415'] = "Taikyti visas privilegijas";
-$locale['416'] = "Paskirti Super Administratoriumi";
-$locale['417'] = "Pridėti administratorių";
-$locale['418'] = "Vartotojų nerasta.";
-$locale['419'] = "Ieškoti dar kartą";
+$locale['ADM_410'] = "Add Administrator";
+$locale['ADM_411'] = "Search for users to add using the form below.";
+$locale['ADM_413'] = "Nario vardas";
+$locale['ADM_415'] = "Apply all privileges";
+$locale['ADM_416'] = "Make Super Administrator";
+$locale['ADM_418'] = "No users found.";
+$locale['ADM_419'] = "Search Again";
 // Current Administrators
-$locale['420'] = "Administratoriai";
-$locale['421'] = "Vartotojo vardas";
-$locale['422'] = "Vartotojo padėtis";
-$locale['423'] = "Pasirinkimai";
-$locale['424'] = "Pagrindinis administratorius";
-$locale['425'] = "Nėra paskirtų teisių";
-$locale['426'] = "Redaguoti";
-$locale['427'] = "Pašalinti";
+$locale['ADM_420'] = "Administratoriai";
+$locale['ADM_421'] = "Nario vardas";
+$locale['ADM_422'] = "Admin Level";
+$locale['ADM_423'] = "Pasirinkimai";
+$locale['ADM_425'] = "No rights assigned";
 // Edit Admin Rights
-$locale['440'] = "Redaguoti administratoriaus teises";
-$locale['441'] = "Turinio administracija";
-$locale['442'] = "Vartotojų administracija";
-$locale['443'] = "Sistemos administracija";
-$locale['444'] = "Modifikacijos";
-$locale['445'] = "Žymėti viską";
-$locale['446'] = "Nežymėti nieko";
-$locale['447'] = "Administratoriaus slaptažodis:";
-$locale['448'] = "Išsaugoti administratoriaus teises";
-$locale['449'] = "Nustatymai";
-$locale['450'] = "Pažymėti saugius";
+$locale['ADM_440'] = "Edit Admin Rights";
+$locale['ADM_441'] = "Content Admin";
+$locale['ADM_442'] = "User Admin";
+$locale['ADM_443'] = "System Admin";
+$locale['ADM_444'] = "Įskiepiai";
+$locale['ADM_445'] = "Pažymėti viską";
+$locale['ADM_448'] = "Save Admin Rights";
+$locale['ADM_449'] = "Nustatymai";
+$locale['ADM_450'] = "Check secure";
 // Popup Error/Warning Messages
-$locale['460'] = "Ar tikrai norite pašalinti šį administratorių?";
-$locale['461'] = "Ar tikrai norite pridėti šį administratorių?";
-$locale['462'] = "Suteikdami šiuos priėjimus administratoriui sukeliate pavojų svetainės saugumui!";
-// Remove Admin confirmation
-$locale['470'] = "Trinti administratorių";
-$locale['471'] = "Norėdami pašalinti šį administratorių, turėsite įvesti savo administratoriaus slaptažodžį:";
-$locale['472'] = "Patvirtinti";
-$locale['473'] = "Atšaukti";
+$locale['ADM_460'] = "Remove this administrator?";
+$locale['ADM_461'] = "Add this administrator?";
+$locale['ADM_462'] = "Giving these admin rights to a user is a potential security risk!";
+$locale['ADM_463'] = "No action selected!";
