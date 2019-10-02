@@ -39,7 +39,6 @@ $locale['setup_0118'] = "Twój serwer sieci Web nie wydaje się obsługiwać PDO
 $locale['setup_0119a'] = "Rozważ zwiększenie limitu pamięci PHP do %memory_minimum_limit, aby zapobiec błędom w procesie instalacji";
 $locale['setup_0119b'] = "Zwiększ limit pamięci, edytując parametr memory_limit w pliku ".get_cfg_var('cfg_file_path').",  następnie zrestartuj serwer WWW (lub skontaktuj się z administratorem systemu lub dostawcą usług hostingowych w celu uzyskania pomocy).";
 $locale['setup_0119c'] = "Skontaktuj się z administratorem systemu lub dostawcą usług hostingowych w celu zwiększenia limitu pamięci w PHP.";
-$locale['setup_stepx'] = "%2\$s";
 // Buttons
 $locale['setup_0120'] = "Zakończ konfigurację";
 $locale['setup_0121'] = "Zapisz i wykonaj";
@@ -90,6 +89,8 @@ $locale['setup_1106'] = "Serwer i diagnostyka wymagana struktury plików";
 $locale['setup_1200'] = "Ustawienia bazy danych i ścieżki serwera";
 $locale['setup_1201'] = "Proszę wprowadzić ustawienia dostępu do bazy danych MySQL.";
 $locale['setup_1202'] = "Nazwa hosta bazy danych:";
+$locale['setup_1202a'] = "Database Port:";
+$locale['setup_1202b'] = "Leave empty if you do not use another port";
 $locale['setup_1203'] = "Nazwa użytkownika bazy danych:";
 $locale['setup_1204'] = "Hasło bazy danych:";
 $locale['setup_1205'] = "Nazwa bazy danych:";
@@ -189,6 +190,7 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Menedżer motywów";
 $locale['setup_3057'] = "Narzędzie migracji";
 $locale['setup_3058'] = "Ustawienia motywu";
+$locale['setup_3059'] = "Fusion File Manager";
 // Multilanguage table rights
 $locale['setup_3200'] = "Artykuły";
 $locale['setup_3201'] = "Podstrony dodatkowe";
@@ -297,7 +299,6 @@ require_once __DIR__."/user_fields/user_sig.php";
 require_once __DIR__."/user_fields/user_skype.php";
 require_once __DIR__."/user_fields/user_theme.php";
 require_once __DIR__."/user_fields/user_web.php";
-require_once __DIR__."/user_fields/user_yahoo.php";
 require_once __DIR__."/user_fields/user_timezone.php";
 require_once __DIR__."/user_fields/user_blacklist.php";
 
@@ -320,10 +321,27 @@ $locale['setup_3704'] = "%d %B %Y %H:%M:%S";
 $locale['setup_3800'] = "Szablony e-mail";
 $locale['setup_3801'] = "Powiadomienie o nowej PW";
 $locale['setup_3802'] = "Masz nową prywatną wiadomość od użytkownika [USER], czekającego na [SITENAME]";
-$locale['setup_3803'] = "Witaj [RECEIVER],\r\nOtrzymałeś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz przeczytać prywatną wiadomość na [SITEURL]messages.php\r\n\r\nWiadomość: [MESSAGE]\r\n\r\nJeśli nie chcesz już otrzymywać powiadomień o nowych wiadomościach, możesz wyłączyć powiadomienie e-mail za pośrednictwem zakładki Opcje w panelu Prywatne wiadomości.\r\n\r\nPozdrawiamy,\r\n[SENDER].";
+$locale['setup_3803'] = "Witaj [RECEIVER],
+Otrzymałeś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz przeczytać prywatną wiadomość na [SITEURL]messages.php
+
+Wiadomość: [MESSAGE]
+
+Jeśli nie chcesz już otrzymywać powiadomień o nowych wiadomościach, możesz wyłączyć powiadomienie e-mail za pośrednictwem zakładki Opcje w panelu Prywatne wiadomości.
+
+Pozdrawiamy,
+[SENDER].";
 $locale['setup_3804'] = "Notification on new forum posts";
 $locale['setup_3805'] = "Thread Reply Notification - [SUBJECT]";
-$locale['setup_3806'] = "Witaj [RECEIVER],\r\n\r\nOdpowiedź została opublikowana na wątku forum \'[SUBJECT]\' którego śledzisz na [SITENAME]. Aby zobaczyć odpowiedź, skorzystaj z następującego linku:\r\n\r\n[THREAD_URL]\r\n\r\nJeśli już nie chcesz oglądać tego wątku, kliknij przycisk \'Przestań śledzić ten wątek\' link jest umieszczony na początku podstrony wątku.\r\n\r\nPozdrawiamy,\r\n[SENDER].";
+$locale['setup_3806'] = "Witaj [RECEIVER],
+
+Odpowiedź została opublikowana na wątku forum \\'[SUBJECT]\\' którego śledzisz na [SITENAME]. Aby zobaczyć odpowiedź, skorzystaj z następującego linku:
+
+[THREAD_URL]
+
+Jeśli już nie chcesz oglądać tego wątku, kliknij przycisk \\'Przestań śledzić ten wątek\\' link jest umieszczony na początku podstrony wątku.
+
+Pozdrawiamy,
+[SENDER].";
 $locale['setup_3807'] = "Formularz kontaktowy";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

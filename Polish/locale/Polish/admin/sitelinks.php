@@ -1,6 +1,6 @@
 <?php
 // News titles
-$locale['SL_0001'] = "Site Links";
+$locale['SL_0001'] = "Linki w Menu";
 $locale['SL_0010'] = "Add Site Link";
 $locale['SL_0011'] = "Edit Site Link";
 $locale['SL_0012'] = "Current Site Links";
@@ -49,8 +49,6 @@ $locale['SL_0051'] = "Widoczność";
 $locale['SL_0052'] = "Order";
 $locale['SL_0053'] = "Opcje";
 
-$locale['SL_0060'] = "Edytuj";
-$locale['SL_0061'] = "Usuń";
 $locale['SL_0062'] = "No Site Links have been defined.";
 $locale['SL_0063'] = "Use BBCode in Link Name?";
 

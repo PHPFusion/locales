@@ -1,27 +1,17 @@
 <?php
-/**
- * Polski pakiet językowy dla PHP-Fusion 9.0
- * Dziękujemy wszystkim którzy przyłożyli się do prac nad polskim pakietem językowym dla PHP-Fusion 9!
- *
- * @author Xyroqs (https://github.com/Xyroqs)
- * @author Inventer89 (https://nfszone.pl)
- * @link https://www.php-fusion.pl Oficjalny Polski Support PHP-Fusion
- * @package locale/Polish
- */
-
-
-setlocale(LC_TIME, "pl_PL.UTF-8"); // Linux Server (Windows may differ)
-$locale['charset'] = "utf-8";
-$locale['region'] = "PL";
+setlocale(LC_ALL, "pl_PL.UTF-8"); // Linux Server (Windows may differ)
+$locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['region'] = "PL"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "pl";
 $locale['short_lang_name'] = "pl";
-$locale['tinymce'] = "pl";
-$locale['select2'] = "pl";
-$locale['phpmailer'] = "pl";
-$locale['datepicker'] = "pl";
+$locale['tinymce'] = "pl"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "pl"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "pl"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "en_EN"; // refer to path includes/filemanager/lang/{value}.php
+$locale['datepicker'] = "pl"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "DD-MM-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
-$locale['password_strength'] = "pl";
+$locale['password_strength'] = "pl"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
@@ -58,11 +48,11 @@ $locale['add_language'] = "Dodaj tłumaczenia";
 $locale['add_lang'] = "Dodaj %";
 $locale['other_states'] = "Inne państwa";
 // Name
-$locale['name'] = 'Pełna Nazwa';
-$locale['username_pretext'] = 'Twoja nazwa użytkownika jest taka sama, jak profil użytkownika, który znajduje się na stronie:<div class="alert alert-info m-t-10 p-10">%s<strong>%s</strong></div>';
-$locale['first_name'] = 'Imię';
-$locale['middle_name'] = 'Drugie imię';
-$locale['last_name'] = 'Nazwisko';
+$locale['name'] = "Pełna Nazwa";
+$locale['username_pretext'] = "Twoja nazwa użytkownika jest taka sama, jak profil użytkownika, który znajduje się na stronie:<div class=\"alert alert-info m-t-10 p-10\">%s<strong>%s</strong></div>";
+$locale['first_name'] = "Imię";
+$locale['middle_name'] = "Drugie imię";
+$locale['last_name'] = "Nazwisko";
 // Documents
 $locale['doc_type'] = "Typ dokumentu";
 $locale['doc_series'] = "Seria";
@@ -70,12 +60,12 @@ $locale['doc_number'] = "Numer";
 $locale['doc_authority'] = "Ważność";
 $locale['doc_date_issue'] = "Data od";
 $locale['doc_date_expire'] = "Data do";
-// Standard Poziom użytkownikas
+// Standard User Levels
 $locale['user0'] = "Publiczny";
 $locale['user1'] = "Użytkownik";
 $locale['user2'] = "Administrator";
 $locale['user3'] = "Super administrator";
-$locale['user_na'] = "N/A";
+$locale['user_na'] = "Nd.";
 $locale['user_guest'] = "Gość";
 $locale['user_anonymous'] = "Konto ukryte";
 $locale['genitive'] = "% %";
@@ -93,7 +83,8 @@ $locale['status8'] = "Bezczynne";
 $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Nawigacja";
-$locale['global_002'] = "Brak linków\n";
+$locale['global_002'] = "Brak linków
+";
 $locale['global_003'] = "Brak podglądu";
 // Users Online
 $locale['global_010'] = "Aktualnie online";
@@ -147,7 +138,7 @@ $locale['global_059'] = "Brak obserwowanych przez Ciebie tematów.";
 $locale['global_060'] = "Przestać obserwować temat?";
 // Blog, News & Articles
 $locale['global_070'] = "Napisał ";
-$locale['global_071b'] = "Pokaż wszystkie posty %s";
+$locale['global_070b'] = "View all Post by %s";
 $locale['global_071'] = "w ";
 $locale['global_071b'] = "Autor";
 $locale['global_072'] = "Czytaj dalej";
@@ -156,7 +147,7 @@ $locale['global_073b'] = " Komentarz";
 $locale['global_074'] = " Czytań";
 $locale['global_074b'] = " Czytań";
 $locale['global_075'] = "Drukuj";
-$locale['print'] = 'Drukuj';
+$locale['print'] = "Drukuj";
 $locale['global_076'] = "Edytuj";
 $locale['global_077'] = "News";
 $locale['global_078'] = "Brak opublikowanych newsów";
@@ -214,7 +205,8 @@ $locale['UM062'] = "Hasło";
 $locale['UM063'] = "Zapamiętaj mnie na tym komputerze";
 $locale['UM064'] = "Zaloguj";
 $locale['UM065'] = "Nie masz jeszcze konta? [LINK]Zarejestruj się[/LINK].";
-$locale['UM066'] = "Nie możesz się zalogować?\n Poproś o nowe hasło[LINK]Poproś o nowe hasłnowe hasło[/LINK].";
+$locale['UM066'] = "Nie możesz się zalogować?
+ Poproś o nowe hasło[LINK]Poproś o nowe hasłnowe hasło[/LINK].";
 $locale['UM067'] = "(nie zalecane na komputerach publicznych)";
 $locale['UM080'] = "Edytuj profil";
 $locale['UM081'] = "Prywatne wiadomości";
@@ -267,7 +259,9 @@ $locale['global_193'] = "Could not set document cookie. Please make sure you hav
 $locale['global_194'] = "This account is currently suspended.";
 $locale['global_195'] = "This account has not been activated.";
 $locale['global_196'] = "Invalid username or password.";
-$locale['global_197'] = "Please wait while we transfer you...\n\n[ [LINK]Or click here if you do not wish to wait[/LINK] ]";
+$locale['global_197'] = "Please wait while we transfer you...
+
+[ [LINK]Or click here if you do not wish to wait[/LINK] ]";
 $locale['global_198'] = "OSTRZEŻENIE: WYKRYTO INSTALATOR, PROSZĘ O NATYCHMIASTOWE USUNIĘCIE PLIKU INSTALL-PHP.";
 $locale['global_199'] = "OSTRZEŻENIE: nie ustawiono hasła administratora, kliknij [LINK]Edytuj profil[/ LINK], aby go ustawić.";
 //Titles
@@ -283,10 +277,13 @@ $locale['global_301'] = "We are really sorry but this page cannot be displayed. 
  If you are a Site Administrator, please use your FTP client to upload any theme designed for PHP-Fusion 9 to the themes folder.
  After upload check in Theme Settings to see if the selected theme was correctly uploaded to your themes directory.
  Please note that the uploaded theme folder has to have the exact same name (including character case, which is important on Unix based servers)
- as chosen in Theme Settings page.\n\nIf you are regular member of this site, please contact the site\'s administrator via [SITE_EMAIL] e-mail and report this issue.";
+ as chosen in Theme Settings page.
+
+If you are regular member of this site, please contact the site\\'s administrator via [SITE_EMAIL] e-mail and report this issue.";
 $locale['global_302'] = "The Theme chosen in Main Settings does not exist or is incomplete!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Oh no! Where's the JavaScript?\nYour Web browser does not have JavaScript enabled or does not support JavaScript.
+$locale['global_303'] = "Oh no! Where's the JavaScript?
+Your Web browser does not have JavaScript enabled or does not support JavaScript.
 Please enable JavaScript on your Web browser to properly view this Web site, or upgrade to a Web browser that does support JavaScript.";
 // User Management
 $locale['global_400'] = "suspended";
@@ -305,37 +302,61 @@ $locale['global_412'] = "This account has been anonymized, probably because of i
 // Flood control
 $locale['global_440'] = "Automatic Ban by Flood Control";
 $locale['global_441'] = "Your account on [SITENAME] has been banned";
-$locale['global_442'] = "Witaj [USER_NAME],\n
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.\n
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.\n\n
-Pozdrawiamy,\n[SITEUSERNAME]";
+$locale['global_442'] = "Witaj [USER_NAME],
+
+Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.
+
+Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.
+
+
+Pozdrawiamy,
+[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Suspension automatically lifted by system";
 $locale['global_451'] = "Suspension lifted at [SITENAME]";
-$locale['global_452'] = "Witaj USER_NAME,\n
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:\n
-Username: USER_NAME\nPassword: Hidden for security reasons\n
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD\n\n
-Pozdrawiamy,\n[SITEUSERNAME]";
-$locale['global_453'] = "Witaj USER_NAME,\nThe suspension of your account at [SITEURL] has been lifted.\n\n
-Regards,\n[SITEUSERNAME]";
+$locale['global_452'] = "Witaj USER_NAME,
+
+The suspension of your account at [SITEURL] has been lifted. Here are your login details:
+
+Username: USER_NAME
+Password: Hidden for security reasons
+
+If you have forgot your password you can reset it via the following link: LOST_PASSWORD
+
+
+Pozdrawiamy,
+[SITEUSERNAME]";
+$locale['global_453'] = "Witaj USER_NAME,
+The suspension of your account at [SITEURL] has been lifted.
+
+
+Regards,
+[SITEUSERNAME]";
 $locale['global_454'] = "Account reactivated at [SITENAME]";
-$locale['global_455'] = "Witaj USER_NAME,\n
-Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.\n\n
-Pozdrawiamy,\n[SITEUSERNAME]";
+$locale['global_455'] = "Witaj USER_NAME,
+
+Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.
+
+
+Pozdrawiamy,
+[SITEUSERNAME]";
 $locale['global_456'] = "New password notification for [SITENAME]";
 $locale['global_457'] = "Cześć USER_NAME,
-\n\nDla Twojego konta zostało ustawione nowe hasło w [SITENAME]. Sprawdź swoje nowe dane logowania:\n\n
-Nazwa użytkownika: USER_NAME\nHasło: [PASSWORD]\n\nPozdrawiamy,\n[SITEUSERNAME]";
+
+
+Dla Twojego konta zostało ustawione nowe hasło w [SITENAME]. Sprawdź swoje nowe dane logowania:
+
+
+Nazwa użytkownika: USER_NAME
+Hasło: [PASSWORD]
+
+Pozdrawiamy,
+[SITEUSERNAME]";
 $locale['global_458'] = "New password has been set for USER_NAME";
 $locale['global_459'] = "New password has been set for USER_NAME, and email was not sent. Please ensure to tell the user of the new details.";
-// Function parseBajtyize()
+// Function parsebytesize()
 $locale['global_460'] = "Puste";
 $locale['global_461'] = "Bajty";
-$locale['global_462'] = "kB";
-$locale['global_463'] = "MB";
-$locale['global_464'] = "GB";
-$locale['global_465'] = "TB";
 //Safe Redirect
 $locale['global_500'] = "You are being redirected to %s, please wait. If you're not redirected, click here.";
 // Captcha Locales
@@ -355,7 +376,7 @@ $locale['global_ML103'] = "Przełącz język";
 // Flood Control
 $locale['flood'] = "You are barred to post until the flood period cooldown is over. Please wait for %s.";
 $locale['no_image'] = "No Image";
-$locale['send_message'] = "Send Message";
+$locale['send_message'] = "Wyślij";
 $locale['go_profile'] = "Go to %s Profile Page";
 // Global one word locales
 $locale['hello'] = "Witaj!";
@@ -435,7 +456,7 @@ $locale['image'] = "Grafika";
 $locale['choose'] = "Proszę wybrać jedną...";
 $locale['no_opts'] = "Brak wyboru";
 $locale['root'] = "Jako rodzic";
-$locale['choose-Użytkownik'] = "Wybierz użytkownika...";
+$locale['choose-user'] = "Please Choose a User...";
 $locale['choose-location'] = "Proszę wybrać lokalizację";
 $locale['parent'] = "Utwórz jako nowy rodzic...";
 $locale['item_order'] = "Item Ordering";

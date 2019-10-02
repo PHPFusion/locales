@@ -71,13 +71,13 @@ $locale['df_404'] = "%s nie jest prawidłową datą.";
 $locale['df_405'] = "%s nie jest prawidłowym adresem adrestem witryny.";
 $locale['df_415'] = "Nieprawidłowa nazwa pliku.";
 $locale['df_416'] = "Upload file too large. File must be less than %s.";
-$locale['df_417'] = "Upload file is not a valid file type. Image must be one of the following file types - %s";
+$locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
 $locale['df_418'] = "Upload file is fine, but the extension is invalid. Please rename your file extension and try again.";
 $locale['df_419'] = "Image failed verification check. Please re-do your image.";
 $locale['df_420'] = "Folder does not exist. Please create the folder via FTP and try again.";
 $locale['df_421'] = "Image must be no bigger than %uw x %uh pixels.";
 $locale['df_422'] = "Nieznany błąd (zapytanie)";
-$locale['df_423'] = "Obraz nie został prawidłowo załadowany. Proszę spróbuj ponownie";
+$locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Aktualne pliki przesyłania przekraczają maksymalny limit. Załącz mniej plików i spróbuj ponownie.";
 
 // ReCaptcha2
@@ -87,7 +87,7 @@ $locale['grecaptcha_placeholder_1'] = "SITE KEY z Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY z Google";
 $locale['no_keys'] = "Wygląda na to, że nie masz jeszcze kluczy. Zarejestruj się i pobierz swój [RECAPTCHA_LINK]klucz publiczny tutaj[/RECAPTCHA_LINK]";
 // here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Sprawdź klucze w Google reCAPTCHA</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Klucz publiczny";
 $locale['grecaptcha_0101'] = "Klucz prywatny";
 $locale['grecaptcha_0102'] = "Motyw";

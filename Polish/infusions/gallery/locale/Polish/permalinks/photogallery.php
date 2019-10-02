@@ -1,3 +1,3 @@
 <?php
-$locale['pl_photo_title'] = "Zdjęcia";
-$locale['pl_photo_desc'] = "Włącz bezpośrednie odnośniki dla linków prowadzących do zdjęć na stronie.";
+$locale['pl_gallery_title'] = "Galeria zdjęć";
+$locale['pl_gallery_desc'] = "Włącza bezpośrednie odnośniki dla galerii zdjęć na stronie.";

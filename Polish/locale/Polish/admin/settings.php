@@ -36,7 +36,9 @@ $locale['420'] = "Wyklucz lewe panele:";
 $locale['421'] = "Wyklucz górne panele:";
 $locale['422'] = "Wyklucz dolne panele:";
 $locale['423'] = "Wyklucz prawe panele:";
-$locale['424'] = "Examples:\n\r/news.php\n\r/forum/index.php";
+$locale['424'] = "Examples:
+/news.php
+/forum/index.php";
 $locale['425'] = "Adres strony";
 $locale['426'] = "Protokół strony:";
 $locale['427'] = "Host strony:";
@@ -92,7 +94,7 @@ $locale['552'] = "Use email verification for registration?";
 $locale['553'] = "Wyświetl kod weryfikacyjny?";
 $locale['557'] = "New members activated by admin?";
 $locale['558'] = "Enable terms of agreement?";
-$locale['559'] = "Terms of Agreement";
+$locale['559'] = "Regulamin";
 
 // Other Settings
 $locale['601'] = "Thumb size:";
@@ -106,7 +108,7 @@ $locale['608'] = "GD2";
 $locale['609'] = "Development Mode";
 
 $locale['649'] = "Prohibited user names:";
-$locale['650'] = "Miscellaneous";
+$locale['650'] = "Różne";
 $locale['651'] = "Bad words list:";
 $locale['652'] = "Enter one word per line.";
 $locale['653'] = "Leave empty if not required.";
@@ -139,13 +141,14 @@ $locale['675ML'] = "Aktualności";
 $locale['676ML'] = "Photogallery";
 $locale['677ML'] = "Ankiety";
 $locale['678ML'] = "Shoutbox";
-$locale['679ML'] = "Weblinks";
+$locale['679ML'] = "Katalog stron";
 $locale['680ML'] = "Linki strony";
 $locale['681ML'] = "Panele";
 $locale['682ML'] = "Ustawienia języka";
 $locale['683ML'] = "Włącz system wielojęzykowy";
 $locale['684ML'] = "Włączone języki";
-$locale['685ML'] = "Wybór dozwolonych języków.\n\rUWAGA: Usunięcie języka powoduje usunięcie wszystkich niestandardowych linków do witryn, kategorii i innych wielojęzykowych treści dla danego języka z systemu.";
+$locale['685ML'] = "Wybór dozwolonych języków.
+UWAGA: Usunięcie języka powoduje usunięcie wszystkich niestandardowych linków do witryn, kategorii i innych wielojęzykowych treści dla danego języka z systemu.";
 $locale['669'] = "Aktualności";
 $locale['669b'] = "Wpisów blogu na stronie";
 $locale['669c'] = "Aktualności na stronie";
@@ -155,9 +158,9 @@ $locale['672'] = "Włącz oceny system?";
 $locale['673'] = "Hide user profiles from public:";
 $locale['674'] = "Port SMTP";
 $locale['675'] = "Maintenance level:";
-$locale['676'] = "Administrators";
+$locale['676'] = "Administratorzy";
 $locale['677'] = "Super Administrators";
-$locale['678'] = "Site Owner";
+$locale['678'] = "Właściciel strony";
 $locale['679'] = "Enable visitor counter?";
 $locale['680'] = "Flood Auto Ban:";
 $locale['681'] = "Maintenance";
@@ -203,7 +206,7 @@ $locale['712'] = "Wiadomości usunięte..";
 $locale['713'] = "Czy napewno chcesz usunąć wszystkie wiadomości?";
 $locale['714'] = "Usuń wiadomości";
 
-// Zapisz ustawienia
+// Save Settings
 $locale['750'] = "Zapisz ustawienia";
 
 // Other Settings
@@ -216,10 +219,10 @@ $locale['803'] = "Attachments deleted: ";
 $locale['820'] = "Polityka prywatności";
 
 // Banners Settings
-$locale['850'] = "Banners";
+$locale['850'] = "Banery";
 $locale['851'] = "Banner 1";
 $locale['852'] = "Banner 2";
-$locale['853'] = "Admin Password:";
+$locale['853'] = "Hasło administratora:";
 $locale['854'] = "Save Banners";
 $locale['855'] = "Preview Banners";
 
@@ -247,7 +250,7 @@ $locale['1014a'] = "Disable for better security";
 $locale['1015'] = "Szerokość";
 $locale['1016'] = "Wysokość";
 
-$locale['1020'] = array(1 => 'Bajty (bajty)', 1000 => 'KB (Kilobajty)', 1000000 => 'MB (Megabajty)');
+$locale['1020'] = [1 => 'Bajty (bajty)', 1024 => 'KB (Kilobajty)', 1048576 => 'MB (Megabajty)'];
 
 // Social integration
 $locale['1030'] = "Create OpenGraph meta tags for Social networks";
@@ -268,13 +271,13 @@ $locale['dateformats'][] = "%m/%d/%Y %H:%M:%S";
 $locale['dateformats'][] = "%d/%m/%Y %H:%M:%S";
 $locale['dateformats'][] = "%d-%m-%Y %H:%M:%S";
 $locale['dateformats'][] = "%d.%m.%Y %H:%M:%S";
-$locale['dateformats'][] = "%B %d %Y";
+$locale['dateformats'][] = "%d %B %Y";
 $locale['dateformats'][] = "%d. %B %Y";
 $locale['dateformats'][] = "%d %B %Y";
 $locale['dateformats'][] = "%B %d %Y %H:%M";
 $locale['dateformats'][] = "%d. %B %Y %H:%M";
 $locale['dateformats'][] = "%d %B %Y %H:%M";
-$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
+$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
 $locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
 $locale['dateformats'][] = "%d %B %Y %H:%M:%S";
 $locale['error_rate'] = "Please enter a Rate.";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: Slider/locale/English.php
-| Author: Frederick MC Chan (Chan)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['SLDW_0100'] = "Carousel";
 $locale['SLDW_0101'] = "Slider Plugin";
 $locale['SLDW_0200'] = "Slide Deleted";
@@ -26,7 +10,7 @@ $locale['SLDW_0304'] = "Slider Control Settings";
 $locale['SLDW_0400'] = "Slide Title";
 $locale['SLDW_0401'] = "Slide Image";
 $locale['SLDW_0402'] = "Slide Order";
-$locale['SLDW_0403'] = "Actions";
+$locale['SLDW_0403'] = "Działania";
 $locale['SLDW_0404'] = "There are no slides defined";
 $locale['SLDW_0405'] = "Configure the Slider properties";
 $locale['SLDW_0406'] = "Create New Carousel";
@@ -50,9 +34,9 @@ $locale['SLDW_0517'] = "Slide Attributes";
 $locale['SLDW_0518'] = "Configure appearance for this Slide";
 $locale['SLDW_0519'] = "Caption Top Offset";
 $locale['SLDW_0520'] = "Offset position of captions from top border of the slide";
-$locale['SLDW_0521'] = "Left";
-$locale['SLDW_0522'] = "Right";
-$locale['SLDW_0523'] = "Center";
+$locale['SLDW_0521'] = "Lewa";
+$locale['SLDW_0522'] = "Prawa";
+$locale['SLDW_0523'] = "Wyśrodkuj";
 $locale['SLDW_0524'] = "Caption Text Alignment";
 $locale['SLDW_0525'] = "Caption Title Size";
 $locale['SLDW_0526'] = "Size of title in px. Negative number not allowed.";

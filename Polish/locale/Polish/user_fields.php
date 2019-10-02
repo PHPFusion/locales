@@ -28,10 +28,8 @@ $locale['u064'] = "Adres e-mail";
 $locale['u066'] = "Data dołączenia";
 $locale['u067'] = "Ostatnia wizyta";
 $locale['u068'] = "Nazwa użytkownika";
-$locale['u069'] = "Edytuj";
 $locale['u070'] = "Zbanuj";
 $locale['u071'] = "Zawieś";
-$locale['u072'] = "Usuń";
 $locale['u073'] = "Usunąć tego użytkownika?";
 $locale['u074'] = "Odbanuj";
 // Profile and register
@@ -50,7 +48,7 @@ $locale['uf_103'] = "Ogólne";
 $locale['uf_104'] = "Informacje";
 $locale['uf_105'] = "Zdjęcie profilowe";
 $locale['uf_106'] = "Podstawowe informacje";
-$locale['uf_107'] = "%s has no user information available.";                 // NIEPRZETŁUMACZONE //
+$locale['uf_107'] = "%s has no user information available.";
 $locale['uf_108'] = "Nie zdefiniowano pól użytkownika";
 
 // View User Groups
@@ -98,22 +96,25 @@ $locale['u144'] = "Nowe hasło administratora";
 $locale['u144a'] = "Aktualne hasło administratora";
 $locale['u145'] = "Potwierdź hasło admina";
 $locale['u146'] = " nie może być takie samo jak aktualne ";
-$locale['u147'] = "Hasło musi zawierać od 8 do 64 znaków.\n\rDozwolone są symbole a-z, 0-9 i @!#$%&/()=-_?+*.,:;";
+$locale['u147'] = "Hasło musi zawierać od 8 do 64 znaków.
+Dozwolone są symbole a-z, 0-9 i @!#$%&/()=-_?+*.,:;";
 $locale['u148'] = "Nowe hasła logowania nie są identyczne.";
 $locale['u148a'] = "Nowe hasła administratora nie są identyczne.";
 $locale['u149'] = "Twóje aktualne hasło logowania nie zostało podane lub jest nieprawidłowe.";
 $locale['u149a'] = "Twoje aktualne hasło administratora nie zostało podane lub jest nieprawidłowe.";
-$locale['u149b'] = "Twóje aktualne hasło logowania nie zostało podane lub jest nieprawidłowe.\n\rNie można ustawić hasła administratora bez poprawnego hasła logowania.";
+$locale['u149b'] = "Twóje aktualne hasło logowania nie zostało podane lub jest nieprawidłowe.
+Nie można ustawić hasła administratora bez poprawnego hasła logowania.";
 // Email activation
 $locale['u150'] = "Twoja rejestracja jest prawie ukończona, otrzymasz wiadomość e-mail zawierającą Twoje dane do logowania wraz z linkiem potrzebnym do zweryfikowania Twojego konta.";
 $locale['u151'] = "Witamy na [SITENAME]";
-$locale['u152'] = "Witaj USER_NAME,\n\r
-Witamy na SITENAME. Tutaj są dane logowania:\n\r
-Nazwa użytkownika: USER_NAME\n\r
-Hasło: USER_PASSWORD\n\r
-Aktywuj swoje konto poprzez następujący link: ACTIVATION_LINK\n\n\r\r
-Pozdrawiamy,\n\r
-SITEUSERNAME";
+$locale['u152'] = "Witaj USER_NAME,
+\r\nWitamy na SITENAME. Tutaj są dane logowania:
+\r\nNazwa użytkownika: USER_NAME
+\r\nHasło: USER_PASSWORD
+\r\nAktywuj swoje konto poprzez następujący link: ACTIVATION_LINK
+
+\r\nPozdrawiamy,
+\r\nSITEUSERNAME";
 
 $locale['u153'] = "Nie można wysłać e-maila aktywacyjnego.";
 $locale['u154'] = "Prosimy o [LINK]kontakt[/LINK] z administratorem witryny.";
@@ -141,7 +142,6 @@ $locale['u180'] = "Wystąpił błąd podczas przesyłania obrazu awatara";
 $locale['u184'] = "Maks. rozmiar pliku: %s / Maks. rozmiar: %ux%u pikseli";
 $locale['u185'] = "Awatar";
 $locale['u186'] = "Kliknij przycisk Przeglądaj, aby przesłać grafikę";
-$locale['u187'] = "Usuń";
 // Captcha and terms
 $locale['u190'] = "Kod weryfikacyjny";
 $locale['u191'] = "Wprowadź kod weryfikacyjny";
@@ -155,13 +155,19 @@ $locale['u195'] = "Kod Captcha nie może pozostać pusty.";
 $locale['u200'] = "Aby zweryfikować e-mail wysłaliśmy wiadomość na nowy adres e-mail (%s). Sprawdź swóją skrzynkę.";
 $locale['u201'] = "Twój adres e-mail zostanie zmieniony po kliknięciu w link z wiadomości e-mail.";
 $locale['u202'] = "Weryfikacja adresu e-mail - [SITENAME]";
-$locale['u203'] = "Witaj [USER_NAME],\n
-Ktoś ustawił ten adres e-mail na swoim koncie w naszej witrynie.\n
-Jeśli naprawdę chcesz zmienić adres e-mail na ten adres, kliknij poniższy link:\n
-[EMAIL_VERIFY_LINK]\n
-Uwaga: musisz się zalogować, aby kontynuować.\n
+$locale['u203'] = "Witaj [USER_NAME],
+
+Ktoś ustawił ten adres e-mail na swoim koncie w naszej witrynie.
+
+Jeśli naprawdę chcesz zmienić adres e-mail na ten adres, kliknij poniższy link:
+
+[EMAIL_VERIFY_LINK]
+
+Uwaga: musisz się zalogować, aby kontynuować.
+
 Pozdrawiamy,
-[SITEUSERNAME]\n\r
+[SITEUSERNAME]
+
 [SITENAME]";
 
 $locale['u210'] = "Reputacja użytkownika";

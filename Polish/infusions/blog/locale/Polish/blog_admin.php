@@ -17,7 +17,7 @@ $locale['blog_0145'] = "Usunięto nadesłany wpis!";
 $locale['blog_0146'] = "Opublikowano nadesłany wpis!";
 $locale['blog_0147'] = "Nadesłany wpis zapisano jako szkic!";
 $locale['blog_0148'] = "Dodano ";
-$locale['blog_0149'] = "%s has been disabled and will not take effect.";            /// DO PRZETŁUMACZENIA ///
+$locale['blog_0149'] = "%s has been disabled and will not take effect.";
 // Blog titles
 $locale['blog_0400'] = "Wpisy";
 $locale['blog_0401'] = "Dodaj wpis";
@@ -37,8 +37,6 @@ $locale['blog_0415'] = "Obraz musi mieć jeden z&nbsp;następujących formatów 
 $locale['blog_0416'] = "Obraz nie może być większy niż %s pikseli";
 $locale['blog_0417'] = "Nieznany błąd";
 // Blog form
-$locale['blog_0420'] = "Edytuj";
-$locale['blog_0421'] = "Usuń";
 $locale['blog_0422'] = "Tytuł:";
 $locale['blog_0423'] = "Kategoria:";
 $locale['blog_0424'] = "Bez kategorii";
@@ -63,7 +61,7 @@ $locale['blog_0441'] = "Podział strony";
 $locale['blog_0442'] = "Wyrównaj zdjęcie dla wpisu do:";
 $locale['blog_0443'] = "Słowa kluczowe:";
 $locale['blog_0444'] = "każde słowo musisz zatwierdzić Enterem";
-// Blog Category;
+// Blog Category
 // Blog Categories titles
 $locale['blog_0500'] = "Edytuj kategorię";
 $locale['blog_0502'] = "Kategorie";
@@ -71,7 +69,8 @@ $locale['blog_0502'] = "Kategorie";
 $locale['blog_0520'] = "Dodano kategorię!";
 $locale['blog_0521'] = "Zaktualizowano kategorię";
 $locale['blog_0522'] = "Nie można było usunąć kategorii";
-$locale['blog_0523'] = "Do kategorii są przypisane wpisy lub inne podkategorie. \n\rPrzenieś je do innej kategorii.";
+$locale['blog_0523'] = "Do kategorii są przypisane wpisy lub inne podkategorie. 
+Przenieś je do innej kategorii.";
 $locale['blog_0524b'] = "Usunięto kategorię";
 // Blog Categories form
 $locale['blog_0530'] = "Nazwa:";
@@ -93,9 +92,9 @@ $locale['blog_0561'] = "Kategoria o tej nazwie już istnieje.";
 $locale['blog_0450'] = "Proszę wpisać tytuł!";
 $locale['blog_0451'] = "Usunąć wpis?";
 $locale['blog_0452'] = "%s są wyłączone globalnie i&nbsp;będą niedostępne dopóki ustawienia nie ulegną zmianie.";
-$locale['blog_0456'] = "Brak wpisów w kategorii.";
+$locale['blog_0456'] = 'Brak wpisów w kategorii.';
 $locale['blog_0457'] = "Wpisz słowa kluczowe";
-$locale['blog_0461'] = "Brak zdefiniowanych kategorii.";
+$locale['blog_0461'] = 'Brak zdefiniowanych kategorii.';
 // Filters
 $locale['blog_0458'] = "Pokaż z:";
 $locale['blog_0459'] = "Wybierz kategorię";
@@ -114,20 +113,20 @@ $locale['blog_0702'] = "Dodaj kolejny wpis";
 $locale['blog_0703'] = "Skorzystaj z&nbsp;poniższego formularza, aby dodać wpis na bloga. Zostanie on sprawdzony przez administratora. [SITENAME] zastrzega sobie prawo do edycji lub usunięcia nadesłanych danych. Wpisy
 powinny być zgodne z&nbsp;tematyką strony oraz ogólnie przyjętymi zasadami, w&nbsp;przeciwnym wypadku zostaną one odrzucone.";
 $locale['blog_0704'] = "Powrót do [SITENAME]";
-$locale['601'] = "Rozmiar miniatury:";
-$locale['602'] = "Rozmiar zdjęcia:";
-$locale['603'] = "Maksymalny rozmiar zdjęcia:";
-$locale['604'] = "Szerokość x Wysokość";
-$locale['605'] = "Maksymalny rozmiar pliku (bajty):";
-// Blog & News Settings
-$locale['950'] = "Wgraj obraz";
-$locale['951'] = "Link do obrazu:";
-$locale['952'] = "Kategoria";
-$locale['953'] = "Aktualności";
-$locale['954'] = "Skalowanie miniatury:";
-$locale['955'] = "Zachowaj proporcje";
-$locale['956'] = "Przekształć do kwadratu";
-$locale['959'] = "Wgrane obrazy";
-$locale['960'] = "Obraz kategorii";
-$locale['961'] = "Allowed file types:";
+$locale['blog_601'] = "Thumb size:";
+$locale['blog_602'] = "Rozmiar zdjęcia:";
+$locale['blog_603'] = "Maksymalny rozmiar zdjęcia:";
+$locale['blog_604'] = "Szerokość x Wysokość";
+$locale['blog_605'] = "Maximum file size (Bajty):";
+// Blog Settings
+$locale['blog_950'] = "Image Upload";
+$locale['blog_951'] = "Image link:";
+$locale['blog_952'] = "Kategoria";
+$locale['blog_953'] = "Blog Item";
+$locale['blog_954'] = "Thumb ratio:";
+$locale['blog_955'] = "Original";
+$locale['blog_956'] = "Square";
+$locale['blog_959'] = "Uploaded Photo";
+$locale['blog_960'] = "Category Image";
+$locale['blog_961'] = "Allowed file types:";
 $locale['blog_submit'] = "%s Blog";

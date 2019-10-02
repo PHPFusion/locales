@@ -1,7 +1,7 @@
 <?php
 $locale['sept_001'] = "Logowanie";
 $locale['sept_002'] = "Rejestracja";
-$locale['sept_003'] = "Admin";
+$locale['sept_003'] = "Administrator";
 $locale['sept_004'] = "Mój profil";
 $locale['sept_005'] = "Wyloguj się";
 $locale['sept_006'] = "Szukaj...";

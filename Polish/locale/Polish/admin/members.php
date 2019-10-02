@@ -1,5 +1,5 @@
 <?php
-$locale['ME_400'] = 'User Management';
+$locale['ME_400'] = 'Zarządzanie użytkownikami';
 $locale['ME_401'] = 'Search User...';
 $locale['ME_402'] = 'Display Filters';
 $locale['ME_403'] = 'Add a new Użytkownik';
@@ -11,10 +11,10 @@ $locale['ME_408'] = 'Podstawowe informacje';
 $locale['ME_409'] = 'Szczegółowe informacje';
 $locale['ME_410'] = 'Użytkownik';
 $locale['ME_411'] = 'Poziom użytkownika';
-$locale['ME_412'] = 'Email Address';
+$locale['ME_412'] = 'Adres e-mail';
 $locale['ME_413'] = ' User Account';
 $locale['ME_414'] = 'Zaznacz wszystko';
-$locale['ME_415'] = 'Hidden';
+$locale['ME_415'] = 'Ukryte';
 $locale['ME_416'] = 'Shown';
 
 // Core Fields Filter
@@ -32,7 +32,7 @@ $locale['ME_430'] = 'Error: Actions against selected users could not be complete
 $locale['ME_431'] = 'The following users will be %s:';
 $locale['ME_432'] = '%s has been %s';
 $locale['ME_433'] = 'Please specify a reason for the action';
-$locale['ME_434'] = 'Reason';
+$locale['ME_434'] = 'Powód';
 $locale['ME_435'] = 'Duration';
 $locale['ME_436'] = 'Days';
 $locale['ME_437'] = 'Update Użytkownik';
@@ -42,9 +42,14 @@ $locale['ME_451'] = 'Profil użytkownika %s';
 $locale['ME_452'] = 'Edit %s\'s Profile';
 $locale['ME_453'] = 'Delete User %s';
 $locale['ME_454'] = "Warning!";
-$locale['ME_455'] = "You are about to delete user %s!\n\r\n\rThe contents posted by this user on this site will be deleted if you proceed.\n\r
-Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anomymize this user.\n\r
-Are you sure you want to delete this user?\n\r";
+$locale['ME_455'] = "You are about to delete user %s!
+
+The contents posted by this user on this site will be deleted if you proceed.
+
+Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anomymize this user.
+
+Are you sure you want to delete this user?
+";
 $locale['ME_456'] = 'Delete Użytkownik';
 $locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
 Are you sure you want to delete this user?<br/>";
@@ -58,18 +63,20 @@ $locale['ME_465'] = 'Please note that some users may have submitted content to y
 $locale['ME_466'] = 'It is strongly recommended to change deactivation action to anonymize instead of delete to prevent data loss!';
 $locale['ME_467'] = "Set deactivation system to anonymize.";
 $locale['ME_468'] = 'Automatic deactivation of inactive users.';
+$locale['ME_469'] = 'User has been activated';
 
 // Actions
 $locale['ME_500'] = 'Ban';
 $locale['ME_501'] = 'Reinstate';
 $locale['ME_502'] = 'Deactivate';
-$locale['ME_503'] = 'Suspend';
+$locale['ME_503'] = 'Zawieś';
 $locale['ME_504'] = 'Security Ban';
-$locale['ME_505'] = 'Cancel';
+$locale['ME_505'] = 'Anuluj';
 $locale['ME_506'] = 'Anonymize';
+$locale['ME_507'] = 'Activate';
 
 // a_message keys
-$locale['ME_550'] = 'banned';
+$locale['ME_550'] = 'Zablokowane';
 $locale['ME_551'] = 'reinstated';
 $locale['ME_552'] = 'deactivated';
 $locale['ME_553'] = 'suspended';

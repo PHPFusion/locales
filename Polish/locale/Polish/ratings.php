@@ -3,7 +3,9 @@ $locale['r100'] = "Oceny";
 $locale['r101'] = "Żadne oceny nie zostały dodane.";
 $locale['r102'] = "Usuń ocenę";
 $locale['r103'] = "Dodaj ocenę";
-$locale['r104'] = "Ocena zawartości jest dostępna tylko dla użytkowników.\n\nProszę [RATING_ACTION] by zagłosować.";
+$locale['r104'] = "Ocena zawartości jest dostępna tylko dla użytkowników.
+
+Proszę [RATING_ACTION] by zagłosować.";
 $locale['r105'] = "Oceniłeś materiał na %s dnia %s";
 $locale['r106'] = "Oceń materiał";
 $locale['r107'] = "Wybierz ocenę:";

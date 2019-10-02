@@ -7,14 +7,13 @@ $locale['403'] = "Oprogramowanie serwera WWW";
 $locale['404'] = "Wersja PHP";
 $locale['405'] = "Interfejs PHP";
 $locale['406'] = "Wersja serwera MySQL";
+$locale['406a'] = "Sterownik bazy danych";
 $locale['407'] = "Wersja PHP-Fusion";
 $locale['408'] = "Prefiks bazy danych";
 $locale['409'] = "Prefiks cookie";
 $locale['410'] = "Przeglądarka internetowa i system operacyjny";
 //PHP settings
 $locale['420'] = "Ustawienia PHP";
-$locale['421'] = "Tak";
-$locale['422'] = "Nie";
 $locale['423'] = "Tryb bezpieczeństwa";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Wsparcie dla";

@@ -9,7 +9,6 @@ $locale['411'] = "Komentarz usunięty";
 $locale['420'] = "Wyłącz emotoikony w tym komentarzu";
 $locale['421'] = "Zapisz komentarz";
 // Comments
-$locale['430'] = "Edytuj";
 $locale['431'] = "Usuń";
 $locale['432'] = "Adres IP użytkownika:";
 $locale['433'] = "Czy usunąć ten komentarz?";

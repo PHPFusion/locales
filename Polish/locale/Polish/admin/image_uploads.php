@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Delete Image
 $locale['400'] = "Delete Image";
 $locale['401'] = "Image Deleted";
@@ -20,9 +22,8 @@ $locale['440'] = "View Image";
 $locale['441'] = "Unknown file format, cannot display image.";
 $locale['442'] = "Delete this image";
 // Image Management
-$locale['460'] = "Images";
-$locale['461'] = "View";
-$locale['462'] = "Usuń";
+$locale['460'] = "Obrazy";
+$locale['461'] = "Zobacz";
 $locale['463'] = "This folder is empty";
 $locale['464'] = "Update image list for TinyMCE editor";
 // Popup Error/Warning Messages

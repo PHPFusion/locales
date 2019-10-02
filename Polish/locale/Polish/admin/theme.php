@@ -41,10 +41,11 @@ $locale['theme_1037'] = "Select Theme Pack";
 
 $locale['theme_2001'] = "Base Fonts";
 $locale['theme_2002'] = "Theme Components";
-$locale['theme_2003'] = "Navigation";
+$locale['theme_2003'] = "Nawigacja";
 $locale['theme_2004'] = "Base Fonts";
 $locale['theme_2005'] = "Rebuilding New %s Theme";
-$locale['theme_2006'] = "The Theme Engine is currently rebuilding your theme and may take up to 15 to 30 seconds depending of network status.\n Please do not close or refresh the window.";
+$locale['theme_2006'] = "The Theme Engine is currently rebuilding your theme and may take up to 15 to 30 seconds depending of network status.
+ Please do not close or refresh the window.";
 $locale['theme_2007'] = "Custom Preset Title";
 $locale['theme_2008'] = "Template";
 $locale['theme_2009'] = "Choose Color";
@@ -60,7 +61,7 @@ $locale['theme_2018'] = "Base Font Sizes";
 $locale['theme_2019'] = "Rozmiar czcionki";
 $locale['theme_2020'] = "Rozstaw linii";
 $locale['theme_2021'] = "Base Font Size Large";
-$locale['theme_2022'] = "Font Color";
+$locale['theme_2022'] = "Kolor czcionki";
 $locale['theme_2023'] = "Base Font Size Small";
 $locale['theme_2024'] = "Nagłówek ";
 $locale['theme_2025'] = "Font Styling";
@@ -118,9 +119,9 @@ $locale['theme_4015'] = "Horizontal Text Styling";
 $locale['theme_4016'] = "Link Styling";
 
 $locale['theme_5000'] = "Normal";
-$locale['theme_5001'] = "Bold";
-$locale['theme_5002'] = "Italic";
-$locale['theme_5003'] = "Underlined";
+$locale['theme_5001'] = "Pogrubienie";
+$locale['theme_5002'] = "Kursywa";
+$locale['theme_5003'] = "Podkreślenie";
 $locale['theme_5004'] = "Bold and Underlined";
 $locale['theme_5005'] = "Italic and Bold";
 $locale['theme_5006'] = "Italic and Underlined";

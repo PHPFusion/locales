@@ -1,3 +1,3 @@
 <?php
 $locale['pl_homepage_title'] = "Strona główna";
-$locale['pl_homepage_desc'] = "Włącz bezpośrednie odnośniki dla linka prowadzącego do strony głównej.";
+$locale['pl_homepage_desc'] = "Włącza bezpośrednie odnośniki dla linków strony głównej na stronie.";
