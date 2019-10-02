@@ -1,5 +1,8 @@
 <?php
 $locale['400'] = "Set&#259;ri";
+$locale['401a'] = "Site Host Settings";
+$locale['401b'] = "The configuration for your site url, site port and site protocols.";
+
 // Site Settings
 $locale['401'] = "Set&#259;ri principale";
 $locale['402'] = "Nume sait";
@@ -33,31 +36,38 @@ $locale['420'] = "Exclude panourile din st&#226;nga";
 $locale['421'] = "Exclude panourile de sus";
 $locale['422'] = "Exclude panourile de jos";
 $locale['423'] = "Exclude panourile din dreapta";
-$locale['424'] = "Examplu:\n\r/news.php\n\r/forum/index.php";
+$locale['424'] = "Examplu:
+/news.php
+/forum/index.php";
 $locale['425'] = "Adres&#259; sait";
 $locale['426'] = "Protocol:";
 $locale['427'] = "Gazd&#259;:";
 $locale['428'] = "Examplu:";
 $locale['429'] = "Director:";
 $locale['430'] = "Port:";
-$locale['430_error'] = "Num&#259;r port incorect";//Incorrect Site Port Number
+$locale['430_error'] = "Num&#259;r port incorect";
 $locale['430_desc'] = "Las&#259; liber pentru portul 80";
 $locale['431'] = "Previzualizare:";
 $locale['432'] = "Alte set&#259;ri";
 $locale['433'] = "saitulmeu.ro";
 $locale['434'] = "directorul_meu";
-$locale['435'] = "Exclude panourile de mai sus";//Above Upper Panels:";
-$locale['436'] = "Exclude panourile de mai jos";//Below Lower Panels:";
+$locale['435'] = "Exclude panourile de mai sus";
+$locale['436'] = "Exclude panourile de mai jos";
 $locale['437'] = "Activeaz&#259; Bootstrap Responsive Framework";
 $locale['438'] = "Caut&#259; Engine Friendly URL (SEF):";
-$locale['439'] = "Normalizeaz&#259; Friendly URLs:";//Normalize
-$locale['440'] = "Activeaz&#259; mod depanare SEO";// SEO Debug Mode:";
-$locale['441'] = "Activeaz&#259; Emtypo";//"Enable Entypo";
-$locale['442'] = "Activeaz&#259; Font-Awesome";//"Enable Font-Awesome";
+$locale['439'] = "Normalizeaz&#259; Friendly URLs:";
+$locale['440'] = "Activeaz&#259; mod depanare SEO";
+$locale['441'] = "Activeaz&#259; Emtypo";
+$locale['442'] = "Activeaz&#259; Font-Awesome";
 $locale['443a'] = "Exclude  panourile utilizator 1";
 $locale['443b'] = "Exclude  panourile utilizator 2";
 $locale['443c'] = "Exclude  panourile utilizator 3";
 $locale['443d'] = "Exclude  panourile utilizator 4";
+$locale['444'] = "Domain Servers";
+$locale['444a'] = "Configuration for multiple domains on a single site.<br/><br/> Separate each domain per row push (\"enter\")";
+$locale['444b'] = "Registered Domain Names <br /> <i>You must write current domain read under Site Host when you enable this feature</i>.";
+$locale['445'] = "Invalid (test purposes)";
+
 // Time & Date Settings
 $locale['450'] = "Timp &#351;i dat&#259;";
 $locale['451'] = "Format scurt de dat&#259;:";
@@ -75,7 +85,8 @@ $locale['462'] = "Decalaj server";
 $locale['463'] = "Seteaz&#259; astfel &#238;nc&#226;t data serverului sa fie GMT 0";
 $locale['464'] = "Fus orar prestabilit";
 $locale['465'] = "Prima zi a s&#259;pt&#259;m&#226;nii";
-$locale['466'] = "Implicit pentru noi membri";//"Default for New Users";
+$locale['466'] = "Implicit pentru noi membri";
+
 // Registration Settings
 $locale['550'] = "&#206;nregistrare";
 $locale['551'] = "Activez sistemul de &#238;nregistrare?";
@@ -94,7 +105,9 @@ $locale['605'] = "M&#259;rime maxim&#259; fi&#351;ier (octe&#355;i):";
 $locale['606'] = "Tipul de compresie pictograme";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+$locale['609'] = "Development Mode";
 
+$locale['649'] = "Prohibited user names:";
 $locale['650'] = "Set&#259;ri secundare";
 $locale['651'] = "List&#259; cuvinte interzise:";
 $locale['652'] = "Introdu un cuv&#226;nt pe linie.";
@@ -102,8 +115,7 @@ $locale['653'] = "Las&#259; gol dac&#259; nu este cazul.";
 $locale['654'] = "&#206;nlocuire cuvinte interzise:";
 $locale['655'] = "Permi&#355;i vizitatorilor s&#259; posteze?";
 $locale['656'] = "Avatare &#238;n comentarii?";
-$locale['656a'] = "Activez comentariile Jquery?";//Enable Jquery comments?";
-//$locale['656b'] = "Please set to high number comments per page if turn on Jquery for best view";
+$locale['656a'] = "Activez comentariile Jquery?";
 $locale['656b'] = "Te rog seteaz&#259; un num&#259;r mai mare de comentarii pe pagin&#259; dac&#259; activezi Jquery pentru o vizualizare mai bun&#259;";
 
 $locale['657'] = "Mod de &#238;ntre&#355;inere:";
@@ -133,9 +145,10 @@ $locale['679ML'] = "Leg#259;turi pe internet";
 $locale['680ML'] = "Leg#259;turi sait";
 $locale['681ML'] = "Panouri";
 $locale['682ML'] = "Set&#259;ri limb&#259;";
-$locale['683ML'] = "Activeaz#259; sistemul cu mai multe limbi";//Enable Multilingal System";
+$locale['683ML'] = "Activeaz#259; sistemul cu mai multe limbi";
 $locale['684ML'] = "Limbile activate";
-$locale['685ML'] = "Selectarea limbilor permise.\n\rNOT&#258;: Prin &#351;tergerea unei limbi vei &#351;terge deasemenea toate leg&#259;turile sait, categorii &#351;i orice alt con&#355;inut &#238;n mai multe limbi pentru limba specificat&#259;.";
+$locale['685ML'] = "Selectarea limbilor permise.
+NOT&#258;: Prin &#351;tergerea unei limbi vei &#351;terge deasemenea toate leg&#259;turile sait, categorii &#351;i orice alt con&#355;inut &#238;n mai multe limbi pentru limba specificat&#259;.";
 $locale['669'] = "&#350;tiri";
 $locale['669b'] = "Post&#259;ri pe pagin&#259;";
 $locale['669c'] = "&#350;tiri pe pagin&#259;";
@@ -164,20 +177,19 @@ $locale['691'] = "Permite utilizatorilor s&#259;-&#351;i schimbe numele de utili
 $locale['692'] = "Set&#259;ri cod de securitate";
 $locale['693'] = "Captcha";
 $locale['694'] = "Permite execu&#355;ia PHP";
-$locale['695'] = "ATEN&#354;IE! Permi&#355;&#226;nd execu&#355;ia PHP poate creea o vulnerabilitate SQL.";//"WARNING! Allowing PHP execution will open the system to SQL vulnerabilities.";
+$locale['695'] = "ATEN&#354;IE! Permi&#355;&#226;nd execu&#355;ia PHP poate creea o vulnerabilitate SQL.";
 $locale['696'] = "Te rog introdu cheia public&#259; &#351;i cea privat&#259; reCAPTCHA!";
 
 $locale['913'] = "Comentarii pe pagin&#259;";
 
 $locale['955'] = "Original";
-$locale['956'] = "P&#259;trat";//"Square";
+$locale['956'] = "P&#259;trat";
 
-// Removed Recaptcha
 $locale['698'] = "Autentificare SMTP?";
 $locale['699'] = "Metod&#259; conectare";
 $locale['699b'] = "Ambele";
 $locale['699e'] = "E-mail";
-$locale['699f'] = "Verifica&#355;i fi&#351;ierele &#238;nc&#259;rcate pentru tipul MIME?";//"Check uploaded files for MIME type?";
+$locale['699f'] = "Verifica&#355;i fi&#351;ierele &#238;nc&#259;rcate pentru tipul MIME?";
 
 // Private Message Settings
 $locale['700'] = "Mesaje private";
@@ -190,6 +202,9 @@ $locale['708'] = "Valorile implicite pentru op&#355;iuni utilizator";
 $locale['709'] = "Notific&#259;ri prin e-mail?";
 $locale['710'] = "Salveaz&#259; mesajele trimise?";
 $locale['711'] = "Not&#259;: Op&#355;iunile utilizatorilor sunt prioritare dac&#259; sunt setate.<br />Dac&#259; nu sunt setate, op&#355;iunile globale vor fi aplicate.";
+$locale['712'] = "Messages has been deleted.";
+$locale['713'] = "Are you sure to delete all private messages?";
+$locale['714'] = "Delete Messages";
 
 // Save Settings
 $locale['750'] = "Salveaz&#259; set&#259;rile";
@@ -199,8 +214,10 @@ $locale['800'] = "Cur&#259;&#355;&#259; forumul";
 $locale['801'] = "Post&#259;ri &#351;terse: ";
 $locale['802'] = "Discu&#355;ii &#351;terse: ";
 $locale['803'] = "Ata&#351;amente &#351;terse: ";
+
 // Privacy policy
 $locale['820'] = "Politica de confiden&#355;ialitate";
+
 // Banners Settings
 $locale['850'] = "Reclame";
 $locale['851'] = "Reclam&#259; 1";
@@ -208,10 +225,12 @@ $locale['852'] = "Reclam&#259; 2";
 $locale['853'] = "Parola de administrare:";
 $locale['854'] = "Salveaz&#259; reclam&#259;";
 $locale['855'] = "Previzualizeaz&#259; reclam&#259;";
+
 // Settings Error
 $locale['900'] = "Set&#259;ri actualizate";
 $locale['901'] = "Eroare la actualizarea bazei de date: Set&#259;rile nu au fost actualizate!";
 $locale['902'] = "C&#226;mpul gazdei nu poate fi l&#259;sat gol!";
+
 // User Management
 $locale['1001'] = "Raport Avatar:";
 $locale['1002'] = "Activeaz&#259; sistemul de dezactivare";
@@ -228,12 +247,15 @@ $locale['1012'] = "Anonimizare utilizatori";
 $locale['1013'] = "&#350;tergere utilizatori";
 $locale['1014'] = "Utilizatorii se pot conecta simultan de pe mai multe dispozitive?";
 $locale['1014a'] = "Dezactiveaz&#259; pentru o mai bun&#259; securitate";
+$locale['1015'] = "Width";
+$locale['1016'] = "Height";
 
-$locale['1020'] = array(1 => 'Octe&#355;i (octe&#355;i)', 1000 => 'KO (Kiloocte&#355;i)', 1000000 => 'MO (Megaocte&#355;i)');
+$locale['1020'] = [1 => 'Octe&#355;i (octe&#355;i)', 1024 => 'KO (Kilobytes)', 1048576 => 'MO (Megabytes)'];
+
 // Social integration
-$locale['1030'] = "Creaz&#259; meta tag OpenGraph pentru re&#355;ele de socializare";//"Create OpenGraph meta tags for Social networks";
-$locale['1031'] = "Permite URL-uri index &#238;n coduri BB";//"Allow index URLs in BB Codes";
-$locale['1032'] = "Permite URL-uri index &#238;n profilul utilizatorului";//"Allow index URLs in user profiles";
+$locale['1030'] = "Creaz&#259; meta tag OpenGraph pentru re&#355;ele de socializare";
+$locale['1031'] = "Permite URL-uri index &#238;n coduri BB";
+$locale['1032'] = "Permite URL-uri index &#238;n profilul utilizatorului";
 
 // Date format options (you can add/delete lines)
 // More info at: http://php.net/manual/en/function.strftime.php
@@ -258,18 +280,16 @@ $locale['dateformats'][] = "%d %B %Y %H:%M";
 $locale['dateformats'][] = "%B %d %Y %H:%M:%S";
 $locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
 $locale['dateformats'][] = "%d %B %Y %H:%M:%S";
-$locale['error_rate'] = "Te rog introdu un procent.";//"Please enter a Rate.";
-$locale['error_type'] = "Te rog introdu un tip de extensie.";//"Please enter Extension Type.";
-$locale['error_width'] = "Te rog introdu l&#259;&#355;imea";//"Please enter Width.";
-$locale['error_height'] = "Te rog introdu &#238;n&#259;l&#355;imea";//"Please enter Height.";
-$locale['error_value'] = "Te rog introdu o valoare";//"Please enter a value.";
+$locale['error_rate'] = "Te rog introdu un procent.";
+$locale['error_type'] = "Te rog introdu un tip de extensie.";
+$locale['error_width'] = "Te rog introdu l&#259;&#355;imea";
+$locale['error_height'] = "Te rog introdu &#238;n&#259;l&#355;imea";
+$locale['error_value'] = "Te rog introdu o valoare";
 $locale['blog_description'] = "Set&#259;ri configurare pentru blog";
 $locale['news_description'] = "Set&#259;ri configurare pentru &#351;tiri";
 $locale['ipp_description'] = "Set&#259;ri de configurare pentru num&#259;rul elementelor listate pe o pagin&#259;";
-//$locale['ipp_description'] = "The configuration settings for default numbers of results items to be listed";
 $locale['forum_description'] = "Set&#259;ri configurare forum";
 $locale['download_description'] = "Set&#259;ri configurare desc&#259;rc&#259;ri";
-//$locale['language_description'] = "The configuration settings for default multi-language system";
 $locale['language_description'] = "Set&#259;ri configurare pentru sistemul multi lingv";
 $locale['photo_description'] = "Set&#259;ri configurare pentru galeria foto";
 $locale['main_description'] = "Set&#259;ri configurare pentru sistemul principal";
@@ -282,7 +302,6 @@ $locale['user_description'] = "Set&#259;ri configurare pentru sistemul de manage
 $locale['theme_description'] = "Set&#259;ri configurare pentru tematicii";
 $locale['blog_settings'] = "Set&#259;ri blog";
 $locale['download_settings'] = "Set&#259;ri desc&#259;rc&#259;ri";
-
 $locale['forum_settings'] = "Set&#259;ri forum";
 $locale['ipp_settings'] = "Set&#259;ri elemente pe pagin&#259;";
 $locale['photo_settings'] = "Set&#259;ri galerie foto";
@@ -295,5 +314,17 @@ $locale['security_settings'] = "Set&#259;ri de securitate";
 $locale['time_settings'] = "Set&#259;ri dat&#259; &#351;i timp";
 $locale['user_settings'] = "Set&#259;ri utilizatori";
 $locale['theme_settings'] = "Set&#259;ri tematic&#259;";
+
 $locale['securimage3'] = "Secure Image v.3";
-?>
+
+// Security Settings
+$locale['security_001'] = "System Sessions";
+$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_003'] = "Sessions Type";
+$locale['security_004'] = "Database System";
+$locale['security_005'] = "File System";
+$locale['security_006'] = "Clear System Session Cache";
+$locale['security_007'] = "All system sessions has been cleared successfully";
+$locale['security_008'] = "Form Tokens";
+$locale['security_009'] = "Number of issued tokens for each form";
+$locale['security_010'] = "Fusion GateWay";

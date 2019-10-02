@@ -7,4 +7,3 @@ $locale['404'] = "Nu exist&#259; post&#259;ri pe blog &#238;n aceast&#259; categ
 $locale['405'] = "Mai mult";
 $locale['406'] = "Arat&#259; toate categoriile";
 $locale['407'] = "Nicio categorie de blog definit&#259;";
-?>

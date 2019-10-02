@@ -19,11 +19,11 @@ $locale['html_015'] = "Alternativ&#259;";
 $locale['html_016'] = "Pagebreak";
 $locale['html_017'] = "Culoare text";
 $locale['html_018'] = "Paragraf";
-$locale['html_019'] = "Format text";//Headings
+$locale['html_019'] = "Format text";
+$locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Text";
 $locale['preview'] = "Previzualizeaz&#259;";
 $locale['word_count'] = "Num&#259;r de caractere";
 $locale['error_preview'] = "Eroare previzualizare";
 $locale['error_preview_text'] = "Previzualizarea nu a putut fi generat&#259; momentan. Te rog re&#238;ncarc&#259; pagina &#351;i &#238;ncearc&#259; din nou.";
-?>

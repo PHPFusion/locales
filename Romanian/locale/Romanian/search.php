@@ -45,4 +45,3 @@ $locale['521'] = "se potrivesc";
 $locale['522'] = "g&#259;sit(e) dup&#259; criteriul de c&#259;utare";
 //more than 100 results
 $locale['530'] = "Te rog fii mai precis in c&#259;utarea ta. C&#259;utarea ta a &#238;ntors %s rezultate. Doar  100 de rezultate sunt afi&#351;ate";
-?>

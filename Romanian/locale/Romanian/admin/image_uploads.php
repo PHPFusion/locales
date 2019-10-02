@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Delete Image
 $locale['400'] = "&#350;terge imaginea";
 $locale['401'] = "Imaginea a fost &#351;tears&#259;.";
@@ -22,9 +24,7 @@ $locale['442'] = "&#350;terge aceast&#259; imagine";
 // Image Management
 $locale['460'] = "Imagini";
 $locale['461'] = "Vizualizeaz&#259;";
-$locale['462'] = "&#350;terge";
 $locale['463'] = "Acest director este gol";
 $locale['464'] = "Actualizeaz&#259; lista de imagini pentru editorul TinyMCE";
 // Popup Error/Warning Messages
 $locale['470'] = "Sterg aceasta imagine?";
-?>

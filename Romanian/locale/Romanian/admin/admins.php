@@ -1,47 +1,34 @@
 <?php
 // Administrators messages
-$locale['400'] = "Administrator ad&#259ugat";
-$locale['401'] = "Administrator actualizat";
-$locale['402'] = "Administrator &#350;ters";
+$locale['ADM_400'] = "Administrator added";
+$locale['ADM_401'] = "Administrator updated";
+$locale['ADM_402'] = "Administrator removed";
 // Search/Add Administrator
-$locale['410'] = "Adaug&#259; un administrator";
-$locale['411'] = "Caut&#259; utilizatori folosind formularul de mai jos:";
-$locale['412'] = "ID utilizator";
-$locale['413'] = "Nume utilizator";
-$locale['414'] = "Caut&#259;";
-$locale['415'] = "Aplic&#259; toate privilegiile";
-$locale['416'] = "Aplic&#259; privilegiile de Super Administrator";
-$locale['417'] = "Adaug&#259; administrator";
-$locale['418'] = "Nu am gasit niciun utilizator.";
-$locale['419'] = "Caut&#259; din nou";
+$locale['ADM_410'] = "Add Administrator";
+$locale['ADM_411'] = "Search for users to add using the form below.";
+$locale['ADM_413'] = "Nume utilizator";
+$locale['ADM_415'] = "Apply all privileges";
+$locale['ADM_416'] = "Make Super Administrator";
+$locale['ADM_418'] = "No users found.";
+$locale['ADM_419'] = "Search Again";
 // Current Administrators
-$locale['420'] = "Administratori";
-$locale['421'] = "Nume utilizator";
-$locale['422'] = "Nivel administrator";
-$locale['423'] = "Op&#355;iuni";
-$locale['424'] = "Administrator principal";
-$locale['425'] = "F&#259;r&#259; drepturi desemnate";
-$locale['426'] = "Editeaz&#259;";
-$locale['427'] = "&#350;terge";
+$locale['ADM_420'] = "Administratori";
+$locale['ADM_421'] = "Nume utilizator";
+$locale['ADM_422'] = "Admin Level";
+$locale['ADM_423'] = "Op&#355;iuni";
+$locale['ADM_425'] = "No rights assigned";
 // Edit Admin Rights
-$locale['440'] = "Drepturi de administrator";
-$locale['441'] = "Administrare de con&#355;inut";
-$locale['442'] = "Administrare de utilizatori";
-$locale['443'] = "Administrare de sistem";
-$locale['444'] = "Infuzii";
-$locale['445'] = "Bifeaz&#259; tot";
-$locale['446'] = "Debifeaz&#259; tot";
-$locale['447'] = "Parola de administrare:";
-$locale['448'] = "Salveaz&#259; drepturile de administrator";
-$locale['449'] = "Set&#259;ri";
-$locale['450'] = "Bifeaz&#259; op&#355;iunile sigure";
+$locale['ADM_440'] = "Edit Admin Rights";
+$locale['ADM_441'] = "Content Admin";
+$locale['ADM_442'] = "User Admin";
+$locale['ADM_443'] = "System Admin";
+$locale['ADM_444'] = "Infuzii";
+$locale['ADM_445'] = "Bifeaz&#259; toate";
+$locale['ADM_448'] = "Save Admin Rights";
+$locale['ADM_449'] = "Set&#259;ri";
+$locale['ADM_450'] = "Check secure";
 // Popup Error/Warning Messages
-$locale['460'] = "Sterg acest administrator?";
-$locale['461'] = "Adaug acest administrator?";
-$locale['462'] = "Atribuirea acestor drepturi de administrare unui utilizator prezint&#259; un poten&#355;ial risc de securitate!";
-// Remove Admin confirmation
-$locale['470'] = "&#350;terge administrator";
-$locale['471'] = "Pentru a elimina acest administrator, te rog introdu parola de administrare:";
-$locale['472'] = "Confirm&#259;";
-$locale['473'] = "Anuleaz&#259;";
-?>
+$locale['ADM_460'] = "Remove this administrator?";
+$locale['ADM_461'] = "Add this administrator?";
+$locale['ADM_462'] = "Giving these admin rights to a user is a potential security risk!";
+$locale['ADM_463'] = "No action selected!";

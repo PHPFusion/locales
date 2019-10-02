@@ -19,12 +19,11 @@ $locale['download_1018'] = "Viziteaz&#259; sait-ul web";
 $locale['download_1019'] = "Verificare editori";
 $locale['download_1020'] = "M&#259;rime fi&#351;ier";
 $locale['download_1021'] = "Data public&#259;rii";
-$locale['download_2001'] = "Cele mai multe comentarii";
-$locale['download_2002'] = "Cele mai recente";
-$locale['download_2003'] = "Cele mai desc&#259;rcate";
-$locale['download_2004'] = "Cele mai votate";
+$locale['download_2001'] = 'Cele mai multe comentarii';
+$locale['download_2002'] = 'Cele mai recente';
+$locale['download_2003'] = 'Cele mai desc&#259;rcate';
+$locale['download_2004'] = 'Cele mai votate';
 $locale['download_3000'] = "Nu exist&#259; desc&#259;rc&#259;ri ad&#259;ugate";
 $locale['download_3001'] = "Nu exist&#259; nicio categorie definit&#259;";
 $locale['download_3002'] = "Nu exist&#259; niciun autor";
 $locale['download_3003'] = "Vizualizeaz&#259; &#351;i voteaz&#259; aceast&#259; desc&#259;rcare";
-?>

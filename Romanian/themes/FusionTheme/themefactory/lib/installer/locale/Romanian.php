@@ -9,9 +9,9 @@ $locale['homeSetup_0202'] = 'Nu, mul&#355;umesc';
 $locale['homeSetup_0100'] = 'Acas&#259;';
 $locale['homeSetup_0101'] = 'Bine ai venit pe saitul t&#259;u PHP-Fusion v9';
 $locale['homeSetup_0102'] = '[b]Felicit&#259;ri pentru prima ta instalare[/b]';
-$locale['homeSetup_0103'] = 'Cel mai simplu mod pentru dezvoltarea unui sait [i]profesional[/i]. [b]&#206;ncepe&#355;i acum[/b]';//pro grade
-$locale['homeSetup_0104'] = "Carusel";//Carousel
-$locale['homeSetup_0105'] = "Caracteristici";//Feature Box";
+$locale['homeSetup_0103'] = 'Cel mai simplu mod pentru dezvoltarea unui sait [i]profesional[/i]. [b]&#206;ncepe&#355;i acum[/b]';
+$locale['homeSetup_0104'] = "Carusel";
+$locale['homeSetup_0105'] = "Caracteristici";
 $locale['homeSetup_0106'] = "Panou";
 $locale['homeSetup_0107'] = "Blocheaz&#259;";
 $locale['homeSetup_0112'] = "Tematici";
@@ -23,5 +23,4 @@ $locale['homeSetup_0117'] = "[h4]Re&#355;eaua de dezvoltatori PHP-Fusion[/h4]";
 $locale['homeSetup_0118'] = "[p]Ob&#355;ine asisten&#355;&#259; &#238;n dezvoltarea codului, g&#259;se&#351;ti dezvoltatori &#351;i proiecte interesante, totul se &#238;nt&#226;mpl&#259;.
 Al&#259;tur&#259;-te efortului de colaborare pe surs&#259; deschis&#259; din &#238;ntreaga lume ast&#259;zi";
 $locale['homeSetup_0119'] = "Uimitor de u&#351;or pentru toat&#259; lumea";
-$locale ['homeSetup_0120'] = "Totul ce este necesar pentru sim&#355;i nevoile de baz&#259;. Nimic nu poate merge prost &#238;n sistemul CMS.";
-?>
+$locale['homeSetup_0120'] = "Totul ce este necesar pentru sim&#355;i nevoile de baz&#259;. Nimic nu poate merge prost &#238;n sistemul CMS.";

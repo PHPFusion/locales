@@ -28,11 +28,10 @@ $locale['u064'] = "E-mail";
 $locale['u066'] = "Data &#238;nscrierii";
 $locale['u067'] = "Ultima vizit&#259;";
 $locale['u068'] = "Nume utilizator";
-$locale['u069'] = "Editeaz&#259;";
 $locale['u070'] = "Interzice";
 $locale['u071'] = "Suspend&#259;";
-$locale['u072'] = "&#350;terge";
 $locale['u073'] = "&#350;tergi acest utilizator?";
+$locale['u074'] = "Unban";
 // Profile and register
 $locale['u100'] = "Pentru schimbarea parolei sau a adresei de e-mail<br />trebuie s&#259; precizezi parola curent&#259;.";
 $locale['u101'] = "&#206;nregistrare";
@@ -59,9 +58,10 @@ $locale['u112'] = "%u utilizatori";
 $locale['u113'] = "Nume utilizatori";
 $locale['u114'] = "Tip utilizator";
 $locale['u115'] = "Limb&#259;";
-$locale['u116'] = "Nu exist&#259; niciun membru &#238;n grup.";// There are no group members.";
-
+$locale['u116'] = "Nu exist&#259; niciun membru &#238;n grup.";
+$locale['u117'] = "No user groups.";
 // User name and email
+$locale['u119'] = "User name contains.";
 $locale['u120'] = "Numele de utilizator con&#355;ine caractere nevalide.";
 $locale['u121'] = "Numele ales este deja folosit de un alt utilizator.";
 $locale['u122'] = "Numele de utilizator nu poate fi gol.";
@@ -80,7 +80,6 @@ $locale['u133'] = "Parola de conectare";
 $locale['u134'] = "Noua parol&#259; de conectare";
 $locale['u134a'] = "Seteaz&#259; parola";
 $locale['u134b'] = "Repet&#259; parola";
-$locale['u135'] = "Confirm&#259; parola";
 $locale['u135a'] = "Parola curent&#259;";
 $locale['u135b'] = "Seteaz&#259; noua paral&#259;";
 $locale['u135c'] = "Repet&#259; noua parol&#259;";
@@ -97,7 +96,7 @@ $locale['u144'] = "Noua parol de administrare";
 $locale['u144a'] = "Parola curent&#259; de administrare";
 $locale['u145'] = "Confirm&#259; parola de administrare";
 $locale['u146'] = " nu poate fi la fel cu actuala ";
-$locale['u147'] = "Parola trebuie s&#259; aib&#259; &#238;ntre 8 &#351;i 64 caractere lungime.<br />Caracterele permise sunt: a-z, 0-9 &#351;i @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Parola trebuie s&#259; aib&#259; &#238;ntre 8 &#351;i 64 caractere lungime.<br />Caracterele permise sunt: a-z, 0-9 &#351;i @!#$%&\\/()=-_?+*.,:;";
 $locale['u148'] = "Noile parole de conectare nu sunt identice.";
 $locale['u148a'] = "Noile parole de administrare nu sunt identice.";
 $locale['u149'] = "Parola actual&#259; de conectare nu a fost specificat&#259; sau nu este valid&#259;.";
@@ -106,13 +105,21 @@ $locale['u149b'] = "Parola actual&#259; de administrare nu a fost specificat&#25
 // Email activation
 $locale['u150'] = "Inregistrarea ta este aproape finalizata. Vei primi un e-mail cu datele tale de conectare, impreuna cu o legatura de verificare a contului tau.";
 $locale['u151'] = "Bun venit la [SITENAME]";
-$locale['u152'] = "Salut, USER_NAME!\n
-Bine ai venit la SITENAME. Acestea sunt datele tale de conectare:\n\r
-Utilizator: USER_NAME\n\r
-Parola: USER_PASSWORD\n\r
-Pentru activarea contului trebuie sa dai clic pe legatura urmatoare: ACTIVATION_LINK\n\n\r\r
-Cu respect,\n\r
+$locale['u152'] = "Salut, USER_NAME!
+
+Bine ai venit la SITENAME. Acestea sunt datele tale de conectare:
+\r
+Utilizator: USER_NAME
+\r
+Parola: USER_PASSWORD
+\r
+Pentru activarea contului trebuie sa dai clic pe legatura urmatoare: ACTIVATION_LINK
+
+\r\r
+Cu respect,
+\r
 SITEUSERNAME";
+
 $locale['u153'] = "Mesajul de activare nu a putut fi trimis.";
 $locale['u154'] = "Te rug&#259;m s&#259; [LINK]contactezi[/LINK] un administrator.";
 $locale['u155'] = "Activeaz&#259; contul";
@@ -123,7 +130,8 @@ $locale['u161'] = "Acum te po&#355;i conecta.";
 $locale['u162'] = "Un administrator &#238;&#355;i va activa contul &#238;n scurt timp.";
 $locale['u163'] = "Profilul a fost actualizat cu succes.";
 $locale['u164'] = "Actualizarea a e&#351;uat";
-//$locale['u165'] = "&#206;nregistrarea a e&#351;uat";
+$locale['u165'] = "Email has been resended.";
+
 $locale['u167'] = "deoarece:";
 $locale['u168'] = "&#206;ncearc&#259; din nou.";
 $locale['u169'] = "Profil actualizat";
@@ -134,11 +142,10 @@ $locale['u173'] = "&#206;napoi la Administrare membri.";
 $locale['u174'] = "Adaug&#259; &#238;nc&#259; un membru.";
 // Avatar upload
 $locale['u180'] = "Avatarul t&#259;u nu a fost &#238;nc&#259;rcat corect.";
+
 $locale['u184'] = "Dimensiune maxim&#259;: %s / M&#259;rime maxim&#259;: %ux%u pixeli";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "D&#259; clic pe R&#259;sfoie&#351;te/Browse pentru a &#238;nc&#259;rca o imagine";
-$locale['u187'] = "&#350;terge";
-
 // Captcha and terms
 $locale['u190'] = "Cod de validare";
 $locale['u191'] = "Introdu codul de validare";
@@ -148,19 +155,23 @@ $locale['u193a'] = "Actualizat";
 $locale['u193b'] = "Sunt de acord";
 $locale['u194'] = "Cod de validare incorect.";
 $locale['u195'] = "C&#226;mpul codului captcha nu poate fi l&#259;sat gol.";
-
 // E-mail Change Confirmation
 $locale['u200'] = "Un mesaj de verificare a fost trimis la adresa ta de e-mail (%s).";
 $locale['u201'] = "Adresa ta de e-mail va fi schimbat&#259; atunci c&#226;nd dai clic pe leg&#259;tura din e-mail.";
 $locale['u202'] = "Verificare adresa e-mail - [SITENAME]";
-$locale['u203'] = "Salut, [USER_NAME]!\n
-Cineva si-a setat in cont aceasta adresa de e-mail pe saitul nostru.\n
-Daca esti de acord cu modificarea adrese de e-mail te rugam sa dai clic pe urmatoarea legatura:\n
-[EMAIL_VERIFY_LINK]\n
-Nota: trebuie sa fii conectat pentru continuare.\n
+$locale['u203'] = "Salut, [USER_NAME]!
+
+Cineva si-a setat in cont aceasta adresa de e-mail pe saitul nostru.
+
+Daca esti de acord cu modificarea adrese de e-mail te rugam sa dai clic pe urmatoarea legatura:
+
+[EMAIL_VERIFY_LINK]
+
+Nota: trebuie sa fii conectat pentru continuare.
+
 Cu respect,
-[SITEUSERNAME]\n\r
+[SITEUSERNAME]
+
 [SITENAME]";
 
 $locale['u210'] = "Reputa&#355;ie utilizator";
-?>

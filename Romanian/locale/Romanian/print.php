@@ -14,4 +14,3 @@ $locale['600'] = "Termeni de &#238;nregistrare";
 $locale['601'] = "Ultima actualizare la:";
 //Privacy Policy
 $locale['700'] = "Politica de confidentialitate";
-?>

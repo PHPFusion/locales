@@ -53,6 +53,7 @@ $locale['article_0150'] = "Nume";
 $locale['article_0152'] = "Status";
 $locale['article_0161'] = "&#350;terg aceast&#259; categorie?";
 $locale['article_0162'] = "Nu exist&#259; categorii definite.";
+$locale['article_0163'] = "Article Subject";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Trimis de";
 $locale['article_0203'] = "Dat&#259;";
@@ -74,7 +75,8 @@ $locale['article_0270'] = "Trebuie s&#259; introduci un subiect.";
 $locale['article_0271'] = "Trebuie s&#259; introduci un fragment.";
 $locale['article_0272'] = "Trebuie s&#259; introduci un articol.";
 $locale['article_0273'] = "Trebuie s&#259; alegi o categorie.";
-$locale['article_0274'] = "%s sunt dezactivate pentru toate elementele.\n\rAceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
+$locale['article_0274'] = "%s sunt dezactivate pentru toate elementele.
+Aceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
 $locale['article_0303'] = "P&#259;rinte";
 $locale['article_0304'] = "Descriere";
 $locale['article_0320'] = "Trebuie s&#259; introduci un nume.";
@@ -85,7 +87,7 @@ $locale['article_0351'] = "Dat&#259; trimitere: {%SUBMISSION_TIME%} - {%SUBMISSI
 $locale['article_0352'] = "Accept&#259; trimiterea";
 $locale['article_0400'] = "Set&#259;ri pentru sistemul de articole ";
 $locale['article_0401'] = "Articol pe pagin&#259;";
-$locale['article_0403'] = "Articolul extins este necesar";//Extended Article required";
+$locale['article_0403'] = "Articolul extins este necesar";
 $locale['article_0900'] = "Trimite un articol";
 $locale['article_0910'] = "Articolul a fost trimis cu succes.";
 $locale['article_0911'] = "&#206;&#355;i mul&#355;umim pentru trimitere.";
@@ -96,4 +98,4 @@ ar trebui s&#259; fie aplicabile pentru con&#355;inutul acestui sait. Trimiteril
 $locale['article_0921'] = "Trebuie s&#259; te conectezi pentru a trimite un articol.";
 $locale['article_0922'] = "Nu accept&#259;m pentru moment trimiterea de articole.";
 $locale['article_0923'] = "Nu po&#355;i trimite un articol, deoarece nu exist&#259; categorii de articole definite.";
-?>
+$locale['article_submit'] = "%s Articles";

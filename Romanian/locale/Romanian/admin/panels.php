@@ -24,15 +24,13 @@ $locale['428a'] = "Utilizator 1";
 $locale['428b'] = "Utilizator 2";
 $locale['428c'] = "Utilizator 3";
 $locale['428d'] = "Utilizator 4";
-// Panel Options
+// Panel Options1
 $locale['430'] = "Mut&#259; &#238;n st&#226;nga";
 $locale['431'] = "Mut&#259; &#238;n dreapta";
 $locale['432'] = "Mut&#259; sus";
 $locale['433'] = "Mut&#259; jos";
-$locale['434'] = "Editeaz&#259;";
 $locale['435'] = "Activeaz&#259;";
 $locale['436'] = "Dezactiveaz&#259;";
-$locale['437'] = "&#350;terge";
 $locale['438'] = "Adaug&#259; un panou nou";
 $locale['439'] = "Re&#238;mprosp&#259;teaz&#259; valorile de ordine a panourilor";
 $locale['440'] = "&#350;terg acest panou?";
@@ -70,7 +68,7 @@ $locale['471'] = "Numele de panou este deja folosit.";
 $locale['472'] = "Con&#355;inutul panoului nu este definit.";
 $locale['473'] = "Numele de fi&#351;ier al panoului nu este definit.";
 $locale['474'] = "Parola de administrare nu este corect&#259;.";
-$locale['475'] = "Trebuie s&#259; fie cel pu&#355;in o sec&#355;iune &#238;n lista de filtre pentru a folosi filtru.";//$locale['475'] = "There must be at least a section in the filter list to use the filter
+$locale['475'] = "Trebuie s&#259; fie cel pu&#355;in o sec&#355;iune &#238;n lista de filtre pentru a folosi filtru.";
 // Update/Add new Panel Success/Fail
 $locale['480'] = "Actualizare panou";
 $locale['481'] = "Panoul nu putut fi actualizat";
@@ -81,13 +79,12 @@ $locale['485'] = "Noul panou a fost ad&#259;ugat.";
 $locale['486'] = "Revenire la Administrare panouri";
 $locale['487'] = "Revenire la Index Administrare";
 $locale['488'] = "Ordinea panourilor a fost actualizat&#259;.";
-$locale['489'] = "Panouri &#351;terse.";//Panels deleted
+$locale['489'] = "Panouri &#351;terse.";
 //Visual Panel
-$locale['600'] = "Panouri";//Panel Management Interface
-$locale['602'] = "Panouri nefolosite";//Unused panels
-$locale['603'] = "Panouri folosite";//Used panels
+$locale['600'] = "Panouri";
+$locale['602'] = "Panouri nefolosite";
+$locale['603'] = "Panouri folosite";
 $locale['604'] = "Panouri";
 $locale['605'] = "Panou";
-$locale['606'] = "Con&#355;inut sait";//Site content
+$locale['606'] = "Con&#355;inut sait";
 $locale['607'] = "Fi&#351;ier";
-?>

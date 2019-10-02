@@ -160,4 +160,3 @@ $locale['color_156'] = "Pale Green";
 $locale['color_157'] = "Pale Cyan";
 $locale['color_158'] = "Pale Blue";
 $locale['color_159'] = "Plum";
-?>

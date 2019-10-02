@@ -1,9 +1,7 @@
 <?php
-// News titles
 $locale['news_0000'] = "&#350;tiri curente";
 $locale['news_0001'] = "&#350;tiri";
 $locale['news_0002'] = "Adaug&#259; o &#351;tire";
-$locale['news_0003'] = "Editare &#351;tire";
 $locale['news_0004'] = "Set&#259;ri";
 $locale['news_0005'] = "Con&#355;inut &#351;tire";
 $locale['news_0006'] = "Galerie imagini &#351;tire";
@@ -12,12 +10,11 @@ $locale['news_0008'] = "&#206;ncarc&#259; o fotografie";
 $locale['news_0009'] = "Imagini &#351;tiri";
 $locale['news_0010'] = "&#350;terge fotografia";
 $locale['news_0011'] = "Imagine Intro";
-$locale['news_0012'] = "Imagine &#351;tire &#238;ntreag&#259;";//Full News Image";
+$locale['news_0012'] = "Imagine &#351;tire &#238;ntreag&#259;";
 $locale['news_0020'] = "Categorii de &#351;tiri curente";
 $locale['news_0021'] = "Editeaz&#259; categorie de &#351;tiri";
 $locale['news_0022'] = "Adaug&#259; o categorie de &#351;tiri";
 $locale['news_0023'] = "Trimiteri";
-// News messages
 $locale['news_0100'] = "&#350;tirea a fost ad&#259;ugat&#259;";
 $locale['news_0101'] = "&#350;tirea a fost actualizat&#259;";
 $locale['news_0102'] = "&#350;tirea a fost &#351;tears&#259;";
@@ -41,7 +38,6 @@ $locale['news_0144'] = "ID trimitere";
 $locale['news_0145'] = "Trimiterile de &#351;tiri au fost &#351;terse";
 $locale['news_0146'] = "Trimiterile de &#351;tiri au fost publicate";
 $locale['news_0147'] = "Trimiterile de &#351;tiri au fost salvate ca ciorne";
-// News Categories messages
 $locale['news_0150'] = "Categoria de &#351;tiri a fost ad&#259;ugat&#259;";
 $locale['news_0151'] = "Categoria de &#351;tiri a fost actualizat&#259;";
 $locale['news_0152'] = "Categoria de &#351;tiri nu poate fi &#351;tears&#259;";
@@ -54,7 +50,6 @@ $locale['news_0202'] = "Nicio categorie";
 $locale['news_0203'] = "Fragment";
 $locale['news_0203a'] = "Introducere scurt&#259;";
 $locale['news_0204'] = "&#350;tirea extins&#259;";
-
 $locale['news_0205'] = "Cuvinte cheie:";
 $locale['news_0205a'] = "Apasa enter dupa fiecare cuvant cheie";
 $locale['news_0206'] = "Data de &#238;nceput:";
@@ -67,12 +62,10 @@ $locale['news_0212'] = "Aliniere automat&#259; pe r&#226;nduri";
 $locale['news_0213'] = "Activeaz&#259; comentariile";
 $locale['news_0214'] = "Activeaz&#259; vot&#259;rile";
 $locale['news_0215'] = "Ciorn&#259;";
-
 $locale['news_0217'] = "Dimensiune max. fi&#351;ier %s / Tipuri de fi&#351;iere permise GIF, JPEG or PNG.";
 $locale['news_0218'] = "Pozi&#355;ie imagine:";
 $locale['news_0219'] = "Sf&#226;r&#351;it de pagin&#259;";
 $locale['news_0241'] = "Salveaz&#259; &#351;tirea";
-
 $locale['news_0242'] = "Op&#355;iuni c&#259;utare";
 $locale['news_0243'] = "Cur&#259;&#355;&#259;";
 $locale['news_0244'] = "Selecteaz&#259; status";
@@ -96,10 +89,10 @@ $locale['news_0271'] = "Tipuri de fi&#351;iere acceptate:";
 $locale['news_0280'] = "Te rog introdu un subiect";
 $locale['news_0281'] = "&#350;terg aceast&#259; stire?";
 $locale['news_0282'] = "&#350;terg aceast&#259; categorie de &#351;tiri?";
-$locale['news_0283'] = "%s sunt dezactivate pentru toate &#351;tirile.\n\rAceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
+$locale['news_0283'] = "%s sunt dezactivate pentru toate &#351;tirile.
+Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
 $locale['news_0284'] = "Nu exist&#259; &#351;tiri &#238;n aceast&#259; categorie.";
 $locale['news_0285'] = "Te rog s&#259; introdi un cuv&#226;nt cheie";
-// News Categories form
 $locale['news_0300'] = "Nume categorie";
 $locale['news_0301'] = "Imagine categorie";
 $locale['news_0302'] = "Salveaz&#259; categoria";
@@ -107,7 +100,7 @@ $locale['news_0303'] = "Nu exist&#259; categorii de &#351;tiri definite";
 $locale['news_0304'] = "Apas&#259; aici pentru &#238;nc&#259;rcarea imaginilor de categorii";
 $locale['news_0305'] = "P&#259;rinte";
 $locale['news_0306'] = "Salveaz&#259; categoria ca ciorn&#259;";
-$locale['news_0307'] = "F&#259; categoria lipit&#259;";//Make Category as Sticky";
+$locale['news_0307'] = "F&#259; categoria lipit&#259;";
 $locale['news_0351'] = "Te rog introdu un nume pentru categorie.";
 $locale['news_0352'] = "Aceast&#259; categorie exist&#259; deja.";
 $locale['news_0400'] = "Trimiteri &#351;tiri";
@@ -120,20 +113,26 @@ $locale['news_0703'] = "Folose&#351;te urm&#259;torul formular pentru trimiterea
 administrator. [SITENAME] &#238;&#351;i rezerv&#259; dreptul de a amenda sau edita orice trimitere.<br /> &#350;tirile 
 ar trebui s&#259; fie aplicabile con&#355;inutului acestui portal, iar cele nepotrivite vor fi &#351;terse.";
 $locale['news_0704'] = "Revenire la [SITENAME]";
-$locale['601'] = "M&#259;rime pictograme:";
-$locale['602'] = "M&#259;rim imagine:";
-$locale['603'] = "M&#259;rime maxim&#259; imagine:";
-$locale['604'] = "L&#259;&#355;ime  x &#206;n&#259;l&#355;ime";
-$locale['605'] = "Dimensiunea max: (octe&#355;i):";
-$locale['950'] = "&#206;nc&#259;rc&#259; o imagine";
-$locale['951'] = "URL imagine:";
 
-$locale['953'] = "&#350;tire";
+$locale['news_0705'] = "Width";
+$locale['news_0706'] = "Height";
+$locale['news_0707'] = "Set&#259;ri principale";
+$locale['news_0708'] = "Configuration for News System";
+$locale['news_0709'] = "Photo Settings";
+$locale['news_0710'] = "Configuration for News Photos";
 
-$locale['954'] = "Raport pictograme:";
-$locale['955'] = "Original";
-$locale['956'] = "P&#259;trat";
-$locale['957'] = "Imagine pe prima pagin&#259;";
-$locale['958'] = "Imagine pe cite&#351;te mai mult";
-$locale['959'] = "Imagine &#238;nc&#259;rcat&#259;";
-?>
+$locale['news_601'] = "M&#259;rime pictograme:";
+$locale['news_602'] = "M&#259;rime imagine:";
+$locale['news_603'] = "M&#259;rime maxim&#259; imagine:";
+$locale['news_604'] = "L&#259;&#355;ime x &#206;n&#259;l&#355;ime";
+$locale['news_605'] = "M&#259;rime maxim&#259; fi&#351;ier (octe&#355;i):";
+$locale['news_950'] = "Image Upload";
+$locale['news_951'] = "Image link:";
+$locale['news_953'] = "News Item";
+$locale['news_954'] = "Thumb ratio:";
+$locale['news_955'] = "Original";
+$locale['news_956'] = "P&#259;trat";
+$locale['news_957'] = "Image on Front-page";
+$locale['news_958'] = "Image on Read-more";
+$locale['news_959'] = "Uploaded Photo";
+$locale['news_submit'] = "%s News";

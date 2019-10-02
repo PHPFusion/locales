@@ -18,4 +18,4 @@ $locale['UL_016'] = "&#350;terge intr&#259;rile mai vechi de:";
 $locale['UL_017'] = "Zile";
 $locale['UL_018'] = "Cresc&#259;tor";
 $locale['UL_019'] = "Descresc&#259;tor";
-?>
+$locale['UL_020'] = "Select All";

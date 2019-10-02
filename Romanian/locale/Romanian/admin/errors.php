@@ -31,4 +31,3 @@ $locale['ERROR_462'] = "Op&#355;iuni";
 $locale['ERROR_463'] = "Generate de";
 $locale['ERROR_464'] = "Consol&#259; erori";
 $locale['ERROR_465'] = "Cod surs&#259;";
-?>

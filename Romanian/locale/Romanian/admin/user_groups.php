@@ -52,4 +52,3 @@ $locale['GRP_462'] = "&#350;terge to&#355;i utilizatorii";
 $locale['GRP_463'] = "Nu exist&#259; utilizatori aloca&#355;i acestui grup.";
 // Error Messages
 $locale['GRP_464'] = "Te rog introdu un nume de grup";
-?>

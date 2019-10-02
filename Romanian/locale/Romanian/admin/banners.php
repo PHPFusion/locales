@@ -8,4 +8,3 @@ $locale['BN_015'] = "E&#351;ti sigur c&#259; vrei &#351;tergerea acestei reclame
 
 $locale['sitebanner1'] = "Reclam&#259; 1";
 $locale['sitebanner2'] = "Reclam&#259; 2";
-?>

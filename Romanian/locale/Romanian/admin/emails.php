@@ -1,5 +1,4 @@
 <?php
-// Titles
 $locale['MAIL_000'] = "&#350;abloane e-mail";
 $locale['MAIL_001'] = "&#350;ablon actualizat cu succes.";
 $locale['MAIL_002'] = "Subiect test";
@@ -31,9 +30,9 @@ $locale['MAIL_027'] = "Nume sait";
 $locale['MAIL_028'] = "Leg&#259;tur&#259; sait";
 $locale['MAIL_029'] = "Expeditor";
 $locale['MAIL_030'] = "Destinatar";
-$locale['MAIL_031'] = "Scurt&#259; prezentare a butoanelor";//Short overview about the buttons";
+$locale['MAIL_031'] = "Scurt&#259; prezentare a butoanelor";
 $locale['MAIL_032'] = "Buton";
-$locale['MAIL_033'] = "Func&#355;ie / &#206;nlocuie&#351;te";//Function / Replacement";
+$locale['MAIL_033'] = "Func&#355;ie / &#206;nlocuie&#351;te";
 $locale['MAIL_034'] = "Subiectul mesajului sau discu&#355;iei";
 $locale['MAIL_035'] = "Fragment din mesaj sau postare";
 $locale['MAIL_036'] = "Expeditorul mesajului, autorul discu&#355;iei sau post&#259;rii";
@@ -45,4 +44,3 @@ $locale['MAIL_041'] = "Mesajul nu poate fi gol!";
 $locale['MAIL_042'] = "Leg&#259;tur&#259; discu&#355;ie";
 $locale['MAIL_043'] = "Fundal";
 $locale['MAIL_044'] = "Adaug&#259; imagine";
-?>

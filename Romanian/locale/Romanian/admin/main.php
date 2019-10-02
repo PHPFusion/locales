@@ -1,14 +1,15 @@
 <?php
 // Admin Links
 $locale['200'] = "Panoul de Administrare [SITENAME]";
+$locale['200a'] = "Panoul de administrare";
 $locale['ac00'] = "Index Administrare";
 $locale['ac01'] = "Administrare con&#355;inut";
 $locale['ac02'] = "Administrare utilizatori";
 $locale['ac03'] = "Administrare sistem";
 $locale['ac04'] = "Set&#259;ri";
 $locale['ac05'] = "Infuzii";
-$locale['ac10'] = "Panou de control administrator";//Admin Dashboard
-$locale['202'] = "Configurare profil utilizator";//User Profile Configuration
+$locale['ac10'] = "Panou de control administrator";
+$locale['202'] = "Configurare profil utilizator";
 
 // Pre-defined sections
 $locale['AC'] = "Categorii de articole";
@@ -24,7 +25,7 @@ $locale['IM'] = "Imagini";
 $locale['I'] = "Infuzii";
 $locale['IP'] = "Panouri infuzii";
 $locale['M'] = "Membri";
-$locale['MI'] = "Unealt&#259; migrare";//Migration Tool
+$locale['MI'] = "Unealt&#259; migrare";
 $locale['N'] = "&#350;tiri";
 $locale['P'] = "Panouri";
 $locale['PH'] = "Albume foto";
@@ -62,14 +63,15 @@ $locale['ERRO'] = "Jurnal de erori";
 $locale['AD'] = "Administratori";
 $locale['UL'] = "Jurnal utilizatori";
 $locale['MAIL'] = "&#350;abloane e-mail";
-$locale['PL'] = "Leg&#259;turi permanente";//Permalinks
+$locale['PL'] = "Leg&#259;turi permanente";
 $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Tematici";
 $locale['S13'] = "Set&#259;ri blog";
 $locale['LANG'] = "Set&#259;ri limb&#259;";
+$locale['FM'] = "Fusion File Manager";
 
 // Site Information
-$locale['250'] = "Privire de ansamblu sait";//Dashboard - Site Overview
+$locale['250'] = "Privire de ansamblu sait";
 $locale['251'] = "Membri &#238;nregistra&#355;i";
 $locale['252'] = "Membri neactiva&#355;i";
 $locale['253'] = "Membri suspenda&#355;i";
@@ -80,7 +82,7 @@ $locale['254c'] = "Nu exist&#259; comentarii &#238;n acest moment.";
 $locale['255'] = "Vezi mai multe";
 $locale['256'] = "Discu&#355;ii pe forum";
 $locale['257'] = "Comentarii";
-$locale['258'] = " - Prezentare general&#259;";//Overview";
+$locale['258'] = " - Prezentare general&#259;";
 $locale['259'] = "Post&#259;rii";
 $locale['260'] = "Utilizatori";
 $locale['261'] = "Imagini &#238;n galerie";
@@ -99,18 +101,28 @@ $locale['272'] = "Galerie foto";
 $locale['272a'] = "Pagini personalizate";
 $locale['273'] = "a comentat pe";
 $locale['273a'] = "a evaluat pe";
-$locale['273b'] = "a trimis ";//made submissions to
+$locale['273b'] = "a trimis ";
 $locale['274'] = "Administreaz&#259; comentariile";
 $locale['275'] = "Editeaz&#259; comentariu";
 $locale['276'] = "&#350;terge comentariu";
-$locale['277'] = "Ultimele comentarii";//Latest Comments
+$locale['277'] = "Ultimele comentarii";
 $locale['278'] = "Ultimele evalu&#259;ri";
-$locale['279'] = "Ultimele trimiteri";//Latest Submissions
+$locale['279'] = "Ultimele trimiteri";
 $locale['280'] = "Panoul de control administrare";
 $locale['281'] = "Te rog introdu parola de administratre";
 $locale['282'] = "Schimb&#259; limba";
 $locale['283'] = "Infuzii";
 $locale['284'] = "Nu exist&#259; infuzii instalate";
 $locale['285'] = "Administreaz&#259; infuziile";
-$locale['286'] = "Verific&#259; trimiterile";//Review Submission
-?>
+$locale['286'] = "Verific&#259; trimiterile";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

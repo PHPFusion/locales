@@ -31,8 +31,7 @@ $locale['susp108'] = "IP";
 $locale['susp109'] = "Ac&#355;iune de sistem";
 $locale['susp110'] = "Acest utilizator nu are &#238;nregistrat&#259; nicio ac&#355;iune &#238;n jurnal.";
 $locale['susp111'] = "Activat";
-$locale['susp112'] = "IP"; 
+$locale['susp112'] = "IP";
 $locale['susp113'] = "Ridicat";
 $locale['susp114'] = "Jurnal de suspend&#259;ri";
 $locale['susp115'] = "Membri";
-?>

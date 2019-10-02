@@ -1,6 +1,5 @@
 <?php
-$locale['uf_behance'] = "Deviantart";
-$locale['uf_behance_id'] = "Utilizator Deviantart";
-$locale['uf_behance_desc'] = "Pagin&#259; profil Deviantart";
-$locale['uf_behance_error'] = "C&#226;mpul utilizator Deviantart nu poate fi  l&#259;sat gol.";
-?>
+$locale['uf_da'] = "DeviantArt";
+$locale['uf_da_id'] = "DeviantArt Username";
+$locale['uf_da_desc'] = "DeviantArt Profile Page";
+$locale['uf_da_error'] = "DeviantArt Username can not be left empty.";

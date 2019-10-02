@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: Slider/locale/English.php
-| Author: Frederick MC Chan (Chan)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['SLDW_0100'] = "Carusel";
 $locale['SLDW_0101'] = "Plugin glisare";
 $locale['SLDW_0200'] = "Glisare &#351;tears&#259;";
@@ -48,15 +32,15 @@ $locale['SLDW_0515'] = "Leg&#259;tur&#259; URL";
 $locale['SLDW_0516'] = "Ordine";
 $locale['SLDW_0517'] = "Atribute glisare";
 $locale['SLDW_0518'] = "Configureaz&#259; aspectul acestei glis&#259;ri";
-$locale['SLDW_0519'] = "Diferen&#355;a de sus legend&#259;";//Mai trebuie editat
-$locale['SLDW_0520'] = "Diferen&#355;a de pozi&#355;ie dintre chenarul de sus &#351; legend&#259; al glis&#259;rii";//Mai trebuie editat
+$locale['SLDW_0519'] = "Diferen&#355;a de sus legend&#259;";
+$locale['SLDW_0520'] = "Diferen&#355;a de pozi&#355;ie dintre chenarul de sus &#351; legend&#259; al glis&#259;rii";
 $locale['SLDW_0521'] = "St&#226;nga";
 $locale['SLDW_0522'] = "Dreapta";
 $locale['SLDW_0523'] = "Centru";
-$locale['SLDW_0524'] = "Aliniare text legend&#259;";//Mai trebuie editat
-$locale['SLDW_0525'] = "M&#259;rime titlu legend&#259;";//Mai trebuie editat
+$locale['SLDW_0524'] = "Aliniare text legend&#259;";
+$locale['SLDW_0525'] = "M&#259;rime titlu legend&#259;";
 $locale['SLDW_0526'] = "M&#259;rimea titlului &#238;n px. Numerele negative nu sunt permise.";
-$locale['SLDW_0527'] = "M&#259;rime descriere legend&#259;";//Mai trebuie editat
+$locale['SLDW_0527'] = "M&#259;rime descriere legend&#259;";
 $locale['SLDW_0528'] = "M&#259;rime descriere &#238;n px. Numerele negative nu sunt permise.";
 $locale['SLDW_0529'] = "M&#259;rime normal&#259;";
 $locale['SLDW_0530'] = "M&#259;rime mic&#259;";
@@ -69,4 +53,3 @@ $locale['SLDW_0600'] = "Salveaz&#259; glisarea";
 $locale['SLDW_0601'] = "Salveaz&#259; &#351;i &#238;nchide glisarea";
 $locale['SLDW_0602'] = "Cite&#355;te mai mult..";
 $locale['SLDW_0603'] = "Interval (ms)";
-?>

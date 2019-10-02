@@ -6,4 +6,3 @@ $locale['render_engine'] = "Render Engine";
 $locale['artemis_admin'] = "Artemis PHP-Fusion 9";
 $locale['admin_apps'] = "Aplica&#355;ii";
 $locale['admin_collapse'] = "Retrage meniul";
-?>

@@ -1,10 +1,10 @@
 <?php
 $locale['album_0001'] = "Titlu album";
-$locale['album_0002'] = "Numele albumului";//Name of Gallery Album";
+$locale['album_0002'] = "Numele albumului";
 $locale['album_0003'] = "Descriere album";
 $locale['album_0004'] = "Descrie albumul";
 $locale['album_0005'] = "Cuvinte cheie";
-$locale['album_0006'] = "Apasa enter dupa fiecare cuvant";//nu functioneaza diacriticele
+$locale['album_0006'] = "Apasa enter dupa fiecare cuvant";
 $locale['album_0007'] = "Vizibilitate";
 $locale['album_0008'] = "Limb&#259;";
 $locale['album_0009'] = "Pictogram&#259; album";
@@ -19,7 +19,6 @@ $locale['album_0020'] = "Op&#355;iuni album";
 $locale['album_0021'] = "Mut&#259; sus";
 $locale['album_0022'] = "Mut&#259; jos";
 $locale['album_0023'] = "&#350;terge album";
-
 $locale['album_0025'] = "Album mutat sus";
 $locale['album_0026'] = "Album mutat jos";
 $locale['album_0027'] = "Exist&#259; fotografii &#238;n albumul curent";
@@ -88,6 +87,12 @@ $locale['gallery_0214'] = "Activez watermark fotografii?";
 $locale['gallery_0215'] = "Salvez watermark-urile generate?";
 $locale['gallery_0216'] = "Salveaz&#259; set&#259;rile galerie foto";
 $locale['gallery_0217'] = "Tipuri de fi&#351;iere acceptate:";
+$locale['gallery_0218'] = "Set&#259;ri principale";
+$locale['gallery_0219'] = "Configuration for Gallery System";
+$locale['gallery_0220'] = "Photo Settings";
+$locale['gallery_0221'] = "Configuration for Gallery Photos";
+$locale['gallery_0222'] = "Width";
+$locale['gallery_0223'] = "Height";
 $locale['photo_0001'] = "Titlu imagine:";
 $locale['photo_0002'] = "Nume imagine";
 $locale['photo_0003'] = "Album imagine:";
@@ -112,5 +117,4 @@ $locale['photo_0024'] = "Imagine &#351;tears&#259;";
 $locale['photo_0025'] = "Cur&#259;&#355;&#259; toate imaginile";
 $locale['photo_0026'] = "[STRONG]ATEN&#354;IE:[/STRONG] Ac&#355;iunea de cur&#259;&#355;are va [STRONG]&#351;terge permanent toate imaginile[/STRONG] din acest album. E&#351;ti sigur?";
 $locale['photo_0027'] = "Confirm&#259; cur&#259;&#355;area";
-$locale['photo_0028'] = "Anuleaz&#259;";
-?>
+$locale['gallery_submit'] = "%s Photos";

@@ -12,7 +12,7 @@ $locale['408'] = "Contact";
 $locale['409'] = "E-mail";
 $locale['410'] = "Internet";
 $locale['411'] = "De-fuzeaz&#259;";
-$locale['412'] = "De-fuzez aceasta infuzie?";//nu functioneaza diacriticile
+$locale['412'] = "De-fuzez aceasta infuzie?";
 $locale['413'] = "Cheie:";
 $locale['414'] = "Nu este infuzat&#259;";
 $locale['415'] = "Infuzat";
@@ -25,4 +25,3 @@ $locale['421'] = "Autor";
 $locale['422'] = "Descarc&#259; mai multe";
 $locale['423'] = "Infuzia %s a fost instalat&#259;";
 $locale['424'] = "Infuzia %s a fost dezinstalat&#259;";
-?>

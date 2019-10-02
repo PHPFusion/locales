@@ -10,4 +10,3 @@ $locale['sept_008'] = "Galeria foto";
 $locale['sept_009'] = "Forum";
 $locale['sept_010'] = "Desc&#259;rc&#259;ri";
 $locale['sept_011'] = "Creat&#259; cu HTML5 &#351;i CSS3";
-?>
