@@ -7,14 +7,13 @@ $locale['403'] = "Софтуер на уебсървъра";
 $locale['404'] = "PHP версия";
 $locale['405'] = "PHP интерфейс";
 $locale['406'] = "MySQL версия на сървъра";
+$locale['406a'] = "Разреши PDO?";
 $locale['407'] = "PHP-Fusion версия";
 $locale['408'] = "Представка на базата данни";
 $locale['409'] = "Представка на бисквитките";
 $locale['410'] = "Браузър и ОС";
 //PHP settings
 $locale['420'] = "Настройки на PHP";
-$locale['421'] = "Да";
-$locale['422'] = "Не";
 $locale['423'] = "Safemode";
 $locale['424'] = "RegisterGlobals";
 $locale['425'] = "Поддръжка на";

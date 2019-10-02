@@ -1,25 +1,25 @@
 <?php
 // Contact Form
-$locale['400'] = "Връзка с нас";
-$locale['401'] = "Има много начини да се свържете с нас. Можете да изпратите писмо директно на 
-[SITE_EMAIL]. Ако сте потребител може да изпратите лично съобщение на [PM_LINK].
-Можете също да попълните формата в страницата, която ще изпрати писмо до нас.";
-$locale['402'] = "Име:";
-$locale['403'] = "Електронна поща:";
-$locale['404'] = "Тема:";
-$locale['405'] = "Съобщение:";
-$locale['406'] = "Изпрати съобщение";
-$locale['407'] = "Валидационен код:";
-$locale['408'] = "Въведи валидационния код:";
+$locale['CT_400'] = "Contact";
+$locale['CT_401'] = "There are several ways you can get in contact. You can email directly at
+[SITE_EMAIL]. If you are a Member you can send a [PM_LINK].
+Alternatively, you can fill in the form on this page which sends your message via Email.";
+$locale['CT_402'] = "Име:";
+$locale['CT_403'] = "Email Address:";
+$locale['CT_404'] = "Subject:";
+$locale['CT_405'] = "Message:";
+$locale['CT_406'] = "Send Message";
+$locale['CT_407'] = "Validation Code:";
+$locale['CT_408'] = "Enter Validation Code:";
 // Contact Errors
-$locale['420'] = "Трябва да въведете име";
-$locale['421'] = "Трябва да въведете електронна поща";
-$locale['422'] = "Трябва да въведете тема";
-$locale['423'] = "Трябва да напишете съобщение";
-$locale['424'] = "Трябва да напишете правилен валидационен код";
-$locale['425'] = "Вътрешна грешка: не можем да изпратим Вашето съобщение.";
+$locale['CT_420'] = "You must specify a Name";
+$locale['CT_421'] = "You must specify an Email Address";
+$locale['CT_422'] = "You must specify a Subject";
+$locale['CT_423'] = "You must specify a Message";
+$locale['CT_424'] = "You must enter correct Validation Code";
+$locale['CT_425'] = "Internal error: cannot send your message.";
 // Message Sent
-$locale['440'] = "Вашето съобщение беше изпратено";
-$locale['441'] = "Благодарим Ви";
-$locale['442'] = "Вашето съобшение не беше изпратено поради следната/следните причина/причини:";
-$locale['443'] = "Моля опитайте отново.";
+$locale['CT_440'] = "Your Message has been sent";
+$locale['CT_441'] = "Thank You";
+$locale['CT_442'] = "Your message was not sent for the following reason(s):";
+$locale['CT_443'] = "Please try again.";

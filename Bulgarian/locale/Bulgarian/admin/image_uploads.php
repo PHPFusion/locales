@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Delete Image
 $locale['400'] = "Изтриване на изображението";
 $locale['401'] = "Изображението е изтрито";
@@ -22,7 +24,6 @@ $locale['442'] = "Изтриване на изображението";
 // Image Management
 $locale['460'] = "Изображения";
 $locale['461'] = "Виж";
-$locale['462'] = "Изтриване";
 $locale['463'] = "Тази папка е празна";
 $locale['464'] = "Обновете списъка с изображенията за TinyMCE";
 // Popup Error/Warning Messages

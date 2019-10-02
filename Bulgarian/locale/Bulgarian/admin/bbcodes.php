@@ -1,24 +1,29 @@
 <?php
-$locale['400'] = "Администрация на BB кодовете";
-$locale['401'] = "Тестване на  BB кодовете";
+$locale['BBCA_400'] = "BB кодове";
+$locale['BBCA_400a'] = "BB Codes Admin";
+$locale['BBCA_401'] = "Test BB Codes";
 // Enabled BB Codes
-$locale['402'] = "Разрешаване на BB кодовете";
-$locale['403'] = "Име";
-$locale['404'] = "Икона";
-$locale['405'] = "Описание";
-$locale['406'] = "Използване";
-$locale['407'] = "Подредба";
-$locale['408'] = "Надолу";
-$locale['409'] = "Нагоре";
-$locale['410'] = "Спиране";
-$locale['411'] = "Няма пуснати BB кодове.";
+$locale['BBCA_402'] = "Enabled BB Codes";
+$locale['BBCA_403'] = "Name";
+$locale['BBCA_404'] = "Icon";
+$locale['BBCA_405'] = "Description";
+$locale['BBCA_406'] = "Usage";
+$locale['BBCA_407'] = "Подредба";
+$locale['BBCA_408'] = "Down";
+$locale['BBCA_409'] = "Up";
+$locale['BBCA_410'] = "Забрана";
+$locale['BBCA_411'] = "There are no BB Codes enabled.";
 // Disabled BB Codes
-$locale['413'] = "Спиране на BB кодовете";
-$locale['414'] = "Разреши";
-$locale['415'] = "Окончателна линия";
-$locale['416'] = "Няма забранени BB кодове.";
+$locale['BBCA_413'] = "Disabled BB Codes";
+$locale['BBCA_414'] = "Разрешаване";
+$locale['BBCA_416'] = "There are no BB Codes disabled.";
 // Test BB Codes
-$locale['417'] = "Резултати от тестването на BB кодовете";
-$locale['418'] = "Забрани емотиконите в теста";
-$locale['418a'] = "Тестово съобщение";
-$locale['418b'] = "Моля въведете съобщение, за да тествате BB кодовете.";
+$locale['BBCA_417'] = "BB Codes Test Output";
+$locale['BBCA_418'] = "Disable smileys in this test";
+$locale['BBCA_418a'] = "Test Message";
+$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+// Notices
+$locale['BBCA_430'] = "BB Code has been moved Up.";
+$locale['BBCA_431'] = "BB Code has been moved Down.";
+$locale['BBCA_432'] = "BB Code has been Enabled.";
+$locale['BBCA_433'] = "BB Code has been Disabled.";

@@ -1,44 +1,44 @@
 <?php
 // Section Titles
-$locale['400'] = "Разреши перманентните връзки";
-$locale['401'] = "Забрани преманентните връзки";
-$locale['401a'] = "Настройки на перманентните връзки";
+$locale['PL_400'] = "Enabled Permalinks";
+$locale['PL_401'] = "Disabled Permalinks";
+$locale['PL_401a'] = "Permalink Settings";
 
 // Common
-$locale['402'] = "Пренапиши име";
-$locale['403'] = "Описание";
-$locale['404'] = "Опции";
-$locale['404a'] = "Разреши";
-$locale['404b'] = "Забрани";
-$locale['404c'] = "Редакция";
-$locale['404d'] = "Инсталирай наново";
+$locale['PL_402'] = "Rewrite Name";
+$locale['PL_403'] = "Description";
+$locale['PL_404'] = "Опции";
+$locale['PL_404a'] = "Разрешаване";
+$locale['PL_404b'] = "Забрана";
+$locale['PL_404d'] = "Reinstall";
 
 // Editing Permalinks
-$locale['405'] = "Редакция на перманентните връзки за %s";
-$locale['406'] = "Тагове";
-$locale['407'] = "Описание";
-$locale['408'] = "Типове";
-$locale['409'] = "Редакция на модела";
-$locale['410'] = "Перманентни връзки тип %u:";
-$locale['411'] = "Грешка";
-$locale['412'] = "Проверете файловете за перманентните връзки %s!";
-$locale['413'] = "Запази";
-$locale['414'] = "ПРЕДУПРЕЖДЕНИЕ: Перманентни връзки &amp; Допълнителните данни ще бъдат перманентно изтрити!\\nСигурен/сигурна ли сте, че искате да изтриете тази перманентна връзка?";
-$locale['415'] = "Правила при перманентните връзки: трансформират връзката, която има въпросителни знаци и еднкави символи и позволява да се оформи структурата на връзките в сайта Ви.\n
-				  Може да включите перманентните връзки в настройките и да ги активирате в съответните таблици. След като сте ги активирали, може да редактирате правилата или да добавите допълнителни настройки.\n\n
-				  Моля забележете, че трябва да имате активиран mod_rewrite или негов еквивалент, за да могат да работят перманентните връзки.";
+$locale['PL_405'] = "Editing Permalinks for %s";
+$locale['PL_406'] = "Тагове";
+$locale['PL_407'] = "Description";
+$locale['PL_408'] = "Types";
+$locale['PL_409'] = "Edit Pattern";
+$locale['PL_410'] = "Permalink type %u:";
+$locale['PL_411'] = "Грешка";
+$locale['PL_412'] = "Check the files of the Permalink %s!";
+$locale['PL_413'] = "Запази";
+$locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
+$locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
+                  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>
+                  Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
 
 // Admin Messages
-$locale['420'] = "Възникна грешка.";
-$locale['421'] = "Перманентните връзки са успешно обновени.";
-$locale['422'] = "Няма намерени перманенти врзъки за %s.";
-$locale['423'] = "Перманентната връзка не е намерена.";
-$locale['424'] = "Активирането на перманентните връзки за %s е успешно.";
-$locale['425'] = "Перманентните връзки за %s са вече активирани.";
-$locale['426'] = "Деактивирането на перманентрните връзки за %s е успешно.";
+$locale['PL_420'] = "An Error occurred.";
+$locale['PL_421'] = "Permalinks Updated successfully.";
+$locale['PL_422'] = "No Permalink patterns found for %s.";
+$locale['PL_423'] = "Permalink not found.";
+$locale['PL_424'] = "Enabled Permalinks for %s successfully.";
+$locale['PL_425'] = "Permalinks for %s are already enabled.";
+$locale['PL_426'] = "Disabled Permalinks for %s successfully.";
+$locale['PL_429'] = "Permalink Driver for %s";
 
 // Other
-$locale['427'] = "Няма активирани перманентни връзки.";
-$locale['428'] = "Перманентни връзки";
-$locale['seo_htc_warning']  = "Моля забележете, че ако промените, която и да е от настройките, съдържанието в `.htaccess` ще бъде пренаписано и всяка предишна редакция ще бъде изтрита.";
-//$locale['rewrite_disabled'] = "Изглежда, че `mod_rewrite` не е пуснат на сървъра. Активиране на  SEF връзки може да доведе до невъзможност за зареждане на сайта Ви. Моля свържете се с доставчика си на хостинг, за да пусне `mod_rewrite` на Вашия сървър.";
+$locale['PL_427'] = "No Permalinks are enabled.";
+$locale['PL_428'] = "Перманентни връзки";
+$locale['seo_htc_warning'] = "Моля забележете, че ако промените, която и да е от настройките, съдържанието в `.htaccess` ще бъде пренаписано и всяка предишна редакция ще бъде изтрита.";
+$locale['rewrite_disabled'] = "It looks like `mod_rewrite` is not enabled on your host. Enabling SEF urls might break your website. Please contact your hosting provider about enabling `mod_rewrite` on your host.";

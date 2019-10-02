@@ -1,6 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] Административен панел";
+$locale['200a'] = "Административен панел";
 $locale['ac00'] = "Начало на адмнистрацията";
 $locale['ac01'] = "Администрация на съдържанието";
 $locale['ac02'] = "Администрация на потребителите";
@@ -67,6 +68,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Тема";
 $locale['S13'] = "Настройки на блога";
 $locale['LANG'] = "Настройки на езика";
+$locale['FM'] = "Fusion File Manager";
 
 // Site Information
 $locale['250'] = "Работна дъска - Преглед на сайта";
@@ -113,3 +115,14 @@ $locale['283'] = "Добавки";
 $locale['284'] = "Няма инсталирани добвавки";
 $locale['285'] = "Управление на добавките";
 $locale['286'] = "Преглед на публикациите";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

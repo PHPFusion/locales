@@ -1,20 +1,20 @@
 <?php
 $locale['validate'] = "Моля проверете и отново потвърдете полето.";
-$locale['error_request'] = 'Възникна грешка докато се обработваше заявката Ви'; // to be moved
-$locale['regex_error'] = 'Моля проверете и отново потвърдете полето %s'; // to be moved
+$locale['error_request'] = "Възникна грешка докато се обработваше заявката Ви"; // to be moved
+$locale['regex_error'] = "Моля проверете и отново потвърдете полето %s"; // to be moved
 // Text fields errors
 $locale['error_input_username'] = "Моля въведете валидно потребителско име";
-$locale['error_input_default'] = 'Моля попълнете полето';
-$locale['error_input_password'] = 'Моля въведете валидна парола';
-$locale['error_input_email'] = 'Моля въведете валидна електронна поща';
-$locale['error_input_number'] = 'Моля въведете валиден номер';
-$locale['error_input_url'] = 'Моля въведете валидна връзка';
-$locale['error_input_regex'] = 'Моля въведете валиден шаблон';
-$locale['error_input_safemode'] = 'Моля попълнете полето правилно';
-$locale['error_input_check'] = 'Моля напишете валидна стойност в полето';
+$locale['error_input_default'] = "Моля попълнете полето";
+$locale['error_input_password'] = "Моля въведете валидна парола";
+$locale['error_input_email'] = "Моля въведете валидна електронна поща";
+$locale['error_input_number'] = "Моля въведете валиден номер";
+$locale['error_input_url'] = "Моля въведете валидна връзка";
+$locale['error_input_regex'] = "Моля въведете валиден шаблон";
+$locale['error_input_safemode'] = "Моля попълнете полето правилно";
+$locale['error_input_check'] = "Моля напишете валидна стойност в полето";
 $locale['df_error_text'] = "%s има грешка и се нуждае от Вашето внимание.";
-$locale['error_invalid_theme'] = 'Моля изберете валидна тема'; // to be moved
-$locale['error_input_checkbox'] = 'Моля отбележете кутийката'; // to be moved
+$locale['error_invalid_theme'] = "Моля изберете валидна тема"; // to be moved
+$locale['error_input_checkbox'] = "Моля отбележете кутийката"; // to be moved
 $locale['error_input_file'] = "Моля изберете валиден файл";
 $locale['error_secure_file'] = "Каченият файл е отказан, поради възможност от злонамереност.";
 // Admin Login
@@ -71,14 +71,15 @@ $locale['df_404'] = "%s е невалидна дата.";
 $locale['df_405'] = "%s е невалидна връзка.";
 $locale['df_415'] = "Невалидно име на файла.";
 $locale['df_416'] = "Качваният файл е твърде голям. Трябва да е по-малък от %s.";
-$locale['df_417'] = "Качваният файл е невалиден. Изображението трябва да е един от следните типове - %s";
+$locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
 $locale['df_418'] = "Качваният файл е допустим, но окончанието му е невалидно. Моля преименувайте го и опитайте отново.";
 $locale['df_419'] = "Изображението не можа да премине вервификация. Моля направете отново Вашето изборажение.";
 $locale['df_420'] = "Папката не съществува. Моля създайте папка през FTP и опитайте отново.";
 $locale['df_421'] = "Изображението трябжва да не бъде по-голямо от %uw x %uh пиксела.";
 $locale['df_422'] = "Непозната грешка (Заявка)";
-$locale['df_423'] = "Изображението не беше качено правилно. Моля опитайте отново";
+$locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Текущите файлове за качване са повече от максималното допустимо. Моля опитайте отново с по-малко файлове.";
+
 // ReCaptcha2
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha_desc'] = "Google Recaptcha модул";
@@ -86,7 +87,7 @@ $locale['grecaptcha_placeholder_1'] = "Ключ от Google";
 $locale['grecaptcha_placeholder_2'] = "Таен ключ от Google";
 $locale['no_keys'] = "Изглежда, че нямате ключове досега. Регистрирайте се и вземете Вашия [RECAPTCHA_LINK]публичен ключ тук[/RECAPTCHA_LINK]";
 // here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Прегледайте Вашите ключове в Google reCAPTCHA</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Публичен ключ";
 $locale['grecaptcha_0101'] = "Личен ключ";
 $locale['grecaptcha_0102'] = "Тема";
