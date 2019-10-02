@@ -1,25 +1,25 @@
 <?php
 // Contact Form
-$locale['400'] = "İletişim Formu";
-$locale['401'] = "Bizimle iletişime geçmenin birkaç yolu vardır. Bana doğrudan  
+$locale['CT_400'] = "İletişim Formu";
+$locale['CT_401'] = "Bizimle iletişime geçmenin birkaç yolu vardır. Bana doğrudan  
 [SITE_EMAIL] adresinden E-posta gönderebilirsiniz. Eğer bir üyeyseniz bana [PM_LINK] gönderebilirsiniz.
 Alternatif olarak, bu sayfadaki formu doldurarak E-posta ile bize mesaj gönderebilirsiniz.";
-$locale['402'] = "İsim:";
-$locale['403'] = "E-posta Adresi:";
-$locale['404'] = "Konu:";
-$locale['405'] = "Mesaj:";
-$locale['406'] = "Mesaj Gönder";
-$locale['407'] = "Doğrulama Kodu:";
-$locale['408'] = "Doğrulama Kodunu Girin:";
+$locale['CT_402'] = "İsim:";
+$locale['CT_403'] = "E-posta Adresi:";
+$locale['CT_404'] = "Konu:";
+$locale['CT_405'] = "Mesaj:";
+$locale['CT_406'] = "Mesaj Gönder";
+$locale['CT_407'] = "Doğrulama Kodu:";
+$locale['CT_408'] = "Doğrulama Kodunu Girin:";
 // Contact Errors
-$locale['420'] = "Bir isim belirtmelisiniz";
-$locale['421'] = "Bir E-posta adresi belirtmelisiniz";
-$locale['422'] = "Bir konu belirtmelisiniz";
-$locale['423'] = "Bir mesaj belirtmelisiniz";
-$locale['424'] = "Doğru Doğrulama Kodu girmelisiniz";
-$locale['425'] = "Dahili hata: mesajınız gönderilemedi..";
+$locale['CT_420'] = "Bir İsim Belirtmelisiniz";
+$locale['CT_421'] = "Bir E-Posta Adresi Belirtmelisiniz";
+$locale['CT_422'] = "Bir Konu Belirtmelisiniz";
+$locale['CT_423'] = "Bir Mesaj Belirtmelisiniz";
+$locale['CT_424'] = "Doğru Doğrulama Kodu Girmelisiniz";
+$locale['CT_425'] = "Dahili Hata: Mesajınız Gönderilemedi..";
 // Message Sent
-$locale['440'] = "Mesajınız gönderildi";
-$locale['441'] = "Teşekkürler";
-$locale['442'] = "Mesajınız aşağıdaki sebeplerden dolayı gönderilmedi:";
-$locale['443'] = "Lütfen tekrar deneyin.";
+$locale['CT_440'] = "Mesajınız Gönderildi";
+$locale['CT_441'] = "Teşekkürler";
+$locale['CT_442'] = "Mesajınız Aşağıdaki Sebeplerden Dolayı Gönderilmedi:";
+$locale['CT_443'] = "Lütfen Tekrar Deneyin.";

@@ -1,8 +1,8 @@
 <?php
-/**
- * @Translated by ALTUN Web Site(https://alapelit.com)
- */
 $locale['uf_gender'] = "Cinsiyet";
-$locale['uf_gender_desc'] = "Kullanıcı cinsiyetini belirleyebilir";
-$locale['uf_gender_error'] = "Cinsiyet yanlış veya belirtilmemiş.";
-$locale['uf_gender_sz'] = array("Belirtilmedi", "Bayan", "Bay", "Gizli");
+$locale['uf_gender_desc'] = "Kullanıcı Cinsiyeti Belirleyebilir.";
+$locale['uf_gender_error'] = "Cinsiyet Yanlış veya Belirtilmemiş.";
+$locale['uf_gender_00'] = "Belirtilmemiş";
+$locale['uf_gender_01'] = "Erkek";
+$locale['uf_gender_02'] = "Kadın";
+$locale['uf_gender_03'] = "Gizli";

@@ -1,43 +1,44 @@
 <?php
-$locale['BLS_000'] = "Blacklist"; //406
+$locale['BLS_000'] = "Kara Liste"; //406
 //Blacklist message
-$locale['BLS_010'] = "Invalid E-mail or IP address.";
-$locale['BLS_011'] = "Adding users to blacklist.";
-$locale['BLS_012'] = "User Modified blacklist.";
-$locale['BLS_013'] = "User deleted from Blacklist"; //401
-$locale['BLS_014'] = "Are you sure you want to delete this entry?";
-$locale['BLS_015'] = "The blacklist is currently empty."; //465
-$locale['BLS_016'] = "Blacklist email address is not valid email."; //405
+$locale['BLS_010'] = "Geçersiz E-Posta Veya IP Adresi.";
+$locale['BLS_011'] = "Kara Listeye Kullanıcılar Ekleme.";
+$locale['BLS_012'] = "Değiştirilmiş Kullanıcı Kara Listesi.";
+$locale['BLS_013'] = "Kullanıcı Kara Listeden Silindi"; //401
+$locale['BLS_014'] = "Bu Girişi Silmek İstediğinizden Emin Misiniz?";
+$locale['BLS_015'] = "Kara Liste Şu An Boş."; //465
+$locale['BLS_016'] = "Kara Liste E-Posta Adresi Geçerli Bir E-Posta Değil."; //405
 
-$locale['BLS_020'] = "Blacklist User"; //420
-$locale['BLS_021'] = "Edit blacklisted user"; //421
-$locale['BLS_022'] = "Add blacklisted user";
-$locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
+$locale['BLS_020'] = "Kara Liste Kullanıcısı"; //420
+$locale['BLS_021'] = "Kara Listeye Alınmış Kullanıcıyı Düzenle"; //421
+$locale['BLS_022'] = "Kara Listeye Kullanıcı Ekle";
+$locale['BLS_023'] = "Şu Anda %d - %d Toplam Kara Liste Girişleri Görüntüleniyor.";
 
-$locale['BLS_030'] = "Blacklisted info"; //461
-$locale['BLS_031'] = "Admin"; //467
-$locale['BLS_032'] = "Date";  //468
-$locale['BLS_033'] = "Options"; //462
-$locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
-$locale['BLS_035'] = "Blacklist email address"; //442
-$locale['BLS_036'] = "Blacklist reason"; //443
-$locale['BLS_037'] = "Blacklist user";  //444
-$locale['BLS_038'] = "Update";
+$locale['BLS_030'] = "Kara Liste Bilgisi"; //461
+$locale['BLS_031'] = "Yönetici"; //467
+$locale['BLS_032'] = "Tarih";  //468
+$locale['BLS_033'] = "Seçenekler"; //462
+$locale['BLS_034'] = "Kara Liste IP Adresi: [STRONG]or[/STRONG]"; //441
+$locale['BLS_035'] = "Kara Liste E-Posta Adresi"; //442
+$locale['BLS_036'] = "Kara Listeye Neden Olan Sebep"; //443
+$locale['BLS_037'] = "Kara Liste Kullanıcısı";  //444
+$locale['BLS_038'] = "Güncelle";
+$locale['BLS_039'] = "Tümünü Seç";
 
-$locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
-You can enter a full IP, e.g. <em>123.45.67.89.</em>, or a partial IP, e.g. <em>123.45.67</em> or <em>123.45</em>.
-Please note: IPv6 addresses are converted to their full length form on this site,
-e.g. <em>ABCD:1234:5:6:7:8:9:FF</em> will be shown as <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
-Mixed IP addresses (those contain both IPv6 and IPv4 part) will not be checked for partial match.
+$locale['BLS_MS'] = "IP Adresi Girildiğinde, IP Adresi Aynı Olan Kullanıcının Bu Siteyi Ziyaret Etmesi Engellenecektir.
+Tam bir IP Girebilirsiniz, ör., <em>123.45.67.89.</em>, veya kısmi bir IP, ör. <em>123.45.67</em> veya <em>123.45</em>.
+Lütfen Dikkat: IPv6 Adresleri Bu Sitede Tam Uzunluk Biçimine Dönüştürülür,
+ör. <em>ABCD:1234:5:6:7:8:9:FF</em> Olarak Gösterilecek <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Karışık IP Adresleri (hem IPv6 hem de IPv4 kısmı içerenler) Kısmi Eşleşme Olup Olmadığı Kontrol Edilmeyecektir.
 <br /><br />
-Entering an email address will prevent members from registering using that address.
-You can enter a full email address, e.g. <em>foo@bar.com</em>, or an email domain, e.g. <em>bar.com</em>.<br /><br />
+Bir E-Posta Adresi Girildiğinde, Üyelerin O Adresi Kullanarak Kayıt Olmaları Engellenir.
+Tam Bir E-Posta Adresi Girebilirsiniz, ör. <em>foo@bar.com</em>, Veya Bir E-Posta Ya Da Alan Adı, ör. <em>bar.com</em>.<br /><br />
 
-% - matches any string.<br /><br />
+% - Herhangi Bir Dizeye Uyuyor.<br /><br />
 
-%.%.%.%@domain.tld bans any address that contains at least 3 dots.<br />
-%+%@domain.tld bans any address that contains at least one plus sign.<br />
-%@domain.tld bans any address from domain.tld<br />
-%.domain.tld bans all subdomains of domain.tld<br />
-%payday% bans any address that contains the word \"payday\" which was very often on sites.<br />
-domain.tld is an alias of %@domain.tld to make it compatible with rules defined in v7.<br />"; //440
+%.%.%.%@domain.tld En Az 3 Nokta İçeren Herhangi Bir Adresi Yasaklar.<br />
+%+%@domain.tld En Az Bir Artı İşareti İçeren Herhangi Bir Adresi Yasaklar.<br />
+%@domain.tld Adresinden Herhangi Bir Adresi Yasaklar domain.tld<br />
+%.domain.tld Tüm Alt Alanlarını Yasaklar domain.tld<br />
+%payday% Sitelerde Çok Sık Bulunan \"payday\" Kelimesini İçeren Herhangi Bir Adresi Yasaklar.<br />
+domain.tld v7'de Tanımlanan Kurallarla Uyumlu Hale Getirmek Için %@domain.tld'nin Bir Takma Adıdır.<br />"; //440

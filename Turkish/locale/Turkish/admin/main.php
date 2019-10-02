@@ -1,6 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] Yönetim Paneli";
+$locale['200a'] = "Admin Paneli";
 $locale['ac00'] = "Yönetim Ana Sayfası";
 $locale['ac01'] = "İçerik Yönetimi";
 $locale['ac02'] = "Kullanıcı Yönetimi";
@@ -61,12 +62,13 @@ $locale['APWR'] = "Yönetici Şifresi Sıfırlama";
 $locale['ERRO'] = "Hata Günlüğü";
 $locale['AD'] = "Yöneticiler";
 $locale['UL'] = "Kullanıcı Günlüğü";
-$locale['MAIL'] = "E-posta Şablonları";
+$locale['MAIL'] = "E-Posta Şablonları";
 $locale['PL'] = "Kalıcı Bağlantılar";
 $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Tema Yönetimi";
 $locale['S13'] = "Ayarlar Bloğu";
 $locale['LANG'] = "Dil Ayarları";
+$locale['FM'] = "Fusion Dosya Yöneticisi";
 
 // Site Information
 $locale['250'] = "Gösterge Panosu - Siteye Genel Bakış";
@@ -74,9 +76,9 @@ $locale['251'] = "Kayıtlı Üyeler";
 $locale['252'] = "Devre Dışı Bırakılan Üyeler";
 $locale['253'] = "Güvenlik'den Dolayı Yasaklı Üyeler";
 $locale['254'] = "Gönderimler";
-$locale['254a'] = "Hiç yeni gönderim yok.";
-$locale['254b'] = "Hiç yeni derecelendirme yok.";
-$locale['254c'] = "Hiç yeni yorumlar yok.";
+$locale['254a'] = "Hiç Yeni Gönderim Yok.";
+$locale['254b'] = "Hiç Yeni Derecelendirme Yok.";
+$locale['254c'] = "Hiç Yeni Yorumlar Yok.";
 $locale['255'] = "Daha Fazla Göster";
 $locale['256'] = "Konular";
 $locale['257'] = "Yorumlar";
@@ -113,3 +115,14 @@ $locale['283'] = "Uygulamalar";
 $locale['284'] = "Hiç bir uygulama yüklü değil";
 $locale['285'] = "Uygulamaları Yönet";
 $locale['286'] = "Gönderi İncele";
+
+$locale['290'] = "Bu Yazının, Aşağıdaki Sürümden Daha Yeni Bir Otomatik Kaydı Var.";
+$locale['291'] = "Otomatik Kaydetmeyi Görüntüleyin";
+$locale['292'] = "Kaydedilen Düzeltmeler";
+$locale['293'] = "Otomatik Kaydetme İçin Doldurun";
+
+$locale['search_msg_100'] = 'Başarısız Sistem Doğrulaması';
+$locale['search_msg_101'] = 'Başarısız Sistem Güvenlik Önlemleri';
+$locale['search_msg_102'] = 'Sayfalar Yüklenemedi';
+$locale['search_msg_103'] = 'Arama Dizesi Çok Kısa';
+$locale['search_msg_104'] = 'Sonuç Bulunamadı';

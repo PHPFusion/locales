@@ -1,44 +1,48 @@
 <?php
 // Section Titles
-$locale['400'] = "Enabled Permalinks";
-$locale['401'] = "Disabled Permalinks";
-$locale['401a'] = "Permalink Settings";
+$locale['PL_400'] = "Etkin Permalinkler";
+$locale['PL_401'] = "Devre Dışı Bırakılmış Permalinkler";
+$locale['PL_401a'] = "Permalink Ayarları";
 
 // Common
-$locale['402'] = "Rewrite Name";
-$locale['403'] = "Description";
-$locale['404'] = "Options";
-$locale['404a'] = "Enable";
-$locale['404b'] = "Disable";
-$locale['404c'] = "Edit";
-$locale['404d'] = "Reinstall";
+$locale['PL_402'] = "Adını Yeniden Yaz";
+$locale['PL_403'] = "Açıklama";
+$locale['PL_404'] = "Seçenekler";
+$locale['PL_404a'] = "Etkinleştir";
+$locale['PL_404b'] = "Devre Dışı Bırak";
+$locale['PL_404d'] = "Yeniden yükle";
 
 // Editing Permalinks
-$locale['405'] = "Editing Permalinks for %s";
-$locale['406'] = "Tags";
-$locale['407'] = "Description";
-$locale['408'] = "Types";
-$locale['409'] = "Edit Pattern";
-$locale['410'] = "Permalink type %u:";
-$locale['411'] = "Error";
-$locale['412'] = "Check the files of the Permalink %s!";
-$locale['413'] = "Save";
-$locale['414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!\nAre you sure you want to Disable this Permalink?";
-$locale['415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.\n
-				  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.\n\n
-				  Please note that mod_rewrite or it´s equivalent is required for Permalinks to work.";
+$locale['PL_405'] = "%s İçin Permalinkleri Düzenleme";
+$locale['PL_406'] = "Etiketler";
+$locale['PL_407'] = "Açıklama";
+$locale['PL_408'] = "Türler";
+$locale['PL_409'] = "Modeli Düzenle";
+$locale['PL_410'] = "Permalink Türü %u:";
+$locale['PL_411'] = "Hata";
+$locale['PL_412'] = "Permalink %s Dosyalarını Kontrol Et!";
+$locale['PL_413'] = "Kaydet";
+$locale['PL_414'] = "UYARI: Permalinkler &amp; Özel Alias Verileri Kalıcı Olarak Silinecek!
+Bu Permalinki Devre Dışı Bırakmak İstediğinizden Emin misiniz?";
+$locale['PL_415'] = "Permalink Kuralları, Sitenizin URL Yapısını Özelleştirmek Için Çeşitli Sitelerin URL`Lerini Arama Motoru Dostu URL`lere dönüştürecektir.
+
+				  Sunucunuz mod_rewrite`ı Destekliyorsa Ayarlar Sekmesinde Permalinkler Özelliğini Açabilirsiniz. Devre Dışı Bırak Sekmesinde Bulunan Çeşitli Permalinkleri Etkinleştirebilirsiniz. Her Bir Permalink Modülünde Bir URL`yi Tercihinize Göre Daha Da Özelleştirmek Için Kuralları Düzenleyebilirsiniz.
+
+
+				  Permalinklerin Çalışması İçin mod_rewrite`ın Veya Onun Eşdeğerinin Gerekli Olduğunu Lütfen Unutmayın.";
 
 // Admin Messages
-$locale['420'] = "An Error occurred.";
-$locale['421'] = "Permalinks Updated successfully.";
-$locale['422'] = "No Permalink patterns found for %s.";
-$locale['423'] = "Permalink not found.";
-$locale['424'] = "Enabled Permalinks for %s successfully.";
-$locale['425'] = "Permalinks for %s are already enabled.";
-$locale['426'] = "Disabled Permalinks for %s successfully.";
+$locale['PL_420'] = "Bir Hata Oluştu.";
+$locale['PL_421'] = "Permalinkler Başarıyla Güncellendi.";
+$locale['PL_422'] = "%s İçin Hiçbir Permalink Şablonu Bulunamadı.";
+$locale['PL_423'] = "Permalink Bulunamadı.";
+$locale['PL_424'] = "%s İçin Permalinkler Başarıyla Etkinleştirildi.";
+$locale['PL_425'] = "%s için Permalinkler zaten etkin durumda.";
+$locale['PL_426'] = "%s Permalinkleri Başarıyla Etkisizleştirildi.";
+$locale['PL_429'] = "Permalink Driver for %s";
 
 // Other
-$locale['427'] = "No Permalinks are enabled.";
-$locale['428'] = "Permalinks";
-$locale['seo_htc_warning'] = "Please note that if you change any of these settings the content of `.htaccess` will be overwritten and any changes previously done to this file will be lost.";
-//$locale['rewrite_disabled'] = "It looks like `mod_rewrite` is not enabled on your host. Enabling SEF urls might break your website. Please contact your hosting provider about enabling `mod_rewrite` on your host.";
+$locale['PL_427'] = "Permalinkler Etkinleştirilmedi.";
+$locale['PL_428'] = "Permalinkler";
+$locale['seo_htc_warning'] = "Bu Ayarlardan Herhangi Birini Değiştirirseniz, `.htaccess` İçeriğinin Üzerine Yazılacağı Ve Daha Önce Bu Dosyaya Yapılan Değişiklikler Kaybolacağını Lütfen Unutmayın.";
+$locale['rewrite_disabled'] = "mod_rewrite` Sunucunuzda Etkin Değil Gibi Görünüyor. SEF URL'lerini Etkinleştirmek Web Sitenizi Bozabilir. Lütfen Sunucunuzda mod_rewrite` Komutunu Etkinleştirmek İçin Barındırma Sağlayıcınıza Başvurun.";

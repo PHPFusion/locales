@@ -1,14 +1,14 @@
 <?php
 // Error messages
-$locale['500'] = "Bir hata oluştu";
-$locale['501'] = "Tıkladığınız yeniden etkinleştirme bağlantısı artık geçerli değil.<br /><br />Elle yeniden etkinleştirme talebinde bulunmak istiyorsanız [SITEEMAIL] site yöneticisine başvurun.";
-$locale['502'] = "Tıkladığınız yeniden etkinleştirme bağlantısı geçersiz!<br /><br />Elle yeniden etkinleştirme talebinde bulunmak istiyorsanız [SITEEMAIL] site yöneticisine başvurun.";
-$locale['503'] = "Takip ettiğiniz yeniden etkinleştirme bağlantısı, hesabınızı yeniden etkinleştiremedi.<br />
-Belki de hesabınız yeniden etkinleştirilmiştir ve bu durumda [LINK]buradan oturum açabilirsiniz[/LINK].<br /><br />
-Şimdi giriş yapamazsanız, elle yeniden etkinleştirme isteğinde bulunmak istiyorsanız lütfen [SITEEMAIL] adresinden sitenin yöneticisine başvurun.";
+$locale['500'] = "Bir Hata Oluştu";
+$locale['501'] = "Tıkladığınız Yeniden Etkinleştirme Bağlantısı Artık Geçerli Değil.<br /><br />Elle Yeniden Etkinleştirme Talebinde Bulunmak İstiyorsanız [SITEEMAIL] Site Yöneticisine Başvurun.";
+$locale['502'] = "Tıkladığınız Yeniden Etkinleştirme Bağlantısı Geçersiz!<br /><br />Elle Yeniden Etkinleştirme Talebinde Bulunmak İstiyorsanız [SITEEMAIL] Site Yöneticisine Başvurun.";
+$locale['503'] = "Takip Ettiğiniz Yeniden Etkinleştirme Bağlantısı, Hesabınızı Yeniden Etkinleştiremedi.<br />
+Belki De Hesabınız Yeniden Etkinleştirilmiştir Ve Bu Durumda [LINK]Buradan Oturum Açabilirsiniz[/LINK].<br /><br />
+Şimdi Giriş Yapamazsanız, Elle Yeniden Etkinleştirme İsteğinde Bulunmak Istiyorsanız Lütfen [SITEEMAIL] Adresinden Sitenin Yöneticisine Başvurun.";
 // Send confirmation mail
-$locale['504'] = "[SITENAME] sitesinde hesap yeniden etkinleştirildi";
+$locale['504'] = "[SITENAME] Sitesinde Hesap Yeniden Etkinleştirildi";
 $locale['505'] = "Merhaba [USER_NAME],
-<br>[SITENAME] sitesinde'ki hesabınız yeniden etkinleştirildi. Sizi sitede daha sık görmeyi umuyoruz.<br/><br/>
+<br>[SITENAME] Sitesinde'ki Hesabınız Yeniden Etkinleştirildi. Sizi Sitede Daha Sık Görmeyi Umuyoruz.<br/><br/>
 Saygılarımızla,<br/><br/>[SITEUSERNAME]";
-$locale['506'] = "Kullanıcı tarafından yeniden etkinleştirildi.";
+$locale['506'] = "Kullanıcı Tarafından Yeniden Etkinleştirildi.";

@@ -1,17 +1,16 @@
 <?php
 //news, articles, blog
-$locale['400'] = "Posted by ";
+$locale['400'] = "Gönderen ";
 $locale['401'] = " on ";
-$locale['402'] = "Extended News";
-$locale['403'] = "Extended Blog";
+$locale['402'] = "Genişletilmiş Haber";
+$locale['403'] = "Genişletilmiş Blog";
 //forums
-$locale['500'] = "Thread subject:";
-$locale['501'] = "Posted by ";
+$locale['500'] = "Başlık Konusu:";
+$locale['501'] = "Gönderen ";
 $locale['502'] = " on ";
-$locale['503'] = "Edited by ";
+$locale['503'] = "Düzenleyen ";
 //License Agreement
-$locale['600'] = "Terms of Agreement";
-$locale['601'] = "Last updated on:";
+$locale['600'] = "Sözleşme Şartları";
+$locale['601'] = "Son Güncelleme:";
 //Privacy Policy
-$locale['700'] = "Privacy Policy";
-
+$locale['700'] = "Gizlilik Politikası";

@@ -1,5 +1,4 @@
 <?php
-$locale['bb_hide'] = "Message for admins";
-$locale['bb_hide_description'] = "Message visible only for admins";
-$locale['bb_hide_usage'] = "Text visible only for admins";
-
+$locale['bb_hide'] = "Yöneticilere Özel Mesaj";
+$locale['bb_hide_description'] = "Sadece yöneticilere gözükecek mesaj";
+$locale['bb_hide_usage'] = "Sadece yöneticilere gözükecek metin";

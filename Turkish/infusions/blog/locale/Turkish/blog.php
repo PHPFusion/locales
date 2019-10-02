@@ -1,7 +1,4 @@
 <?php
-/**
- * @Translated by ALTUN Web Site(https://alapelit.com)
- */
 $locale['blog_1000'] = "Blog";
 $locale['blog_1001'] = "Blog Ana Sayfa";
 $locale['blog_1003'] = "Blog Kategorisi";

@@ -1,5 +1,4 @@
 <?php
-$locale['uf_name_first'] = "First Name";
-$locale['uf_name_first_desc'] = "Real user name (John, Mary etc.).";
-$locale['uf_name_first_error'] = "User real name can not be left empty.";
-
+$locale['uf_name_first'] = "Adınız";
+$locale['uf_name_first_desc'] = "Kullanıcı gerçek adı (Alper, Selin v.b.).";
+$locale['uf_name_first_error'] = "Kullanıcı gerçek adı boş bırakılamaz.";

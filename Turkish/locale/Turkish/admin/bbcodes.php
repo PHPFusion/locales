@@ -1,24 +1,29 @@
 <?php
-$locale['400'] = "BB Codes Admin";
-$locale['401'] = "Test BB Codes";
+$locale['BBCA_400'] = "BB Kodları";
+$locale['BBCA_400a'] = "BB Kodları Yöneticisi";
+$locale['BBCA_401'] = "BB Kodları Testi";
 // Enabled BB Codes
-$locale['402'] = "Enabled BB Codes";
-$locale['403'] = "Name";
-$locale['404'] = "Icon";
-$locale['405'] = "Description";
-$locale['406'] = "Usage";
-$locale['407'] = "Order";
-$locale['408'] = "Down";
-$locale['409'] = "Up";
-$locale['410'] = "Disable";
-$locale['411'] = "There are no BB Codes enabled.";
+$locale['BBCA_402'] = "BB Kodları Aktif et";
+$locale['BBCA_403'] = "Adı";
+$locale['BBCA_404'] = "İkon";
+$locale['BBCA_405'] = "Açıklama";
+$locale['BBCA_406'] = "Kullanım";
+$locale['BBCA_407'] = "Sıralama";
+$locale['BBCA_408'] = "Aşağı";
+$locale['BBCA_409'] = "Yukarı";
+$locale['BBCA_410'] = "Kapalı";
+$locale['BBCA_411'] = "Etkin BB Kodu Yok.";
 // Disabled BB Codes
-$locale['413'] = "Disabled BB Codes";
-$locale['414'] = "Enable";
-$locale['415'] = "Line break";
-$locale['416'] = "There are no BB Codes disabled.";
+$locale['BBCA_413'] = "Kapalı BB Kodları";
+$locale['BBCA_414'] = "Aktif Et";
+$locale['BBCA_416'] = "Kapatılmış BB Kodları Yok.";
 // Test BB Codes
-$locale['417'] = "BB Codes Test Output";
-$locale['418'] = "Disable smileys in this test";
-$locale['418a'] = "Test Message";
-$locale['418b'] = "Please enter a message to test BB Codes.";
+$locale['BBCA_417'] = "BB Kodları Test Çıktısı";
+$locale['BBCA_418'] = "Bu Testte İafeleri Devre Dışı Bırak";
+$locale['BBCA_418a'] = "Test Mesajı";
+$locale['BBCA_418b'] = "Lütfen BB Kodlarını Test Etmek İçin Bir Mesaj Girin.";
+// Notices
+$locale['BBCA_430'] = "BB Kodu Yukarı Taşındı.";
+$locale['BBCA_431'] = "BB Kodu Aşağı Taşındı.";
+$locale['BBCA_432'] = "BB Kodu Etkinleştirildi.";
+$locale['BBCA_433'] = "BB Kodu Devre Dışı Bırakıldı.";

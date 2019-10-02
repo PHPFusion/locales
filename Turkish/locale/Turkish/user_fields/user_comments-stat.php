@@ -1,4 +1,3 @@
 <?php
-$locale['uf_comments-stat'] = "Comments Posted";
-$locale['uf_comments-stat_desc'] = "Displays number of comments posted.";
-
+$locale['uf_comments-stat'] = "Yazılan Yorumlar";
+$locale['uf_comments-stat_desc'] = "Gönderilen yorum sayısını görüntüler.";

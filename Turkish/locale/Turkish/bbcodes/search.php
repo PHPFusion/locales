@@ -1,7 +1,6 @@
 <?php
-$locale['bb_search_description'] = "Searching for given text on current site";
-$locale['bb_search_usage'] = "Text to search";
-$locale['bb_search_prefix'] = "Search for ";
-$locale['bb_search_suffix'] = " on ";
-$locale['bb_search_where'] = "Where";
-
+$locale['bb_search_description'] = "Sitede Yazılan Metni Arar";
+$locale['bb_search_usage'] = "Aranacak Metin";
+$locale['bb_search_prefix'] = "Aranacak Kelime: ";
+$locale['bb_search_suffix'] = " Aranacak Yer: ";
+$locale['bb_search_where'] = "arama_bolumu";

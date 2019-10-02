@@ -1,5 +1,4 @@
 <?php
-$locale['uf_name_middle'] = "Middle Name";
-$locale['uf_name_middle_desc'] = "Real user second name.";
-$locale['uf_name_middle_error'] = "Second (middle) name can not be left empty..";
-
+$locale['uf_name_middle'] = "Göbek Adı";
+$locale['uf_name_middle_desc'] = "Kullanıcı gerçek göbek adı veya ikinci adı.";
+$locale['uf_name_middle_error'] = "İkinci (göbek) ad boş bırakılamaz.";

@@ -1,7 +1,4 @@
 <?php
-/**
- * @Translated by MAxWELL_TR Web Site (https://alperperi.com) & Mert25 (http://amatorce.net/)
- */
 $locale['500'] = "Forum";
 $locale['501'] = "En son aktif forum konuları paneli:";
 $locale['502'] = "Açık";
@@ -14,8 +11,7 @@ $locale['509'] = "Maksimum dosya boyutu";
 $locale['510'] = "İzin verilen dosya türleri:";
 $locale['511'] = "Her bir yeni anahtar kelime girişi için enter tuşuna basın";
 $locale['512'] = "Konu bildirimi";
-$locale['518'] = "Evet";
-$locale['519'] = "Hayır";
+$locale['513'] = "İtibar Göster";
 $locale['520'] = "Forum rütbelerini etkinleştir";
 $locale['521'] = "Kilit Düzenle:";
 $locale['522'] = "(Kullanıcıların mesajlarını düzenlemesini engelleyin)";
@@ -147,6 +143,17 @@ $locale['forum_133'] = "Verilebilecek En Üst Puan:";
 $locale['forum_134'] = "Verilebilecek En Alt Puan:";
 $locale['forum_135'] = "Puan(lar)";
 $locale['forum_136'] = "Forum Kullanıcı Puanı";
+$locale['forum_137'] = "Genel Forum Ayarları";
+$locale['forum_138'] = "Forum Mesaj Ayarları";
+$locale['forum_139'] = "Forum Kullanıcı Alanları Ayarlar";
+$locale['forum_140'] = "Genel Ekran Ayarları";
+$locale['forum_141'] = "Bildirimler";
+$locale['forum_142'] = "Dosya ve Resim Eklentileri Gönder";
+$locale['forum_143'] = "Post Behaviour Configurations";
+
+$locale['forum_150'] = "<strong>Enable user fields in detailed forum posts.</strong>  User Fields are custom user information that can be managed in the [LINK]user fields administration[/LINK]";
+$locale['forum_151'] = "Bu Kategoride Tanımlanmış Kullanıcı Alanı Yok.";
+$locale['forum_152'] = "Kullanıcı Alanı Kategorisi Yok.";
 $locale['forum_admin_000'] = "Forum Yönetimi";
 $locale['forum_admin_001'] = "Forum Rütbeleri";
 $locale['forum_admin_002'] = "Forum Etiketleri";

@@ -1,4 +1,3 @@
 <?php
-$locale['bb_smiley_description'] = "Smileys";
-$locale['bb_smiley_usage'] = "Insert smiley bbcode";
-
+$locale['bb_smiley_description'] = "Yüz İfadeleri";
+$locale['bb_smiley_usage'] = "Yüz İfadeleri BB Kodlarını Ekler";

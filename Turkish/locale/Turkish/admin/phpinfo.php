@@ -1,32 +1,31 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "PHP Bilgisi";
 //General
-$locale['401'] = "General";
-$locale['402'] = "Server software";
-$locale['403'] = "Webserver software";
-$locale['404'] = "PHP version";
-$locale['405'] = "PHP interface";
-$locale['406'] = "MySQL Server version";
-$locale['407'] = "PHP-Fusion version";
-$locale['408'] = "Database prefix";
-$locale['409'] = "Cookie prefix";
-$locale['410'] = "Webbrowser and OS";
+$locale['401'] = "Genel";
+$locale['402'] = "Sunucu Yazılımı";
+$locale['403'] = "Webserver Yazılımı";
+$locale['404'] = "PHP Sürümü";
+$locale['405'] = "PHP Arayüzü";
+$locale['406'] = "MySQL Sunucu Sürümü";
+$locale['406a'] = "Veritabanı Sürücüsü";
+$locale['407'] = "PHP-Fusion Sürümü";
+$locale['408'] = "Veritabanı Öneki";
+$locale['409'] = "Çerez Öneki";
+$locale['410'] = "Web Tarayıcısı Ve İşletim Sistemi";
 //PHP settings
-$locale['420'] = "PHP settings";
-$locale['421'] = "Yes";
-$locale['422'] = "No";
+$locale['420'] = "PHP Ayarları";
 $locale['423'] = "Safemode";
 $locale['424'] = "RegisterGlobals";
-$locale['425'] = "Support for";
-$locale['426'] = "Files upload (max file size)";
-$locale['428'] = "Display errors";
-$locale['429'] = "Disabled functions";
+$locale['425'] = "Destek";
+$locale['426'] = "Dosya Yükleniyor (Maksimum Dosya Boyutu)";
+$locale['428'] = "Hataları Göster";
+$locale['429'] = "Devre Dışı Bırakılmış İşlevler";
 $locale['430'] = "n/a";
-$locale['431'] = "version";
+$locale['431'] = "Versiyon";
 //Write permission
-$locale['440'] = "Folder Permissions";
-$locale['441'] = "Writeable";
-$locale['442'] = "Not writeable";
+$locale['440'] = "Klasör İzinleri";
+$locale['441'] = "Yazılabilir";
+$locale['442'] = "Yazılabilir Değil";
 //PHPinfo
-$locale['450'] = "Details";
-$locale['451'] = "Unable to get data. Check if phpinfo() function is switched off?";
+$locale['450'] = "Ayrıntılar";
+$locale['451'] = "Veri Alınamadı, Phpinfo() İşlevinin Kapalı Olup Olmadığını Kontrol Edin?";

@@ -1,17 +1,18 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion Kurulumu";
 $locale['setup_0002'] = "PHP-Fusion Kurulumuna Hoşgeldiniz";
-$locale['setup_0003'] = "Kurulum kılavuzu, PHP-Fusion CMS sistemini sunucunuza kurmak için gerekli adımlar konusunda size rehberlik eder. Daha fazla yardıma ihtiyaç duyarsanız, lütfen <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Çevrimiçi Kurulum Belgelerimizi</a> kontrol ediniz.";
-$locale['setup_0005'] = " PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>Şartlarını ve Kullanım Koşullarını</a> okudum ve kabul ediyorum.";
-$locale['setup_0006'] = "PHP-Fusion 9, en azından PHP 5.5.9 gerektirir. Daha fazla bilgi için <a href=\"https://www.php-fusion.co.uk/requirements\"> sistem gereksinimleri</a> sayfasına bakın.";
-$locale['setup_0007'] = "OPcache kurulu olan sistemlerde <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> etkin olmalıdır.";
-$locale['setup_5000'] = "PHP-Fusion kullanmak için, PHP-Fusion şartlarını kontrol etmeniz ve kabul etmeniz gerekiyor.</a>.";
+$locale['setup_0003'] = "Kurulum Kılavuzu, PHP-Fusion CMS Sistemini Sunucunuza Kurmak İçin Gerekli Adımlar Konusunda Size Rehberlik Eder. Daha Fazla Yardıma İhtiyaç Duyarsanız, Lütfen <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Çevrimiçi Kurulum Belgelerimizi</a> Kontrol Ediniz.";
+$locale['setup_0005'] = " PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>Şartlarını ve Kullanım Koşullarını</a> Okudum Ve Kabul Ediyorum.";
+$locale['setup_0006'] = "PHP-Fusion 9, En Azından PHP 5.5.9 gerektirir. Daha Fazla Bilgi Için <a href=\"https://www.php-fusion.co.uk/requirements\"> sistem gereksinimleri</a> Sayfasına Bakın.";
+$locale['setup_0007'] = "OPcache Kurulu Olan Sistemlerde <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> Etkin Olmalıdır.";
+$locale['setup_5000'] = "PHP-Fusion Kullanmak İçin, PHP-Fusion Şartlarını Kontrol Etmeniz Ve Kabul Etmeniz Gerekiyor.</a>.";
 $locale['setup_0010'] = "Geçerli Sürüm Yapısı - ";
 $locale['setup_0011'] = "tr";
 $locale['setup_0012'] = "utf-8";
+$locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHP-Fusion Yükseltme";
 $locale['setup_0022'] = "PHP-Fusion Yükseltme Hizmetine Hoşgeldiniz";
-$locale['setup_0023'] = "Yükseltme hizmeti, sunucunuzdaki PHP-Fusion CMS sistemini yükseltmek için gerekli adımlar konusunda size rehberlik eder. Lütfen bu adımları izleyin ve gerekli olan her bilgiyi doğrulayın.";
+$locale['setup_0023'] = "Yükseltme Hizmeti, Sunucunuzdaki PHP-Fusion CMS Sistemini Yükseltmek İçin Gerekli Adımlar Konusunda Size Rehberlik Eder. Lütfen Bu Adımları İzleyin Ve Gerekli Olan Her Bilgiyi Doğrulayın.";
 $locale['setup_0050'] = "Web Sunucusu";
 $locale['setup_0051'] = "PHP Sürümü";
 $locale['setup_0052'] = "PHP Uzantısı";
@@ -26,60 +27,59 @@ $locale['setup_0104'] = "Yapılandırma / Veritabanı Kurulumu";
 $locale['setup_0105'] = "Çekirdek Sistemi Yapılandırma";
 $locale['setup_0106'] = "Birincil Yönetici Ayrıntıları";
 $locale['setup_0107'] = "Nihai Ayarlar";
-$locale['setup_0109'] = "Etkin olmayan Apache'nin mod_rewrite özelliği PHP-Fusion sistemini çalıştırmak için ihtiyaç duyduğu minimum sürüm 2.2.16'dır.";
-$locale['setup_0110'] = "httpd.conf dosyasındaki Servertokens ayarları nedeniyle, mod_rewrite olmadan Apache sürümünü belirlemek imkansızdır, en az 2.2.16 sürümü gerekmektedir.";
-$locale['setup_0112'] = "Güvenlik nedeniyle phpinfo() işlevi devre dışı bırakılmıştır. Sunucunuzun phpinfo() bilgilerini görmek için PHP ayarlarınızı değiştirin veya sunucu yöneticinize başvurun.";
-$locale['setup_0113'] = "PHP kurulumunuz çok eski. PHP-Fusion askari en az 5.5.21 gerektirir. 5.6.5 veya 5.5.21'in üstündeki PHP sürümleri, mysql veritabanları için yerleşik SQL enjeksiyon koruması sağlar. Güncelleştirilmesi önerilir.";
-$locale['setup_0114'] = "PHP-Fusion, aşağıdaki listeden PHP uzantısını etkinleştirmenizi gerektirir";
+$locale['setup_0109'] = "Etkin Olmayan Apache'nin mod_rewrite Özelliği Php-Fusion Sistemini Çalıştırmak İçin İhtiyaç Duyduğu Minimum Sürüm 2.2.16'dır.";
+$locale['setup_0110'] = "httpd.conf Dosyasındaki Servertokens Ayarları Nedeniyle, mod_rewrite Olmadan Apache Sürümünü Belirlemek İmkansızdır, En Az 2.2.16 Sürümü Gerekmektedir.";
+$locale['setup_0112'] = "Güvenlik Nedeniyle phpinfo() İşlevi Devre Dışı Bırakılmıştır. Sunucunuzun phpinfo() Bilgilerini Görmek İçin PHP Ayarlarınızı Değiştirin Veya Sunucu Yöneticinize Başvurun.";
+$locale['setup_0113'] = "PHP Kurulumunuz Çok Eski. Php-Fusion Askari En Az 5.5.21 Gerektirir. 5.6.5 veya 5.5.21'in Üstündeki Php Sürümleri, Mysql Veritabanları İçin Yerleşik SQL Enjeksiyon Koruması Sağlar. Güncelleştirilmesi Önerilir.";
+$locale['setup_0114'] = "PHP-Fusion, Aşağıdaki Listeden Php Uzantısını Etkinleştirmenizi Gerektirir";
 $locale['setup_0115'] = "Etkinleştirildi";
 $locale['setup_0115a'] = "Etkin Değil";
-$locale['setup_0116'] = "PHP OPcode önbellekleme, sitenizin performansını önemli ölçüde artırabilir. Sunucunuza <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> kurulu olması<strong> önerilir</strong>.";
-$locale['setup_0118'] = "Web sunucunuz PDO'yu (PHP Veri Nesneleri) desteklemiyor gibi görünüyor. Hosting sağlayıcınıza yerel PDO uzantısını destekleyip desteklemediklerini sorun.";
-$locale['setup_0119a'] = "Kurulum işlemindeki hataları önlemek için PHP bellek sınırınızı %memory_minimum_limit olarak yükseltmeyi gözönünde bulundurun.";
-$locale['setup_0119b'] = "Bellek sınırını arttırın ".get_cfg_var('cfg_file_path')." dosyasındaki memory_limit karakter özelliğini düzenleyin ve web sunucunuzu yeniden başlatın (veya yardım için sistem yöneticinize veya hosting sağlayıcınıza başvurun).";
-$locale['setup_0119c'] = "PHP bellek sınırınızı artırmakla ilgili yardım için sistem yöneticinize veya hosting sağlayıcınıza başvurun.";
-$locale['setup_stepx'] = "%2\$s";
+$locale['setup_0116'] = "PHP OPcode Önbellekleme, Sitenizin Performansını Önemli Ölçüde Artırabilir. Sunucunuza <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> Kurulu Olması<strong> Önerilir</strong>.";
+$locale['setup_0118'] = "Web Sunucunuz PDO'yu (PHP Veri Nesneleri) Desteklemiyor Gibi Görünüyor. Hosting Sağlayıcınıza Yerel PDO Uzantısını Destekleyip Desteklemediklerini Sorun.";
+$locale['setup_0119a'] = "Kurulum Işlemindeki Hataları Önlemek Için Php Bellek Sınırınızı %memory_minimum_limit Olarak Yükseltmeyi Gözönünde Bulundurun.";
+$locale['setup_0119b'] = "Bellek sınırını Arttırın ".get_cfg_var('cfg_file_path')." Dosyasındaki memory_limit Karakter Özelliğini Düzenleyin Ve Web Sunucunuzu Yeniden Başlatın (Veya Yardım Için Sistem Yöneticinize Veya Hosting Sağlayıcınıza Başvurun).";
+$locale['setup_0119c'] = "Php Bellek Sınırınızı Artırmakla İlgili Yardım İçin Sistem Yöneticinize Veya Hosting Sağlayıcınıza Başvurun.";
 // Buttons
 $locale['setup_0120'] = "Yapılandırmayı Bitir";
 $locale['setup_0121'] = "Kaydet ve Devam";
 $locale['setup_0122'] = "Tekrar Dene";
 $locale['setup_0124'] = "Kurtarma Seçeneklerine Git";
 $locale['setup_0125'] = "Kaldırma İşlemi Devam Ediyor. Lütfen bekleyin...";
-$locale['setup_0130'] = "Xdebug ayarları";
-$locale['setup_0131'] = "xdebug.max_nesting_level ayarlandı";
-$locale['setup_0132'] = "Bu ayar çok düşük olduğunda, PHP-Fusion sitenizdeki bazı sayfalar çalışmayacağı için PHP yapılandırmanıza {%code%} koyun.";
-$locale['setup_0134'] = "Gerekli tüm dosyalar, dosya yazılabilir gereksinimlerinden geçti.";
-$locale['setup_0135'] = "Kurulumun devam etmesi için aşağıdaki dosyalar ve klasörler yazılabilir olmalıdır. Devam etmek için dosyaların chmod ayarlarını 755 veya 777 yapın.";
+$locale['setup_0130'] = "Xdebug Ayarları";
+$locale['setup_0131'] = "xdebug.max_nesting_level Ayarlandı";
+$locale['setup_0132'] = "Bu Ayar Çok Düşük Olduğunda, Drupal Sitenizdeki Bazı Sayfalar Çalışmayacağı İçin Php Yapılandırmanıza {%code%} Koyun.";
+$locale['setup_0134'] = "Gerekli Tüm Dosyalar, Dosya Yazılabilir Gereksinimlerinden Geçti.";
+$locale['setup_0135'] = "Kurulumun Devam Etmesi İçin Aşağıdaki Dosyalar Ve Klasörler Yazılabilir Olmalıdır. Devam Etmek İçin Dosyaların Chmod Ayarlarını 755 Veya 777 Yapın.";
 $locale['setup_0136'] = "Yazılabilir Değil (Başarısız oldu)";
 $locale['setup_0137'] = "Yazılabilir (Geçti)";
-$locale['setup_0138'] = "Veritabanı bağlantısı kuruldu";
-$locale['setup_0139'] = "Veritabanı sütunu seçildi";
-$locale['setup_0140'] = "Veritabanı kullanılabilir ve kurulum için hazır";
-$locale['setup_0141'] = "Veritabanı izinleri ve erişimi doğrulandı";
-$locale['setup_0142'] = "config.php dosyası oluşturuldu";
-$locale['setup_0143'] = "Belirtilen tablo öneki zaten kullanılıyor ve çalışıyor. Yükleyici farklılıkları gerektiği gibi güncelleyecek";
+$locale['setup_0138'] = "Veritabanı Bağlantısı Kuruldu";
+$locale['setup_0139'] = "Veritabanı Sütunu Seçildi";
+$locale['setup_0140'] = "Veritabanı Kullanılabilir Ve Kurulum Için Hazır";
+$locale['setup_0141'] = "Veritabanı İzinleri Ve Erişimi Doğrulandı";
+$locale['setup_0142'] = "config.php Dosyası Oluşturuldu";
+$locale['setup_0143'] = "Belirtilen Tablo Öneki Zaten Kullanılıyor Ve Çalışıyor. Yükleyici Farklılıkları Gerektiği Gibi Güncelleyecek";
 $locale['setup_0144'] = "Veritabanı Tanılamaları Tamamlandı";
 // Step 1
-$locale['setup_1000'] = "Lütfen dilinizi seçin";
-$locale['setup_1001'] = "<a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion Resmi Destek Sitesinden</strong></a> daha fazla dil dosyaları indirebilirsiniz.";
+$locale['setup_1000'] = "Lütfen Dilinizi Seçin";
+$locale['setup_1001'] = "<a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion Resmi Destek Sitesinden</strong></a> Daha Fazla Dil Dosyaları Indirebilirsiniz.";
 $locale['setup_1002'] = "PHP-Fusion 9.0 Kurtarma Moduna hoşgeldiniz.";
-$locale['setup_1003'] = "Mevcut bir sistemin kurulu olduğunu tespit ettik. Devam etmek için lütfen aşağıdakilerden herhangi birini seçin.";
+$locale['setup_1003'] = "Mevcut Bir Sistemin Kurulu Olduğunu Tespit Ettik. Devam Etmek Için Lütfen Aşağıdakilerden Herhangi Birini Seçin.";
 $locale['setup_1004'] = "Temiz Kurulum";
-$locale['setup_1005'] = "Veritabanınızı kaldırıp ve temizleyip tekrardan temiz bir yüklemeye başlayabilirsiniz.";
+$locale['setup_1005'] = "Veritabanınızı Kaldırıp Ve Temizleyip Tekrardan Temiz Bir Yüklemeye Başlayabilirsiniz.";
 $locale['setup_1006'] = "LÜTFEN CONFIG.PHP'Yİ YEDEKLEYİNİZ. KALDIRMA SIRASINDA SİSTEMDEN ÇIKARILACAK.";
 $locale['setup_1007'] = "Kaldır ve Tekrar Başla";
 $locale['setup_1008'] = "Çekirdek Sistem Yükleyicisi";
-$locale['setup_1009'] = "Çekirdek sistem yapılandırmalarını değiştirin.";
+$locale['setup_1009'] = "Çekirdek Sistem Yapılandırmalarını Değiştirin.";
 $locale['setup_1010'] = "Sistem Yükleyicisine Git";
 $locale['setup_1011'] = "Birincil Hesap Ayrıntılarını Değiştir";
-$locale['setup_1012'] = "Sistem Süper Yönetici bilgilerini, şifreyi kurtarmanıza veya Süper Yönetici hesabının sahipliğini başka bir kişiye aktarmanıza gerek kalmadan değiştirin.";
+$locale['setup_1012'] = "Sistem Süper Yönetici Bilgilerini, Şifreyi Kurtarmanıza Veya Süper Yönetici Hesabının Sahipliğini Başka Bir Kişiye Aktarmanıza Gerek Kalmadan Değiştirin.";
 $locale['setup_1013'] = "Süper Yönetici Ayrıntılarını Değiştir";
-$locale['setup_1014'] = ".htaccess'i yeniden oluştur";
-$locale['setup_1015'] = "Geçerli dosyayı silin ve .htaccess dosyasının standart bir sürümü ile değiştirin";
-$locale['setup_1017'] = "Bu yükleyiciyi iptal edin ve çıkın";
-$locale['setup_1018'] = "Şu anda, aşağıdaki düğmeyi tıklayarak bu yükleyiciden çıkabilirsiniz. Bu, config_temp.php dosyanızı yeniden adlandırarak config.php dosyasına geri döndürür.";
+$locale['setup_1014'] = ".htaccess'i Yeniden Oluştur";
+$locale['setup_1015'] = "Geçerli Dosyayı Silin Ve .htaccess Dosyasının Standart Bir Sürümü İle Değiştirin";
+$locale['setup_1017'] = "Bu Yükleyiciyi İptal Edin Ve Çıkın";
+$locale['setup_1018'] = "Şu Anda, Aşağıdaki Düğmeye Tıklayarak Bu Yükleyiciden Çıkabilirsiniz. Bu, config_temp.php Dosyanızı Yeniden Adlandırarak config.php Dosyasına Geri Döndürür.";
 $locale['setup_1019'] = "Yükleyici'den Çık";
-$locale['setup_1020'] = ".htaccess dosyası oluşturuldu/güncellendi";
+$locale['setup_1020'] = ".htaccess Dosyası Oluşturuldu/Güncellendi";
 // Step 2
 $locale['setup_1090'] = "Dosyalar";
 $locale['setup_1091'] = "Durum";
@@ -87,8 +87,10 @@ $locale['setup_1092'] = "Veritabanı Yapılandırmaları ve Sürücü";
 $locale['setup_1106'] = "Sunucu ve Dosya Yapısı Gereksinimleri Tanılama";
 // Step 3 - Access criteria
 $locale['setup_1200'] = "Veritabanı Ayarları ve Sunucu Yolları";
-$locale['setup_1201'] = "Lütfen MySQL veritabanı erişim ayarlarınızı girin.";
+$locale['setup_1201'] = "Lütfen MySQL Veritabanı Erişim Ayarlarınızı Girin.";
 $locale['setup_1202'] = "Veritabanı Ana Bilgisayar Adı:";
+$locale['setup_1202a'] = "Veritabanı Portu:";
+$locale['setup_1202b'] = "Başka Bir Port Kullanmıyorsanız Boş Bırakın";
 $locale['setup_1203'] = "Veritabanı Kullanıcı Adı:";
 $locale['setup_1204'] = "Veritabanı Şifresi:";
 $locale['setup_1205'] = "Veritabanı Adı:";
@@ -96,53 +98,53 @@ $locale['setup_1206'] = "Tablo Öneki:";
 $locale['setup_1207'] = "Çerez Öneki:";
 $locale['setup_1208'] = "Veritabanı Sürücüsü";
 // Step 4 - Database Setup
-$locale['setup_1210'] = "PHP-Fusion kurulum hataları. Lütfen yükleyiciyi yeniden başlatın.";
-$locale['setup_1211'] = "Yeni PHP-Fusion kurulumu tamamlandı. Lütfen bir sonraki adıma geçin.";
+$locale['setup_1210'] = "PHP-Fusion Kurulum Hataları. Lütfen Yükleyiciyi Yeniden Başlatın.";
+$locale['setup_1211'] = "Yeni PHP-Fusion Kurulumu Tamamlandı. Lütfen Bir Sonraki Adıma Geçin.";
 $locale['setup_1212'] = "Site ve Süper Yönetici Yapılandırmaları";
 $locale['setup_1213'] = "Site Bilgileri Detayları";
 $locale['setup_1214'] = "Site Adı";
 $locale['setup_1215'] = "PHP-Fusion Powered Website";
-$locale['setup_1216'] = "PHP-Fusion, PHP ile yazılmış hafif açık kaynak kodlu bir içerik yönetim sistemi (CMS) dir.";
-$locale['setup_1217'] = "Hesabınız güncellendi. Lütfen bundan sonra yeni kimlik bilgilerini kullanın.";
-$locale['setup_1220'] = "PHP-Fusion çalıştırmak istediğiniz veritabanının adı";
-$locale['setup_1221'] = "MYSQL kullanıcı adınız";
+$locale['setup_1216'] = "PHP-Fusion, PHP İle Yazılmış Hafif Açık Kaynak Kodlu Bir İçerik Yönetim Sistemi (CMS) dir.";
+$locale['setup_1217'] = "Hesabınız Güncellendi. Lütfen Bundan Sonra Yeni Kimlik Bilgilerini Kullanın.";
+$locale['setup_1220'] = "PHP-Fusion Çalıştırmak İstediğiniz Veritabanının Adı";
+$locale['setup_1221'] = "MYSQL kUllanıcı Adınız";
 $locale['setup_1222'] = "... ve MYSQL şifreniz";
-$locale['setup_1223'] = "Veritabanınızı güvence altına almak için bunu çok benzersiz yapın";
+$locale['setup_1223'] = "Veritabanınızı Güvence Altına Almak İçin Bunu Çok Benzersiz Yapın";
 $locale['setup_1224'] = "Tarayıcı Çerez Tanımlayıcı Öneki";
-$locale['setup_1225'] = "Örneğin. localhost";
-$locale['setup_1307'] = "Lütfen config.php dosyasının yazılabilir olduğundan emin olun.";
-$locale['setup_1310'] = "MySQL veritabanı ile bağlantı kurulamıyor.";
-$locale['setup_1311'] = "Belirtilen MySQL veritabanı mevcut değil.";
-$locale['setup_1313'] = "Belirtilen tablo öneki zaten kullanılıyor ve çalışıyor. Hiçbir tablo yüklenmeyecek. Lütfen baştan başlayın veya bir sonraki adıma geçin.";
-$locale['setup_1315'] = "Lütfen MySQL kullanıcılarınızın seçilen veritabanı için okuma, yazma ve silme iznine sahip olduklarından emin olun.";
-$locale['setup_1317'] = "Lütfen tüm MySQL bağlantı alanlarını doldurduğunuzdan emin olun.";
+$locale['setup_1225'] = "Ö.o. localhost";
+$locale['setup_1307'] = "Lütfen config.php Dosyasının Yazılabilir Olduğundan Emin Olun.";
+$locale['setup_1310'] = "MySQL Veritabanı İle Bağlantı Kurulamıyor.";
+$locale['setup_1311'] = "Belirtilen MySQL Veritabanı Mevcut Değil.";
+$locale['setup_1313'] = "Belirtilen Tablo Öneki Zaten Kullanılıyor Ve Çalışıyor. Hiçbir Tablo Yüklenmeyecek. Lütfen Baştan Başlayın Veya Bir Sonraki Adıma Geçin.";
+$locale['setup_1315'] = "Lütfen Mysql Kullanıcılarınızın Seçilen Veritabanı Için Okuma, Yazma Ve Silme İznine Sahip Olduklarından Emin Olun.";
+$locale['setup_1317'] = "Lütfen Tüm Mysql Bağlantı Alanlarını Doldurduğunuzdan Emin Olun.";
 // Step 6 - Super Admin login
 $locale['setup_1500'] = "Birincil Süper Yönetici Hesabı";
-$locale['setup_1501'] = "Süper Yönetici hesabınızın ayrıntılarını yapılandırın.";
+$locale['setup_1501'] = "Süper Yönetici Hesabınızın Ayrıntılarını Yapılandırın.";
 $locale['setup_1504'] = "Kullanıcı Adı:";
 $locale['setup_1505'] = "Giriş Şifresi:";
 $locale['setup_1506'] = "Giriş Şifresini Tekrarla:";
 $locale['setup_1507'] = "Yönetici Şifresi:";
 $locale['setup_1508'] = "Yönetici Şifresini Tekrarla:";
-$locale['setup_1509'] = "E-posta adresi:";
-$locale['setup_1510'] = "Web Site e-posta adresi:";
+$locale['setup_1509'] = "E-Posta Adresi:";
+$locale['setup_1510'] = "Web Site E-Posta Adresi:";
 $locale['setup_1511'] = "Web Site Bölgesi Seç:";
 $locale['setup_1512'] = "Site Dil Kurulumları:";
 $locale['setup_1513'] = "Site Sahibi Adı";
 // Progress Reports
 $locale['setup_1600'] = "Kuruluyor ";
-$locale['setup_1601'] = "Tablo yapısı güncelleniyor ";
-$locale['setup_1602'] = "Yeni sütun ekleniyor ";
-$locale['setup_1603'] = "Veri yerleştiriliyor ";
+$locale['setup_1601'] = "Tablo Yapısı Güncelleniyor ";
+$locale['setup_1602'] = "Yeni Sütun Ekleniyor ";
+$locale['setup_1603'] = "Veri Yerleştiriliyor ";
 // Step 6 - User details validation
-$locale['setup_5010'] = "Kullanıcı adı geçersiz karakterler içeriyor.";
-$locale['setup_5011'] = "Kullanıcı adı alanı boş bırakılamaz.";
-$locale['setup_5012'] = "Giriş şifreleriniz uyuşmuyor.";
-$locale['setup_5013'] = "Geçersiz giriş şifresi, lütfen yalnızca alfasayısal karakterler kullanın.<br />Şifre en az 8 karakter uzunluğunda olmalıdır.";
-$locale['setup_5015'] = "Yönetici şifreleriniz uyuşmuyor.";
-$locale['setup_5016'] = "Kullanıcı şifreniz ve yönetici şifreniz farklı olmalıdır.";
-$locale['setup_5017'] = "Geçersiz yönetici şifresi, lütfen yalnızca alfasayısal karakterler kullanın.<br />Şifre en az 8 karakter uzunluğunda olmalıdır.";
-$locale['setup_5020'] = "E-posta alanı boş bırakılamaz.";
+$locale['setup_5010'] = "Kullanıcı Adı Geçersiz Karakterler İçeriyor.";
+$locale['setup_5011'] = "Kullanıcı Adı Alanı Boş Bırakılamaz.";
+$locale['setup_5012'] = "Giriş Şifreleriniz Uyuşmuyor.";
+$locale['setup_5013'] = "Geçersiz Giriş Şifresi, Lütfen Yalnızca Alfasayısal Karakterler Kullanın.<Br />Şifre En Az 8 Karakter Uzunluğunda Olmalıdır.";
+$locale['setup_5015'] = "Yönetici Şifreleriniz Uyuşmuyor.";
+$locale['setup_5016'] = "Kullanıcı Şifreniz Ve Yönetici Şifreniz Farklı Olmalıdır.";
+$locale['setup_5017'] = "Geçersiz Yönetici Şifresi, Lütfen Yalnızca Alfasayısal Karakterler Kullanın.<Br />Şifre En Az 8 Karakter Uzunluğunda Olmalıdır.";
+$locale['setup_5020'] = "E-Posta Alanı Boş Bırakılamaz.";
 // Step 6 - Admin Panels
 $locale['setup_3000'] = "Yöneticiler";
 $locale['setup_3002'] = "Makaleler";
@@ -156,8 +158,8 @@ $locale['setup_3010'] = "Dosyalar";
 $locale['setup_3011'] = "SSS";
 $locale['setup_3012'] = "Forumlar";
 $locale['setup_3013'] = "Görüntüler";
-$locale['setup_3014'] = "İnfüzyonlar";
-$locale['setup_3015'] = "İnfüzyon Panoları";
+$locale['setup_3014'] = "Modüller";
+$locale['setup_3015'] = "Modül Panelleri";
 $locale['setup_3016'] = "Üyeler";
 $locale['setup_3018'] = "Haber";
 $locale['setup_3019'] = "Paneller";
@@ -188,6 +190,7 @@ $locale['setup_3055'] = "Blog";
 $locale['setup_3056'] = "Tema Yönetimi";
 $locale['setup_3057'] = "Geçiş Aracı";
 $locale['setup_3058'] = "Tema Ayarları";
+$locale['setup_3059'] = "Fusion Dosya Yöneticisi";
 // Multilanguage table rights
 $locale['setup_3200'] = "Makaleler";
 $locale['setup_3201'] = "Özel Sayfalar";
@@ -207,7 +210,7 @@ $locale['setup_3213'] = "Blog";
 $locale['setup_3300'] = "Ana Sayfa";
 $locale['setup_3302'] = "Dosyalar";
 $locale['setup_3303'] = "SSS";
-$locale['setup_3304'] = "Münazara Forumu";
+$locale['setup_3304'] = "Tartışma forumu";
 $locale['setup_3305'] = "İletişim";
 $locale['setup_3307'] = "Web Bağlantıları";
 $locale['setup_3308'] = "Galeri";
@@ -221,8 +224,8 @@ $locale['setup_3315'] = "Gönderimler";
 $locale['setup_3316'] = "Sohbet";
 $locale['setup_3317'] = "Blog Gönder";
 $locale['setup_3318'] = "Blog Arşivi Paneli";
-$locale['setup_3319'] = "Son Münazaralar";
-$locale['setup_3320'] = "Katıldığım Münazaralar";
+$locale['setup_3319'] = "Son Tartışmalar";
+$locale['setup_3320'] = "Katıldığım Tartışmalar";
 $locale['setup_3321'] = "Takip Ettiğim Konular";
 $locale['setup_3322'] = "Cevaplanmamış Konular";
 $locale['setup_3323'] = "Çözülmemiş Sorular";
@@ -261,7 +264,7 @@ $locale['setup_3600'] = "Süper Yönetici";
 $locale['setup_3601'] = "Yönetici";
 $locale['setup_3602'] = "Moderatör";
 $locale['setup_3603'] = "Yeni Başlayan";
-$locale['setup_3604'] = "Junior Member";
+$locale['setup_3604'] = "Yeni Üye";
 $locale['setup_3605'] = "Genç Üye";
 $locale['setup_3606'] = "Kıdemli Üye";
 $locale['setup_3607'] = "Emektar";
@@ -286,7 +289,7 @@ $locale['setup_3644'] = "İstatistikler";
 $locale['setup_3645'] = "Gizlilik";
 // Stage 6 - Forum Tags
 $locale['setup_3660'] = "Site Bilgisi";
-$locale['setup_3661'] = "Bu web sitesinin yönetimine ilişkin münazaralar";
+$locale['setup_3661'] = "Bu web sitesinin yönetimiyle ilgili tartışmalar";
 
 // Stage 6 - User Fields
 require_once __DIR__."/user_fields/user_birthdate.php";
@@ -296,7 +299,6 @@ require_once __DIR__."/user_fields/user_sig.php";
 require_once __DIR__."/user_fields/user_skype.php";
 require_once __DIR__."/user_fields/user_theme.php";
 require_once __DIR__."/user_fields/user_web.php";
-require_once __DIR__."/user_fields/user_yahoo.php";
 require_once __DIR__."/user_fields/user_timezone.php";
 require_once __DIR__."/user_fields/user_blacklist.php";
 
@@ -304,9 +306,9 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Web sitemize hoş geldiniz!";
 // Final message
 $locale['setup_1700'] = "Kurulum Tamamlandı";
-$locale['setup_1701'] = "PHP-Fusion 9.0 artık kullanıma hazır. config_temp.php dosyanızı config.php dosyasına yeniden yazması için Son'u tıklayın.<br/>";
-$locale['setup_1702'] = "<strong>Not: Sitenize girdikten sonra tüm /install klasörünü silmelisiniz ve güvenlik nedenleriyle config.php dosyanızı 0644'e geri döndürmelisiniz.</strong>";
-$locale['setup_1703'] = "PHP-Fusion'u seçtiğiniz için teşekkür ederiz.";
+$locale['setup_1701'] = "Php-Fusion 9.0 Artık Kullanıma Hazır. Config_Temp.Php Dosyanızı Config.Php Dosyasına Yeniden Yazması Için Son'u Tıklayın.<br/>";
+$locale['setup_1702'] = "<strong>Not: Sitenize Girdikten Sonra Tüm /Install Klasörünü Silmelisiniz Ve Güvenlik Nedenleriyle Config.Php Dosyanızı 0644'e Geri Döndürmelisiniz.</strong>";
+$locale['setup_1703'] = "Php-Fusion'u Seçtiğiniz Için Teşekkür Ederiz.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";
@@ -316,13 +318,30 @@ $locale['setup_3703'] = "%B %d %Y";
 $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
-$locale['setup_3800'] = "E-posta Şablonları";
+$locale['setup_3800'] = "E-Posta Şablonları";
 $locale['setup_3801'] = "Yeni ÖM Bildirimi";
-$locale['setup_3802'] = "Size [SITENAME] sitesinde [USER] adlı kullanıcıdan yeni bir özel mesaj var";
-$locale['setup_3803'] = "Merhaba [RECEIVER],\r\nSiz [SITENAME] sitesinde [USER] adlı kullanıcıdan [SUBJECT] başlıklı yeni bir Özel Mesaj aldınız. Özel mesajınızı [SITEURL]messages.php adresinden okuyabilirsiniz.\r\n\r\nMesaj: [MESSAGE]\r\n\r\nArtık yeni mesajlarla ilgili bildirim almak istemiyorsanız, Özel Mesaj sayfasının seçenekler panelinden e-posta bildirimini devre dışı bırakabilirsiniz.\r\n\r\nSaygılarımızla,\r\n[SENDER].";
-$locale['setup_3804'] = "Yeni forum mesajlarında bildirim";
+$locale['setup_3802'] = "Size [SITENAME] Sitesinde [USER] Adlı Kullanıcıdan Yeni Bir Özel Mesaj Var";
+$locale['setup_3803'] = "Merhaba [RECEIVER],
+Siz [SITENAME] Sitesinde [USER] Adlı Kullanıcıdan [SUBJECT] Başlıklı Yeni Bir Özel Mesaj Aldınız. Özel Mesajınızı [SITEURL]messages.php Adresinden Okuyabilirsiniz.
+
+Mesaj: [MESSAGE]
+
+Artık Yeni Mesajlarla İlgili Bildirim Almak İstemiyorsanız, Özel Mesaj Sayfasının Seçenekler Panelinden E-Posta Bildirimini Devre Dışı Bırakabilirsiniz.
+
+Saygılarımızla,
+[SENDER].";
+$locale['setup_3804'] = "Yeni Forum Mesajlarında Bildirim";
 $locale['setup_3805'] = "Konuya Cevap Bildirimi - [SUBJECT]";
-$locale['setup_3806'] = "Merhaba [RECEIVER],\r\n\r\nTakip ettiğiniz \'[SUBJECT]\' forum konusuna [SITENAME] sitesinde bir cevap gönderildi. Cevabı görüntülemek için aşağıdaki bağlantıyı kullanabilirsiniz:\r\n\r\n[THREAD_URL]\r\n\r\nEğer bu konuyu takip etmek istemiyorsanız, konunun üst kısmında bulunan \'Bu konuyu takip etmeyi durdur\' bağlantısını tıklayabilirsiniz.\r\n\r\nSaygılarımızla,\r\n[SENDER].";
+$locale['setup_3806'] = "Merhaba [RECEIVER],
+
+Takip Ettiğiniz \\'[SUBJECT]\\' Forum Konusuna [SITENAME] Sitesinde Bir Cevap Gönderildi. Cevabı Görüntülemek İçin Aşağıdaki Bağlantıyı Kullanabilirsiniz:
+
+[THREAD_URL]
+
+Eğer Bu Konuyu Takip Etmek İstemiyorsanız, Konunun Üst Kısmında Bulunan \\'Bu Konuyu Takip Etmeyi Durdur\\' Bağlantısını Tıklayabilirsiniz.
+
+Saygılarımızla,
+[SENDER].";
 $locale['setup_3807'] = "İletişim Formu";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

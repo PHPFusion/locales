@@ -1,4 +1,4 @@
 <?php
-$locale['uf_phone_work'] = "Work (office) phone";
-$locale['uf_phone_work_desc'] = "User work (office) phone number";
-$locale['uf_phone_work_error'] = "User work (office) phone number can not be left empty.";
+$locale['uf_phone_work'] = "İşyeri (ofis) telefonu";
+$locale['uf_phone_work_desc'] = "Kullanıcı işyeri (ofis) telefon numarası";
+$locale['uf_phone_work_error'] = "Kullanıcı işyeri (ofis) telefon numarası boş bırakılamaz.";

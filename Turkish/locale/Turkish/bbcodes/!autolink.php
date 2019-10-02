@@ -1,3 +1,3 @@
 <?php
-$locale['bb_autolink_description'] = "Turns links or email addresses into clickable hyperlinks.";
-$locale['bb_autolink_usage'] = "This bbcode has no button. MUST be above URL and Mail bbcode.";
+$locale['bb_autolink_description'] = "Linkleri ve email adreslerini kendiliğinden tıklanabilir yapar.";
+$locale['bb_autolink_usage'] = "Bu BB Kodunun Butonu Bulunmamakta. URL ve Mail BB Kodunun ÜSTÜNDE olmalıdır.";

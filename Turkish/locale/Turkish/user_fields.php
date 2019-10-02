@@ -20,7 +20,7 @@ $locale['u056'] = "Sebep";
 $locale['u057'] = "Kullanıcı Grupları";
 $locale['u058'] = "Yönetici Seçenekleri";
 $locale['u059'] = "Ekle";
-$locale['u060'] = "Bu kullanıcı seçilen gruba eklensin mi?";
+$locale['u060'] = "Bu Kullanıcı Seçilen Gruba Eklensin Mi?";
 $locale['u061'] = "Gruba ekle";
 $locale['u062'] = "Kullanıcı Avatarı";
 $locale['u063'] = "Kullanıcı Seviyesi";
@@ -28,13 +28,12 @@ $locale['u064'] = "E-posta";
 $locale['u066'] = "Katılım Tarihi";
 $locale['u067'] = "Son Ziyaret";
 $locale['u068'] = "Kullanıcı Adı";
-$locale['u069'] = "Düzenle";
 $locale['u070'] = "Yasakla";
-$locale['u071'] = "Askıya al";
-$locale['u072'] = "Sil";
-$locale['u073'] = "Bu kullanıcı silinsin mi?";
+$locale['u071'] = "Askıya Al";
+$locale['u073'] = "Bu Kullanıcı Silinsin Mi?";
+$locale['u074'] = "Yasağı Kaldır";
 // Profile and register
-$locale['u100'] = "Şifrenizi veya e-posta adresinizi değiştirmek için geçerli şifrenizi girmeniz gerekir.";
+$locale['u100'] = "Şifrenizi Veya E-Posta Adresinizi Değiştirmek İçin Geçerli Şifrenizi Girmeniz Gerekir.";
 $locale['u101'] = "Kayıt Ol";
 $locale['u102'] = "Profili Düzenle";
 $locale['u103'] = "Profil";
@@ -49,8 +48,8 @@ $locale['uf_103'] = "Genel";
 $locale['uf_104'] = "Kullanıcı Bilgisi";
 $locale['uf_105'] = "Profil Resmi";
 $locale['uf_106'] = "Temel Bilgiler";
-$locale['uf_107'] = "%s kullanıcısının bilgileri mevcut değil.";
-$locale['uf_108'] = "Tanımlanmış kullanıcı alanları yok";
+$locale['uf_107'] = "%s Kullanıcısının Bilgileri Mevcut Değil.";
+$locale['uf_108'] = "Tanımlanmış Kullanıcı Alanları Yok";
 
 // View User Groups
 $locale['u110'] = "Kullanıcı Grubunu Görüntüle";
@@ -59,18 +58,19 @@ $locale['u112'] = "%u kullanıcılar";
 $locale['u113'] = "Kullanıcı Adı";
 $locale['u114'] = "Kullanıcı Türü";
 $locale['u115'] = "Dil";
-$locale['u116'] = "Hiçbir grup üyeleri yok.";
+$locale['u116'] = "Hiçbir Grup Üyeleri Yok.";
+$locale['u117'] = "Kullanıcı Grubu Yok.";
 // User name and email
-$locale['u119'] = "Kullanıcı adı içeriyor.";
-$locale['u120'] = "Kullanıcı adı geçersiz karakterler içeriyor.";
-$locale['u121'] = "Seçilen kullanıcı adı zaten başka bir kullanıcı tarafından alınmış.";
-$locale['u122'] = "Kullanıcı Adı boş bırakılamaz.";
-$locale['u123'] = "E-posta adresiniz geçerli gibi görünmüyor.";
-$locale['u124'] = "E-posta adresiniz veya e-posta alanınız kara listeye alındı.";
-$locale['u125'] = "E-posta adresi zaten başka bir kullanıcı tarafından kaydedildi.";
-$locale['u126'] = "E-posta adresi boş bırakılamaz.";
+$locale['u119'] = "Kullanıcı Adı İçeriyor.";
+$locale['u120'] = "Kullanıcı Adı Geçersiz Karakterler İçeriyor.";
+$locale['u121'] = "Seçilen kullanıcı Adı Zaten Başka Bir Kullanıcı Tarafından Alınmış.";
+$locale['u122'] = "Kullanıcı Adı Boş Bırakılamaz.";
+$locale['u123'] = "E-Posta Adresiniz Geçerli Gibi Görünmüyor.";
+$locale['u124'] = "E-Posta Adresiniz Veya E-Posta Alanınız Kara Listeye Alındı.";
+$locale['u125'] = "E-Posta Adresi Zaten Başka Bir Kullanıcı Tarafından Kaydedildi.";
+$locale['u126'] = "E-Posta Adresi Boş Bırakılamaz.";
 $locale['u127'] = "Kullanıcı Adı";
-$locale['u128'] = "Email Address";
+$locale['u128'] = "E-Posta Adresi";
 $locale['u129'] = "Temel Kullanıcı Bilgisi";
 // Passwords
 $locale['u130'] = "Yönetici Şifreleri";
@@ -83,83 +83,76 @@ $locale['u134b'] = "Şifreyi Tekrarla";
 $locale['u135a'] = "Geçerli Şifre";
 $locale['u135b'] = "Yeni Şifre Belirle";
 $locale['u135c'] = "Yeni Şifreyi Tekrarla";
-$locale['u136'] = "Şifre boş bırakılamaz.";
-$locale['u137'] = "Geçerli yönetici şifreniz boş bırakılamaz.";
-$locale['u138'] = "Geçerli giriş şifreniz boş bırakılamaz.";
-$locale['u139'] = "Giriş şifresi geçerli giriş şifrenizle eşleşmiyor.";
-$locale['u140'] = "Yönetici şifresi geçerli yönetici şifrenizle eşleşmiyor.";
-$locale['u141'] = " aynı olamaz ";
-$locale['u142'] = " çok kısa veya geçersiz karakterler içeriyor!";
-$locale['u143'] = " eşleşmiyor!";
-$locale['u143a'] = " boş bırakılamaz.";
-$locale['u144'] = "Yeni Yönetici şifresi";
+$locale['u136'] = "Şifre Boş Bırakılamaz.";
+$locale['u137'] = "Geçerli Yönetici Şifreniz Boş Bırakılamaz.";
+$locale['u138'] = "Geçerli Giriş Şifreniz Boş Bırakılamaz.";
+$locale['u139'] = "Giriş Şifresi Geçerli Giriş Şifrenizle Eşleşmiyor.";
+$locale['u140'] = "Yönetici Şifresi Geçerli Yönetici Şifrenizle Eşleşmiyor.";
+$locale['u141'] = " Aynı Olamaz ";
+$locale['u142'] = " Çok Kısa Veya Geçersiz Karakterler İçeriyor!";
+$locale['u143'] = " Eşleşmiyor!";
+$locale['u143a'] = " Boş Bırakılamaz.";
+$locale['u144'] = "Yeni Yönetici Şifresi";
 $locale['u144a'] = "Geçerli Yönetici Şifresi";
-$locale['u145'] = "Yönetici şifresini onayla";
-$locale['u146'] = " geçerli olanla aynı olamaz ";
-$locale['u147'] = "Şifre 8 ila 64 karakter uzunluğunda olmalıdır.\n\rİzin verilen semboller şunlardır a-z, 0-9 ve @!#$%&/()=-_?+*.,:;";
-$locale['u148'] = "Yeni Giriş Şifreleri aynı değil.";
-$locale['u148a'] = "Yeni Yönetici Şifreleri aynı değil.";
-$locale['u149'] = "Geçerli Giriş Şifreniz belirtilmedi veya geçersiz.";
-$locale['u149a'] = "Geçerli Yönetici Şifreniz belirtilmedi veya geçersiz.";
-$locale['u149b'] = "Geçerli Giriş Şifreniz belirtilmedi veya geçersiz.\n\rDoğru giriş şifreniz olmadan yönetici şifrenizi ayarlayamazsınız.";
+$locale['u145'] = "Yönetici Şifresini Onayla";
+$locale['u146'] = " Geçerli Olanla Aynı Olamaz ";
+$locale['u147'] = "Şifre 8 ila 64 Karakter Uzunluğunda Olmalıdır.<br/>İzin Verilen Semboller Şunlardır a-z, 0-9 ve @!#$%&/()=-_?+*.,:;";
+$locale['u148'] = "Yeni Giriş Şifreleri Aynı Değil.";
+$locale['u148a'] = "Yeni Yönetici Şifreleri Aynı Değil.";
+$locale['u149'] = "Geçerli Giriş Şifreniz Belirtilmedi Veya Geçersiz.";
+$locale['u149a'] = "Geçerli Yönetici Şifreniz Belirtilmedi Veya Geçersiz.";
+$locale['u149b'] = "Geçerli Giriş Şifreniz Belirtilmedi Veya Geçersiz.<br/>Doğru Giriş Şifreniz Olmadan Yönetici Şifrenizi Ayarlayamazsınız.";
 // Email activation
-$locale['u150'] = "Kaydınız neredeyse tamamlandı, hesabınızı doğrulamak için bir başlantıyla birlikte giriş ayrıntılarını içeren bir e-posta alacaksınız.";
-$locale['u151'] = "[SITENAME] sitesine hoşgeldiniz";
-$locale['u152'] = "Merhaba USER_NAME,\n\r
-SITENAME sitesine hoşgeldiniz. İşte giriş ayrıntılarınız:\n\r
-Kullanıcı Adı: USER_NAME\n\r
-Şifre: USER_PASSWORD\n\r
-Lütfen bu bağlantıyı kullanarak hesabınızı etkinleştirin: ACTIVATION_LINK\n\n\r\r
-Saygılarımızla,\n\r
-SITEUSERNAME";
+$locale['u150'] = "Kaydınız Neredeyse Tamamlandı, Hesabınızı Doğrulamak İçin Bir Başlantıyla Birlikte Giriş Ayrıntılarını İçeren Bir E-Posta Alacaksınız.";
+$locale['u151'] = "[SITENAME] Sitesine Hoşgeldiniz";
+$locale['u152'] = "Merhaba USER_NAME,<br/>\r\nSITENAME Sitesine Hoşgeldiniz. İşte Giriş Ayrıntılarınız:<br/>\r\nKullanıcı Adı: USER_NAME<br/>\r\nŞifre: USER_PASSWORD<br/>\r\nLütfen Bu Bağlantıyı Kullanarak Hesabınızı Etkinleştirin: ACTIVATION_LINK<br/>\r\nSaygılarımızla,<br/>\r\nSITEUSERNAME";
 
-$locale['u153'] = "Etkinleştirme e-postası gönderilemedi.";
-$locale['u154'] = "Lütfen Site Yönetimiyle [LINK]iletişim kurun[/LINK].";
+$locale['u153'] = "Etkinleştirme E-Postası Gönderilemedi.";
+$locale['u154'] = "Lütfen Site Yönetimiyle [LINK]İletişim Kurun[/LINK].";
 $locale['u155'] = "Hesabı Etkinleştir";
-$locale['u156'] = "E-postayı değiştirmek için lütfen geçerli parolayı yazın.";
+$locale['u156'] = "E-Postayı Değiştirmek İçin Lütfen Geçerli Parolayı Yazın.";
 // Success / Fail
-$locale['u160'] = "Kayıt tamamlandı";
-$locale['u161'] = "Artık oturum açabilirsiniz.";
-$locale['u162'] = "Bir yönetici hesabınızı kısa bir süre içinde etkinleştirecektir.";
-$locale['u163'] = "Profil başarıyla güncellendi.";
-$locale['u164'] = "Güncelleme başarısız oldu";
+$locale['u160'] = "Kayıt Tamamlandı";
+$locale['u161'] = "Artık Oturum Açabilirsiniz.";
+$locale['u162'] = "Bir Yönetici Hesabınızı Kısa Bir Süre İçinde Etkinleştirecektir.";
+$locale['u163'] = "Profil Başarıyla Güncellendi.";
+$locale['u164'] = "Güncelleme Başarısız Oldu";
+$locale['u165'] = "E-Posta Tekrar Gönderildi.";
 
-//$locale['u165'] = "Registration failed";
-$locale['u167'] = "aşağıdaki sebeplerden dolayı:";
-$locale['u168'] = "Lütfen tekrar deneyin.";
-$locale['u169'] = "Profil güncellendi";
-$locale['u170'] = "Kayıt başarılı";
-$locale['u171'] = "Hesabınız doğrulandı.";
-$locale['u172'] = "Üye başarıyla eklendi.";
+$locale['u167'] = "Aşağıdaki Sebeplerden Dolayı:";
+$locale['u168'] = "Lütfen Tekrar Deneyin.";
+$locale['u169'] = "Profil Güncellendi";
+$locale['u170'] = "Kayıt Başarılı";
+$locale['u171'] = "Hesabınız Doğrulandı.";
+$locale['u172'] = "Üye Başarıyla Eklendi.";
 $locale['u173'] = "Kullanıcı Yönetimine dön.";
-$locale['u174'] = "Başka üye ekle.";
+$locale['u174'] = "Başka Üye Ekle.";
 // Avatar upload
-$locale['u180'] = "Avatar resmi yüklenirken hata oluştu";
+$locale['u180'] = "Avatar Resmi Yüklenirken Hata Oluştu";
 
-$locale['u184'] = "En yüksek dosya boyutu: %s / En yüksek boyut: %ux%u piksel";
+$locale['u184'] = "En Yüksek Dosya Boyutu: %s / En Yüksek Boyut: %ux%u piksel";
 $locale['u185'] = "Avatar";
-$locale['u186'] = "Bir resim yüklemek için Gözat'ı tıklayın";
-$locale['u187'] = "Sil";
+$locale['u186'] = "Bir Resim Yüklemek Için Gözat'ı Tıklayın";
 // Captcha and terms
 $locale['u190'] = "Doğrulama Kodu";
 $locale['u191'] = "Doğrulama Kodunu Giriniz";
 $locale['u192'] = "Sözleşme Şartları";
-$locale['u193'] = "[LINK]Sözleşme Şartları[/LINK]nı okudum ve kabul ediyorum.";
+$locale['u193'] = "[LINK]Sözleşme Şartları[/LINK]nı Okudum Ve Kabul Ediyorum.";
 $locale['u193a'] = "Güncellendi";
-$locale['u193b'] = "Kabul ediyorum";
-$locale['u194'] = "Yanlış doğrulama kodu.";
-$locale['u195'] = "Captcha kodu boş bırakılamaz.";
+$locale['u193b'] = "Kabul Ediyorum";
+$locale['u194'] = "Yanlış Doğrulama Kodu.";
+$locale['u195'] = "Captcha Kodu Boş Bırakılamaz.";
 // E-mail Change Confirmation
-$locale['u200'] = "Yeni e-posta adresinize (%s) bir doğrulama e-postası gönderildi. Lütfen e-postanızı kontrol edin.";
-$locale['u201'] = "E-posta adresiniz, postadaki bağlantıyı tıkladığınızda değişecektir.";
-$locale['u202'] = "E-posta adresi doğrulama - [SITENAME]";
-$locale['u203'] = "Merhaba [USER_NAME],\n
-Birisi bu e-posta adresini sitemizdeki hesabında belirledi.\n
-E-posta adresinizi bu adrese değiştirmek istiyorsanız lütfen aşağıdaki bağlantıyı tıklayın:\n
-[EMAIL_VERIFY_LINK]\n
-Not: devam etmek için giriş yapmanız gerekiyor.\n
+$locale['u200'] = "Yeni E-Posta Adresinize (%s) Bir Doğrulama E-Postası Gönderildi. Lütfen E-Postanızı Kontrol Edin.";
+$locale['u201'] = "E-Posta Adresiniz, Postadaki Bağlantıyı Tıkladığınızda Değişecektir.";
+$locale['u202'] = "E-Posta Adresi Doğrulama - [SITENAME]";
+$locale['u203'] = "Merhaba [USER_NAME],<br/>
+Birisi Bu E-Posta Adresini Sitemizdeki Hesabında Belirledi.<br/>
+E-Posta Adresinizi Bu Adrese Değiştirmek Istiyorsanız Lütfen Aşağıdaki Bağlantıyı Tıklayın:<br/>
+[EMAIL_VERIFY_LINK]<br/>
+Not: Devam Etmek İçin Giriş Yapmanız Gerekiyor.<br/>
 Saygılarımızla,
-[SITEUSERNAME]\n\r
+[SITEUSERNAME]<br/>
 [SITENAME]";
 
 $locale['u210'] = "Kullanıcı İtibarı";

@@ -1,4 +1,3 @@
 <?php
-$locale['pl_profiles_title'] = "User Profile";
-$locale['pl_profiles_desc'] = "Enable Permalinks for the links to profile of Members.";
-
+$locale['pl_profiles_title'] = "Kullanıcı Profili";
+$locale['pl_profiles_desc'] = "Kullanıcı Profili Linkleri İçin Kalıcı Bağlantıları Etkinleştir..";

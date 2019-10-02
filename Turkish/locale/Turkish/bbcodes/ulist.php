@@ -1,7 +1,6 @@
 <?php
-$locale['bb_ulist_description'] = "Creates unordered list from specified type";
-$locale['bb_ulist_usage'] = "Text 1 :enter: Text 2 :enter: etc";
-$locale['bb_ulist_1'] = "disc";
-$locale['bb_ulist_2'] = "circle";
-$locale['bb_ulist_3'] = "square";
-
+$locale['bb_ulist_description'] = "Seçili ayraca sahip sıralı liste oluşturur";
+$locale['bb_ulist_usage'] = "Metin 1 :enter: Metin 2 :enter: vs.";
+$locale['bb_ulist_1'] = "daire";
+$locale['bb_ulist_2'] = "çember";
+$locale['bb_ulist_3'] = "kare";

@@ -1,14 +1,13 @@
 <?php
-/**
- * @Translated by ALTUN Web Site(https://alapelit.com)
- */
 $locale['r100'] = "Derecelendirmeler";
-$locale['r101'] = "Hiç bir derecelendirme yapılmadı.";
+$locale['r101'] = "Hiç Bir Derecelendirme Yapılmadı.";
 $locale['r102'] = "Derecelendirmeni Kaldır";
 $locale['r103'] = "Derecelendirmeni Gönder";
-$locale['r104'] = "Derecelendirme yalnızca üyeler tarafından kullanılabilir.\n\nOy vermek için lütfen [RATING_ACTION] yapın.";
-$locale['r105'] = "Bunu %s de %s olarak derecelendirdiniz.";
-$locale['r106'] = "Lütfen oyunuzu seçin";
+$locale['r104'] = "Derecelendirme Yalnızca Üyeler Tarafından Kullanılabilir.
+
+Oy Vermek için Lütfen [RATING_ACTION] Yapın.";
+$locale['r105'] = "Bunu %s de %s Olarak Derecelendirdiniz.";
+$locale['r106'] = "Lütfen Oyunuzu Seçin";
 $locale['r107'] = "Oy Seç:";
 $locale['r108'] = "Oy Yok";
 $locale['r109'] = "Oy";

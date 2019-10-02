@@ -1,22 +1,33 @@
 <?php
-$locale['email_create_subject'] = "Account created at [SITENAME]";
-$locale['email_create_message'] = "Hello [USER_NAME],\n
-Your account at [SITENAME] has been created.\nYou can now login using the following details:\n
-username: [USER_NAME]\n
-password: [PASSWORD]\n\nRegards,\n[SITEUSERNAME]";
-$locale['email_activate_subject'] = "Account activated at [SITENAME]";
-$locale['email_activate_message'] = "Hello [USER_NAME],\nYour account at [SITENAME] has been activated.\n
-You can now login using your chosen username and password.\n\nRegards,\n[SITEUSERNAME]";
-$locale['email_deactivate_subject'] = "Account reactivation required at [SITENAME]";
-$locale['email_deactivate_message'] = "Hello [USER_NAME],\nIt has been [DEACTIVATION_PERIOD] day(s) since you last logged in at [SITENAME]. Your user has been marked as inactive but all your account details and content remains intact.\n\n
-To reactivate your account simply click the following link: [REACTIVATION_LINK]\n\nRegards,\n[SITEUSERNAME]";
-$locale['email_ban_subject'] = "Your account on [SITENAME] has been banned";
-$locale['email_ban_message'] = "Hello [USER_NAME],\nYour account on [SITENAME] has been banned by [ADMIN_USERNAME] because of the following reason:\n
-[REASON]\nIf you want more information about this ban, please, contact the site administrator at [SITENAME].\n\nRegards,\n[SITEUSERNAME]";
-$locale['email_secban_subject'] = "Your account on [SITENAME] has been banned";
-$locale['email_secban_message'] = "Hello [USER_NAME],\nYour account on [SITENAME] has been banned by [ADMIN_USERNAME] because of some actions accredited to you or linked to your account were considered a security threat to the site.\n
-If you want more information about this security ban, please, contact the site administrator at [SITENAME].\n\nRegards,\n[SITEUSERNAME]";
-$locale['email_suspend_subject'] = "Your account on [SITENAME] has been suspended";
-$locale['email_suspend_message'] = "Hello [USER_NAME],\n
-Your account on [SITENAME] has been suspended by [ADMIN_USERNAME] until [DATE] (site time) because of the following reason:\n
-[REASON]\nIf you want more information about this suspension, please, contact the site administrator at [SITENAME].\n\nRegards,\n[SITEUSERNAME]";
+$locale['email_create_subject'] = "[SITENAME] Adresinde Hesap Oluşturuldu";
+$locale['email_create_message'] = "Merhaba [USER_NAME],<br/>
+[SITENAME] Adresindeki Hesabınız Oluşturuldu.<br/>Şimdi Aşağıdaki Ayrıntıları Kullanarak Giriş Yapabilirsiniz:<br/>
+Kullanıcı Adı: [USER_NAME]<br/>
+Parola: [PASSWORD]<br/><br/>Saygılarımızla,<br/>[SITEUSERNAME]";
+
+$locale['email_activate_subject'] = "[SITENAME] Adresinden Hesap Etkinleştirildi";
+$locale['email_activate_message'] = "Merhaba [USER_NAME],<br/>[SITENAME] Adresindeki Hesabınız Etkinleştirildi.<br/>
+Şimdi, Seçtiğiniz Kullanıcı Adı Ve Şifresini Kullanarak Giriş Yapabilirsiniz.<br/><br/>Saygılarımızla,<br/>[SITEUSERNAME]";
+
+$locale['email_deactivate_subject'] = "[SITENAME] Adresindeki Hesabın Yeniden Etkinleştirilmesi Gerekiyor";
+$locale['email_deactivate_message'] = "Merhaba [USER_NAME],<br/>[SITENAME] Adresinde En Son Giriş Yaptığınız Günden [DEACTIVATION_PERIOD] Gün Geçti. Kullanıcınız Etkin Olmayan Olarak İşaretlendi Ancak Tüm Hesap Ayrıntılarınız Ve İçeriğiniz Bozulmadan Kaldı.<br/><br/>
+Hesabınızı Yeniden Etkinleştirmek İçin Aşağıdaki Bağlantıyı Tıklamanız Yeterlidir: [REACTIVATION_LINK]<br/><br/>Saygılarımızla,<br/>[SITEUSERNAME]";
+
+$locale['email_ban_subject'] = "[SITENAME] Üzerindeki Hesabınız Yasaklandı";
+$locale['email_ban_message'] = "Merhaba [USER_NAME],<br/>[SITENAME] Üzerindeki Hesabınız Şu Nedenden Dolayı, [ADMIN_USERNAME] Tarafından Yasaklandı:<br/>
+[REASON]<br/>Bu Yasak Hakkında Daha Fazla Bilgi Istiyorsanız, Lütfen [SITENAME] Adresindeki Site Yöneticisine Başvurun.<br/><br/>Saygılarımızla,<br/>[SITEUSERNAME]";
+
+$locale['email_secban_subject'] = "[SITENAME] Üzerindeki Hesabınız Yasaklandı";
+$locale['email_secban_message'] = "Merhaba [USER_NAME],<br/>[SITENAME] Üzerindeki Hesabınız [ADMIN_USERNAME] Tarafından Yasaklandı, Çünkü Size Akredite Edilmiş Veya Hesabınıza Bağlı Bazı İşlemler Siteyle İlgili Bir Güvenlik Tehdidi Olarak Değerlendirildi.<br/>
+Bu Güvenlik Yasağı Hakkında Daha Fazla Bilgi Istiyorsanız, Lütfen [SITENAME] Adresinden Site Yöneticisine Başvurun.<br/><br/>Saygılarımızla,<br/>[SITEUSERNAME]";
+
+$locale['email_suspend_subject'] = "[SITENAME] Üzerindeki Hesabınız Askıya Alındı";
+$locale['email_suspend_message'] = "Merhaba [USER_NAME],<br/>
+[SITENAME] Üzerindeki Hesabınız Şu Nedenden Dolayı [ADMIN_USERNAME] Tarafından [DATE] Tarihine Kadar (Site Zamanı) Askıya Alındı:<br/>
+[REASON]<br/>Bu Askıya Alma Hakkında Daha Fazla Bilgi Istiyorsanız, Lütfen [SITENAME] Adresindeki Site Yöneticisine Başvurun.<br/><br/>Saygılarımızla,<br/>[SITEUSERNAME]";
+
+$locale['email_resend_subject'] = "[SITENAME] - Aktivasyon Linki Tekrar Gönderildi";
+$locale['email_resend_message'] = "Merhaba [USER_NAME],<br/>
+[SITENAME] Üzerindeki Hesabınızı Etkinleştirmediğiniz İçin Bu E-Postayı Aldınız.<br/> Bir Gün Içinde Bir E-Postayı Etkinleştirmezseniz, Kayıt Isteğiniz Iptal Edilir. <br/>
+Aşağıdaki Bilgilerle Kayıt Oldunuz:<br/>Kullanıcı Adı: [USER_NAME]<br/>
+Hesabınızı Etkinleştirmek İçin Aşağıdaki Bağlantıyı Tıklamanız Yeterlidir<br/>[ACTIVATION_LINK]<br/>Saygılarımızla,<br/>[SITENAME]";

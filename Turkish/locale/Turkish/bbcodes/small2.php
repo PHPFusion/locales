@@ -1,4 +1,3 @@
 <?php
-$locale['bb_small2_description'] = "Displays selected text as alt. small";
-$locale['bb_small2_usage'] = "Text to alt. small";
-
+$locale['bb_small2_description'] = "Seçili metni alternatif küçük olarak görüntüler";
+$locale['bb_small2_usage'] = "Alternatif küçük gözükecek metin";
