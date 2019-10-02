@@ -1,0 +1,135 @@
+<?php
+// Standard
+$locale['400'] = "الرسائل الخاصة";
+$locale['401'] = "الرسائل الجديدة";
+$locale['402'] = "البريد الوارد";
+$locale['403'] = "البريد الصادر";
+$locale['404'] = "الأرشيف";
+$locale['405'] = "الموضوع";
+$locale['406'] = "من";
+$locale['407'] = "التاريخ";
+$locale['408'] = "صاحب الموقع";
+$locale['409'] = "Do with the checked items:";
+$locale['410'] = "تحديد الكل";
+$locale['411'] = "إلغاء تحديد الكل";
+$locale['412'] = "حفظ";
+$locale['413'] = "Unsave";
+$locale['414'] = "قراءة";
+$locale['415'] = "Unread";
+$locale['416'] = "حذف المحادثة";
+$locale['417'] = "إظهار المرسل مع الرسائل:";
+$locale['418'] = "الكل";
+$locale['419'] = "You have no Private Messages";
+$locale['420'] = "Send Private Message";
+$locale['420a'] = "Recipient";
+$locale['421'] = "Find user...";
+$locale['422'] = "الرسالة";
+$locale['423'] = "محرر النصوص";
+$locale['424'] = "رموز التعبير";
+$locale['425'] = "الخيارات";
+$locale['426'] = "إرسال";
+$locale['427'] = "تعطيل رموز التعبير (smileys) في نص الرسالة";
+$locale['428'] = "عرض التوقيع في الرسالة";
+$locale['429'] = "معاينة";
+$locale['430'] = "إرسال";
+$locale['431'] = "قراءة الرسالة الخاصة";
+$locale['432'] = "Close";
+$locale['433'] = "الرد";
+$locale['434'] = "Send to All";
+$locale['437'] = "إرسال";
+$locale['439'] = "الرد";
+$locale['440'] = "(received %s)";
+$locale['441'] = "Write as Site Owner";
+$locale['442'] = "مستوى العضو";
+$locale['443'] = "المجموعات";
+$locale['444'] = "المزيد";
+$locale['445'] = "تم حفظ الإعدادات";
+$locale['446'] = "رسائل غير مقروءة";
+$locale['447'] = "قراءة الرسالة";
+$locale['448'] = "الاعدادات";
+
+// Search Options -- this is used by Search.php
+$locale['450'] = "خيارات البحث والفرز";
+$locale['451'] = "البحث / الترتيب";
+$locale['452'] = "Clear";
+$locale['453'] = "لم يتم العثور على شيء أثناء البحث";
+$locale['454'] = "البحث عن";
+$locale['455'] = "في";
+$locale['456'] = "الترتيب حسب";
+$locale['457'] = "(إستخدم علامة الإستفهام ؟ او النجمة * للبحث بنطاق أوسع)";
+$locale['458'] = "عرض الأعضاء حاليا مع '%s' في '%s' ";
+$locale['459'] = "المرسل يبدأ بـ '%s' ";
+$locale['460'] = "الترتيب حسب '%s'";
+$locale['461'] = "قائمة الرسائل فارغة"; // del
+$locale['462'] = "الموضوع";
+$locale['463'] = "الرسالة";
+$locale['464'] = "المرسل";
+$locale['465'] = "تاريخ/وقت الاستلام";
+$locale['466'] = "لم يتم التحديد";
+$locale['467'] = "لم يتم تحديد أي محادثة";
+$locale['468'] = "بدء محادثة جديدة مع %s";
+$locale['469'] = "الرد على %s";
+
+$locale['471'] = "لا توجد رسائل";
+
+// Error Messages
+$locale['480'] = "خطأ";
+$locale['481'] = "تعريف الرسالة خطأ";
+$locale['482'] = "تعريف العضو خطأ";
+$locale['483'] = "للأعضاء فقط";
+$locale['484'] = "Your Private Messaging facility has been withdrawn due to misuse.";
+$locale['485'] = "الرجاء إختيار رسالة واحدة على الأقل";
+$locale['486'] = "يجب كتابة عنوان الرسالة و موضوع الرسالة";
+$locale['487'] = "Flooding! Please wait %s seconds before you write the next message.";
+$locale['488'] = "حدث خطأ غير معروف في الرسالة، ";
+$locale['489'] = "Message archived";
+$locale['489b'] = "Message unarchived";
+$locale['490'] = "تم حذف الرسالة";
+$locale['491'] = "تم الإرسال";
+$locale['492'] = "لا يوجد أعضاء في هذه المجموعة.";
+$locale['493'] = "تحديد الكل كمقروء";
+$locale['494'] = "تحديد كمقروء";
+$locale['495'] = "تحديد كغير مقروء";
+$locale['496'] = "تحديد الكل كغير مقروء";
+
+// Tooltips
+$locale['500'] = "كتابة رسالة جديدة";
+$locale['501'] = "لمشاهدة الرسائل الواردة";
+$locale['502'] = "مشاهدة الرسائل الصادرة";
+$locale['503'] = "لمشاهدة الرسائل المحفوظة";
+$locale['504'] = "لتحديد هذة الرسالة";
+$locale['505'] = "لمشاهدة هذة الرسالة";
+$locale['506'] = "مشاهدة الملف الشخصي للمرسلين";
+$locale['507'] = "تحديد جميع الرسائل";
+$locale['508'] = "إلغاء تحديد جميع الرسائل";
+$locale['509'] = "جميع الرسائل من كل المرسلين";
+$locale['510'] = "الرسائل من المرسلين الذي تبداً بـ %s";
+$locale['511'] = "Click to move the marked messages to your savebox";
+$locale['512'] = "Click to move the marked messages to your inbox";
+$locale['513'] = "Click to set the marked messages as read";
+$locale['514'] = "Click to set the marked messages as unread";
+$locale['515'] = "Click to delete the marked messages";
+$locale['516'] = "Click to make configuration changes";
+$locale['520'] = "الإفتراضي";
+$locale['521'] = "Do not notify me";
+$locale['522'] = "Yes, keep me informed";
+$locale['523'] = "Do not keep a record";
+$locale['524'] = "Yes, keep my sent messages";
+
+// Options
+$locale['620'] = "الاعدادات";
+$locale['621'] = "Notify me via email when I receive a new PM:";
+$locale['622'] = "أرشفة الرسائل تلقائياً:";
+$locale['623'] = "حفظ الإعدادات";
+$locale['624'] = "تم حفظ الإعدادات";
+$locale['625'] = "لديك رسالة خاصة جديدة في ".fusion_get_settings('sitename');
+$locale['626'] = ",<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can [LINK]read[/LINK] your private message.You can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.";
+$locale['627'] = "خطأ";
+$locale['628'] = "لا يمكن إرسال رسالة خاصة. الصندوق الوارد ممتلئ.";
+$locale['629'] = "You cannot move the selected message(s) into the specified folder as it will exceed the maximum message limit.";
+$locale['630'] = " Message Limit";
+
+$locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
+$locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
+$locale['702'] = "Message Recipient User ID is invalid";
+$locale['703'] = "You are flooding, send_pm halted";

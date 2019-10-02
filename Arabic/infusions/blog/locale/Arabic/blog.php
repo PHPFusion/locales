@@ -1,0 +1,21 @@
+<?php
+$locale['blog_1000'] = "المدونة";
+$locale['blog_1001'] = "الصفحة الرئيسية للمدونة";
+$locale['blog_1003'] = "تصنيف المدونة";
+$locale['blog_1004'] = "أرشيف المدونة";
+$locale['blog_1005'] = "كاتب المدونة";
+$locale['blog_1006'] = "اقرأ المزيد";
+$locale['blog_2001'] = "أحدث المدونات";
+$locale['blog_2002'] = "أكثر المدونات تعليقاً";
+$locale['blog_2003'] = "أعلى المدونات تصنيفاً";
+$locale['blog_3000'] = "لم يتم إدخال أي مدونات حتى الأن";
+$locale['blog_3001'] = "بدون تصنيف";
+$locale['blog_3002'] = "لا توجد مشاركات";
+$locale['blog_3003'] = "بدون كاتب";
+$locale['testimonial_rank'] = "أنا الـ %s لهذا الموقع";
+$locale['testimonial_location'] = "أنا اعيش حالياً في %s";
+$locale['testimonial_join'] = "أنا اشتركت في هذا الموقع في %s";
+$locale['testimonial_web'] = "ولدي أيضاً موقع أخر وهو %s";
+$locale['testimonial_contact'] = "إذا اردت التواصل معي, يمكنك ذلك بواسطة %s";
+$locale['testimonial_email'] = "ويمكنك كذلك التواصل معي من خلال البريد الإلكتروني %s";
+$locale['blog_archive'] = "%b%Y";
