@@ -1,5 +1,5 @@
 <?php
-// Items shown in profiles
+// Items shown in profile
 $locale['u040'] = "Fecha de Registro";
 $locale['u041'] = "Última Visita";
 $locale['u042'] = "Nunca";
@@ -28,11 +28,10 @@ $locale['u064'] = "Email";
 $locale['u066'] = "Fecha de Registro";
 $locale['u067'] = "Última Visita";
 $locale['u068'] = "Nombre de Usuario";
-$locale['u069'] = "Editar";
 $locale['u070'] = "Expulsar";
 $locale['u071'] = "Suspender";
-$locale['u072'] = "Borrar";
 $locale['u073'] = "¿Borrar este usuario?";
+$locale['u074'] = "Unban";
 // Profile and register
 $locale['u100'] = "Para cambiar tu contraseña o tu dirección de email, debes indicar tu contraseña actual.";
 $locale['u101'] = "Registro";
@@ -60,7 +59,9 @@ $locale['u113'] = "Nombre de Usuario";
 $locale['u114'] = "Tipo de Usuario";
 $locale['u115'] = "Idioma";
 $locale['u116'] = "No hay miembros del grupo";
+$locale['u117'] = "No user groups.";
 // User name and email
+$locale['u119'] = "User name contains.";
 $locale['u120'] = "El nombre de usuario contiene caracteres no válidos.";
 $locale['u121'] = "El nombre de usuario que has elegido ya está registrado.";
 $locale['u122'] = "El nombre de usuario no puede dejarse vacío.";
@@ -95,22 +96,25 @@ $locale['u144'] = "Nueva Contraseña de Administrador";
 $locale['u144a'] = "Contraseña de administrador actual";
 $locale['u145'] = "Confirmar la Contraseña";
 $locale['u146'] = " no puede ser la misma que tu actual ";
-$locale['u147'] = "Las contraseñas deben tener entre 8 y 64 caracteres de longitud.\nSe admiten letras (a-z), números (0-9) y los símbolos: @!#$%&\/()=-_?+*.,:;";
+$locale['u147'] = "Las contraseñas deben tener entre 8 y 64 caracteres de longitud.
+Se admiten letras (a-z), números (0-9) y los símbolos: @!#$%&\\/()=-_?+*.,:;";
 $locale['u148'] = "Las nuevas contraseñas de usuario no son iguales.";
 $locale['u148a'] = "Las nuevas contraseñas de administrador no son iguales.";
 $locale['u149'] = "No has indicado tu actual contraseña de usuario o no es válida.";
 $locale['u149a'] = "No has indicado tu actual contraseña de administrador o no es válida.";
-$locale['u149b'] = "Su contraseña de acceso actual no ha sido especificada o no es válida.\nNo se puede establecer la contraseña de administrador sin la contraseña de acceso correcta.";
-// Email actiation
+$locale['u149b'] = "Su contraseña de acceso actual no ha sido especificada o no es válida.
+No se puede establecer la contraseña de administrador sin la contraseña de acceso correcta.";
+// Email activation
 $locale['u150'] = "Tu registro está casi completo. Recibirás un email conteniendo tus datos de inicio de sesión, así como un enlace para verificar tu cuenta.";
 $locale['u151'] = "Bienvenido a [SITENAME]";
-$locale['u152'] = "Hola USER_NAME,\n\r
-Te damos la bienvenida a SITENAME. Aquí tienes tus datos de usuario:\n\r
-Nombre de Usuario: USER_NAME\n\r
-Contraseña: USER_PASSWORD\n\r
-Ahora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK\n\n\r\r
-Saludos,\n\r
-SITEUSERNAME";
+$locale['u152'] = "Hola USER_NAME,
+\r\nTe damos la bienvenida a SITENAME. Aquí tienes tus datos de usuario:
+\r\nNombre de Usuario: USER_NAME
+\r\nContraseña: USER_PASSWORD
+\r\nAhora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK
+
+\r\nSaludos,
+\r\nSITEUSERNAME";
 
 $locale['u153'] = "No se ha podido enviar el email de activación.";
 $locale['u154'] = "Contacta con el [LINK]Administrador del Portal.[/LINK].";
@@ -122,8 +126,8 @@ $locale['u161'] = "Ahora puedes iniciar sesión.";
 $locale['u162'] = "El Administrador activará tu cuenta lo antes posible.";
 $locale['u163'] = "El perfil ha sido actualizado correctamente.";
 $locale['u164'] = "Ha fallado la actualización";
+$locale['u165'] = "Email has been resended.";
 
-//$locale['u165'] = "Registration failed";
 $locale['u167'] = "por lo siguiente:";
 $locale['u168'] = "Vuelve a intentarlo.";
 $locale['u169'] = "Perfil Actualizado";
@@ -138,7 +142,6 @@ $locale['u180'] = "Hay un error cargando imagen de avatar";
 $locale['u184'] = "Tamaño Máx. Archivo: %s / Dimensiones Máx.: %u x %u píxeles";
 $locale['u185'] = "Avatar";
 $locale['u186'] = "Pulsa el botón Examinar para transferir una imagen";
-$locale['u187'] = "Borrar";
 // Captcha and terms
 $locale['u190'] = "Código de Validación";
 $locale['u191'] = "Introduce el Código de Validación";
@@ -152,13 +155,20 @@ $locale['u195'] = "El código de validación no puede dejarse vacío.";
 $locale['u200'] = "Ha sido enviado un email de verificación a tu nueva dirección de email (%s).";
 $locale['u201'] = "Tu dirección de email será cambiada cuando pulses el enlace contenido en el email de verificación.";
 $locale['u202'] = "Verificación de Email - [SITENAME]";
-$locale['u203'] = "Hola [USER_NAME],\n
-Ha sido solicitada la configuración de esta dirección de email en una cuenta de nuestro sitio web.\n
-Si realmente quieres cambiar tu dirección de email, pulsa el siguiente enlace:\n
-[EMAIL_VERIFY_LINK]\n
-Nota: tienes que haber iniciado sesión para proceder.\n
-Saludos,\n
-[SITEUSERNAME]\n
+$locale['u203'] = "Hola [USER_NAME],
+
+Ha sido solicitada la configuración de esta dirección de email en una cuenta de nuestro sitio web.
+
+Si realmente quieres cambiar tu dirección de email, pulsa el siguiente enlace:
+
+[EMAIL_VERIFY_LINK]
+
+Nota: tienes que haber iniciado sesión para proceder.
+
+Saludos,
+
+[SITEUSERNAME]
+
 [SITENAME]";
 
 $locale['u210'] = "Reputación del usuario";

@@ -18,8 +18,8 @@ $locale['page_0115'] = "Todos los autores";
 $locale['page_0116'] = "Seleccionar Autor";
 $locale['page_0117'] = "Por favor, especifique un título de página"; // 451
 $locale['page_0118'] = "Acciones";
-// Títulos de páginas personalizadas
-$locale['page_0200'] = "Añadir nueva página"; // ex 400
+// Custom Pages titles
+$locale['page_0200'] = "Añadir nueva página"; //ex 400
 $locale['page_0201'] = "Editar página"; // ex 401
 $locale['page_0202'] = "Configuración de página";
 $locale['page_0203'] = "Visual Page Composer";
@@ -34,6 +34,7 @@ $locale['page_0305'] = "Estado de la página";
 $locale['page_0306'] = "Visibilidad de la página";
 $locale['page_0307'] = "Publicado en";
 $locale['page_0308'] = "Categoría de página";
+$locale['page_0308a'] = "Automatic Line breaks";
 $locale['page_0309'] = "Atributos de enlaces de sitio";
 $locale['page_0310'] = "No se han definido enlaces de sitio";
 $locale['page_0311'] = "Agregar vínculos al sitio";
@@ -91,3 +92,4 @@ $locale['page_0412'] = "Columna no válida";
 $locale['page_0413'] = "¿Eliminar esta página personalizada?"; // 450
 $locale['page_0440'] = "No hay página personalizada definida";
 $locale['page_0441'] = "Contenido";
+$locale['page_0442'] = "You must choose at least one Page";

@@ -1,15 +1,12 @@
 <?php
-// Titles
-$locale['400'] = "Archivo robots.txt";
-// Messages
-$locale['410'] = "¿Estás seguro? Se aplicará al archivo robots.txt la configuración predeterminada.";
-$locale['411'] = "El archivo robots.txt no existe. Crea el archivo en el diretorio raíz (root) y vuelve a intentarlo.";
-$locale['412'] = "Actualizado el archivo robots.txt.";
-$locale['413'] = "Se ha producido el siguinte error:";
-$locale['414'] = "El archivo robots.txt no tiene permisos de escritura.";
-$locale['415'] = "No se puede escribir en el archivo robots.txt.";
-// Edit form
-$locale['420'] = "Editar el archivo robots.txt";
-$locale['421'] = "Información y ayuda sobre el archivo robots.txt.";
-$locale['422'] = "Guardar";
-$locale['423'] = "Configuración Predeterminada";
+$locale['ROBOT_400'] = "robots.txt";
+$locale['ROBOT_410'] = "Are you sure? robots.txt file will be set to default.";
+$locale['ROBOT_411'] = "robots.txt file does not exist. You can create this file in the root directory.";
+$locale['ROBOT_412'] = "robots.txt file updated.";
+$locale['ROBOT_414'] = "robots.txt file is not writable.";
+$locale['ROBOT_416'] = "robots.txt file Create.";
+$locale['ROBOT_417'] = "robots.txt content incorrect. Please use a valid content.";
+$locale['ROBOT_420'] = "Edit your robots.txt file";
+$locale['ROBOT_421'] = "[LINK]You can find more information and help about the robots.txt here.[/LINK]";
+$locale['ROBOT_422'] = "New robots.txt file Created";
+$locale['ROBOT_423'] = "Set back to default";

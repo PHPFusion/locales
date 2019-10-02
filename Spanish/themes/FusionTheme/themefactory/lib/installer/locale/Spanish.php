@@ -4,7 +4,7 @@ $locale['homeSetup_0201'] = 'Sí, instalar la página';
 $locale['homeSetup_0202'] = 'No, gracias';
 
 /*
-* Configuración de inicio
+* Home setup
 */
 $locale['homeSetup_0100'] = 'Inicio';
 $locale['homeSetup_0101'] = 'Bienvenido a su sitio web PHP-Fusion 9';

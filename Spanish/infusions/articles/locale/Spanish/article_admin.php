@@ -53,6 +53,7 @@ $locale['article_0150'] = "Nombre";
 $locale['article_0152'] = "Estado";
 $locale['article_0161'] = "¿Eliminar esta categoría?";
 $locale['article_0162'] = "No hay categorías definidas.";
+$locale['article_0163'] = "Article Subject";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Submissioner";
 $locale['article_0203'] = "Fecha";
@@ -74,7 +75,8 @@ $locale['article_0270'] = "Debe especificar un Asunto.";
 $locale['article_0271'] = "Debe especificar un fragmento.";
 $locale['article_0272'] = "Debe especificar un artículo.";
 $locale['article_0273'] = "Debe elegir una categoría.";
-$locale['article_0274'] = "%s está deshabilitado para todos los elementos.\n\rEsta configuración sólo tendrá efecto cuando se vuelven a habilitar.";
+$locale['article_0274'] = "%s está deshabilitado para todos los elementos.
+Esta configuración sólo tendrá efecto cuando se vuelven a habilitar.";
 $locale['article_0303'] = "Parent";
 $locale['article_0304'] = "Descripción";
 $locale['article_0320'] = "Debe especificar un nombre.";
@@ -97,3 +99,4 @@ Debe ser aplicable al contenido de este sitio. Las presentaciones inadecuadas se
 $locale['article_0921'] = "Debe iniciar sesión para enviar un artículo.";
 $locale['article_0922'] = "No aceptamos nuevas presentaciones de artículos en el momento.";
 $locale['article_0923'] = "No puedes enviar un artículo, porque no hay categorías definidas.";
+$locale['article_submit'] = "%s Articles";

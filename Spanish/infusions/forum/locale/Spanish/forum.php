@@ -3,6 +3,8 @@ $locale['error-DP001'] = "No hay publicaciones que eliminar.";
 $locale['error-MP000'] = "Mover mensajes - error";
 $locale['error-MP001'] = "El nuevo hilo no existe.";
 $locale['error-MP002'] = "Los mensajes que están marcado para mover No existen o alguien ya los movió.";
+
+
 $locale['forum_0000'] = "Foro de Discusión";
 $locale['forum_0001'] = "Foro";
 $locale['forum_0002'] = "Hilos";
@@ -18,6 +20,19 @@ $locale['forum_0011'] = "Mis publicaciones";
 $locale['forum_0012'] = "Últimos Hilos";
 $locale['forum_0013'] = "Categorías del foro";
 $locale['forum_0014'] = "Reputación";
+$locale['forum_0015'] = "Forum Overview";
+$locale['forum_0016'] = "Activity";
+$locale['forum_0017'] = "People";
+$locale['forum_0018'] = "Person";
+$locale['forum_0019'] = "There are no sub-forums available";
+
+$locale['forum_0020'] = "Last Activity";
+$locale['forum_0021'] = "on %s by %s";
+$locale['forum_0022'] = "Responded in";
+$locale['forum_0023'] = "Re:";
+$locale['forum_0024'] = "See the full discussion posts";
+
+
 $locale['forum_0050'] = "Ver Foro";
 $locale['forum_0051'] = "Asunto";
 $locale['forum_0052'] = "Autor";
@@ -26,6 +41,8 @@ $locale['forum_0054'] = "Respuestas";
 $locale['forum_0055'] = "Página:";
 $locale['forum_0056'] = "No se han iniciado Hilos";
 $locale['forum_0057'] = "Iniciar un nuevo hilo";
+$locale['forum_0058'] = "Ask a Question";
+
 $locale['forum_0080'] = "Marcar todo";
 $locale['forum_0081'] = "Desmarcar todo";
 $locale['forum_0082'] = "Eliminar hilos";
@@ -106,14 +123,20 @@ $locale['forum_0260'] = "Nuevos mensajes";
 $locale['forum_0261'] = "No hay nuevos mensajes";
 $locale['forum_0262'] = "Tema pegajoso";
 $locale['forum_0263'] = "Hilo bloqueado";
-$locale['forum_0264'] = "Iniciar Nuevo Tema";
-$locale['forum_0265'] = "Editar";
+
 $locale['forum_0266'] = "Cotizar";
 $locale['forum_0267'] = "escribió";
 $locale['forum_0268'] = "IP de usuario";
 $locale['forum_0269'] = "No se encontraron hilos.";
 $locale['forum_0270'] = "No se encontró ninguna publicación.";
 $locale['forum_0271'] = "No hay ninguna publicación en este hilo más. Por favor regrese a la &lt;a href=&#039;../../infusions/forum/index.php&#039;&gt;Índice del Foro&lt;/a&gt;";
+$locale['forum_0272'] = "Filter by Tags";
+$locale['forum_0273'] = "Popular Threads This Week";
+$locale['forum_0274'] = "There are no thread tags";
+$locale['forum_0275'] = "There are no threads found";
+$locale['forum_0276'] = "There are no tags defined";
+
+$locale['forum_0300'] = "Move to a new thread";
 $locale['forum_0301'] = "Seleccionar nuevo foro";
 $locale['forum_0302'] = "Siguiente";
 $locale['forum_0303'] = "Seleccionar nuevo hilo";
@@ -157,7 +180,9 @@ $locale['forum_0396'] = "Confirmar selección de foro";
 $locale['forum_0397'] = "No hay foro definido.";
 $locale['forum_0398'] = "Imposible descargar el archivo";
 $locale['forum_0399'] = "Agregar Gratificación";
+
 $locale['forum_0400'] = "La recompensa del hilo ha sido actualizada. Asegúrese de seleccionar la respuesta que se otorgará con la recompensa";
+
 $locale['forum_0500'] = "Vista previa del hilo";
 $locale['forum_0501'] = "Publicar hilo";
 $locale['forum_0505'] = "Vista previa de cambios";
@@ -224,6 +249,9 @@ $locale['forum_0591'] = "Poner a ras";
 $locale['forum_0592'] = "Hilos al ras";
 $locale['forum_0593'] = "Adjuntos al ras";
 $locale['forum_0595'] = "Encuesta al ras";
+$locale['forum_0596'] = "Pregunta";
+$locale['forum_0597'] = "Question|Questions";
+
 $locale['forum_0601'] = "Mensaje";
 $locale['forum_0602'] = "Opciones";
 $locale['forum_0603'] = "Editar encuesta";
@@ -234,7 +262,6 @@ $locale['forum_0606'] = "Opción de encuesta %s";
 $locale['forum_0607'] = "Encuesta agregada al hilo de discusión.";
 $locale['forum_0608'] = "Agregar opción de encuesta";
 $locale['forum_0609'] = "Actualizar";
-$locale['forum_0610'] = "Eliminar";
 $locale['forum_0611'] = "Editar el motivo";
 $locale['forum_0612'] = "Encuesta editada";
 $locale['forum_0613'] = "El campo marcado con {REQUERIDO} contiene votos o es obligatorio. De lo contrario, déjelo en blanco para eliminar las opciones de encuesta";
@@ -260,6 +287,12 @@ $locale['forum_0661'] = "Hola {USERNAME},
 &#092;nRegistros,
 &#092;n{SITEUSERNAME}
 &#092;n";
+
+$locale['forum_0662'] = "User Options";
+$locale['forum_0663'] = "Edit User";
+$locale['forum_0664'] = "Ban User";
+$locale['forum_0665'] = "Eliminar usuario";
+
 $locale['forum_0701'] = "El hilo ha sido eliminado.";
 $locale['forum_0704'] = "¿Seguro que quieres eliminar este hilo?";
 $locale['forum_0705'] = "No se puede eliminar el hilo porque el hilo no existe";
@@ -312,6 +345,8 @@ $locale['forum_4108'] = "La recompensa ha sido otorgada según lo solicitado.";
 $locale['forum_4109'] = "Recompensa del hilo no adjudicada";
 $locale['forum_4110'] = "No se puede administrar la recompensa de subprocesos.";
 $locale['forum_4120'] = "No hay ID de foro ni id de subproceso definidos. Defina cualquiera de los dos.";
+$locale['forum_4121'] = "There are no activity in this forum.";
+
 $locale['forum_p001'] = "1 día";
 $locale['forum_p002'] = "2 días";
 $locale['forum_p007'] = "1 semana";
@@ -331,5 +366,6 @@ $locale['forum_perm_rate'] = "Has %s upvote o downvote en la publicación en est
 $locale['forum_perm_reply'] = "Has %s respuesta en este hilo de discusión.";
 $locale['forum_perm_upload'] = "Has cargado archivos adjuntos en este foro.";
 $locale['forum_perm_vote_poll'] = "Tu %s voto en la encuesta en este hilo de discusión.";
+
 $locale['success-DP001'] = "Publicación eliminada exitosamente";
 $locale['success-DP002'] = "Todos los mensajes eliminados. Los temas del foro se han eliminado porque ya no contiene ninguna publicación.";

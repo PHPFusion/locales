@@ -1,6 +1,9 @@
 <?php
 $locale['400'] = "Configuración";
-// Configuraciones del sitio
+$locale['401a'] = "Site Host Settings";
+$locale['401b'] = "The configuration for your site url, site port and site protocols.";
+
+// Site Settings
 $locale['401'] = "Principal";
 $locale['402'] = "Nombre del sitio";
 $locale['403'] = "URL del sitio";
@@ -33,7 +36,9 @@ $locale['420'] = "Excluir Paneles Izquierdos:";
 $locale['421'] = "Excluir paneles superiores:";
 $locale['422'] = "Excluir paneles inferiores:";
 $locale['423'] = "Excluir paneles derechos:";
-$locale['424'] = "Ejemplos:\n\r/news.php\n\r/forum/index.php";
+$locale['424'] = "Ejemplos:
+/news.php
+/forum/index.php";
 $locale['425'] = "Dirección del sitio";
 $locale['426'] = "Protocolo del sitio:";
 $locale['427'] = "Anfitrión del sitio";
@@ -58,8 +63,12 @@ $locale['443a'] = "Excluir User 1 paneles";
 $locale['443b'] = "Excluir User 2 paneles";
 $locale['443c'] = "Excluir User 3 paneles";
 $locale['443d'] = "Excluir User 4 paneles";
+$locale['444'] = "Domain Servers";
+$locale['444a'] = "Configuration for multiple domains on a single site.<br/><br/> Separate each domain per row push (\"enter\")";
+$locale['444b'] = "Registered Domain Names <br /> <i>You must write current domain read under Site Host when you enable this feature</i>.";
+$locale['445'] = "Invalid (test purposes)";
 
-// Configuraciones de hora y fecha
+// Time & Date Settings
 $locale['450'] = "Hora y fecha";
 $locale['451'] = "Formato de fecha corta:";
 $locale['452'] = "Formato de fecha larga:";
@@ -87,7 +96,7 @@ $locale['557'] = "¿Nuevos miembros activados por el administrador?";
 $locale['558'] = "¿Habilitar los términos del acuerdo?";
 $locale['559'] = "Términos del acuerdo";
 
-// Otros ajustes
+// Other Settings
 $locale['601'] = "Tamaño del pulgar:";
 $locale['602'] = "Tamaño de la foto:";
 $locale['603'] = "Tamaño máximo de foto:";
@@ -96,7 +105,9 @@ $locale['605'] = "Tamaño máximo de archivo (bytes):";
 $locale['606'] = "Método de compresión del pulgar";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
+$locale['609'] = "Development Mode";
 
+$locale['649'] = "Prohibited user names:";
 $locale['650'] = "Varios";
 $locale['651'] = "Lista de palabras incorrectas:";
 $locale['652'] = "Ingrese una palabra por línea.";
@@ -136,7 +147,8 @@ $locale['681ML'] = "Paneles";
 $locale['682ML'] = "Configuración de idioma";
 $locale['683ML'] = "Habilitar el sistema de múltiples idiomas";
 $locale['684ML'] = "Idiomas habilitados";
-$locale['685ML'] = "Selección de idiomas permitidos.\n\rPOR FAVOR NOTA: Al eliminar un idioma, también elimina todos los enlaces de sitios personalizados, categorías y cualquier otro contenido multilingüe para el idioma específico del sistema.";
+$locale['685ML'] = "Selección de idiomas permitidos.
+POR FAVOR NOTA: Al eliminar un idioma, también elimina todos los enlaces de sitios personalizados, categorías y cualquier otro contenido multilingüe para el idioma específico del sistema.";
 $locale['669'] = "Noticias";
 $locale['669b'] = "Artículos del blog por página";
 $locale['669c'] = "Noticias por página";
@@ -173,14 +185,13 @@ $locale['913'] = "Comentarios base por página";
 $locale['955'] = "Original";
 $locale['956'] = "Cuadrado";
 
-// Eliminado Recaptcha
 $locale['698'] = "Autenticación SMTP?";
 $locale['699'] = "Método de inicio de sesión";
 $locale['699b'] = "Ambos";
 $locale['699e'] = "Correo electrónico";
 $locale['699f'] = "¿Verifica los archivos cargados para el tipo MIME?";
 
-// Configuración de mensajes privados
+// Private Message Settings
 $locale['700'] = "Mensajes privados";
 $locale['701'] = "Límite de la bandeja de entrada:";
 $locale['702'] = "Límite de la bandeja de salida:";
@@ -191,33 +202,36 @@ $locale['708'] = "Valores predeterminados para las opciones de usuario";
 $locale['709'] = "Notificación por correo electrónico?";
 $locale['710'] = "¿Guardar enviados?";
 $locale['711'] = "Nota: las opciones de usuario individuales tienen prioridad si están configuradas. Si no se establece ninguna opción de usuario, entonces se aplican las opciones globales.";
+$locale['712'] = "Messages has been deleted.";
+$locale['713'] = "Are you sure to delete all private messages?";
+$locale['714'] = "Delete Messages";
 
-// Guardar ajustes
+// Save Settings
 $locale['750'] = "Guardar configuración";
 
-// Otros ajustes
+// Other Settings
 $locale['800'] = "Podar foros";
 $locale['801'] = "Publicaciones eliminadas:";
 $locale['802'] = "Subprocesos eliminados:";
 $locale['803'] = "Archivos adjuntos eliminados:";
 
-// Política de privacidad
+// Privacy policy
 $locale['820'] = "Política de privacidad";
 
-// Configuración de Banners
-$locale['850'] = "Banners";
-$locale['851'] = "Banner 1";
-$locale['852'] = "Banner 2";
+// Banners Settings
+$locale['850'] = "Anuncios";
+$locale['851'] = "Auncio 1";
+$locale['852'] = "Auncio 2";
 $locale['853'] = "Contraseña de administrador:";
 $locale['854'] = "Guardar Banners";
 $locale['855'] = "Banners de vista previa";
 
-// Error de configuración
+// Settings Error
 $locale['900'] = "Configuraciones actualizadas con éxito";
 $locale['901'] = "Error de actualización de la base de datos: la configuración no se actualizó!";
 $locale['902'] = "¡El host del sitio no se puede dejar vacío!";
 
-// Gestión de usuarios
+// User Management
 $locale['1001'] = "Proporción de avatar:";
 $locale['1002'] = "Sistema de desactivación habilitado";
 $locale['1003'] = "Período permitido en inactividad:";
@@ -233,16 +247,18 @@ $locale['1012'] = "Anonimizar usuarios";
 $locale['1013'] = "Eliminar usuarios";
 $locale['1014'] = "Los usuarios pueden iniciar sesión en diferentes dispositivos al mismo tiempo?";
 $locale['1014a'] = "Deshabilitar para una mejor seguridad";
+$locale['1015'] = "Width";
+$locale['1016'] = "Height";
 
-$locale['1020'] = array(1 => 'Bytes (bytes)', 1000 => 'KB (Kilobytes)', 1000000 => 'MB (Megabytes)');
+$locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
-// Integración social
+// Social integration
 $locale['1030'] = "Crear metaetiquetas OpenGraph para redes sociales";
 $locale['1031'] = "Permitir URL de índice en códigos BB";
 $locale['1032'] = "Permitir URL de índice en los perfiles de usuario";
 
-// Opciones de formato de fecha (puede agregar / eliminar líneas)
-// Más información en: http://php.net/manual/en/function.strftime.php
+// Date format options (you can add/delete lines)
+// More info at: http://php.net/manual/en/function.strftime.php
 $locale['dateformats'][] = "%m/%d/%Y";
 $locale['dateformats'][] = "%d/%m/%Y";
 $locale['dateformats'][] = "%d-%m-%Y";
@@ -300,3 +316,15 @@ $locale['user_settings'] = "Configuración de administración de usuario";
 $locale['theme_settings'] = "Configuraciones del tema";
 
 $locale['securimage3'] = "Imagen segura v.3";
+
+// Security Settings
+$locale['security_001'] = "System Sessions";
+$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_003'] = "Sessions Type";
+$locale['security_004'] = "Database System";
+$locale['security_005'] = "File System";
+$locale['security_006'] = "Clear System Session Cache";
+$locale['security_007'] = "All system sessions has been cleared successfully";
+$locale['security_008'] = "Form Tokens";
+$locale['security_009'] = "Number of issued tokens for each form";
+$locale['security_010'] = "Fusion GateWay";

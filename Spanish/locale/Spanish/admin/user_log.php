@@ -18,3 +18,4 @@ $locale['UL_016'] = "Eliminar entradas anteriores a:";
 $locale['UL_017'] = "Días";
 $locale['UL_018'] = "Ascendiendo";
 $locale['UL_019'] = "Descendente";
+$locale['UL_020'] = "Select All";

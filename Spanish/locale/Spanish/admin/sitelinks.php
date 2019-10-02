@@ -1,6 +1,6 @@
 <?php
 // News titles
-$locale['SL_0001'] = 'Enlaces del Sitio';
+$locale['SL_0001'] = "Enlaces del Sitio";
 $locale['SL_0010'] = "Añadir Enlace del Sitio";
 $locale['SL_0011'] = "Editar Enlace del Sitio";
 $locale['SL_0012'] = "Enlaces del Sitio Existentes";
@@ -48,9 +48,11 @@ $locale['SL_0050'] = "Nombre del Enlace";
 $locale['SL_0051'] = "Acceso";
 $locale['SL_0052'] = "Orden";
 $locale['SL_0053'] = "Opciones";
-$locale['SL_0060'] = "Editar";
-$locale['SL_0061'] = "Borrar";
+
 $locale['SL_0062'] = "No se han creado enlaces del sitio.";
+$locale['SL_0063'] = "Use BBCode in Link Name?";
+
+
 $locale['SL_0070'] = "Icono";
 $locale['SL_0071'] = "¿nueva ventana?";
 $locale['SL_0072'] = "Menú";

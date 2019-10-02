@@ -71,13 +71,13 @@ $locale['df_404'] = "%s no es una fecha válida.";
 $locale['df_405'] = "%s no es una dirección URL válida.";
 $locale['df_415'] = "Nombre de archivo no válido.";
 $locale['df_416'] = "Subir archivo demasiado grande. El archivo debe ser inferior a %s.";
-$locale['df_417'] = "Subir archivo no es un tipo de archivo válido. La imagen debe ser uno de los siguientes tipos de archivo - %s";
+$locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
 $locale['df_418'] = "Subir archivo está muy bien, pero la extensión no es válido. Por favor, cambie el nombre de su extensión de archivo y vuelva a intentarlo.";
 $locale['df_419'] = "Imagen falló verificación de cheques. Por favor re-hacer su imagen.";
 $locale['df_420'] = "Carpeta no existe. Por favor, cree la carpeta a través de FTP y vuelva a intentarlo.";
 $locale['df_421'] = "La imagen no debe ser más grande de %uw x %uh píxeles.";
 $locale['df_422'] = "Error desconocido (consulta)";
-$locale['df_423'] = "Imagen no se carga correctamente. Por favor, inténtelo de nuevo";
+$locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Actual subida de archivos es más que el límite máximo. Por favor, inténtelo de nuevo y adjuntar menos archivos.";
 
 // ReCaptcha2

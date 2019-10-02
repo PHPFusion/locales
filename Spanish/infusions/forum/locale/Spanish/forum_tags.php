@@ -18,3 +18,4 @@ $locale['forum_tag_0205'] = "Esta etiqueta está activa";
 $locale['forum_tag_0206'] = "Esta etiqueta está inactiva";
 $locale['forum_tag_0207'] = "Crear etiqueta";
 $locale['forum_tag_0208'] = "Actualizar etiqueta";
+$locale['forum_tag_0209'] = "No Forum Tag defined.";

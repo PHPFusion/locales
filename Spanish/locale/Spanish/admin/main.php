@@ -1,11 +1,12 @@
 <?php
 // Admin Links
-$locale['200'] = "[SITENAME] Panel de administración"; 
+$locale['200'] = "[SITENAME] Panel de administración";
+$locale['200a'] = "Panel de administración";
 $locale['ac00'] = "Inicio Admin";
 $locale['ac01'] = "contenidos";
 $locale['ac02'] = "Usuarios";
 $locale['ac03'] = "Sistema";
-$locale['ac04'] = "Configuración"; 
+$locale['ac04'] = "Configuración";
 $locale['ac05'] = "Infusiones";
 $locale['ac10'] = "Panel de admin";
 $locale['202'] = "Configuración de Perfil de usuario";
@@ -55,7 +56,7 @@ $locale['S8'] = "Noticias";
 $locale['S9'] = "Administración de usuarios";
 $locale['S11'] = "Descargas";
 $locale['S10'] = "Elementos por página";
-$locale['SB'] = "Banners";
+$locale['SB'] = "Anuncios";
 $locale['S12'] = "Seguridad";
 $locale['APWR'] = "Restablecer contraseña de administrador";
 $locale['ERRO'] = "Registro de errores";
@@ -67,6 +68,7 @@ $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Gestor de temas";
 $locale['S13'] = "Blog de configuración";
 $locale['LANG'] = "Configuración de idioma";
+$locale['FM'] = "Fusion File Manager";
 
 // Site Information
 $locale['250'] = "Resumen del sitio";
@@ -96,7 +98,7 @@ $locale['269b'] = "Blog";
 $locale['270'] = "Artículos";
 $locale['271'] = "Enlaces";
 $locale['272'] = "Galería";
-$locale['272a'] = "Custom Pages";
+$locale['272a'] = "Páginas a Medida";
 $locale['273'] = "comentó sobre";
 $locale['273a'] = "clasificado en";
 $locale['273b'] = "hicieron presentaciones a";
@@ -107,9 +109,20 @@ $locale['277'] = "Últimos Comentarios";
 $locale['278'] = "Últimas calificaciones";
 $locale['279'] = "Últimas presentaciones";
 $locale['280'] = "Panel de Control de la administración";
-$locale['281'] = "Escriba su contraseña de Admin"; 
+$locale['281'] = "Escriba su contraseña de Admin";
 $locale['282'] = "Cambiar idioma";
 $locale['283'] = "Infusiones";
 $locale['284'] = "No hay infusiones instaladas";
 $locale['285'] = "Administrar infusiones";
 $locale['286'] = "Revisión Presentación";
+
+$locale['290'] = "There is an autosave of this post that is more recent than the version below.";
+$locale['291'] = "View the autosave";
+$locale['292'] = "Saved Revisions";
+$locale['293'] = "Fill to Autosave";
+
+$locale['search_msg_100'] = 'Failed system validation';
+$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_102'] = 'Pages failed to load';
+$locale['search_msg_103'] = 'Search string is too short';
+$locale['search_msg_104'] = 'There are no results found';

@@ -4,6 +4,7 @@ $locale['400'] = "Restauracíon de la Base de Datos";
 $locale['401'] = "Error";
 $locale['402'] = "El formato del archivo de copia de seguridad no es válido";
 $locale['403'] = "Cerrar";
+$locale['404'] = "Database Restore complete";
 // Backup File Information
 $locale['410'] = "Información del Archivo de Copia de Seguridad";
 $locale['411'] = "Información del Archivo de Restauración";
@@ -11,9 +12,6 @@ $locale['412'] = "Nombre del Archivo:";
 $locale['413'] = "Fecha:";
 $locale['414'] = "Nombre de la BD:";
 $locale['415'] = "Prefijo de las Tablas:";
-$locale['416'] = "Tablas:";
-$locale['417'] = "Ver";
-$locale['418'] = "Cancelar";
 $locale['419'] = "Tablas";
 // Database Restore
 $locale['430'] = "Opciones de Restauración";
@@ -25,7 +23,6 @@ $locale['435'] = "Seleccionar:";
 $locale['436'] = "Todas";
 $locale['437'] = "Ninguna";
 $locale['438'] = "Restaurar";
-$locale['439'] = "Cancelar";
 $locale['440'] = "Tipos de Archivo Admitidos:";
 // Database Backup
 $locale['450'] = "Copia de Seguridad de la Base de Datos";

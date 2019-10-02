@@ -20,6 +20,7 @@ $locale['html_016'] = "Salto de página";
 $locale['html_017'] = "Color de fuente";
 $locale['html_018'] = "Párrafo";
 $locale['html_019'] = "Tamaño";
+$locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Texto";
 $locale['preview'] = "Vista previa";

@@ -1,25 +1,25 @@
 <?php
 // Contact Form
-$locale['400'] = "Contactar";
-$locale['401'] = "Hay varias maneras de ponerse en contacto. Puede enviar un correo electrónico directamente a
-[SITE_EMAIL]. Si eres Miembro, puedes enviar un [PM_LINK].
-Alternativamente, puede rellenar el formulario de esta página que envía su mensaje por correo electrónico.";
-$locale['402'] = "Tu Nombre:";
-$locale['403'] = "Email:";
-$locale['404'] = "Asunto:";
-$locale['405'] = "Mensaje:";
-$locale['406'] = "Enviar";
-$locale['407'] = "Código de Validación:";
-$locale['408'] = "Introduce el Código de Validación:";
+$locale['CT_400'] = "Contact";
+$locale['CT_401'] = "There are several ways you can get in contact. You can email directly at
+[SITE_EMAIL]. If you are a Member you can send a [PM_LINK].
+Alternatively, you can fill in the form on this page which sends your message via Email.";
+$locale['CT_402'] = "Nombre:";
+$locale['CT_403'] = "Email Address:";
+$locale['CT_404'] = "Subject:";
+$locale['CT_405'] = "Message:";
+$locale['CT_406'] = "Send Message";
+$locale['CT_407'] = "Validation Code:";
+$locale['CT_408'] = "Enter Validation Code:";
 // Contact Errors
-$locale['420'] = "Debes indicar tu nombre";
-$locale['421'] = "Debes indicar tu dirección de email";
-$locale['422'] = "Debes indicar el asunto de tu mensaje";
-$locale['423'] = "Debes escribir el texto de tu mensaje";
-$locale['424'] = "Debes introducir el codigo de validación correcto";
-$locale['425'] = "Error Interno: No se ha podido enviar el mensaje.";
+$locale['CT_420'] = "You must specify a Name";
+$locale['CT_421'] = "You must specify an Email Address";
+$locale['CT_422'] = "You must specify a Subject";
+$locale['CT_423'] = "You must specify a Message";
+$locale['CT_424'] = "You must enter correct Validation Code";
+$locale['CT_425'] = "Internal error: cannot send your message.";
 // Message Sent
-$locale['440'] = "Tu mensaje ha sido enviado";
-$locale['441'] = "Muchas gracias";
-$locale['442'] = "Tu mensaje no se ha enviado por lo siguiente:";
-$locale['443'] = "Vuelve a intentarlo.";
+$locale['CT_440'] = "Your Message has been sent";
+$locale['CT_441'] = "Thank You";
+$locale['CT_442'] = "Your message was not sent for the following reason(s):";
+$locale['CT_443'] = "Please try again.";

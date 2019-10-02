@@ -44,7 +44,8 @@ $locale['theme_2002'] = "Componentes del tema";
 $locale['theme_2003'] = "Navegación";
 $locale['theme_2004'] = "Fuentes base";
 $locale['theme_2005'] = "Reconstruyendo Nuevo %s Tema";
-$locale['theme_2006'] = "Motor temático está actualmente reconstruyendo su tema y puede tomar hasta 15 a 30 segundos dependiendo del estado de la red.\n Por favor, no cierre ni actualice la ventana.";
+$locale['theme_2006'] = "Motor temático está actualmente reconstruyendo su tema y puede tomar hasta 15 a 30 segundos dependiendo del estado de la red.
+ Por favor, no cierre ni actualice la ventana.";
 $locale['theme_2007'] = "Título preestablecido personalizado";
 $locale['theme_2008'] = "Plantilla";
 $locale['theme_2009'] = "Escoger Color";
@@ -118,7 +119,7 @@ $locale['theme_4015'] = "Estilo de texto horizontal";
 $locale['theme_4016'] = "Estilo de enlace";
 
 $locale['theme_5000'] = "Normal";
-$locale['theme_5001'] = "Bold";
+$locale['theme_5001'] = "Negrita";
 $locale['theme_5002'] = "Cursiva";
 $locale['theme_5003'] = "Subrayado";
 $locale['theme_5004'] = "Negrita y subrayada";

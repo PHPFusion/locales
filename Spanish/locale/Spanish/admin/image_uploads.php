@@ -1,4 +1,6 @@
 <?php
+$locale['100'] = "Fusion File Manager";
+
 // Delete Image
 $locale['400'] = "Borrar Imagen";
 $locale['401'] = "Imagen borrada";
@@ -22,7 +24,6 @@ $locale['442'] = "Borrar";
 // Image Management
 $locale['460'] = "Imágenes Existentes";
 $locale['461'] = "Ver";
-$locale['462'] = "Borrar";
 $locale['463'] = "Este directorio está vacío";
 $locale['464'] = "Actualizar la lista de imágenes para el editor TinyMCE";
 // Popup Error/Warning Messages

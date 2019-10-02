@@ -1,5 +1,5 @@
 <?php
 $locale['uf_facebook'] = "Facebook";
-$locale['uf_facebook_desc'] = "Página de perfil de Facebook";
-$locale['uf_facebook_error'] = "El nombre de usuario de Facebook no se puede dejar vacío.";
-$locale['uf_facebook_placeholder'] = "Nombre de usuario de Facebook";
+$locale['uf_facebook_desc'] = "Facebook Profile Page";
+$locale['uf_facebook_error'] = "Facebook Username can not be left empty.";
+$locale['uf_facebook_placeholder'] = "Facebook Username";

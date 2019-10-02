@@ -1,5 +1,5 @@
 <?php
-// blog Submissions messages
+// Blog Submissions messages
 $locale['blog_0130'] = "Actualmente no hay envíos en el blog";
 $locale['blog_0131'] = "Revisión Presentación del Blog";
 $locale['blog_0132'] = "El anterior blog fue presentado por ";
@@ -37,8 +37,6 @@ $locale['blog_0415'] = "Imagen debe ser uno de los siguientes tipos de archivo %
 $locale['blog_0416'] = "Imagen debe ser no mayor que %s píxeles.";
 $locale['blog_0417'] = "Error desconocido";
 // Blog form
-$locale['blog_0420'] = "Editar";
-$locale['blog_0421'] = "Eliminar";
 $locale['blog_0422'] = "Asunto:";
 $locale['blog_0423'] = "Categoría:";
 $locale['blog_0424'] = "sin categorizar";
@@ -92,7 +90,8 @@ $locale['blog_0561'] = "Esta categoría ya existe.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Por favor especifique un tema";
 $locale['blog_0451'] = "¿Borrar este Blog?";
-$locale['blog_0452'] = "%s están deshabilitados para todos los elementos.\n\rEste ajuste sólo tendrá efecto cuando se habilitan de nuevo.";
+$locale['blog_0452'] = "%s están deshabilitados para todos los elementos.
+Este ajuste sólo tendrá efecto cuando se habilitan de nuevo.";
 $locale['blog_0456'] = 'No hay ningún Blog en esta categoría.';
 $locale['blog_0457'] = "Por favor especifique palabras clave";
 $locale['blog_0461'] = 'No hay categorías de Blog definidas.';
@@ -115,19 +114,20 @@ $locale['blog_0703'] = "Utilice el siguiente formulario para presentar el Blog. 
 Administrador. [SITENAME] se reserva el derecho de modificar o editar cualquier envío. Blog
 debe ser aplicable al contenido de este sitio. Se eliminarán las presentaciones inadecuadas.";
 $locale['blog_0704'] = "Volver a [SITENAME]";
-$locale['601'] = "Tamaño del pulgar:";
-$locale['602'] = "Tamaño de la foto:";
-$locale['603'] = "Tamaño máximo de la foto:";
-$locale['604'] = "Anchura x Altura";
-$locale['605'] = "Tamaño máximo de archivo (bytes):";
-// Blog & News Settings
-$locale['950'] = "Subir imagen";
-$locale['951'] = "Enlace imagen:";
-$locale['952'] = "Categoría";
-$locale['953'] = "Elemento de blog";
-$locale['954'] = "Thumb ratio:";
-$locale['955'] = "Original";
-$locale['956'] = "Cuadrado";
-$locale['959'] = "Foto cargada";
-$locale['960'] = "Categoría Imagen";
-$locale['961'] = "Tipos de archivo permitidos:";
+$locale['blog_601'] = "Tamaño del pulgar:";
+$locale['blog_602'] = "Tamaño de la foto:";
+$locale['blog_603'] = "Tamaño máximo de foto:";
+$locale['blog_604'] = "Ancho x Alto";
+$locale['blog_605'] = "Tamaño máximo de archivo (bytes):";
+// Blog Settings
+$locale['blog_950'] = "Image Upload";
+$locale['blog_951'] = "Image link:";
+$locale['blog_952'] = "Categoría";
+$locale['blog_953'] = "Blog Item";
+$locale['blog_954'] = "Thumb ratio:";
+$locale['blog_955'] = "Original";
+$locale['blog_956'] = "Cuadrado";
+$locale['blog_959'] = "Uploaded Photo";
+$locale['blog_960'] = "Category Image";
+$locale['blog_961'] = "Allowed file types:";
+$locale['blog_submit'] = "%s Blog";

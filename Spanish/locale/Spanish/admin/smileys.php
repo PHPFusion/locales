@@ -1,12 +1,12 @@
 <?php
-// títulos sonrientes
+// Smiley titles
 $locale['SMLY_400'] = "Smiley actuales";
 $locale['SMLY_401'] = "Agregar Smiley";
 $locale['SMLY_402'] = "Editar Smiley";
 $locale['SMLY_403'] = "Smileys";
 $locale['SMLY_404'] = "Smileys activos";
 $locale['SMLY_405'] = "Smileys inactivos";
-// Mensajes sonrientes
+// Smiley messages
 $locale['SMLY_410'] = "Smiley agregado";
 $locale['SMLY_411'] = "Smiley actualizado";
 $locale['SMLY_412'] = "Smiley eliminado";
@@ -17,20 +17,20 @@ $locale['SMLY_415'] = "El código de emoticono está en uso.";
 $locale['SMLY_416'] = "¿Realmente deseas eliminar esta carita sonriente?";
 $locale['SMLY_417'] = "¿Realmente deseas Inactiv esta carita sonriente?";
 $locale['SMLY_418'] = "Error al cargar smiley";
-// forma sonriente
+// Smiley form
 $locale['SMLY_420'] = "Código Smiley:";
 $locale['SMLY_421'] = "Imagen sonriente:";
 $locale['SMLY_422'] = "Texto sonriente:";
 $locale['SMLY_423'] = "Guardar Smiley";
 $locale['SMLY_424'] = "Actualizar Smiley";
-// Smiley actuales
+// Current Smileys
 $locale['SMLY_430'] = "Código";
 $locale['SMLY_431'] = "Imagen";
 $locale['SMLY_432'] = "Texto";
 $locale['SMLY_433'] = "Opciones";
 $locale['SMLY_435'] = "Inactivo";
 $locale['SMLY_436'] = "No hay emoticones definidos.";
-// Mensaje de error
+// Error Message
 $locale['SMLY_437'] = "Por favor ingrese un Código Smiley";
 $locale['SMLY_438'] = "Seleccione un Smiley";
 $locale['SMLY_439'] = "Por favor ingrese un texto sonriente";

@@ -12,4 +12,3 @@ $locale['uf_blacklist_004'] = "Usuario %s se ha eliminado de su lista negra.";
 $locale['uf_blacklist_005'] = "El usuario no estaba en la lista negra.";
 $locale['uf_blacklist_006'] = "Ningún usuario encontrado.";
 $locale['uf_blacklist_007'] = "No está disponible.";
-

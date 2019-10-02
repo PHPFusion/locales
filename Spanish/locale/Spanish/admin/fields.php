@@ -1,6 +1,6 @@
 <?php
 // New locale for Quantum Fields
-$locale['fields_0100'] = 'Esta página agrega campo directamente en la tabla: %s';
+$locale['fields_0100'] = "Esta página agrega campo directamente en la tabla: %s";
 $locale['fields_0101'] = "Esta página agrega campos directamente en la tabla: %s, se combina con DB_USERS través de la columna %s";
 $locale['fields_0102'] = "No hay campos agregados en ";
 $locale['fields_0103'] = "No hay página creada. Por favor, añada una página mediante la creación de una página como categoría.";
@@ -14,15 +14,15 @@ $locale['fields_0110'] = "Tabla existe. Por favor elija otro nombre de la tabla"
 $locale['fields_0111'] = "Página de ámbito de usuario se puede ampliar para leer otra base de datos en la vista.";
 $locale['fields_0112'] = "¿Qué tabla principalmente es utilizado por esta página?";
 $locale['fields_0113'] = "¿Qué columna en su primaria es la columna ID de usuario?";
-$locale['field_0200'] = 'Se ha eliminado la categoría de campo';
-$locale['field_0201'] = 'El campo ha sido eliminado';
-$locale['field_0202'] = 'Acción de campo cancelado';
-$locale['field_0203'] = 'Campo ha sido actualizado';
-$locale['field_0204'] = 'Campo se ha agregado con éxito';
-$locale['field_0205'] = 'Módulo no encontrado';
-$locale['field_0206'] = 'Categoría no encontrada';
-$locale['field_0207'] = 'Categoría se ha actualizado';
-$locale['field_0208'] = 'Categoría ha sido agregada con exito';
+$locale['field_0200'] = "Se ha eliminado la categoría de campo";
+$locale['field_0201'] = "El campo ha sido eliminado";
+$locale['field_0202'] = "Acción de campo cancelado";
+$locale['field_0203'] = "Campo ha sido actualizado";
+$locale['field_0204'] = "Campo se ha agregado con éxito";
+$locale['field_0205'] = "Módulo no encontrado";
+$locale['field_0206'] = "Categoría no encontrada";
+$locale['field_0207'] = "Categoría se ha actualizado";
+$locale['field_0208'] = "Categoría ha sido agregada con exito";
 
 $locale['fields_0300'] = "Campos";
 $locale['fields_0301'] = "Módulos";

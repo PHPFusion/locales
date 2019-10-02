@@ -24,7 +24,6 @@ $locale['420'] = "Enviar Mensaje Privado";
 $locale['420a'] = "Destinatario";
 $locale['421'] = "Para";
 $locale['422'] = "Mensaje";
-//$locale['422a'] = "Original Message";
 $locale['423'] = "Código BB";
 $locale['424'] = "Smileys";
 $locale['425'] = "Opciones";
@@ -37,10 +36,7 @@ $locale['431'] = "Leer Mensaje Privado";
 $locale['432'] = "Cerrar";
 $locale['433'] = "Responder";
 $locale['434'] = "Enviar a Todos";
-$locale['435'] = "Cancelar";
-//$locale['436'] = "Preview Reply";
 $locale['437'] = "Enviar";
-//$locale['438'] = "Preview Message";
 $locale['439'] = "Responder";
 $locale['440'] = "(recibido %s)";
 $locale['441'] = "Escribir como Propietario del Sitio";
@@ -52,7 +48,7 @@ $locale['446'] = "Mensajes no leídos";
 $locale['447'] = "Leer mensajes";
 $locale['448'] = "Configuración";
 
-// Search Options
+// Search Options -- this is used by Search.php
 $locale['450'] = "Opciones de Búsqueda y Orden";
 $locale['451'] = "Buscar/Ordenar";
 $locale['452'] = "Limpiar";
@@ -64,15 +60,15 @@ $locale['457'] = "(Usa ? y * como comodines)";
 $locale['458'] = "Mostrando miembros con '%s' en '%s' ";
 $locale['459'] = "Remitentes empezando por '%s' ";
 $locale['460'] = "Ordenar por '%s'";
-$locale['461'] = "No hay mensajes.";
+$locale['461'] = "No hay mensajes."; // del
 $locale['462'] = "Título";
 $locale['463'] = "Mensaje";
 $locale['464'] = "Remitente";
 $locale['465'] = "Fecha/Hora de recepción";
-$locale['466'] = 'Ninguno seleccionado';
-$locale['467'] = 'Ninguna conversación seleccionado';
-$locale['468'] = 'Iniciar una nueva conversación con %s';
-$locale['469'] = 'Responder a %s';
+$locale['466'] = "Ninguno seleccionado";
+$locale['467'] = "Ninguna conversación seleccionado";
+$locale['468'] = "Iniciar una nueva conversación con %s";
+$locale['469'] = "Responder a %s";
 
 $locale['471'] = "No hay mensajes";
 
@@ -127,13 +123,11 @@ $locale['622'] = "Guardar automáticamente los mensajes enviados:";
 $locale['623'] = "Guardar";
 $locale['624'] = "Opciones guardadas";
 $locale['625'] = "Nuevo Mensaje Privado en ".fusion_get_settings('sitename');
-$locale['626'] = ",\r\nHas recibido un nuevo mensaje privado titulado [SUBJECT] de [USER] en ".fusion_get_settings('sitename').". Puedes leer el mensaje pulsando el siguiente enlace: ".fusion_get_settings('siteurl')."messages.php\r\n\r\nSi no deseas seguir recibiendo notificaciones de nuevos mensajes, puedes desactivar esta opción en el panel de opciones de la página de mensajes privados.";
+$locale['626'] = ",<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can [LINK]read[/LINK] your private message.You can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.";
 $locale['627'] = "Error";
 $locale['628'] = "No se ha podido enviar el mensaje privado. La bandeja de entrada del destinatario está llena.";
 $locale['629'] = "No se pueden mover los mensajes seleccionados a la carpeta indicada, ya que se excedería el límite máximo de mensajes.";
 $locale['630'] = " Límite de Mensajes";
-$locale['631'] = "Sí";
-$locale['632'] = "No";
 
 $locale['700'] = "La bandeja de entrada del usuario está llena. Intente eliminarlo o actualizarlo al estado 102 o 103";
 $locale['701'] = "El ID de usuario del remitente no existe en el DB. Secuencia Abortada.";

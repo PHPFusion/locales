@@ -1,5 +1,5 @@
 <?php
-//news, articles
+//news, articles, blog
 $locale['400'] = "Publicado por ";
 $locale['401'] = " el ";
 $locale['402'] = "Noticia";

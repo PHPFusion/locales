@@ -24,15 +24,13 @@ $locale['428a'] = "User 1";
 $locale['428b'] = "User 2";
 $locale['428c'] = "User 3";
 $locale['428d'] = "User 4";
-// Panel Options
+// Panel Options1
 $locale['430'] = "Mover a la izquierda";
 $locale['431'] = "Mover a la derecha";
 $locale['432'] = "Mover arriba";
 $locale['433'] = "Mover abajo";
-$locale['434'] = "Editar";
 $locale['435'] = "Activar";
 $locale['436'] = "Desactivar";
-$locale['437'] = "Borrar";
 $locale['438'] = "Crear Panel";
 $locale['439'] = "Actualizar el Orden de los Paneles";
 $locale['440'] = "¿Borrar este panel?";

@@ -1,20 +1,4 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| https://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: slider/locale/Spanish.php
-| Author: Mateo UT (Talocha)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
 $locale['SLDW_0100'] = "Carrusel";
 $locale['SLDW_0101'] = "Plugin de control deslizante";
 $locale['SLDW_0200'] = "Diapositiva eliminada";
@@ -52,7 +36,7 @@ $locale['SLDW_0519'] = "Compensación superior de subtítulos";
 $locale['SLDW_0520'] = "Posición de desplazamiento de los subtítulos desde el borde superior de la diapositiva";
 $locale['SLDW_0521'] = "Izquierda";
 $locale['SLDW_0522'] = "Derecha";
-$locale['SLDW_0523'] = "Center";
+$locale['SLDW_0523'] = "Centro";
 $locale['SLDW_0524'] = "Alineación de texto de título";
 $locale['SLDW_0525'] = "Tamaño del título de título";
 $locale['SLDW_0526'] = "Tamaño del título en px. Número negativo no permitido.";
