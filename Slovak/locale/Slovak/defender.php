@@ -71,13 +71,13 @@ $locale['df_404'] = "%s nie je platný dátum.";
 $locale['df_405'] = "%s nie je platná adresa URL.";
 $locale['df_415'] = "Neplatný názov súboru.";
 $locale['df_416'] = "Nahraný súbor je príliš veľký. Súbor musí byť menší ako %s.";
-$locale['df_417'] = "Nahraný súbor nie je platný typ súboru. Obrázok musí byť jeden z nasledujúcich typov súborov - %s";
+$locale['df_417'] = "Nahraný súbor nie je platný typ súboru. Súbor musí byť jeden z nasledujúcich typov súborov - %s";
 $locale['df_418'] = "Nahraný súbor je v poriadku, ale prípona je neplatná. Premenujte prosím príponu súboru a skúste to znova.";
 $locale['df_419'] = "Overenie obrázku zlyhalo. Prosím prerobte váš obrázok.";
 $locale['df_420'] = "Priečinok neexistuje. Vytvorte priečinok cez FTP a skúste to znova.";
 $locale['df_421'] = "Obrázok nesmie byť väčší ako %uw x %uh pixelov.";
 $locale['df_422'] = "Neznáma chyba (Dotaz)";
-$locale['df_423'] = "Obrázok sa neodovzdal správne. Prosím skúste znova";
+$locale['df_423'] = "Súbor nebol nahraný správne. Prosím skúste znova";
 $locale['df_424'] = "Aktuálne nahrané súbory sú viac ako maximálny limit. Skúste to znova a pripojte menej súborov.";
 
 // ReCaptcha2
