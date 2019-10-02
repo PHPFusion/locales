@@ -77,7 +77,7 @@ $locale['df_419'] = "A kép ellenőrzés nem sikerült. Kérem próbálja újra 
 $locale['df_420'] = "A könyvtár nem létezik. Kérem készítse el ftp-n keresztül a kívánt könyvtárat és próbálja újra.";
 $locale['df_421'] = "A kép nem lehet nagyobb mint %uw x %uh pixel.";
 $locale['df_422'] = "Ismeretlen Hiba (Query)";
-$locale['df_423'] = "A kép nem töltődött fel megfelelően. Kérlek próbáld újra";
+$locale['df_423'] = "A fájlt nem töltötte fel megfelelően. Kérlek próbáld újra";
 $locale['df_424'] = "A fájlok mérete nagyobb, mint a maximálisan megengedett határértéket. Kérjük, próbálja meg újra, és csatoljon kisebb fájlokat.";
 
 // ReCaptcha2
