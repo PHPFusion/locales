@@ -202,6 +202,8 @@ $locale['699e'] = "E-mail";
 $locale['699f'] = "Všeobecné";
 $locale['699g'] = "Skontrolujte nahrané súbory pre MIME typ?";
 $locale['699h'] = "Povoliť registračnú bránu?";
+$locale['699i'] = "Oddeľovač čísel";
+$locale['699j'] = "Oddeľovač tisícov";
 // Private Message Settings
 $locale['700'] = "Súkromné správy";
 $locale['701'] = "Limit prijatých správ:";
