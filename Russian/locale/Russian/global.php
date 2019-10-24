@@ -2,13 +2,16 @@
 /**
  * Russian Locale
  *
- * @locale tinymce           refer to path includes/jscripts/tiny_mce/langs/{value}.js
- * @locale phpmailer         refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale charset     ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
+ * @locale region      ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+ * @locale tinymce     refer to path includes/jscripts/tinymce/langs/{value}.js
+ * @locale phpmailer   refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+ * @locale filemanager refer to path includes/filemanager/lang/{value}.php
  * @package locale/Russian
  */
 
 // Locale Settings
-setlocale(LC_TIME, "ru_RU.UTF-8"); // Linux Server (Windows may differ)
+setlocale(LC_ALL, "ru_RU.UTF-8", "ru_RU", "russian");
 $locale['charset'] = "UTF-8";
 $locale['region'] = "RU";
 $locale['xml_lang'] = "ru";
@@ -16,6 +19,7 @@ $locale['short_lang_name'] = "ru";
 $locale['tinymce'] = "ru";
 $locale['select2'] = "ru";
 $locale['phpmailer'] = "ru";
+$locale['filemanager'] = "ru";
 $locale['datepicker'] = "ru";
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
