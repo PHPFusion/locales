@@ -2,7 +2,7 @@
 // Footer
 $locale['A9_001'] = 'Follow us on:';
 $locale['A9_002'] = 'About Us';
-$locale['A9_003'] = 'Latest Articles';
+$locale['A9_003'] = '最新文章';
 $locale['A9_004'] = 'No articles defined';
 $locale['A9_005'] = 'Articles module not found';
 $locale['A9_006'] = 'Latest News';
@@ -20,7 +20,7 @@ $locale['A9_015'] = 'Atom9 Theme by <a href="https://www.php-fusion.co.uk" targe
 $locale['A9_101'] = 'Read More';
 $locale['A9_102'] = 'There are no content defined.';
 $locale['A9_103'] = 'News Home';
-$locale['A9_104'] = 'Read more';
+$locale['A9_104'] = '了解更多';
 $locale['A9_105'] = 'Posted on';
 $locale['A9_106'] = 'Select Category';
 $locale['A9_107'] = 'Details';

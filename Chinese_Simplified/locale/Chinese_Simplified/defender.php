@@ -71,13 +71,13 @@ $locale['df_404'] = "%s is not a valid date.";
 $locale['df_405'] = "%s is not a valid URL.";
 $locale['df_415'] = "Invalid filename.";
 $locale['df_416'] = "Upload file too large. File must be less than %s.";
-$locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
+$locale['df_417'] = "Upload file is not a valid file type. Image must be one of the following file types - %s";
 $locale['df_418'] = "Upload file is fine, but the extension is invalid. Please rename your file extension and try again.";
 $locale['df_419'] = "Image failed verification check. Please re-do your image.";
 $locale['df_420'] = "Folder does not exist. Please create the folder via FTP and try again.";
 $locale['df_421'] = "Image must be no bigger than %uw x %uh pixels.";
 $locale['df_422'] = "Unknown error (Query)";
-$locale['df_423'] = "File was not uploaded properly. Please try again";
+$locale['df_423'] = "Image was not uploaded properely. Please try again";
 $locale['df_424'] = "Current upload files is more than the maximum limit. Please try again and attach less files.";
 
 // ReCaptcha2
@@ -88,8 +88,8 @@ $locale['grecaptcha_placeholder_2'] = "SECRET-KEY from Google";
 $locale['no_keys'] = "It looks like you don't have any keys yet. Register and obtain your [RECAPTCHA_LINK]public key here[/RECAPTCHA_LINK]";
 // here
 //$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
-$locale['grecaptcha_0100'] = "Site Key";
-$locale['grecaptcha_0101'] = "Secret Key";
+$locale['grecaptcha_0100'] = "Public Key";
+$locale['grecaptcha_0101'] = "Private Key";
 $locale['grecaptcha_0102'] = "Theme";
 $locale['grecaptcha_0102a'] = "Light";
 $locale['grecaptcha_0102b'] = "Dark";

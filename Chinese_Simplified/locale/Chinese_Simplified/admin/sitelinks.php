@@ -10,12 +10,12 @@ $locale['SL_0016'] = "Site Link updated";
 $locale['SL_0017'] = "Site Link deleted";
 $locale['SL_0018'] = "Site Link Settings updated";
 // Site Links form
-$locale['SL_0020'] = "Link Name";
+$locale['SL_0020'] = "Link Name:";
 $locale['SL_0020a'] = "Link Icon";
-$locale['SL_0021'] = "Link URL";
-$locale['SL_0022'] = "Link Visibility";
-$locale['SL_0023'] = "Order";
-$locale['SL_0024'] = "Position";
+$locale['SL_0021'] = "Link URL:";
+$locale['SL_0022'] = "Visibility:";
+$locale['SL_0023'] = "Order:";
+$locale['SL_0024'] = "Position:";
 $locale['SL_0025'] = "navigation panel only";
 $locale['SL_0026'] = "navigation panel and sub-header";
 $locale['SL_0027'] = "sub-header only";
@@ -46,7 +46,7 @@ $locale['SL_0049'] = "Yes, group the links as \"Show more\"";
 // Site Links list
 $locale['SL_0050'] = "Link Name";
 $locale['SL_0051'] = "Visibility";
-$locale['SL_0052'] = "Order";
+$locale['SL_0052'] = "Item Ordering";
 $locale['SL_0053'] = "Options";
 
 $locale['SL_0062'] = "No Site Links have been defined.";

@@ -2,7 +2,7 @@
 $locale['MIG_100'] = "User Migration Tool";
 $locale['MIG_101'] = "You must select two different users for migration";
 $locale['MIG_102'] = "Forum Tracked Threads";
-$locale['MIG_103'] = "Forum Threads";
+$locale['MIG_103'] = "论坛主题";
 $locale['MIG_104'] = "Forum Threads Last user";
 $locale['MIG_105'] = "Forum Posts";
 $locale['MIG_106'] = "Forum Last Posts";

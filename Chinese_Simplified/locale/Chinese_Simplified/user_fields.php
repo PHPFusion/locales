@@ -145,14 +145,14 @@ $locale['u186'] = "Click Browse to upload an image";
 // Captcha and terms
 $locale['u190'] = "Validation Code";
 $locale['u191'] = "Enter Validation Code";
-$locale['u192'] = "Terms of Agreement";
+$locale['u192'] = "协议条款";
 $locale['u193'] = "I have read the [LINK]Terms of Agreement[/LINK] and I agree with them.";
 $locale['u193a'] = "Updated";
 $locale['u193b'] = "I agree";
 $locale['u194'] = "Incorrect validation code.";
 $locale['u195'] = "Captcha code can not be left empty.";
 // E-mail Change Confirmation
-$locale['u200'] = "A verify email has been sent to your new email address (%s). Please check your email.";
+$locale['u200'] = "A verify email has been sent to your new email address (%s).";
 $locale['u201'] = "Your email address will be changed when you click the link in the mail.";
 $locale['u202'] = "E-mail address verify - [SITENAME]";
 $locale['u203'] = "Hello [USER_NAME],

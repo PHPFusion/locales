@@ -1,113 +1,113 @@
 <?php
 setlocale(LC_ALL, "zh_CN.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['region'] = "GB"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "en";
-$locale['short_lang_name'] = "en";
-$locale['tinymce'] = "en"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "en"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "en"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['region'] = "CM"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+$locale['xml_lang'] = "zh";
+$locale['short_lang_name'] = "zh";
+$locale['tinymce'] = "zh_CN"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "zh"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ch"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "en_EN"; // refer to path includes/filemanager/lang/{value}.php
-$locale['datepicker'] = "en-gb"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['datepicker'] = "zh-cn"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
-$locale['password_strength'] = "en"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['password_strength'] = "zh"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|一月|二月|三月|四月|五月|六月|七月|八月|九月|十月|十一月|十二月";
 $locale['shortmonths'] = "&nbsp|一月|二月|三月|四月|五月|六月|七月|八月|九月|十月|十一月|十二月";
-$locale['weekdays'] = "Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday";
+$locale['weekdays'] = "星期日|星期一|星期二|星期三|星期四|星期五|星期六";
 // Timers
-$locale['year'] = "year";
-$locale['year_a'] = "years";
-$locale['month'] = "month";
-$locale['month_a'] = "months";
+$locale['year'] = "年";
+$locale['year_a'] = "年";
+$locale['month'] = "月";
+$locale['month_a'] = "个月";
 $locale['week'] = "week";
 $locale['week_a'] = "weeks";
-$locale['day'] = "day";
-$locale['day_a'] = "days";
-$locale['hour'] = "hour";
-$locale['hour_a'] = "hours";
-$locale['minute'] = "minute";
-$locale['minute_a'] = "minutes";
-$locale['second'] = "second";
-$locale['second_a'] = "seconds";
-$locale['just_now'] = "just now";
+$locale['day'] = "天";
+$locale['day_a'] = "天";
+$locale['hour'] = "小时";
+$locale['hour_a'] = "个小时";
+$locale['minute'] = "分钟";
+$locale['minute_a'] = "分钟";
+$locale['second'] = "秒";
+$locale['second_a'] = "秒";
+$locale['just_now'] = "刚刚";
 $locale['now'] = 'now';
-$locale['ago'] = "ago";
+$locale['ago'] = "前";
 // Geo
-$locale['street1'] = "Street Address 1";
-$locale['street2'] = "Street Address 2";
-$locale['city'] = "City";
-$locale['postcode'] = "Postcode";
-$locale['sel_country'] = "Select Country";
-$locale['sel_state'] = "Select Region";
-$locale['sel_user'] = "Please type a user name";
-$locale['add_language'] = "Add Language Translations";
-$locale['add_lang'] = "Add %s";
+$locale['street1'] = "街道地址1";
+$locale['street2'] = "街道地址2";
+$locale['city'] = "市";
+$locale['postcode'] = "邮政编码";
+$locale['sel_country'] = "选择国家";
+$locale['sel_state'] = "选择州";
+$locale['sel_user'] = "请输入用户名";
+$locale['add_language'] = "添加语言翻译";
+$locale['add_lang'] = "添加 %s";
 $locale['other_states'] = "Other States";
 // Name
-$locale['name'] = "Full Name";
-$locale['username_pretext'] = "Your public username is also the same as your user profile address located at: %s %s";
-$locale['first_name'] = "First Name";
-$locale['middle_name'] = "Middle Name";
-$locale['last_name'] = "Last Name";
+$locale['name'] = "全名";
+$locale['username_pretext'] = "您的公共用户名和用户空间网页地址在以： %s %s";
+$locale['first_name'] = "名字";
+$locale['middle_name'] = "中名";
+$locale['last_name'] = "姓名";
 // Documents
-$locale['doc_type'] = "Document type";
-$locale['doc_series'] = "Series";
-$locale['doc_number'] = "Number";
-$locale['doc_authority'] = "Authority";
-$locale['doc_date_issue'] = "Date of issue";
-$locale['doc_date_expire'] = "Date of expiry";
+$locale['doc_type'] = "文件类型";
+$locale['doc_series'] = "系列";
+$locale['doc_number'] = "号码";
+$locale['doc_authority'] = "权威";
+$locale['doc_date_issue'] = "发行日期";
+$locale['doc_date_expire'] = "到期日期";
 // Standard User Levels
-$locale['user0'] = "Public";
-$locale['user1'] = "Member";
-$locale['user2'] = "Administrator";
-$locale['user3'] = "Super Administrator";
-$locale['user_na'] = "N/A";
-$locale['user_guest'] = "Guest";
-$locale['user_anonymous'] = "Anonymous User";
-$locale['genitive'] = "%s's %s";
+$locale['user0'] = "公众";
+$locale['user1'] = "会员";
+$locale['user2'] = "管理员";
+$locale['user3'] = "业主";
+$locale['user_na'] = "其他";
+$locale['user_guest'] = "客人";
+$locale['user_anonymous'] = "匿名用户";
+$locale['genitive'] = "%s 的 %s";
 // Standard User Status
-$locale['status0'] = "Active";
-$locale['status1'] = "Banned";
-$locale['status2'] = "Unactivated";
-$locale['status3'] = "Suspended";
-$locale['status4'] = "Security Banned";
-$locale['status5'] = "Cancelled";
-$locale['status6'] = "Anonymous";
-$locale['status7'] = "Deactivated";
-$locale['status8'] = "Inactive";
+$locale['status0'] = "活性";
+$locale['status1'] = "禁止";
+$locale['status2'] = "未激活";
+$locale['status3'] = "悬挂";
+$locale['status4'] = "保安禁止";
+$locale['status5'] = "取消";
+$locale['status6'] = "匿名";
+$locale['status7'] = "停用";
+$locale['status8'] = "非活动";
 // Forum Moderator Level(s)
-$locale['userf1'] = "Moderator";
+$locale['userf1'] = "版主";
 // Navigation
-$locale['global_001'] = "Navigation";
+$locale['global_001'] = "网站链接";
 $locale['global_002'] = "没有链接
 ";
 $locale['global_003'] = "Nothing to preview";
 // Users Online
-$locale['global_010'] = "Users Online Now";
-$locale['global_011'] = "Guests Online";
-$locale['global_012'] = "Members Online";
-$locale['global_013'] = "No Members Online";
-$locale['global_014'] = "Total Members";
-$locale['global_015'] = "Unactivated Members";
-$locale['global_016'] = "Newest Member";
+$locale['global_010'] = "用户在线";
+$locale['global_011'] = "客户在线";
+$locale['global_012'] = "会员在线";
+$locale['global_013'] = "没有会员在线";
+$locale['global_014'] = "所有会员";
+$locale['global_015'] = "未激活成员";
+$locale['global_016'] = "最新成员";
 $locale['global_017'] = "Toggle Navigation";
 // Forum Side panel
-$locale['global_020'] = "Forum Threads";
-$locale['global_021'] = "Latest Discussions";
-$locale['global_022'] = "Hottest Threads";
-$locale['global_023'] = "No Threads created";
-$locale['global_024'] = "Participated Discussions";
-$locale['global_027'] = "Unanswered Threads";
-$locale['global_028'] = "Unsolved Questions";
+$locale['global_020'] = "论坛主题";
+$locale['global_021'] = "最新讨论";
+$locale['global_022'] = "热门主题";
+$locale['global_023'] = "未找到主题";
+$locale['global_024'] = "参与讨论";
+$locale['global_027'] = "未答复的主题";
+$locale['global_028'] = "未解决的问题";
 // Comments Side panel
-$locale['global_025'] = "Latest Comments";
-$locale['global_026'] = "No comments available";
+$locale['global_025'] = "最新评论";
+$locale['global_026'] = "未找到评论";
 // Articles Side panel
-$locale['global_030'] = "Latest Articles";
+$locale['global_030'] = "最新文章";
 $locale['global_031'] = "No Articles available";
 // Downloads Side panel
 $locale['global_032'] = "Latest Downloads";
@@ -148,11 +148,11 @@ $locale['global_074'] = " Reads";
 $locale['global_074b'] = " Read";
 $locale['global_075'] = "Print";
 $locale['print'] = "Print";
-$locale['global_076'] = "Edit";
+$locale['global_076'] = "编辑";
 $locale['global_077'] = "News";
 $locale['global_078'] = "No News has been posted yet";
 $locale['global_079'] = "In ";
-$locale['global_080'] = "Uncategorized";
+$locale['global_080'] = "Uncategorised";
 $locale['global_081'] = "News Home";
 $locale['global_082'] = "News";
 $locale['global_083'] = "Last Updated";
@@ -202,7 +202,7 @@ $locale['UM061'] = "Username";
 $locale['UM061a'] = "Email";
 $locale['UM061b'] = "Username or Email";
 $locale['UM062'] = "Password";
-$locale['UM063'] = "Remember me on this computer";
+$locale['UM063'] = "Remember Me";
 $locale['UM064'] = "Login";
 $locale['UM065'] = "Not a member yet? [LINK]Click here[/LINK] to register.";
 $locale['UM066'] = "Forgotten your password?
@@ -237,8 +237,8 @@ $locale['UM100'] = "PM Archive :";
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
-$locale['global_150'] = "Validation Code:";
-$locale['global_151'] = "Enter Validation Code:";
+$locale['global_150'] = "验证码:";
+$locale['global_151'] = "输入验证码：";
 // Footer Counter
 $locale['global_170'] = "unique visit";
 $locale['global_171'] = "unique visits";
@@ -262,7 +262,7 @@ $locale['global_196'] = "Invalid username or password.";
 $locale['global_197'] = "Please wait while we transfer you...
 
 [ [LINK]Or click here if you do not wish to wait[/LINK] ]";
-$locale['global_198'] = "WARNING: INSTALLER DETECTED, PLEASE DELETE THE INSTALL.PHP FILE IMMEDIATELY.";
+$locale['global_198'] = "WARNING: INSTALLER DETECTED, PLEASE DELETE THE /INSTALL/ FOLDER IMMEDIATELY.";
 $locale['global_199'] = "WARNING: admin password not set, click [LINK]Edit Profile[/LINK] to set it.";
 //Titles
 $locale['global_200'] = " - ";
@@ -290,7 +290,7 @@ $locale['global_400'] = "suspended";
 $locale['global_401'] = "banned";
 $locale['global_402'] = "deactivated";
 $locale['global_403'] = "account terminated";
-$locale['global_404'] = "account anonymized";
+$locale['global_404'] = "account anonymised";
 $locale['global_405'] = "anonymous user";
 $locale['global_406'] = "This account has been banned for the following reason:";
 $locale['global_407'] = "This account has been suspended until ";
@@ -362,7 +362,7 @@ $locale['global_500'] = "You are being redirected to %s, please wait. If you're 
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
 $locale['global_601'] = "You must enter a correct validation code";
-$locale['recaptcha'] = "en";
+$locale['recaptcha'] = "zh";
 // Site links
 $locale['global_700'] = "Show More";
 //Miscellaneous
@@ -376,7 +376,7 @@ $locale['global_ML103'] = "Switch Language";
 // Flood Control
 $locale['flood'] = "You are barred to post until the flood period cooldown is over. Please wait for %s.";
 $locale['no_image'] = "No Image";
-$locale['send_message'] = "Send Message";
+$locale['send_message'] = "发送消息";
 $locale['go_profile'] = "Go to %s Profile Page";
 // Global one word locales
 $locale['hello'] = "Hello!";
@@ -399,7 +399,7 @@ $locale['by'] = "by";
 $locale['in'] = "in";
 $locale['of'] = "of";
 $locale['and'] = "and";
-$locale['na'] = "No information available";
+$locale['na'] = "Not available";
 $locale['joined'] = "Joined since: ";
 // Navigation
 $locale['next'] = "Next";
@@ -423,7 +423,7 @@ $locale['confirm'] = "Confirm";
 $locale['update'] = "Update";
 $locale['updated'] = "Updated";
 $locale['remove'] = "Remove";
-$locale['delete'] = "Delete";
+$locale['delete'] = "删除";
 $locale['search'] = "Search";
 $locale['help'] = "Help";
 $locale['register'] = "Register";
@@ -445,10 +445,10 @@ $locale['he'] = "He";
 $locale['she'] = "She";
 $locale['it'] = "It";
 //Tables
-$locale['order'] = "Order";
+$locale['order'] = "Item Ordering";
 $locale['sort'] = "Sort";
 $locale['id'] = "ID";
-$locale['title'] = "Title";
+$locale['title'] = "标题";
 $locale['rights'] = "Rights";
 $locale['info'] = "Info";
 $locale['image'] = "Image";
@@ -462,8 +462,8 @@ $locale['parent'] = "Create as New Parent..";
 $locale['item_order'] = "Item Ordering";
 $locale['status'] = "Status";
 $locale['note'] = "Make a note of this item";
-$locale['publish'] = "Publish";
-$locale['unpublish'] = "Unpublish";
+$locale['publish'] = "Published";
+$locale['unpublish'] = "Unpublished";
 $locale['published'] = "Published";
 $locale['unpublished'] = "Unpublished";
 $locale['sticky'] = "Sticky";
@@ -472,7 +472,7 @@ $locale['draft'] = "Draft";
 $locale['settings'] = "Settings";
 $locale['posted'] = "posted";
 $locale['profile'] = "Profile";
-$locale['edit'] = "Edit";
+$locale['edit'] = "编辑";
 $locale['qedit'] = "Quick Edit";
 $locale['view'] = "View";
 $locale['login'] = "Login";

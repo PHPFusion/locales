@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Theme Manager";
+$locale['theme_1000'] = "Theme Administration";
 $locale['theme_1001'] = "Theme Name:";
 $locale['theme_1002'] = "Theme Presets";
 $locale['theme_1003'] = "Loaded";
@@ -41,7 +41,7 @@ $locale['theme_1037'] = "Select Theme Pack";
 
 $locale['theme_2001'] = "Base Fonts";
 $locale['theme_2002'] = "Theme Components";
-$locale['theme_2003'] = "Navigation";
+$locale['theme_2003'] = "网站链接";
 $locale['theme_2004'] = "Base Fonts";
 $locale['theme_2005'] = "Rebuilding New %s Theme";
 $locale['theme_2006'] = "The Atom Theme Engine is currently rebuilding your theme and may take up to 15 to 30 seconds depending of network status.\\nPlease do not close or refresh the window.";
@@ -115,7 +115,7 @@ $locale['theme_4012'] = "Text Color";
 $locale['theme_4013'] = "Link Color";
 $locale['theme_4014'] = "Text Styling";
 $locale['theme_4015'] = "Horizontal Text Styling";
-$locale['theme_4016'] = "Link Styling";
+$locale['theme_4016'] = "Horizontal Text Styling";
 
 $locale['theme_5000'] = "Normal";
 $locale['theme_5001'] = "Bold";

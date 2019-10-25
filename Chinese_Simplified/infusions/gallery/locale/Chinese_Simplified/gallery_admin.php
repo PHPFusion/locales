@@ -56,12 +56,12 @@ $locale['gallery_0107'] = "Use the following form to submit a Photo. Your submis
 <br/>should be applicable to the content of this site. Submissions deemed unsuitable will be rejected.";
 $locale['gallery_0111'] = "Submit Photo";
 $locale['gallery_0112'] = "Sorry, we currently do not accept any photo submissions on this site.";
-$locale['gallery_0113'] = "Return to [SITENAME]";
+$locale['gallery_0113'] = "返回 [SITENAME]";
 $locale['gallery_0150'] = "There are currently no photo submissions";
-$locale['gallery_0151'] = "There are currently %s pending for your review.";
+$locale['gallery_0151'] = "目前有 %s 等待您的审查.";
 $locale['gallery_0152'] = "Photo submission title for Review";
-$locale['gallery_0153'] = "Submission Author";
-$locale['gallery_0154'] = "Submission Time";
+$locale['gallery_0153'] = "博客作者S";
+$locale['gallery_0154'] = "提交时间";
 $locale['gallery_0155'] = "Submission ID";
 $locale['gallery_0156'] = "The above photo was submitted by";
 $locale['gallery_0157'] = "Posted by";

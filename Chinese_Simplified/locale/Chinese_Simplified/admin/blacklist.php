@@ -1,28 +1,28 @@
 <?php
 $locale['BLS_000'] = "Blacklist"; //406
 //Blacklist message
-$locale['BLS_010'] = "Invalid E-mail or IP address.";
-$locale['BLS_011'] = "Adding users to blacklist.";
-$locale['BLS_012'] = "User Modified blacklist.";
-$locale['BLS_013'] = "User deleted from Blacklist"; //401
-$locale['BLS_014'] = "Are you sure you want to delete this entry?";
-$locale['BLS_015'] = "The blacklist is currently empty."; //465
-$locale['BLS_016'] = "Blacklist email address is not valid email."; //405
+$locale['BLS_010'] = "无效的电子邮件或 IP 地址。";
+$locale['BLS_011'] = "将用户添加到黑名单。";
+$locale['BLS_012'] = "用户修改的黑名单。";
+$locale['BLS_013'] = "用户已从黑名单中删除"; //401
+$locale['BLS_014'] = "确实要删除此项吗？";
+$locale['BLS_015'] = "黑名单没有任何记录。"; //465
+$locale['BLS_016'] = "黑名单电子邮件地址无效。"; //405
 
-$locale['BLS_020'] = "Blacklist User"; //420
-$locale['BLS_021'] = "Edit blacklisted user"; //421
-$locale['BLS_022'] = "Add blacklisted user";
-$locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
+$locale['BLS_020'] = "黑名单用户"; //420
+$locale['BLS_021'] = "编辑黑名单"; //421
+$locale['BLS_022'] = "添加黑名单用户";
+$locale['BLS_023'] = "目前显示 %d %d 黑名单条目总数。";
 
-$locale['BLS_030'] = "Blacklisted info"; //461
+$locale['BLS_030'] = "黑名单信息"; //461
 $locale['BLS_031'] = "Admin"; //467
 $locale['BLS_032'] = "Date";  //468
 $locale['BLS_033'] = "Options"; //462
-$locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
-$locale['BLS_035'] = "Blacklist email address"; //442
-$locale['BLS_036'] = "Blacklist reason"; //443
-$locale['BLS_037'] = "Blacklist user";  //444
-$locale['BLS_038'] = "Update";
+$locale['BLS_034'] = "黑名单IP地址: [STRONG]或[/STRONG]"; //441
+$locale['BLS_035'] = "黑名单电子邮件地址"; //442
+$locale['BLS_036'] = "添加黑名单的原因"; //443
+$locale['BLS_037'] = "黑名单用户";  //444
+$locale['BLS_038'] = "更新";
 $locale['BLS_039'] = "全部选择";
 
 $locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.

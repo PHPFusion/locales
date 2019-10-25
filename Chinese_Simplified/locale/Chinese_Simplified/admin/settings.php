@@ -53,7 +53,7 @@ $locale['433'] = "mysite.com";
 $locale['434'] = "myfolder";
 $locale['435'] = "Exclude Above Upper Panels:";
 $locale['436'] = "Exclude Below Lower Panels:";
-$locale['437'] = "Enable Bootstrap";
+$locale['437'] = "Enable Bootstrap Responsive Framework";
 $locale['438'] = "Search Engine Friendly URL (SEF):";
 $locale['439'] = "Normalize Friendly URLs:";
 $locale['440'] = "Enable SEO Debug Mode:";
@@ -94,7 +94,7 @@ $locale['552'] = "Use email verification for registration?";
 $locale['553'] = "Display validation code?";
 $locale['557'] = "New members activated by admin?";
 $locale['558'] = "Enable terms of agreement?";
-$locale['559'] = "Terms of Agreement";
+$locale['559'] = "协议条款";
 
 // Other Settings
 $locale['601'] = "Thumb size:";
@@ -124,7 +124,7 @@ $locale['659'] = "Bad words filter enabled?";
 $locale['660'] = "Flood interval (seconds):";
 $locale['661'] = "Leave empty for immediate upload/download of backups.";
 $locale['662'] = "TinyMCE Editor";
-$locale['663'] = "For Custom Pages, Articles, Blogs and News Administration only.";
+$locale['663'] = "For Article, Blog and News Administration only.";
 $locale['664'] = "SMTP Host";
 $locale['665'] = "Leave empty if sendmail is enabled.";
 $locale['666'] = "SMTP Username";
@@ -138,14 +138,14 @@ $locale['672ML'] = "Downloads";
 $locale['673ML'] = "FAQs";
 $locale['674ML'] = "Forums";
 $locale['675ML'] = "News";
-$locale['676ML'] = "Photo gallery";
+$locale['676ML'] = "Photogallery";
 $locale['677ML'] = "Polls";
 $locale['678ML'] = "Shoutbox";
 $locale['679ML'] = "Weblinks";
-$locale['680ML'] = "Site links";
+$locale['680ML'] = "Sitelinks";
 $locale['681ML'] = "Panels";
 $locale['682ML'] = "Language Settings";
-$locale['683ML'] = "Enable Multilingual System";
+$locale['683ML'] = "Enable Multilingal System";
 $locale['684ML'] = "Enabled Languages";
 $locale['685ML'] = "Selection of allowed languages.
 PLEASE NOTE: By removing a language you also remove all customized site links, categories and any other multilangual content for the specific language from the system.";
@@ -180,7 +180,7 @@ $locale['694'] = "Allow PHP Execution";
 $locale['695'] = "WARNING! Allowing PHP execution will open the system to SQL vulnerabilities.";
 $locale['696'] = "Please enter your public and private reCAPTCHA key!";
 
-$locale['913'] = "Base Comments per Page";
+$locale['913'] = "Comments per page";
 
 $locale['955'] = "Original";
 $locale['956'] = "Square";
