@@ -30,4 +30,4 @@ $locale['ERROR_461'] = "Fehler in Datei";
 $locale['ERROR_462'] = "Optionen";
 $locale['ERROR_463'] = "Generiert von";
 $locale['ERROR_464'] = "Fehler Konsole";
-$locale['ERROR_465'] = "Source File";
+$locale['ERROR_465'] = "Quelldatei";

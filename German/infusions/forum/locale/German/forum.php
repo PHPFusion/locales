@@ -179,7 +179,7 @@ $locale['forum_0395'] = "Forum w&auml;hlen";
 $locale['forum_0396'] = "Foren Auswahl best&auml;tigen";
 $locale['forum_0397'] = "Es wurden noch keine Foren angelegt.";
 $locale['forum_0398'] = "Nicht m&ouml;glich die Datei herunterzuladen";
-$locale['forum_0399'] = "Add Bounty";
+$locale['forum_0399'] = "Belohnung hinzufügen";
 
 $locale['forum_0400'] = "Thread bounty has been updated. Please be sure to select the answer to be awarded with the bounty";
 
@@ -209,7 +209,7 @@ $locale['forum_0527'] = "%s haben darauf geantwortet - %s";
 $locale['forum_0528'] = "%s %s %s dazu - %s";
 $locale['forum_0529'] = "reacted";
 $locale['forum_0529a'] = "You do not have sufficient permissions to vote";
-$locale['forum_0530'] = "others";
+$locale['forum_0530'] = "andere";
 $locale['forum_0540'] = "Der Dateityp ist nicht erlaubt.";
 $locale['forum_0541'] = "Fehlerhafter Dateiname oder fehlerhafte Dateigr&ouml;&szlig;e.";
 $locale['forum_0542'] = "Fehler: Sie haben keinen Betreff und / oder keine Nachricht angegeben.";
@@ -284,9 +284,9 @@ $locale['forum_0661'] = "Hallo {USERNAME},
 
 ";
 
-$locale['forum_0662'] = "User Options";
-$locale['forum_0663'] = "Edit User";
-$locale['forum_0664'] = "Ban User";
+$locale['forum_0662'] = "Benutzeroptionen";
+$locale['forum_0663'] = "Benutzer bearbeiten";
+$locale['forum_0664'] = "Benutzer blocken";
 $locale['forum_0665'] = "L&ouml;sche den Benutzer";
 
 $locale['forum_0701'] = "Das Thema wurde erfolgreich entfernt.";
@@ -328,7 +328,7 @@ $locale['forum_4003'] = "You have marked the post as the answered to your questi
 $locale['forum_4004'] = "Post Answer Removed";
 $locale['forum_4005'] = "You have marked the post as unanswered to your question";
 $locale['forum_4006'] = "Post Answer Changed";
-$locale['forum_4007'] = "You have changed the answer to your question";
+$locale['forum_4007'] = "Sie haben die Antwort auf Ihre Frage geändert";
 $locale['forum_4100'] = "Edit Bounty Description";
 $locale['forum_4101'] = "This question has an open bounty worth {%points%} from {%profile_link%} ending in {%countdown%}";
 $locale['forum_4102'] = "This question is widely addressed to the entire community. The author has requested an answer to this thread.";
@@ -341,7 +341,7 @@ $locale['forum_4108'] = "The bounty has been awarded as requested.";
 $locale['forum_4109'] = "Thread bounty not awarded";
 $locale['forum_4110'] = "Thread bounty cannot be given to yourself.";
 $locale['forum_4120'] = "There are no forum ID or thread id defined. Please define either one.";
-$locale['forum_4121'] = "There are no activity in this forum.";
+$locale['forum_4121'] = "Es gibt keine Aktivitäten in diesem Forum.";
 
 $locale['forum_p001'] = "1 Tag";
 $locale['forum_p002'] = "2 Tage";

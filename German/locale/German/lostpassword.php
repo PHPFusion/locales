@@ -17,4 +17,4 @@ $locale['411'] = "Hallo [USER_NAME],
 
 ";
 $locale['412'] = "Leider ist ein Fehler aufgetreten. Bitte versuche es nochmals.";
-$locale['413'] = "Please enter your email address:";
+$locale['413'] = "Bitte geben Sie Ihre E-mail Adresse ein:";

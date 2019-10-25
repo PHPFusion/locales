@@ -1,3 +1,3 @@
 <?php
-$locale['bb_language_description'] = "Display selected text to a specific language";
-$locale['bb_language_usage'] = "Text to specific language";
+$locale['bb_language_description'] = "Ausgewählten Text in einer bestimmten Sprache anzeigen";
+$locale['bb_language_usage'] = "Text in eine bestimmte Sprache";

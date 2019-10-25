@@ -15,8 +15,8 @@ $locale['SMLY_413'] = "Das Smiley konnte nicht aktualisiert werden.";
 $locale['SMLY_414'] = "Das Smiley konnte nicht hinzugef&uuml;gt werden.";
 $locale['SMLY_415'] = "Das Smileyk&uuml;rzel ist bereits in Verwendung.";
 $locale['SMLY_416'] = "Bist du dir sicher, dass du das Smiley entfernen m&ouml;chtest?";
-$locale['SMLY_417'] = "Do you really want to deactivate this smiley?";
-$locale['SMLY_418'] = "Error Uploading smiley";
+$locale['SMLY_417'] = "Möchten Sie diesen Smiley wirklich deaktivieren?";
+$locale['SMLY_418'] = "Fehler beim Hochladen des Smiley";
 // Smiley form
 $locale['SMLY_420'] = "K&uuml;rzel:";
 $locale['SMLY_421'] = "Bild:";
