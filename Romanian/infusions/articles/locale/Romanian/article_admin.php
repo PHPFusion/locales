@@ -53,7 +53,7 @@ $locale['article_0150'] = "Nume";
 $locale['article_0152'] = "Status";
 $locale['article_0161'] = "&#350;terg aceast&#259; categorie?";
 $locale['article_0162'] = "Nu exist&#259; categorii definite.";
-$locale['article_0163'] = "Article Subject";
+$locale['article_0163'] = "Subiect articol";
 $locale['article_0200'] = "ID";
 $locale['article_0202'] = "Trimis de";
 $locale['article_0203'] = "Dat&#259;";
@@ -98,4 +98,4 @@ ar trebui s&#259; fie aplicabile pentru con&#355;inutul acestui sait. Trimiteril
 $locale['article_0921'] = "Trebuie s&#259; te conectezi pentru a trimite un articol.";
 $locale['article_0922'] = "Nu accept&#259;m pentru moment trimiterea de articole.";
 $locale['article_0923'] = "Nu po&#355;i trimite un articol, deoarece nu exist&#259; categorii de articole definite.";
-$locale['article_submit'] = "%s Articles";
+$locale['article_submit'] = "%s Articole";
