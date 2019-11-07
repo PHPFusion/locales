@@ -95,5 +95,5 @@ $locale['grecaptcha_0102a'] = "Jasny";
 $locale['grecaptcha_0102b'] = "Ciemny";
 $locale['grecaptcha_0103'] = "Typ walidacji";
 $locale['grecaptcha_0103a'] = "Tekst";
-$locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0103b'] = "Dźwięk";
 $locale['grecaptcha_warn'] = "Wpisz swój publiczny i prywatny klucz reCAPTCHA";
