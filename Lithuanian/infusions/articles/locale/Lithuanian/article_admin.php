@@ -98,4 +98,4 @@ administratoriaus. [SITENAME] pasilieka teisę straipsnį redaguoti ar keisti. S
 $locale['article_0921'] = "Norėdami pateikti straipsnį prisijunkite.";
 $locale['article_0922'] = "Atsiprašome, tačiau šiuo metu nepriimame straipsnių pateikimų.";
 $locale['article_0923'] = "Atsiprašome, tačiau negalite pateikti straipsnio, nes nėra sukurtų kategorijų.";
-$locale['article_submit'] = "%s Articles";
+$locale['article_submit'] = "%s Pateikti straipsnį";
