@@ -2,7 +2,7 @@
 $locale['download_604'] = "Szerokość x Wysokość";
 $locale['download_930'] = "Maximum size uploads:";
 $locale['download_931'] = "Maximum file size in Bajty";
-$locale['download_932'] = "Allowed file types:";
+$locale['download_932'] = "Dozwolone typy plików";
 $locale['download_933'] = "Separate each type with a comma";
 $locale['download_934'] = "Maximum screenshot size:";
 $locale['download_936'] = "Maximum screenshot file size (Bajty):";

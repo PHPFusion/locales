@@ -40,5 +40,5 @@ $locale['460b'] = "Please enter your Admin Password";
 $locale['461'] = "Required Information";
 // Backup List
 $locale['480'] = "Restore Backup";
-$locale['481'] = "Filename:";
-$locale['481b'] = "Please enter a Filename";
+$locale['481'] = "Nazwa pliku:";
+$locale['481b'] = "Wprowadź nazwę użytkownika";

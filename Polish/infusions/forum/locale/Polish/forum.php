@@ -21,7 +21,7 @@ $locale['forum_0012'] = "Najnowsze wątki";
 $locale['forum_0013'] = "Kategorie forum";
 $locale['forum_0014'] = "Reputacja";
 $locale['forum_0015'] = "Forum Overview";
-$locale['forum_0016'] = "Activity";
+$locale['forum_0016'] = "Aktywność";
 $locale['forum_0017'] = "People";
 $locale['forum_0018'] = "Person";
 $locale['forum_0019'] = "There are no sub-forums available";
@@ -29,7 +29,7 @@ $locale['forum_0019'] = "There are no sub-forums available";
 $locale['forum_0020'] = "Ostatni aktywność";
 $locale['forum_0021'] = "%s przez %s";
 $locale['forum_0022'] = "Odpowiedział(a) w";
-$locale['forum_0023'] = "Re:";
+$locale['forum_0023'] = "Odp:";
 $locale['forum_0024'] = "See the full discussion posts";
 
 
@@ -75,7 +75,7 @@ $locale['forum_0170'] = "Pokaż mój podpis w tym poście";
 $locale['forum_0171'] = "Notify me when a reply is posted";
 $locale['forum_0172'] = "Umieść odpowiedź";
 $locale['forum_0173'] = "Podgląd odpowiedzi";
-$locale['forum_0174'] = "Stop Track";
+$locale['forum_0174'] = "Przestań obserwować";
 $locale['forum_0175'] = "Track thread";
 $locale['forum_0176'] = "Move posts";
 $locale['forum_0177'] = "Delete selected posts?";

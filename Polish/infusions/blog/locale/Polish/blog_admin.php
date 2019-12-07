@@ -120,13 +120,13 @@ $locale['blog_604'] = "Szerokość x Wysokość";
 $locale['blog_605'] = "Maximum file size (Bajty):";
 // Blog Settings
 $locale['blog_950'] = "Image Upload";
-$locale['blog_951'] = "Image link:";
+$locale['blog_951'] = "Adres obrazka:";
 $locale['blog_952'] = "Kategoria";
 $locale['blog_953'] = "Blog Item";
 $locale['blog_954'] = "Thumb ratio:";
-$locale['blog_955'] = "Original";
+$locale['blog_955'] = "Oryginał";
 $locale['blog_956'] = "Square";
 $locale['blog_959'] = "Uploaded Photo";
 $locale['blog_960'] = "Category Image";
-$locale['blog_961'] = "Allowed file types:";
+$locale['blog_961'] = "Dozwolone typy plików";
 $locale['blog_submit'] = "%s Blog";
