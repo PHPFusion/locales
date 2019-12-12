@@ -6,7 +6,7 @@ $locale['fmt_open'] = "deschide|deschide";
 // Sorting
 $locale['web_0030'] = "Cele mai recente";
 $locale['web_0031'] = "Top vizite";
-$locale['web_0032'] = "Cele mai vechi post&#259;ri";
+$locale['web_0032'] = "Oldest";
 // Views
 $locale['web_0040'] = "Vizualizare ca galerie";
 $locale['web_0041'] = "Vizualizare ca list&#259;";

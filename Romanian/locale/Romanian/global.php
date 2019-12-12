@@ -3,7 +3,7 @@ setlocale(LC_ALL, "ro_RO.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "RO"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ro";
-$locale['short_lang_name'] = "ro";
+$locale['short_lang_name'] = "en";
 $locale['tinymce'] = "ro"; // refer to path includes/jscripts/tinymce/langs/{value}.js
 $locale['select2'] = "ro"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "ro"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
@@ -65,7 +65,7 @@ $locale['user0'] = "Public";
 $locale['user1'] = "Membru";
 $locale['user2'] = "Administrator";
 $locale['user3'] = "Super Administrator";
-$locale['user_na'] = "necunoscut&#259;";
+$locale['user_na'] = "N/A";
 $locale['user_guest'] = "Oaspete";
 $locale['user_anonymous'] = "Anonim";
 $locale['genitive'] = "%s's %s";

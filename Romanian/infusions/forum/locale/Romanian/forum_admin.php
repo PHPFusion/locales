@@ -1,8 +1,8 @@
 <?php
 $locale['500'] = "Forum";
 $locale['501'] = "Panou cele mai noi discu&#355;ii active &#238;n forum:";
-$locale['502'] = "Da";
-$locale['503'] = "Nu";
+$locale['502'] = "On";
+$locale['503'] = "Off";
 $locale['505'] = "Discu&#355;ii recente";
 $locale['506'] = "(cele mai noi discu&#355;ii active &#238;n forum)";
 $locale['507'] = "Arat&#259; IP public:";
