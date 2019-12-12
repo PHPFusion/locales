@@ -23,11 +23,11 @@ $locale['forum_0014'] = "Репутация";
 $locale['forum_0015'] = "Обзор форума";
 $locale['forum_0016'] = "Активность";
 $locale['forum_0017'] = "Автор";
-$locale['forum_0018'] = "Person";
+$locale['forum_0018'] = "Человек";
 $locale['forum_0019'] = "Подфорумов нет";
 
 $locale['forum_0020'] = "Последняя активность";
-$locale['forum_0021'] = "on %s by %s";
+$locale['forum_0021'] = "на %s от %s";
 $locale['forum_0022'] = "Ответил";
 $locale['forum_0023'] = "Re:";
 $locale['forum_0024'] = "Смотреть все темы";

@@ -65,7 +65,7 @@ $locale['gateway_059'] = "пароль";
 
 // General
 $locale['gateway_060'] = "<strong>Сколько будет => (</strong>";
-$locale['gateway_061'] = "in";
+$locale['gateway_061'] = "в";
 $locale['gateway_062'] = "<strong>) = ???</strong><br/> Дайте ответ прописью ниже";
 $locale['gateway_063'] = "<strong>) = ???</strong><br/> Дайте ответ цифрами ниже";
 $locale['gateway_064'] = "Вы должны ответить на вопрос";

@@ -80,7 +80,7 @@ $locale['status6'] = "Анонимный";
 $locale['status7'] = "Деактивирован";
 $locale['status8'] = "Неактивный";
 // Forum Moderator Level(s)
-$locale['userf1'] = "Moderator";
+$locale['userf1'] = "Модератор";
 // Navigation
 $locale['global_001'] = "Навигация";
 $locale['global_002'] = "Ссылки не заданы";
