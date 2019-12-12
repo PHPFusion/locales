@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP informasjon";
+$locale['400'] = "PHP Info";
 //General
 $locale['401'] = "Generelt";
 $locale['402'] = "Server programvare";
@@ -7,7 +7,7 @@ $locale['403'] = "Webserver programvare";
 $locale['404'] = "PHP versjon";
 $locale['405'] = "PHP-grensesnitt";
 $locale['406'] = "MySQL Server versjon";
-$locale['406a'] = "Skal PDO slås aktiveres";
+$locale['406a'] = "Database Driver";
 $locale['407'] = "PHP-Fusion versjon";
 $locale['408'] = "Database navn";
 $locale['409'] = "Cookie navn";

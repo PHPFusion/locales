@@ -1,5 +1,5 @@
 <?php
-$locale['forum.php'] = "Debatter";
+$locale['forum.php'] = "Forums";
 $locale['f400'] = "Forum innlegg";
 $locale['f401'] = "alle forumer";
 $locale['f402'] = "Forum innlegg";

@@ -1,5 +1,5 @@
 <?php
-$locale['BBCA_400'] = "BB koder";
+$locale['BBCA_400'] = "BB Codes";
 $locale['BBCA_400a'] = "BB Codes Admin";
 $locale['BBCA_401'] = "Test BB Codes";
 // Enabled BB Codes
@@ -11,11 +11,11 @@ $locale['BBCA_406'] = "Usage";
 $locale['BBCA_407'] = "Order";
 $locale['BBCA_408'] = "Down";
 $locale['BBCA_409'] = "Up";
-$locale['BBCA_410'] = "Deaktiver";
+$locale['BBCA_410'] = "Disable";
 $locale['BBCA_411'] = "There are no BB Codes enabled.";
 // Disabled BB Codes
 $locale['BBCA_413'] = "Disabled BB Codes";
-$locale['BBCA_414'] = "Aktiver";
+$locale['BBCA_414'] = "Enable";
 $locale['BBCA_416'] = "There are no BB Codes disabled.";
 // Test BB Codes
 $locale['BBCA_417'] = "BB Codes Test Output";

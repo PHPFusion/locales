@@ -15,10 +15,10 @@ $locale['GRP_411'] = "User \"%s\" removed from group \"%s\"";
 $locale['GRP_412'] = "\"%s\" users removed from group \"%s\"";
 
 // Edit/Delete Options
-$locale['GRP_420'] = "Brukergrupper";
+$locale['GRP_420'] = "User Groups";
 $locale['GRP_421'] = "Edit Group";
 $locale['GRP_422'] = "Delete Group";
-$locale['GRP_423'] = "Brukeradministrasjon";
+$locale['GRP_423'] = "User Management";
 $locale['GRP_424'] = "Displaying %d User Group.";
 $locale['GRP_425'] = "Delete this user group?";
 $locale['GRP_426'] = "Default Group";
@@ -32,7 +32,7 @@ $locale['GRP_434'] = "Save Group";
 $locale['GRP_435'] = "ID";
 $locale['GRP_436'] = "Icon";
 $locale['GRP_437'] = "Action";
-$locale['GRP_438'] = "Brukere";
+$locale['GRP_438'] = "Members";
 $locale['GRP_439'] = "Group Icon";
 // Search/Add Group Users
 $locale['GRP_440'] = "Add users to Group";

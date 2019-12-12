@@ -114,11 +114,11 @@ $locale['blog_0703'] = "Bruk følgende skjema for å legge til en Blogg. Ditt bi
 Administrator. [SITENAME] forbeholder seg retten til å endre eller redigere innsending. Bloggen
 bør være aktuelt for innholdet på dette nettstedet. Uegnede innleveringer vil bli slettet.";
 $locale['blog_0704'] = "Tilbake til [SITENAME]";
-$locale['blog_601'] = "Bildets filnavn ble lagt til feil.";
-$locale['blog_602'] = "Bildet må være mindre enn %u bytes.";
-$locale['blog_603'] = "Aksepterte skjema er kun GIF, JPEG eller PNG.";
-$locale['blog_604'] = "Bildet må ikke være større enn %uw x %uh piksler.";
-$locale['blog_605'] = "Maks. fil størrelse (i bytes):";
+$locale['blog_601'] = "Thumb size:";
+$locale['blog_602'] = "Photo size:";
+$locale['blog_603'] = "Maximum photo size:";
+$locale['blog_604'] = "Width x Height";
+$locale['blog_605'] = "Maximum file size (bytes):";
 // Blog Settings
 $locale['blog_950'] = "Image Upload";
 $locale['blog_951'] = "Image link:";
@@ -126,7 +126,7 @@ $locale['blog_952'] = "Category";
 $locale['blog_953'] = "Blog Item";
 $locale['blog_954'] = "Thumb ratio:";
 $locale['blog_955'] = "Original";
-$locale['blog_956'] = "Firkantet";
+$locale['blog_956'] = "Square";
 $locale['blog_959'] = "Uploaded Photo";
 $locale['blog_960'] = "Category Image";
 $locale['blog_961'] = "Allowed file types:";

@@ -311,7 +311,7 @@ $locale['register_settings'] = "Registrerings Innstillinger";
 $locale['security_settings'] = "Sikkerhets Innstillinger";
 $locale['time_settings'] = "Tid Dato Innstillinger";
 $locale['user_settings'] = "Bruker Ledelse Innstillinger";
-$locale['theme_settings'] = "Tema oppsettning";
+$locale['theme_settings'] = "Theme Settings";
 
 $locale['securimage3'] = "Secure Image v.3";
 
