@@ -4,13 +4,13 @@ $locale['401a'] = "Site Host Settings";
 $locale['401b'] = "The configuration for your site url, site port and site protocols.";
 
 // Site Settings
-$locale['401'] = "Principali";
+$locale['401'] = "Main";
 $locale['402'] = "Nome sito";
 $locale['403'] = "URL del sito";
 $locale['404'] = "Logo del sito";
-$locale['404left'] = "Sinistra";
-$locale['404center'] = "Centro";
-$locale['404right'] = "Destra";
+$locale['404left'] = "Left";
+$locale['404center'] = "Center";
+$locale['404right'] = "Right";
 $locale['404XS'] = "Logo Position XS (mobile)";
 $locale['404SM'] = "Logo Position SM (tablet)";
 $locale['404MD'] = "Logo Position MD (laptop)";
@@ -158,7 +158,7 @@ $locale['672'] = "Attiva il sistema di classificazione?";
 $locale['673'] = "Nascondi i profili utente dal pubblico:";
 $locale['674'] = "Porta SMTP";
 $locale['675'] = "livello di manutenzione:";
-$locale['676'] = "Amministratori";
+$locale['676'] = "Administrators";
 $locale['677'] = "Super amministratori";
 $locale['678'] = "Sito proprietario";
 $locale['679'] = "Attiva contapersone?";
@@ -250,7 +250,7 @@ $locale['1014a'] = "Disattiva per una maggiore sicurezza";
 $locale['1015'] = "Width";
 $locale['1016'] = "Height";
 
-$locale['1020'] = [1 => 'Byte (byte)', 1024 => 'KB (kilobyte)', 1048576 => 'MB (megabyte)'];
+$locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Crea OpenGraph meta tag per le reti sociali";

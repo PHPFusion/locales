@@ -1,5 +1,5 @@
 <?php
-$locale['download_604'] = "larghezza x altezza";
+$locale['download_604'] = "Width x Height";
 $locale['download_930'] = "Maximum size uploads:";
 $locale['download_931'] = "Maximum file size in bytes";
 $locale['download_932'] = "Allowed file types:";
@@ -16,14 +16,14 @@ $locale['download_0002'] = "Aggiungi download";
 $locale['download_0003'] = "Modifica download";
 $locale['download_0004'] = "Tutti i Downloads";
 $locale['download_0005'] = "Attualmente visualizzati da %d di %d voci download totale";
-$locale['download_0006'] = "Impostazioni";
+$locale['download_0006'] = "Settings";
 $locale['download_0010'] = "Filtra per:";
 $locale['download_0011'] = "Filtro Mostra la categoria di";
 $locale['download_0020'] = "Categorie download correnti";
 $locale['download_0021'] = "Modifica categoria download";
 $locale['download_0022'] = "Download categoria";
 $locale['download_0023'] = "Download categoria Editor";
-$locale['download_0039'] = "Ritorna a [SITENAME]";
+$locale['download_0039'] = "Return to [SITENAME]";
 $locale['download_0040'] = "Spiacente, al momento non accettiamo qualsiasi invio di download su questo sito.";
 $locale['download_0041'] = "Invia download";
 $locale['download_0042'] = "Grazie per averci inviato il vostro file";

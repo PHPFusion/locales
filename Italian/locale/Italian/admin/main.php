@@ -1,7 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "Pannello di amministrazione [SITENAME]";
-$locale['200a'] = "Pannello di amministrazione";
+$locale['200a'] = "Admin Panel";
 $locale['ac00'] = "Admin Home";
 $locale['ac01'] = "Contenuto Admin";
 $locale['ac02'] = "Utente Admin";
@@ -32,7 +32,7 @@ $locale['PH'] = "Galleria";
 $locale['B'] = "Lista nera";
 $locale['C'] = "Commenti";
 $locale['DB'] = "Backup Database";
-$locale['PI'] = "Info su PHP";
+$locale['PI'] = "PHP Info";
 $locale['PO'] = "Sondaggi";
 $locale['SL'] = "Link Navigazione";
 $locale['SU'] = "Contributi";
@@ -58,9 +58,9 @@ $locale['S11'] = "Download";
 $locale['S10'] = "Elementi per pagina";
 $locale['SB'] = "Banner";
 $locale['S12'] = "Sicurezza";
-$locale['APWR'] = "Reimposta password amministrativa";
-$locale['ERRO'] = "Registro errori";
-$locale['AD'] = "Amministratori";
+$locale['APWR'] = "Admin Password Reset";
+$locale['ERRO'] = "Error Log";
+$locale['AD'] = "Administrators";
 $locale['UL'] = "Accesso utente";
 $locale['MAIL'] = "Email modelli";
 $locale['PL'] = "Permalink";

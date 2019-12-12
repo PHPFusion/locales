@@ -1,5 +1,5 @@
 <?php
-$locale['BLS_000'] = "Lista nera"; //406
+$locale['BLS_000'] = "Blacklist"; //406
 //Blacklist message
 $locale['BLS_010'] = "Invalid E-mail or IP address.";
 $locale['BLS_011'] = "Adding users to blacklist.";
@@ -15,14 +15,14 @@ $locale['BLS_022'] = "Add blacklisted user";
 $locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
 
 $locale['BLS_030'] = "Blacklisted info"; //461
-$locale['BLS_031'] = "Amministratore"; //467
-$locale['BLS_032'] = "Data";  //468
-$locale['BLS_033'] = "Opzioni"; //462
+$locale['BLS_031'] = "Admin"; //467
+$locale['BLS_032'] = "Date";  //468
+$locale['BLS_033'] = "Options"; //462
 $locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
 $locale['BLS_035'] = "Blacklist email address"; //442
 $locale['BLS_036'] = "Blacklist reason"; //443
 $locale['BLS_037'] = "Blacklist user";  //444
-$locale['BLS_038'] = "Aggiorna";
+$locale['BLS_038'] = "Update";
 $locale['BLS_039'] = "Select All";
 
 $locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
