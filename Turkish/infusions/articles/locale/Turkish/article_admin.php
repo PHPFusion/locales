@@ -98,4 +98,4 @@ Makaleler, Bu Sitenin İçeriğine Uygun Olmalıdır. Uygun Olmayan Gönderiler 
 $locale['article_0921'] = "Bir Makale Önerebilmek İçin Üye Girişi Yapmalısınız.";
 $locale['article_0922'] = "Hemen Arkasından Yapılan Yeni Makale Önerilerini Kabul Etmiyoruz.";
 $locale['article_0923'] = "Hiçbir Kategori Tanımlanmadığından Dolayı Makale Öneremezsiniz.";
-$locale['article_submit'] = "Makaleler %s";
+$locale['article_submit'] = "%s Articles";

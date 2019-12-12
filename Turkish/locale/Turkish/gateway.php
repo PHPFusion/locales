@@ -74,4 +74,4 @@ $locale['gateway_065'] = "İlerle";
 $locale['gateway_066'] = "Cevabınız Yanlış! <br/> Lütfen Tüm Cevapları Bir Satıra Yazın. Örnek: Yirmi Altı veya On Dokuz";
 $locale['gateway_067'] = "Tekrar Deneyin!";
 $locale['gateway_068'] = "Lütfen Daha Sonra Tekrar Deneyiniz!";
-$locale['gateway_069'] = "Fusion Geçidi";
+$locale['gateway_069'] = "Fusion GateWay";
