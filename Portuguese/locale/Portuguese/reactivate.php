@@ -1,14 +1,17 @@
 <?php
 // Error messages
-$locale['500'] = "An error occurred";
-$locale['501'] = "The re-activation link you clicked is no longer valid.<br /><br />Contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
-$locale['502'] = "The re-activation link you clicked is invalid!<br /><br />Contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
-$locale['503'] = "The re-activation link you followed could not re-activate your account.<br />
-Perhaps your account has already been re-activated and in that case you should be able to [LINK]log in here[/LINK].<br /><br />
-If you cannot log in now, please contact the site's administrator at [SITEEMAIL] if you want to request a manual re-activation.";
+$locale['500'] = "Ocorreu um erro";
+$locale['501'] = "O link de reactivação que você clicou é inválido.<br /><br />Entre em contacto com o administrador do site em [SITEEMAIL] se você deseja solicitar uma reactivação manual.";
+$locale['502'] = "O link de reactivação que você clicou é inválido.<br /><br />Entre em contacto com o administrador do site em [SITEEMAIL] se você deseja solicitar uma reactivação manual.";
+$locale['503'] = "O link de reativação que você seguiu não pôde reactivar sua conta.<br />
+Talvez a sua conta já tenha sido reactivada e, nesse caso, você deve ser capaz de [LINK]fazer login aqui[/LINK].<br /><br />
+Se não puder entrar agora, por favor contacte o administrador do site em [SITEEMAIL] se você deseja solicitar uma reativação manual.";
 // Send confirmation mail
-$locale['504'] = "Account re-activated at [SITENAME]";
-$locale['505'] = "Hello [USER_NAME],
-<br/>\r\nYour account at [SITENAME] has been re-activated. We hope to see you more often at the site.<br/><br/>\r\n
-Regards,<br/><br/>\r\n[SITEUSERNAME]";
-$locale['506'] = "Reactivated by user.";
+$locale['504'] = "Conta reactivada em [SITENAME]";
+$locale['505'] = "Olá [USER_NAME],
+<br/>
+A sua conta em [SITENAME] foi reactivada. Esperamos vê-lo mais frequentemente no site.<br/><br/>
+
+Atenciosamente,<br/><br/>
+[SITEUSERNAME]";
+$locale['506'] = "Reactivada pelo usuário.";

@@ -1,34 +1,34 @@
 <?php
 // Administrators messages
-$locale['ADM_400'] = "Administrator added";
-$locale['ADM_401'] = "Administrator updated";
-$locale['ADM_402'] = "Administrator removed";
+$locale['ADM_400'] = "Administrador Adicionado";
+$locale['ADM_401'] = "Administrador actualizado";
+$locale['ADM_402'] = "Administrador removido";
 // Search/Add Administrator
-$locale['ADM_410'] = "Add Administrator";
-$locale['ADM_411'] = "Search for users to add using the form below.";
-$locale['ADM_413'] = "User Name";
-$locale['ADM_415'] = "Apply all privileges";
-$locale['ADM_416'] = "Make Super Administrator";
-$locale['ADM_418'] = "No users found.";
-$locale['ADM_419'] = "Search Again";
+$locale['ADM_410'] = "Adicionar administrador";
+$locale['ADM_411'] = "Pesquisar usuários para adicionar usando o formulário abaixo.";
+$locale['ADM_413'] = "Nome de Utilizador";
+$locale['ADM_415'] = "Aplicar todos os privilégios";
+$locale['ADM_416'] = "Tornar Super Administrador";
+$locale['ADM_418'] = "Nenhum utilizador encontrado.";
+$locale['ADM_419'] = "Pesquisar Novamente";
 // Current Administrators
-$locale['ADM_420'] = "Administrators";
-$locale['ADM_421'] = "User Name";
-$locale['ADM_422'] = "Admin Level";
-$locale['ADM_423'] = "Options";
-$locale['ADM_425'] = "No rights assigned";
+$locale['ADM_420'] = "Administradores";
+$locale['ADM_421'] = "Nome de Utilizador";
+$locale['ADM_422'] = "Nível de Admin";
+$locale['ADM_423'] = "Opções";
+$locale['ADM_425'] = "Sem direitos atribuídos";
 // Edit Admin Rights
-$locale['ADM_440'] = "Edit Admin Rights";
-$locale['ADM_441'] = "Content Admin";
-$locale['ADM_442'] = "User Admin";
-$locale['ADM_443'] = "System Admin";
-$locale['ADM_444'] = "Infusions";
-$locale['ADM_445'] = "Check all";
-$locale['ADM_448'] = "Save Admin Rights";
-$locale['ADM_449'] = "Settings";
-$locale['ADM_450'] = "Check secure";
+$locale['ADM_440'] = "Editar Permissões de Admin";
+$locale['ADM_441'] = "Administrador de Conteúdo";
+$locale['ADM_442'] = "Administrador de Utilizadores";
+$locale['ADM_443'] = "Administrador de Sistema";
+$locale['ADM_444'] = "Infusões";
+$locale['ADM_445'] = "Marcar todos";
+$locale['ADM_448'] = "Salvar Permissões de Admin";
+$locale['ADM_449'] = "Definições";
+$locale['ADM_450'] = "Verificar segurança";
 // Popup Error/Warning Messages
-$locale['ADM_460'] = "Remove this administrator?";
-$locale['ADM_461'] = "Add this administrator?";
-$locale['ADM_462'] = "Giving these admin rights to a user is a potential security risk!";
-$locale['ADM_463'] = "No action selected!";
+$locale['ADM_460'] = "Eliminar este administrador?";
+$locale['ADM_461'] = "Adicionar administrador?";
+$locale['ADM_462'] = "Dar estes direitos de administrador a um utilizador é um risco potencial de segurança!";
+$locale['ADM_463'] = "Nenhuma acção selecionada!";

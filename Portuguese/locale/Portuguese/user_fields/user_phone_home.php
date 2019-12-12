@@ -1,4 +1,4 @@
 <?php
-$locale['uf_phone_home'] = "Home phone";
-$locale['uf_phone_home_desc'] = "User home (landline) phone number";
-$locale['uf_phone_home_error'] = "User home phone can not be left empty.";
+$locale['uf_phone_home'] = "Telefone fixo";
+$locale['uf_phone_home_desc'] = "Número de telefone fixo do utilizador";
+$locale['uf_phone_home_error'] = "O Número de telefone fixo não pode ser deixado em branco.";

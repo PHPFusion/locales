@@ -1,29 +1,29 @@
 <?php
 $locale['BBCA_400'] = "BB Codes";
 $locale['BBCA_400a'] = "BB Codes Admin";
-$locale['BBCA_401'] = "Test BB Codes";
+$locale['BBCA_401'] = "Testar BB Codes";
 // Enabled BB Codes
-$locale['BBCA_402'] = "Enabled BB Codes";
-$locale['BBCA_403'] = "Name";
-$locale['BBCA_404'] = "Icon";
-$locale['BBCA_405'] = "Description";
-$locale['BBCA_406'] = "Usage";
-$locale['BBCA_407'] = "Order";
-$locale['BBCA_408'] = "Down";
-$locale['BBCA_409'] = "Up";
-$locale['BBCA_410'] = "Disable";
-$locale['BBCA_411'] = "There are no BB Codes enabled.";
+$locale['BBCA_402'] = "BB Code activado";
+$locale['BBCA_403'] = "Nome";
+$locale['BBCA_404'] = "Ícone";
+$locale['BBCA_405'] = "Descrição";
+$locale['BBCA_406'] = "Utilização";
+$locale['BBCA_407'] = "Ordem";
+$locale['BBCA_408'] = "Para baixo";
+$locale['BBCA_409'] = "Para cima";
+$locale['BBCA_410'] = "Desactivar";
+$locale['BBCA_411'] = "Não há códigos BB activados.";
 // Disabled BB Codes
-$locale['BBCA_413'] = "Disabled BB Codes";
-$locale['BBCA_414'] = "Enable";
-$locale['BBCA_416'] = "There are no BB Codes disabled.";
+$locale['BBCA_413'] = "Códigos BB desactivados";
+$locale['BBCA_414'] = "Activar";
+$locale['BBCA_416'] = "Não há códigos BB desactivados.";
 // Test BB Codes
-$locale['BBCA_417'] = "BB Codes Test Output";
-$locale['BBCA_418'] = "Disable smileys in this test";
-$locale['BBCA_418a'] = "Test Message";
-$locale['BBCA_418b'] = "Please enter a message to test BB Codes.";
+$locale['BBCA_417'] = "Resultado do Teste de BB Codes";
+$locale['BBCA_418'] = "Desactivar smileys neste teste";
+$locale['BBCA_418a'] = "Testar Mensagem";
+$locale['BBCA_418b'] = "Por favor, introduza uma mensagem para testar BB Codes.";
 // Notices
-$locale['BBCA_430'] = "BB Code has been moved Up.";
-$locale['BBCA_431'] = "BB Code has been moved Down.";
-$locale['BBCA_432'] = "BB Code has been Enabled.";
-$locale['BBCA_433'] = "BB Code has been Disabled.";
+$locale['BBCA_430'] = "BB Code foi movido para cima.";
+$locale['BBCA_431'] = "BB Code foi movido para baixo.";
+$locale['BBCA_432'] = "BB Code foi activado.";
+$locale['BBCA_433'] = "BB Code foi desactivado.";

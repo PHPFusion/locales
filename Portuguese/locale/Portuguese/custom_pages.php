@@ -1,7 +1,7 @@
 <?php
-$locale['page_400'] = "Access Denied!<br/>You are not permitted to view this page.";
-$locale['page_401'] = "Internal Error";
-$locale['page_402'] = "Unable to retrieve page content.";
-$locale['page_403'] = "Go Back";
-$locale['page_404'] = "Widget is missing. Please restore or remove content.";
-$locale['page_405'] = "Unable to view widget content";
+$locale['page_400'] = "Acesso negado!<br/>Você não tem permissão para ver esta página.";
+$locale['page_401'] = "Erro interno";
+$locale['page_402'] = "Não é possível recuperar o conteúdo da página.";
+$locale['page_403'] = "Voltar";
+$locale['page_404'] = "Widget ausente. Por favor, restaure ou remova o conteúdo.";
+$locale['page_405'] = "Não é possível ver o conteúdo do widget";

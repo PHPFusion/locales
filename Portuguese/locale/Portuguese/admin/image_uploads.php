@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion File Manager";
+$locale['100'] = "Gestor de Ficheiros Fusion";
 
 // Delete Image
-$locale['400'] = "Delete Image";
-$locale['401'] = "Image Deleted";
-$locale['402'] = "Return to Images Admin";
-$locale['403'] = "Return to Admin Index";
+$locale['400'] = "Apagar imagem";
+$locale['401'] = "Imagem apagada";
+$locale['402'] = "Voltar para a Administração de Imagens";
+$locale['403'] = "Voltar ao Índice de Admin";
 // Upload Image
-$locale['420'] = "Upload Image";
-$locale['421'] = "Filename:";
-$locale['422'] = "Main Images";
-$locale['423'] = "Article Images";
-$locale['424'] = "News Images";
-$locale['425'] = "Max. file size %s / Allowed file types .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Image Uploaded";
-$locale['427'] = "News Cats Images";
-$locale['428'] = "Blog Images";
-$locale['429'] = "Blog Cats Images";
+$locale['420'] = "Carregar imagem";
+$locale['421'] = "Ficheiro:";
+$locale['422'] = "Imagens Principais";
+$locale['423'] = "Imagens do Artigo";
+$locale['424'] = "Imagens de Notícias";
+$locale['425'] = "Tamanho máximo do ficheiro %s / tipos permitidos .jpg,.JPG,.png,.PNG,.JPEG,.gif,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
+$locale['426'] = "Imagem carregada";
+$locale['427'] = "Imagens de Categorias de Notícias";
+$locale['428'] = "Imagens de Blog";
+$locale['429'] = "Imagens de Categorias de Blog";
 // View Image
-$locale['440'] = "View Image";
-$locale['441'] = "Unknown file format, cannot display image.";
-$locale['442'] = "Delete this image";
+$locale['440'] = "Ver imagem";
+$locale['441'] = "Formato de ficheiro desconhecido, não é possível exibir a imagem.";
+$locale['442'] = "Apagar esta imagem";
 // Image Management
-$locale['460'] = "Images";
-$locale['461'] = "View";
-$locale['463'] = "This folder is empty";
-$locale['464'] = "Update image list for TinyMCE editor";
+$locale['460'] = "Imagens";
+$locale['461'] = "Ver";
+$locale['463'] = "Esta pasta está vazia";
+$locale['464'] = "Actualizar lista de imagens para o editor TinyMCE";
 // Popup Error/Warning Messages
-$locale['470'] = "Delete this image?";
+$locale['470'] = "Apagar esta imagem?";

@@ -1,5 +1,5 @@
 <?php
 $locale['uf_vimeo'] = "Vimeo";
-$locale['uf_vimeo_desc'] = "Vimeo Account ID";
-$locale['uf_vimeo_error'] = "Vimeo ID can not be left empty.";
-$locale['uf_vimeo_error_1'] = "Vimeo ID is incorrect. Please use a valid Vimeo ID";
+$locale['uf_vimeo_desc'] = "ID da Conta do Vimeo";
+$locale['uf_vimeo_error'] = "O ID do Vimeo não pode ser deixado em branco.";
+$locale['uf_vimeo_error_1'] = "O ID do Vimeo está incorrecto. Por favor, use um ID válido do Vimeo";

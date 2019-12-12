@@ -1,8 +1,8 @@
 <?php
-$locale['PW_0100'] = "Panel";
-$locale['PW_0101'] = "PHP-Fusion Panels";
-$locale['PW_0200'] = "Select Installed Panel";
-$locale['PW_0201'] = "Please verify the installed Panel Access Settings in [LINK]Panel Administration[/LINK]";
-$locale['PW_0220'] = "Save Panel";
-$locale['PW_0221'] = "Save and Close Panel";
-$locale['PW_0222'] = "Panel Filename";
+$locale['PW_0100'] = "Painel";
+$locale['PW_0101'] = "Paineis do PHP-Fusion";
+$locale['PW_0200'] = "Seleccionar Painel Instalado";
+$locale['PW_0201'] = "Por favor, verifique as configurações de acesso ao painel instaladas no [LINK]Administração do Painel[/LINK]";
+$locale['PW_0220'] = "Guardar Painel";
+$locale['PW_0221'] = "Guardar e Fechar Painel";
+$locale['PW_0222'] = "Nome do ficheiro do painel";

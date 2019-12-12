@@ -1,32 +1,68 @@
 <?php
-$locale['email_create_subject'] = "Account created at [SITENAME]";
-$locale['email_create_message'] = "Hello [USER_NAME],<br/>\r\n
-Your account at [SITENAME] has been created.<br/>\r\nYou can now login using the following details:<br/>\r\n
-Username: [USER_NAME]<br/>\r\nPassword: [PASSWORD]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+$locale['email_create_subject'] = "Conta criada em [SITENAME]";
+$locale['email_create_message'] = "Olá [USER_NAME],<br/>
 
-$locale['email_activate_subject'] = "Account activated at [SITENAME]";
-$locale['email_activate_message'] = "Hello [USER_NAME],<br/>\r\nYour account at [SITENAME] has been activated.<br/>\r\n
-You can now login using your chosen username and password.<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+A sua conta em [SITENAME] foi criada.<br/>
+Agora você pode entrar usando os seguintes detalhes:<br/>
 
-$locale['email_deactivate_subject'] = "Account reactivation required at [SITENAME]";
-$locale['email_deactivate_message'] = "Hello [USER_NAME],<br/>\r\nIt has been [DEACTIVATION_PERIOD] day(s) since you last logged in at [SITENAME]. Your user has been marked as inactive but all your account details and content remains intact.<br/>\r\n
-To reactivate your account simply click the following link: [REACTIVATION_LINK]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+Nome de Utilizador: [USER_NAME]<br/>
+Palavra-passe: [PASSWORD]<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Your account on [SITENAME] has been banned";
-$locale['email_ban_message'] = "Hello [USER_NAME],<br/>\r\nYour account on [SITENAME] has been banned by [ADMIN_USERNAME] because of the following reason:<br/>\r\n
-[REASON]<br/>\r\nIf you want more information about this ban, please, contact the site administrator at [SITENAME].<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+$locale['email_activate_subject'] = "Conta activada em [SITENAME]";
+$locale['email_activate_message'] = "Olá [USER_NAME],<br/>
+A sua conta em [SITENAME] foi activada.<br/>
 
-$locale['email_secban_subject'] = "Your account on [SITENAME] has been banned";
-$locale['email_secban_message'] = "Hello [USER_NAME],<br/>\r\nYour account on [SITENAME] has been banned by [ADMIN_USERNAME] because of some actions accredited to you or linked to your account were considered a security threat to the site.<br/>\r\n
-If you want more information about this security ban, please, contact the site administrator at [SITENAME].<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+Agora você pode entrar usando seu nome de utilizador e palavra-passe.<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
 
-$locale['email_suspend_subject'] = "Your account on [SITENAME] has been suspended";
-$locale['email_suspend_message'] = "Hello [USER_NAME],<br/>\r\n
-Your account on [SITENAME] has been suspended by [ADMIN_USERNAME] until [DATE] (site time) because of the following reason:<br/>\r\n
-[REASON]<br/>\r\nIf you want more information about this suspension, please, contact the site administrator at [SITENAME].<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+$locale['email_deactivate_subject'] = "Reactivação da conta necessária em [SITENAME]";
+$locale['email_deactivate_message'] = "Olá [USER_NAME],<br/>
+Passaram [DEACTIVATION_PERIOD] dia(s) desde a última vez que você entrou em [SITENAME]. O seu utilizador foi marcado como inactivo, mas todos os detalhes e conteúdo da sua conta permanecem intactos.<br/>
 
-$locale['email_resend_subject'] = "Re-sent activation link - [SITENAME]";
-$locale['email_resend_message'] = "Hello [USER_NAME],<br/>\r\n
-You received this email because you did not activate the email on our site - [SITENAME].<br/>\r\nIf you do not activate an email within one day, your registration request will be canceled.<br/>\r\n
-You have registered with the following information:<br/>\r\nUsername: [USER_NAME]<br/>\r\n
-You can activate account with the following link:<br/>\r\n[ACTIVATION_LINK]<br/>\r\nRegards,<br/>\r\n[SITENAME]";
+Para reactivar a sua conta basta clicar no seguinte link: [REACTIVATION_LINK]<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+
+$locale['email_ban_subject'] = "A sua conta em [SITENAME] foi banida";
+$locale['email_ban_message'] = "Olá [USER_NAME],<br/>
+A sua conta em [SITENAME] foi banida por [ADMIN_USERNAME] pelo seguinte motivo:<br/>
+
+[REASON]<br/>
+Se você quiser mais informações sobre este ban, por favor, entre em contato com o administrador do site em [SITENAME].<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+
+$locale['email_secban_subject'] = "A sua conta em [SITENAME] foi banida";
+$locale['email_secban_message'] = "Olá [USER_NAME],<br/>
+A sua conta em [SITENAME] foi banida por [ADMIN_USERNAME] por causa de algumas acções relacionadas com a sua conta que foram consideradas uma ameaça de segurança ao site.<br/>
+
+Se você quiser mais informações sobre este ban por segurança, por favor, contacte o administrador do site em [SITENAME].<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+
+$locale['email_suspend_subject'] = "A sua conta em [SITENAME] foi suspensa";
+$locale['email_suspend_message'] = "Olá [USER_NAME],<br/>
+
+A sua conta em [SITENAME] foi suspensa por [ADMIN_USERNAME] até [DATE] (hora do site) pelo seguinte motivo:<br/>
+
+[REASON]<br/>
+Se quiser mais informações sobre esta suspensão, por favor, entre em contacto com o administrador do site em [SITENAME].<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+
+$locale['email_resend_subject'] = "Link de activação reenviado - [SITENAME]";
+$locale['email_resend_message'] = "Olá [USER_NAME],<br/>
+
+Você recebeu este e-mail porque não activou o e-mail em nosso site - [SITENAME].<br/>
+Se você não activar o e-mail dentro de um dia, seu pedido de registo será cancelado.<br/>
+
+Registou-se com as seguintes informações:<br/>
+Nome de Utilizador: [USER_NAME]<br/>
+
+Você pode activar a conta através do seguinte link:<br/>
+[ACTIVATION_LINK]<br/>
+Atenciosamente,<br/>
+[SITENAME]";

@@ -1,3 +1,3 @@
 <?php
-$locale['bb_size_description'] = "Defines size of selected text";
-$locale['bb_size_usage'] = "Text to size";
+$locale['bb_size_description'] = "Define o tamanho do texto seleccionado";
+$locale['bb_size_usage'] = "Texto ao tamanho";

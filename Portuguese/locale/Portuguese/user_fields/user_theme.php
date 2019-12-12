@@ -1,4 +1,4 @@
 <?php
-$locale['uf_theme'] = "Theme";
-$locale['uf_theme_desc'] = "Allows users to choose their theme";
-$locale['uf_theme_error'] = "Theme can not be left empty.";
+$locale['uf_theme'] = "Tema";
+$locale['uf_theme_desc'] = "Permitir que os utilizadores mudem o tema";
+$locale['uf_theme_error'] = "O tema não pode ser deixado em branco.";

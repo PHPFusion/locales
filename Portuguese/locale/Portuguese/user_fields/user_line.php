@@ -1,5 +1,5 @@
 <?php
-$locale['uf_line'] = "Line ID";
-$locale['uf_line_desc'] = "Line Instant Messenger";
-$locale['uf_line_error'] = "Line ID can not be left empty.";
-$locale['uf_line_error_1'] = "Line ID is incorrect. Please use a valid Line ID";
+$locale['uf_line'] = "ID Line";
+$locale['uf_line_desc'] = "Mensageiro Instanâneo Line";
+$locale['uf_line_error'] = "O Line ID não pode ser deixado vazio.";
+$locale['uf_line_error_1'] = "O Line ID está incorreto. Por favor, use um ID de linha válido";

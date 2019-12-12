@@ -1,4 +1,4 @@
 <?php
-$locale['uf_location'] = "Location";
-$locale['uf_location_desc'] = "Country, city or town";
-$locale['uf_location_error'] = "Location can not be left empty.";
+$locale['uf_location'] = "Localização";
+$locale['uf_location_desc'] = "País, região ou cidade";
+$locale['uf_location_error'] = "A Localização não pode ser deixada em branco.";

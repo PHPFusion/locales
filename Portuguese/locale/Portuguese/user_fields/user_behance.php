@@ -1,5 +1,5 @@
 <?php
 $locale['uf_behance'] = "Behance";
-$locale['uf_behance_id'] = "Behance Username";
-$locale['uf_behance_desc'] = "Behance Profile Page";
-$locale['uf_behance_error'] = "Behance Username can not be left empty.";
+$locale['uf_behance_id'] = "Nome do Utilizador Behance";
+$locale['uf_behance_desc'] = "Página de Perfil Behance";
+$locale['uf_behance_error'] = "O Nome de Utilizador Behance não pode ser deixado em branco.";

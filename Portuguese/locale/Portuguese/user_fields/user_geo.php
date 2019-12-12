@@ -1,4 +1,4 @@
 <?php
-$locale['uf_geo'] = "User Geo";
-$locale['uf_geo_desc'] = "Country, Region, City, Address, Zip from our Geo DB";
-$locale['uf_geo_error'] = "Geo fields can not be left empty.";
+$locale['uf_geo'] = "Geo do Utilizador";
+$locale['uf_geo_desc'] = "País, região, cidade, endereço, CP do nosso Geo DB";
+$locale['uf_geo_error'] = "Os campos geo não podem ser deixados vazios.";

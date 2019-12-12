@@ -1,5 +1,5 @@
 <?php
-$locale['uf_sig'] = "Signature";
-$locale['uf_sig_desc'] = "Allows extra lines of text.";
-$locale['uf_sig_error'] = "Signature can not be left empty.";
-$locale['na'] = "Signature not available";
+$locale['uf_sig'] = "Assinatura";
+$locale['uf_sig_desc'] = "Permite linhas de texto extras.";
+$locale['uf_sig_error'] = "Assinatura não pode ser deixada em branco.";
+$locale['na'] = "Assinatura não está disponível";

@@ -1,17 +1,26 @@
 <?php
-$locale['400'] = "Lost Password";
-$locale['401'] = "A confirmation email has been sent to your email address.";
-$locale['402'] = "Your new password has been sent to your email address.";
-$locale['403'] = "Return to Main Site";
-$locale['404'] = "The email address you specified could not be found.";
-$locale['405'] = "The email address you specified is invalid.";
+$locale['400'] = "Palavra-Passe Perdida?";
+$locale['401'] = "Um e-mail de confirmação foi enviado para o seu endereço.";
+$locale['402'] = "A nova palavra-passe foi enviada para o seu endereço de e-mail.";
+$locale['403'] = "Voltar para o Site Principal";
+$locale['404'] = "O endereço de e-mail especificado não foi encontrado.";
+$locale['405'] = "O endereço de e-mail que você especificou é inválido.";
 $locale['406'] = "Por favor tente novamente.";
-$locale['407'] = "Please enter the email address your account is registered with below.<br/>A new password will be created and sent to this address.";
-$locale['408'] = "Send Password";
-$locale['409'] = "New password for ";
-$locale['410'] = "Hello [USER_NAME],<br/>\r\nYou have or someone has requested a new password to access your [SITENAME] account.<br/>\r\n
-To change your password please click the following link:<br/>\r\n[NEW_PASS_LINK]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
-$locale['411'] = "Hello [USER_NAME],<br/>\r\nYour new password to access your [SITENAME] account is:<br/>\r\n
-[NEW_PASS]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
-$locale['412'] = "There was an error, please try again.";
-$locale['413'] = "Please enter your email address:";
+$locale['407'] = "Por favor, introduza o endereço de e-mail com o qual sua conta está registada abaixo.<br/>Uma nova palavra-passe será criada e enviada para este endereço.";
+$locale['408'] = "Enviar palavra-passe";
+$locale['409'] = "Nova palavra passe para ";
+$locale['410'] = "Olá [USER_NAME],<br/>
+Você ou alguém pediu uma nova palavra--passe para entrar na sua conta do [SITENAME].<br/>
+
+Para alterar a sua palavra-passe clique no seguinte link:<br/>
+[NEW_PASS_LINK]<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+$locale['411'] = "Olá [USER_NAME],<br/>
+Sua nova palavra-passe para aceder à sua conta em [SITENAME] é:<br/>
+
+[NEW_PASS]<br/>
+Atenciosamente,<br/>
+[SITEUSERNAME]";
+$locale['412'] = "Ocorreu um erro. Tente novamente.";
+$locale['413'] = "Introduza o seu endereço de e-mail:";

@@ -1,5 +1,5 @@
 <?php
-$locale['uf_birthdate'] = "Birthdate";
+$locale['uf_birthdate'] = "Data de Nascimento";
 $locale['uf_birthdate_date'] = "%d %B %Y";
-$locale['uf_birthdate_desc'] = "Displays user's birth date";
-$locale['uf_birthdate_error'] = "Birth date was not set correctly.";
+$locale['uf_birthdate_desc'] = "Mostra a data de nascimento do utilizador";
+$locale['uf_birthdate_error'] = "Data de nascimento não foi definida correctamente.";

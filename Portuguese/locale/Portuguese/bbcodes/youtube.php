@@ -1,4 +1,4 @@
 <?php
-$locale['bb_youtube'] = "YouTube Video";
-$locale['bb_youtube_description'] = "YouTube Video Embedder";
-$locale['bb_youtube_usage'] = "YouTube movie ID to display";
+$locale['bb_youtube'] = "Video do Youtube";
+$locale['bb_youtube_description'] = "Embedder de Vídeo do YouTube";
+$locale['bb_youtube_usage'] = "ID do vídeo do YouTube para mostrar";

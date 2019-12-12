@@ -1,12 +1,12 @@
 <?php
-$locale['material_001'] = 'Search (more than 2 characters)';
-$locale['material_002'] = 'Theme Settings';
-$locale['material_003'] = 'Hide Sidebar';
-$locale['material_004'] = 'Small Sidebar';
-$locale['material_005'] = 'Fixed Menu';
-$locale['material_006'] = 'Fixed Sidebar';
-$locale['material_009'] = 'Messages';
-$locale['material_010'] = 'Read';
-$locale['material_011'] = 'New Message';
-$locale['material_012'] = 'There are no messages';
-$locale['material_013'] = 'Created by';
+$locale['material_001'] = 'Pesquisar (mais de 2 caracteres)';
+$locale['material_002'] = 'Defenições de Temas';
+$locale['material_003'] = 'Esconder a Barra Lateral';
+$locale['material_004'] = 'Barra Lateral pequena';
+$locale['material_005'] = 'Menu Fixo';
+$locale['material_006'] = 'Barra Lateral fixa';
+$locale['material_009'] = 'Mensagens';
+$locale['material_010'] = 'Ler';
+$locale['material_011'] = 'Nova Mensagem';
+$locale['material_012'] = 'Não há nenhuma mensagem';
+$locale['material_013'] = 'Criado por';

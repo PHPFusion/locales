@@ -1,3 +1,3 @@
 <?php
-$locale['bb_small2_description'] = "Displays selected text as alt. small";
-$locale['bb_small2_usage'] = "Text to alt. small";
+$locale['bb_small2_description'] = "Mostra o texto selecionado como alt. pequeno";
+$locale['bb_small2_usage'] = "Texto para alt, pequeno";

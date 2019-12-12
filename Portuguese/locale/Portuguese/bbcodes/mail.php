@@ -1,4 +1,4 @@
 <?php
-$locale['bb_mail'] = "Email address";
-$locale['bb_mail_description'] = "Makes email address clickable";
-$locale['bb_mail_usage'] = "Email address or text to display as";
+$locale['bb_mail'] = "Endereço de E-mail";
+$locale['bb_mail_description'] = "Faz com que o endereço de e-mail seja clicável";
+$locale['bb_mail_usage'] = "Endereço de e-mail ou texto para mostrar como";

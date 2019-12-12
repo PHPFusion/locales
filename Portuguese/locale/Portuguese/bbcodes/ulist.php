@@ -1,6 +1,6 @@
 <?php
-$locale['bb_ulist_description'] = "Creates unordered list from specified type";
-$locale['bb_ulist_usage'] = "Text 1 :enter: Text 2 :enter: etc";
-$locale['bb_ulist_1'] = "disc";
-$locale['bb_ulist_2'] = "circle";
-$locale['bb_ulist_3'] = "square";
+$locale['bb_ulist_description'] = "Cria uma lista desordenada do tipo especificado";
+$locale['bb_ulist_usage'] = "Texto 1 :enter: Texto 2 :enter: etc";
+$locale['bb_ulist_1'] = "disco";
+$locale['bb_ulist_2'] = "círculo";
+$locale['bb_ulist_3'] = "quadrado";

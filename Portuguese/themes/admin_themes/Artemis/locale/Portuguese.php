@@ -1,8 +1,8 @@
 <?php
-$locale['spotlight'] = "Spotlight";
-$locale['spotlight_search'] = "Search for Apps";
+$locale['spotlight'] = "Destaque";
+$locale['spotlight_search'] = "Procurar por aplicações";
 $locale['copyright'] = "Copyright &copy; ";
-$locale['render_engine'] = "Render Engine";
+$locale['render_engine'] = "Motor de renderização";
 $locale['artemis_admin'] = "Artemis PHP-Fusion 9";
 $locale['admin_apps'] = "Apps";
-$locale['admin_collapse'] = "Collapse Menu";
+$locale['admin_collapse'] = "Recolher Menu";

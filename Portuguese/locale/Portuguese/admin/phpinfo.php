@@ -1,31 +1,31 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "Info PHP";
 //General
-$locale['401'] = "General";
-$locale['402'] = "Server software";
-$locale['403'] = "Web-server software";
-$locale['404'] = "PHP version";
-$locale['405'] = "PHP interface";
-$locale['406'] = "MySQL Server version";
-$locale['406a'] = "Database Driver";
-$locale['407'] = "PHP-Fusion version";
-$locale['408'] = "Database prefix";
-$locale['409'] = "Cookie prefix";
-$locale['410'] = "Web-browser and OS";
+$locale['401'] = "Geral";
+$locale['402'] = "Software do servidor";
+$locale['403'] = "Software do servidor Web";
+$locale['404'] = "Versão do PHP";
+$locale['405'] = "Interface PHP";
+$locale['406'] = "Versão do Servidor MySQL";
+$locale['406a'] = "Driver da Base de Dados";
+$locale['407'] = "Versão PHP-Fusion";
+$locale['408'] = "Prefixo da base de dados";
+$locale['409'] = "Prefixo do Cookie";
+$locale['410'] = "Navegador Web e OS";
 //PHP settings
-$locale['420'] = "PHP settings";
-$locale['423'] = "Safe-mode";
-$locale['424'] = "RegisterGlobals";
-$locale['425'] = "Support for";
-$locale['426'] = "Files upload (max file size)";
-$locale['428'] = "Display errors";
-$locale['429'] = "Disabled functions";
-$locale['430'] = "n/a";
-$locale['431'] = "version";
+$locale['420'] = "Configurações do PHP";
+$locale['423'] = "Modo de Segurança";
+$locale['424'] = "Registros Globais";
+$locale['425'] = "Suporte para";
+$locale['426'] = "Upload de ficheiros (tamanho máximo de ficheiro)";
+$locale['428'] = "Mostrar erros";
+$locale['429'] = "Funções desactivadas";
+$locale['430'] = "n/d";
+$locale['431'] = "versão";
 //Write permission
-$locale['440'] = "Folder Permissions";
-$locale['441'] = "Writeable";
-$locale['442'] = "Not writeable";
+$locale['440'] = "Permissões da Pasta";
+$locale['441'] = "Pode ser escrito";
+$locale['442'] = "Não pode ser escrito";
 //PHPinfo
-$locale['450'] = "Details";
-$locale['451'] = "Unable to get data. Check if phpinfo() function is switched off?";
+$locale['450'] = "Detalhes";
+$locale['451'] = "Não foi possível obter dados. Verifique se a função phpinfo() está desligada?";
