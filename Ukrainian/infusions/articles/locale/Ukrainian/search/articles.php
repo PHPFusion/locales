@@ -1,5 +1,5 @@
 <?php
-$locale['articles.php'] = "Статті";
+$locale['articles.php'] = "Articles";
 $locale['a400'] = "Статті";
 $locale['a401'] = "Стаття";
 $locale['a402'] = "Статті";

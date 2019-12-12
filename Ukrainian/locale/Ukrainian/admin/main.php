@@ -1,7 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] - Центр керування";
-$locale['200a'] = "Центр керування";
+$locale['200a'] = "Admin Panel";
 $locale['ac00'] = "Центр керування";
 $locale['ac01'] = "Сайт";
 $locale['ac02'] = "Користувачі";
