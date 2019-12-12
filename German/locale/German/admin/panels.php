@@ -87,4 +87,4 @@ $locale['603'] = "Genutzte Panels";
 $locale['604'] = "Panel|Panels";
 $locale['605'] = "";
 $locale['606'] = "Inhalt der Website";
-$locale['607'] = "Datei";
+$locale['607'] = "File";

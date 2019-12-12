@@ -6,22 +6,22 @@ $locale['PL_401a'] = "Permalink Settings";
 
 // Common
 $locale['PL_402'] = "Rewrite Name";
-$locale['PL_403'] = "Beschreibung";
-$locale['PL_404'] = "Optionen";
-$locale['PL_404a'] = "Aktivieren";
-$locale['PL_404b'] = "Deaktivieren";
+$locale['PL_403'] = "Description";
+$locale['PL_404'] = "Options";
+$locale['PL_404a'] = "Enable";
+$locale['PL_404b'] = "Disable";
 $locale['PL_404d'] = "Reinstall";
 
 // Editing Permalinks
 $locale['PL_405'] = "Editing Permalinks for %s";
-$locale['PL_406'] = "Stichwörter";
-$locale['PL_407'] = "Beschreibung";
+$locale['PL_406'] = "Tags";
+$locale['PL_407'] = "Description";
 $locale['PL_408'] = "Types";
 $locale['PL_409'] = "Edit Pattern";
 $locale['PL_410'] = "Permalink type %u:";
-$locale['PL_411'] = "Fehler";
+$locale['PL_411'] = "Error";
 $locale['PL_412'] = "Check the files of the Permalink %s!";
-$locale['PL_413'] = "Speichern";
+$locale['PL_413'] = "Save";
 $locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
 $locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
                   You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>

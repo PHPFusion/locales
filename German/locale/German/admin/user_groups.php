@@ -30,9 +30,9 @@ $locale['GRP_432'] = "Gruppenname:";
 $locale['GRP_433'] = "Gruppenbeschreibung:";
 $locale['GRP_434'] = "Benutzergruppe speichern";
 $locale['GRP_435'] = "ID";
-$locale['GRP_436'] = "Symbol";
+$locale['GRP_436'] = "Icon";
 $locale['GRP_437'] = "Action";
-$locale['GRP_438'] = "Mitglieder";
+$locale['GRP_438'] = "Members";
 $locale['GRP_439'] = "Group Icon";
 // Search/Add Group Users
 $locale['GRP_440'] = "Benutzer hinzuf&uuml;gen";

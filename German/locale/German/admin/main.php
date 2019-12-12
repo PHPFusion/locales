@@ -1,7 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] Adminbereich";
-$locale['200a'] = "Administration";
+$locale['200a'] = "Admin Panel";
 $locale['ac00'] = "&Uuml;bersicht";
 $locale['ac01'] = "Inhalt";
 $locale['ac02'] = "Benutzer";
@@ -23,9 +23,9 @@ $locale['FQ'] = "FAQs";
 $locale['F'] = "Foren";
 $locale['IM'] = "Bilder";
 $locale['I'] = "Infusionen";
-$locale['IP'] = "Infusionen Panels";
+$locale['IP'] = "Infusion Panels";
 $locale['M'] = "Mitglieder";
-$locale['MI'] = "Migrationstool";
+$locale['MI'] = "Migration Tool";
 $locale['N'] = "News";
 $locale['P'] = "Panels";
 $locale['PH'] = "Fotoalben";
@@ -36,7 +36,7 @@ $locale['PI'] = "PHP Info";
 $locale['PO'] = "Umfragen";
 $locale['SL'] = "Navigationslinks";
 $locale['SU'] = "Einsendungen";
-$locale['U'] = "Update";
+$locale['U'] = "Upgrade";
 $locale['UG'] = "Benutzergruppen";
 $locale['UP'] = "Benutzer Profil";
 $locale['WC'] = "Weblinkkategorien";
