@@ -1,9 +1,9 @@
 <?php
 $locale['forum.php'] = "Debatter";
-$locale['f400'] = "Indlæg i debat";
+$locale['f400'] = "Debatforumindlæg";
 $locale['f401'] = "alle forums";
 $locale['f402'] = "Debatforumindlæg";
-$locale['f403'] = "Indlæg i debat";
+$locale['f403'] = "Debatforumindlæg";
 $locale['f404'] = "Sticky:";
 $locale['f405'] = "Meddelelse:";
 $locale['f406'] = "fundet i";

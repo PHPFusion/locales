@@ -131,5 +131,5 @@ $locale['news_955'] = "Original";
 $locale['news_956'] = "Kvadrat";
 $locale['news_957'] = "Billede på forsiden";
 $locale['news_958'] = "Billede ved læs-mere";
-$locale['news_959'] = "Tilføj billede";
+$locale['news_959'] = "Tilføjet billede";
 $locale['news_submit'] = "%s nyheder";
