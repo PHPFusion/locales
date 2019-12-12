@@ -251,7 +251,7 @@ $locale['forum_0591'] = "Flush Pos";
 $locale['forum_0592'] = "Flush Utusan";
 $locale['forum_0593'] = "Flush Lampiran";
 $locale['forum_0595'] = "Flush Undian";
-$locale['forum_0596'] = "Soalan";
+$locale['forum_0596'] = "Question";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Mesej";

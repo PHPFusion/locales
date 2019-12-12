@@ -6,7 +6,7 @@ $locale['fmt_open'] = "buka|buka";
 // Sorting
 $locale['web_0030'] = "Terkini";
 $locale['web_0031'] = "Paling dikunjung";
-$locale['web_0032'] = "Tertua";
+$locale['web_0032'] = "Oldest";
 // Views
 $locale['web_0040'] = "Masonry";
 $locale['web_0041'] = "Lihat senarai";

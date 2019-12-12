@@ -65,7 +65,7 @@ $locale['user0'] = "Awam";
 $locale['user1'] = "Ahli";
 $locale['user2'] = "Admin";
 $locale['user3'] = "Super Admin";
-$locale['user_na'] = "Tidak Berkenaan";
+$locale['user_na'] = "N/A";
 $locale['user_guest'] = "Tetamu";
 $locale['user_anonymous'] = "User Diselaputi";
 $locale['genitive'] = "%s %s";
@@ -372,7 +372,7 @@ $locale['global_901'] = "Insert Media";
 $locale['global_ML100'] = "Bahasa:";
 $locale['global_ML101'] = "- Pilih Bahasa -";
 $locale['global_ML102'] = "Bahasa Halaman";
-$locale['global_ML103'] = "Tukar Bahasa";
+$locale['global_ML103'] = "Switch Language";
 // Flood Control
 $locale['flood'] = "Anda dilarang untuk membuat sebarang pos balasan dalam tempoh kawalan pos banjir tamat. Sila tunggu selama %s.";
 $locale['no_image'] = "Tiada Gambar";

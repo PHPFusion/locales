@@ -1,6 +1,6 @@
 <?php
 // Infusion Management
-$locale['400'] = "Modul Infusion";
+$locale['400'] = "Infusions";
 $locale['401'] = "Infuse";
 $locale['402'] = "Modul ini telah bercantum dengan sistem Infusion";
 $locale['403'] = "Modul ini tidak dapat dicantumkan dengan sistem Infusion";

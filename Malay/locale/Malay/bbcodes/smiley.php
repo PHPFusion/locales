@@ -1,3 +1,3 @@
 <?php
-$locale['bb_smiley_description'] = "Smileys";
-$locale['bb_smiley_usage'] = "Tambah bbcode Smiley";
+$locale['bb_smiley_description'] = "Smiley";
+$locale['bb_smiley_usage'] = "Tambah bbcode smiley";

@@ -1,5 +1,5 @@
 <?php
-$locale['weblinks.php'] = "Pautan Web";
+$locale['weblinks.php'] = "Weblinks";
 $locale['w400'] = "Pautan Web";
 $locale['w401'] = "Pautan Web";
 $locale['w402'] = "Pautan Web";
