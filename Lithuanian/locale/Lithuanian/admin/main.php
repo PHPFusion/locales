@@ -1,7 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] valdymo pultas";
-$locale['200a'] = "Administracijos panelė";
+$locale['200a'] = "Admin Panel";
 $locale['ac00'] = "Adm. pagrindinis";
 $locale['ac01'] = "Turinio valdymas";
 $locale['ac02'] = "Vartotojų valdymas";
@@ -25,7 +25,7 @@ $locale['IM'] = "Paveiksliukai";
 $locale['I'] = "Įskiepiai";
 $locale['IP'] = "Įskiepių panelės";
 $locale['M'] = "Nariai";
-$locale['MI'] = "Migravimo įrankis";
+$locale['MI'] = "Migration Tool";
 $locale['N'] = "Naujienos";
 $locale['P'] = "Panelės";
 $locale['PH'] = "Foto albumai";

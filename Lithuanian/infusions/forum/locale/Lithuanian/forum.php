@@ -249,7 +249,7 @@ $locale['forum_0591'] = "Išvalyti pranešimus";
 $locale['forum_0592'] = "Išvalyti temas";
 $locale['forum_0593'] = "Išvalyti prikabintus failus";
 $locale['forum_0595'] = "Išvalyti apklausas";
-$locale['forum_0596'] = "Klausimas";
+$locale['forum_0596'] = "Question";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Žinutė";
@@ -290,7 +290,7 @@ Linkėjimai,
 $locale['forum_0662'] = "User Options";
 $locale['forum_0663'] = "Edit User";
 $locale['forum_0664'] = "Ban User";
-$locale['forum_0665'] = "Ištrinti vartotoją";
+$locale['forum_0665'] = "Delete User";
 
 $locale['forum_0701'] = "Tema buvo ištrinta.";
 $locale['forum_0704'] = "Ar tikrai norite ištrinti šią temą?";

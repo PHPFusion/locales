@@ -250,7 +250,7 @@ $locale['1014a'] = "Dėl saugumo patariama išjungti";
 $locale['1015'] = "Width";
 $locale['1016'] = "Height";
 
-$locale['1020'] = [1 => 'Baitai (bytes)', 1024 => 'KB (Kilobaitai)', 1048576 => 'MB (Megabaitai)'];
+$locale['1020'] = [1 => 'Baitai (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Sukurti OpenGraph meta žymes socialiniams tinklams";

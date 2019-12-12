@@ -6,7 +6,7 @@ $locale['fmt_open'] = "atidaryti|atidaryti";
 // Sorting
 $locale['web_0030'] = "Naujausia";
 $locale['web_0031'] = "Dažniausiai atidaroma";
-$locale['web_0032'] = "Seniausias";
+$locale['web_0032'] = "Oldest";
 // Views
 $locale['web_0040'] = "Galerijos rodymas";
 $locale['web_0041'] = "Sąrašo rodymas";
