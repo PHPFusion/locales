@@ -219,9 +219,9 @@ $locale['803'] = "Archivos adjuntos eliminados:";
 $locale['820'] = "Política de privacidad";
 
 // Banners Settings
-$locale['850'] = "Anuncios";
-$locale['851'] = "Auncio 1";
-$locale['852'] = "Auncio 2";
+$locale['850'] = "Banners";
+$locale['851'] = "Banner 1";
+$locale['852'] = "Banner 2";
 $locale['853'] = "Contraseña de administrador:";
 $locale['854'] = "Guardar Banners";
 $locale['855'] = "Banners de vista previa";

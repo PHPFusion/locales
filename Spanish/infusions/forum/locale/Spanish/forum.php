@@ -249,7 +249,7 @@ $locale['forum_0591'] = "Poner a ras";
 $locale['forum_0592'] = "Hilos al ras";
 $locale['forum_0593'] = "Adjuntos al ras";
 $locale['forum_0595'] = "Encuesta al ras";
-$locale['forum_0596'] = "Pregunta";
+$locale['forum_0596'] = "Question";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Mensaje";
@@ -291,7 +291,7 @@ $locale['forum_0661'] = "Hola {USERNAME},
 $locale['forum_0662'] = "User Options";
 $locale['forum_0663'] = "Edit User";
 $locale['forum_0664'] = "Ban User";
-$locale['forum_0665'] = "Eliminar usuario";
+$locale['forum_0665'] = "Delete User";
 
 $locale['forum_0701'] = "El hilo ha sido eliminado.";
 $locale['forum_0704'] = "¿Seguro que quieres eliminar este hilo?";

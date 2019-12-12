@@ -114,19 +114,19 @@ $locale['blog_0703'] = "Utilice el siguiente formulario para presentar el Blog. 
 Administrador. [SITENAME] se reserva el derecho de modificar o editar cualquier envío. Blog
 debe ser aplicable al contenido de este sitio. Se eliminarán las presentaciones inadecuadas.";
 $locale['blog_0704'] = "Volver a [SITENAME]";
-$locale['blog_601'] = "Tamaño del pulgar:";
-$locale['blog_602'] = "Tamaño de la foto:";
-$locale['blog_603'] = "Tamaño máximo de foto:";
-$locale['blog_604'] = "Ancho x Alto";
-$locale['blog_605'] = "Tamaño máximo de archivo (bytes):";
+$locale['blog_601'] = "Thumb size:";
+$locale['blog_602'] = "Photo size:";
+$locale['blog_603'] = "Maximum photo size:";
+$locale['blog_604'] = "Width x Height";
+$locale['blog_605'] = "Maximum file size (bytes):";
 // Blog Settings
 $locale['blog_950'] = "Image Upload";
 $locale['blog_951'] = "Image link:";
-$locale['blog_952'] = "Categoría";
+$locale['blog_952'] = "Category";
 $locale['blog_953'] = "Blog Item";
 $locale['blog_954'] = "Thumb ratio:";
 $locale['blog_955'] = "Original";
-$locale['blog_956'] = "Cuadrado";
+$locale['blog_956'] = "Square";
 $locale['blog_959'] = "Uploaded Photo";
 $locale['blog_960'] = "Category Image";
 $locale['blog_961'] = "Allowed file types:";
