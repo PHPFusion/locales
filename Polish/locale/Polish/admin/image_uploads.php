@@ -22,8 +22,8 @@ $locale['440'] = "View Image";
 $locale['441'] = "Unknown file format, cannot display image.";
 $locale['442'] = "Delete this image";
 // Image Management
-$locale['460'] = "Obrazy";
-$locale['461'] = "Zobacz";
+$locale['460'] = "Images";
+$locale['461'] = "View";
 $locale['463'] = "This folder is empty";
 $locale['464'] = "Update image list for TinyMCE editor";
 // Popup Error/Warning Messages

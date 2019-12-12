@@ -1,5 +1,5 @@
 <?php
-$locale['BN_000'] = "Banery";
+$locale['BN_000'] = "Banners";
 
 $locale['BN_012'] = "Banner Updated in the database.";
 $locale['BN_013'] = "Banner deleted from the database.";

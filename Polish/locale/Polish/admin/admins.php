@@ -12,7 +12,7 @@ $locale['ADM_416'] = "Make Super Administrator";
 $locale['ADM_418'] = "No users found.";
 $locale['ADM_419'] = "Search Again";
 // Current Administrators
-$locale['ADM_420'] = "Administratorzy";
+$locale['ADM_420'] = "Administrators";
 $locale['ADM_421'] = "Nazwa użytkownika";
 $locale['ADM_422'] = "Admin Level";
 $locale['ADM_423'] = "Opcje";
@@ -22,7 +22,7 @@ $locale['ADM_440'] = "Edit Admin Rights";
 $locale['ADM_441'] = "Content Admin";
 $locale['ADM_442'] = "User Admin";
 $locale['ADM_443'] = "System Admin";
-$locale['ADM_444'] = "Wtyczki";
+$locale['ADM_444'] = "Infusions";
 $locale['ADM_445'] = "Zaznacz wszystko";
 $locale['ADM_448'] = "Save Admin Rights";
 $locale['ADM_449'] = "Ustawienia";

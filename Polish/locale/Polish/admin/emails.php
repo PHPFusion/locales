@@ -1,5 +1,5 @@
 <?php
-$locale['MAIL_000'] = "Szablony e-mail";
+$locale['MAIL_000'] = "Email Templates";
 $locale['MAIL_001'] = "Template successfully updated.";
 $locale['MAIL_002'] = "Test-Subject";
 $locale['MAIL_003'] = "Test-Message";
@@ -28,7 +28,7 @@ $locale['MAIL_025'] = "Temat";
 $locale['MAIL_026'] = "Subject cannot be empty!";
 $locale['MAIL_027'] = "Site name";
 $locale['MAIL_028'] = "Site url";
-$locale['MAIL_029'] = "Nadawca";
+$locale['MAIL_029'] = "Sender";
 $locale['MAIL_030'] = "Receiver";
 $locale['MAIL_031'] = "Short overview about the buttons";
 $locale['MAIL_032'] = "Button";
@@ -39,7 +39,7 @@ $locale['MAIL_036'] = "Sender of a message, author of thread or post";
 $locale['MAIL_037'] = "Sender of the mail";
 $locale['MAIL_038'] = "Receiver of the mail";
 $locale['MAIL_039'] = "URL to forum thread, only used in notification for new forum posts.";
-$locale['MAIL_040'] = "Wiadomość";
+$locale['MAIL_040'] = "Message";
 $locale['MAIL_041'] = "Message cannot be empty!";
 $locale['MAIL_042'] = "Thread URL";
 $locale['MAIL_043'] = "Background";

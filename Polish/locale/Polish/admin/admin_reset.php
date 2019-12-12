@@ -34,7 +34,7 @@ Regards,
 [ADMIN]";
 $locale['apw_410'] = "Reset Results";
 $locale['apw_411'] = "Update Admin Password.";
-$locale['apw_412'] = "Hasło administratora:";
+$locale['apw_412'] = "Admin Password:";
 $locale['apw_415'] = "Reset Log";
 $locale['apw_416'] = "Log ID";
 $locale['apw_417'] = "Reset time";

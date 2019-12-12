@@ -6,7 +6,7 @@ $locale['fmt_open'] = "otwórz|otwórz";
 // Sorting
 $locale['web_0030'] = "Najnowszy";
 $locale['web_0031'] = "Najczęściej otwierany";
-$locale['web_0032'] = "Najstarsze";
+$locale['web_0032'] = "Oldest";
 // Views
 $locale['web_0040'] = "Widok galerii";
 $locale['web_0041'] = "Widok listy";

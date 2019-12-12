@@ -1,7 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] Panel administracyjny";
-$locale['200a'] = "Panel administratora";
+$locale['200a'] = "Admin Panel";
 $locale['ac00'] = "Strona główna";
 $locale['ac01'] = "Treści";
 $locale['ac02'] = "Użytkownicy";

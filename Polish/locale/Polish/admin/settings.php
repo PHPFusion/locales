@@ -94,7 +94,7 @@ $locale['552'] = "Use email verification for registration?";
 $locale['553'] = "Wyświetl kod weryfikacyjny?";
 $locale['557'] = "New members activated by admin?";
 $locale['558'] = "Enable terms of agreement?";
-$locale['559'] = "Regulamin";
+$locale['559'] = "Terms of Agreement";
 
 // Other Settings
 $locale['601'] = "Thumb size:";
@@ -108,7 +108,7 @@ $locale['608'] = "GD2";
 $locale['609'] = "Development Mode";
 
 $locale['649'] = "Prohibited user names:";
-$locale['650'] = "Różne";
+$locale['650'] = "Miscellaneous";
 $locale['651'] = "Bad words list:";
 $locale['652'] = "Enter one word per line.";
 $locale['653'] = "Leave empty if not required.";
@@ -141,7 +141,7 @@ $locale['675ML'] = "Aktualności";
 $locale['676ML'] = "Photogallery";
 $locale['677ML'] = "Ankiety";
 $locale['678ML'] = "Shoutbox";
-$locale['679ML'] = "Katalog stron";
+$locale['679ML'] = "Weblinks";
 $locale['680ML'] = "Linki strony";
 $locale['681ML'] = "Panele";
 $locale['682ML'] = "Ustawienia języka";
@@ -158,9 +158,9 @@ $locale['672'] = "Włącz oceny system?";
 $locale['673'] = "Hide user profiles from public:";
 $locale['674'] = "Port SMTP";
 $locale['675'] = "Maintenance level:";
-$locale['676'] = "Administratorzy";
+$locale['676'] = "Administrators";
 $locale['677'] = "Super Administrators";
-$locale['678'] = "Właściciel strony";
+$locale['678'] = "Site Owner";
 $locale['679'] = "Enable visitor counter?";
 $locale['680'] = "Flood Auto Ban:";
 $locale['681'] = "Maintenance";
@@ -219,10 +219,10 @@ $locale['803'] = "Attachments deleted: ";
 $locale['820'] = "Polityka prywatności";
 
 // Banners Settings
-$locale['850'] = "Banery";
+$locale['850'] = "Banners";
 $locale['851'] = "Banner 1";
 $locale['852'] = "Banner 2";
-$locale['853'] = "Hasło administratora:";
+$locale['853'] = "Admin Password:";
 $locale['854'] = "Save Banners";
 $locale['855'] = "Preview Banners";
 
@@ -250,7 +250,7 @@ $locale['1014a'] = "Disable for better security";
 $locale['1015'] = "Szerokość";
 $locale['1016'] = "Wysokość";
 
-$locale['1020'] = [1 => 'Bajty (bajty)', 1024 => 'KB (Kilobajty)', 1048576 => 'MB (Megabajty)'];
+$locale['1020'] = [1 => 'Bajty (bajty)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Create OpenGraph meta tags for Social networks";
@@ -271,13 +271,13 @@ $locale['dateformats'][] = "%m/%d/%Y %H:%M:%S";
 $locale['dateformats'][] = "%d/%m/%Y %H:%M:%S";
 $locale['dateformats'][] = "%d-%m-%Y %H:%M:%S";
 $locale['dateformats'][] = "%d.%m.%Y %H:%M:%S";
-$locale['dateformats'][] = "%d %B %Y";
+$locale['dateformats'][] = "%B %d %Y";
 $locale['dateformats'][] = "%d. %B %Y";
 $locale['dateformats'][] = "%d %B %Y";
 $locale['dateformats'][] = "%B %d %Y %H:%M";
 $locale['dateformats'][] = "%d. %B %Y %H:%M";
 $locale['dateformats'][] = "%d %B %Y %H:%M";
-$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
+$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
 $locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
 $locale['dateformats'][] = "%d %B %Y %H:%M:%S";
 $locale['error_rate'] = "Please enter a Rate.";

@@ -106,7 +106,7 @@ $locale['forum_0212'] = "Dzisiaj";
 $locale['forum_0213'] = "Ostatni tydzień";
 $locale['forum_0214'] = "Ostatni miesiąc";
 $locale['forum_0220'] = "Pokaż";
-$locale['forum_0221'] = "Wszystkie";
+$locale['forum_0221'] = "All";
 $locale['forum_0222'] = "Dyskusje";
 $locale['forum_0223'] = "Załączniki";
 $locale['forum_0224'] = "Ankiety";
@@ -169,7 +169,7 @@ $locale['forum_0366'] = "Dodaj ankietę";
 $locale['forum_0372'] = "Oceny";
 $locale['forum_0373'] = "Last replied by:";
 $locale['forum_0374'] = "Dowolne tematy";
-$locale['forum_0378'] = "Rozwiązany";
+$locale['forum_0378'] = "Solved";
 $locale['forum_0379'] = "Unsolved";
 $locale['forum_0381'] = "Post Time";
 $locale['forum_0388'] = "Display topics from";
@@ -249,7 +249,7 @@ $locale['forum_0591'] = "Flush Post";
 $locale['forum_0592'] = "Flush Threads";
 $locale['forum_0593'] = "Flush Attachments";
 $locale['forum_0595'] = "Flush Poll";
-$locale['forum_0596'] = "Pytanie";
+$locale['forum_0596'] = "Question";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Wiadomość";
@@ -289,7 +289,7 @@ Regards,
 $locale['forum_0662'] = "User Options";
 $locale['forum_0663'] = "Edytuj użytkownika";
 $locale['forum_0664'] = "Ban User";
-$locale['forum_0665'] = "Delete Użytkownik";
+$locale['forum_0665'] = "Delete User";
 
 $locale['forum_0701'] = "The Thread has been deleted.";
 $locale['forum_0704'] = "Are you sure you want to delete this Thread?";

@@ -1,5 +1,5 @@
 <?php
-$locale['ME_400'] = 'Zarządzanie użytkownikami';
+$locale['ME_400'] = 'User Management';
 $locale['ME_401'] = 'Search User...';
 $locale['ME_402'] = 'Display Filters';
 $locale['ME_403'] = 'Add a new Użytkownik';
@@ -11,10 +11,10 @@ $locale['ME_408'] = 'Podstawowe informacje';
 $locale['ME_409'] = 'Szczegółowe informacje';
 $locale['ME_410'] = 'Użytkownik';
 $locale['ME_411'] = 'Poziom użytkownika';
-$locale['ME_412'] = 'Adres e-mail';
+$locale['ME_412'] = 'Email Address';
 $locale['ME_413'] = ' User Account';
 $locale['ME_414'] = 'Zaznacz wszystko';
-$locale['ME_415'] = 'Ukryte';
+$locale['ME_415'] = 'Hidden';
 $locale['ME_416'] = 'Shown';
 
 // Core Fields Filter
@@ -32,7 +32,7 @@ $locale['ME_430'] = 'Error: Actions against selected users could not be complete
 $locale['ME_431'] = 'The following users will be %s:';
 $locale['ME_432'] = '%s has been %s';
 $locale['ME_433'] = 'Please specify a reason for the action';
-$locale['ME_434'] = 'Powód';
+$locale['ME_434'] = 'Reason';
 $locale['ME_435'] = 'Duration';
 $locale['ME_436'] = 'Days';
 $locale['ME_437'] = 'Update Użytkownik';
@@ -69,14 +69,14 @@ $locale['ME_469'] = 'User has been activated';
 $locale['ME_500'] = 'Ban';
 $locale['ME_501'] = 'Reinstate';
 $locale['ME_502'] = 'Deactivate';
-$locale['ME_503'] = 'Zawieś';
+$locale['ME_503'] = 'Suspend';
 $locale['ME_504'] = 'Security Ban';
-$locale['ME_505'] = 'Anuluj';
+$locale['ME_505'] = 'Cancel';
 $locale['ME_506'] = 'Anonymize';
 $locale['ME_507'] = 'Activate';
 
 // a_message keys
-$locale['ME_550'] = 'Zablokowane';
+$locale['ME_550'] = 'banned';
 $locale['ME_551'] = 'reinstated';
 $locale['ME_552'] = 'deactivated';
 $locale['ME_553'] = 'suspended';

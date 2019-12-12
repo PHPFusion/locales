@@ -114,14 +114,14 @@ $locale['blog_0703'] = "Skorzystaj z&nbsp;poniższego formularza, aby dodać wpi
 powinny być zgodne z&nbsp;tematyką strony oraz ogólnie przyjętymi zasadami, w&nbsp;przeciwnym wypadku zostaną one odrzucone.";
 $locale['blog_0704'] = "Powrót do [SITENAME]";
 $locale['blog_601'] = "Thumb size:";
-$locale['blog_602'] = "Rozmiar zdjęcia:";
-$locale['blog_603'] = "Maksymalny rozmiar zdjęcia:";
-$locale['blog_604'] = "Szerokość x Wysokość";
-$locale['blog_605'] = "Maximum file size (Bajty):";
+$locale['blog_602'] = "Photo size:";
+$locale['blog_603'] = "Maximum photo size:";
+$locale['blog_604'] = "Width x Height";
+$locale['blog_605'] = "Maximum file size (bytes):";
 // Blog Settings
 $locale['blog_950'] = "Image Upload";
 $locale['blog_951'] = "Adres obrazka:";
-$locale['blog_952'] = "Kategoria";
+$locale['blog_952'] = "Category";
 $locale['blog_953'] = "Blog Item";
 $locale['blog_954'] = "Thumb ratio:";
 $locale['blog_955'] = "Oryginał";

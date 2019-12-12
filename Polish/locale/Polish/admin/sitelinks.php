@@ -1,6 +1,6 @@
 <?php
 // News titles
-$locale['SL_0001'] = "Linki w Menu";
+$locale['SL_0001'] = "Site Links";
 $locale['SL_0010'] = "Add Site Link";
 $locale['SL_0011'] = "Edit Site Link";
 $locale['SL_0012'] = "Current Site Links";

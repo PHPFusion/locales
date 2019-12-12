@@ -65,7 +65,7 @@ $locale['user0'] = "Publiczny";
 $locale['user1'] = "Użytkownik";
 $locale['user2'] = "Administrator";
 $locale['user3'] = "Super administrator";
-$locale['user_na'] = "Nd.";
+$locale['user_na'] = "N/A";
 $locale['user_guest'] = "Gość";
 $locale['user_anonymous'] = "Konto ukryte";
 $locale['genitive'] = "% %";
@@ -154,7 +154,7 @@ $locale['global_078'] = "Brak opublikowanych newsów";
 $locale['global_079'] = "w ";
 $locale['global_080'] = "Brak kategorii";
 $locale['global_081'] = "Strona główna nowości";
-$locale['global_082'] = "Aktualności";
+$locale['global_082'] = "News";
 $locale['global_083'] = "Ostatnia aktualizacja";
 $locale['global_084'] = "Kategoria news'a";
 $locale['global_085'] = "Zobacz wszystkie kategorie";
@@ -376,7 +376,7 @@ $locale['global_ML103'] = "Przełącz język";
 // Flood Control
 $locale['flood'] = "You are barred to post until the flood period cooldown is over. Please wait for %s.";
 $locale['no_image'] = "No Image";
-$locale['send_message'] = "Wyślij";
+$locale['send_message'] = "Send Message";
 $locale['go_profile'] = "Go to %s Profile Page";
 // Global one word locales
 $locale['hello'] = "Witaj!";
