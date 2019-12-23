@@ -104,9 +104,9 @@ $locale['u149a'] = "Vaše aktuálne admin heslo nebolo zadané alebo je neplatn�
 $locale['u149b'] = "Vaše aktuálne prihl. heslo nebolo zadané alebo je neplatné.<br>Nemôžete nastaviť admin heslo bez správneho prihl. hesla.";
 // Email activation
 $locale['u150'] = "Vaša registrácia je takmer kompletná, dostanete e-mail obsahujúci vaše prihlasovacie údaje spolu s odkazom na overenie účtu.";
-$locale['u151'] = "Vítajte na [SITENAME]";
+$locale['u151'] = "Vitajte na [SITENAME]";
 $locale['u152'] = "Dobrý deň USER_NAME,<br/>\r\n
-Vítajte na SITENAME. Tu sú vaše prihlasovacie údaje:<br/>\r\n
+Vitajte na SITENAME. Tu sú vaše prihlasovacie údaje:<br/>\r\n
 Meno: USER_NAME<br/>\r\n
 Heslo: USER_PASSWORD<br/>\r\n
 Prosím aktivujte váš účet kliknutím na tento odkaz: ACTIVATION_LINK<br/>\r\n
