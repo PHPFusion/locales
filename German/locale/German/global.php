@@ -1,5 +1,5 @@
 <?php
-setlocale(LC_ALL, "en_GB.UTF-8"); // Linux Server (Windows may differ)
+setlocale(LC_ALL, "de_DE.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "DE"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "de";
@@ -11,7 +11,7 @@ $locale['filemanager'] = "de_DE"; // refer to path includes/filemanager/lang/{va
 $locale['datepicker'] = "de"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "DD-M-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
-$locale['password_strength'] = "en"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['password_strength'] = "de"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months

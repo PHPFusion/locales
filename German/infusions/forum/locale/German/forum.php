@@ -249,7 +249,7 @@ $locale['forum_0591'] = "Flush Beitr&auml;ge";
 $locale['forum_0592'] = "Flush Themen";
 $locale['forum_0593'] = "Flush Anh&auml;nge";
 $locale['forum_0595'] = "Flush Umfragen";
-$locale['forum_0596'] = "FAQs";
+$locale['forum_0596'] = "Question";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Nachricht";
@@ -287,7 +287,7 @@ $locale['forum_0661'] = "Hallo {USERNAME},
 $locale['forum_0662'] = "Benutzeroptionen";
 $locale['forum_0663'] = "Benutzer bearbeiten";
 $locale['forum_0664'] = "Benutzer blocken";
-$locale['forum_0665'] = "L&ouml;sche den Benutzer";
+$locale['forum_0665'] = "Delete User";
 
 $locale['forum_0701'] = "Das Thema wurde erfolgreich entfernt.";
 $locale['forum_0704'] = "Sind Sie sich sicher, dass das Thema entfert werden soll?";

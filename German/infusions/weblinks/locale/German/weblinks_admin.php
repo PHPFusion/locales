@@ -1,5 +1,5 @@
 <?php
-$locale['WLS_0001'] = "Weblinks";
+$locale['WLS_0001'] = "Web Links";
 $locale['WLS_0002'] = "Web Link hinzuf&uuml;gen";
 $locale['WLS_0003'] = "Web Link &auml;ndern";
 $locale['WLS_0004'] = "Kategorien";
@@ -25,14 +25,14 @@ $locale['WLS_0050'] = "Kategorie publishing gel&ouml;scht";
 $locale['WLS_0060'] = "Submission erfolgreich ver&ouml;ffendlicht";
 $locale['WLS_0061'] = "Submission erfolgreich gel&ouml;scht";
 $locale['WLS_0062'] = "Es giebt eine neue Einsendung.";
-$locale['WLS_0063'] = "Es sind derzeit %s zur Überprüfung verfügbar.";
+$locale['WLS_0063'] = "There are currently %s pending for your review.";
 $locale['WLS_0100'] = "Name";
 $locale['WLS_0101'] = "Kategorie";
 $locale['WLS_0102'] = "Status";
 $locale['WLS_0103'] = "Sichtbarkeit";
 $locale['WLS_0104'] = "Aktionen";
-$locale['WLS_0105'] = "Angesehen";
-$locale['WLS_0106'] = "Ver&ouml;ffentlichungsdatum";
+$locale['WLS_0105'] = "Views";
+$locale['WLS_0106'] = "Publication Date";
 $locale['WLS_0111'] = "Diesen Web Link l&ouml;schen?";
 $locale['WLS_0112'] = "Es sind keine Web links erstellt.";
 $locale['WLS_0113'] = "Es gibt keine Web links, die den Suchoptionen entsprechen.";
