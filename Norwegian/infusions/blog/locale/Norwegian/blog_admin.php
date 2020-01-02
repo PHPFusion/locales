@@ -17,7 +17,7 @@ $locale['blog_0145'] = "Blogg innlegget har blitt slettet";
 $locale['blog_0146'] = "Blogg innlegget har blitt publisert";
 $locale['blog_0147'] = "Blogg innlegget har blitt lagret som et utkast";
 $locale['blog_0148'] = "Publisert av";
-$locale['blog_0149'] = "%s has been disabled and will not take effect.";
+$locale['blog_0149'] = "%s er deaktivert og trer ikke i kraft.";
 // Blog titles
 $locale['blog_0400'] = "Foreløpige Bloggs";
 $locale['blog_0401'] = "Legg til Blogg";
@@ -79,9 +79,9 @@ $locale['blog_0533'] = "Kategori Eier:";
 $locale['blog_0535'] = "Ingen Blogg Kategori er definert";
 $locale['blog_0536'] = "Klikk her for å laste opp kategori bilder";
 $locale['blog_0537'] = "Eier";
-$locale['blog_0538'] = "Bytes (bytes)";
-$locale['blog_0539'] = "KB (Kilobytes)";
-$locale['blog_0540'] = "MB (Megabytes)";
+$locale['blog_0538'] = "Bytes (byte)";
+$locale['blog_0539'] = "KB (kilobyte)";
+$locale['blog_0540'] = "MB (megabyte)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Slett denne Blogg Kategorien?";
 // Error Messages
@@ -114,20 +114,20 @@ $locale['blog_0703'] = "Bruk følgende skjema for å legge til en Blogg. Ditt bi
 Administrator. [SITENAME] forbeholder seg retten til å endre eller redigere innsending. Bloggen
 bør være aktuelt for innholdet på dette nettstedet. Uegnede innleveringer vil bli slettet.";
 $locale['blog_0704'] = "Tilbake til [SITENAME]";
-$locale['blog_601'] = "Thumb size:";
-$locale['blog_602'] = "Photo size:";
-$locale['blog_603'] = "Maximum photo size:";
-$locale['blog_604'] = "Width x Height";
-$locale['blog_605'] = "Maximum file size (bytes):";
+$locale['blog_601'] = "Miniatyr visning:";
+$locale['blog_602'] = "Bildestørrelse:";
+$locale['blog_603'] = "Maksimal fotostørrelse:";
+$locale['blog_604'] = "Bredde x Høyde";
+$locale['blog_605'] = "Maks filstørrelse (i bytes):";
 // Blog Settings
-$locale['blog_950'] = "Image Upload";
-$locale['blog_951'] = "Image link:";
-$locale['blog_952'] = "Category";
-$locale['blog_953'] = "Blog Item";
-$locale['blog_954'] = "Thumb ratio:";
+$locale['blog_950'] = "Bildeopplasting";
+$locale['blog_951'] = "Bildekobling:";
+$locale['blog_952'] = "Kategori";
+$locale['blog_953'] = "Bloggartikkel";
+$locale['blog_954'] = "Miniatyr forhold:";
 $locale['blog_955'] = "Original";
-$locale['blog_956'] = "Square";
-$locale['blog_959'] = "Uploaded Photo";
-$locale['blog_960'] = "Category Image";
-$locale['blog_961'] = "Allowed file types:";
-$locale['blog_submit'] = "%s Blog";
+$locale['blog_956'] = "Firkant";
+$locale['blog_959'] = "Lastet opp bilde";
+$locale['blog_960'] = "Kategoribilde";
+$locale['blog_961'] = "Tillatte filtyper:";
+$locale['blog_submit'] = "%s Blogg";

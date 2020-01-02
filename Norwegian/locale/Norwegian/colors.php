@@ -1,23 +1,23 @@
 <?php
 //color selection for multiple droplists
-$locale['color_0'] = "Null";
+$locale['color_0'] = "Ingen";
 $locale['color_1'] = "AliceBlue";
 $locale['color_2'] = "AntiqueWhite";
-$locale['color_3'] = "Aqua";
+$locale['color_3'] = "Akvamarin";
 $locale['color_4'] = "Aquamarine";
 $locale['color_5'] = "Azure";
 $locale['color_6'] = "Beige";
-$locale['color_7'] = "Bisque";
-$locale['color_8'] = "Black";
+$locale['color_7'] = "Lyse brun";
+$locale['color_8'] = "Sort";
 $locale['color_9'] = "BlanchedAlmond";
-$locale['color_10'] = "Blue";
+$locale['color_10'] = "Blå";
 $locale['color_11'] = "BlueViolet";
-$locale['color_12'] = "Brown";
+$locale['color_12'] = "Brun";
 $locale['color_13'] = "BurlyWood";
 $locale['color_14'] = "CadetBlue";
-$locale['color_15'] = "Chartreuse";
-$locale['color_16'] = "Chocolate";
-$locale['color_17'] = "Coral";
+$locale['color_15'] = "Chartreuse (farge mellom gul og grønn)";
+$locale['color_16'] = "Sjokolade";
+$locale['color_17'] = "Korall";
 $locale['color_18'] = "CornflowerBlue";
 $locale['color_19'] = "Cornsilk";
 $locale['color_20'] = "Crimson";
