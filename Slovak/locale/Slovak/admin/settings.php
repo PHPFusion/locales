@@ -201,7 +201,11 @@ $locale['699b'] = "Oba";
 $locale['699e'] = "E-mail";
 $locale['699f'] = "Všeobecné";
 $locale['699g'] = "Skontrolujte nahrané súbory pre MIME typ?";
-$locale['699h'] = "Povoliť registračnú bránu?";
+$locale['699h'] = "Fusion GateWay";
+$locale['699ha'] = "GateWay Metóda";
+$locale['699hb'] = "Slová";
+$locale['699hc'] = "Čísla";
+$locale['699hd'] = "Oboje";
 $locale['699i'] = "Oddeľovač čísel";
 $locale['699j'] = "Oddeľovač tisícov";
 // Private Message Settings
