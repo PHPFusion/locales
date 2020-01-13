@@ -202,6 +202,10 @@ $locale['699e'] = "Email";
 $locale['699f'] = "Általános";
 $locale['699g'] = "Ellenőrizze a feltöltött fájlok MIME type?";
 $locale['699h'] = "Regisztráció védelem Engedélyezése?";
+$locale['699ha'] = "Védelmi Mód";
+$locale['699hb'] = "Szöveg";
+$locale['699hc'] = "Szám";
+$locale['699hd'] = "Mindkettő";
 // Private Message Settings
 $locale['700'] = "Privát üzenetek";
 $locale['701'] = "Bejövő üzenetek:";
