@@ -126,3 +126,5 @@ $locale['search_msg_101'] = 'Сбой системы безопасности';
 $locale['search_msg_102'] = 'Не удалось загрузить страницы';
 $locale['search_msg_103'] = 'Строка поиска слишком короткая';
 $locale['search_msg_104'] = 'Результаты не найдены';
+
+$locale['new_update_avalaible'] = "Доступно новое обновление [LINK]PHP-Fusion v[VERSION][/LINK]. Пожалуйста, обновите!";
