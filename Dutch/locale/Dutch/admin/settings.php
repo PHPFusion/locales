@@ -104,6 +104,7 @@ $locale['606'] = "Miniatuur compressie methode";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Ontwikkelaarsmodus";
+$locale['610'] = "Update checker";
 
 $locale['649'] = "Verboden gebruikersnamen:";
 $locale['650'] = "Diversen";
