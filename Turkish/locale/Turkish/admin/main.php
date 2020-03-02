@@ -126,3 +126,5 @@ $locale['search_msg_101'] = 'Başarısız Sistem Güvenlik Önlemleri';
 $locale['search_msg_102'] = 'Sayfalar Yüklenemedi';
 $locale['search_msg_103'] = 'Arama Dizesi Çok Kısa';
 $locale['search_msg_104'] = 'Sonuç Bulunamadı';
+
+$locale['new_update_avalaible'] = "A new [LINK]PHP-Fusion v[VERSION] update[/LINK] is available. Please update!";

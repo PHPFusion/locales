@@ -104,6 +104,7 @@ $locale['606'] = "Küçük Resim Sıkıştırma Yöntemi";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Geliştirme Modu";
+$locale['610'] = "Update checker";
 
 $locale['649'] = "Yasaklı Kullanıcı Adları:";
 $locale['650'] = "Çeşitli Ayarlar";
