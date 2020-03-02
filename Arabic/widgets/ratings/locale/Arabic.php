@@ -1,5 +1,5 @@
 <?php
-$locale['RTW_0100'] = "Ratings Widget";
-$locale['RTW_0101'] = "Core Ratings Plugin";
-$locale['RTW_0102'] = "Ratings Created";
-$locale['RTW_0104'] = "Unable to create Ratings";
+$locale['RTW_0100'] = "مربع التقييمات";
+$locale['RTW_0101'] = "التقييمات الأساسية الإضافة";
+$locale['RTW_0102'] = "تم إنشاء التقييمات";
+$locale['RTW_0104'] = "لا يمكن إنشاء التقييمات";
