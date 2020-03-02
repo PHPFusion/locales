@@ -126,3 +126,5 @@ $locale['search_msg_101'] = 'Medidas de segurança da falha do Sistema';
 $locale['search_msg_102'] = 'Falha ao carregar páginas';
 $locale['search_msg_103'] = 'A sequência de pesquisa é muito curta';
 $locale['search_msg_104'] = 'Não foram encontrados resultados';
+
+$locale['new_update_avalaible'] = "A new [LINK]PHP-Fusion v[VERSION] update[/LINK] is available. Please update!";
