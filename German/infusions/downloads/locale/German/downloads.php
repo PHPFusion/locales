@@ -1,8 +1,8 @@
 <?php
-$locale['download_1000'] = "Downloads";
-$locale['download_1001'] = "Download&uuml;bersicht";
+$locale['download_1000'] = "Download";
+$locale['download_1001'] = "Download Link";
 $locale['download_1003'] = "Downloadkategorie";
-$locale['download_1004'] = "Ver&ouml;ffentlicher";
+$locale['download_1004'] = "Einsender";
 $locale['download_1006'] = "Mehr lesen";
 $locale['download_1007'] = "Downloaddatei";
 $locale['download_1008'] = "Benutzerbewertungen";
