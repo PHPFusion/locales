@@ -208,6 +208,10 @@ $locale['699hc'] = "Čísla";
 $locale['699hd'] = "Oboje";
 $locale['699i'] = "Oddělovač čísel";
 $locale['699j'] = "Oddělovač tisíců";
+
+$locale['settings_100'] = "Povolit spuštění PHP";
+$locale['settings_101'] = "Kontrola aktualizací";
+
 // Private Message Settings
 $locale['700'] = "Nastavení soukromých zpráv";
 $locale['701'] = "Limit složky přijatých zpráv:";

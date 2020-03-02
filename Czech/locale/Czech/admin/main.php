@@ -127,3 +127,5 @@ $locale['search_msg_101'] = 'Selhal bezpečnostní systém opatření';
 $locale['search_msg_102'] = 'Stránky se nepodařilo načíst';
 $locale['search_msg_103'] = 'Hledaný výraz je příliš krátký';
 $locale['search_msg_104'] = 'Nebyly nalezeny žádné výsledky';
+
+$locale['new_update_avalaible'] = "K dispozici je nová aktualizace [LINK]PHP-Fusion v[VERSION][/LINK]. Aktualizujte prosím!";
