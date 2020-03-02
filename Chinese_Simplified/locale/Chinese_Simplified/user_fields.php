@@ -97,13 +97,13 @@ $locale['u144a'] = "Current Admin Password";
 $locale['u145'] = "Confirm admin password";
 $locale['u146'] = " can not be the same as your current ";
 $locale['u147'] = "Password must be between 8 and 64 chars long.
-Allowed symbols are a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
+Allowed symbols are a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
 $locale['u148'] = "New Login Passwords are not identical.";
 $locale['u148a'] = "New Admin Passwords are not identical.";
 $locale['u149'] = "Your Current Login Password was not specified or is invalid.";
 $locale['u149a'] = "Your Current Admin Password was not specified or is invalid.";
 $locale['u149b'] = "Your Current Login Password was not specified or is invalid.
-You can't set your admin password without your correct login password.";
+You can't set your admin password without your correct login password.";
 // Email activation
 $locale['u150'] = "Your registration is almost complete, you will receive an email containing your login details along with a link to verify your account.";
 $locale['u151'] = "Welcome to [SITENAME]";
@@ -113,7 +113,7 @@ $locale['u152'] = "Hello USER_NAME,
 \r\nPassword: USER_PASSWORD
 \r\nPlease activate your account via the following link: ACTIVATION_LINK
 
-\r\nRegards,
+\r\nRegards,
 \r\nSITEUSERNAME";
 
 $locale['u153'] = "Activation email could not be sent.";
