@@ -104,6 +104,7 @@ $locale['606'] = "Kompressionsmetode";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Udviklertilstand";
+$locale['610'] = "Opdaterings checker";
 
 $locale['649'] = "Forbudte brugernavne:";
 $locale['650'] = "Diverse";
