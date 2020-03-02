@@ -1,5 +1,5 @@
 <?php
-$locale['CMW_0100'] = "Comments Widget";
-$locale['CMW_0101'] = "Core Comments Plugin";
-$locale['CMW_0102'] = "Comments Created";
-$locale['CMW_0104'] = "Unable to create Comments";
+$locale['CMW_0100'] = "Widżet komentarzy";
+$locale['CMW_0101'] = "Rdzeń wtyczki komentarzy";
+$locale['CMW_0102'] = "Utworzone komentarze";
+$locale['CMW_0104'] = "Nie można utworzyć komentarzy";

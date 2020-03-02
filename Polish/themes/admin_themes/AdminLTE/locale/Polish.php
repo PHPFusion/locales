@@ -1,14 +1,14 @@
 <?php
-$locale['ALT_001'] = 'You have';
-$locale['ALT_002'] = 'There are no messages';
-$locale['ALT_003'] = 'New Message';
-$locale['ALT_004'] = 'Member since';
+$locale['ALT_001'] = 'Masz';
+$locale['ALT_002'] = 'Nie ma żadnych wiadomości';
+$locale['ALT_003'] = 'nową wiadomość';
+$locale['ALT_004'] = 'Członek od';
 $locale['ALT_005'] = 'Szukaj...';
-$locale['ALT_006'] = 'Created by';
-$locale['ALT_007'] = 'Admin Password';
-$locale['ALT_008'] = 'Layout Options';
-$locale['ALT_009'] = 'Fixed layout';
-$locale['ALT_010'] = 'Small Sidebar';
-$locale['ALT_011'] = 'Skins';
-$locale['ALT_012'] = 'Dark';
-$locale['ALT_013'] = 'Light';
+$locale['ALT_006'] = 'Stworzone przez';
+$locale['ALT_007'] = 'Hasło administratora';
+$locale['ALT_008'] = 'Opcje wyglądu';
+$locale['ALT_009'] = 'Stały wygląd';
+$locale['ALT_010'] = 'Mały panel boczny';
+$locale['ALT_011'] = 'Skórki';
+$locale['ALT_012'] = 'Ciemna';
+$locale['ALT_013'] = 'Jasna';

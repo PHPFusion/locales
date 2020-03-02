@@ -1,6 +1,6 @@
 <?php
 // Blog Submissions messages
-$locale['blog_0130'] = "Brak nadesłanych wpisów";
+$locale['blog_0130'] = "Obecnie nie ma żadnych wpisów na blogu";
 $locale['blog_0131'] = "Przegląd nadesłanych wpisów";
 $locale['blog_0132'] = "Nadesłany przez ";
 $locale['blog_0133'] = "Chcesz opublikować czy usunąć wpis?";

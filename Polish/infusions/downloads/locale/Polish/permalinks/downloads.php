@@ -1,3 +1,3 @@
 <?php
 $locale['pl_downloads_title'] = "Pobieranie";
-$locale['pl_downloads_desc'] = "Włącza bezpośrednie odnośniki dla pobrań na stronie.";
+$locale['pl_downloads_desc'] = "Aktywuje bezpośrednie odnośniki dla pobrań na stronie.";

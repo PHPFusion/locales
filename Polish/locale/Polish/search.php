@@ -42,6 +42,6 @@ $locale['510'] = "dopasowania w globalnym wyszukiwaniu strony";
 //
 $locale['520'] = "dopasowanie";
 $locale['521'] = "dopasowania";
-$locale['522'] = "Znalezione pasujące kryteria wyszukiwania";
+$locale['522'] = "znaleziono dopasowując kryteria wyszukiwania";
 //more than 100 results
 $locale['530'] = "Bądź dokładniejszy w zapytaniu. Twoje zapytanie %s zwraca wyniki. Wyświetlamy tylko 100 najlepszych wyników";

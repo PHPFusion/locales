@@ -1,5 +1,5 @@
 <?php
-setlocale(LC_ALL, "pl_PL.UTF-8"); // Linux Server (Windows may differ)
+setlocale(LC_ALL, "en_GB.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "PL"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "pl";
@@ -7,7 +7,7 @@ $locale['short_lang_name'] = "pl";
 $locale['tinymce'] = "pl"; // refer to path includes/jscripts/tinymce/langs/{value}.js
 $locale['select2'] = "pl"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "pl"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "en_EN"; // refer to path includes/filemanager/lang/{value}.php
+$locale['filemanager'] = "pl_PL"; // refer to path includes/filemanager/lang/{value}.php
 $locale['datepicker'] = "pl"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "DD-MM-YYYY H:mm:ss";
 $locale['datepicker_php'] = "d-m-Y H:i:s";
