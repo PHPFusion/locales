@@ -1,0 +1,36 @@
+<?php
+$locale['FBW_0100'] = "Boîte de Fonctionnalités";
+$locale['FBW_0101'] = "Plugin de la boîte de fonctionnalités";
+$locale['FBW_0200'] = "Titre de la boîte";
+$locale['FBW_0201'] = "Description de la boîte";
+$locale['FBW_0202'] = "Type d'icône de la boîte";
+$locale['FBW_0203'] = "Icône CSS";
+$locale['FBW_0204'] = "Icônes d'image";
+$locale['FBW_0205'] = "Veuillez choisir ou télécharger votre icône";
+$locale['FBW_0206'] = "Veuillez remplir les configurations d'icône";
+$locale['FBW_0207'] = "Classe d'icône";
+$locale['FBW_0208'] = "Veuillez vous référer au code de votre icône svg. Par exemple Font-Awesome: \"fa fa-thumbs-up-o\"";
+$locale['FBW_0209'] = "\"Taille d'icône\"";
+$locale['FBW_0210'] = "Pixels. Nombre négatif non autorisé.";
+$locale['FBW_0211'] = "Couleur de l'icône";
+$locale['FBW_0212'] = "Classe empilée d'icône";
+$locale['FBW_0213'] = "Taille empilée de l'icône";
+$locale['FBW_0214'] = "Couleur empilée de l'icône";
+$locale['FBW_0215'] = "URL du lien";
+$locale['FBW_0216'] = "Classe du lien";
+$locale['FBW_0217'] = "Marges et Espacement de la boîte";
+$locale['FBW_0218'] = "Marge de l’icône en haut";
+$locale['FBW_0219'] = "Spécifier la marge supérieure entre l'icône et la bordure";
+$locale['FBW_0220'] = "Marge de l'icône en bas";
+$locale['FBW_0221'] = "Spécifiez la marge du bas entre l'icône et le titre";
+$locale['FBW_0222'] = "Remplissage de la boîte";
+$locale['FBW_0223'] = "Spécifiez la distance en haut, à gauche, à droite, en bas de la boîte de fonctionnalités";
+$locale['FBW_0224'] = "Marge en haut de la boîte de lien";
+$locale['FBW_0225'] = "Spécifier la marge supérieure entre le lien et la description";
+$locale['FBW_0226'] = "Marge en bas de la boîte de lien";
+$locale['FBW_0227'] = "Spécifiez la marge du bas entre le lien et la bordure";
+$locale['FBW_0228'] = "Enregistrer la boîte de fonctionnalités";
+$locale['FBW_0229'] = "Enregistrer et fermer la boîte de fonctionnalités";
+$locale['FBW_0230'] = "Classe de boîte";
+
+$locale['FBW_0300'] = "En savoir plus";
