@@ -106,6 +106,7 @@ $locale['606'] = "Atvaizdo kompresijos metodas:";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Development Mode";
+$locale['610'] = "Update checker";
 
 $locale['649'] = "Prohibited user names:";
 $locale['650'] = "Įvairūs nustatymai";
