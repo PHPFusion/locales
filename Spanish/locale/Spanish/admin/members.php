@@ -44,12 +44,12 @@ $locale['ME_453'] = 'Eliminar usuario %s';
 $locale['ME_454'] = "¡Advertencia!";
 $locale['ME_455'] = "Está a punto de eliminar el usuario %s!
 
-Los contenidos publicados por este usuario en este sitio se eliminarán si continúa.
+Los contenidos publicados por este usuario en este sitio se eliminarán si continúa.
 
 A menos que sea un spammer, por ej. le recomendamos que cancele, suspenda, cancele o anomime a este usuario.
 
 ¿Seguro que quieres eliminar a este usuario?
-";
+";
 $locale['ME_456'] = 'Eliminar usuario';
 $locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
 Are you sure you want to delete this user?<br/>";
