@@ -7,6 +7,6 @@ $locale['MG_101'] = 'Czytaj więcej';
 $locale['MG_102'] = 'Popularne aktualności';
 // Widget
 $locale['MG_201'] = 'Ustawienia skórki zostały zaktualizowane.';
-$locale['MG_202'] = 'Link do GitHuba';
-$locale['MG_203'] = 'Link do Facebooka';
-$locale['MG_204'] = 'Link do Twittera';
+$locale['MG_202'] = 'Adres GitHuba';
+$locale['MG_203'] = 'Adres Facebooka';
+$locale['MG_204'] = 'Adres Twittera';

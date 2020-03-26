@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion File Manager";
+$locale['100'] = "Menedżer plików Fusion";
 
 // Delete Image
-$locale['400'] = "Delete Image";
-$locale['401'] = "Image Deleted";
-$locale['402'] = "Return to Images Admin";
-$locale['403'] = "Return to Admin Index";
+$locale['400'] = "Usuń Obraz";
+$locale['401'] = "Obraz usunięty";
+$locale['402'] = "Powrót do obrazów administratora";
+$locale['403'] = "Powrót do strony głównej administratora";
 // Upload Image
-$locale['420'] = "Upload Image";
-$locale['421'] = "Filename:";
-$locale['422'] = "Main Images";
-$locale['423'] = "Article Images";
-$locale['424'] = "News Images";
-$locale['425'] = "Max. filesize %s / Allowed filetypes .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Image Uploaded";
-$locale['427'] = "News Cats Images";
-$locale['428'] = "Blog Images";
-$locale['429'] = "Blog Cats Images";
+$locale['420'] = "Prześlij obraz";
+$locale['421'] = "Nazwa pliku:";
+$locale['422'] = "Obrazy główne";
+$locale['423'] = "Obrazy artykułów";
+$locale['424'] = "Obrazy aktualności";
+$locale['425'] = "Maksymalny rozmiar pliku %s / Dozwolone typy plików .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
+$locale['426'] = "Obraz przesłano";
+$locale['427'] = "Obrazy kategorii aktualności";
+$locale['428'] = "Obrazy wpisów";
+$locale['429'] = "Obrazy kategorii wpisów";
 // View Image
-$locale['440'] = "View Image";
-$locale['441'] = "Unknown file format, cannot display image.";
-$locale['442'] = "Delete this image";
+$locale['440'] = "Wyświetl obraz";
+$locale['441'] = "Nieznany format pliku, nie można wyświetlić obrazu.";
+$locale['442'] = "Usuń ten obraz";
 // Image Management
-$locale['460'] = "Images";
-$locale['461'] = "View";
-$locale['463'] = "This folder is empty";
-$locale['464'] = "Update image list for TinyMCE editor";
+$locale['460'] = "Obrazy";
+$locale['461'] = "Podgląd";
+$locale['463'] = "Ten katalog jest pusty";
+$locale['464'] = "Zaktualizuj listę obrazów dla edytora TinyMCE";
 // Popup Error/Warning Messages
-$locale['470'] = "Delete this image?";
+$locale['470'] = "Usunąć ten obraz?";

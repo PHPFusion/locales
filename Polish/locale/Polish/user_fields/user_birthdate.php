@@ -2,4 +2,4 @@
 $locale['uf_birthdate'] = "Data urodzenia";
 $locale['uf_birthdate_date'] = "%d %B %Y";
 $locale['uf_birthdate_desc'] = "Wyświetla datę urodzenia użytkownika";
-$locale['uf_birthdate_error'] = "Data urodzenia użytkownika nie została poprawnie ustawiona.";
+$locale['uf_birthdate_error'] = "Data urodzenia użytkownika nie została ustawiona poprawnie.";

@@ -12,6 +12,6 @@ $locale['home_0053'] = "Brak plików do wyświetlenia";
 // common text
 $locale['home_0100'] = "Moduł nie został zainstalowany";
 $locale['home_0101'] = "Zainstaluj co najmniej jeden moduł dla zawartości tekstowej lub zmień stronę startową w ustawieniach głównych.";
-$locale['home_0102'] = "Nieskategoryzowane";
+$locale['home_0102'] = "Bez kategorii";
 $locale['home_0105'] = "Opublikowane przez ";
 $locale['home_0106'] = " w ";

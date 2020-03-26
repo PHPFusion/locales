@@ -40,26 +40,26 @@ $locale['gateway_037'] = "kwadrylion";
 $locale['gateway_038'] = "kwadryliard";
 $locale['gateway_039'] = "kwintylion";
 $locale['gateway_040'] = "kwintyliard";
-$locale['gateway_041'] = "undecillion";
-$locale['gateway_042'] = "duodecillion";
-$locale['gateway_043'] = "tredecillion";
-$locale['gateway_044'] = "quattuordecillion";
-$locale['gateway_045'] = "quindecillion";
-$locale['gateway_046'] = "sexdecillion";
-$locale['gateway_047'] = "septendecillion";
-$locale['gateway_048'] = "octodecillion";
-$locale['gateway_049'] = "novemdecillion";
-$locale['gateway_050'] = "vigintillion";
-$locale['gateway_051'] = " hundred";
+$locale['gateway_041'] = "sekstylion";
+$locale['gateway_042'] = "sekstyliard";
+$locale['gateway_043'] = "septylion";
+$locale['gateway_044'] = "septyliard";
+$locale['gateway_045'] = "oktylion";
+$locale['gateway_046'] = "oktyliard";
+$locale['gateway_047'] = "nonilion";
+$locale['gateway_048'] = "noniliard";
+$locale['gateway_049'] = "decylion";
+$locale['gateway_050'] = "decyliard";
+$locale['gateway_051'] = " sto";
 
 $locale['gateway_052'] = "Proszę odblokować Javascript zanim zaczniesz się rejestrować";
 
 // Honeypot default Array, can be made user defined by db later with a Gateway interface that has a lot of options.
-$locale['gateway_053'] = "fax";
+$locale['gateway_053'] = "faks";
 $locale['gateway_054'] = "telefon";
 $locale['gateway_055'] = "adres";
 $locale['gateway_056'] = "adres e-mail";
-$locale['gateway_057'] = "name";
+$locale['gateway_057'] = "imię";
 $locale['gateway_058'] = "użytkownik";
 $locale['gateway_059'] = "hasło";
 
@@ -67,11 +67,11 @@ $locale['gateway_059'] = "hasło";
 $locale['gateway_060'] = "Ile to jest";
 $locale['gateway_061'] = "w";
 $locale['gateway_062'] = "słowach";
-$locale['gateway_063'] = "cyfrach";
+$locale['gateway_063'] = "liczbach";
 $locale['gateway_064'] = "Musisz odpowiedzieć na to pytanie";
 $locale['gateway_065'] = "Kontynuuj";
 
-$locale['gateway_066'] = "Twoja odpowiedź jest niepoprawna!";
+$locale['gateway_066'] = "Twoja odpowiedź jest niepoprawna!<br/>Napisz wszystkie odpowiedzi w jednej linii. Przykład: dwadzieścia lub dziewiętnaście";
 $locale['gateway_067'] = "Spróbuj ponownie!";
 $locale['gateway_068'] = "Proszę spróbować ponownie później!";
 $locale['gateway_069'] = "Fusion GateWay";

@@ -1,6 +1,6 @@
 <?php
 $locale['uf_twitter'] = "Twitter";
-$locale['uf_twitter_id'] = "Twitter Username";
-$locale['uf_twitter_desc'] = "Twitter Profile Page";
-$locale['uf_twitter_error'] = "Twitter Username can not be left empty.";
-$locale['uf_twitter_error_1'] = "Twitter Username is Invalid. Please use a valid Twitter Username.";
+$locale['uf_twitter_id'] = "Nazwa użytkownika Twittera";
+$locale['uf_twitter_desc'] = "Strona profilu na Twitterze";
+$locale['uf_twitter_error'] = "Nazwa użytkownika Twittera nie może pozostać pusta.";
+$locale['uf_twitter_error_1'] = "Nazwa użytkownika Twittera jest nieprawidłowa. Proszę użyć poprawnej nazwy użytkownika Twittera.";

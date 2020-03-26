@@ -1,8 +1,8 @@
 <?php
-$locale['400'] = "Szukaj [SITENAME]";
-$locale['401'] = "Szukaj słowa kluczowe";
+$locale['400'] = "Wyszukiwarka [SITENAME]";
+$locale['401'] = "Szukaj słów kluczowych";
 $locale['402'] = "Szukaj";
-$locale['403'] = "wyszukaj te słowa";
+$locale['403'] = "wyszukaj jakiegokolwiek z tych słów";
 $locale['404'] = "wynik musi zawierać wszystkie te słowa";
 $locale['405'] = "Gdzie:";
 $locale['406'] = "Opcje:";
@@ -34,14 +34,14 @@ $locale['460'] = "Pokaż:";
 $locale['461'] = "znaki w wyniku";
 $locale['462'] = "cały tekst";
 //No results
-$locale['500'] = "Nie znaleziono dopasowania.";
-$locale['501'] = "Tekst wyszukiwania musi mieć co najmniej 3 znaki.";
-$locale['502'] = "Szukany ciąg znaków zawiera mniej niż trzy znaki (%s) i jest ignorowany w wynikach wyszukiwania.";
+$locale['500'] = "Nie znaleziono dopasowań.";
+$locale['501'] = "Szukane hasło musi mieć co najmniej 3 znaki.";
+$locale['502'] = "Szukane wyrażenie (%s) zawiera mniej niż trzy znaki i zostało zignorowane w wynikach wyszukiwania.";
 //Global search
-$locale['510'] = "dopasowania w globalnym wyszukiwaniu strony";
+$locale['510'] = "dopasowań w globalnym wyszukiwaniu na stronie";
 //
 $locale['520'] = "dopasowanie";
 $locale['521'] = "dopasowania";
 $locale['522'] = "znaleziono dopasowując kryteria wyszukiwania";
 //more than 100 results
-$locale['530'] = "Bądź dokładniejszy w zapytaniu. Twoje zapytanie %s zwraca wyniki. Wyświetlamy tylko 100 najlepszych wyników";
+$locale['530'] = "Proszę być bardziej precyzyjnym/ą w zapytaniu. Twoje zapytanie zwraca %s wyników. Wyświetlamy tylko 100 najlepszych wyników";

@@ -11,5 +11,5 @@ $locale['web_0032'] = "Najstarsze";
 $locale['web_0040'] = "Widok miniaturek";
 $locale['web_0041'] = "Widok listy";
 // Messages
-$locale['web_0060'] = "Nie zdefiniowano kategorii linków.";
+$locale['web_0060'] = "Nie zdefiniowano kategorii linków witryny.";
 $locale['web_0062'] = "Brak linków w tej kategorii.";

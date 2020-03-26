@@ -1,5 +1,5 @@
 <?php
 $locale['uf_instagram'] = "Instagram";
-$locale['uf_instagram_desc'] = "Instagram Profile Page";
-$locale['uf_instagram_error'] = "Instagram Username can not be left empty.";
-$locale['uf_instagram_placeholder'] = "Instagram Username";
+$locale['uf_instagram_desc'] = "Strona profilu na Instagramie";
+$locale['uf_instagram_error'] = "Nazwa użytkownika Instagrama nie może pozostać pusta.";
+$locale['uf_instagram_placeholder'] = "Nazwa użytkownika na Instagramie";

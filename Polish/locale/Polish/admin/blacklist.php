@@ -1,44 +1,44 @@
 <?php
-$locale['BLS_000'] = "Blacklist"; //406
+$locale['BLS_000'] = "Czarna lista"; //406
 //Blacklist message
-$locale['BLS_010'] = "Invalid E-mail or IP address.";
-$locale['BLS_011'] = "Adding users to blacklist.";
+$locale['BLS_010'] = "Nieprawidłowy adres e-mail lub adres IP.";
+$locale['BLS_011'] = "Dodawanie użytkowników do czarnej listy.";
 $locale['BLS_012'] = "User Modified blacklist.";
-$locale['BLS_013'] = "User deleted from Blacklist"; //401
-$locale['BLS_014'] = "Are you sure you want to delete this entry?";
-$locale['BLS_015'] = "The blacklist is currently empty."; //465
-$locale['BLS_016'] = "Blacklist email address is not valid email."; //405
+$locale['BLS_013'] = "Usunięto użytkownika z czarnej listy"; //401
+$locale['BLS_014'] = "Czy na pewno chcesz usunąć tę pozycję?";
+$locale['BLS_015'] = "Czarna lista obecnie jest pusta."; //465
+$locale['BLS_016'] = "Adres e-mail do wpisania na czarną listę jest nieprawidłowy."; //405
 
-$locale['BLS_020'] = "Blacklist Użytkownik"; //420
-$locale['BLS_021'] = "Edit blacklisted Użytkownik"; //421
-$locale['BLS_022'] = "Add blacklisted Użytkownik";
-$locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
+$locale['BLS_020'] = "Użytkownik czarnej listy"; //420
+$locale['BLS_021'] = "Edytuj użytkownika na czarnej liście"; //421
+$locale['BLS_022'] = "Dodaj użytkownika do czarnej listy";
+$locale['BLS_023'] = "Obecnie wyświetla %d z %d wszystkich wpisów czarnej listy.";
 
-$locale['BLS_030'] = "Blacklisted info"; //461
-$locale['BLS_031'] = "Admin"; //467
+$locale['BLS_030'] = "Szczegóły"; //461
+$locale['BLS_031'] = "Administrator"; //467
 $locale['BLS_032'] = "Data";  //468
 $locale['BLS_033'] = "Opcje"; //462
-$locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
-$locale['BLS_035'] = "Blacklist email address"; //442
-$locale['BLS_036'] = "Blacklist reason"; //443
-$locale['BLS_037'] = "Blacklist Użytkownik";  //444
-$locale['BLS_038'] = "Update";
-$locale['BLS_039'] = "Select All";
+$locale['BLS_034'] = "Adres IP do wpisania na czarną listę: [STRONG]lub[/STRONG]"; //441
+$locale['BLS_035'] = "E-mail do wpisania na czarną listę"; //442
+$locale['BLS_036'] = "Powód wpisania na czarną listę"; //443
+$locale['BLS_037'] = "Użytkownik czarnej listy";  //444
+$locale['BLS_038'] = "Aktualizuj";
+$locale['BLS_039'] = "Zaznacz wszystko";
 
-$locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
-You can enter a full IP, e.g. <em>123.45.67.89.</em>, or a partial IP, e.g. <em>123.45.67</em> or <em>123.45</em>.
-Please note: IPv6 addresses are converted to their full length form on this site,
-e.g. <em>ABCD:1234:5:6:7:8:9:FF</em> will be shown as <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
-Mixed IP addresses (those contain both IPv6 and IPv4 part) will not be checked for partial match.
+$locale['BLS_MS'] = "Wprowadzenie adresu IP uniemożliwi użytkownikowi, którego adres IP pasuje do wpisu, odwiedzanie tej witryny.
+Możesz wprowadzić cały adres IP, np. <em>123.45.67.89.</em> lub częściowy adres IP, np. <em>123.45.67</em> lub <em>123.45</em>.
+Uwaga: adresy IPv6 są konwertowane na formę w pełnej długości na tej stronie,
+np. <em>ABCD:1234:5:6:7:8:9:FF</em> będzie wyświetlane jako <em> ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
+Mieszane adresy IP (zawierające zarówno część IPv6, jak i IPv4) nie zostaną sprawdzone pod kątem częściowego dopasowania.
 <br /><br />
-Entering an email address will prevent members from registering using that address.
-You can enter a full email address, e.g. <em>foo@bar.com</em>, or an email domain, e.g. <em>bar.com</em>.<br /><br />
+Wprowadzanie adresu e-mail uniemożliwi członkom rejestrację przy użyciu tego adresu.
+Możesz podać pełny adres e-mail, np. <em>foo@bar.com</em> lub domenę e-mail, np. <em>bar.com</em>.<br /><br />
 
-% - matches any string.<br /><br />
+% - pasuje do każdego ciągu.<br /><br />
 
-%.%.%.%@domain.tld bans any address that contains at least 3 dots.<br />
-%+%@domain.tld bans any address that contains at least one plus sign.<br />
-%@domain.tld bans any address from domain.tld<br />
-%.domain.tld bans all subdomains of domain.tld<br />
-%payday% bans any address that contains the word \"payday\" which was very often on sites.<br />
-domain.tld is an alias of %@domain.tld to make it compatible with rules defined in v7.<br />"; //440
+%..%.%@domena.tld blokuje dowolne adresy zawierające co najmniej 3 kropki.<br />
+ %+%@domena.tld blokuje dowolne adresy zawierające co najmniej jeden znak plus.<br />
+%@domena.tld blokuje dowolne adresy domena.tld<br />
+%.domena.tld blokuje wszystkie subdomeny domena.tld<br />
+%payday% blokuje dowolne adresy zawierającego słowo \"payday\", które bardzo często bywały na stronach internetowych.<br />
+domena.tld jest aliasem %@domena.tld aby był zgodny z regułami określonymi w v7.<br />"; //440

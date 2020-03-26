@@ -60,7 +60,7 @@ $locale['setup_0142'] = "Utworzono plik config.php";
 $locale['setup_0143'] = "Podany przedrostek tabeli jest już w użyciu i jest uruchomiony. Instalator będzie kontynuować aktualizację różnice jako wymagane";
 $locale['setup_0144'] = "Diagnostyka bazy danych została zakończona";
 // Step 1
-$locale['setup_1000'] = "Prosimy wybrać język";
+$locale['setup_1000'] = "Proszę wybrać język";
 $locale['setup_1001'] = "Pobierz więcej pakietów regionalnych z <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>oficjalnej strony wsparcia PHP-Fusion</strong></a>";
 $locale['setup_1002'] = "Witamy w tryb odzyskiwania PHP-Fusion 9.0.";
 $locale['setup_1003'] = "Wykryliśmy, że zainstalowany jest istniejący system. Wybierz jedną z poniższych czynności, aby kontynuować.";
@@ -149,10 +149,10 @@ $locale['setup_5020'] = "Pole adresu e-mail nie może pozostać puste.";
 $locale['setup_3000'] = "Administratorzy";
 $locale['setup_3002'] = "Artykuły";
 $locale['setup_3003'] = "Banery";
-$locale['setup_3004'] = "BB Code&#039;y";
+$locale['setup_3004'] = "Kody BB";
 $locale['setup_3005'] = "Czarna lista";
 $locale['setup_3006'] = "Komentarze";
-$locale['setup_3007'] = "Podstrony dodatkowe";
+$locale['setup_3007'] = "Dodatkowe strony";
 $locale['setup_3008'] = "Kopia zapasowa bazy danych";
 $locale['setup_3010'] = "Download";
 $locale['setup_3011'] = "FAQ";
@@ -166,7 +166,7 @@ $locale['setup_3019'] = "Panele";
 $locale['setup_3020'] = "Galeria";
 $locale['setup_3021'] = "PHP Info";
 $locale['setup_3022'] = "Ankiety";
-$locale['setup_3023'] = "Linki w Menu";
+$locale['setup_3023'] = "Linki witryny";
 $locale['setup_3024'] = "Emotikony";
 $locale['setup_3026'] = "Aktualizacja";
 $locale['setup_3027'] = "Grupy użytkowników";
@@ -178,7 +178,7 @@ $locale['setup_3035'] = "Różne";
 $locale['setup_3036'] = "Prywatne wiadomości";
 $locale['setup_3037'] = "Pola użytkownika";
 $locale['setup_3038'] = "Rangi na forum";
-$locale['setup_3041'] = "Zarządzanie użytkownikami";
+$locale['setup_3041'] = "Zarządzanie użytkownikiem";
 $locale['setup_3044'] = "Bezpieczeństwo";
 $locale['setup_3047'] = "Resetowanie hasła administratora";
 $locale['setup_3048'] = "Logi błędów";
@@ -193,7 +193,7 @@ $locale['setup_3058'] = "Ustawienia motywu";
 $locale['setup_3059'] = "Menedżer plików Fusion";
 // Multilanguage table rights
 $locale['setup_3200'] = "Artykuły";
-$locale['setup_3201'] = "Podstrony dodatkowe";
+$locale['setup_3201'] = "Dodatkowe strony";
 $locale['setup_3202'] = "Download";
 $locale['setup_3203'] = "FAQ";
 $locale['setup_3204'] = "Fora";
@@ -202,7 +202,7 @@ $locale['setup_3206'] = "Galeria";
 $locale['setup_3207'] = "Ankiety";
 $locale['setup_3208'] = "Szablony e-mail";
 $locale['setup_3209'] = "Katalog stron";
-$locale['setup_3210'] = "Linki w Menu";
+$locale['setup_3210'] = "Linki witryny";
 $locale['setup_3211'] = "Panele";
 $locale['setup_3212'] = "Rangi na forum";
 $locale['setup_3213'] = "Blog";
@@ -215,24 +215,24 @@ $locale['setup_3305'] = "Kontakt";
 $locale['setup_3307'] = "Katalog stron";
 $locale['setup_3308'] = "Galeria";
 $locale['setup_3309'] = "Szukaj";
-$locale['setup_3310'] = "Dodaj link do katalogu stron";
-$locale['setup_3311'] = "Podeślij newsa";
-$locale['setup_3312'] = "Podeślij artykuł";
-$locale['setup_3313'] = "Dodaj grafikę";
-$locale['setup_3314'] = "Podeślij plik";
+$locale['setup_3310'] = "Zatwierdź link";
+$locale['setup_3311'] = "Zatwierdź aktualność";
+$locale['setup_3312'] = "Zatwierdź artykuł";
+$locale['setup_3313'] = "Zatwierdź zdjęcie";
+$locale['setup_3314'] = "Zatwierdź plik";
 $locale['setup_3315'] = "Zgłoszenia";
 $locale['setup_3316'] = "Czat";
-$locale['setup_3317'] = "Podeślij wpis na bloga";
+$locale['setup_3317'] = "Zatwierdź wpis";
 $locale['setup_3318'] = "Archiwum blogu Panel";
 $locale['setup_3319'] = "Najnowsze dyskusje";
 $locale['setup_3320'] = "Dyskusje uczestniczące";
-$locale['setup_3321'] = "Śledzone wątki";
+$locale['setup_3321'] = "Obserwowane wątki";
 $locale['setup_3322'] = "Wątki bez odpowiedzi";
 $locale['setup_3323'] = "Nierozwiązane pytania";
 $locale['setup_3324'] = "Nowy wątek";
 $locale['setup_3325'] = "Najnowsze artykuły";
-$locale['setup_3326'] = "Najnowsze pliki do pobrania";
-$locale['setup_3327'] = "Dodaj do FAQ";
+$locale['setup_3326'] = "Najnowsze pliki";
+$locale['setup_3327'] = "Zatwierdź FAQ";
 // Stage 6 - Panels
 $locale['setup_3400'] = "Nawigacja";
 $locale['setup_3401'] = "Użytkownicy online";
@@ -270,16 +270,16 @@ $locale['setup_3606'] = "Senior";
 $locale['setup_3607'] = "Weteran";
 $locale['setup_3608'] = "Fusioneer";
 // Stage 6 - Sample Smileys
-$locale['setup_3620'] = "Smile";
-$locale['setup_3621'] = "Wink";
-$locale['setup_3622'] = "Sad";
-$locale['setup_3623'] = "Frown";
-$locale['setup_3624'] = "Shock";
+$locale['setup_3620'] = "Uśmiech";
+$locale['setup_3621'] = "Mrugnięcie";
+$locale['setup_3622'] = "Smutek";
+$locale['setup_3623'] = "Skrzywienie";
+$locale['setup_3624'] = "Szok";
 $locale['setup_3625'] = "Pfft";
-$locale['setup_3626'] = "Cool";
-$locale['setup_3627'] = "Grin";
-$locale['setup_3628'] = "Angry";
-$locale['setup_3629'] = "Like";
+$locale['setup_3626'] = "Super";
+$locale['setup_3627'] = "Szeroki uśmiech";
+$locale['setup_3628'] = "Złość";
+$locale['setup_3629'] = "Polubienie";
 // Stage 6 - User Field Categories
 $locale['setup_3640'] = "Profil";
 $locale['setup_3641'] = "Informacje kontaktowe";
@@ -321,17 +321,9 @@ $locale['setup_3704'] = "%d %B %Y %H:%M:%S";
 $locale['setup_3800'] = "Szablony e-mail";
 $locale['setup_3801'] = "Powiadomienie o nowej PW";
 $locale['setup_3802'] = "Masz nową prywatną wiadomość od użytkownika [USER], czekającego na [SITENAME]";
-$locale['setup_3803'] = "Witaj [RECEIVER],
-Otrzymałeś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz przeczytać prywatną wiadomość na [SITEURL]messages.php
-
-Wiadomość: [MESSAGE]
-
-Jeśli nie chcesz już otrzymywać powiadomień o nowych wiadomościach, możesz wyłączyć powiadomienie e-mail za pośrednictwem zakładki Opcje w panelu Prywatne wiadomości.
-
-Pozdrawiamy,
-[SENDER].";
-$locale['setup_3804'] = "Notification on new forum posts";
-$locale['setup_3805'] = "Thread Reply Notification - [SUBJECT]";
+$locale['setup_3803'] = "Witaj [RECEIVER],<br/>\nOtrzymałeś/aś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz przeczytać prywatną wiadomość na [SITEURL]messages.php<br/>\nWiadomość: [MESSAGE]<br/>\nJeśli nie chcesz już otrzymywać powiadomień o nowych wiadomościach, możesz wyłączyć powiadomienie e-mail za pośrednictwem zakładki Opcje w panelu Prywatne wiadomości.<br/>\nPozdrawiamy,<br/>\n[SENDER].";
+$locale['setup_3804'] = "Powiadomienie o nowych postach na forum";
+$locale['setup_3805'] = "Powiadomienie o odpowiedzi w wątku - [SUBJECT]";
 $locale['setup_3806'] = "Witaj [RECEIVER],
 
 Odpowiedź została opublikowana na wątku forum \\'[SUBJECT]\\' którego śledzisz na [SITENAME]. Aby zobaczyć odpowiedź, skorzystaj z następującego linku:
@@ -362,6 +354,6 @@ $locale['photos']['title'] = "Galeria";
 $locale['photos']['description'] = "System galerii zdjęć.";
 $locale['polls']['title'] = "Ankiety";
 $locale['polls']['description'] = "Ankiety i system głosowania użytkowników.";
-$locale['weblinks']['title'] = "Katalog stron";
+$locale['weblinks']['title'] = "Linki";
 $locale['weblinks']['description'] = "System katalogu stron internetowych.";
 $locale['install'] = "Zainstaluj rdzeń aplikacji";

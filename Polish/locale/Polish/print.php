@@ -2,8 +2,8 @@
 //news, articles, blog
 $locale['400'] = "Opublikowane przez ";
 $locale['401'] = " dnia ";
-$locale['402'] = "Rozszerzone newsy";
-$locale['403'] = "Rozszerzone blogi";
+$locale['402'] = "Rozszerzenie aktualności";
+$locale['403'] = "Rozszerzenie wpisu";
 //forums
 $locale['500'] = "Temat wątku:";
 $locale['501'] = "Opublikowane przez ";

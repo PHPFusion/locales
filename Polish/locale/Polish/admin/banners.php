@@ -1,10 +1,10 @@
 <?php
-$locale['BN_000'] = "Banners";
+$locale['BN_000'] = "Banery";
 
-$locale['BN_012'] = "Banner Updated in the database.";
-$locale['BN_013'] = "Banner deleted from the database.";
-$locale['BN_014'] = "Not Selected Banner.";
-$locale['BN_015'] = "Are you sure you want to delete this banner?";
+$locale['BN_012'] = "Zaktualizowano baner w bazie danych.";
+$locale['BN_013'] = "Usunięto baner z bazy danych.";
+$locale['BN_014'] = "Nie zaznaczono banera.";
+$locale['BN_015'] = "Czy na pewno chcesz usunąć ten baner?";
 
-$locale['sitebanner1'] = "Banner 1";
-$locale['sitebanner2'] = "Banner 2";
+$locale['sitebanner1'] = "Baner 1";
+$locale['sitebanner2'] = "Baner 2";

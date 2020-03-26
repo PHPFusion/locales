@@ -1,5 +1,5 @@
 <?php
-$locale['uf_da'] = "Deviantart";
-$locale['uf_da_id'] = "Deviantart Username";
-$locale['uf_da_desc'] = "Deviantart Profile Page";
-$locale['uf_da_error'] = "Deviantart Username can not be left empty.";
+$locale['uf_da'] = "DeviantArt";
+$locale['uf_da_id'] = "Nazwa użytkownika DeviantArt";
+$locale['uf_da_desc'] = "Strona profilu DeviantArt";
+$locale['uf_da_error'] = "Nazwa użytkownika DeviantArt nie może pozostać pusta.";

@@ -1,6 +1,6 @@
 <?php
 // Titles
-$locale['ERROR_400'] = "Logi błędów";
+$locale['ERROR_400'] = "Dziennik błędów";
 $locale['ERROR_401'] = "Zapoznaj się z plikiem";
 // Errors table
 $locale['ERROR_410'] = "Błąd";
@@ -11,7 +11,7 @@ $locale['ERROR_414'] = "Status";
 $locale['ERROR_415'] = "Linia:";
 $locale['ERROR_416'] = "Poziom:";
 $locale['ERROR_417'] = "IP:";
-$locale['ERROR_418'] = "Brak błędów w logu.";
+$locale['ERROR_418'] = "Brak błędów w dzienniku.";
 $locale['ERROR_419'] = "Plik";
 $locale['ERROR_420'] = "Detale";
 $locale['ERROR_421'] = "Kod źródłowy";
@@ -23,7 +23,7 @@ $locale['ERROR_450'] = "Nowy";
 $locale['ERROR_451'] = "Rozwiązany";
 $locale['ERROR_452'] = "Ignorowany";
 $locale['ERROR_453'] = "Zastosuj";
-$locale['ERROR_454'] = "Surowość";
+$locale['ERROR_454'] = "Priorytet";
 
 $locale['ERROR_460'] = "Błędy";
 $locale['ERROR_461'] = "Plik błędu";

@@ -1,7 +1,7 @@
 <?php
 // Section Titles
-$locale['PL_400'] = "Bezpośrednie odnośniki włączone";
-$locale['PL_401'] = "Bezpośrednie odnośniki wyłączone";
+$locale['PL_400'] = "Włączone bezpośrednie odnośniki";
+$locale['PL_401'] = "Wyłączone bezpośrednie odnośniki";
 $locale['PL_401a'] = "Ustawienia bezpośrednich odnośników";
 
 // Common
@@ -16,29 +16,29 @@ $locale['PL_404d'] = "Ponowna instalacja";
 $locale['PL_405'] = "Edytowanie bezpośrednich odnośników dla %s";
 $locale['PL_406'] = "Tagi";
 $locale['PL_407'] = "Opis";
-$locale['PL_408'] = "Rodzaje";
-$locale['PL_409'] = "Edit Pattern";
+$locale['PL_408'] = "Types";
+$locale['PL_409'] = "Edycja wzoru";
 $locale['PL_410'] = "Permalink type %u:";
 $locale['PL_411'] = "Błąd";
-$locale['PL_412'] = "Check the files of the Permalink %s!";
+$locale['PL_412'] = "Sprawdź pliki bezpośredniego odnośnika %s!";
 $locale['PL_413'] = "Zapisz";
-$locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
-$locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
-                  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>
-                  Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
+$locale['PL_414'] = "OSTRZEŻENIE: bezpośrednie odnośniki &amp; niestandardowych danych aliasu zostaną trwale usunięte!<br/>Czy na pewno chcesz wyłączyć ten bezpośredni odnośnik?";
+$locale['PL_415'] = "Reguły bezpośredniego odnośnika przekształcą różne adresy URL witryny na przyjazne adresy URL wyszukiwarki za pomocą opcji, aby dostosować strukturę URL dla Twojej witryny.<br/>
+                  Możesz włączyć bezpośrednie odnośniki w zakładce Ustawienia, jeśli Twój serwer obsługuje mod_rewrite. Aktywujesz różne bezpośrednie odnośniki znalezione w wyłączonej karcie. Możesz edytować reguły, aby dodatkowo dostosować adres URL do Twoich preferencji bezpośrednio w każdym module bezpośredniego odnośnika.<br/><br/>
+                  Pamiętaj, że do pracy bezpośrednich odnośników jest wymagany mod_rewrite lub jego odpowiednik.";
 
 // Admin Messages
-$locale['PL_420'] = "An Error occurred.";
-$locale['PL_421'] = "Permalinks Updated successfully.";
-$locale['PL_422'] = "No Permalink patterns found for %s.";
-$locale['PL_423'] = "Permalink not found.";
-$locale['PL_424'] = "Enabled Permalinks for %s successfully.";
-$locale['PL_425'] = "Permalinks for %s are already enabled.";
-$locale['PL_426'] = "Disabled Permalinks for %s successfully.";
-$locale['PL_429'] = "Permalink Driver for %s";
+$locale['PL_420'] = "Wystąpił błąd.";
+$locale['PL_421'] = "Pomyślnie zaktualizowano linki bezpośrednie.";
+$locale['PL_422'] = "Nie znaleziono wzorów bezpośrednich odnośników dla %s.";
+$locale['PL_423'] = "Nie znaleziono bezpośredniego odnośnika.";
+$locale['PL_424'] = "Pomyślnie włączono bezpośrednie odnośniki dla %s.";
+$locale['PL_425'] = "Bezpośrednie odnośniki dla %s są już włączone.";
+$locale['PL_426'] = "Pomyślnie wyłączono bezpośrednie odnośniki dla %s.";
+$locale['PL_429'] = "Sterownik bezpośredniego odnośnika dla %s";
 
 // Other
 $locale['PL_427'] = "No Permalinks are enabled.";
 $locale['PL_428'] = "Bezpośrednie odnośniki";
-$locale['seo_htc_warning'] = "Please note that if you change any of these settings the content of `.htaccess` will be overwritten and any changes previously done to this file will be lost.";
-$locale['rewrite_disabled'] = "It looks like `mod_rewrite` is not enabled on your host. Enabling SEF urls might break your website. Please contact your hosting provider about enabling `mod_rewrite` on your host.";
+$locale['seo_htc_warning'] = "Pamiętaj, że jeśli zmienisz jakiekolwiek z tych ustawień, zawartość `. taccess` zostanie nadpisana i wszelkie zmiany dokonane wcześniej w tym pliku zostaną utracone.";
+$locale['rewrite_disabled'] = "Wygląda na to, że `mod_rewrite` nie jest włączony na Twoim serwerze. Włączenie linków SEF może uszkodzić twoją stronę. Skontaktuj się ze swoim dostawcą usług hostingowych, aby włączyć `mod_rewrite` na Twoim serwerze.";
