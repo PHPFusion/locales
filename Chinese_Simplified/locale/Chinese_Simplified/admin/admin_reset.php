@@ -10,11 +10,11 @@ $locale['apw_404'] = "复位的理由";
 $locale['apw_405'] = "重置登录和管理员密码";
 $locale['apw_406'] = "重置密码";
 $locale['apw_407'] = "密码重置在 ";
-$locale['apw_408'] = "Hello [USER_NAME],<br/>\r\nYour admin password has been reset at [SITEURL]:<br/>\r\n
-Admin Password: [NEW_ADMIN_PASS]<br/>\r\nThe reason for this reset is: [RESET_MESSAGE]<br/>\r\nRegards,<br/>\r\n[ADMIN]";
-$locale['apw_409'] = "Hello [USER_NAME],<br/>\r\nYour login and admin passwords have been reset at [SITEURL]:<br/>\r\n
-Login Password: [NEW_PASS]<br/>\r\nAdmin Password: [NEW_ADMIN_PASS]<br/>\r\nThe reason for this reset is: [RESET_MESSAGE]<br/>\r\n
-Regards,<br/>\r\n[ADMIN]";
+$locale['apw_408'] = "您好[USER_NAME]，您的管理员密码已在[SITEURL]重置：<br/>
+管理员密码：[NEW_ADMIN_PASS] <br/>重置的原因是：[RESET_MESSAGE] <br/>谢谢，<br/> [管理员]";
+$locale['apw_409'] = "您好[USER_NAME]，您的登录名和管理员密码已在[SITEURL]重置：<br/>
+登录密码：[NEW_PASS] <br/>管理员密码：[NEW_ADMIN_PASS] <br/>重置的原因是：[RESET_MESSAGE] <br/>
+谢谢，<br/>[ADMIN]";
 $locale['apw_410'] = "重置结果";
 $locale['apw_411'] = "更新管理员密码。";
 $locale['apw_412'] = "管理员密码:";
