@@ -97,18 +97,18 @@ $locale['u144a'] = "Password amministratore corrente";
 $locale['u145'] = "Conferma password amministratore";
 $locale['u146'] = "non può essere lo stesso come il tuo attuale";
 $locale['u147'] = "la Password deve essere lunga tra 8 e 64 caratteri.
-Simboli permessi sono a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
+Simboli permessi sono a-z, 0-9 and @!#$%&/()=-_?+*.,:;";
 $locale['u148'] = "Nuova password di Login non sono identiche.";
 $locale['u148a'] = "Nuovo Admin password non sono identiche.";
 $locale['u149'] = "La Password di accesso corrente non è stata specificata o non è valida.";
 $locale['u149a'] = "La Password di amministratore corrente non è stata specificata o non è valida.";
 $locale['u149b'] = "La Password di accesso corrente non è stata specificata o è invalid.
-Non puoi impostare la password di amministratore senza la password corretta.";
+Non puoi impostare la password di amministratore senza la password corretta.";
 // Email activation
 $locale['u150'] = "La tua registrazione è quasi completata, riceverai una email di conferma contenente un link per attivare definitivamente il tuo account.";
 $locale['u151'] = "Benvenuto su [SITENAME]";
 $locale['u152'] = "Ciao USER_NAME,
-grazie per esserti registrato su [SITENAME]. Questi sono i dati con cui ti sei registrato:
+grazie per esserti registrato su [SITENAME]. Questi sono i dati con cui ti sei registrato:
 
 Username: [USER_NAME]
 
@@ -116,8 +116,9 @@ Password: [USER_PASSWORD]
 
 Puoi attivare definitivamente il tuo account clickando sul seguente link: ACTIVATION_LINK
 
-Saluti,
-SITEUSERNAME";
+
+Saluti,
+SITEUSERNAME";
 
 $locale['u153'] = "L'email di attivazione non può essere inviata. Contatta l'amministratore.";
 $locale['u154'] = "Si prega di [LINK]contact[/LINK] l'amministratore del sito.";

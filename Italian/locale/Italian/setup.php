@@ -321,10 +321,10 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3800'] = "Email Templates.";
 $locale['setup_3801'] = "Notifica il nuovo PM";
 $locale['setup_3802'] = "Hai un nuovo messaggio privato di [USER] in attesa a [SITENAME]";
-$locale['setup_3803'] = "Ciao [RECEIVER], 
+$locale['setup_3803'] = "Ciao [RECEIVER],
 Tu hai ricevuto un nuovo messaggio privato intitolato [SUBJECT] da [USER] a [SITENAME]. È possibile leggere il tuo messaggio privato a [SITEURL]messages.php
 
-Message: [MESSAGE] 
+Message: [MESSAGE]
 
 Tu puoi disattivare la notifica via email tramite il pannello opzioni nella pagina messaggio privato se non vuoi più essere avvisati di nuovi messages.
 
@@ -332,7 +332,7 @@ Saluti,
 [SENDER]. ";
 $locale['setup_3804'] = "Notifica su nuovi messaggi nel forum";
 $locale['setup_3805'] = "Thread risposta notifica - [SUBJECT]";
-$locale['setup_3806'] = "Ciao [RECEIVER], risposta 
+$locale['setup_3806'] = "Ciao [RECEIVER], risposta
 
 È stato pubblicato nel forum thread \\'[SUBJECT]\\' che si sta seguendo a [SITENAME]. È possibile utilizzare il seguente link per visualizzare la risposta:
 
