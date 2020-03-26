@@ -103,7 +103,7 @@ $locale['u148a'] = "Kata Laluan Admin tidak sama.";
 $locale['u149'] = "Kata Laluan Log Masuk terkini kosong atau tidak sah.";
 $locale['u149a'] = "Kata Laluan Admin tidak didapati atau tidak sah.";
 $locale['u149b'] = "Kata Laluan Log Masuk terkini kosong atau tidak sah.
-Anda tidak boleh menyimpan Kata Laluan Admin tanpa Kata Laluan Log Masuk yang sah.";
+Anda tidak boleh menyimpan Kata Laluan Admin tanpa Kata Laluan Log Masuk yang sah.";
 // Email activation
 $locale['u150'] = "Pendaftaran anda hampir selesai, Anda akan menerima emel dengan butir log masuk dengan pautan untuk pengesahan akaun anda.";
 $locale['u151'] = "Selamat Datang ke [SITENAME]";
@@ -113,7 +113,7 @@ $locale['u152'] = "Hello USER_NAME,
 \r\nKata Laluan: USER_PASSWORD
 \r\nSila aktifkan akaun anda melalui pautan ini: ACTIVATION_LINK
 
-\r\nSekian,
+\r\nSekian,
 \r\nSITEUSERNAME";
 
 $locale['u153'] = "Emel pengaktifan tidak boleh dikirimkan.";
