@@ -44,12 +44,12 @@ $locale['ME_453'] = '&#350;terge utilizatorul %s';
 $locale['ME_454'] = "Aten&#355;ie!";
 $locale['ME_455'] = "E&#351;ti pe cale sa &#351;tergi utilizatorul %s!
 
-Con&#355;inutul postat de acest utilizator va fi &#351;ters dac&#259; continui.
+Con&#355;inutul postat de acest utilizator va fi &#351;ters dac&#259; continui.
 
 Dac&#259; este spammer &#238;&#351;i recomand&#259;m s&#259;-l suspenzi, anulezi sau anomizezi.
 
 E&#351;ti sigur ca vrei s&#259; &#351;tergi acest membru?
-";
+";
 $locale['ME_456'] = '&#350;terge utilizatorul';
 $locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
 Are you sure you want to delete this user?<br/>";
