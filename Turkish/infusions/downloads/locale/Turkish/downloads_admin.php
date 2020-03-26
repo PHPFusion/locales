@@ -28,8 +28,8 @@ $locale['download_0040'] = "Üzgünüz, Şu Anda Bu Sitedeki İndirme Dosyası �
 $locale['download_0041'] = "Dosya Öner";
 $locale['download_0042'] = "Dosya Önerdiğiniz Için Teşekkür Ederiz";
 $locale['download_0043'] = "Başka Dosya Öner";
-$locale['download_0044'] = "Dosya Önermek İçin Aşağıdaki Formu Kullanın. Öneriniz Bir Yönetici Tarafından İncelenecektir. 
-[SITENAME] Herhangi Bir Gönderiyi Değiştirme Veya Düzenleme Hakkını Saklı Tutar. 
+$locale['download_0044'] = "Dosya Önermek İçin Aşağıdaki Formu Kullanın. Öneriniz Bir Yönetici Tarafından İncelenecektir.
+[SITENAME] Herhangi Bir Gönderiyi Değiştirme Veya Düzenleme Hakkını Saklı Tutar.
 Dosya, Bu Sitenin İçeriğine Uygulan Olmalıdır. Uygun Görülmeyen Öneriler Reddedilecektir.";
 $locale['download_0046'] = "Dosya Önerileri";
 $locale['download_0047'] = "Ekran Görüntüsü Gerekli Mi?";

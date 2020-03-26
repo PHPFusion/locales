@@ -76,8 +76,8 @@ $locale['faq_0910'] = "SSS Başarıyla Gönderildi.";
 $locale['faq_0911'] = "Öneriniz Için Teşekkürler.";
 $locale['faq_0912'] = "Başka SSS Gönderin";
 $locale['faq_0913'] = "[SITENAME] Geri Dön";
-$locale['faq_0920'] = "SSS Göndermek Için Aşağıdaki Formu Kullanın. Öneriniz Bir Yönetici Tarafından Incelenecektir. 
-[SITENAME] Herhangi Bir Gönderiyi Değiştirme Veya Düzenleme Hakkını Saklı Tutar. 
+$locale['faq_0920'] = "SSS Göndermek Için Aşağıdaki Formu Kullanın. Öneriniz Bir Yönetici Tarafından Incelenecektir.
+[SITENAME] Herhangi Bir Gönderiyi Değiştirme Veya Düzenleme Hakkını Saklı Tutar.
 SSS'ler, Bu Sitenin İçeriğine Uygun Olmalıdır. Uygun Olmayan Gönderiler Silinecektir.";
 $locale['faq_0921'] = "Bir SSS Önerebilmek İçin Üye Girişi Yapmalısınız..";
 $locale['faq_0922'] = "Hemen Arkasından Yapılan Yeni SSS Önerimlerini Kabul Etmiyoruz.";

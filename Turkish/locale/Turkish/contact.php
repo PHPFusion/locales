@@ -1,7 +1,7 @@
 <?php
 // Contact Form
 $locale['CT_400'] = "İletişim Formu";
-$locale['CT_401'] = "Bizimle iletişime geçmenin birkaç yolu vardır. Bana doğrudan  
+$locale['CT_401'] = "Bizimle iletişime geçmenin birkaç yolu vardır. Bana doğrudan
 [SITE_EMAIL] adresinden E-posta gönderebilirsiniz. Eğer bir üyeyseniz bana [PM_LINK] gönderebilirsiniz.
 Alternatif olarak, bu sayfadaki formu doldurarak E-posta ile bize mesaj gönderebilirsiniz.";
 $locale['CT_402'] = "İsim:";

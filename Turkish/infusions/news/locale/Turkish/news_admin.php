@@ -108,8 +108,8 @@ $locale['news_0402'] = "Genişletilmiş Haber Gerekiyor";
 $locale['news_0700'] = "Haber Gönder";
 $locale['news_0701'] = "Haber Gönderdiğiniz İçin Teşekkür Ederiz";
 $locale['news_0702'] = "Başka Bir Haber Öğesi Gönder";
-$locale['news_0703'] = "Haber Göndermek Için Aşağıdaki Formu Kullanın. Gönderiniz Bir Yönetici Tarafından İncelenecektir. 
-[SITENAME] Herhangi Bir Gönderimi Değiştirme Veya Düzenleme Hakkını Saklı Tutar. 
+$locale['news_0703'] = "Haber Göndermek Için Aşağıdaki Formu Kullanın. Gönderiniz Bir Yönetici Tarafından İncelenecektir.
+[SITENAME] Herhangi Bir Gönderimi Değiştirme Veya Düzenleme Hakkını Saklı Tutar.
 Haberler, Bu Sitenin Içeriğine Uygulanabilir Olmalıdır. Uygun Olmayan Gönderimler Silinir.";
 $locale['news_0704'] = "[SITENAME] Sitesine Geri Dön";
 
