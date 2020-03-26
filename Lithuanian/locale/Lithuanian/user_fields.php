@@ -97,13 +97,13 @@ $locale['u144a'] = "Dabartinis Admin slaptažodis";
 $locale['u145'] = "Patvirtinti administratoriaus slaptažodį";
 $locale['u146'] = " negali būti vienodas kaip dabartinis ";
 $locale['u147'] = "Slaptažodis turi būti tarp 8 ir 64 simbolių ilgumo.
-Leistini simboliai a-z, 0-9 ir @!#$%&\\/()=-_?+*.,:;";
+Leistini simboliai a-z, 0-9 ir @!#$%&\\/()=-_?+*.,:;";
 $locale['u148'] = "Nauji prisijungimo slaptažodžiai nevienodi.";
 $locale['u148a'] = "Nauji administratoriaus slaptažodžiai nesutampa.";
 $locale['u149'] = "Jūsų dabartinis slaptažodis nenurodytas arba klaidingai įvestas.";
 $locale['u149a'] = "Jūsų administratoriaus slaptažodis nenurodytas arba klaidingai įvestas.";
 $locale['u149b'] = "Jūsų dabartinis prisijungimo slaptažodis buvo nenurodytas arba yra klaidingas.
-Norint nustatyti administratoriaus slaptažodį, jūs turite įvesti teisingą savo prisijungimo slaptažodį.";
+Norint nustatyti administratoriaus slaptažodį, jūs turite įvesti teisingą savo prisijungimo slaptažodį.";
 // Email activation
 $locale['u150'] = "Jūsų registracija beveik baigta, neužilgo gausite el. laišką su prisijungimo duomenimis bei vartotojo paskyros patvirtinimo nuoroda.";
 $locale['u151'] = "Sveikiname užsiregistravus [SITENAME]";
@@ -113,7 +113,7 @@ $locale['u152'] = "Sveiki USER_NAME,
 \r\nSlaptažodis: USER_PASSWORD
 \r\nPrašome aktyvuoti savo vartotojo paskyra paspausdami šią nuorodą: ACTIVATION_LINK
 
-\r\nLinkėjimai,
+\r\nLinkėjimai,
 \r\nSITEUSERNAME";
 
 $locale['u153'] = "Aktyvacijos laiško siuntimas negalimas.";

@@ -44,12 +44,12 @@ $locale['ME_453'] = 'Ištrinti vartotoją %s';
 $locale['ME_454'] = "Dėmesio!";
 $locale['ME_455'] = "Jūs ketinate ištrinti vartotoją %s!
 
-Visas šio nario įkeltas turinys taip pat bus ištrintas.
+Visas šio nario įkeltas turinys taip pat bus ištrintas.
 
 Išskyrus, kai tai yra spameris, rekomenduojame narį blokuoti, laikinai suspenduoti, atšaukti arba anonimizuoti.
 
 Ar tikrai norite ištrinti šį vartotoją?
-";
+";
 $locale['ME_456'] = 'Ištrinti vartotoją';
 $locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
 Are you sure you want to delete this user?<br/>";

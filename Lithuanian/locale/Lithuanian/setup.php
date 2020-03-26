@@ -331,7 +331,8 @@ $locale['setup_3803'] = "Sveiki [RECEIVER],
 Jūs gavote naują asmeninę žinutę, pavadinimu [SUBJECT] nuo [USER] tinklapyje [SITENAME]. Šią žinutę galite perskaityti adresu [SITEURL]messages.php
 
 Žinutė: [MESSAGE]
-\\Jeigu daugiau nepageidaujate gauti pranešimų el. paštu apie gautas asmenines žinutes, nustatymus rasite Asmeniniu žinučių puslapyje.
+
+\\Jeigu daugiau nepageidaujate gauti pranešimų el. paštu apie gautas asmenines žinutes, nustatymus rasite Asmeniniu žinučių puslapyje.
 
 Linkėjimai,
 [SENDER].";
