@@ -1,18 +1,18 @@
 <?php
-$locale['r100'] = "Ratings";
-$locale['r101'] = "No Ratings have been Posted.";
-$locale['r102'] = "Remove Rating";
-$locale['r103'] = "Post Rating";
-$locale['r104'] = "Rating is available to Members only.<br/>Please [RATING_ACTION] to vote.";
-$locale['r105'] = "You rated this as %s on %s";
-$locale['r106'] = "Please select your Rating";
-$locale['r107'] = "Choose Rating:";
-$locale['r108'] = "No Votes";
+$locale['r100'] = "Évaluations";
+$locale['r101'] = "Aucune évaluation n'a été publiée.";
+$locale['r102'] = "Retirer l'évaluation";
+$locale['r103'] = "Évaluation de post";
+$locale['r104'] = "La notation est disponible uniquement pour les membres.<br/>Veuillez [RATING_ACTION] pour voter.";
+$locale['r105'] = "Vous avez noté ceci comme %s le %s";
+$locale['r106'] = "Veuillez sélectionner votre note";
+$locale['r107'] = "Choisissez une note :";
+$locale['r108'] = "Pas de votes";
 $locale['r109'] = "Vote";
-$locale['r110'] = "Votes";
+$locale['r110'] = "Votes ";
 // Rating Options
-$locale['r120'] = "Awesome!";
-$locale['r121'] = "Very Good";
-$locale['r122'] = "Good";
-$locale['r123'] = "Average";
-$locale['r124'] = "Poor";
+$locale['r120'] = "Génial !";
+$locale['r121'] = "Très bon";
+$locale['r122'] = "Bon";
+$locale['r123'] = "Moyen";
+$locale['r124'] = "Mauvais";
