@@ -114,7 +114,7 @@ $locale['u152'] = "Hei USER_NAME
 \r\nPassord: USER_PASSWORD
 \r\nVennligst aktiver din konto ved å klikke på denne lenken: ACTIVATION_LINK
 
-\r\nVennlig hilsen,
+\r\nVennlig hilsen,
 \r\nSITEUSERNAME";
 
 $locale['u153'] = "Aktiverings e-post kunne ikke sendes.";
