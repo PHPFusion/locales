@@ -83,8 +83,7 @@ $locale['status8'] = "Etkin Değil";
 $locale['userf1'] = "Moderatör";
 // Navigation
 $locale['global_001'] = "Ana Menü";
-$locale['global_002'] = "Hiçbir bağlantı tanımlanmamış
-";
+$locale['global_002'] = "Hiçbir bağlantı tanımlanmamış";
 $locale['global_003'] = "Önizlenecek bir şey yok";
 // Users Online
 $locale['global_010'] = "Çevrimiçi Kullanıcılar";
@@ -131,10 +130,10 @@ $locale['global_052'] = "Taşındı";
 $locale['global_053'] = "Henüz herhangi bir forum konuları başlatmamışsınız.";
 $locale['global_054'] = "Henüz herhangi bir foruma mesaj göndermemişsiniz.";
 $locale['global_055'] = "Son ziyzretinizden beri %u yeni mesajlar %u farklı konular içinde var.";
-$locale['global_056'] = "Takip Ettiğim Konular";
+$locale['global_056'] = "Takip Edilen Konular";
 $locale['global_057'] = "Seçenekler";
 $locale['global_058'] = "Takipi Durdur";
-$locale['global_059'] = "Herhangi bir konuları takip etmiyorsunuz.";
+$locale['global_059'] = "Hiçbir konu takip etmiyorsunuz.";
 $locale['global_060'] = "Konuyu takip durdurulsunmu?";
 // Blog, News & Articles
 $locale['global_070'] = "Yazar ";
@@ -205,8 +204,7 @@ $locale['UM062'] = "Şifre";
 $locale['UM063'] = "Beni Hatırla";
 $locale['UM064'] = "Giriş";
 $locale['UM065'] = "Henüz üye değilmisiniz? Kayıt olmak için [LINK]buraya tıklayın[/LINK].";
-$locale['UM066'] = "Şifrenizimi unuttunuz?
-[LINK]Yeni bir tane iste[/LINK].";
+$locale['UM066'] = "Şifrenizimi unuttunuz? [LINK]Yeni bir tane iste[/LINK].";
 $locale['UM067'] = "(Herkese açık veya paylaşılan bir bilgisayarda önerilmez)";
 $locale['UM080'] = "Profili Düzenle";
 $locale['UM081'] = "Özel Mesajlar";
@@ -259,15 +257,13 @@ $locale['global_193'] = "Belge çerezi ayarlanmamış olabilir. Lütfen doğru �
 $locale['global_194'] = "Bu hesap şu anda askıya alındı.";
 $locale['global_195'] = "Bu hesap etkinleştirilmedi.";
 $locale['global_196'] = "Geçersiz kullanıcı adı veya şifre.";
-$locale['global_197'] = "Sizi aktarmamız sırasında lütfen bekleyin...
-
-[ [LINK]Yada beklemek istemiyorsanız buraya tıklayın[/LINK] ]";
+$locale['global_197'] = "Sizi aktarmamız sırasında lütfen bekleyin...<br/>[ [LINK]Yada beklemek istemiyorsanız buraya tıklayın[/LINK] ]";
 $locale['global_198'] = "UYARI: YÜKLEYİCİ ALGILANDI, LÜTFEN INSTALL-PHP DOSYASINI HEMEN SİLİNİZ.";
 $locale['global_199'] = "UYARI: Yönetici şifresi ayarlanmadı, ayarlamak için [LINK]Profili Düzenle[/LINK] bağlantısına tıklayınız.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Arama";
+$locale['global_202'] = " - Ara";
 $locale['global_203'] = " - SSS";
 $locale['global_204'] = " - Forum";
 //Themes
@@ -277,14 +273,11 @@ $locale['global_301'] = "Gerçekten üzgünüz, ancak bu sayfa görüntülenemiy
  Site Yöneticisiyseniz, PHP-Fusion 9 için tasarlanmış temaları temalar klasörüne yüklemek için lütfen FTP istemcinizi kullanın.
  Yükledikten sonra, seçilen temanın temalar dizinine doğru şekilde yüklenip yüklenmediğini görmek için Tema Ayarları'na bir göz atın.
  Tema Ayarları sayfasında seçilen şekilde yüklenen tema klasörünün tam olarak aynı ada (Unix tabanlı sunucularda önemli olan karakter durumuna)
- sahip olduğuna dikkat edin.
-
-Bu sitenin düzenli üyesiyseniz, lütfen [SITE_EMAIL] e-posta yoluyla sitenin yöneticisine başvurun ve bu konuyu bildirin.";
+ sahip olduğuna dikkat edin. Bu sitenin düzenli üyesiyseniz, lütfen [SITE_EMAIL] e-posta yoluyla sitenin yöneticisine başvurun ve bu konuyu bildirin.";
 $locale['global_302'] = "Ana Ayarlar'da seçilen Tema yok ya da eksik!";
 // JavaScript Not Enabled
-$locale['global_303'] = "O hayır! JavaScript nerede?
-Web tarayıcınızın JavaScript'i etkin değil veya JavaScript'i desteklemiyor.
-Bu Web sitesini düzgün bir şekilde görüntülemek veya JavaScript'i destekleyen bir Web tarayıcısına yükseltmek için lütfen Web tarayıcınızdaki JavaScript'i etkinleştirin.";
+$locale['global_303'] = "Ah hayır! JavaScript nerede?<br/>Web tarayıcınızda JavaScript etkin değil veya JavaScript'i desteklemiyor.
+Bu Web sitesini düzgün görüntülemek için lütfen Web tarayıcınızda JavaScript'i etkinleştirin veya JavaScript'i destekleyen bir Web tarayıcısına yükseltin.";
 // User Management
 $locale['global_400'] = "askıya alındı";
 $locale['global_401'] = "yasaklandı";
@@ -298,60 +291,32 @@ $locale['global_408'] = " aşağıdaki sebeplerden dolayı:";
 $locale['global_409'] = "Bu hesap güvenlik nedeniyle yasaklandı.";
 $locale['global_410'] = "Bunun nedeni şudur: ";
 $locale['global_411'] = "Bu hesap iptal edildi.";
-$locale['global_412'] = "Muhtemelen hareketsizlik yüzünden bu hesap anonimleştirilmiştir.";
+$locale['global_412'] = "Bu hesap, muhtemelen hareketsizlik nedeniyle anonimleştirildi.";
 // Flood control
 $locale['global_440'] = "Saldırı Kontrolü ile Otomatik Yasaklama";
 $locale['global_441'] = "[SITENAME] hesabınız yasaklandı";
-$locale['global_442'] = "Merhaba [USER_NAME],
-
-[SITENAME] hesabınız [USER_IP] IP adresiyle çok kısa sürede çok fazla öğe göndererek yakalandı ve bu nedenle yasaklandı. Bu, botların hızlı bir şekilde art arda spam mesajları göndermesini önlemek için yapılır.
-
-Hesabınızın eski durumuna getirilebilmesi için bu sitenin yöneticisi olan [SITE_EMAIL] ile irtibata geçin veya bu güvenlik yasağına neden olmuyorsanız, bunu raporlayın.
-
-
-Saygılarımızla,
-[SITEUSERNAME]";
+$locale['global_442'] = "Merhaba [USER_NAME],<br/>\r\n
+[SITENAME] hesabınız [USER_IP] IP adresiyle çok kısa sürede çok fazla öğe göndererek yakalandı ve bu nedenle yasaklandı. Bu, botların hızlı bir şekilde art arda spam mesajları göndermesini önlemek için yapılır.<br/>\r\n
+Hesabınızın eski durumuna getirilebilmesi için bu sitenin yöneticisi olan [SITE_EMAIL] ile irtibata geçin veya bu güvenlik yasağına neden olmuyorsanız, bunu raporlayın.<br/>\r\n
+Saygılarımızla,<br/>\r\n[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Askıya alma sistem tarafından otomatik olarak kaldırıldı";
 $locale['global_451'] = "[SITENAME] sitesinde askıya alma kaldırıldı";
-$locale['global_452'] = "Merhaba USER_NAME,
-
-[SITEURL] adresinde hesabınızın askıya alınması kaldırıldı. İşte giriş bilgileriniz:
-
-Kullanıcı Adı: USER_NAME
-Şifre: Güvenlik nedeniyle gizli
-
-Şifrenizi unuttuysanız bağlantıyı kullanarak şifrenizi sıfırlayabilirsiniz: LOST_PASSWORD
-
-
-Saygılarımızla,
-[SITEUSERNAME]";
-$locale['global_453'] = "Merhaba USER_NAME,
-[SITEURL] adresindeki hesabınızın askıya alınması kaldırılmıştır.
-
-
-Saygılarımızla,
-[SITEUSERNAME]";
+$locale['global_452'] = "Merhaba USER_NAME,<br/>\r\n
+[SITEURL] adresinde hesabınızın askıya alınması kaldırıldı. İşte giriş bilgileriniz:<br/>\r\n
+Kullanıcı Adı: USER_NAME<br/>\r\nŞifre: Güvenlik nedeniyle gizli<br/>\r\n
+Şifrenizi unuttuysanız bağlantıyı kullanarak şifrenizi sıfırlayabilirsiniz: LOST_PASSWORD<br/>\r\n
+Saygılarımızla,<br/>\r\n[SITEUSERNAME]";
+$locale['global_453'] = "Merhaba USER_NAME,<br/>\r\n[SITEURL] adresindeki hesabınızın askıya alınması kaldırılmıştır.<br/>\r\n
+Saygılarımızla,<br/>\r\n[SITEUSERNAME]";
 $locale['global_454'] = "[SITENAME] sitesinde yeniden etkinleştirilen hesap";
-$locale['global_455'] = "Merhaba USER_NAME,
-
-Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.
-
-
-Saygılarımızla,
-[SITEUSERNAME]";
+$locale['global_455'] = "Merhaba USER_NAME,<br/>\r\n
+Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>\r\n
+Saygılarımızla,<br/>\r\n[SITEUSERNAME]";
 $locale['global_456'] = "[SITENAME] için yeni şifre bildirimi";
 $locale['global_457'] = "Merhaba USER_NAME,
-
-
-Hesabiniz için [SITENAME] sitesinde yeni şifre ayarlandı. Lütfen ilişikdeki yeni oturum açma ayrıntılarına bakın:
-
-
-Kullanıcı Adı: USER_NAME
-Şifre: [PASSWORD]
-
-Saygılarımızla,
-[SITEUSERNAME]";
+<br/>\r\nHesabiniz için [SITENAME] sitesinde yeni şifre ayarlandı. Lütfen ilişikdeki yeni oturum açma ayrıntılarına bakın:<br/>\r\n
+Kullanıcı Adı: USER_NAME<br/>\r\nŞifre: [PASSWORD]<br/>\r\nSaygılarımızla,<br/>\r\n[SITEUSERNAME]";
 $locale['global_458'] = "USER_NAME için yeni şifre ayarlandı";
 $locale['global_459'] = "USER_NAME için yeni şifre belirlendi ve E-posta gönderilmedi. Lütfen yeni ayrıntıları kullanıcıya bildirin.";
 // Function parsebytesize()
