@@ -26,4 +26,4 @@ $locale['texts'] = "Metin";
 $locale['preview'] = "Önizle";
 $locale['word_count'] = "Karakter Sayısı";
 $locale['error_preview'] = "Önizleme Hatası";
-$locale['error_preview_text'] = "Önizleme Geçici Olarak Oluşturulamıyor. Lütfen Sayfayı Yeniden Yükleyin Ve Tekrar Deneyin.";
+$locale['error_preview_text'] = "Önizleme geçici olarak oluşturulamaz. Lütfen sayfayı yeniden yükleyin ve tekrar deneyin.";

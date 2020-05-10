@@ -4,27 +4,27 @@ $locale['100'] = "Fusion Dosya Yöneticisi";
 // Delete Image
 $locale['400'] = "Resim Sil";
 $locale['401'] = "Resim Silindi";
-$locale['402'] = "Resim Yönetimine Geri Dön";
-$locale['403'] = "Site Yönetimine Geri Dön";
+$locale['402'] = "Görseller Yöneticisine Dön";
+$locale['403'] = "Site Yönetimine Dön";
 // Upload Image
 $locale['420'] = "Resim Yükle";
 $locale['421'] = "Dosya İsmi:";
-$locale['422'] = "Ana Resimler";
-$locale['423'] = "İnceleme Resimleri";
-$locale['424'] = "Haber Resimleri";
-$locale['425'] = "Sadece Gif, Jpg Yada Png Formatında Yükleme Yapabilirsiniz.";
-$locale['426'] = "Resim Yüklendi";
-$locale['427'] = "Haber Kategorisi Resimleri";
-$locale['428'] = "Rütbe Resimleri";
-$locale['429'] = "Yüz İfadeleri";
+$locale['422'] = "Ana Görüntüler";
+$locale['423'] = "Makale Görüntüleri";
+$locale['424'] = "Haber Görselleri";
+$locale['425'] = "Maks. Dosya boyutu %s / İzin verilen dosya türleri .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
+$locale['426'] = "Görüntü Yüklendi";
+$locale['427'] = "Haber Kategorileri Görselleri";
+$locale['428'] = "Blog Görselleri";
+$locale['429'] = "Blog Kategorileri Görüntüleri";
 // View Image
 $locale['440'] = "Resmi Görüntüle";
-$locale['441'] = "Tanımlanamayan Resim Formatı, Bu Resim Görüntülenemez.";
-$locale['442'] = "Bu Resmi Sil";
+$locale['441'] = "Bilinmeyen dosya biçimi, resim görüntülenemiyor.";
+$locale['442'] = "Bu resmi sil";
 // Image Management
-$locale['460'] = "Resimler";
+$locale['460'] = "Görüntüler";
 $locale['461'] = "Göster";
-$locale['463'] = "Bu Klasör Boş";
-$locale['464'] = "TinyMCE Editorü Için Resim Listesini Güncelle";
+$locale['463'] = "Bu klasör boş";
+$locale['464'] = "TinyMCE editörü için görüntü listesini güncelle";
 // Popup Error/Warning Messages
-$locale['470'] = "Bu Resim Silinsin mi?";
+$locale['470'] = "Bu resim silinsin mi?";

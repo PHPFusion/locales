@@ -1,12 +1,12 @@
 <?php
-$locale['material_001'] = 'Search (more than 2 characters)';
-$locale['material_002'] = 'Theme Settings';
-$locale['material_003'] = 'Hide Sidebar';
-$locale['material_004'] = 'Small Sidebar';
-$locale['material_005'] = 'Fixed Menu';
-$locale['material_006'] = 'Fixed Sidebar';
-$locale['material_009'] = 'Messages';
-$locale['material_010'] = 'Read';
-$locale['material_011'] = 'New Message';
-$locale['material_012'] = 'There are no messages';
-$locale['material_013'] = 'Created by';
+$locale['material_001'] = 'Ara (2 karakterden fazla)';
+$locale['material_002'] = 'Tema Ayarları';
+$locale['material_003'] = 'Kenar Çubuğunu Gizle';
+$locale['material_004'] = 'Küçük Kenar Çubuğu';
+$locale['material_005'] = 'Sabit Menü';
+$locale['material_006'] = 'Sabit Kenar Çubuğu';
+$locale['material_009'] = 'Mesajlar';
+$locale['material_010'] = 'Oku';
+$locale['material_011'] = 'Yeni Mesaj';
+$locale['material_012'] = 'Mesaj yok';
+$locale['material_013'] = 'Yapan';
