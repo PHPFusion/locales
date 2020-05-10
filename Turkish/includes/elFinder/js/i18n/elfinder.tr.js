@@ -470,15 +470,15 @@
 			'all'             : 'Tümü', // from v2.1.38 added 4.4.2018
 			'iconSize'        : 'İcon Boyutu (İcon Görünümü İçin)', // from v2.1.39 added 7.5.2018
 			'editorMaximized' : 'Maksimum düzenleyici penceresini aç', // from v2.1.40 added 30.6.2018
-			'editorConvNoApi' : 'Because conversion by API is not currently available, please convert on the website.', //from v2.1.40 added 8.7.2018
-			'editorConvNeedUpload' : 'After conversion, you must be upload with the item URL or a downloaded file to save the converted file.', //from v2.1.40 added 8.7.2018
+			'editorConvNoApi' : 'API ile dönüşüm şu anda mevcut olmadığından, lütfen web sitesinde dönüştürün.', //from v2.1.40 added 8.7.2018
+			'editorConvNeedUpload' : 'Dönüştürmeden sonra, dönüştürülen dosyayı kaydetmek için öğe URL\'si veya indirilen bir dosya ile karşıya yüklemeniz gerekir.', //from v2.1.40 added 8.7.2018
 			'convertOn'       : 'Convert on the site of $1', // from v2.1.40 added 10.7.2018
 			'integrations'    : 'Entegrasyonlar', // from v2.1.40 added 11.7.2018
-			'integrationWith' : 'This elFinder has the following external services integrated. Please check the terms of use, privacy policy, etc. before using it.', // from v2.1.40 added 11.7.2018
+			'integrationWith' : 'Bu elFinder aşağıdaki harici hizmetlere entegre edilmiştir. Lütfen kullanmadan önce kullanım koşullarını, gizlilik politikasını vb. Kontrol edin.', // from v2.1.40 added 11.7.2018
 			'showHidden'      : 'Gizli ögeleri aç.', // from v2.1.41 added 24.7.2018
 			'hideHidden'      : 'Gizli ögeleri kapat.', // from v2.1.41 added 24.7.2018
 			'toggleHidden'    : 'Gizli ögeleri aç/kapat', // from v2.1.41 added 24.7.2018
-			'makefileTypes'   : 'File types to enable with "New file"', // from v2.1.41 added 7.8.2018
+			'makefileTypes'   : '"Yeni dosya" ile etkinleştirilecek dosya türleri', // from v2.1.41 added 7.8.2018
 			'typeOfTextfile'  : 'Text dosyası tipi.', // from v2.1.41 added 7.8.2018
 			'add'             : 'Ekle', // from v2.1.41 added 7.8.2018
 			'theme'           : 'Tema', // from v2.1.43 added 19.10.2018

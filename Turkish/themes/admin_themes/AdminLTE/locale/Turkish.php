@@ -1,14 +1,14 @@
 <?php
-$locale['ALT_001'] = 'You have';
-$locale['ALT_002'] = 'There are no messages';
-$locale['ALT_003'] = 'New Message';
-$locale['ALT_004'] = 'Member since';
-$locale['ALT_005'] = 'Search...';
-$locale['ALT_006'] = 'Created by';
-$locale['ALT_007'] = 'Admin Password';
-$locale['ALT_008'] = 'Layout Options';
-$locale['ALT_009'] = 'Fixed layout';
-$locale['ALT_010'] = 'Small Sidebar';
-$locale['ALT_011'] = 'Skins';
-$locale['ALT_012'] = 'Dark';
-$locale['ALT_013'] = 'Light';
+$locale['ALT_001'] = 'Gelen mesajlar:';
+$locale['ALT_002'] = 'Mesaj yok';
+$locale['ALT_003'] = 'Yeni Mesaj';
+$locale['ALT_004'] = 'Üyelik tarihi';
+$locale['ALT_005'] = 'Ara...';
+$locale['ALT_006'] = 'Yapan';
+$locale['ALT_007'] = 'Yönetici Şifresi';
+$locale['ALT_008'] = 'Düzen Seçenekleri';
+$locale['ALT_009'] = 'Sabit düzen';
+$locale['ALT_010'] = 'Küçük Kenar Çubuğu';
+$locale['ALT_011'] = 'Kaplıklar';
+$locale['ALT_012'] = 'Karanlık';
+$locale['ALT_013'] = 'Aydınlık';

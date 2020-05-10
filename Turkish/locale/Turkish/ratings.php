@@ -3,10 +3,8 @@ $locale['r100'] = "Derecelendirmeler";
 $locale['r101'] = "Hiç Bir Derecelendirme Yapılmadı.";
 $locale['r102'] = "Derecelendirmeni Kaldır";
 $locale['r103'] = "Derecelendirmeni Gönder";
-$locale['r104'] = "Derecelendirme Yalnızca Üyeler Tarafından Kullanılabilir.
-
-Oy Vermek için Lütfen [RATING_ACTION] Yapın.";
-$locale['r105'] = "Bunu %s de %s Olarak Derecelendirdiniz.";
+$locale['r104'] = "Derecelendirme Yalnızca Üyeler Tarafından Kullanılabilir.<br/>Oy Vermek için Lütfen [RATING_ACTION] Yapın.";
+$locale['r105'] = "Bunu %s olarak %s tarihinde derecelendirdiniz.";
 $locale['r106'] = "Lütfen Oyunuzu Seçin";
 $locale['r107'] = "Oy Seç:";
 $locale['r108'] = "Oy Yok";

@@ -1,5 +1,5 @@
 <?php
-$locale['photos.php'] = "Fotoğraf Galerisi";
+$locale['photos.php'] = "Fotoğraf Albümü";
 $locale['p400'] = "Resimler";
 $locale['p401'] = "Resim";
 $locale['p402'] = "Resim";

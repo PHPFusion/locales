@@ -1,23 +1,23 @@
 <?php
 // Titles
 $locale['ERROR_400'] = "Hata Geçmişi";
-$locale['ERROR_401'] = "Dosyaya Bakın";
+$locale['ERROR_401'] = "Dosyaya bir göz atın";
 // Errors table
 $locale['ERROR_410'] = "Hata";
-$locale['ERROR_411'] = "Şu Sayfada";
+$locale['ERROR_411'] = "Sayfada";
 $locale['ERROR_412'] = "Kullanıcı";
 $locale['ERROR_413'] = "Tarih";
 $locale['ERROR_414'] = "Durum";
 $locale['ERROR_415'] = "Satır:";
 $locale['ERROR_416'] = "Seviye:";
 $locale['ERROR_417'] = "IP:";
-$locale['ERROR_418'] = "Hata Geçmişinde Hata Bulunamadı.";
+$locale['ERROR_418'] = "Günlükte hata yok.";
 $locale['ERROR_419'] = "Dosya";
 $locale['ERROR_420'] = "Ayrıntılar";
-$locale['ERROR_421'] = "Kaynak Kodu";
-$locale['ERROR_422'] = "Yukarı Dön";
+$locale['ERROR_421'] = "Kaynak kodu";
+$locale['ERROR_422'] = "En başa dön";
 // Delete form
-$locale['ERROR_440'] = "Şu Durumdaki Tüm Girdileri Sil";
+$locale['ERROR_440'] = "Bu durumdaki tüm girdileri sil";
 // Status form
 $locale['ERROR_450'] = "Yeni";
 $locale['ERROR_451'] = "Çözüldü";

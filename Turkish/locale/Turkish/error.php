@@ -1,8 +1,8 @@
 <?php
-$locale['err401'] = "Bu Sayfaya Erişim İzniniz Yok";
-$locale['err403'] = "Bu Sayfaya Erişim Yasak";
-$locale['err404'] = "Üzgünüz, Bu Sayfa Bu Sunucuda Mevcut Değil";
-$locale['err500'] = "İç Sunucu Hatası";
-$locale['errunk'] = "Bilinmeyen Hata";
-$locale['errmsg'] = "İzlediğiniz Bağlantının Süresi Dolmuş Olabilir veya Sayfaya Şuanda Kullanımda Değil.";
-$locale['errret'] = "Ana Siteye Dön";
+$locale['err401'] = "Bu sayfaya yetkisiz erişim";
+$locale['err403'] = "Bu sayfaya erişim yasaklandı";
+$locale['err404'] = "Üzgünüz, bu sayfa bu sunucuda mevcut değil";
+$locale['err500'] = "Dahili sunucu hatası";
+$locale['errunk'] = "Bilinmeyen hata";
+$locale['errmsg'] = "İzlediğiniz bağlantının süresi dolmuş olabilir veya sayfaya sizin erişiminiz olmayabilir.";
+$locale['errret'] = "Ana siteye geri dön";

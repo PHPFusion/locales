@@ -11,7 +11,7 @@ $locale['home_0052'] = "Görüntülenecek Bloglar Yok";
 $locale['home_0053'] = "Görüntülenecek Dosyalar Yok";
 // common text
 $locale['home_0100'] = "İçerik modülleri yüklü değil";
-$locale['home_0101'] = "Lütfen metin içeriği için en az bir modül yükleyin veya Ana Ayarlar'dan başlangıç sayfasını değiştirin.";
+$locale['home_0101'] = "Lütfen metin içeriği için en az bir modül kurun veya Ana Ayarlar'da başlangıç sayfasını değiştirin.";
 $locale['home_0102'] = "Kategorilenmemiş";
 $locale['home_0105'] = "Yayınlayan: ";
 $locale['home_0106'] = " Haber Kategorisi: ";

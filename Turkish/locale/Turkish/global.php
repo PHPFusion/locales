@@ -501,7 +501,7 @@ $locale['fmt_points'] = "puan|puanlar";
 $locale['fmt_admin'] = "yönetim|yöneticiler";
 $locale['fmt_group'] = "grup|gruplar";
 $locale['fmt_category'] = "kategori|kategoriler";
-$locale['fmt_review'] = "review|reviews";
-$locale['fmt_infusion'] = "modül|modüller";
+$locale['fmt_review'] = "inceleme|incelemeler";
+$locale['fmt_infusion'] = "uygulama|uygulamalar";
 // include Defender locales
 include_once __DIR__."/defender.php";
