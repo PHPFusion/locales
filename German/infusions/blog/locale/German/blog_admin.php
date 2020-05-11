@@ -113,19 +113,19 @@ $locale['blog_0702'] = "Weiteren Blog einsenden";
 $locale['blog_0703'] = "Benutze das Formular unterhalb um einen Blog einzusenden.
 ";
 $locale['blog_0704'] = "Zur&uuml;ck zu [SITENAME]";
-$locale['blog_601'] = "Thumb size:";
-$locale['blog_602'] = "Photo size:";
-$locale['blog_603'] = "Maximum photo size:";
-$locale['blog_604'] = "Width x Height";
-$locale['blog_605'] = "Maximum file size (bytes):";
+$locale['blog_601'] = "Vorschaugröße:";
+$locale['blog_602'] = "Foto Größe:";
+$locale['blog_603'] = "Maximale Foto Größe:";
+$locale['blog_604'] = "Breite x Höhe";
+$locale['blog_605'] = "Maximale Datei Größe (Bytes):";
 // Blog Settings
 $locale['blog_950'] = "Bildupload";
 $locale['blog_951'] = "Bild Link:";
-$locale['blog_952'] = "Category";
+$locale['blog_952'] = "Kategorie";
 $locale['blog_953'] = "Blog Artikel";
 $locale['blog_954'] = "Verh&auml;ltnis  des Verschaubildes";
 $locale['blog_955'] = "Original";
-$locale['blog_956'] = "Square";
+$locale['blog_956'] = "Quadrat";
 $locale['blog_959'] = "Foto hochladen";
 $locale['blog_960'] = "Kategoriebild";
 $locale['blog_961'] = "Erlaubte Dateitypen:";
