@@ -92,8 +92,8 @@ $locale['article_0910'] = "Makale Başarılı Bir Şekilde Gönderildi.";
 $locale['article_0911'] = "Öneriniz Için Teşekkür Ederiz.";
 $locale['article_0912'] = "Başka Makale Öner";
 $locale['article_0913'] = "Ana Sayfaya Geri Dön";
-$locale['article_0920'] = "Makale Önermek İçin Aşağıdaki Formu Kullanın. Başvurunuz Bir Yönetici Tarafından İncelenecektir.
-[SITENAME] Herhangi Bir Gönderiyi Değiştirme Veya Düzenleme Hakkını Saklı Tutar.
+$locale['article_0920'] = "Makale Önermek İçin Aşağıdaki Formu Kullanın. Başvurunuz Bir Yönetici Tarafından İncelenecektir. 
+[SITENAME] Herhangi Bir Gönderiyi Değiştirme Veya Düzenleme Hakkını Saklı Tutar. 
 Makaleler, Bu Sitenin İçeriğine Uygun Olmalıdır. Uygun Olmayan Gönderiler Silinecektir.";
 $locale['article_0921'] = "Bir Makale Önerebilmek İçin Üye Girişi Yapmalısınız.";
 $locale['article_0922'] = "Hemen Arkasından Yapılan Yeni Makale Önerilerini Kabul Etmiyoruz.";

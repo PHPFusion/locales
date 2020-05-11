@@ -87,7 +87,7 @@ $locale['grecaptcha_placeholder_1'] = "Google SITE KEY (Site Anahtarı)";
 $locale['grecaptcha_placeholder_2'] = "Google SECRET-KEY (Gizli Anahtar)";
 $locale['no_keys'] = "Henüz hiç anahtarınız yok gibi görünüyor. Kayıt olun ve [RECAPTCHA_LINK]genel anahtarınızı buradan alın[/RECAPTCHA_LINK]";
 // here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Google reCAPTCHA anahtarlarınızı inceleyin</button></a>";
+//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Site Anahtarı";
 $locale['grecaptcha_0101'] = "Gizli Anahtar";
 $locale['grecaptcha_0102'] = "Tema";

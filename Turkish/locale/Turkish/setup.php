@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Etkin Değil";
 $locale['setup_0116'] = "PHP OPCache önbellekleme sitenizin performansını önemli ölçüde artırabilir. Sunucunuza <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> kurulu olması<strong> şiddetle tavsiye edilir</strong>.";
 $locale['setup_0118'] = "Web sunucunuz PDO'yu (PHP Veri Nesneleri) desteklemiyor gibi görünüyor. Barındırma sağlayıcınıza yerel PDO uzantısını destekleyip desteklemediklerini sorun.";
 $locale['setup_0119a'] = "Kurulum işlemindeki hataları önlemek için PHP bellek sınırınızı %memory_minimum_limit olarak yükseltmeyi gözönünde bulundurun.";
-$locale['setup_0119b'] = "".get_cfg_var('cfg_file_path')." dosyasındaki memory_limit karakter özelliğini düzenleyerek bellek sınırını artırın ve ardından web sunucunuzu yeniden başlatın (veya yardım için sistem yöneticinize veya barındırma sağlayıcınıza başvurun).";
+$locale['setup_0119b'] = "Bellek sınırını Arttırın ".get_cfg_var('cfg_file_path')." dosyasındaki memory_limit karakter özelliğini düzenleyerek bellek sınırını artırın ve ardından web sunucunuzu yeniden başlatın (veya yardım için sistem yöneticinize veya barındırma sağlayıcınıza başvurun).";
 $locale['setup_0119c'] = "PHP bellek sınırınızı artırmayla ilgili yardım için sistem yöneticinize veya barındırma sağlayıcınıza başvurun.";
 // Buttons
 $locale['setup_0120'] = "Yapılandırmayı Bitir";

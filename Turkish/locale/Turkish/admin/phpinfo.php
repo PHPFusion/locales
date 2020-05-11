@@ -15,7 +15,7 @@ $locale['410'] = "Web Tarayıcısı Ve İşletim Sistemi";
 //PHP settings
 $locale['420'] = "PHP Ayarları";
 $locale['423'] = "Safemode";
-$locale['424'] = "RegisterGlobals";
+$locale['424'] = "GlobalKayitlar";
 $locale['425'] = "Destek";
 $locale['426'] = "Dosya Yükleniyor (Maksimum Dosya Boyutu)";
 $locale['428'] = "Hataları Göster";
