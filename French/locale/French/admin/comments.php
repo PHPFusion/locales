@@ -1,17 +1,17 @@
 <?php
 // Comments titles
-$locale['400'] = "Edit Comment";
-$locale['401'] = "Comments";
+$locale['400'] = "Editer commentaire";
+$locale['401'] = "Commentaires";
 // Comments messages
-$locale['410'] = "Comment updated";
-$locale['411'] = "Comment deleted";
+$locale['410'] = "Commentaire modifié";
+$locale['411'] = "Commentaire supprimé";
 // Edit Comment form
-$locale['420'] = "Disable smileys in this comment";
-$locale['421'] = "Save Comment";
+$locale['420'] = "Désactiver les smileys dans ce commentaire";
+$locale['421'] = "Enregistrer le commentaire";
 // Comments
-$locale['431'] = "Delete & Ban";
-$locale['432'] = "User IP:";
-$locale['433'] = "Delete this comment?";
-$locale['434'] = "There are no comments for this item.";
-$locale['435'] = "Do you really want to add this user to a blacklist?";
-$locale['436'] = "Your comment are blacklisted.";
+$locale['431'] = "Supprimer et bannir";
+$locale['432'] = "Adresse IP de l'utilisateur :";
+$locale['433'] = "Supprimer ce commentaire ?";
+$locale['434'] = "Il n'y a aucun commentaire pour cet élément.";
+$locale['435'] = "Voulez-vous vraiment ajouter cet utilisateur à une liste noire ?";
+$locale['436'] = "Votre commentaire est mis sur liste noire.";

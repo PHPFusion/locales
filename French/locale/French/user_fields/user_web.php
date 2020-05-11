@@ -1,5 +1,5 @@
 <?php
-$locale['uf_web'] = "Website";
-$locale['uf_web_desc'] = "URL website";
-$locale['uf_web_error'] = "Website can not be left empty.";
-$locale['uf_web_001'] = "Visit";
+$locale['uf_web'] = "Site Web";
+$locale['uf_web_desc'] = "URL du site web";
+$locale['uf_web_error'] = "Le site ne peut pas être laissé vide.";
+$locale['uf_web_001'] = "Visite";

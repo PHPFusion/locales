@@ -1,3 +1,3 @@
 <?php
-$locale['bb_small_description'] = "Displays selected text as small";
-$locale['bb_small_usage'] = "Text to small";
+$locale['bb_small_description'] = "Affiche le texte sélectionné comme petit";
+$locale['bb_small_usage'] = "Texte en petit";

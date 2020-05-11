@@ -1,4 +1,4 @@
 <?php
-$locale['uf_timezone'] = "Timezone";
-$locale['uf_timezone_desc'] = "User defined timezone.";
-$locale['uf_timezone_error'] = "Timezone was not set correctly.";
+$locale['uf_timezone'] = "Zones horaires";
+$locale['uf_timezone_desc'] = "Fuseau horaire défini par l'utilisateur.";
+$locale['uf_timezone_error'] = "Le fuseau horaire n'a pas été défini correctement.";

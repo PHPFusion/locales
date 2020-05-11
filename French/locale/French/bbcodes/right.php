@@ -1,3 +1,3 @@
 <?php
-$locale['bb_right_description'] = "Aligns selected text to right";
-$locale['bb_right_usage'] = "Text to align right";
+$locale['bb_right_description'] = "Aligner le texte sélectionné à droite";
+$locale['bb_right_usage'] = "Texte à aligner à droite";

@@ -1,4 +1,4 @@
 <?php
-$locale['uf_name_middle'] = "Middle Name";
-$locale['uf_name_middle_desc'] = "Real user second name.";
-$locale['uf_name_middle_error'] = "Second (middle) name can not be left empty..";
+$locale['uf_name_middle'] = "Second prénom";
+$locale['uf_name_middle_desc'] = "Deuxième nom d'utilisateur réel.";
+$locale['uf_name_middle_error'] = "Le second nom (milieu) ne peut pas être laissé vide..";

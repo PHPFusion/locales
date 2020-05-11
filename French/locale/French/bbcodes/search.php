@@ -1,6 +1,6 @@
 <?php
-$locale['bb_search_description'] = "Searching for given text on current site";
-$locale['bb_search_usage'] = "Text to search";
-$locale['bb_search_prefix'] = "Search for ";
-$locale['bb_search_suffix'] = " on ";
-$locale['bb_search_where'] = "Where";
+$locale['bb_search_description'] = "Recherche d'un texte donné sur le site actuel";
+$locale['bb_search_usage'] = "Texte à rechercher";
+$locale['bb_search_prefix'] = "Recherche pour ";
+$locale['bb_search_suffix'] = " sur ";
+$locale['bb_search_where'] = "Emplacement";

@@ -1,4 +1,4 @@
 <?php
-$locale['uf_whatsapp'] = "WhatsApp ID";
-$locale['uf_whatsapp_desc'] = "WhatsApp Account";
-$locale['uf_whatsapp_error'] = "WhatsApp ID can not be left empty.";
+$locale['uf_whatsapp'] = "ID WhatsApp";
+$locale['uf_whatsapp_desc'] = "Compte WhatsApp";
+$locale['uf_whatsapp_error'] = "WhatsApp ID ne peut pas être laissé vide.";
