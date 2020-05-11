@@ -15,7 +15,7 @@ $locale['password_strength'] = "pl"; // refer to path includes/dynamics/assets/p
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
-$locale['months'] = "&nbsp|styczeń|luty|marzec|kwiecień|maj|czerwiec|lipiec|sierpień|wrzesień|październik|listopad|grudzień";
+$locale['months'] = "&nbsp;|stycznia|lutego|marca|kwietnia|maja|czerwca|lipca|sierpnia|września|października|listopada|grudnia";
 $locale['shortmonths'] = "&nbsp|st.|lt.|mar.|kwi.|maj|czer.|lip.|sier.|wrz.|paź.|lis.|gru.";
 $locale['weekdays'] = "Niedziela|Poniedziałek|Wtorek|Środa|Czwartek|Piątek|Sobota";
 // Timers

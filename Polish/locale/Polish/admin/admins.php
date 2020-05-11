@@ -5,7 +5,7 @@ $locale['ADM_401'] = "Zaktualizowano administratora";
 $locale['ADM_402'] = "Usunięto administratora";
 // Search/Add Administrator
 $locale['ADM_410'] = "Dodaj administratora";
-$locale['ADM_411'] = "Search for users to add using the form below.";
+$locale['ADM_411'] = "Wyszukaj użytkowników używając poniższego formularza, aby dodać ich do grupy.";
 $locale['ADM_413'] = "Nazwa użytkownika";
 $locale['ADM_415'] = "Zastosuj wszystkie uprawnienia";
 $locale['ADM_416'] = "Uczyń Super Administratorem";

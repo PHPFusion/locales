@@ -115,7 +115,7 @@ $locale['blog_601'] = "Wymiar miniatury:";
 $locale['blog_602'] = "Rozmiar zdjęcia:";
 $locale['blog_603'] = "Maksymalny wymiar zdjęcia:";
 $locale['blog_604'] = "Szerokość x Wysokość";
-$locale['blog_605'] = "Maksymalny rozmiar pliku (bajty):";
+$locale['blog_605'] = "Maksymalny rozmiar pliku (w bajtach):";
 // Blog Settings
 $locale['blog_950'] = "Prześlij obraz";
 $locale['blog_951'] = "Adres obrazu:";
