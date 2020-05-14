@@ -4,7 +4,7 @@
  * @author Abdullah ELEN <abdullahelen@msn.com>
  * @author Osman KAYAN <osmnkayan@gmail.com>
  * @author alikayan95@gmail.com
- * @version 2018-11-02
+ * @version 2020-05-11
  */
 (function(root, factory) {
 	if (typeof define === 'function' && define.amd) {
@@ -19,9 +19,9 @@
 		translator : 'I.Taskinoglu & A.Kaya &lt;alikaya@armsyazilim.com&gt;, Abdullah ELEN &lt;abdullahelen@msn.com&gt;, Osman KAYAN &lt;osmnkayan@gmail.com&gt;, alikayan95@gmail.com',
 		language   : 'Türkçe',
 		direction  : 'ltr',
-		dateFormat : 'd.m.Y H:i', // will show like: 02.11.2018 11:51
-		fancyDateFormat : '$1 H:i', // will show like: Bugün 11:51
-		nonameDateFormat : 'ymd-His', // noname upload will show like: 181102-115159
+		dateFormat : 'd.m.Y H:i', // will show like: 11.05.2020 18:59
+		fancyDateFormat : '$1 H:i', // will show like: Bugün 18:59
+		nonameDateFormat : 'ymd-His', // noname upload will show like: 200511-185939
 		messages   : {
 
 			/********************************** errors **********************************/
@@ -117,6 +117,7 @@
 			'errEditorNotFound'    : 'Editör bu dosya türünü bulamıyor.', // from v2.1.25 added 23.5.2017
 			'errServerError'       : 'Sunucu tarafında beklenilmeyen bir hata oluştu.', // from v2.1.25 added 16.6.2017
 			'errEmpty'             : '"$1" klasörü boşaltılamıyor.', // from v2.1.25 added 22.6.2017
+			'moreErrors'           : '$1 hata daha var.', // from v2.1.44 added 9.12.2018
 
 			/******************************* commands names ********************************/
 			'cmdarchive'   : 'Arşiv oluştur',
@@ -304,6 +305,7 @@
 			'confirmNonUTF8'  : 'Bu dosyanın karakter kodlaması tespit edilemedi. Düzenleme için geçici olarak UTF-8\'e dönüştürülmesi gerekir.<br/>Lütfen bu dosyanın karakter kodlamasını seçin.', // from v2.1.19 added 28.11.2016
 			'confirmNotSave'  : 'Düzenlenmiş içerik.<br/>Değişiklikleri kaydetmek istemiyorsanız son yapılanlar kaybolacak.', // from v2.1 added 15.7.2015
 			'confirmTrash'    : 'Öğeleri çöp kutusuna taşımak istediğinizden emin misiniz?', //from v2.1.24 added 29.4.2017
+			'confirmMove'     : 'Öğeleri "1$" değerine taşımak istediğinizden emin misiniz?', //from v2.1.50 added 27.7.2019
 			'apllyAll'        : 'Tümüne uygula',
 			'name'            : 'İsim',
 			'size'            : 'Boyut',
@@ -443,6 +445,7 @@
 			'clearBrowserData': 'Bu tarayıcıda kayıtlı ayarları başlat', // from v2.1.26 added 28.6.2017
 			'toolbarPref'     : 'Araç çubuğu ayarları', // from v2.1.27 added 2.8.2017
 			'charsLeft'       : '... $1 karakter kaldı',  // from v2.1.29 added 30.8.2017
+			'linesLeft'       : '... $1 satır kaldı.',  // from v2.1.52 added 16.1.2020
 			'sum'             : 'Toplam', // from v2.1.29 added 28.9.2017
 			'roughFileSize'   : 'Kaba dosya boyutu', // from v2.1.30 added 2.11.2017
 			'autoFocusDialog' : 'Fare ile üzerine gelince diyalog öğesi odaklansın',  // from v2.1.30 added 2.11.2017
@@ -488,6 +491,9 @@
 			'author'          : 'Yazar', // from v2.1.43 added 19.10.2018
 			'email'           : 'E-mail', // from v2.1.43 added 19.10.2018
 			'license'         : 'Lisans', // from v2.1.43 added 19.10.2018
+			'exportToSave'    : 'Bu öğe kaydedilemez. Düzenlemeleri kaybetmemek için Bilgisayarınıza aktarmanız gerekir.', // from v2.1.44 added 1.12.2018
+			'dblclickToSelect': 'Seçmek için dosya üzerinde çift tıklayın.', // from v2.1.47 added 22.1.2019
+			'useFullscreen'   : 'Tam ekran modunu kullan', // from v2.1.47 added 19.2.2019
 
 			/********************************** mimetypes **********************************/
 			'kindUnknown'     : 'Bilinmiyor',
