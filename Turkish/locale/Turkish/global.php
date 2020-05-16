@@ -249,6 +249,9 @@ $locale['global_176'] = "Gizlilik Politikası";
 $locale['global_180'] = "Yönetim Ana Sayfası";
 $locale['global_181'] = "Siteye Dön";
 $locale['global_182'] = "Yönetici Şifresi girilmemiş veya yanlış.";
+$locale['global_183'] = "Giriş oturumunuzun süresi doldu. Lütfen tekrar giriş yapın.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Bakım Modu Etkinleştirildi";
 $locale['global_191'] = "IP adresiniz şu anda kara listeye alındı.";
