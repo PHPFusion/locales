@@ -3,7 +3,7 @@ setlocale(LC_ALL, "ro_RO.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "RO"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ro";
-$locale['short_lang_name'] = "en";
+$locale['short_lang_name'] = "ro";
 $locale['tinymce'] = "ro"; // refer to path includes/jscripts/tinymce/langs/{value}.js
 $locale['select2'] = "ro"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "ro"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
@@ -251,6 +251,9 @@ $locale['global_176'] = "Politica de confiden&#355;ialitate";
 $locale['global_180'] = "Index administrare";
 $locale['global_181'] = "Revenire la sait";
 $locale['global_182'] = "Parola de administrare nu a fost setat&#259; sau este incorect&#259;.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Mod de &#238;ntre&#355;inere activat";
 $locale['global_191'] = "Adresa ta de IP este &#238;n lista neagr&#259; momentan.";
