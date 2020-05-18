@@ -251,6 +251,9 @@ $locale['global_176'] = "Политика на сайта";
 $locale['global_180'] = "Администрация - начало";
 $locale['global_181'] = "Връщане към сайта";
 $locale['global_182'] = "Административната парола е грешна.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Активиран режим на поддръжка";
 $locale['global_191'] = "IP адресът Ви е в черния списък.";
