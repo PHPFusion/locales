@@ -251,6 +251,9 @@ $locale['global_176'] = "Privacy Policy";
 $locale['global_180'] = "Admin Home";
 $locale['global_181'] = "Return to Site";
 $locale['global_182'] = "Password amministratore non inserita correttamente.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Manutenzione modalità attivata";
 $locale['global_191'] = "il tuo indirizzo IP è attualmente nella lista nera.";
