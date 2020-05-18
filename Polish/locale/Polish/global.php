@@ -249,6 +249,9 @@ $locale['global_176'] = "Polityka prywatności";
 $locale['global_180'] = "Strona główna administratora";
 $locale['global_181'] = "Powrót do strony";
 $locale['global_182'] = "Hasło administratora nie jest wprowadzone lub nie jest poprawne.";
+$locale['global_183'] = "Twoja sesja wygasła. Zaloguj się ponownie.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Aktywowano tryb konserwacji";
 $locale['global_191'] = "Twój adres IP jest obecnie na czarnej liście.";
