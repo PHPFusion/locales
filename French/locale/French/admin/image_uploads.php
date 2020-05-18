@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion File Manager";
+$locale['100'] = "Gestionnaire de fichiers Fusion";
 
 // Delete Image
-$locale['400'] = "Delete Image";
-$locale['401'] = "Image Deleted";
-$locale['402'] = "Return to Images Admin";
-$locale['403'] = "Return to Admin Index";
+$locale['400'] = "Effacer l'image";
+$locale['401'] = "Image supprimée";
+$locale['402'] = "Retourner à l'admin des images";
+$locale['403'] = "Retour à l'index de l'administrateur";
 // Upload Image
-$locale['420'] = "Upload Image";
-$locale['421'] = "Filename:";
-$locale['422'] = "Main Images";
-$locale['423'] = "Article Images";
-$locale['424'] = "News Images";
-$locale['425'] = "Max. file size %s / Allowed file types .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Image Uploaded";
-$locale['427'] = "News Cats Images";
-$locale['428'] = "Blog Images";
-$locale['429'] = "Blog Cats Images";
+$locale['420'] = "Envoyer une image";
+$locale['421'] = "Nom de fichier :";
+$locale['422'] = "Images Principales";
+$locale['423'] = "Images de l'article";
+$locale['424'] = "Images de News";
+$locale['425'] = "Taille de fichier max %s / types de fichiers autorisés .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
+$locale['426'] = "Image envoyée";
+$locale['427'] = "Nouvelles Catégorie d'images";
+$locale['428'] = "Images de blog";
+$locale['429'] = "Images de Catégorie du blog";
 // View Image
-$locale['440'] = "View Image";
-$locale['441'] = "Unknown file format, cannot display image.";
-$locale['442'] = "Delete this image";
+$locale['440'] = "Voir l'mage";
+$locale['441'] = "Format de fichier inconnu, impossible d'afficher l'image.";
+$locale['442'] = "Supprimer cette image";
 // Image Management
 $locale['460'] = "Images";
 $locale['461'] = "View";
-$locale['463'] = "This folder is empty";
-$locale['464'] = "Update image list for TinyMCE editor";
+$locale['463'] = "Ce dossier est vide";
+$locale['464'] = "Mettre à jour la liste des images pour l'éditeur TinyMCE";
 // Popup Error/Warning Messages
-$locale['470'] = "Delete this image?";
+$locale['470'] = "Supprimer cette image ?";

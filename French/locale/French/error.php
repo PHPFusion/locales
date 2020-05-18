@@ -1,8 +1,8 @@
 <?php
-$locale['err401'] = "Unauthorized access to this page";
-$locale['err403'] = "Access forbidden to this page";
-$locale['err404'] = "Sorry, this page isn't available on this server";
-$locale['err500'] = "Internal server error";
-$locale['errunk'] = "Unknown error";
-$locale['errmsg'] = "The link you followed may have expired, or the page may not be accessible to you.";
-$locale['errret'] = "Return to main site";
+$locale['err401'] = "Accès non autorisé à cette page";
+$locale['err403'] = "Accès interdit à cette page";
+$locale['err404'] = "Désolé, cette page n'est pas disponible sur ce serveur";
+$locale['err500'] = "Erreur interne du serveur";
+$locale['errunk'] = "Erreur inconnue";
+$locale['errmsg'] = "Il se peut que le lien que vous avez suivi ait expiré, ou que la page ne vous soit pas accessible.";
+$locale['errret'] = "Retour au site principal";

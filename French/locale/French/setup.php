@@ -7,7 +7,7 @@ $locale['setup_0006'] = "PHP-Fusion 9 requires at least PHP 5.6.39. See the <a h
 $locale['setup_0007'] = "Systems with OPCache installed must have <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> enabled.";
 $locale['setup_5000'] = "In order to use PHP-Fusion, you need to check and agree to the terms of PHP-Fusion.";
 $locale['setup_0010'] = "Current Build Version - ";
-$locale['setup_0011'] = "en";
+$locale['setup_0011'] = "fr";
 $locale['setup_0012'] = "utf-8";
 $locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHP-Fusion Upgrade";

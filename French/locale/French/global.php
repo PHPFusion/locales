@@ -1,17 +1,17 @@
 <?php
 setlocale(LC_ALL, "fr_FR.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['region'] = "GB"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "en";
-$locale['short_lang_name'] = "en";
-$locale['tinymce'] = "en"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "en"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "en"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['region'] = "FR"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
+$locale['xml_lang'] = "fr";
+$locale['short_lang_name'] = "fr";
+$locale['tinymce'] = "fr_FR"; // refer to path includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "fr"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "fr"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "fr"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "en-gb"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['datepicker'] = "fr"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
-$locale['password_strength'] = "en"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['password_strength'] = "fr"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
@@ -249,6 +249,9 @@ $locale['global_176'] = "Privacy Policy";
 $locale['global_180'] = "Admin Home";
 $locale['global_181'] = "Return to Site";
 $locale['global_182'] = "Admin Password not entered or incorrect.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Maintenance Mode Activated";
 $locale['global_191'] = "Your IP address is currently blacklisted.";
@@ -327,7 +330,7 @@ $locale['global_500'] = "You are being redirected to %s, please wait. If you're 
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
 $locale['global_601'] = "You must enter a correct validation code";
-$locale['recaptcha'] = "en";
+$locale['recaptcha'] = "fr";
 // Site links
 $locale['global_700'] = "Show More";
 //Miscellaneous
