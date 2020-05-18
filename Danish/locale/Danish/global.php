@@ -249,6 +249,9 @@ $locale['global_176'] = "Privatlivspolitik";
 $locale['global_180'] = "Administration";
 $locale['global_181'] = "Tilbage til siden";
 $locale['global_182'] = "Administratorkodeord er ikke angivet eller ukorrekt.";
+$locale['global_183'] = "Din log ind session er udløbet. Vær sød at logge ind igen.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Vedligeholdelsestilstand er aktiveret";
 $locale['global_191'] = "Din IP-adresse er aktuelt udelukket.";
