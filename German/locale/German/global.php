@@ -250,6 +250,9 @@ $locale['global_176'] = "Datenschutzerklärung";
 $locale['global_180'] = "Administration Start";
 $locale['global_181'] = "Zur&uuml;ck zur Seite";
 $locale['global_182'] = "Du hast kein Administrator Passwort angegeben oder es war ung&uuml;ltig.";
+$locale['global_183'] = "Ihre Anmeldung ist abgelaufen, bitte melden Sie sich erneut an.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Wartungsmodus aktiviert";
 $locale['global_191'] = "Deine IP Adresse befindet sich derzeit auf der Blacklist.";

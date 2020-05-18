@@ -16,7 +16,7 @@ $locale['df_error_text'] = "%s hat Fehler und ben&ouml;tigt deine Aufmerksamkeit
 $locale['error_invalid_theme'] = "Du musst ein g&uuml;ltiges Seitendesign ausw&auml;hlen."; // to be moved
 $locale['error_input_checkbox'] = "Du musst dieses K&auml;stchen ausw&auml;hlen."; // to be moved
 $locale['error_input_file'] = "Du musst eine g&uuml;ltige Datei ausw&auml;hlen.";
-$locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
+$locale['error_secure_file'] = "Die hochgeladene Datei wurde wegen böswilligem Inhalt abgelehnt.";
 // Admin Login
 $locale['cookie_title'] = "Deine Session ist abgelaufen.";
 $locale['cookie_description'] = "Es existiert keine g&uuml;ltige Authentifizierung, oder deine Session ist abgelaufen. Bitte melde dich erneut an.";
@@ -54,8 +54,8 @@ $locale['token_error_5'] = "Das Datum des Tokens ist nicht g&uuml;ltig.";
 $locale['token_error_6'] = "Der Beitrag wurde zu schnell erstellt.";
 $locale['token_error_7'] = "Der Hash des Tokens ist nicht g&uuml;ltig.";
 $locale['token_error_8'] = "Das Format des Tokens ist nicht g&uuml;ltig.";
-$locale['token_error_9'] = "Cannot find any token for this form.";
-$locale['token_error_10'] = "Cannot find any token for storage: ";
+$locale['token_error_9'] = "Es konnte kein Token für dieses Formular gefunden werden.";
+$locale['token_error_10'] = "Kein Token für den Speicher gefunden: ";
 
 $locale['df_300'] = "Klick um Dateien hinzuzuf&uuml;gen";
 $locale['df_301'] = "Klick um Fotos hinzuzuf&uuml;gen";
