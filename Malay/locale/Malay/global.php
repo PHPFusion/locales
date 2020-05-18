@@ -2,16 +2,16 @@
 setlocale(LC_ALL, "ms_MY.UTF-8"); // Linux Server (Windows may differ)
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "MY"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "en";
-$locale['short_lang_name'] = "en";
+$locale['xml_lang'] = "ms";
+$locale['short_lang_name'] = "ms";
 $locale['tinymce'] = "ml_IN"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "en"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "en"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "en_EN"; // refer to path includes/elFinder/js/i18n/{value}.js
+$locale['select2'] = "ms"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ms"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "ms"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "ms-my"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
 $locale['datepicker_php'] = "m-d-Y H:i:s";
-$locale['password_strength'] = "en"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['password_strength'] = "ms"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
@@ -251,6 +251,9 @@ $locale['global_176'] = "Privacy Policy";
 $locale['global_180'] = "Halaman Utama Admin";
 $locale['global_181'] = "Kembali ke Situs";
 $locale['global_182'] = "Notis: Kata Laluan salah atau belum diisikan.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Penyelenggaraan Sistem Sedang Dijalankan.";
 $locale['global_191'] = "Alamat IP anda telah dimasuk dalam senarai hitam.";
