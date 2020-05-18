@@ -249,6 +249,9 @@ $locale['global_176'] = "Zásady ochrany osobných údajov";
 $locale['global_180'] = "Administrácia";
 $locale['global_181'] = "Späť na stránku";
 $locale['global_182'] = "Heslo správcu nebolo zadané alebo je nesprávne.";
+$locale['global_183'] = "Vaša relácia vypršala. Prosím, prihláste sa znovu.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Režim údržby je aktivovaný";
 $locale['global_191'] = "Z tejto IP adresy nemáte povolenie pristupovať na túto stránku.";
