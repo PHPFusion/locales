@@ -258,6 +258,9 @@ $locale['global_176'] = "Політика конфіденційності";
 $locale['global_180'] = "Центр керування";
 $locale['global_181'] = "Повернутися на сайт";
 $locale['global_182'] = "Пароль адміністрування введено некоректно";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Ввімкнено режим обслуговування";
 $locale['global_191'] = "Вашу IP адресу заблоковано";
