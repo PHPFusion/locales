@@ -249,6 +249,9 @@ $locale['global_176'] = "سياسة الخصوصية";
 $locale['global_180'] = "Admin Home";
 $locale['global_181'] = "العودة";
 $locale['global_182'] = "لم يتم إدخال كلمة المرور أو إنها غير صحيحة.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "تم تنشيط وضع الصيانة";
 $locale['global_191'] = "تم حظر عنوان البروتوكول (IP) الخاص بك.";
