@@ -251,6 +251,9 @@ $locale['global_176'] = "Política de privacidad";
 $locale['global_180'] = "Inicio Administración";
 $locale['global_181'] = "Volver al Sitio";
 $locale['global_182'] = "Contraseña de Administración no introducida o incorrecta.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Modo de mantenimiento activado";
 $locale['global_191'] = "Tu dirección IP está expulsada.";
