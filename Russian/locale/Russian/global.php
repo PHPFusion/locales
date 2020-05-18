@@ -249,6 +249,9 @@ $locale['global_176'] = "Политика приватности";
 $locale['global_180'] = "Панель администратора";
 $locale['global_181'] = "Вернуться на сайт";
 $locale['global_182'] = "Админпароль не введён или введён неправильно.";
+$locale['global_183'] = "Ваш сеанс входа истек. Пожалуйста, войдите снова.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Включен режим обслуживания";
 $locale['global_191'] = "Ваш IP-адрес находится в чёрном списке.";
