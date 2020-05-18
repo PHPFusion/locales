@@ -104,7 +104,7 @@ $locale['606'] = "Método de compressão de miniatura";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Modo de Desenvolvimento";
-$locale['610'] = "Update checker";
+$locale['610'] = "Atualizar Checker";
 
 $locale['649'] = "Nomes de utilizador proibidos:";
 $locale['650'] = "Diversos";

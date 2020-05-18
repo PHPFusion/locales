@@ -249,6 +249,9 @@ $locale['global_176'] = "Política de Privacidade";
 $locale['global_180'] = "Admin Home";
 $locale['global_181'] = "Voltar ao Site";
 $locale['global_182'] = "Palavra-passe de administrador não inserida ou incorreta.";
+$locale['global_183'] = "Sua sessão de login expirou. Por favor faça login novamente.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Modo de manutenção activo";
 $locale['global_191'] = "O seu endereço IP está actualmente na lista negra.";
