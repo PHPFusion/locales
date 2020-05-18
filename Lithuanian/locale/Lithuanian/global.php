@@ -7,7 +7,7 @@ $locale['short_lang_name'] = "lt";
 $locale['tinymce'] = "lt"; // refer to path includes/jscripts/tinymce/langs/{value}.js
 $locale['select2'] = "lt"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "lt"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "en_EN"; // refer to path includes/elFinder/js/i18n/{value}.js
+$locale['filemanager'] = "lt"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "lt"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
 $locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
 $locale['datepicker_php'] = "Y-m-d H:i:s";
@@ -250,6 +250,9 @@ $locale['global_176'] = "Privatumo politika";
 $locale['global_180'] = "Admin panelė";
 $locale['global_181'] = "Grįžti į tinklapį";
 $locale['global_182'] = "Admin slaptažodis įvestas blogai arba neįvestas.";
+$locale['global_183'] = "Your login session has expired. Please login again.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Tinklapis išjungtas";
 $locale['global_191'] = "Tavo IP adresas yra užblokuotas.";
