@@ -9,8 +9,8 @@ $locale['select2'] = "tr"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "tr"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "tr"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "tr"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss";
-$locale['datepicker_php'] = "m-d-Y H:i:s";
+$locale['datepicker_js'] = "A-GG-YYYY S:dd:ss";
+$locale['datepicker_php'] = "a-g-Y S:d:s";
 $locale['password_strength'] = "tr"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
@@ -65,7 +65,7 @@ $locale['user0'] = "Genel";
 $locale['user1'] = "Üye";
 $locale['user2'] = "Yönetici";
 $locale['user3'] = "Süper Yönetici";
-$locale['user_na'] = "N/A";
+$locale['user_na'] = "Mevcut Değil";
 $locale['user_guest'] = "Konuk";
 $locale['user_anonymous'] = "Anonim Kullanıcı";
 $locale['genitive'] = "%s's %s";
@@ -249,6 +249,9 @@ $locale['global_176'] = "Gizlilik Politikası";
 $locale['global_180'] = "Yönetim Ana Sayfası";
 $locale['global_181'] = "Siteye Dön";
 $locale['global_182'] = "Yönetici Şifresi girilmemiş veya yanlış.";
+$locale['global_183'] = "Giriş oturumunuzun süresi doldu. Lütfen tekrar giriş yapın.";
+// Do not add anything within global_183-190. To be reserved for code verification development.
+
 // Miscellaneous
 $locale['global_190'] = "Bakım Modu Etkinleştirildi";
 $locale['global_191'] = "IP adresiniz şu anda kara listeye alındı.";
@@ -378,7 +381,7 @@ $locale['move'] = "Taşı";
 $locale['move_up'] = "Yukarı çık";
 $locale['move_down'] = "Aşağı in";
 $locale['load_more'] = "Daha fazla ürün yükle";
-$locale['load_end'] = "Load from Beginning";
+$locale['load_end'] = "Baştan yükle";
 // Actions
 $locale['add'] = "Ekle";
 $locale['save'] = "Kaydet";

@@ -137,7 +137,7 @@ $locale['u174'] = "Başka bir üye ekleyin.";
 $locale['u180'] = "Avatar resmi yüklenirken bir hata oluştu";
 
 $locale['u184'] = "En fazla dosya boyutu: %s / En yüksek boyut: %ux%u piksel";
-$locale['u185'] = "Avatar";
+$locale['u185'] = "Profil Resmi";
 $locale['u186'] = "Bir resim yüklemek için Gözat'ı tıklayın";
 // Captcha and terms
 $locale['u190'] = "Doğrulama Kodu";

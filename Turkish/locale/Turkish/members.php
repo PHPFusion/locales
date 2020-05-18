@@ -1,6 +1,6 @@
 <?php
 $locale['MEMB_000'] = "Üye Listesi";
-$locale['MEMB_001'] = "Avatar";
+$locale['MEMB_001'] = "Profil Resmi";
 $locale['MEMB_002'] = "Kullanıcı Adı";
 $locale['MEMB_003'] = "Kullanıcı Grupları";
 $locale['MEMB_004'] = "Kullanıcı Türü";
