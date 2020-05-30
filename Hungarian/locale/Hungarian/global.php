@@ -1,5 +1,5 @@
 <?php
-setlocale(LC_ALL, "hu_HU", "hu_HU.UTF-8", "hu.UTF-8", "hun_hun", "Hungarian", "hu"); // Linux Server (Windows may differ)
+$locale['setlocale'] = "hu_HU"; // https://www.php.net/manual/en/function.setlocale.php
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "HU"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "hu";
