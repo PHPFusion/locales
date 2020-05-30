@@ -129,4 +129,4 @@ $locale['blog_956'] = "Kare";
 $locale['blog_959'] = "Yüklenen Fotoğraf";
 $locale['blog_960'] = "Kategori Resmi";
 $locale['blog_961'] = "İzin Verilen Dosya Türleri:";
-$locale['blog_submit'] = "%s Blog";
+$locale['blog_submit'] = "Blog %s";

@@ -39,7 +39,7 @@ $locale['PL_423'] = "Permalink Bulunamadı.";
 $locale['PL_424'] = "%s İçin Permalinkler Başarıyla Etkinleştirildi.";
 $locale['PL_425'] = "%s için Permalinkler zaten etkin durumda.";
 $locale['PL_426'] = "%s Permalinkleri Başarıyla Etkisizleştirildi.";
-$locale['PL_429'] = "Permalink Driver for %s";
+$locale['PL_429'] = "%s için Kalıcı Bağlantı Sürücüsü";
 
 // Other
 $locale['PL_427'] = "Permalinkler Etkinleştirilmedi.";

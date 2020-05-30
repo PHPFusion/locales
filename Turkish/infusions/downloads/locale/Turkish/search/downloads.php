@@ -8,4 +8,4 @@ $locale['d404'] = "Lisans:";
 $locale['d405'] = "O/S:";
 $locale['d406'] = "Versiyon:";
 $locale['d407'] = "Eklenme Tarihi:";
-$locale['d408'] = "İndirilme Sayısı:";
+$locale['d408'] = "Dosyalar:";

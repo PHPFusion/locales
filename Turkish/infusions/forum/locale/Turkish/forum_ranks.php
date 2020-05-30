@@ -30,4 +30,4 @@ $locale['forum_rank_437'] = "Hiçbir Forum Rütbeleri Tanımlanmamış.";
 $locale['forum_rank_438'] = "Tür / Sayım";
 $locale['forum_rank_450'] = "Forum Rütbeleri Şu Anda Etkin Değil.<Br/>Etkinleştirmek Için Lütfen %s Yönetim Paneli'ne Gidin.";
 $locale['forum_rank_451'] = "Forum Ayarları";
-$locale['forum_rank_0100'] = "Forum ranks are used to micro-manage forum users and shows their performance and activity";
+$locale['forum_rank_0100'] = "Forum rütbeleri, forum kullanıcılarını mikro yönetmek için kullanılır ve performanslarını, etkinliklerini gösterir";

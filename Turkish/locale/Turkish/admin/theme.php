@@ -2,8 +2,8 @@
 $locale['theme_1000'] = "Tema Yönetimi";
 $locale['theme_1001'] = "Tema Adı:";
 $locale['theme_1002'] = "Tema Ön Ayarları";
-$locale['theme_1003'] = "Loaded";
-$locale['theme_1004'] = "Load";
+$locale['theme_1003'] = "Yüklendi";
+$locale['theme_1004'] = "Yükle";
 $locale['theme_1005'] = "Temayı Yönet";
 $locale['theme_1006'] = "Geçerli Etkin Tema";
 $locale['theme_1007'] = "Tema ZIP dosyası Yükle";

@@ -58,7 +58,7 @@ $locale['ME_465'] = 'Bazı Kullanıcıların Forumdaki Mesajlar, Yorumlar, Foto�
 $locale['ME_466'] = 'Veri Kaybını Önlemek İçin Devre Dışı Bırakma İşleminizi Silmek Yerine Anonimleştirme Olarak Değiştirmeniz Önerilir!';
 $locale['ME_467'] = "Devre Dışı Bırakma Sistemini Anonimleştirme Olarak Ayarla.";
 $locale['ME_468'] = 'Etkin Olmayan Kullanıcıları Otomatik Olarak Devre Dışı Bırak.';
-$locale['ME_469'] = 'User has been activated';
+$locale['ME_469'] = 'Kullanıcı etkinleştirildi';
 
 // Actions
 $locale['ME_500'] = 'Yasakla';
@@ -68,7 +68,7 @@ $locale['ME_503'] = 'Askıya Al';
 $locale['ME_504'] = 'Güvenlik Yasağı';
 $locale['ME_505'] = 'İptal Et';
 $locale['ME_506'] = 'Anonimleştir';
-$locale['ME_507'] = 'Activate';
+$locale['ME_507'] = 'Etkinleştir';
 
 // a_message keys
 $locale['ME_550'] = 'Yasaklandı';

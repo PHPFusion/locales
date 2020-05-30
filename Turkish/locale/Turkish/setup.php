@@ -268,7 +268,7 @@ $locale['setup_3604'] = "Genç Üye";
 $locale['setup_3605'] = "Üye";
 $locale['setup_3606'] = "Kıdemli Üye";
 $locale['setup_3607'] = "Tecrübeli Üye";
-$locale['setup_3608'] = "Fusioneer";
+$locale['setup_3608'] = "Kaynaşan";
 // Stage 6 - Sample Smileys
 $locale['setup_3620'] = "Gülümse";
 $locale['setup_3621'] = "Göz Kırp";

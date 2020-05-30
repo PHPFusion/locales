@@ -23,14 +23,15 @@ $locale['forum_0014'] = "İtibar";
 $locale['forum_0015'] = "Forum Genel Bakış";
 $locale['forum_0016'] = "Aktivite";
 $locale['forum_0017'] = "İnsanlar";
-$locale['forum_0018'] = "Person";
+$locale['forum_0018'] = "Kişi";
 $locale['forum_0019'] = "Alt Forum Yok";
 
 $locale['forum_0020'] = "Son Aktivite";
 $locale['forum_0021'] = "on %s by %s";
 $locale['forum_0022'] = "Cevap verdi";
 $locale['forum_0023'] = "Re:";
-$locale['forum_0024'] = "See the full discussion posts";
+$locale['forum_0024'] = "Münazara mesajlarının tamamını görün
+";
 
 
 $locale['forum_0050'] = "Forumu Görüntüle";
@@ -136,7 +137,7 @@ $locale['forum_0274'] = "Konu Etiketi Yok";
 $locale['forum_0275'] = "Konu Bulunamadı";
 $locale['forum_0276'] = "Tanımlanmış Etiket Yok";
 
-$locale['forum_0300'] = "Move to a new thread";
+$locale['forum_0300'] = "Yeni bir konuya taşı";
 $locale['forum_0301'] = "Yeni Forum Seçin";
 $locale['forum_0302'] = "İleri";
 $locale['forum_0303'] = "Yeni Konu Seçiniz";
