@@ -1,5 +1,5 @@
 <?php
-setlocale(LC_ALL, "cs_CZ.UTF-8", "cs_CZ", "czech"); // Linux Server (Windows may differ)
+$locale['setlocale'] = "cs_CZ"; // https://www.php.net/manual/en/function.setlocale.php
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "CZ"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "cs";
