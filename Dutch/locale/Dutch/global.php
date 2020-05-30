@@ -1,5 +1,5 @@
 <?php
-setlocale(LC_ALL, "nl_NL.UTF-8"); // Linux Server (Windows may differ)
+$locale['setlocale'] = "nl_NL"; // https://www.php.net/manual/en/function.setlocale.php
 $locale['charset'] = "utf-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "NL"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "nl";
@@ -249,7 +249,7 @@ $locale['global_176'] = "Privacybeleid";
 $locale['global_180'] = "Beheerder Index";
 $locale['global_181'] = "Terug naar site";
 $locale['global_182'] = "<strong>Waarschuwing:</strong> Beheerderwachtwoord niet opgegeven of incorrect.";
-$locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_183'] = "Uw inlogsessie is verlopen. Log alsjeblieft nogmaals in.";
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
