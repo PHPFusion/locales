@@ -1,5 +1,5 @@
 <?php
-setlocale(LC_ALL, "lt_LT.UTF-8"); // Linux Server (Windows may differ)
+$locale['setlocale'] = "lt_LT"; // https://www.php.net/manual/en/function.setlocale.php
 $locale['charset'] = "UTF-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['region'] = "LT"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "lt";
