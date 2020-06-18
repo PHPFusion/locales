@@ -255,32 +255,6 @@ $locale['1030'] = "Opret OpenGraph meta tags til de sociale netværk";
 $locale['1031'] = "Tillad webadresser i BB-kode";
 $locale['1032'] = "Tillad webadresser i brugerprofiler";
 
-// Date format options (you can add/delete lines)
-// More info at: http://php.net/manual/en/function.strftime.php
-$locale['dateformats'][] = "%m/%d/%Y";
-$locale['dateformats'][] = "%d/%m/%Y";
-$locale['dateformats'][] = "%d-%m-%Y";
-$locale['dateformats'][] = "%d.%m.%Y";
-$locale['dateformats'][] = "%m/%d/%Y %H:%M";
-$locale['dateformats'][] = "%d/%m/%Y %H:%M";
-$locale['dateformats'][] = "%d-%m-%Y %H:%M";
-$locale['dateformats'][] = "%d.%m.%Y %H:%M";
-$locale['dateformats'][] = "%m/%d/%Y %H:%M:%S";
-$locale['dateformats'][] = "%d/%m/%Y %H:%M:%S";
-$locale['dateformats'][] = "%d-%m-%Y %H:%M:%S";
-$locale['dateformats'][] = "%d.%m.%Y %H:%M:%S";
-$locale['dateformats'][] = "%B %d %Y";
-$locale['dateformats'][] = "%d. %B %Y";
-$locale['dateformats'][] = "%d %B %Y";
-$locale['dateformats'][] = "%e %B %Y";
-$locale['dateformats'][] = "%B %d %Y %H:%M";
-$locale['dateformats'][] = "%d. %B %Y %H:%M";
-$locale['dateformats'][] = "%d %B %Y %H:%M";
-$locale['dateformats'][] = "%e %B %Y %H:%M";
-$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
-$locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%e %B %Y %H:%M:%S";
 $locale['error_rate'] = "Angiv en værdi.";
 $locale['error_type'] = "Angiv en filtype.";
 $locale['error_width'] = "Indskriv bredde.";
@@ -316,8 +290,6 @@ $locale['time_settings'] = "Opsætning af dato og tid";
 $locale['user_settings'] = "Opsætning af brugeradministration";
 $locale['theme_settings'] = "Temaindstillinger";
 
-$locale['securimage3'] = "Secure Image v.3";
-
 // Security Settings
 $locale['security_001'] = "System sessioner";
 $locale['security_002'] = "Konfiguration af hjemmeside sessioner";
@@ -333,3 +305,4 @@ $locale['security_011'] = "GateWay metode";
 $locale['security_012'] = "Ord";
 $locale['security_013'] = "Tal";
 $locale['security_014'] = "Begge";
+include_once __DIR__.'/../../../includes/dateformats.php';
