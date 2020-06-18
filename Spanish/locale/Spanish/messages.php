@@ -73,7 +73,7 @@ $locale['469'] = "Responder a %s";
 $locale['471'] = "No hay mensajes";
 
 // Error Messages
-$locale['480'] = "Error";
+$locale['480'] = "Erreur";
 $locale['481'] = "ID de mensaje erróneo";
 $locale['482'] = "ID de miembro erróneo";
 $locale['483'] = "Sólo para miembros";
@@ -122,9 +122,9 @@ $locale['621'] = "Notificar por email la recepción de mensajes:";
 $locale['622'] = "Guardar automáticamente los mensajes enviados:";
 $locale['623'] = "Guardar";
 $locale['624'] = "Opciones guardadas";
-$locale['625'] = "Nuevo Mensaje Privado en ".fusion_get_settings('sitename');
+$locale['625'] = "Nuevo Mensaje Privado en [SITENAME]";
 $locale['626'] = ",<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can [LINK]read[/LINK] your private message.You can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.";
-$locale['627'] = "Error";
+$locale['627'] = "Erreur";
 $locale['628'] = "No se ha podido enviar el mensaje privado. La bandeja de entrada del destinatario está llena.";
 $locale['629'] = "No se pueden mover los mensajes seleccionados a la carpeta indicada, ya que se excedería el límite máximo de mensajes.";
 $locale['630'] = " Límite de Mensajes";
