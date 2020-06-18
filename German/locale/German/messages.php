@@ -122,7 +122,7 @@ $locale['621'] = "Benachrichtigungs-E-Mail bei neuer Nachricht";
 $locale['622'] = "Gesendete Nachrichten automatisch speichern";
 $locale['623'] = "Einstellungen speichern";
 $locale['624'] = "Deine Einstellungen wurden erfolgreich aktualisiert.";
-$locale['625'] = "Neue private Nachricht auf ".fusion_get_settings('sitename');
+$locale['625'] = "Neue private Nachricht auf [SITENAME]";
 $locale['626'] = "Du hast eine neue private Nachricht auf unserer Seite erhalten.
 
 ";

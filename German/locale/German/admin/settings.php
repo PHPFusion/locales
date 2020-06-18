@@ -258,32 +258,6 @@ $locale['1030'] = "Erstelle OpenGraph Meta-Tags f&uuml;r soziale Netzwerke?";
 $locale['1031'] = "Erlaube Index-URLs in BB-Codes?";
 $locale['1032'] = "Erlaube Index-URLs in Benutzerprofilen?";
 
-// Date format options (you can add/delete lines)
-// More info at: http://php.net/manual/en/function.strftime.php
-$locale['dateformats'][] = "%m/%d/%Y";
-$locale['dateformats'][] = "%d/%m/%Y";
-$locale['dateformats'][] = "%d-%m-%Y";
-$locale['dateformats'][] = "%d.%m.%Y";
-$locale['dateformats'][] = "%m/%d/%Y %H:%M";
-$locale['dateformats'][] = "%d/%m/%Y %H:%M";
-$locale['dateformats'][] = "%d-%m-%Y %H:%M";
-$locale['dateformats'][] = "%d.%m.%Y %H:%M";
-$locale['dateformats'][] = "%m/%d/%Y %H:%M:%S";
-$locale['dateformats'][] = "%d/%m/%Y %H:%M:%S";
-$locale['dateformats'][] = "%d-%m-%Y %H:%M:%S";
-$locale['dateformats'][] = "%d.%m.%Y %H:%M:%S";
-$locale['dateformats'][] = "%B %d %Y";
-$locale['dateformats'][] = "%d. %B %Y";
-$locale['dateformats'][] = "%d %B %Y";
-$locale['dateformats'][] = "%e %B %Y";
-$locale['dateformats'][] = "%B %d %Y %H:%M";
-$locale['dateformats'][] = "%d. %B %Y %H:%M";
-$locale['dateformats'][] = "%d %B %Y %H:%M";
-$locale['dateformats'][] = "%e %B %Y %H:%M";
-$locale['dateformats'][] = "%B %d %Y %H:%M:%S";
-$locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%d %B %Y %H:%M:%S";
-$locale['dateformats'][] = "%e %B %Y %H:%M:%S";
 $locale['error_rate'] = "Du musst einen Preis angeben.";
 $locale['error_type'] = "Du musst einen Erweiterungstyp angeben.";
 $locale['error_width'] = "Du musst eine Breite angeben.";
@@ -319,8 +293,6 @@ $locale['time_settings'] = "Zeit- und Datumseinstellungen";
 $locale['user_settings'] = "Benutzerverwaltungseinstellungen";
 $locale['theme_settings'] = "Themeeinstellungen";
 
-$locale['securimage3'] = "Secure Image v.3";
-
 // Security Settings
 $locale['security_001'] = "System Sessions";
 $locale['security_002'] = "Configuration to the website sessions";
@@ -336,3 +308,4 @@ $locale['security_011'] = "GateWay Method";
 $locale['security_012'] = "Words";
 $locale['security_013'] = "Numbers";
 $locale['security_014'] = "Both";
+include_once __DIR__.'/../../../includes/dateformats.php';
