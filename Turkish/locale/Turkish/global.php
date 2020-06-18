@@ -68,7 +68,7 @@ $locale['user3'] = "Süper Yönetici";
 $locale['user_na'] = "Mevcut Değil";
 $locale['user_guest'] = "Konuk";
 $locale['user_anonymous'] = "Anonim Kullanıcı";
-$locale['genitive'] = "%s's %s";
+$locale['genitive'] = "%s %s";
 // Standard User Status
 $locale['status0'] = "Aktif";
 $locale['status1'] = "Engellenmiş";
@@ -138,7 +138,7 @@ $locale['global_060'] = "Konuyu takip durdurulsunmu?";
 // Blog, News & Articles
 $locale['global_070'] = "Yazar ";
 $locale['global_070b'] = "%s adlı kişinin bütün mesajlarını görüntüle";
-$locale['global_071'] = "on ";
+$locale['global_071'] = "açık ";
 $locale['global_071b'] = "Yazar";
 $locale['global_072'] = "Devamını Oku";
 $locale['global_073'] = " Yorumlar";
@@ -365,7 +365,7 @@ $locale['on'] = "Açık";
 $locale['or'] = "veya";
 $locale['by'] = "tarafından";
 $locale['in'] = "içinde";
-$locale['of'] = "of";
+$locale['of'] = "-";
 $locale['and'] = "ve";
 $locale['na'] = "Bilgi bulunmamaktadır";
 $locale['joined'] = "Katılımından bu yana: ";

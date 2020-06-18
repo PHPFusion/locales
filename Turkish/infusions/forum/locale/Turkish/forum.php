@@ -27,9 +27,9 @@ $locale['forum_0018'] = "Kişi";
 $locale['forum_0019'] = "Alt Forum Yok";
 
 $locale['forum_0020'] = "Son Aktivite";
-$locale['forum_0021'] = "on %s by %s";
+$locale['forum_0021'] = "gün %s %s";
 $locale['forum_0022'] = "Cevap verdi";
-$locale['forum_0023'] = "Re:";
+$locale['forum_0023'] = "Yeniden:";
 $locale['forum_0024'] = "Münazara mesajlarının tamamını görün
 ";
 
