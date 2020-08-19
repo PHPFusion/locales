@@ -475,6 +475,14 @@ $locale['about'] = "Szerző";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "év|évek";
+$locale['timer_month'] = "hónap|hónapok";
+$locale['timer_day'] = "nap|napok";
+$locale['timer_hour'] = "óra|órák";
+$locale['timer_minute'] = "perc|percek";
+$locale['timer_second'] = "másodperc|másodpercek";
+$locale['timer'] = "[DAYS] [AGO]";
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "beküldés|beküldés";
 $locale['fmt_article'] = "cikkek|cikkek";
