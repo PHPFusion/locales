@@ -3,7 +3,7 @@
 $locale['u040'] = "تاريخ الانضمام";
 $locale['u041'] = "آخر زيارة";
 $locale['u042'] = "لم تتم الزيارة";
-$locale['u043'] = "Send Private Message";
+$locale['u043'] = "إرسال رسالة خاصة";
 $locale['u044'] = "معلومات الاتصال";
 $locale['u045'] = "معلومات أخرى";
 $locale['u046'] = "الخيارات";
@@ -12,8 +12,8 @@ $locale['u048'] = "معلومات المدير";
 $locale['u049'] = "عنوان بروتوكول IP";
 $locale['u050'] = "غير معرف";
 $locale['u051'] = "إخفاء البريد الإلكتروني؟";
-$locale['u052'] = " Yes ";
-$locale['u053'] = " No";
+$locale['u052'] = " نعم ";
+$locale['u053'] = " لا";
 $locale['u054'] = "عرض سجل التوقيف";
 $locale['u055'] = "حالة العضو:";
 $locale['u056'] = "السبب";
@@ -48,15 +48,15 @@ $locale['uf_103'] = "عام";
 $locale['uf_104'] = "معلومات المستخدم";
 $locale['uf_105'] = "الصورة الشخصية";
 $locale['uf_106'] = "المعلومات الأساسية";
-$locale['uf_107'] = "%s has no user information available.";
-$locale['uf_108'] = "There are no user fields defined";
+$locale['uf_107'] = "%s لا يوجد لديه معلومات المستخدم المتاحة.";
+$locale['uf_108'] = "لا توجد حقول مستخدم محددة";
 
 // View User Groups
 $locale['u110'] = "عرض مجموعة العضو";
 $locale['u111'] = "%u عضو";
 $locale['u112'] = "%u أعضاء";
 $locale['u113'] = "إسم المستخدم";
-$locale['u114'] = "User Type";
+$locale['u114'] = "درجة العضو";
 $locale['u115'] = "اللّغة";
 $locale['u116'] = "لا يوجد أعضاء في المجموعة.";
 $locale['u117'] = "لا توجد مجموعات للعضو.";
@@ -81,8 +81,8 @@ $locale['u134'] = "كلمة المرور الجديدة";
 $locale['u134a'] = "تعيين كلمة المرور";
 $locale['u134b'] = "إعادة كلمة المرور";
 $locale['u135a'] = "كلمة المرور الحالية";
-$locale['u135b'] = "Set New Password";
-$locale['u135c'] = "Repeat New Password";
+$locale['u135b'] = "تعيين كلمة مرور جديدة";
+$locale['u135c'] = "كرر كلمة المرور الجديدة";
 $locale['u136'] = "الرجاء إدخال جميع البيانات المطلوبة.";
 $locale['u137'] = "الرجاء إدخال جميع البيانات المطلوبة.";
 $locale['u138'] = "الرجاء إدخال جميع البيانات المطلوبة.";
@@ -105,12 +105,18 @@ $locale['u149b'] = "لم يتم تحديد كلمة مرور تسجيل الدخ
 // Email activation
 $locale['u150'] = "سوف يتم إرسال رسالة إلى بريدك الإلكتروني تحتوي على تفاصيل تسجيل الدخول الخاصة بك مع رابط تفعيل الحساب، يرجى الضغط على الرابط وتفعيل حسابك للإنتهاء من عملية التسجيل بنجاح.";
 $locale['u151'] = "مرحباً بك في [SITENAME]";
-$locale['u152'] = "Hello USER_NAME,<br/>\r\n
-Welcome to SITENAME. Here are your login details:<br/>\r\n
-Username: USER_NAME<br/>\r\n
-Password: USER_PASSWORD<br/>\r\n
-Please activate your account via the following link: ACTIVATION_LINK<br/>\r\n
-Regards,<br/>\r\n
+$locale['u152'] = "مرحبا USER_NAME,<br/>
+
+مرحبًا بكم في SITENAME. هنا تفاصيل تسجيل الدخول الخاصة بك:<br/>
+
+اسم المستخدم: USER_NAME<br/>
+
+كلمة المرور: USER_PASSWORD<br/>
+
+يرجى تفعيل حسابك عبر الرابط التالي: ACTIVATION_LINK<br/>
+
+تحياتنا,<br/>
+
 SITEUSERNAME";
 
 $locale['u153'] = "لم نتمكن من إرسال رسالة تحقق إلى بريدك الإلكتروني.";
@@ -152,13 +158,19 @@ $locale['u195'] = "يجب كتابة رمز التحقق.";
 $locale['u200'] = "تم إرسال رسالة تحقق إلى البريد الإلكتروني الجديد (%s).";
 $locale['u201'] = "سوف يتم تغيير البريد الإلكتروني إذا تم تفعيل رابط التحقق المرسل إليك.";
 $locale['u202'] = "التحقق من البريد الإلكتروني - [SITENAME]";
-$locale['u203'] = "Hello [USER_NAME],<br/>\r\n
-Someone set this email address in his account on our site.<br/>\r\n
-If you really want to change your email address to this one please click the following link:<br/>\r\n
-[EMAIL_VERIFY_LINK]<br/>\r\n
-Note: you have to be logged in to proceed.<br/>\r\n
-Regards,
-[SITEUSERNAME]<br/>\r\n
+$locale['u203'] = "مرحبا [USER_NAME],<br/>
+
+قام شخص ما بتعيين عنوان البريد الإلكتروني هذا في حسابه على موقعنا.<br/>
+
+إذا كنت تريد حقًا تغيير عنوان بريدك الإلكتروني إلى هذا العنوان ، فيرجى النقر على الرابط التالي:<br/>
+
+[EMAIL_VERIFY_LINK]<br/>
+
+ملاحظة: يجب أن تكون مسجلا للدخول.<br/>
+
+تحياتنا,
+[SITEUSERNAME]<br/>
+
 [SITENAME]";
 
 $locale['u210'] = "سمعة العضو";

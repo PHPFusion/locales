@@ -71,7 +71,7 @@ $locale['gateway_063'] = "الأرقام";
 $locale['gateway_064'] = "يجب الإجابة على السؤال";
 $locale['gateway_065'] = "المتابعة";
 
-$locale['gateway_066'] = "Your answer is incorrect!<br/>Please write all answers in one line. Example: twentysix or nineteen";
+$locale['gateway_066'] = "إجابتك غير صحيحة!<br/>يرجى كتابة جميع الإجابات في سطر واحد. مثال: عشرون أو تسعة عشر";
 $locale['gateway_067'] = "حاول مرة اخرى!";
-$locale['gateway_068'] = "Please try again later!";
+$locale['gateway_068'] = "الرجاء معاودة المحاولة في وقت لاحق!";
 $locale['gateway_069'] = "Fusion GateWay";

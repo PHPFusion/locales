@@ -1,38 +1,38 @@
 <?php
 // Smiley titles
-$locale['SMLY_400'] = "Current Smileys";
-$locale['SMLY_401'] = "Add Smiley";
-$locale['SMLY_402'] = "Edit Smiley";
+$locale['SMLY_400'] = "الوجوه المعبرة الحالية";
+$locale['SMLY_401'] = "إضافة وجه معبر";
+$locale['SMLY_402'] = "تعديل وجه معبر";
 $locale['SMLY_403'] = "رموز التعبير";
-$locale['SMLY_404'] = "Active Smileys";
-$locale['SMLY_405'] = "Inactive Smileys";
+$locale['SMLY_404'] = "الوجوه المعبرة النشطة";
+$locale['SMLY_405'] = "الوجوه المعبرة غير النشطة";
 // Smiley messages
-$locale['SMLY_410'] = "Smiley added";
-$locale['SMLY_411'] = "Smiley updated";
-$locale['SMLY_412'] = "Smiley deleted";
-$locale['SMLY_413'] = "Inactive Smileys";
+$locale['SMLY_410'] = "تمت إضافة الوجه المعبر";
+$locale['SMLY_411'] = "تم تحديث الوجه المعبر";
+$locale['SMLY_412'] = "تم حذف الوجه المعبر";
+$locale['SMLY_413'] = "الوجوه المعبرة غير النشطة";
 
-$locale['SMLY_414'] = "The smiley Text is in use.";
-$locale['SMLY_415'] = "The smiley Code is in use.";
-$locale['SMLY_416'] = "Do you really want to delete this smiley?";
-$locale['SMLY_417'] = "Do you really want to deactivate this smiley?";
-$locale['SMLY_418'] = "Error Uploading smiley";
+$locale['SMLY_414'] = "نص الابتسامة مستخدم من قبل.";
+$locale['SMLY_415'] = "شفرة الابتسامة مستخدم من قبل.";
+$locale['SMLY_416'] = "هل تريد حقًا حذف هذه الابتسامة؟";
+$locale['SMLY_417'] = "هل تريد حقًا إلغاء تنشيط هذه الابتسامة؟";
+$locale['SMLY_418'] = "خطأ في تحميل الابتسامة";
 // Smiley form
-$locale['SMLY_420'] = "Smiley Code:";
-$locale['SMLY_421'] = "Smiley Image:";
-$locale['SMLY_422'] = "Smiley Text:";
-$locale['SMLY_423'] = "Save Smiley";
-$locale['SMLY_424'] = "Update Smiley";
+$locale['SMLY_420'] = "شفرة الوجه المعبر:";
+$locale['SMLY_421'] = "صورة الوجه المعبر:";
+$locale['SMLY_422'] = "نص الوجه المعبر:";
+$locale['SMLY_423'] = "حفظ الوجه المعبر";
+$locale['SMLY_424'] = "تحديث الابتسامة";
 // Current Smileys
-$locale['SMLY_430'] = "Code";
+$locale['SMLY_430'] = "الشفرة";
 $locale['SMLY_431'] = "الصورة";
 $locale['SMLY_432'] = "Text";
 $locale['SMLY_433'] = "الخيارات";
 $locale['SMLY_435'] = "غير فعال";
-$locale['SMLY_436'] = "There are no smileys defined.";
+$locale['SMLY_436'] = "لم يتم تعريف وجه معبر.";
 // Error Message
-$locale['SMLY_437'] = "Please enter a Smiley Code";
-$locale['SMLY_438'] = "Please select a Smiley";
-$locale['SMLY_439'] = "Please enter a Smiley Text";
-$locale['SMLY_440'] = "No active Smileys";
-$locale['SMLY_441'] = "No inactive Smileys";
+$locale['SMLY_437'] = "الرجاء إدخال شفرة الابتسامة";
+$locale['SMLY_438'] = "الرجاء تحديد الابتسامة";
+$locale['SMLY_439'] = "الرجاء تحديد نص الابتسامة";
+$locale['SMLY_440'] = "لا توجد وجوه معبرة نشطة";
+$locale['SMLY_441'] = "لا توجد وجوه معبرة غير نشطة";

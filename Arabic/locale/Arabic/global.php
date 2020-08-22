@@ -49,7 +49,7 @@ $locale['add_lang'] = "أضف %s";
 $locale['other_states'] = "دول أخرى";
 // Name
 $locale['name'] = "الاسم الكامل";
-$locale['username_pretext'] = "Your public username is also the same as your user profile address located at: %s %s";
+$locale['username_pretext'] = "اسم المستخدم العام الخاص بك هو نفسه اسم ملف تعريف المستخدم الموجود في: %s %s";
 $locale['first_name'] = "الاسم الأول";
 $locale['middle_name'] = "الاسم الثاني";
 $locale['last_name'] = "الاسم الأخير";
@@ -93,7 +93,7 @@ $locale['global_013'] = "لا يوجد أعضاء الآن";
 $locale['global_014'] = "إجمالي الأعضاء";
 $locale['global_015'] = "أعضاء غير مفعلين";
 $locale['global_016'] = "أعضاء جدد";
-$locale['global_017'] = "Toggle Navigation";
+$locale['global_017'] = "قائمة التصفح";
 // Forum Side panel
 $locale['global_020'] = "موضوعات المنتدى";
 $locale['global_021'] = "أحدث الموضوعات";
@@ -205,7 +205,7 @@ $locale['UM063'] = "تذكرني";
 $locale['UM064'] = "تسجيل الدخول";
 $locale['UM065'] = "لست عضواً بعد؟ [/LINK]اضغط هنا[LINK] للتسجيل.";
 $locale['UM066'] = "هل نسيت كلمة المرور؟<br/>[LINK]لإستعادة كلمة المرور[/LINK].";
-$locale['UM067'] = "(not recommended on public or shared computer)";
+$locale['UM067'] = "(غير مستحسن على الكمبيوتر العام أو المشترك)";
 $locale['UM080'] = "تحرير الملف الشخصي";
 $locale['UM081'] = "الرسائل الخاصة";
 $locale['UM082'] = "قائمة الأعضاء";
@@ -229,9 +229,9 @@ $locale['UM096'] = "مرحباً: ";
 $locale['UM097'] = "القائمة الشخصية";
 $locale['UM101'] = "تغيير اللغة";
 // Gauges
-$locale['UM098'] = "PM Inbox:";
-$locale['UM099'] = "PM Outbox:";
-$locale['UM100'] = "PM Archive:";
+$locale['UM098'] = "صندوق الوارد :";
+$locale['UM099'] = "صندوق الصادر :";
+$locale['UM100'] = "أرشيف الرسائل :";
 // Keywords and Meta
 $locale['tags'] = "وسوم";
 // Captcha
@@ -240,13 +240,13 @@ $locale['global_151'] = "قم بإدخال رمز التحقق:";
 // Footer Counter
 $locale['global_170'] = "زيارة غير مكررة";
 $locale['global_171'] = "زيارات غير مكررة";
-$locale['global_172'] = "Render time: %s seconds";
-$locale['global_173'] = "Queries";
+$locale['global_172'] = "وقت التحميل:  %s ثانية";
+$locale['global_173'] = "الاستعلامات:";
 $locale['global_174'] = "الذاكرة المستخدمة";
 $locale['global_175'] = "بمعدل: %s ثانية/ثواني";
 $locale['global_176'] = "سياسة الخصوصية";
 // Admin Navigation
-$locale['global_180'] = "Admin Home";
+$locale['global_180'] = "الإدارة الرئيسية";
 $locale['global_181'] = "العودة";
 $locale['global_182'] = "لم يتم إدخال كلمة المرور أو إنها غير صحيحة.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
@@ -257,95 +257,97 @@ $locale['global_190'] = "تم تنشيط وضع الصيانة";
 $locale['global_191'] = "تم حظر عنوان البروتوكول (IP) الخاص بك.";
 $locale['global_192'] = "انتهت مدة صلاحية دخولك، يرجى تسجيل الدخول مرة أخرى.";
 $locale['global_193'] = "لا يمكن تعيين ملف تعريف ارتباط المستند. يرجى التأكد من تمكين ملفات تعريف الارتباط لتتمكن من تسجيل الدخول بشكل صحيح.";
-$locale['global_194'] = "This account is currently suspended.";
+$locale['global_194'] = "هذا الحساب موقوف حالياً ";
 $locale['global_195'] = "لم يتم تفعيل هذا الحساب.";
 $locale['global_196'] = "خطأ في إسم المستخدم أو كلمة المرور، الرجاء التأكد من صحة البيانات.";
-$locale['global_197'] = "Please wait while we transfer you...<br/>[ [LINK]Or click here if you do not wish to wait[/LINK] ]";
-$locale['global_198'] = "WARNING: INSTALLER DETECTED, PLEASE DELETE THE INSTALL.PHP FILE IMMEDIATELY.";
-$locale['global_199'] = "WARNING: admin password not set, click [LINK]Edit Profile[/LINK] to set it.";
+$locale['global_197'] = "الرجاء الانتظار حتى يتم نقلك ...<br/>[ [LINK]أو اضغط هنا إذا لم ترد الانتظار[/LINK] ]";
+$locale['global_198'] = "تحذير: العثور على ملف التنصيب, الرجاء حذف مجلد /INSTALL/ فوراً.";
+$locale['global_199'] = "تحذير: كلمة سر المدير العام لم تحدد بعد, اضغط [LINK]تعديل الملف الشخصي[/LINK] لإضافتها.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = " - البحث";
-$locale['global_203'] = " - FAQ";
+$locale['global_203'] = " - الأسئلة المتكررة";
 $locale['global_204'] = " - المنتدى";
 //Themes
 $locale['global_210'] = "الانتقال إلى المحتوى";
 $locale['global_300'] = "لا يوجد قالب";
-$locale['global_301'] = "We are really sorry but this page cannot be displayed. Due to some circumstances no site theme can be found.
- If you are a Site Administrator, please use your FTP client to upload any theme designed for PHP-Fusion 9 to the themes folder.
- After upload check in Theme Settings to see if the selected theme was correctly uploaded to your themes directory.
- Please note that the uploaded theme folder has to have the exact same name (including character case, which is important on Unix based servers)
- as chosen in Theme Settings page.<br/>If you are regular member of this site, please contact the site\\'s administrator via [SITE_EMAIL] e-mail and report this issue.";
-$locale['global_302'] = "The Theme chosen in Main Settings does not exist or is incomplete!";
+$locale['global_301'] = "نأسف حقًا ولكن لا يمكن عرض هذه الصفحة. نظرًا لبعض الظروف ، لا يمكن العثور على سمة الموقع.
+ إذا كنت مسؤول موقع ، فيرجى استخدام عميل FTP الخاص بك لتحميل أي سمة مصممة من أجل PHP-Fusion 9 إلى مجلد القوالبthemes.
+بعد التحميل ، تحقق من إعدادات الستايل لمعرفة ما إذا كان السمة المحددة قد تم تحميلها بشكل صحيح في دليل السمات الخاص بك.
+ يرجى ملاحظة أن مجلد السمة التي تم تحميلها يجب أن يكون له نفس الاسم بالضبط (بما في ذلك حالة الأحرف ، وهو أمر مهم على الخوادم القائمة على نظام يونكس)
+ كما تم اختياره في صفحة إعدادات السمة.<br/>إذا كنت عضوًا عاديًا في هذا الموقع ، فيرجى الاتصال بمسؤول الموقع عبر [SITE_EMAIL]البريد الإلكتروني والإبلاغ عن هذه المشكلة.";
+$locale['global_302'] = "التصميم الذي تم اختياره من الإعدادات الرئيسية غير موجود أو غير مكتمل!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Oh no! Where's the JavaScript?<br/>Your Web browser does not have JavaScript enabled or does not support JavaScript.
-Please enable JavaScript on your Web browser to properly view this Web site, or upgrade to a Web browser that does support JavaScript.";
+$locale['global_303'] = "عفوا! أين JavaScript?<br/>مستعرض الويب الخاص بك لا يدعم JavaScript أو لا يدعم JavaScript.
+الرجاء تمكين JavaScript على مستعرض الويب الخاص بك لعرض موقع الويب هذا بشكل صحيح ، أو الترقية إلى مستعرض ويب يدعم JavaScript.";
 // User Management
-$locale['global_400'] = "suspended";
-$locale['global_401'] = "banned";
-$locale['global_402'] = "deactivated";
-$locale['global_403'] = "account terminated";
-$locale['global_404'] = "account anonymized";
-$locale['global_405'] = "anonymous user";
-$locale['global_406'] = "This account has been banned for the following reason:";
-$locale['global_407'] = "This account has been suspended until ";
-$locale['global_408'] = " for the following reason:";
-$locale['global_409'] = "This account has been banned for security reasons.";
-$locale['global_410'] = "The reason for this is: ";
-$locale['global_411'] = "This account has been cancelled.";
-$locale['global_412'] = "This account has been anonymized, probably because of inactivity.";
+$locale['global_400'] = "موقوف";
+$locale['global_401'] = "محظور";
+$locale['global_402'] = "غير مفعل";
+$locale['global_403'] = "الحساب ألغي";
+$locale['global_404'] = "الحساب بهيئة مجهولة";
+$locale['global_405'] = "مستخدم بصفة غير محددة";
+$locale['global_406'] = "تم حظر هذا الحساب للأسباب التالية:";
+$locale['global_407'] = "تم إيقاف هذا الحساب حتى  ";
+$locale['global_408'] = " للأسباب التالية:";
+$locale['global_409'] = "تم حظر هذا الحساب لأسباب أمنية.";
+$locale['global_410'] = "السبب لهذا هو: ";
+$locale['global_411'] = "تم إلغاء هذا الحساب.";
+$locale['global_412'] = "تم وضع هذا الحساب بهيئة مخفية ربما لعدم وجود نشاط.";
 // Flood control
-$locale['global_440'] = "Automatic Ban by Flood Control";
-$locale['global_441'] = "Your account on [SITENAME] has been banned";
-$locale['global_442'] = "Hello [USER_NAME],<br/>\r\n
-Your account on [SITENAME] was caught posting too many items to the system in very short time from the IP [USER_IP], and have therefor been banned. This is done to prevent bots from submitting spam messages in rapid succession.<br/>\r\n
-Please contact the site administrator at [SITE_EMAIL] to have your account restored or report if this was not you causing this security ban.<br/>\r\n
-Regards,<br/>\r\n[SITEUSERNAME]";
+$locale['global_440'] = "حظر ذاتي بسبب نظام مكافحة الإغراق";
+$locale['global_441'] = "تم حظر حسابك في [SITENAME] ";
+$locale['global_442'] = "أهلاً [USER_NAME],<br/>
+تمت ملاحظة أن حسابك في [SITENAME] قام بنشر العديد من المشاركات من الآي بي [USER_IP], وعليه فقد تم حظره.  ويعود السبب في ذلك لمنع المشاركات الآلية من إغراق الموقع بمشاركات متكررة وغير مفيدة.<br/>
+نرجو الاتصال بمدير موقع [SITE_EMAIL] لإعادة تفعيل حسابك أو إذا لم تكن المتسبب في هذا الحظر الأمني.<br/>
+تحياتنا,<br/>[SITEUSERNAME]";
 // Authenticate Class
-$locale['global_450'] = "Suspension automatically lifted by system";
-$locale['global_451'] = "Suspension lifted at [SITENAME]";
-$locale['global_452'] = "Hello USER_NAME,<br/>\r\n
-The suspension of your account at [SITEURL] has been lifted. Here are your login details:<br/>\r\n
-Username: USER_NAME<br/>\r\nPassword: Hidden for security reasons<br/>\r\n
-If you have forgot your password you can reset it via the following link: LOST_PASSWORD<br/>\r\n
-Regards,<br/>\r\n[SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,<br/>\r\nThe suspension of your account at [SITEURL] has been lifted.<br/>\r\n
-Regards,<br/>\r\n[SITEUSERNAME]";
-$locale['global_454'] = "Account reactivated at [SITENAME]";
-$locale['global_455'] = "Hello USER_NAME,<br/>\r\n
-Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>\r\n
-Regards,<br/>\r\n[SITEUSERNAME]";
-$locale['global_456'] = "New password notification for [SITENAME]";
-$locale['global_457'] = "Hi USER_NAME,
-<br/>\r\nA new password has been set for your account at [SITENAME]. Please find the enclosed new login details:<br/>\r\n
-Username: USER_NAME<br/>\r\nPassword: [PASSWORD]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
-$locale['global_458'] = "New password has been set for USER_NAME";
-$locale['global_459'] = "New password has been set for USER_NAME, and email was not sent. Please ensure to tell the user of the new details.";
+$locale['global_450'] = "تم رفع الحظر تلقائياً من قبل النظام.";
+$locale['global_451'] = "تم رفع الحظر في [SITENAME]";
+$locale['global_452'] = "أهلاً USER_NAME,<br/>
+تم رفع الحظر المفروض على حسابك في [SITEURL] وفيما يلي معلومات الدخول:
+
+اسم المستخدم: USER_NAME <br/>كلمة السر: مخفية لأسباب أمنية <br/>
+إذا كنت نسيت أو فقدت كلمة السر، يمكنك تحديدها من جديد من خلال هذا الرابط: LOST_PASSWORD <br/>
+تحياتنا،
+[SITEUSERNAME]";
+$locale['global_453'] = "أهلاً USER_NAME,<br/>تم رفع الإيقاف المفروض على حسابك في [SITEURL] .<br/>
+تحياتنا،,<br/>[SITEUSERNAME]";
+$locale['global_454'] = "تمت إعادة تفعيل الحساب في  [SITENAME]";
+$locale['global_455'] = "أهلاً USER_NAME,<br/>
+حسابك في [SITEURL] لم يعد معتبراً غير نشط. تم التفعيل منذ آخر مرة قمت بالدخول إلى الموقع.<br/>
+تحياتنا،,<br/>[SITEUSERNAME]";
+$locale['global_456'] = "إعلام بتغيير كلمة المرور في [SITENAME]";
+$locale['global_457'] = "اهلاً USER_NAME,
+<br/>تم تحديث كلمة المرور الخاصة بحسابك في [SITENAME]. وفيما يلي معلومات الدخول:<br/>
+اسم المستخدم: USER_NAME<br/>كلمة المرور: [PASSWORD]<br/>تحياتنا,<br/>[SITEUSERNAME]";
+$locale['global_458'] = "تم تغيير كلمة المرور للحساب USER_NAME";
+$locale['global_459'] = "تم تغيير كلمة المرور الخاصة بالحساب USER_NAME, ولم يتم ارسال البريد الإلكتروني. الرجاء التأكد من إعلام المستخدم بمعلومات حسابه الجديدة.";
 // Function parsebytesize()
 $locale['global_460'] = "فارغ";
 $locale['global_461'] = "بايت";
 //Safe Redirect
-$locale['global_500'] = "You are being redirected to %s, please wait. If you're not redirected, click here.";
+$locale['global_500'] = "يتم نقلك إلى  %s، نرجو الإنتظار. إذا لم يتم نقلك، اضغط هنا.";
 // Captcha Locales
 $locale['global_600'] = "رمز التحقق";
-$locale['global_601'] = "You must enter a correct validation code";
+$locale['global_601'] = "يجب عليك إدخال رمز التحقق الصحيح";
 $locale['recaptcha'] = "ar";
 // Site links
 $locale['global_700'] = "عرض المزيد";
 //Miscellaneous
-$locale['global_900'] = "Unable to convert HEX to DEC";
-$locale['global_901'] = "Insert Media";
+$locale['global_900'] = "لا يمكن التحويل من HEX إلى DEC";
+$locale['global_901'] = "إدراج وسائل الإعلام";
 //Language Selection
-$locale['global_ML100'] = "Language:";
-$locale['global_ML101'] = "- Select Language -";
+$locale['global_ML100'] = "اللغة:";
+$locale['global_ML101'] = "- اختيار لغة -";
 $locale['global_ML102'] = "لغة الموقع";
 $locale['global_ML103'] = "تغيير اللغة";
 // Flood Control
-$locale['flood'] = "You are barred to post until the flood period cooldown is over. Please wait for %s.";
+$locale['flood'] = "منعت من النشر حتى تنتهي فترة الفيضان. يرجى الانتظار %s.";
 $locale['no_image'] = "لا توجد صورة";
 $locale['send_message'] = "إرسال";
-$locale['go_profile'] = "Go to %s Profile Page";
+$locale['go_profile'] = "توجه إلى الحساب الشخصي لـ %s";
 // Global one word locales
 $locale['hello'] = "مرحباً!";
 $locale['goodbye'] = "وداعاً!";
@@ -363,31 +365,31 @@ $locale['yes'] = "نعم";
 $locale['off'] = "إيقاف";
 $locale['on'] = "تشغيل";
 $locale['or'] = "أو";
-$locale['by'] = "by";
+$locale['by'] = "بواسطة";
 $locale['in'] = "في";
-$locale['of'] = "of";
+$locale['of'] = "من";
 $locale['and'] = "و";
-$locale['na'] = "No information available";
-$locale['joined'] = "Joined since: ";
+$locale['na'] = "غير متاح";
+$locale['joined'] = "عضو منذ: ";
 // Navigation
 $locale['next'] = "التالي";
 $locale['previous'] = "السابق";
 $locale['back'] = "رجوع";
-$locale['forward'] = "Forward";
-$locale['go'] = "Go";
+$locale['forward'] = "للأمام";
+$locale['go'] = "اذهب";
 $locale['cancel'] = "إلغاء";
-$locale['clear'] = "Clear";
-$locale['move'] = "Move";
-$locale['move_up'] = "Move up";
-$locale['move_down'] = "Move down";
-$locale['load_more'] = "Load more Items";
-$locale['load_end'] = "Load from Beginning";
+$locale['clear'] = "مسح";
+$locale['move'] = "تحريك";
+$locale['move_up'] = "تحريك للأعلى";
+$locale['move_down'] = "تحريك للأسفل";
+$locale['load_more'] = "تحميل المزيد من العناصر";
+$locale['load_end'] = "تحميل من البداية";
 // Actions
 $locale['add'] = "إضافة";
 $locale['save'] = "حفظ";
-$locale['save_changes'] = "Save Changes";
-$locale['save_and_close'] = "Save and Close";
-$locale['confirm'] = "Confirm";
+$locale['save_changes'] = "حفظ التغييرات";
+$locale['save_and_close'] = "حفط واغلاق";
+$locale['confirm'] = "تطبيق";
 $locale['update'] = "التحديث";
 $locale['updated'] = "تم التحديث";
 $locale['remove'] = "إزالة";
@@ -398,7 +400,7 @@ $locale['register'] = "التسجيل";
 $locale['ban'] = "الحظر";
 $locale['reactivate'] = "إعادة تنشيط";
 $locale['user'] = "عضو";
-$locale['promote'] = "Promote";
+$locale['promote'] = "ترقية";
 $locale['show'] = "عرض";
 $locale['actions'] = "الإجراءات";
 $locale['language'] = "اللّغة";
@@ -422,36 +424,36 @@ $locale['info'] = "المعلومات";
 $locale['image'] = "الصورة";
 // Forms
 $locale['choose'] = "الرجاء اختيار واحدة...";
-$locale['no_opts'] = "No selection";
-$locale['root'] = "As Parent";
-$locale['choose-user'] = "Please Choose a User...";
-$locale['choose-location'] = "Please Choose a Location";
-$locale['parent'] = "Create as New Parent..";
-$locale['item_order'] = "Item Ordering";
-$locale['status'] = "Status";
-$locale['note'] = "Make a note of this item";
+$locale['no_opts'] = "بدون تحديد";
+$locale['root'] = "قسم فرعي";
+$locale['choose-user'] = "الرجاء اختيار عضو...";
+$locale['choose-location'] = "الرجاء اختيار المكان";
+$locale['parent'] = "انشاء قسم جديد..";
+$locale['item_order'] = "ترتيب العناصر";
+$locale['status'] = "الحالة";
+$locale['note'] = "عمل ملاحظة لها العنصر";
 $locale['publish'] = "نشر";
-$locale['unpublish'] = "Unpublish";
+$locale['unpublish'] = "لم يتم النشر";
 $locale['published'] = "منشور";
 $locale['unpublished'] = "غير منشورة";
 $locale['sticky'] = "Sticky";
 $locale['unsticky'] = "Unsticky";
 $locale['draft'] = "المسودة";
 $locale['settings'] = "الاعدادات";
-$locale['posted'] = "posted";
+$locale['posted'] = "أضيف";
 $locale['profile'] = "الملف الشخصي";
 $locale['edit'] = "تحرير";
 $locale['qedit'] = "التحرير السريع";
-$locale['view'] = "View";
+$locale['view'] = "عرض";
 $locale['login'] = "تسجيل الدخول";
 $locale['logout'] = "تسجيل الخروج";
-$locale['admin-logout'] = "Admin Logout";
+$locale['admin-logout'] = "خروج الإدارة";
 $locale['message'] = "الرسائل الخاصة";
-$locale['logged'] = "Logged in as ";
-$locale['version'] = "Version ";
-$locale['browse'] = "Browse ...";
-$locale['close'] = "Close";
-$locale['nopreview'] = "There is nothing to Preview";
+$locale['logged'] = "مسجل دخولك بـ ";
+$locale['version'] = "الإصدارة ";
+$locale['browse'] = "استعراض ...";
+$locale['close'] = "إغلاق";
+$locale['nopreview'] = "لا يوجد شيئ للمعاينة";
 $locale['mark_as'] = "وضع علامة";
 $locale['preview'] = "معاينة";
 $locale['custom'] = "تخصيص";
@@ -469,6 +471,14 @@ $locale['about'] = "حول";
 // User status
 $locale['online'] = "متصل";
 $locale['offline'] = "غير مُتصل";
+// Timer
+$locale['timer_year'] = "سنة|سنوات";
+$locale['timer_month'] = "شهر|أشهر";
+$locale['timer_day'] = "يوم|أيام";
+$locale['timer_hour'] = "ساعة|ساعات";
+$locale['timer_minute'] = "دقيقة|دقائق";
+$locale['timer_second'] = "ثانية|ثواني";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "مشاركة|مشاركات";
 $locale['fmt_article'] = "مقال|مقالات";
@@ -489,7 +499,7 @@ $locale['fmt_minute'] = "دقيقة|دقائق";
 $locale['fmt_month'] = "شهر|أشهر";
 $locale['fmt_news'] = "خبر|أخبار";
 $locale['fmt_photo'] = "صورة|صور";
-$locale['fmt_post'] = "post|posts";
+$locale['fmt_post'] = "مشاركة|مشاركات";
 $locale['fmt_question'] = "سؤال|أسئلة";
 $locale['fmt_read'] = "فراءة|قراءات";
 $locale['fmt_second'] = "ثانية|ثواني";
@@ -504,7 +514,7 @@ $locale['fmt_points'] = "نقطة|نقاط";
 $locale['fmt_admin'] = "مدير|مدراء";
 $locale['fmt_group'] = "مجموعة|مجموعات";
 $locale['fmt_category'] = "تصنيف|تصنيفات";
-$locale['fmt_review'] = "review|reviews";
-$locale['fmt_infusion'] = "infusion|infusions";
+$locale['fmt_review'] = "مراجعة|مراجعات";
+$locale['fmt_infusion'] = "ملحق|ملاحق";
 // include Defender locales
 include_once __DIR__."/defender.php";

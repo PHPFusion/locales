@@ -158,8 +158,8 @@ $locale['setup_3010'] = "ملفات التحميل";
 $locale['setup_3011'] = "الأسئلة المتكررة";
 $locale['setup_3012'] = "المنتديات";
 $locale['setup_3013'] = "الصور";
-$locale['setup_3014'] = "Infusions";
-$locale['setup_3015'] = "Infusion Panels";
+$locale['setup_3014'] = "الملاحق البرمجية";
+$locale['setup_3015'] = "جوانب الملاحق";
 $locale['setup_3016'] = "الأعضاء";
 $locale['setup_3018'] = "أخبار";
 $locale['setup_3019'] = "لوحات";
@@ -190,7 +190,7 @@ $locale['setup_3055'] = "المدونة";
 $locale['setup_3056'] = "إدارة القوالب";
 $locale['setup_3057'] = "أداة الدمج";
 $locale['setup_3058'] = "إعدادات القالب";
-$locale['setup_3059'] = "Fusion File Manager";
+$locale['setup_3059'] = "Fusion مدير الملفات";
 // Multilanguage table rights
 $locale['setup_3200'] = "المقالات";
 $locale['setup_3201'] = "الصفحات الخاصة";
@@ -209,7 +209,7 @@ $locale['setup_3213'] = "المدونة";
 // Step 6 - Navigation Links
 $locale['setup_3300'] = "الصفحة الرئيسية";
 $locale['setup_3302'] = "ملفات التحميل";
-$locale['setup_3303'] = "FAQ";
+$locale['setup_3303'] = "الأسئلة المتكررة";
 $locale['setup_3304'] = "المنتدى";
 $locale['setup_3305'] = "الاتصال بنا";
 $locale['setup_3307'] = "الروابط";
@@ -223,7 +223,7 @@ $locale['setup_3314'] = "إرسال ملف تحميل";
 $locale['setup_3315'] = "الإرساليات";
 $locale['setup_3316'] = "الرسائل القصيرة";
 $locale['setup_3317'] = "إرسال مدونة";
-$locale['setup_3318'] = "Blog Archive Panel";
+$locale['setup_3318'] = "جانب أرشيف المدونة";
 $locale['setup_3319'] = "أحدث الموضوعات";
 $locale['setup_3320'] = "المشاركة في المواضيع";
 $locale['setup_3321'] = "الموضوعات التي يتم متابعتها";
@@ -247,7 +247,7 @@ $locale['setup_3500'] = "خلل برمجي";
 $locale['setup_3501'] = "ملفات التحميل";
 $locale['setup_3502'] = "ألعاب";
 $locale['setup_3503'] = "الصور";
-$locale['setup_3504'] = "Hardware";
+$locale['setup_3504'] = "المعدات";
 $locale['setup_3505'] = "مذكرات";
 $locale['setup_3506'] = "الأعضاء";
 $locale['setup_3507'] = "التعديلات البرمجية";
@@ -305,10 +305,10 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 // Welcome message
 $locale['setup_3650'] = "مرحباً بك في موقعك!";
 // Final message
-$locale['setup_1700'] = "Setup is Complete";
-$locale['setup_1701'] = "PHP-Fusion 9 is now ready for use. Click Finish to rewrite your config_temp.php file to config.php<br/>";
-$locale['setup_1702'] = "<strong>Note: After you enter your site you should delete /install.php file and chmod your config.php back to 0644 for security reasons.</strong>";
-$locale['setup_1703'] = "Thank you for choosing PHP-Fusion.";
+$locale['setup_1700'] = "اكتمال الإعداد";
+$locale['setup_1701'] = "PHP-Fusion 9 جاهز الآن للاستخدام. انقر فوق إنهاء لإعادة كتابة config_temp.php إلى config.php<br/>";
+$locale['setup_1702'] = "<strong>ملاحظة: بعد إدخال موقعك ، يجب عليك حذفه /install.php ومنح الترخيص config.php العودة إلى 0644 لأسباب أمنية.</strong>";
+$locale['setup_1703'] = "شكرا لاختيارك PHP-Fusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";
@@ -319,32 +319,36 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "نماذج البريد الالكتروني";
-$locale['setup_3801'] = "Notification on new PM";
-$locale['setup_3802'] = "You have a new private message from [USER] waiting at [SITENAME]";
-$locale['setup_3803'] = "Hello [RECEIVER],<br/>\r\nYou have received a new Private Message titled [SUBJECT] from [USER] at [SITENAME]. You can read your private message at [SITEURL]messages.php<br/>\r\nMessage: [MESSAGE]<br/>\r\nYou can disable email notification through the options panel of the Private Message page if you no longer wish to be notified of new messages.<br/>\r\nRegards,<br/>\r\n[SENDER].";
-$locale['setup_3804'] = "Notification on new forum posts";
-$locale['setup_3805'] = "Thread Reply Notification - [SUBJECT]";
-$locale['setup_3806'] = "Hello [RECEIVER],<br/>\r\nA reply has been posted in the forum thread \\'[SUBJECT]\\' which you are tracking at [SITENAME]. You can use the following link to view the reply:<br/>\r\n[THREAD_URL]<br/>\r\nIf you no longer wish to watch this thread you can click the \\'Stop tracking this thread\\' link located at the top of the thread.<br/>\r\nRegards,<br/>\r\n[SENDER].";
-$locale['setup_3807'] = "Contact form";
+$locale['setup_3801'] = "إشعار بالرسائل الخاصة الجديدة";
+$locale['setup_3802'] = "لديك رسالة خاصة جديدة من [USER] تنتظر على [SITENAME]";
+$locale['setup_3803'] = "مرحبا [RECEIVER],<br/>\r
+لقد تلقيت رسالة خاصة جديدة بعنوان [SUBJECT] من [USER] على [SITENAME]. يمكنك قراءة رسالتك الخاصة على [SITEURL]messages.php<br/>\r\\الرسالة: [MESSAGE]<br/>\r
+يمكنك تعطيل إشعار البريد الإلكتروني من خلال لوحة الخيارات في صفحة الرسائل الخاصة إذا لم تعد ترغب في أن يتم إعلامك بالرسائل الجديدة.<br/>\r
+Regards,<br/>\r
+[SENDER].";
+$locale['setup_3804'] = "إشعار على مشاركات المنتدى الجديدة";
+$locale['setup_3805'] = "يوجد رد على الموضوع - [SUBJECT]";
+$locale['setup_3806'] = "مرحبا [RECEIVER],<br/>\r\nتم نشر رد في موضوع المنتدى \\'[SUBJECT]\\' التي تتبع في [SITENAME]. يمكنك استخدام الرابط التالي لعرض الرد:<br/>\r\n[THREAD_URL]<br/>\r\nإذا لم تعد ترغب في مشاهدة هذا الموضوع ، يمكنك النقر فوق \\'التوقف عن تتبع هذا الموضوع\\' الرابط الموجود في الجزء العلوي من الموضوع.<br/>\r\nتحياتنا,<br/>\r\n[SENDER].";
+$locale['setup_3807'] = "نموذج المراسلة";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";
 // Official Supported System List
 $locale['articles']['title'] = "المقالات";
-$locale['articles']['description'] = "A Standard Documentation System.";
+$locale['articles']['description'] = "نظام التوثيق القياسي.";
 $locale['blog']['title'] = "المدونة";
-$locale['blog']['description'] = "A Standard Blogging System.";
+$locale['blog']['description'] = "نظام التدوين القياسي.";
 $locale['downloads']['title'] = "ملفات التحميل";
-$locale['downloads']['description'] = "A Standard Downloads System.";
+$locale['downloads']['description'] = "نظام التحميل القياسي.";
 $locale['faqs']['title'] = "الأسئلة المتكررة";
-$locale['faqs']['description'] = "A Knowledge base FAQ System.";
+$locale['faqs']['description'] = "قاعدة المعرفة نظام الأسئلة الشائعة.";
 $locale['forums']['title'] = "المنتدى";
-$locale['forums']['description'] = "A Bulletin Board Forum System.";
+$locale['forums']['description'] = "نظام المنتديات القياسي.";
 $locale['news']['title'] = "أخبار";
-$locale['news']['description'] = "A News Publishing System.";
+$locale['news']['description'] = "نظام نشر الأخبار.";
 $locale['photos']['title'] = "معرض الصور";
-$locale['photos']['description'] = "A Photo Gallery Publishing System.";
+$locale['photos']['description'] = "معرض الصور نظام النشر.";
 $locale['polls']['title'] = "استطلاعات الرأي";
-$locale['polls']['description'] = "A Poll and User Voting System.";
+$locale['polls']['description'] = "استطلاع ونظام التصويت المستخدم.";
 $locale['weblinks']['title'] = "الروابط";
-$locale['weblinks']['description'] = "A Web Directory System.";
-$locale['install'] = "Install Core";
+$locale['weblinks']['description'] = "نظام دليل الويب.";
+$locale['install'] = "التثبيت";

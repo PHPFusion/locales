@@ -1,11 +1,11 @@
 <?php
 //color selection for multiple droplists
 $locale['color_0'] = "لا شيء";
-$locale['color_1'] = "أزرق أليس";
+$locale['color_1'] = "أزرق جليدي";
 $locale['color_2'] = "أبيض عتيق";
-$locale['color_3'] = "مائي";
-$locale['color_4'] = "زبرجد";
-$locale['color_5'] = "لازوردى";
+$locale['color_3'] = "أزرق مائي";
+$locale['color_4'] = "زبرجدي";
+$locale['color_5'] = "أزرق سماوي";
 $locale['color_6'] = "بيج";
 $locale['color_7'] = "فخارى";
 $locale['color_8'] = "أسود";

@@ -2,30 +2,31 @@
 $locale['400'] = "معلومات الـPHP";
 //General
 $locale['401'] = "عام";
-$locale['402'] = "Server software";
-$locale['403'] = "Web-server software";
-$locale['404'] = "PHP version";
-$locale['405'] = "PHP interface";
-$locale['406'] = "MySQL Server version";
+$locale['402'] = "برنامج السرفر";
+$locale['403'] = "برنامج الوب سرفر";
+$locale['404'] = "إصدار PHP";
+$locale['405'] = "واجهة PHP";
+$locale['406'] = "إصدار سرفر MySQL";
 $locale['406a'] = "برنامج تشغيل قاعدة البيانات";
-$locale['407'] = "PHP-Fusion version";
-$locale['408'] = "Database prefix";
-$locale['409'] = "Cookie prefix";
-$locale['410'] = "Web-browser and OS";
+$locale['407'] = "إصدار PHP-Fusion";
+$locale['408'] = "سابقة الجداول";
+$locale['409'] = "سابقة الكوكيز";
+$locale['410'] = "المتصفح والنظام التشغيل";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
-$locale['420'] = "PHP settings";
-$locale['423'] = "Safe-mode";
-$locale['424'] = "RegisterGlobals";
-$locale['425'] = "Support for";
-$locale['426'] = "Files upload (max file size)";
-$locale['428'] = "Display errors";
-$locale['429'] = "Disabled functions";
-$locale['430'] = "n/a";
-$locale['431'] = "version";
+$locale['420'] = "إعدادات PHP";
+$locale['423'] = "وضع التشغيل الآمن";
+$locale['424'] = "Register Globals";
+$locale['425'] = "دعم";
+$locale['426'] = "أقصى حجم مسموح في الملف المرفوع";
+$locale['428'] = "عرض الأخطاء";
+$locale['429'] = "الدوال المعطلة";
+$locale['430'] = "غير متوفر";
+$locale['431'] = "الإصدار";
 //Write permission
-$locale['440'] = "Folder Permissions";
-$locale['441'] = "Writeable";
-$locale['442'] = "Not writeable";
+$locale['440'] = "تراخيص المجلدات";
+$locale['441'] = "قابل للكتابة";
+$locale['442'] = "غير قابل للكتابة";
 //PHPinfo
 $locale['450'] = "التفاصيل";
-$locale['451'] = "Unable to get data. Check if phpinfo() function is switched off?";
+$locale['451'] = "لم يمكن الحصول على البيانات. تحقق إن كانت دالة phpinfo() معطلة?";

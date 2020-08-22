@@ -1,8 +1,8 @@
 <?php
-$locale['err401'] = "Unauthorized access to this page";
-$locale['err403'] = "Access forbidden to this page";
-$locale['err404'] = "Sorry, this page isn't available on this server";
+$locale['err401'] = "وصول غير مصرح به لهذه الصفحة";
+$locale['err403'] = "الوصول ممنوع إلى هذه الصفحة";
+$locale['err404'] = "عذرًا ، هذه الصفحة غير متوفرة على هذا الخادم";
 $locale['err500'] = "خطأ داخلي في الخادم";
 $locale['errunk'] = "‏‏خطأ غير معروف";
-$locale['errmsg'] = "The link you followed may have expired, or the page may not be accessible to you.";
+$locale['errmsg'] = "ربما انتهت صلاحية الرابط الذي اتبعته ، أو قد لا تكون الصفحة متاحة لك.";
 $locale['errret'] = "العودة إلى الصفحة الرئيسية";

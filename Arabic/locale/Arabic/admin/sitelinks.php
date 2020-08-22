@@ -34,12 +34,12 @@ $locale['SL_0039'] = "تأكيد النقل";
 
 $locale['SL_0040'] = "حفظ الرابط";
 $locale['SL_0041'] = "الإعدادات";
-$locale['SL_0042'] = "Configure your site links navigation settings";
+$locale['SL_0042'] = "قم بتكوين إعدادات التنقل في موقعك";
 $locale['SL_0043'] = "Links per page";
 $locale['SL_0044'] = "Maximum site links show on the navigation bar";
 $locale['SL_0045'] = "Number of links";
-$locale['SL_0046'] = "Link Grouping";
-$locale['SL_0047'] = "Group links when amount of links exceeds links per page";
+$locale['SL_0046'] = "مجموعة الروابط";
+$locale['SL_0047'] = "تجميع الروابط عندما يتجاوز عدد الروابط الروابط في كل صفحة";
 $locale['SL_0048'] = "No, do not group the links";
 $locale['SL_0049'] = "Yes, group the links as \"Show more\"";
 
@@ -49,15 +49,15 @@ $locale['SL_0051'] = "الظاهر";
 $locale['SL_0052'] = "الترتيب";
 $locale['SL_0053'] = "الخيارات";
 
-$locale['SL_0062'] = "No Site Links have been defined.";
-$locale['SL_0063'] = "Use BBCode in Link Name?";
+$locale['SL_0062'] = "لم يتم إضافة رابط في الموقع.";
+$locale['SL_0063'] = "استخدام أكواد BB في الروابط؟";
 
 
 $locale['SL_0070'] = "الرمز";
 $locale['SL_0071'] = "نافذة جديدة؟";
 $locale['SL_0072'] = "القائمة";
 $locale['SL_0073'] = "اعادة ترتيب";
-$locale['SL_0074'] = "Move";
+$locale['SL_0074'] = "تحريك";
 $locale['SL_0075'] = "عرض الخيارات";
 
 // Delete Site Link category

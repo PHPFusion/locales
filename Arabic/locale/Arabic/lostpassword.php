@@ -9,9 +9,18 @@ $locale['406'] = "يرجى المحاولة مرة أخرى.";
 $locale['407'] = "الرجاء إدخال البريد الإلكتروني المسجل لدينا،<br/> سوف يتم إنشاء كلمة مرور جديدة وإرسالها إلي هذا العنوان.";
 $locale['408'] = "أرسل كلمة المرور";
 $locale['409'] = "كلمة المرور الجديدة لـ ";
-$locale['410'] = "Hello [USER_NAME],<br/>\r\nYou have or someone has requested a new password to access your [SITENAME] account.<br/>\r\n
-To change your password please click the following link:<br/>\r\n[NEW_PASS_LINK]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
-$locale['411'] = "Hello [USER_NAME],<br/>\r\nYour new password to access your [SITENAME] account is:<br/>\r\n
-[NEW_PASS]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+$locale['410'] = "مرحبا [USER_NAME],<br/>
+لقد طلبت أو طلب شخص ما كلمة مرور جديدة للوصول إلى [SITENAME] لحسابك.<br/>
+
+لتغيير كلمة مرورك ، يرجى الضغط على الرابط التالي:<br/>
+[NEW_PASS_LINK]<br/>
+تحياتنا,<br/>
+[SITEUSERNAME]";
+$locale['411'] = "مرحبا [USER_NAME],<br/>
+كلمة المرور الجديدة للوصول إلى حسابك في [SITENAME] هي:<br/>
+
+[NEW_PASS]<br/>
+تحياتنا,<br/>
+[SITEUSERNAME]";
 $locale['412'] = "هناك خطاً ما، يرجى المحاولة مرة أخرى.";
 $locale['413'] = "الرجاء إدخال بريدك الإلكتروني:";

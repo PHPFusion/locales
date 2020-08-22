@@ -4,7 +4,7 @@ $locale['ERROR_400'] = "سجل الأخطاء";
 $locale['ERROR_401'] = "إلقاء نظرة على الملف";
 // Errors table
 $locale['ERROR_410'] = "خطأ";
-$locale['ERROR_411'] = "فتح الصفحة";
+$locale['ERROR_411'] = "في الصفحة";
 $locale['ERROR_412'] = "مستخدم";
 $locale['ERROR_413'] = "التاريخ";
 $locale['ERROR_414'] = "الحالات";
