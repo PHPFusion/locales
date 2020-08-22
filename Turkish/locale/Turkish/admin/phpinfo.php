@@ -12,6 +12,7 @@ $locale['407'] = "PHP-Fusion Sürümü";
 $locale['408'] = "Veritabanı Öneki";
 $locale['409'] = "Çerez Öneki";
 $locale['410'] = "Web Tarayıcısı Ve İşletim Sistemi";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP Ayarları";
 $locale['423'] = "Safemode";

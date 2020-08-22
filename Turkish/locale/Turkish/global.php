@@ -469,6 +469,14 @@ $locale['about'] = "Hakkında";
 // User status
 $locale['online'] = "Çevrimiçi";
 $locale['offline'] = "Çevrimdışı";
+// Timer
+$locale['timer_year'] = "yıl|yıllar";
+$locale['timer_month'] = "ay|aylar";
+$locale['timer_day'] = "gün|günler";
+$locale['timer_hour'] = "saat|saatler";
+$locale['timer_minute'] = "dakika|dakikalar";
+$locale['timer_second'] = "saniye|saniyeler";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "gönderim|gönderimler";
 $locale['fmt_article'] = "makale|makaleler";
