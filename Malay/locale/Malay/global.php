@@ -65,7 +65,7 @@ $locale['user0'] = "Awam";
 $locale['user1'] = "Ahli";
 $locale['user2'] = "Admin";
 $locale['user3'] = "Super Admin";
-$locale['user_na'] = "N/A";
+$locale['user_na'] = "Tidak Berkenaan";
 $locale['user_guest'] = "Tetamu";
 $locale['user_anonymous'] = "User Diselaputi";
 $locale['genitive'] = "%s %s";
@@ -365,7 +365,7 @@ $locale['global_500'] = "Sila tunggu sementara anda diagihkan ke %s. Jika anda t
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
 $locale['global_601'] = "You must enter a correct validation code";
-$locale['recaptcha'] = "en";
+$locale['recaptcha'] = "ms";
 // Site links
 $locale['global_700'] = "Show More";
 //Miscellaneous
@@ -375,7 +375,7 @@ $locale['global_901'] = "Insert Media";
 $locale['global_ML100'] = "Bahasa:";
 $locale['global_ML101'] = "- Pilih Bahasa -";
 $locale['global_ML102'] = "Bahasa Halaman";
-$locale['global_ML103'] = "Switch Language";
+$locale['global_ML103'] = "Tukar Bahasa";
 // Flood Control
 $locale['flood'] = "Anda dilarang untuk membuat sebarang pos balasan dalam tempoh kawalan pos banjir tamat. Sila tunggu selama %s.";
 $locale['no_image'] = "Tiada Gambar";
@@ -504,6 +504,14 @@ $locale['about'] = "Pengenaian";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "tahun|tahun";
+$locale['timer_month'] = "bulan|bulan";
+$locale['timer_day'] = "hari|hari";
+$locale['timer_hour'] = "jam|jam";
+$locale['timer_minute'] = "minit|minit";
+$locale['timer_second'] = "saat|saat";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "serahan|serahan";
 $locale['fmt_article'] = "artikel|artikel";

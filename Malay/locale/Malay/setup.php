@@ -227,11 +227,11 @@ $locale['setup_3318'] = "Panel Blog Arkib";
 $locale['setup_3319'] = "Perbincangan Terkini";
 $locale['setup_3320'] = "Utusan disertai";
 $locale['setup_3321'] = "Utusan Tracked Threads";
-$locale['setup_3322'] = "Unanswered Threads";
-$locale['setup_3323'] = "Unsolved Questions";
+$locale['setup_3322'] = "Utusan belum dijawap";
+$locale['setup_3323'] = "Soalan belum diselesai";
 $locale['setup_3324'] = "Start a New Thread";
-$locale['setup_3325'] = "Latest Articles";
-$locale['setup_3326'] = "Latest Downloads";
+$locale['setup_3325'] = "Artikel Terkini";
+$locale['setup_3326'] = "Muat Turun Terkini";
 $locale['setup_3327'] = "Submit FAQ";
 // Stage 6 - Panels
 $locale['setup_3400'] = "Navigasi";

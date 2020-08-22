@@ -1,11 +1,11 @@
 <?php
-$locale['MEMB_000'] = "Members List";
+$locale['MEMB_000'] = "Senarai Ahli";
 $locale['MEMB_001'] = "Avatar";
 $locale['MEMB_002'] = "User Name";
 $locale['MEMB_003'] = "User groups";
 $locale['MEMB_004'] = "User Type";
 $locale['MEMB_005'] = "Search for member...";
-$locale['MEMB_006'] = "Search";
+$locale['MEMB_006'] = "Cari";
 $locale['MEMB_007'] = "Sort&nbsp;By";
 $locale['MEMB_008'] = "Last Active";
 $locale['MEMB_009'] = "Newly Registered";

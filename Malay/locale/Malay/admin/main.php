@@ -1,13 +1,13 @@
 <?php
 // Admin Links
 $locale['200'] = "Admin Panel [SITENAME]";
-$locale['200a'] = "Admin Panel";
+$locale['200a'] = "Panel Admin";
 $locale['ac00'] = "Halaman Utama Admin";
 $locale['ac01'] = "Kandungan";
 $locale['ac02'] = "Keahlian";
 $locale['ac03'] = "Sistem";
 $locale['ac04'] = "Pengaturan";
-$locale['ac05'] = "Infusions";
+$locale['ac05'] = "Modul Infusion";
 $locale['ac10'] = "Dashboard Admin";
 $locale['202'] = "Konfigurasi Profil Ahli";
 
@@ -22,7 +22,7 @@ $locale['D'] = "Muat Turun";
 $locale['FQ'] = "Soal Jawab";
 $locale['F'] = "Forum Perbincangan";
 $locale['IM'] = "Imej";
-$locale['I'] = "Infusions";
+$locale['I'] = "Modul Infusion";
 $locale['IP'] = "Panel";
 $locale['M'] = "Ahli";
 $locale['MI'] = "Sistem Migrasi";
@@ -111,7 +111,7 @@ $locale['279'] = "Serahan Terbaru";
 $locale['280'] = "Panel Kontrol Administrator";
 $locale['281'] = "Sila isikan Kata Laluan Admin anda";
 $locale['282'] = "Tukar Bahasa";
-$locale['283'] = "Infusions";
+$locale['283'] = "Modul Infusion";
 $locale['284'] = "Tiada infusions yang dipasang";
 $locale['285'] = "Manage Infusions";
 $locale['286'] = "Semak Sumbangan";

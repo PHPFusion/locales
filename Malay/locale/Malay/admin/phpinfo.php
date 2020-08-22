@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "Info PHP";
 //General
 $locale['401'] = "Am";
 $locale['402'] = "Perisian Server";
@@ -7,11 +7,12 @@ $locale['403'] = "Perisian Webserver";
 $locale['404'] = "Versi PHP";
 $locale['405'] = "Permantauan PHP";
 $locale['406'] = "Versi MySQL Server";
-$locale['406a'] = "Database Driver";
+$locale['406a'] = "Mengguna PDO?";
 $locale['407'] = "Versi PHP-Fusion";
 $locale['408'] = "Prefix Jadual";
 $locale['409'] = "Prefix Cookie";
 $locale['410'] = "Pelayar dan Perisian";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Pengaturan PHP";
 $locale['423'] = "Safemode";

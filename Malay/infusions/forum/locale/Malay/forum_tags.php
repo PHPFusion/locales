@@ -16,6 +16,6 @@ $locale['forum_tag_0203'] = "Bahasa Tag";
 $locale['forum_tag_0204'] = "Status Tag";
 $locale['forum_tag_0205'] = "Tak adalah aktif";
 $locale['forum_tag_0206'] = "Tag tidak aktif";
-$locale['forum_tag_0207'] = "Create Tag";
+$locale['forum_tag_0207'] = "Tambah Tag";
 $locale['forum_tag_0208'] = "Kemaskini Tag";
 $locale['forum_tag_0209'] = "No Forum Tag defined.";
