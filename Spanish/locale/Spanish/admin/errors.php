@@ -3,7 +3,7 @@
 $locale['ERROR_400'] = "Registro de Errores";
 $locale['ERROR_401'] = "Examinar el archivo";
 // Errors table
-$locale['ERROR_410'] = "Error";
+$locale['ERROR_410'] = "Erreur";
 $locale['ERROR_411'] = "En Página";
 $locale['ERROR_412'] = "Usuario";
 $locale['ERROR_413'] = "Fecha";

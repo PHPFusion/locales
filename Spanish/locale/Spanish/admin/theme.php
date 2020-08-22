@@ -119,7 +119,7 @@ $locale['theme_4015'] = "Estilo de texto horizontal";
 $locale['theme_4016'] = "Estilo de enlace";
 
 $locale['theme_5000'] = "Normal";
-$locale['theme_5001'] = "Bold";
+$locale['theme_5001'] = "Negrita";
 $locale['theme_5002'] = "Cursiva";
 $locale['theme_5003'] = "Subrayado";
 $locale['theme_5004'] = "Negrita y subrayada";

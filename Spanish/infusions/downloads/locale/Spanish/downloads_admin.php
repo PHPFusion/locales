@@ -1,5 +1,5 @@
 <?php
-$locale['download_604'] = "Width x Height";
+$locale['download_604'] = "Ancho x Alto";
 $locale['download_930'] = "Maximum size uploads:";
 $locale['download_931'] = "Maximum file size in bytes";
 $locale['download_932'] = "Allowed file types:";

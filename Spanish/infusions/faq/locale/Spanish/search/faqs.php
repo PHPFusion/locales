@@ -1,5 +1,5 @@
 <?php
-$locale['faqs.php'] = "FAQ";
+$locale['faqs.php'] = "Preguntas Frecuentes";
 $locale['fq400'] = "Preguntas Frecuentes";
 $locale['fq401'] = "Pregunta Frecuente";
 $locale['fq402'] = "Preguntas Frecuentes";

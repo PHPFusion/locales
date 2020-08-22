@@ -1,7 +1,7 @@
 <?php
 // Database Restore
 $locale['400'] = "Restauracíon de la Base de Datos";
-$locale['401'] = "Error";
+$locale['401'] = "Erreur";
 $locale['402'] = "El formato del archivo de copia de seguridad no es válido";
 $locale['403'] = "Cerrar";
 $locale['404'] = "Database Restore complete";

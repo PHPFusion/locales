@@ -7,11 +7,12 @@ $locale['403'] = "Software del Servidor Web";
 $locale['404'] = "Versión de PHP";
 $locale['405'] = "Interfaz de PHP";
 $locale['406'] = "Versión de MySQL";
-$locale['406a'] = "Database Driver";
+$locale['406a'] = "Controlador de base de datos";
 $locale['407'] = "Versión de PHP-Fusion";
 $locale['408'] = "Prefijo de la BD";
 $locale['409'] = "Prefijo de la Cookie";
 $locale['410'] = "Navegador y SO";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Configuración de PHP";
 $locale['423'] = "Safemode";
