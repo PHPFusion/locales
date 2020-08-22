@@ -28,7 +28,7 @@ $locale['SMLY_430'] = "Kod";
 $locale['SMLY_431'] = "Obraz";
 $locale['SMLY_432'] = "Tekst";
 $locale['SMLY_433'] = "Opcje";
-$locale['SMLY_435'] = "Inactive";
+$locale['SMLY_435'] = "Nieaktywny";
 $locale['SMLY_436'] = "Brak zdefiniowanych emotikon.";
 // Error Message
 $locale['SMLY_437'] = "Proszę wprowadzić kod emotikony";

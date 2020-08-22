@@ -3,7 +3,7 @@ $locale['BLS_000'] = "Czarna lista"; //406
 //Blacklist message
 $locale['BLS_010'] = "Nieprawidłowy adres e-mail lub adres IP.";
 $locale['BLS_011'] = "Dodawanie użytkowników do czarnej listy.";
-$locale['BLS_012'] = "User Modified blacklist.";
+$locale['BLS_012'] = "Zmodyfikowana przez użytkownika czarna lista.";
 $locale['BLS_013'] = "Usunięto użytkownika z czarnej listy"; //401
 $locale['BLS_014'] = "Czy na pewno chcesz usunąć tę pozycję?";
 $locale['BLS_015'] = "Czarna lista obecnie jest pusta."; //465

@@ -2,7 +2,7 @@
 // Panel Management
 $locale['400'] = "Panele";
 $locale['401'] = "Nazwa panelu";
-$locale['402'] = "Side";
+$locale['402'] = "Bok";
 $locale['403'] = "Kolejność";
 $locale['404'] = "Typ";
 $locale['405'] = "Dostęp";
@@ -48,7 +48,7 @@ $locale['453'] = "Nazwa pliku panelu:";
 $locale['454'] = "Zawartość panelu zostanie zignorowana, jeśli wybierzesz";
 $locale['455'] = "Treść panelu:";
 $locale['456'] = "Hasło administratora:";
-$locale['457'] = "Panel Side:";
+$locale['457'] = "Pozycja panelu:";
 $locale['458'] = "Dostęp panelu:";
 $locale['459'] = "Wyświetl panel na wszystkich podstronach";
 $locale['460'] = "Podgląd panelu";
@@ -84,7 +84,7 @@ $locale['489'] = "Usunięto panele.";
 $locale['600'] = "Interfejs zarządzania panelem";
 $locale['602'] = "Nieużywane panele";
 $locale['603'] = "Używane panele";
-$locale['604'] = "Panele";
+$locale['604'] = "panel|paneli";
 $locale['605'] = "Panel";
 $locale['606'] = "Zawartości witryny";
 $locale['607'] = "Plik";

@@ -1,6 +1,6 @@
 <?php
 $locale['forum_tag_0100'] = "Tagi forum";
-$locale['forum_tag_0101'] = "Tagi służą do organizowania twoich wątków i pomagają w mikroorganizacji twoich tematów dyskusyjnych.";
+$locale['forum_tag_0101'] = "Tagi są używane do organizowania wątków i pomagają Ci w mikroorganizacji tematów dyskusyjnych.";
 $locale['forum_tag_0102'] = "Bieżący tag forum";
 $locale['forum_tag_0103'] = "Utwórz tag";
 $locale['forum_tag_0104'] = "Edytuj tag";

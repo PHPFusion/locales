@@ -2,7 +2,7 @@
 $locale['error-DP001'] = "Brak postów do usunięcia.";
 $locale['error-MP000'] = "Przenieś posty - błąd";
 $locale['error-MP001'] = "Nowy wątek nie istnieje.";
-$locale['error-MP002'] = "Posty, które oznaczyłeś/aś do przeniesienia nie istnieją lub ktoś inny już je przeniósł.";
+$locale['error-MP002'] = "Posty, które oznaczyłeś(-aś) do przeniesienia nie istnieją lub ktoś inny już je przeniósł.";
 
 
 $locale['forum_0000'] = "Forum dyskusyjne";
@@ -278,7 +278,7 @@ $locale['forum_0627'] = "Ukryj edycję";
 $locale['forum_0628'] = "Zablokuj post";
 $locale['forum_0630'] = "Ankieta zostanie utworzona tylko po dodaniu wątku";
 $locale['forum_0640'] = "Scalony z";
-$locale['forum_0650'] = "Flood control nice message.";
+$locale['forum_0650'] = "Dobra wiadomość kontrola przepełnienia.";
 $locale['forum_0660'] = "Powiadomienie o odpowiedzi w wątku - {THREAD_SUBJECT}";
 $locale['forum_0661'] = "Witaj {USERNAME},
 została opublikowana odpowiedź na forum w wątku \"{THREAD_SUBJECT}\" który śledzisz na {SITENAME}. Aby zobaczyć odpowiedź, skorzystaj z następującego linku:

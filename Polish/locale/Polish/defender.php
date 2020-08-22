@@ -41,7 +41,7 @@ $locale['name_error'] = "Imię i Nazwisko nie mogą być takie same.";
 $locale['doc_type_error'] = "Typ dokumentu wymaga uwagi.";
 $locale['doc_series_error'] = "Seria dokumentu wymaga uwagi.";
 $locale['doc_number_error'] = "Numer dokumentu wymaga uwagi.";
-$locale['doc_authority_error'] = "Document authority requires attention.";
+$locale['doc_authority_error'] = "Autorytet dokumentu wymaga uwagi.";
 $locale['date_issue_error'] = "Data wydania dokumentu wymaga uwagi.";
 // Tokens
 $locale['token_error_title'] = "Błąd tokena";

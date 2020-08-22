@@ -130,8 +130,8 @@ $locale['fields_0601'] = "Istnieje %s pole/pól w tej kategorii";
 $locale['fields_0602'] = "Tego modułu nie można zainstalować. Brak informacji o kolumnie tabeli.";
 
 $locale['fields_0650'] = "Przenieś pola ";
-$locale['fields_0651'] = " Up a slot and Field ID [FIELD_ID] down a slot.";
-$locale['fields_0652'] = " Down a slot and Field ID [FIELD_ID] up a slot.";
+$locale['fields_0651'] = " Przenieś pozycję w górę i identyfikator pola [FIELD_ID] przenieś na dół.";
+$locale['fields_0652'] = " Przenieś pozycję w dół i identyfikator pola [FIELD_ID] przenieś w górę.";
 $locale['fields_0653'] = "Brak wyniku";
 $locale['fields_0654'] = "Usuń pole";
 $locale['fields_0655'] = "ID kategorii nie zostało znalezione. Proszę sprawdzić ponownie.";

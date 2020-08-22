@@ -2,8 +2,8 @@
 // Infusion Management
 $locale['400'] = "Wtyczki";
 $locale['401'] = "Aktywuj";
-$locale['402'] = "This item is currently infused";
-$locale['403'] = "This item cannot be infused";
+$locale['402'] = "Ten element jest już zainstalowany";
+$locale['403'] = "Nie można zainstalować tego elementu";
 $locale['404'] = "Aktywowane wtyczki";
 $locale['405'] = "Tytuł";
 $locale['406'] = "Wersja";

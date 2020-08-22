@@ -14,8 +14,8 @@ $locale['ME_411'] = 'Poziom użytkownika';
 $locale['ME_412'] = 'Adres e-mail';
 $locale['ME_413'] = ' Konto użytkownika';
 $locale['ME_414'] = 'Zaznacz wszystko';
-$locale['ME_415'] = 'Hidden';
-$locale['ME_416'] = 'Shown';
+$locale['ME_415'] = 'Ukryty';
+$locale['ME_416'] = 'Widoczny';
 
 // Core Fields Filter
 $locale['ME_420'] = 'Ukryty adres e-mail?';
@@ -28,8 +28,8 @@ $locale['ME_426'] = 'Strefa czasowa';
 $locale['ME_427'] = 'Status użytkownika';
 
 // Action Form
-$locale['ME_430'] = 'Error: Actions against selected users could not be completed';
-$locale['ME_431'] = 'The following users will be %s:';
+$locale['ME_430'] = 'Błąd: Akcje z wybranymi użytkownikami nie zostały ukończone';
+$locale['ME_431'] = 'Następujący użytkownicy będą %s:';
 $locale['ME_432'] = '%s został %s';
 $locale['ME_433'] = 'Proszę podać powód działania';
 $locale['ME_434'] = 'Powód';
@@ -53,7 +53,7 @@ $locale['ME_460'] = 'Brak użytkowników do dezaktywacji';
 $locale['ME_461'] = '%s został dezaktywowany';
 $locale['ME_462'] = 'Dezaktywuj nieaktywnych użytkowników';
 $locale['ME_463'] = 'Masz więcej niż 50 nieaktywnych użytkowników i będziesz musiał uruchomić proces dezaktywacji (%d) razy.';
-$locale['ME_464'] = '%d user(s) have not logged in for %d day(s) and have been marked as inactive. By deactivating these users they will have (%d) day(s) before they are %s.';
+$locale['ME_464'] = '%d użytkowników nie zalogowało się przez %d dni i zostali oznaczeni jako nieaktywni. Po dezaktywacji tych użytkowników będą mieć (%d) dni zanim będą %s.';
 $locale['ME_465'] = 'Pamiętaj, że niektórzy użytkownicy mogli przesłać treści do Twojej witryny, takie jak posty na forum, komentarze, zdjęcia itp. Zostaną one usunięte po usunięciu dezaktywowanych użytkowników.';
 $locale['ME_466'] = 'Zdecydowanie zaleca się zmianę akcji dezaktywacji na anonimizację zamiast usuwania, aby zapobiec utracie danych!';
 $locale['ME_467'] = "Ustaw system dezaktywacji na anonimizację.";

@@ -53,7 +53,7 @@ Jeśli chcesz otrzymać więcej informacji o tym zawieszeniu, skontaktuj się z 
 Pozdrawiamy,<br/>
 [SITEUSERNAME]";
 
-$locale['email_resend_subject'] = "Re-sent activation link - [SITENAME]";
+$locale['email_resend_subject'] = "Ponownie wysłany link aktywacyjny - [SITENAME]";
 $locale['email_resend_message'] = "Witaj [USER_NAME],<br/>
 
 Otrzymałeś ten e-mail, ponieważ nie aktywowałeś wiadomości e-mail na naszej stronie - [SITENAME].<br/>

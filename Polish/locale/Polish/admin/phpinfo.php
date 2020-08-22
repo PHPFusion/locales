@@ -12,6 +12,7 @@ $locale['407'] = "Wersja PHP-Fusion";
 $locale['408'] = "Prefiks bazy danych";
 $locale['409'] = "Prefiks cookie";
 $locale['410'] = "Przeglądarka internetowa i system operacyjny";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Ustawienia PHP";
 $locale['423'] = "Safe-mode";

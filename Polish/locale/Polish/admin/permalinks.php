@@ -5,7 +5,7 @@ $locale['PL_401'] = "Wyłączone bezpośrednie odnośniki";
 $locale['PL_401a'] = "Ustawienia bezpośrednich odnośników";
 
 // Common
-$locale['PL_402'] = "Rewrite Name";
+$locale['PL_402'] = "Przepisz nazwę";
 $locale['PL_403'] = "Opis";
 $locale['PL_404'] = "Opcje";
 $locale['PL_404a'] = "Włączone";
@@ -16,9 +16,9 @@ $locale['PL_404d'] = "Ponowna instalacja";
 $locale['PL_405'] = "Edytowanie bezpośrednich odnośników dla %s";
 $locale['PL_406'] = "Tagi";
 $locale['PL_407'] = "Opis";
-$locale['PL_408'] = "Types";
+$locale['PL_408'] = "Typy";
 $locale['PL_409'] = "Edycja wzoru";
-$locale['PL_410'] = "Permalink type %u:";
+$locale['PL_410'] = "Typ odnośnika %u:";
 $locale['PL_411'] = "Błąd";
 $locale['PL_412'] = "Sprawdź pliki bezpośredniego odnośnika %s!";
 $locale['PL_413'] = "Zapisz";
@@ -38,7 +38,7 @@ $locale['PL_426'] = "Pomyślnie wyłączono bezpośrednie odnośniki dla %s.";
 $locale['PL_429'] = "Sterownik bezpośredniego odnośnika dla %s";
 
 // Other
-$locale['PL_427'] = "No Permalinks are enabled.";
+$locale['PL_427'] = "Nie włączono bezpośrednich odnośników.";
 $locale['PL_428'] = "Bezpośrednie odnośniki";
 $locale['seo_htc_warning'] = "Pamiętaj, że jeśli zmienisz jakiekolwiek z tych ustawień, zawartość `. taccess` zostanie nadpisana i wszelkie zmiany dokonane wcześniej w tym pliku zostaną utracone.";
 $locale['rewrite_disabled'] = "Wygląda na to, że `mod_rewrite` nie jest włączony na Twoim serwerze. Włączenie linków SEF może uszkodzić twoją stronę. Skontaktuj się ze swoim dostawcą usług hostingowych, aby włączyć `mod_rewrite` na Twoim serwerze.";

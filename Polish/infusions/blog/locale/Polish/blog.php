@@ -16,6 +16,6 @@ $locale['testimonial_rank'] = "Na stronie udzielam się jako %s";
 $locale['testimonial_location'] = "i obecnie mieszkam w %s";
 $locale['testimonial_join'] = "Dołączyłem na stronę %s";
 $locale['testimonial_web'] = "Prowadzę również stronę pod adresem %s";
-$locale['testimonial_contact'] = "Jeśli chcesz się ze mną skontaktować, możesz mnie łapać na %s";
+$locale['testimonial_contact'] = "Jeśli potrzebujesz się ze mną skontaktować, możesz dotrzeć do mnie na %s";
 $locale['testimonial_email'] = "Możesz też do mnie pisać na mój adres e-mail %s";
 $locale['blog_archive'] = "%b %Y";

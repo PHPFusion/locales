@@ -119,10 +119,10 @@ $locale['286'] = "Przejrzyj zgłoszenie";
 $locale['290'] = "Istnieje automatyczny zapis tego wpisu, który jest bardziej aktualny niż wersja poniżej.";
 $locale['291'] = "Wyświetl autozapis";
 $locale['292'] = "Zapisane wersje";
-$locale['293'] = "Fill to Autosave";
+$locale['293'] = "Wypełnij, aby zapisać automatycznie";
 
 $locale['search_msg_100'] = 'Nieudana weryfikacja systemu';
-$locale['search_msg_101'] = 'Failed system security measures';
+$locale['search_msg_101'] = 'Środki bezpieczeństwa systemu zawiodły';
 $locale['search_msg_102'] = 'Nie udało się załadować stron';
 $locale['search_msg_103'] = 'Wyszukiwany ciąg jest zbyt krótki';
 $locale['search_msg_104'] = 'Nie znaleziono wyników';

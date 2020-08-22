@@ -1,17 +1,17 @@
 <?php
 $locale['400'] = "Ustawienia";
 $locale['401a'] = "Ustawienia hosta witryny";
-$locale['401b'] = "Konfiguracja adresu, portu i protokołów witryny.";
+$locale['401b'] = "Konfiguracja adresu URL, portu i protokołów witryny.";
 
 // Site Settings
-$locale['401'] = "Main";
+$locale['401'] = "Główne";
 $locale['402'] = "Nazwa strony";
-$locale['403'] = "Adres strony";
+$locale['403'] = "Adres URL";
 $locale['404'] = "Logo strony";
 $locale['404left'] = "Lewa";
 $locale['404center'] = "Centrum";
 $locale['404right'] = "Prawa";
-$locale['404XS'] = "Logo Position XS";
+$locale['404XS'] = "Pozycja loga XS (mobile)";
 $locale['404SM'] = "Pozycja loga SM (tablet)";
 $locale['404MD'] = "Pozycja loga MD (laptop)";
 $locale['404LG'] = "Pozycja loga LG (desktop)";
@@ -27,11 +27,11 @@ $locale['413'] = "Strona otwierająca witrynę:";
 $locale['414'] = "";
 $locale['415'] = "Pojedyncza kolumna";
 $locale['416'] = "Podwójna kolumna";
-$locale['417'] = "Site locale:";
+$locale['417'] = "Język witryny:";
 $locale['418'] = "Motyw witryny:";
 $locale['418a'] = "Motyw administracyjny witryny:";
 $locale['419'] = "Domyślna lokalizacja wyszukiwarki:";
-$locale['419a'] = "Entire Site";
+$locale['419a'] = "Cała witryna";
 $locale['420'] = "Wyklucz lewe panele:";
 $locale['421'] = "Wyklucz górne panele:";
 $locale['422'] = "Wyklucz dolne panele:";
@@ -41,7 +41,7 @@ $locale['425'] = "Adres witryny";
 $locale['426'] = "Protokół witryny:";
 $locale['427'] = "Host witryny:";
 $locale['428'] = "Przykład:";
-$locale['429'] = "Site Path:";
+$locale['429'] = "Ścieżka witryny:";
 $locale['430'] = "Port witryny:";
 $locale['430_error'] = "Nieprawidłowy numer portu witryny";
 $locale['430_desc'] = "Zostaw puste, jeżeli port to 80";
@@ -52,7 +52,7 @@ $locale['434'] = "mojfolder";
 $locale['435'] = "Wyklucz panele powyżej górnego:";
 $locale['436'] = "Wyklucz panele poniżej dolnego:";
 $locale['437'] = "Włącz Bootstrap";
-$locale['438'] = "Search Engine Friendly URL (SEF):";
+$locale['438'] = "URL przyjazny wyszukiwarkom (SEF):";
 $locale['439'] = "Normalizuj Friendly URL:";
 $locale['440'] = "Włącz tryb debugowania SEO:";
 $locale['441'] = "Włącz Entypo";
@@ -63,24 +63,24 @@ $locale['443c'] = "Wyklucz panele użytkownika 3";
 $locale['443d'] = "Wyklucz panele użytkownika 4";
 $locale['444'] = "Serwery domen";
 $locale['444a'] = "Konfiguracja wielu domen pojedynczej witryny.<br/><br/> Oddziel każdą domenę wierszem (\"enter\")";
-$locale['444b'] = "Registered Domain Names <br /> <i>You must write current domain read under Site Host when you enable this feature</i>.";
-$locale['445'] = "Invalid (test purposes)";
+$locale['444b'] = "Zarejestrowane nazwy domen <br /> <i>Po włączeniu tej funkcji musisz dopisać aktualną domenę odczytaną w obszarze Host witryny</i>.";
+$locale['445'] = "Nieprawidłowy (do celów testowych)";
 
 // Time & Date Settings
 $locale['450'] = "Czas i data";
 $locale['451'] = "Krótki format daty:";
 $locale['452'] = "Długi format daty:";
 $locale['453'] = "Format daty forum:";
-$locale['454'] = "Sub-header date format:";
+$locale['454'] = "Format daty w podnagłówku:";
 $locale['455'] = "-- Wybierz format --";
-$locale['456'] = "Guests offset";
-$locale['457'] = "News &amp; Articles date format:";
+$locale['456'] = "Strefa czasowa gości";
+$locale['457'] = "Format daty w aktualności i artykułach:";
 $locale['458'] = "Czas";
 $locale['459'] = "Serwer";
 $locale['460'] = "Ty";
 $locale['461'] = "Goście";
-$locale['462'] = "Server offset";
-$locale['463'] = "Set this so server time is GMT 0";
+$locale['462'] = "Strefa czasowa serwera";
+$locale['463'] = "Ustaw ten element, aby określić czas serwera jako GMT 0";
 $locale['464'] = "Domyślna strefa czasowa";
 $locale['465'] = "Pierwszy dzień tygodnia";
 $locale['466'] = "Domyślny dla nowych użytkowników";
@@ -104,24 +104,24 @@ $locale['606'] = "Metoda kompresji miniatury";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Tryb programowania";
-$locale['610'] = "Update checker";
+$locale['610'] = "Menadżer aktualizacji";
 
-$locale['649'] = "Prohibited user names:";
-$locale['650'] = "Miscellaneous";
+$locale['649'] = "Zabronione nazwy użytkowników:";
+$locale['650'] = "Pozostałe";
 $locale['651'] = "Lista przekleństw:";
 $locale['652'] = "Wprowadzaj każde słowo w osobnej linii.";
 $locale['653'] = "Pozostaw puste, jeśli nie jest wymagane.";
 $locale['654'] = "Zastępowanie przekleństw:";
 $locale['655'] = "Zezwolić gościom na publikowanie postów?";
 $locale['656'] = "Włączyć awatary przy komentarzach?";
-$locale['656a'] = "Enable Jquery comments?";
-$locale['656b'] = "Please set to high number comments per page if turn on Jquery for best view";
+$locale['656a'] = "Włączyć komentarze jQuery?";
+$locale['656b'] = "Jeśli włączysz jQuery, ustaw wysoką liczbę komentarzy na stronie dla najlepszego wyświetlania";
 
 $locale['657'] = "Tryb konserwacji:";
 $locale['658'] = "Komunikat trybu konserwacji:";
 $locale['659'] = "Włączyć filtr przekleństw?";
 $locale['660'] = "Interwał zbyt dużej aktywności (w sekundach):";
-$locale['661'] = "Leave empty for immediate upload/download of backups.";
+$locale['661'] = "Pozostaw puste, aby natychmiast przesłać/pobrać kopie zapasowe.";
 $locale['662'] = "Edytor TinyMCE";
 $locale['663'] = "Tylko dla administracji dodatkowych stron, artykułów, wpisów na blogu i aktualności.";
 $locale['664'] = "Host SMTP";
@@ -174,20 +174,20 @@ $locale['690'] = "Tak (tylko administratorzy)";
 $locale['691'] = "Zezwalaj użytkownikom na zmianę nazwy użytkownika";
 $locale['692'] = "Ustawienia Captcha";
 $locale['693'] = "Captcha";
-$locale['694'] = "Allow PHP Execution";
-$locale['695'] = "WARNING! Allowing PHP execution will open the system to SQL vulnerabilities.";
+$locale['694'] = "Zezwól na wykonanie PHP";
+$locale['695'] = "UWAGA! Zezwalanie wykonania PHP otworzy system do wrażliwości SQL.";
 $locale['696'] = "Proszę wprowadzić swój publiczny i prywatny klucz reCAPTCHA!";
 
 $locale['913'] = "Liczba komentarzy na stronę";
 
-$locale['955'] = "Original";
-$locale['956'] = "Square";
+$locale['955'] = "Oryginalny";
+$locale['956'] = "Kwadrat";
 
 $locale['698'] = "Uwierzytelnianie SMTP?";
 $locale['699'] = "Metoda logowania";
 $locale['699b'] = "Obie";
 $locale['699e'] = "Adres e-mail";
-$locale['699f'] = "Check uploaded files for MIME type?";
+$locale['699f'] = "Sprawdzić przesłane pliki dla typu MIME?";
 
 // Private Message Settings
 $locale['700'] = "Prywatne wiadomości";
@@ -208,7 +208,7 @@ $locale['714'] = "Usuń wiadomości";
 $locale['750'] = "Zapisz ustawienia";
 
 // Other Settings
-$locale['800'] = "Prune forums";
+$locale['800'] = "Wyczyść fora";
 $locale['801'] = "Usunięto posty: ";
 $locale['802'] = "Usunięto wątki: ";
 $locale['803'] = "Usunięto załączniki: ";
@@ -232,10 +232,10 @@ $locale['902'] = "Host witryny nie może pozostać pusty!";
 // User Management
 $locale['1001'] = "Współczynnik awatara:";
 $locale['1002'] = "Włączono system dezaktywacji";
-$locale['1003'] = "Allowed period on inactivity:";
+$locale['1003'] = "Dozwolony okres braku aktywności:";
 $locale['1004'] = "Liczba dni bez aktywności przed rozpoczęciem dezaktywacji.";
 $locale['1005'] = "Odpowiedź przed akcją dezaktywacji:";
-$locale['1006'] = "Number of days to respond to deactivation notification email.";
+$locale['1006'] = "Liczba dni na odpowiedź na wiadomość e-mail z powiadomieniem o dezaktywacji.";
 $locale['1007'] = "Ustawienia profilu użytkownika";
 $locale['1008'] = "Wymiary awatara:";
 $locale['1009'] = "Szerokość x Wysokość";
@@ -252,8 +252,8 @@ $locale['1020'] = [1 => 'Bajty (bajty)', 1024 => 'KB (Kilobajty)', 1048576 => 'M
 
 // Social integration
 $locale['1030'] = "Utwórz meta tagi OpenGraph dla sieci społecznościowych";
-$locale['1031'] = "Allow index URLs in BB Codes";
-$locale['1032'] = "Allow index URLs in user profiles";
+$locale['1031'] = "Zezwalaj na indeksowanie adresów URL w kodach BB";
+$locale['1032'] = "Zezwalaj na indeksowanie adresów URL w profilach użytkowników";
 
 $locale['error_rate'] = "Proszę wybrać ocenę.";
 $locale['error_type'] = "Proszę wprowadzić typ rozszerzenia.";
@@ -262,7 +262,7 @@ $locale['error_height'] = "Proszę wprowadzić wysokość.";
 $locale['error_value'] = "Proszę wprowadzić wartość.";
 $locale['blog_description'] = "Ustawienia konfiguracyjne dla systemu wpisów na blogu";
 $locale['news_description'] = "Ustawienia konfiguracyjne dla systemu aktualności";
-$locale['ipp_description'] = "The configuration settings for default numbers of results items to be listed";
+$locale['ipp_description'] = "Ustawienia konfiguracji dla domyślnej liczby pozycji w wyświetlanych wynikach";
 $locale['forum_description'] = "Ustawienia konfiguracyjne dla systemu forum";
 $locale['download_description'] = "Ustawienia konfiguracyjne do systemu plików";
 $locale['language_description'] = "Ustawienia konfiguracyjne dla domyślnego systemu wielojęzycznego";
@@ -292,7 +292,7 @@ $locale['theme_settings'] = "Ustawienia motywu";
 
 // Security Settings
 $locale['security_001'] = "Sesje systemu";
-$locale['security_002'] = "Configuration to the website sessions";
+$locale['security_002'] = "Konfiguracja sesji witryny";
 $locale['security_003'] = "Typ sesji";
 $locale['security_004'] = "System bazy danych";
 $locale['security_005'] = "System plików";
@@ -301,7 +301,7 @@ $locale['security_007'] = "Pomyślnie wyczyszczono wszystkie sesje systemowe";
 $locale['security_008'] = "Forma tokenów";
 $locale['security_009'] = "Liczba wydanych tokenów dla każdego formularza";
 $locale['security_010'] = "Fusion GateWay";
-$locale['security_011'] = "GateWay Method";
+$locale['security_011'] = "Metoda GateWay";
 $locale['security_012'] = "Słowa";
 $locale['security_013'] = "Liczby";
 $locale['security_014'] = "Obie";
