@@ -504,6 +504,14 @@ $locale['about'] = "Относно";
 // User status
 $locale['online'] = "На линия";
 $locale['offline'] = "Извън линия";
+// Timer
+$locale['timer_year'] = "година|години";
+$locale['timer_month'] = "месец|месеци";
+$locale['timer_day'] = "ден|дни";
+$locale['timer_hour'] = "час|часове";
+$locale['timer_minute'] = "минута|минути";
+$locale['timer_second'] = "секунда|секунди";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "публикация|публикации";
 $locale['fmt_article'] = "статия|статии";

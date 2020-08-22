@@ -12,6 +12,7 @@ $locale['407'] = "PHP-Fusion версия";
 $locale['408'] = "Представка на базата данни";
 $locale['409'] = "Представка на бисквитките";
 $locale['410'] = "Браузър и ОС";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Настройки на PHP";
 $locale['423'] = "Safemode";

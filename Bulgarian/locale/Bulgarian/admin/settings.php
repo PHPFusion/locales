@@ -307,5 +307,5 @@ $locale['security_010'] = "Fusion GateWay";
 $locale['security_011'] = "GateWay Method";
 $locale['security_012'] = "Words";
 $locale['security_013'] = "Numbers";
-$locale['security_014'] = "Both";
+$locale['security_014'] = "И двете";
 include_once __DIR__.'/../../../includes/dateformats.php';
