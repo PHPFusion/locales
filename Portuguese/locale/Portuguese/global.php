@@ -490,6 +490,14 @@ $locale['about'] = "Sobre";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "ano | anos";
+$locale['timer_month'] = "mês|meses";
+$locale['timer_day'] = "dia|dias";
+$locale['timer_hour'] = "hora|horas";
+$locale['timer_minute'] = "minuto|minutos";
+$locale['timer_second'] = "segundo|segundos";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "submissão|submissões";
 $locale['fmt_article'] = "artigo|artigos";
