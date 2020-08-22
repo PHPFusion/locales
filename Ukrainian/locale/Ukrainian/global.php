@@ -523,6 +523,14 @@ $locale['about'] = "Опис";
 // User status
 $locale['online'] = "В мережі";
 $locale['offline'] = "Не в мережі";
+// Timer
+$locale['timer_year'] = "рік|роки|років";
+$locale['timer_month'] = "місяць|місяця|місяців";
+$locale['timer_day'] = "день|дня|днів";
+$locale['timer_hour'] = "година|години|годин";
+$locale['timer_minute'] = "хвилина|хвилини|хвилин";
+$locale['timer_second'] = "секунда|секунди|секунд";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "ухвалення|ухвалення|ухвалень";
 $locale['fmt_article'] = "стаття|статті|статей";

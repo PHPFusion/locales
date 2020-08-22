@@ -7,11 +7,12 @@ $locale['403'] = "Веб-сервер";
 $locale['404'] = "Версія PHP";
 $locale['405'] = "Інтерфейс PHP";
 $locale['406'] = "Версія MySQL";
-$locale['406a'] = "Database Driver";
+$locale['406a'] = "Драйвер бази даних";
 $locale['407'] = "Версія PHP-Fusion";
 $locale['408'] = "Префікс бази даних PHP-Fusion";
 $locale['409'] = "Префікс файлів cookie PHP-Fusion";
 $locale['410'] = "Переглядач та ОС";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Параметри PHP";
 $locale['423'] = "Безпечний режим";

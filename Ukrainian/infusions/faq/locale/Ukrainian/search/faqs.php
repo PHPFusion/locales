@@ -1,5 +1,5 @@
 <?php
-$locale['faqs.php'] = "FAQ";
+$locale['faqs.php'] = "ЧАП";
 $locale['fq400'] = "ЧАП";
 $locale['fq401'] = "ЧАП";
 $locale['fq402'] = "ЧАП";
