@@ -25,10 +25,10 @@ $locale['SMLY_423'] = "Save Smiley";
 $locale['SMLY_424'] = "Update Smiley";
 // Current Smileys
 $locale['SMLY_430'] = "Code";
-$locale['SMLY_431'] = "Image";
-$locale['SMLY_432'] = "Text";
-$locale['SMLY_433'] = "Options";
-$locale['SMLY_435'] = "Inactive";
+$locale['SMLY_431'] = "Immagine";
+$locale['SMLY_432'] = "Testo";
+$locale['SMLY_433'] = "Opzioni";
+$locale['SMLY_435'] = "Inattivo";
 $locale['SMLY_436'] = "There are no smileys defined.";
 // Error Message
 $locale['SMLY_437'] = "Please enter a Smiley Code";

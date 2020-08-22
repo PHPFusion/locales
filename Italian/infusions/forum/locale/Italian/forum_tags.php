@@ -1,5 +1,5 @@
 <?php
-$locale['forum_tag_0100'] = "Forum Tags";
+$locale['forum_tag_0100'] = "Impostazioni del Forum";
 $locale['forum_tag_0101'] = "Tags are used to organize your threads, and assist you in micro-organisation of your discussion topics.";
 $locale['forum_tag_0102'] = "Current Forum Tag";
 $locale['forum_tag_0103'] = "Create Tag";

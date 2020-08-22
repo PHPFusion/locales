@@ -249,7 +249,7 @@ $locale['forum_0591'] = "Svuotare Post";
 $locale['forum_0592'] = "Svuotare Threads";
 $locale['forum_0593'] = "Svuotare allegati";
 $locale['forum_0595'] = "Svuotare sondaggio";
-$locale['forum_0596'] = "Question";
+$locale['forum_0596'] = "Domande Frequenti";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Messaggio";

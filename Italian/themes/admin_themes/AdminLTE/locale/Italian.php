@@ -1,7 +1,7 @@
 <?php
 $locale['ALT_001'] = 'You have';
-$locale['ALT_002'] = 'There are no messages';
-$locale['ALT_003'] = 'New Message';
+$locale['ALT_002'] = 'Non sono presenti messaggi';
+$locale['ALT_003'] = 'Scrivi nuovo messaggio';
 $locale['ALT_004'] = 'Member since';
 $locale['ALT_005'] = 'Search...';
 $locale['ALT_006'] = 'Created by';

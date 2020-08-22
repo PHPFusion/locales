@@ -56,7 +56,7 @@ $locale['gallery_0107'] = "Use the following form to submit a Photo. Your submis
 <br/>should be applicable to the content of this site. Submissions deemed unsuitable will be rejected.";
 $locale['gallery_0111'] = "Invia foto";
 $locale['gallery_0112'] = "Spiacente, al momento non accettiamo qualsiasi invio di foto su questo sito.";
-$locale['gallery_0113'] = "Return to [SITENAME]";
+$locale['gallery_0113'] = "Ritorna a [SITENAME]";
 $locale['gallery_0150'] = "Non ci sono attualmente nessun invio di foto";
 $locale['gallery_0151'] = "Non ci sono attualmente %s in attesa per la tua recensione.";
 $locale['gallery_0152'] = "Titolo di presentazione di foto per la revisione";
@@ -87,7 +87,7 @@ $locale['gallery_0214'] = "Abilita foto filigrana?";
 $locale['gallery_0215'] = "Salvataggio generate filigrane?";
 $locale['gallery_0216'] = "Salva impostazioni Galleria";
 $locale['gallery_0217'] = "Allowed file types:";
-$locale['gallery_0218'] = "Main Settings";
+$locale['gallery_0218'] = "Impostazioni principale";
 $locale['gallery_0219'] = "Configuration for Gallery System";
 $locale['gallery_0220'] = "Photo Settings";
 $locale['gallery_0221'] = "Configuration for Gallery Photos";

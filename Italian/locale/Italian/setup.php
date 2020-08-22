@@ -82,7 +82,7 @@ $locale['setup_1019'] = "Uscita Installer";
 $locale['setup_1020'] = ".htaccess file created/updated";
 // Step 2
 $locale['setup_1090'] = "Files";
-$locale['setup_1091'] = "Status";
+$locale['setup_1091'] = "Stato";
 $locale['setup_1092'] = "Database Configurations and Driver";
 $locale['setup_1106'] = "File struttura diagnostica";
 // Step 3 - Access criteria
@@ -212,7 +212,7 @@ $locale['setup_3302'] = "Downloads";
 $locale['setup_3303'] = "FAQ";
 $locale['setup_3304'] = "Discussioni Forum";
 $locale['setup_3305'] = "Contattami";
-$locale['setup_3307'] = "Web Links";
+$locale['setup_3307'] = "WebLinks";
 $locale['setup_3308'] = "Album fotografico";
 $locale['setup_3309'] = "Ricerca";
 $locale['setup_3310'] = "Proponi un sito";
@@ -230,8 +230,8 @@ $locale['setup_3321'] = "Discussioni registrate";
 $locale['setup_3322'] = "Discussioni senza risposta";
 $locale['setup_3323'] = "Quesiti irrisolti";
 $locale['setup_3324'] = "Avviare una nuova discussione";
-$locale['setup_3325'] = "Latest Articles";
-$locale['setup_3326'] = "Latest Downloads";
+$locale['setup_3325'] = "Ultimi articoli";
+$locale['setup_3326'] = "Download più recenti";
 $locale['setup_3327'] = "Submit FAQ";
 // Stage 6 - Panels
 $locale['setup_3400'] = "Navigazione";
