@@ -482,7 +482,7 @@ $locale['timer_day'] = "nap|napok";
 $locale['timer_hour'] = "óra|órák";
 $locale['timer_minute'] = "perc|percek";
 $locale['timer_second'] = "másodperc|másodpercek";
-$locale['timer'] = "[DAYS] [AGO]";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "beküldés|beküldés";
 $locale['fmt_article'] = "cikkek|cikkek";
