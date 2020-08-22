@@ -113,7 +113,7 @@ $locale['652'] = "Geef &eacute;&eacute;n woord per regel.";
 $locale['653'] = "Leeg laten indien niet gewenst.";
 $locale['654'] = "Vervanging schuttingwoorden:";
 $locale['655'] = "Gasten toestaan berichten te plaatsen?";
-$locale['656'] = "Avatar commentaren aanzetten?";
+$locale['656'] = "Avatar reacties aanzetten?";
 $locale['656a'] = "Jquery opmerkingen toestaan?";
 $locale['656b'] = "Stel een hoog aantal opmerkingen per pagina in als Jquery wordt ingeschakeld voor het beste overzicht";
 
@@ -168,7 +168,7 @@ $locale['684'] = "Reacties sorteren";
 $locale['685'] = "Oplopend";
 $locale['686'] = "Aflopend";
 $locale['687'] = "Ongewenste Woorden";
-$locale['688'] = "Verwerkings tijd laten zien (in footer)?";
+$locale['688'] = "Verwerkingstijd laten zien (in footer)?";
 $locale['689'] = "Ja (voor alle bezoekers)";
 $locale['690'] = "Ja (alleen voor admins)";
 $locale['691'] = "Gebruikers mogen gebruikersnaam veranderen";
@@ -178,7 +178,7 @@ $locale['694'] = "PHP-scripts toestaan";
 $locale['695'] = "WAARSCHUWING! Het toestaan van PHP scripts stelt het systeem open voor SQL kwetsbaarheden.";
 $locale['696'] = "Geef uw publieke en priv&eacute; reCAPTCHA sleutel!";
 
-$locale['913'] = "Commentaren per pagina";
+$locale['913'] = "Reacties per pagina";
 
 $locale['955'] = "Origineel";
 $locale['956'] = "Vierkant";
@@ -268,7 +268,7 @@ $locale['download_description'] = "De configuratie instellingen voor het downloa
 $locale['language_description'] = "De configuratie-instellingen voor het standaard meertalige systeem";
 $locale['photo_description'] = "De instellingen voor de configuratie voor het standaard fotogalerij systeem";
 $locale['main_description'] = "De configuratie-instellingen voor het basissysteem";
-$locale['misc_description'] = "De configuratie-instellingen voor E-mail, authenticatiemethode, opmerkingen, Waarderingen, Avatars, Sociale Grafieken en andere Beheerders opties";
+$locale['misc_description'] = "De configuratie-instellingen voor E-mail, authenticatiemethode, reacties, Waarderingen, Avatars, Sociale Grafieken en andere Beheerders opties";
 $locale['message_description'] = "De configuratie-instellingen voor priv&eacute;berichten-systeem";
 $locale['register_description'] = "De configuratie-instellingen voor het registratiesysteem";
 $locale['security_description'] = "De instellingen voor de configuratie van het beveiligingssysteem";

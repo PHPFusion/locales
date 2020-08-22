@@ -123,7 +123,7 @@ $locale['global_045'] = "X bekeken";
 $locale['global_046'] = "Antwoorden";
 $locale['global_047'] = "Laatste bericht";
 $locale['global_048'] = "Forum";
-$locale['global_049'] = "Gepost";
+$locale['global_049'] = "Geplaatst";
 $locale['global_050'] = "Auteur";
 $locale['global_051'] = "Enquête";
 $locale['global_052'] = "Verplaatst";
@@ -136,7 +136,7 @@ $locale['global_058'] = "Stop";
 $locale['global_059'] = "U volgt geen enkel onderwerp.";
 $locale['global_060'] = "Stop met volgen van dit onderwerp?";
 // Blog, News & Articles
-$locale['global_070'] = "Gepost door ";
+$locale['global_070'] = "Geplaatst door ";
 $locale['global_070b'] = "Toon alles gepost door %s";
 $locale['global_071'] = "op ";
 $locale['global_071b'] = "Auteur";
@@ -355,7 +355,7 @@ $locale['global_ML101'] = "- Selecteer Taal -";
 $locale['global_ML102'] = "Site taal";
 $locale['global_ML103'] = "Kies taal";
 // Flood Control
-$locale['flood'] = "U mag niet meer posten totdat de Flood periode voorbij is. Wacht a.u.b. %s.";
+$locale['flood'] = "U mag niet meer berichten plaatsen totdat de Flood periode voorbij is. Wacht a.u.b. %s.";
 $locale['no_image'] = "Geen afbeelding";
 $locale['send_message'] = "Bericht sturen";
 $locale['go_profile'] = "Ga naar %s Profiel pagina";
@@ -482,6 +482,14 @@ $locale['about'] = "Over";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "jaar|jaren";
+$locale['timer_month'] = "maand|maanden";
+$locale['timer_day'] = "dag|dagen";
+$locale['timer_hour'] = "uur|uren";
+$locale['timer_minute'] = "minuut|minuten";
+$locale['timer_second'] = "seconde|seconden";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "inzending|inzendingen";
 $locale['fmt_article'] = "artikel|artikelen";
@@ -502,7 +510,7 @@ $locale['fmt_minute'] = "minuut|minuten";
 $locale['fmt_month'] = "maand|maanden";
 $locale['fmt_news'] = "nieuws|nieuws";
 $locale['fmt_photo'] = "foto|foto's";
-$locale['fmt_post'] = "post|posts";
+$locale['fmt_post'] = "bericht|berichten";
 $locale['fmt_question'] = "vraag|vragen";
 $locale['fmt_read'] = "gelezen|gelezen";
 $locale['fmt_second'] = "seconde|seconden";
