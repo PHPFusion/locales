@@ -235,8 +235,8 @@ $locale['UM100'] = "PM Archive:";
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
-$locale['global_150'] = "Validation Code:";
-$locale['global_151'] = "Enter Validation Code:";
+$locale['global_150'] = "Code de validation :";
+$locale['global_151'] = "Entrez le code de validation :";
 // Footer Counter
 $locale['global_170'] = "unique visit";
 $locale['global_171'] = "unique visits";
@@ -344,7 +344,7 @@ $locale['global_ML103'] = "Switch Language";
 // Flood Control
 $locale['flood'] = "You are barred to post until the flood period cooldown is over. Please wait for %s.";
 $locale['no_image'] = "No Image";
-$locale['send_message'] = "Send Message";
+$locale['send_message'] = "Envoyer le message";
 $locale['go_profile'] = "Go to %s Profile Page";
 // Global one word locales
 $locale['hello'] = "Hello!";
@@ -416,7 +416,7 @@ $locale['it'] = "It";
 $locale['order'] = "Order";
 $locale['sort'] = "Sort";
 $locale['id'] = "ID";
-$locale['title'] = "Title";
+$locale['title'] = "Titre";
 $locale['rights'] = "Rights";
 $locale['info'] = "Info";
 $locale['image'] = "Image";
@@ -461,7 +461,7 @@ $locale['left'] = "Left";
 $locale['center'] = "Center";
 $locale['right'] = "Right";
 // Comments and ratings
-$locale['comments'] = "Comments";
+$locale['comments'] = "Commentaires";
 $locale['ratings'] = "Ratings";
 $locale['comments_ratings'] = "Comments and Ratings";
 $locale['user_account'] = "User Account";
@@ -469,6 +469,14 @@ $locale['about'] = "About";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "year|years";
+$locale['timer_month'] = "month|months";
+$locale['timer_day'] = "day|days";
+$locale['timer_hour'] = "hour|hours";
+$locale['timer_minute'] = "minute|minutes";
+$locale['timer_second'] = "second|seconds";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "submission|submissions";
 $locale['fmt_article'] = "article|articles";

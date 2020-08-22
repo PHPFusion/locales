@@ -5,7 +5,7 @@ $locale['401b'] = "The configuration for your site url, site port and site proto
 
 // Site Settings
 $locale['401'] = "Main";
-$locale['402'] = "Site name";
+$locale['402'] = "Nom du site";
 $locale['403'] = "Site URL";
 $locale['404'] = "Site Logo";
 $locale['404left'] = "Left";
@@ -92,7 +92,7 @@ $locale['552'] = "Use email verification for registration?";
 $locale['553'] = "Display validation code?";
 $locale['557'] = "New members activated by admin?";
 $locale['558'] = "Enable terms of agreement?";
-$locale['559'] = "Terms of Agreement";
+$locale['559'] = "Conditions Générales d'Utilisation";
 
 // Other Settings
 $locale['601'] = "Thumb size:";
@@ -140,12 +140,12 @@ $locale['675ML'] = "News";
 $locale['676ML'] = "Photo gallery";
 $locale['677ML'] = "Polls";
 $locale['678ML'] = "Shoutbox";
-$locale['679ML'] = "Weblinks";
+$locale['679ML'] = "Liens Internet";
 $locale['680ML'] = "Site links";
 $locale['681ML'] = "Panels";
 $locale['682ML'] = "Language Settings";
 $locale['683ML'] = "Enable Multilingual System";
-$locale['684ML'] = "Enabled Languages";
+$locale['684ML'] = "Langues activées";
 $locale['685ML'] = "Selection of allowed languages.<br/>PLEASE NOTE: By removing a language you also remove all customized site links, categories and any other multilingual content for the specific language from the system.";
 $locale['669'] = "News";
 $locale['669b'] = "Blog items per page";
@@ -218,8 +218,8 @@ $locale['820'] = "Privacy Policy";
 
 // Banners Settings
 $locale['850'] = "Banners";
-$locale['851'] = "Banner 1";
-$locale['852'] = "Banner 2";
+$locale['851'] = "Bannière 1";
+$locale['852'] = "Bannière 2";
 $locale['853'] = "Admin Password:";
 $locale['854'] = "Save Banners";
 $locale['855'] = "Preview Banners";
@@ -248,7 +248,7 @@ $locale['1014a'] = "Disable for better security";
 $locale['1015'] = "Width";
 $locale['1016'] = "Height";
 
-$locale['1020'] = [1 => 'Bytes (bytes)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
+$locale['1020'] = [1 => 'Octets (octets)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Create OpenGraph meta tags for Social networks";

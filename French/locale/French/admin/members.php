@@ -1,58 +1,58 @@
 <?php
-$locale['ME_400'] = 'User Management';
-$locale['ME_401'] = 'Search User...';
-$locale['ME_402'] = 'Display Filters';
-$locale['ME_403'] = 'Add a new User';
-$locale['ME_404'] = 'Apply Filter';
-$locale['ME_405'] = 'There are no user found under the search criteria';
+$locale['ME_400'] = 'Gestion des utilisateurs';
+$locale['ME_401'] = 'Rechercher un utilisateur...';
+$locale['ME_402'] = 'Afficher les filtres';
+$locale['ME_403'] = 'Ajouter un Nouvel Utilisateur';
+$locale['ME_404'] = 'Appliquer Filtre';
+$locale['ME_405'] = 'Il n\'y a aucun utilisateur trouvé dans les critères de recherche';
 //
-$locale['ME_407'] = 'Displaying %s - %d of %d records found';
-$locale['ME_408'] = 'Basic Information';
-$locale['ME_409'] = 'Detailed Information';
-$locale['ME_410'] = 'User';
-$locale['ME_411'] = 'User Level';
-$locale['ME_412'] = 'Email Address';
-$locale['ME_413'] = ' User Account';
-$locale['ME_414'] = 'Select All';
-$locale['ME_415'] = 'Hidden';
-$locale['ME_416'] = 'Shown';
+$locale['ME_407'] = 'Affichage de %s - %d sur %d enregistrements trouvés';
+$locale['ME_408'] = 'Informations générales';
+$locale['ME_409'] = 'Informations détaillées';
+$locale['ME_410'] = 'Utilisateur';
+$locale['ME_411'] = 'Niveau de l\'utilisateur';
+$locale['ME_412'] = 'Adresse email';
+$locale['ME_413'] = ' Compte-utilisateur';
+$locale['ME_414'] = 'Sélectionner tout';
+$locale['ME_415'] = 'Caché';
+$locale['ME_416'] = 'Montré';
 
 // Core Fields Filter
-$locale['ME_420'] = 'Email Hidden?';
-$locale['ME_421'] = 'Joined Date';
-$locale['ME_422'] = 'Last Login';
-$locale['ME_423'] = 'IP Address';
-$locale['ME_424'] = 'IP Type';
-$locale['ME_425'] = 'User Groups';
-$locale['ME_426'] = 'Timezone';
-$locale['ME_427'] = 'User Status';
+$locale['ME_420'] = 'Cacher l\'email ?';
+$locale['ME_421'] = 'Membre depuis';
+$locale['ME_422'] = 'Dernière connexion le';
+$locale['ME_423'] = 'Adresse IP';
+$locale['ME_424'] = 'Type d\'IP';
+$locale['ME_425'] = 'Groupes d\'utilisateur';
+$locale['ME_426'] = 'Fuseau horaire';
+$locale['ME_427'] = 'Statut d\'utilisateur';
 
 // Action Form
-$locale['ME_430'] = 'Error: Actions against selected users could not be completed';
-$locale['ME_431'] = 'The following users will be %s:';
-$locale['ME_432'] = '%s has been %s';
-$locale['ME_433'] = 'Please specify a reason for the action';
-$locale['ME_434'] = 'Reason';
-$locale['ME_435'] = 'Duration';
-$locale['ME_436'] = 'Days';
-$locale['ME_437'] = 'Update User';
+$locale['ME_430'] = 'Erreur: Les actions contre les utilisateurs sélectionnés n\'ont pas pu être complétées';
+$locale['ME_431'] = 'Les utilisateurs suivants seront %s:';
+$locale['ME_432'] = '%s a été %s';
+$locale['ME_433'] = 'Veuillez spécifier une raison pour cette action';
+$locale['ME_434'] = 'Raison';
+$locale['ME_435'] = 'Durée';
+$locale['ME_436'] = 'Jours';
+$locale['ME_437'] = 'Mettre à jour l\'utilisateur';
 
-$locale['ME_450'] = 'Add New User';
-$locale['ME_451'] = '%s\'s Profile';
-$locale['ME_452'] = 'Edit %s\'s Profile';
-$locale['ME_453'] = 'Delete User %s';
-$locale['ME_454'] = "Warning!";
-$locale['ME_455'] = "You are about to delete user %s!<br/><br/>The contents posted by this user on this site will be deleted if you proceed.<br/>
-Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anonymize this user.<br/>
-Are you sure you want to delete this user?<br/>";
-$locale['ME_456'] = 'Delete User';
-$locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
-Are you sure you want to delete this user?<br/>";
+$locale['ME_450'] = 'Ajouter un nouvel utilisateur';
+$locale['ME_451'] = 'Profils de %s';
+$locale['ME_452'] = 'Modifier le profil de %s';
+$locale['ME_453'] = 'Supprimer l\'utilisateur %s';
+$locale['ME_454'] = "Attention !";
+$locale['ME_455'] = "Vous êtes sur le point de supprimer l'utilisateur %s!<br/><br/>Le contenu publié par cet utilisateur sur ce site sera supprimé si vous continuez.<br/>
+Sauf s'il s'agit d'un spammeur par exemple, nous vous recommandons de bannir, de suspendre, d'annuler ou d'anonymiser cet utilisateur.<br/>
+Êtes-vous sûr de vouloir supprimer cet utilisateur ?<br/>";
+$locale['ME_456'] = 'Supprimer l\'utilisateur';
+$locale['ME_457'] = "Vous êtes sur le point de supprimer le nouvel utilisateur non activé %s!<br/>
+Êtes-vous sûr de vouloir supprimer cet utilisateur ?<br/>";
 
-$locale['ME_460'] = 'There are no users to be deactivated';
-$locale['ME_461'] = '%s has been deactivated';
-$locale['ME_462'] = 'Deactivate Inactive Members';
-$locale['ME_463'] = 'You have more then 50 inactive users and will have to run the deactivation process (%d) times.';
+$locale['ME_460'] = 'Il n\'y a aucun utilisateur à désactiver';
+$locale['ME_461'] = '%s a été désactivé';
+$locale['ME_462'] = 'Désactiver les membres inactifs';
+$locale['ME_463'] = 'Vous avez plus de 50 utilisateurs inactifs et devrez exécuter le processus de désactivation (%d) fois.';
 $locale['ME_464'] = '%d user(s) have not logged in for %d day(s) and have been marked as inactive. By deactivating these users they will have (%d) day(s) before they are %s.';
 $locale['ME_465'] = 'Please note that some users may have submitted content to your site such as forum posts, comments, photos etc. These will be deleted when deactivated users are being deleted.';
 $locale['ME_466'] = 'It is strongly recommended to change deactivation action to anonymize instead of delete to prevent data loss!';
@@ -64,7 +64,7 @@ $locale['ME_469'] = 'User has been activated';
 $locale['ME_500'] = 'Ban';
 $locale['ME_501'] = 'Reinstate';
 $locale['ME_502'] = 'Deactivate';
-$locale['ME_503'] = 'Suspend';
+$locale['ME_503'] = 'Suspendue';
 $locale['ME_504'] = 'Security Ban';
 $locale['ME_505'] = 'Cancel';
 $locale['ME_506'] = 'Anonymize';
