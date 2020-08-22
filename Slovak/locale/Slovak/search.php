@@ -44,4 +44,4 @@ $locale['520'] = "výsledok";
 $locale['521'] = "výsledkov";
 $locale['522'] = "bolo nájdených podľa zadaných kritérií";
 //more than 100 results
-$locale['530'] = "Prosím buďte presnejší vo vašom dotaze. Vaše dotazy %s výsledkov. Zobrazujeme len 100 výsledkov";
+$locale['530'] = "Prosím buďte presnejší vo vašom dotaze. Váš dotaz vrátil %s výsledkov. Zobrazujeme len 100 najlepších výsledkov";
