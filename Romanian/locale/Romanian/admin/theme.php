@@ -119,7 +119,7 @@ $locale['theme_4016'] = "Stil leg&#259;tur&#259;";
 
 $locale['theme_5000'] = "Normal";
 $locale['theme_5001'] = "&#206;ngro&#351;at";
-$locale['theme_5002'] = "Italic";
+$locale['theme_5002'] = "Italic (Ctrl+I)";
 $locale['theme_5003'] = "Subliniat";
 $locale['theme_5004'] = "&#206;ngro&#351;at &#351;i subliniat";
 $locale['theme_5005'] = "Italic &#351;i &#238;ngro&#351;at";

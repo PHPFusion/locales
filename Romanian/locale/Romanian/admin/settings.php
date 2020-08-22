@@ -251,7 +251,7 @@ $locale['1014a'] = "Dezactiveaz&#259; pentru o mai bun&#259; securitate";
 $locale['1015'] = "Width";
 $locale['1016'] = "Height";
 
-$locale['1020'] = [1 => 'Octe&#355;i (octe&#355;i)', 1024 => 'KB (Kilobytes)', 1048576 => 'MB (Megabytes)'];
+$locale['1020'] = [1 => 'Octe&#355;i (octe&#355;i)', 1024 => 'KO (Kilobytes)', 1048576 => 'MO (Megabytes)'];
 
 // Social integration
 $locale['1030'] = "Creaz&#259; meta tag OpenGraph pentru re&#355;ele de socializare";
@@ -307,5 +307,5 @@ $locale['security_010'] = "Fusion GateWay";
 $locale['security_011'] = "GateWay Method";
 $locale['security_012'] = "Words";
 $locale['security_013'] = "Numbers";
-$locale['security_014'] = "Both";
+$locale['security_014'] = "Ambele";
 include_once __DIR__.'/../../../includes/dateformats.php';

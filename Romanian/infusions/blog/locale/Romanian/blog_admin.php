@@ -114,19 +114,19 @@ $locale['blog_0703'] = "Folose&#351;te acest formular pentru a trimite o postare
 [SITENAME] &#238;&#351;i rezerv&#259; dreptul de a amenda sau edita orice trimitere. <br />
 Trimiterile ar trebui s&#259; fie aplicabile con&#355;inutului acestui portal, iar cele nepotrivite vor fi respinse.";
 $locale['blog_0704'] = "Revino la [SITENAME]";
-$locale['blog_601'] = "Thumb size:";
-$locale['blog_602'] = "Photo size:";
-$locale['blog_603'] = "Maximum photo size:";
-$locale['blog_604'] = "Width x Height";
-$locale['blog_605'] = "Maximum file size (bytes):";
+$locale['blog_601'] = "M&#259;rime pictograme:";
+$locale['blog_602'] = "M&#259;rime imagine:";
+$locale['blog_603'] = "M&#259;rime maxim&#259; imagine:";
+$locale['blog_604'] = "L&#259;&#355;ime x &#206;n&#259;l&#355;ime";
+$locale['blog_605'] = "M&#259;rime maxim&#259; fi&#351;ier (octe&#355;i):";
 // Blog Settings
 $locale['blog_950'] = "Image Upload";
 $locale['blog_951'] = "Image link:";
-$locale['blog_952'] = "Category";
+$locale['blog_952'] = "Categorie";
 $locale['blog_953'] = "Blog Item";
 $locale['blog_954'] = "Thumb ratio:";
 $locale['blog_955'] = "Original";
-$locale['blog_956'] = "Square";
+$locale['blog_956'] = "P&#259;trat";
 $locale['blog_959'] = "Uploaded Photo";
 $locale['blog_960'] = "Category Image";
 $locale['blog_961'] = "Allowed file types:";

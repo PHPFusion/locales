@@ -249,7 +249,7 @@ $locale['forum_0591'] = "&#350;terge toate post&#259;rile";
 $locale['forum_0592'] = "&#350;terge toate discu&#355;iile";
 $locale['forum_0593'] = "&#350;terge toate ata&#351;amentele";
 $locale['forum_0595'] = "&#350;terge toate sondajele";
-$locale['forum_0596'] = "Question";
+$locale['forum_0596'] = "&#206;ntrebare";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Mesaj";
@@ -290,7 +290,7 @@ Cu respect,
 $locale['forum_0662'] = "User Options";
 $locale['forum_0663'] = "Edit User";
 $locale['forum_0664'] = "Ban User";
-$locale['forum_0665'] = "Delete User";
+$locale['forum_0665'] = "&#350;terge utilizatorul";
 
 $locale['forum_0701'] = "Discu&#355;ia a fost &#351;tears&#259;.";
 $locale['forum_0704'] = "E&#351;ti sigur c&#259; vrei s&#259; &#351;tergi aceast&#259; discu&#355;ie?";

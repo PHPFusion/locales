@@ -1,5 +1,5 @@
 <?php
-$locale['downloads.php'] = "Downloads";
+$locale['downloads.php'] = "Desc&#259;rc&#259;ri";
 $locale['d400'] = "Desc&#259;rc&#259;ri";
 $locale['d401'] = "Desc&#259;rcare";
 $locale['d402'] = "Descarc&#259;ri";

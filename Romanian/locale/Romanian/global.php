@@ -65,7 +65,7 @@ $locale['user0'] = "Public";
 $locale['user1'] = "Membru";
 $locale['user2'] = "Administrator";
 $locale['user3'] = "Super Administrator";
-$locale['user_na'] = "N/A";
+$locale['user_na'] = "necunoscut&#259;";
 $locale['user_guest'] = "Oaspete";
 $locale['user_anonymous'] = "Anonim";
 $locale['genitive'] = "%s's %s";
@@ -498,6 +498,14 @@ $locale['about'] = "Despre";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "ani|an";
+$locale['timer_month'] = "luni|lun&#259;";
+$locale['timer_day'] = "zile|zi";
+$locale['timer_hour'] = "ore|or&#259;";
+$locale['timer_minute'] = "minute|minute";
+$locale['timer_second'] = "secunde|secund&#259;";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "trimiteri|trimitere";
 $locale['fmt_article'] = "articole|articol";

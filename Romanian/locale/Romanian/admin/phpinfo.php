@@ -7,11 +7,12 @@ $locale['403'] = "Platforma web";
 $locale['404'] = "Versiune PHP";
 $locale['405'] = "Interfa&#355;&#259; PHP";
 $locale['406'] = "Versiune server MySQL";
-$locale['406a'] = "Database Driver";
+$locale['406a'] = "Drivere baza de date";
 $locale['407'] = "Versiune PHP-Fusion";
 $locale['408'] = "Prefix baz&#259; de date";
 $locale['409'] = "Prefix cookie";
 $locale['410'] = "Navigator &#351;i sistem de operare";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Set&#259;ri PHP";
 $locale['423'] = "Modul sigur";

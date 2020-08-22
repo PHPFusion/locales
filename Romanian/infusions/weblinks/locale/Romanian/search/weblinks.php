@@ -1,5 +1,5 @@
 <?php
-$locale['weblinks.php'] = "Weblinks";
+$locale['weblinks.php'] = "Leg&#259;turi pe internet";
 $locale['w400'] = "Leg&#259;turi pe internet";
 $locale['w401'] = "Leg&#259;tur&#259; pe internet";
 $locale['w402'] = "Leg&#259;turi pe internet";

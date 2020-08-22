@@ -28,7 +28,7 @@ $locale['SMLY_430'] = "Cod";
 $locale['SMLY_431'] = "Imagine";
 $locale['SMLY_432'] = "Text";
 $locale['SMLY_433'] = "Op&#355;iuni";
-$locale['SMLY_435'] = "Inactive";
+$locale['SMLY_435'] = "Neactiva&#355;i";
 $locale['SMLY_436'] = "Nu exist&#259; figurine definite.";
 // Error Message
 $locale['SMLY_437'] = "Te rog introdu un cod  pentru figurin&#259;";
