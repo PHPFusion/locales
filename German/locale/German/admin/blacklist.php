@@ -15,15 +15,15 @@ $locale['BLS_022'] = "Add blacklisted user";
 $locale['BLS_023'] = "Currently displaying %d of %d total Blacklist entries.";
 
 $locale['BLS_030'] = "Blacklisted info"; //461
-$locale['BLS_031'] = "Admin"; //467
-$locale['BLS_032'] = "Date";  //468
-$locale['BLS_033'] = "Options"; //462
+$locale['BLS_031'] = "Administrator"; //467
+$locale['BLS_032'] = "Datum";  //468
+$locale['BLS_033'] = "Optionen"; //462
 $locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]"; //441
 $locale['BLS_035'] = "Blacklist email address"; //442
 $locale['BLS_036'] = "Blacklist reason"; //443
 $locale['BLS_037'] = "Blacklist user";  //444
-$locale['BLS_038'] = "Update";
-$locale['BLS_039'] = "Select All";
+$locale['BLS_038'] = "Aktualisieren";
+$locale['BLS_039'] = "Alles";
 
 $locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
 You can enter a full IP, e.g. <em>123.45.67.89.</em>, or a partial IP, e.g. <em>123.45.67</em> or <em>123.45</em>.

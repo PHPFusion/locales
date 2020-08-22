@@ -1,6 +1,6 @@
 <?php
 // Overview
-$locale['web_0000'] = "Web Links";
+$locale['web_0000'] = "Weblinks";
 $locale['web_0001'] = "Alle Web Links";
 $locale['fmt_open'] = "&Ouml;fnen|&Ouml;fnen";
 // Sorting

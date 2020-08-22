@@ -53,7 +53,7 @@ $locale['SL_0062'] = "Derzeit wurden noch keine Navigationslinks hinzugef&uuml;g
 $locale['SL_0063'] = "Use BBCode in Link Name?";
 
 
-$locale['SL_0070'] = "Icon";
+$locale['SL_0070'] = "Symbol";
 $locale['SL_0071'] = "Neues Fenster?";
 $locale['SL_0072'] = "Men&uuml;";
 $locale['SL_0073'] = "Sortierung erneuern";

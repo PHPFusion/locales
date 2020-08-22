@@ -117,4 +117,4 @@ $locale['photo_0024'] = "Das Foto wurde erfolgreich entfernt.";
 $locale['photo_0025'] = "Alle Fotos entfernen";
 $locale['photo_0026'] = "<strong>Warnung!</strong> Sind Sie sich sicher, dass Sie alle Fotos aus diesem Album <strong>unwiederruflich</strong> entfernen m&ouml;chten?";
 $locale['photo_0027'] = "Fotos entfernen";
-$locale['gallery_submit'] = "%s Photos";
+$locale['gallery_submit'] = "%s Fotos";

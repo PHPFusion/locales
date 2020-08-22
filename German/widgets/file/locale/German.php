@@ -1,5 +1,5 @@
 <?php
-$locale['f0100'] = "Title";
+$locale['f0100'] = "Titel";
 $locale['f0102'] = "File Path from Root Directory";
 $locale['f0103'] = "Save File";
 $locale['f0104'] = "Save and Close File";
