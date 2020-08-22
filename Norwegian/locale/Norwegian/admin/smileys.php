@@ -3,7 +3,7 @@
 $locale['SMLY_400'] = "Current Smileys";
 $locale['SMLY_401'] = "Add Smiley";
 $locale['SMLY_402'] = "Edit Smiley";
-$locale['SMLY_403'] = "Smileys";
+$locale['SMLY_403'] = "Smilefjes";
 $locale['SMLY_404'] = "Active Smileys";
 $locale['SMLY_405'] = "Inactive Smileys";
 // Smiley messages
@@ -26,9 +26,9 @@ $locale['SMLY_424'] = "Update Smiley";
 // Current Smileys
 $locale['SMLY_430'] = "Code";
 $locale['SMLY_431'] = "Image";
-$locale['SMLY_432'] = "Text";
-$locale['SMLY_433'] = "Options";
-$locale['SMLY_435'] = "Inactive";
+$locale['SMLY_432'] = "Tekst";
+$locale['SMLY_433'] = "Valg";
+$locale['SMLY_435'] = "Innaktiv";
 $locale['SMLY_436'] = "There are no smileys defined.";
 // Error Message
 $locale['SMLY_437'] = "Please enter a Smiley Code";

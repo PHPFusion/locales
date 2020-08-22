@@ -1,5 +1,5 @@
 <?php
-$locale['ME_400'] = 'User Management';
+$locale['ME_400'] = 'Brukeradministrasjon';
 $locale['ME_401'] = 'Search User...';
 $locale['ME_402'] = 'Display Filters';
 $locale['ME_403'] = 'Add a new User';
@@ -7,23 +7,23 @@ $locale['ME_404'] = 'Apply Filter';
 $locale['ME_405'] = 'There are no user found under the search criteria';
 //
 $locale['ME_407'] = 'Displaying %s - %d of %d records found';
-$locale['ME_408'] = 'Basic Information';
+$locale['ME_408'] = 'Grunnleggende innformasjon';
 $locale['ME_409'] = 'Detailed Information';
 $locale['ME_410'] = 'User';
-$locale['ME_411'] = 'User Level';
-$locale['ME_412'] = 'Email Address';
+$locale['ME_411'] = 'Bruker nivå';
+$locale['ME_412'] = 'E-Post adresse';
 $locale['ME_413'] = ' User Account';
 $locale['ME_414'] = 'Select All';
-$locale['ME_415'] = 'Hidden';
+$locale['ME_415'] = 'Skjult';
 $locale['ME_416'] = 'Shown';
 
 // Core Fields Filter
 $locale['ME_420'] = 'Email Hidden?';
 $locale['ME_421'] = 'Joined Date';
 $locale['ME_422'] = 'Last Login';
-$locale['ME_423'] = 'IP Address';
+$locale['ME_423'] = 'IP-Adresse';
 $locale['ME_424'] = 'IP Type';
-$locale['ME_425'] = 'User Groups';
+$locale['ME_425'] = 'Brukergrupper';
 $locale['ME_426'] = 'Timezone';
 $locale['ME_427'] = 'User Status';
 
@@ -32,7 +32,7 @@ $locale['ME_430'] = 'Error: Actions against selected users could not be complete
 $locale['ME_431'] = 'The following users will be %s:';
 $locale['ME_432'] = '%s has been %s';
 $locale['ME_433'] = 'Please specify a reason for the action';
-$locale['ME_434'] = 'Reason';
+$locale['ME_434'] = 'Årsak';
 $locale['ME_435'] = 'Duration';
 $locale['ME_436'] = 'Days';
 $locale['ME_437'] = 'Update User';
@@ -64,17 +64,17 @@ $locale['ME_469'] = 'User has been activated';
 $locale['ME_500'] = 'Ban';
 $locale['ME_501'] = 'Reinstate';
 $locale['ME_502'] = 'Deactivate';
-$locale['ME_503'] = 'Suspend';
+$locale['ME_503'] = 'Tidsbegrenset utestengelse';
 $locale['ME_504'] = 'Security Ban';
 $locale['ME_505'] = 'Cancel';
 $locale['ME_506'] = 'Anonymize';
 $locale['ME_507'] = 'Activate';
 
 // a_message keys
-$locale['ME_550'] = 'banned';
+$locale['ME_550'] = 'utestengt';
 $locale['ME_551'] = 'reinstated';
-$locale['ME_552'] = 'deactivated';
-$locale['ME_553'] = 'suspended';
+$locale['ME_552'] = 'deaktivert';
+$locale['ME_553'] = 'suspendert';
 $locale['ME_554'] = 'security banned';
 $locale['ME_555'] = 'cancelled';
 $locale['ME_556'] = 'anonymized';

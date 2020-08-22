@@ -13,6 +13,6 @@ $locale['news_0013'] = "Topp Avstemt Nyhet";
 $locale['news_0014'] = "Miniatyr visning";
 $locale['news_0015'] = "Listevisning";
 $locale['news_0016'] = "No categories defined.";
-$locale['news_0017'] = "Filter by";
+$locale['news_0017'] = "Filtrer etter:";
 $locale['news_0018'] = "Show all news";
 $locale['news_0019'] = "News Gallery";

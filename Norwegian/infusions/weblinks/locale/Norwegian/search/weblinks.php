@@ -1,5 +1,5 @@
 <?php
-$locale['weblinks.php'] = "Weblinks";
+$locale['weblinks.php'] = "Lenker";
 $locale['w400'] = "Lenker";
 $locale['w401'] = "Lenke";
 $locale['w402'] = "Lenker";

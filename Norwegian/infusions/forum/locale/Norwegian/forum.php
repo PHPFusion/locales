@@ -249,7 +249,7 @@ $locale['forum_0591'] = "Tøm Innlegg";
 $locale['forum_0592'] = "Tøm Tråder";
 $locale['forum_0593'] = "Tøm Vedlegg";
 $locale['forum_0595'] = "Tøm Avstemninger";
-$locale['forum_0596'] = "Question";
+$locale['forum_0596'] = "Spørsmål";
 $locale['forum_0597'] = "Question|Questions";
 
 $locale['forum_0601'] = "Melding";

@@ -1,7 +1,7 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] Admin Panel";
-$locale['200a'] = "Admin Panel";
+$locale['200a'] = "Administrasjon";
 $locale['ac00'] = "Betjeningspanel";
 $locale['ac01'] = "Innhold";
 $locale['ac02'] = "Brukere";
@@ -25,14 +25,14 @@ $locale['IM'] = "Bilder";
 $locale['I'] = "Infusjoner";
 $locale['IP'] = "Infusjons elementer";
 $locale['M'] = "Brukere";
-$locale['MI'] = "Migration Tool";
+$locale['MI'] = "Migreringsverktøy";
 $locale['N'] = "Nyheter";
 $locale['P'] = "Elementer";
 $locale['PH'] = "Fotoalbums";
 $locale['B'] = "Svarteliste";
 $locale['C'] = "Kommentarer";
 $locale['DB'] = "Database Sikkerhetskopi";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "PHP informasjon";
 $locale['PO'] = "Avstemmninger";
 $locale['SL'] = "Sidens Lenker";
 $locale['SU'] = "Brukerforslag";

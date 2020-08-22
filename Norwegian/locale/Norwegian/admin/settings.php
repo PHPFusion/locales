@@ -289,7 +289,7 @@ $locale['register_settings'] = "Registrerings Innstillinger";
 $locale['security_settings'] = "Sikkerhets Innstillinger";
 $locale['time_settings'] = "Tid Dato Innstillinger";
 $locale['user_settings'] = "Bruker Ledelse Innstillinger";
-$locale['theme_settings'] = "Theme Settings";
+$locale['theme_settings'] = "Tema oppsettning";
 
 // Security Settings
 $locale['security_001'] = "System Sessions";
@@ -305,5 +305,5 @@ $locale['security_010'] = "Fusion GateWay";
 $locale['security_011'] = "GateWay Method";
 $locale['security_012'] = "Words";
 $locale['security_013'] = "Numbers";
-$locale['security_014'] = "Both";
+$locale['security_014'] = "Begge";
 include_once __DIR__.'/../../../includes/dateformats.php';
