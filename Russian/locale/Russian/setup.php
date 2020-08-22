@@ -5,7 +5,7 @@ $locale['setup_0003'] = "Установщик проведёт Вас через
 $locale['setup_0005'] = " Я прочитал и соглашаюсь с <a href='https://www.php-fusion.co.uk/license/'>Правилами и условиями использования</a> PHP-Fusion.";
 $locale['setup_0006'] = "PHP-Fusion 9 требует как минимум PHP 5.6.39. Посмотрите <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>системные требования</a> для подробной информации.";
 $locale['setup_0007'] = "Системы с установленным OPcache должны иметь включенный модуль <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a>.";
-$locale['setup_5000'] = "Для установки и использования PHP-Fusion Вы дожлжны ознакомиться с правилами и принять их.";
+$locale['setup_5000'] = "Для использования PHP-Fusion Вы должны ознакомиться с правилами и принять их.";
 $locale['setup_0010'] = "Текущая версия сборки - ";
 $locale['setup_0011'] = "ru";
 $locale['setup_0012'] = "utf-8";
