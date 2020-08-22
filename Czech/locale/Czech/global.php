@@ -469,6 +469,14 @@ $locale['about'] = "O nás";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Timer
+$locale['timer_year'] = "rokem|lety|lety";
+$locale['timer_month'] = "měsícem|měsíci|měsíci";
+$locale['timer_day'] = "dnem|dny|dny";
+$locale['timer_hour'] = "hodinou|hodinami|hodinami";
+$locale['timer_minute'] = "minutou|minutami|minutami";
+$locale['timer_second'] = "vteřinou|vteřinami|vteřinami";
+$locale['timer'] = "[AGO] [DAYS]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "předložení|předložení|předložení";
 $locale['fmt_article'] = "článek|články|článků";
