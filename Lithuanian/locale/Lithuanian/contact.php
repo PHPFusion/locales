@@ -4,7 +4,7 @@ $locale['CT_400'] = "Contact";
 $locale['CT_401'] = "There are several ways you can get in contact. You can email directly at
 [SITE_EMAIL]. If you are a Member you can send a [PM_LINK].
 Alternatively, you can fill in the form on this page which sends your message via Email.";
-$locale['CT_402'] = "Name:";
+$locale['CT_402'] = "Vardas:";
 $locale['CT_403'] = "Email Address:";
 $locale['CT_404'] = "Subject:";
 $locale['CT_405'] = "Message:";

@@ -494,6 +494,14 @@ $locale['about'] = "Apie";
 // User status
 $locale['online'] = "Prisijungęs";
 $locale['offline'] = "Atsijungęs";
+// Timer
+$locale['timer_year'] = "metai|metai";
+$locale['timer_month'] = "mėnesis|mėnesiai";
+$locale['timer_day'] = "diena|dienos";
+$locale['timer_hour'] = "valanda|valandos";
+$locale['timer_minute'] = "minutė|minutės";
+$locale['timer_second'] = "sekundė|sekundės";
+$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "pateikimas|pateikimai";
 $locale['fmt_article'] = "straipsnis|straipsniai";

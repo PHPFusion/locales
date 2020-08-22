@@ -114,19 +114,19 @@ $locale['blog_0703'] = "Naudokitės šia forma, kad pateiktumėte tinklaraštį.
 administratoriaus. [SITENAME] pasilieka teisę redaguoti ar keisti pateikimą. Tinklaraštis 
 turi atitikti tinklapio temą. Netinkami pateikimai bus ištrinti.";
 $locale['blog_0704'] = "Grįžti į [SITENAME]";
-$locale['blog_601'] = "Thumb size:";
-$locale['blog_602'] = "Photo size:";
-$locale['blog_603'] = "Maximum photo size:";
-$locale['blog_604'] = "Width x Height";
-$locale['blog_605'] = "Maximum file size (bytes):";
+$locale['blog_601'] = "Albumo atvaizdo dydis:";
+$locale['blog_602'] = "Foto atvaizdo dydis:";
+$locale['blog_603'] = "Maksimalus foto dydis:";
+$locale['blog_604'] = "Plotis x Aukštis";
+$locale['blog_605'] = "Maksimalus failo dydis (baitais):";
 // Blog Settings
 $locale['blog_950'] = "Image Upload";
 $locale['blog_951'] = "Image link:";
-$locale['blog_952'] = "Category";
+$locale['blog_952'] = "Leisti komentarus";
 $locale['blog_953'] = "Blog Item";
 $locale['blog_954'] = "Thumb ratio:";
-$locale['blog_955'] = "Original";
-$locale['blog_956'] = "Square";
+$locale['blog_955'] = "Originalus";
+$locale['blog_956'] = "Kvadratas";
 $locale['blog_959'] = "Uploaded Photo";
 $locale['blog_960'] = "Category Image";
 $locale['blog_961'] = "Allowed file types:";

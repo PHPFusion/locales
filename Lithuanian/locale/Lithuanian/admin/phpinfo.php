@@ -7,11 +7,12 @@ $locale['403'] = "Web serverio programinė įranga";
 $locale['404'] = "PHP versija";
 $locale['405'] = "PHP sąsaja";
 $locale['406'] = "MySQL serverio versija";
-$locale['406a'] = "Database Driver";
+$locale['406a'] = "Duomenų bazės tvarkyklė";
 $locale['407'] = "PHP-Fusion versija";
 $locale['408'] = "Duomenų bazės prefiksas";
 $locale['409'] = "Sausainėlio prefiksas";
 $locale['410'] = "Naršyklė ir OS";
+$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP nustatymai";
 $locale['423'] = "Safe mode";

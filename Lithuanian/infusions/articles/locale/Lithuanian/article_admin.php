@@ -1,6 +1,6 @@
 <?php
 $locale['article_0000'] = "Esami straipsniai";
-$locale['article_0001'] = "Straipsniai";
+$locale['article_0001'] = "Pateikti straipsnį";
 $locale['article_0002'] = "Pridėti straipsnį";
 $locale['article_0003'] = "Redaguoti straipsnį";
 $locale['article_0004'] = "Kategorijos";
@@ -61,12 +61,12 @@ $locale['article_0204'] = "Nustatymai";
 $locale['article_0205'] = "Peržiūrėti pateikimą";
 $locale['article_0251'] = "Ištrauka";
 $locale['article_0252'] = "Straipsnis";
-$locale['article_0253'] = "Pats straipsnis.";
+$locale['article_0253'] = "Visas straipsnis.";
 $locale['article_0254'] = "Ištrauka iš straipsnio.";
 $locale['article_0256'] = "Išsaugoti kaip juodraštį";
 $locale['article_0257'] = "Automatinis eilučių laužymas";
 $locale['article_0258'] = "Leisti komentarus";
-$locale['article_0259'] = "Leisti reitingus";
+$locale['article_0259'] = "Leisti įvertinti";
 $locale['article_0260'] = "Raktažodžiai";
 $locale['article_0260a'] = "Po kiekvieno raktažodžio spauskite Enter";
 $locale['article_0261'] = "Daugiau informacijos";
