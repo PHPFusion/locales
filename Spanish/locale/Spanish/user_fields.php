@@ -113,7 +113,8 @@ $locale['u152'] = "Hola USER_NAME,
 \r\nContraseña: USER_PASSWORD
 \r\nAhora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK
 
-\r\nSaludos,
+
+\r\nSaludos,
 \r\nSITEUSERNAME";
 
 $locale['u153'] = "No se ha podido enviar el email de activación.";

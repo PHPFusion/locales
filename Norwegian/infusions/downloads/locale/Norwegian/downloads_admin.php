@@ -105,7 +105,8 @@ $locale['download_0253'] = "Klikk her";
 $locale['download_0254'] = " for å gå til Nedlastings Kategoriene";
 $locale['download_0255'] = "Slett denne Nedlastingen?";
 $locale['download_0256'] = "%s er deaktivert for alle elementer.
-Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
+
+Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
 $locale['download_0300'] = "Kategori Navn:";
 $locale['download_0301'] = "Kategori Beskrivelse:";
 $locale['download_0302'] = "Kategori Sortering:";

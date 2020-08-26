@@ -91,7 +91,8 @@ $locale['blog_0561'] = "Tokia kategorija jau egzistuoja.";
 $locale['blog_0450'] = "Prašome nurodyti pavadinimą";
 $locale['blog_0451'] = "Ištrinti šį tinklaraštį?";
 $locale['blog_0452'] = "%s yra išjungta viskam.
-Šis nustatymas veiks tik tuomet, kai bus vėl įjungta.";
+
+Šis nustatymas veiks tik tuomet, kai bus vėl įjungta.";
 $locale['blog_0456'] = 'Šioje kategorijoje nėra tinklaraščių.';
 $locale['blog_0457'] = "Prašome nurodyti raktažodžius";
 $locale['blog_0461'] = 'Nėra pridėtų tinklaraščių kategorijų.';

@@ -97,13 +97,15 @@ $locale['u144a'] = "Aktuelles Adminpasswort";
 $locale['u145'] = "Neues Adminpasswort wiederholen";
 $locale['u146'] = " kann nicht das selbe sein, wie ";
 $locale['u147'] = "Das Passwort muss zwischen 8 und 64 Zeichen lang sein.
- Erlaubte Zeichen sind a-z, 0-9 und @!#$%&/()=-_?+*.,:;";
+
+ Erlaubte Zeichen sind a-z, 0-9 und @!#$%&/()=-_?+*.,:;";
 $locale['u148'] = "Die neuen Loginpassw&ouml;rter stimmen nicht überein.";
 $locale['u148a'] = "Die neuen Adminpassw&ouml;rter stimmen nicht überein.";
 $locale['u149'] = "Dein aktuelles Loginpasswort wurde nicht angegeben oder ist fehlerhaft.";
 $locale['u149a'] = "Dein aktuelles Adminpasswort wurde nicht angegeben oder ist fehlerhaft";
 $locale['u149b'] = "Dein aktuelles Loginpasswort wurde nicht angegeben oder ist fehlerhaft.
-Du kannst dein Adminpasswort nicht ändern, wenn du dein aktuelles Loginpasswort nicht angibst.";
+
+Du kannst dein Adminpasswort nicht ändern, wenn du dein aktuelles Loginpasswort nicht angibst.";
 // Email activation
 $locale['u150'] = "Deine Registrierung ist fast abgeschlossen. Du erhältst in Kürze eine E-Mail mit deinen Logingetails und einem Link, um deinen Account zu bestätigen.";
 $locale['u151'] = "Herzlich Willkommen auf [SITENAME]";

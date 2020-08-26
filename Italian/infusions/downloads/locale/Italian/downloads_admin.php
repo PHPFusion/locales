@@ -105,7 +105,8 @@ $locale['download_0253'] = "Clicca qui";
 $locale['download_0254'] = "Per andare al download categorie";
 $locale['download_0255'] = "Cancellare questo download?";
 $locale['download_0256'] = "%s sono disabilitati per tutti gli oggetti.
-Questa impostazione avrà effetto solo quando saranno attivate.";
+
+Questa impostazione avrà effetto solo quando saranno attivate.";
 $locale['download_0300'] = "Nome della categoria:";
 $locale['download_0301'] = "Descrizione della categoria:";
 $locale['download_0302'] = "Ordinamento di categoria:";

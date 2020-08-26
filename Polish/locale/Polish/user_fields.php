@@ -97,7 +97,8 @@ $locale['u144a'] = "Bieżące hasło administratora";
 $locale['u145'] = "Potwierdź hasło administratora";
 $locale['u146'] = " nie może być takie same jak aktualne ";
 $locale['u147'] = "Hasło musi zawierać od 8 do 64 znaków.
-Dozwolone są symbole a-z, 0-9 i @!#$%&/()=-_?+*.,:;";
+
+Dozwolone są symbole a-z, 0-9 i @!#$%&/()=-_?+*.,:;";
 $locale['u148'] = "Nowe hasła logowania nie są identyczne.";
 $locale['u148a'] = "Nowe hasła administratora nie są identyczne.";
 $locale['u149'] = "Twoje aktualne hasło logowania nie zostało podane lub jest nieprawidłowe.";

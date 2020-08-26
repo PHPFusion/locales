@@ -37,8 +37,10 @@ $locale['421'] = "Halaman yang abaikan Panel Atas Kandungan:";
 $locale['422'] = "Halaman yang abaikan Panel Bawah Kandungan:";
 $locale['423'] = "Halaman yang abaikan Panel Kanan:";
 $locale['424'] = "Contoh:
-/news.php
-/forum/index.php";
+
+/news.php
+
+/forum/index.php";
 $locale['425'] = "Alamat Situs";
 $locale['426'] = "Protocol Situs:";
 $locale['427'] = "Host Situs:";

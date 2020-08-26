@@ -68,7 +68,8 @@ $locale['faq_0259'] = "Mai multe informa&#355;ii";
 $locale['faq_0270'] = "Trebuie s&#259; introduci o &#238;ntrebare.";
 $locale['faq_0271'] = "Trebuie s&#259; introduci o &#238;ntrebare.";
 $locale['faq_0274'] = "%s sunt dezactivate pentru toate elementele.
-Aceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
+
+Aceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
 $locale['faq_0350'] = "Trimiterea a fost trimis&#259; de {%SUBMISSION_AUTHOR%}.";
 $locale['faq_0351'] = "Dat&#259; trimitere: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
 $locale['faq_0400'] = "Set&#259;ri pentru sistemul de &#238;ntreb&#259;ri frecvente.";

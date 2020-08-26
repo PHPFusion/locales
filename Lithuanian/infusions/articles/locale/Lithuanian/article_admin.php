@@ -76,7 +76,8 @@ $locale['article_0271'] = "Prašome įvesti ištrauką.";
 $locale['article_0272'] = "Prašome įvesti straipsnį.";
 $locale['article_0273'] = "Būtina pasirinkti kategoriją.";
 $locale['article_0274'] = "%s yra išjungtas.
-Šis nustatymas pradės galioti, kai tai bus įjungta.";
+
+Šis nustatymas pradės galioti, kai tai bus įjungta.";
 $locale['article_0303'] = "Priklausymas";
 $locale['article_0304'] = "Aprašymas";
 $locale['article_0320'] = "Būtina įvesti vardą.";

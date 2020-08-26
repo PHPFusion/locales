@@ -76,7 +76,8 @@ $locale['article_0271'] = "Debe especificar un fragmento.";
 $locale['article_0272'] = "Debe especificar un artículo.";
 $locale['article_0273'] = "Debe elegir una categoría.";
 $locale['article_0274'] = "%s está deshabilitado para todos los elementos.
-Esta configuración sólo tendrá efecto cuando se vuelven a habilitar.";
+
+Esta configuración sólo tendrá efecto cuando se vuelven a habilitar.";
 $locale['article_0303'] = "Parent";
 $locale['article_0304'] = "Descripción";
 $locale['article_0320'] = "Debe especificar un nombre.";

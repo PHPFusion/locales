@@ -104,7 +104,8 @@ $locale['download_0253'] = "Klicke hier";
 $locale['download_0254'] = " um zu den Downloadkategorien zu gehen.";
 $locale['download_0255'] = "Bist du dir sicher, dass du den Download entfernen m&ouml;chtest?";
 $locale['download_0256'] = "%s sind f&uuml;r alle Eintr&auml;ge deaktiviert.
-Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
+
+Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
 $locale['download_0300'] = "Kategoriename";
 $locale['download_0301'] = "Kategoriebeschreibung";
 $locale['download_0302'] = "Kategoriesortierung";

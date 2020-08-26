@@ -37,8 +37,10 @@ $locale['421'] = "escludere pannelli superiori:";
 $locale['422'] = "escludere pannelli inferiori:";
 $locale['423'] = "escludere pannelli di destra:";
 $locale['424'] = "Examples:
-/news.php
-/forum/index.php";
+
+/news.php
+
+/forum/index.php";
 $locale['425'] = "Indirizzo del sito";
 $locale['426'] = "protocollo del sito:";
 $locale['427'] = "Host del sito:";
@@ -149,7 +151,8 @@ $locale['682ML'] = "Impostazioni lingua";
 $locale['683ML'] = "Attiva il sistema Multilingal";
 $locale['684ML'] = "Lingue attivate";
 $locale['685ML'] = "selezione del permesso languages.
-PLEASE Nota: rimuovendo una lingua è inoltre rimuovere tutti personalizzati di collegamenti di sito, categorie e qualsiasi altro contenuto multilingua per la lingua specifica dal sistema.";
+
+PLEASE Nota: rimuovendo una lingua è inoltre rimuovere tutti personalizzati di collegamenti di sito, categorie e qualsiasi altro contenuto multilingua per la lingua specifica dal sistema.";
 $locale['669'] = "News";
 $locale['669b'] = "Blog articoli per pagina";
 $locale['669c'] = "Notizie ogni pagina";

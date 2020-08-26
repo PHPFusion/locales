@@ -78,7 +78,8 @@ $locale['news_0250'] = "Sie m&uuml;ssen einen Betreff f&uuml;r die News angeben.
 $locale['news_0251'] = "Sind Sie sich sicher, dass Sie die News entfernen m&ouml;chten?";
 $locale['news_0252'] = "Sind Sie sich sicher, dass Sie die Newskategorie entfernen m&ouml;chten?";
 $locale['news_0253'] = "%s sind f&uuml;r alle Eintr&auml;ge deaktiviert.
-Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
+
+Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
 $locale['news_0254'] = "Es wurden noch keine News in dieser Kategorie abgelegt.";
 $locale['news_0255'] = "Sie m&uuml;ssen Keywords angeben.";
 $locale['news_0266'] = "News Date";

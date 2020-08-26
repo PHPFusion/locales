@@ -89,7 +89,8 @@ $locale['news_0271'] = "Tipos de archivos permitidos:";
 $locale['news_0280'] = "Por favor especifique un nuevo asunto";
 $locale['news_0281'] = "¿Eliminar esta noticia?";
 $locale['news_0282'] = "¿Eliminar esta categoría de noticias?";
-$locale['news_0283'] = "%s están deshabilitados para todos los elementos.<br/>Esta configuración solo tendrá efecto cuando se vuelvan a habilitar.";
+$locale['news_0283'] = "%s están deshabilitados para todos los elementos.<br/>
+Esta configuración solo tendrá efecto cuando se vuelvan a habilitar.";
 $locale['news_0284'] = "No hay noticias en esta categoría.";
 $locale['news_0285'] = "Especifique las palabras clave";
 $locale['news_0300'] = "Nombre de categoría";

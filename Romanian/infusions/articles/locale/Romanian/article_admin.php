@@ -76,7 +76,8 @@ $locale['article_0271'] = "Trebuie s&#259; introduci un fragment.";
 $locale['article_0272'] = "Trebuie s&#259; introduci un articol.";
 $locale['article_0273'] = "Trebuie s&#259; alegi o categorie.";
 $locale['article_0274'] = "%s sunt dezactivate pentru toate elementele.
-Aceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
+
+Aceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
 $locale['article_0303'] = "P&#259;rinte";
 $locale['article_0304'] = "Descriere";
 $locale['article_0320'] = "Trebuie s&#259; introduci un nume.";

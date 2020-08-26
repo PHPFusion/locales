@@ -90,7 +90,8 @@ $locale['news_0280'] = "Prašome nurodyti naują pavadinimą";
 $locale['news_0281'] = "Ištrinti šią naujieną?";
 $locale['news_0282'] = "Ištrinti šią kategoriją?";
 $locale['news_0283'] = "%s yra išjungti visiems dalykams.
-Šis nustatymas pradės veiks, jeigu tai bus įjungta.";
+
+Šis nustatymas pradės veiks, jeigu tai bus įjungta.";
 $locale['news_0284'] = "Šioje kategorijoje nėra naujienų.";
 $locale['news_0285'] = "Prašome nurodyti raktažodžius";
 $locale['news_0300'] = "Kategorijos pavadinimas:";

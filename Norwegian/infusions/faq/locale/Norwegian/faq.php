@@ -68,7 +68,8 @@ $locale['faq_0259'] = "Mer informasjon";
 $locale['faq_0270'] = "Spesifiser FAQ navnet.";
 $locale['faq_0271'] = "Spesifiser spørsmålet.";
 $locale['faq_0274'] = "%s er deaktivert for alle elementer.
-Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
+
+Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
 $locale['faq_0350'] = "Innleveringen over ble sendt av {%SUBMISSION_AUTHOR%}.";
 $locale['faq_0351'] = "Publiseringsdato: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
 $locale['faq_0400'] = "Innstillinger for FAQ-systemet.";

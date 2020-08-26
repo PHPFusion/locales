@@ -37,8 +37,10 @@ $locale['421'] = "Exclude panourile de sus";
 $locale['422'] = "Exclude panourile de jos";
 $locale['423'] = "Exclude panourile din dreapta";
 $locale['424'] = "Examplu:
-/news.php
-/forum/index.php";
+
+/news.php
+
+/forum/index.php";
 $locale['425'] = "Adres&#259; sait";
 $locale['426'] = "Protocol:";
 $locale['427'] = "Gazd&#259;:";
@@ -149,7 +151,8 @@ $locale['682ML'] = "Set&#259;ri limb&#259;";
 $locale['683ML'] = "Activeaz#259; sistemul cu mai multe limbi";
 $locale['684ML'] = "Limbile activate";
 $locale['685ML'] = "Selectarea limbilor permise.
-NOT&#258;: Prin &#351;tergerea unei limbi vei &#351;terge deasemenea toate leg&#259;turile sait, categorii &#351;i orice alt con&#355;inut &#238;n mai multe limbi pentru limba specificat&#259;.";
+
+NOT&#258;: Prin &#351;tergerea unei limbi vei &#351;terge deasemenea toate leg&#259;turile sait, categorii &#351;i orice alt con&#355;inut &#238;n mai multe limbi pentru limba specificat&#259;.";
 $locale['669'] = "&#350;tiri";
 $locale['669b'] = "Post&#259;ri pe pagin&#259;";
 $locale['669c'] = "&#350;tiri pe pagin&#259;";

@@ -91,7 +91,8 @@ $locale['blog_0561'] = "Esta categoría ya existe.";
 $locale['blog_0450'] = "Por favor especifique un tema";
 $locale['blog_0451'] = "¿Borrar este Blog?";
 $locale['blog_0452'] = "%s están deshabilitados para todos los elementos.
-Este ajuste sólo tendrá efecto cuando se habilitan de nuevo.";
+
+Este ajuste sólo tendrá efecto cuando se habilitan de nuevo.";
 $locale['blog_0456'] = 'No hay ningún Blog en esta categoría.';
 $locale['blog_0457'] = "Por favor especifique palabras clave";
 $locale['blog_0461'] = 'No hay categorías de Blog definidas.';

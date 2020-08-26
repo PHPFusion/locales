@@ -37,8 +37,10 @@ $locale['421'] = "Pašalinti aukštesnis paneles:";
 $locale['422'] = "Pašalinti žemesnes paneles:";
 $locale['423'] = "Pašalinti dešinės paneles:";
 $locale['424'] = "Pvz.:
-/news.php
-/forum/index.php";
+
+/news.php
+
+/forum/index.php";
 $locale['425'] = "Puslapio adresas";
 $locale['426'] = "Puslapio protokolas:";
 $locale['427'] = "Puslapio hostingas:";
@@ -149,7 +151,8 @@ $locale['682ML'] = "Kalbos nustatymai";
 $locale['683ML'] = "Įjungti daugiakalbę sistemą";
 $locale['684ML'] = "Įjungtos kalbos";
 $locale['685ML'] = "Pasirinkite leidžiamas kalbas. 
-Dėmesio: Ištrindami kalbą, jūs taip pat pašalinate visą su ja susijusį turinį (nuorodas, kategorijas ir kt.) iš sistemos.";
+
+Dėmesio: Ištrindami kalbą, jūs taip pat pašalinate visą su ja susijusį turinį (nuorodas, kategorijas ir kt.) iš sistemos.";
 $locale['669'] = "Naujienos";
 $locale['669b'] = "Tinklaraščių puslapyje";
 $locale['669c'] = "Naujienų puslapyje";

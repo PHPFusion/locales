@@ -37,8 +37,10 @@ $locale['421'] = "Obere mittige Panels ausblenden";
 $locale['422'] = "Untere mittige Panels ausblenden";
 $locale['423'] = "Rechte Panels ausblenden";
 $locale['424'] = "Beispiele:
-/news.php
-/forum/index.php";
+
+/news.php
+
+/forum/index.php";
 $locale['425'] = "Seitenadresse";
 $locale['426'] = "Seitenprotokoll";
 $locale['427'] = "Seitenhost";
