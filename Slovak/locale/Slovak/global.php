@@ -470,7 +470,7 @@ $locale['about'] = "O nás";
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
 // Timer
-$locale['timer_year'] = "rok|roky|rokov";
+$locale['timer_year'] = "rokom|rokmi|rokmi";
 $locale['timer_month'] = "mesiacom|mesiacmi|mesiacmi";
 $locale['timer_day'] = "dňom|dňami|dňami";
 $locale['timer_hour'] = "hodinou|hodinami|hodinami";
