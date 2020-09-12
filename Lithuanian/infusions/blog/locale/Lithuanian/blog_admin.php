@@ -91,7 +91,6 @@ $locale['blog_0561'] = "Tokia kategorija jau egzistuoja.";
 $locale['blog_0450'] = "Prašome nurodyti pavadinimą";
 $locale['blog_0451'] = "Ištrinti šį tinklaraštį?";
 $locale['blog_0452'] = "%s yra išjungta viskam.
-
 Šis nustatymas veiks tik tuomet, kai bus vėl įjungta.";
 $locale['blog_0456'] = 'Šioje kategorijoje nėra tinklaraščių.';
 $locale['blog_0457'] = "Prašome nurodyti raktažodžius";
@@ -111,8 +110,8 @@ $locale['blog_0602'] = "Reikalaujamas ilgas įrašas?";
 $locale['blog_0700'] = "Pateikti įrašą";
 $locale['blog_0701'] = "Ačiū, kad pateikėte savo tinklaraštį";
 $locale['blog_0702'] = "Pateikti kitą tinklaraščio įrašą";
-$locale['blog_0703'] = "Naudokitės šia forma, kad pateiktumėte tinklaraštį. Jūsų pateikimas bus peržiūrėtas 
-administratoriaus. [SITENAME] pasilieka teisę redaguoti ar keisti pateikimą. Tinklaraštis 
+$locale['blog_0703'] = "Naudokitės šia forma, kad pateiktumėte tinklaraštį. Jūsų pateikimas bus peržiūrėtas
+administratoriaus. [SITENAME] pasilieka teisę redaguoti ar keisti pateikimą. Tinklaraštis
 turi atitikti tinklapio temą. Netinkami pateikimai bus ištrinti.";
 $locale['blog_0704'] = "Grįžti į [SITENAME]";
 $locale['blog_601'] = "Albumo atvaizdo dydis:";

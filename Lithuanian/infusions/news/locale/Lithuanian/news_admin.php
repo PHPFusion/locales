@@ -90,7 +90,6 @@ $locale['news_0280'] = "Prašome nurodyti naują pavadinimą";
 $locale['news_0281'] = "Ištrinti šią naujieną?";
 $locale['news_0282'] = "Ištrinti šią kategoriją?";
 $locale['news_0283'] = "%s yra išjungti visiems dalykams.
-
 Šis nustatymas pradės veiks, jeigu tai bus įjungta.";
 $locale['news_0284'] = "Šioje kategorijoje nėra naujienų.";
 $locale['news_0285'] = "Prašome nurodyti raktažodžius";
@@ -110,7 +109,7 @@ $locale['news_0402'] = "Reikalaujama ilgo teksto?";
 $locale['news_0700'] = "Pateikti naujieną";
 $locale['news_0701'] = "Ačiū, kad pateikėte naujieną";
 $locale['news_0702'] = "Pateikti kitą naujieną";
-$locale['news_0703'] = "Naudokite šią formą norėdami pateikti naujieną. Jūsų pateikimas bus peržiūrėtas 
+$locale['news_0703'] = "Naudokite šią formą norėdami pateikti naujieną. Jūsų pateikimas bus peržiūrėtas
 administratoriaus. [SITENAME] pasilieka teisę redaguoti ar pakeisti pateiktą naujieną. Naujienos turinys turi atitikti tinklapio temą. Netinkami pateikimai bus ištrinti.";
 $locale['news_0704'] = "Grįžti į [SITENAME]";
 
