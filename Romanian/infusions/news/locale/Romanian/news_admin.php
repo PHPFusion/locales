@@ -90,7 +90,6 @@ $locale['news_0280'] = "Te rog introdu un subiect";
 $locale['news_0281'] = "&#350;terg aceast&#259; stire?";
 $locale['news_0282'] = "&#350;terg aceast&#259; categorie de &#351;tiri?";
 $locale['news_0283'] = "%s sunt dezactivate pentru toate &#351;tirile.
-
 Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
 $locale['news_0284'] = "Nu exist&#259; &#351;tiri &#238;n aceast&#259; categorie.";
 $locale['news_0285'] = "Te rog s&#259; introdi un cuv&#226;nt cheie";
@@ -110,8 +109,8 @@ $locale['news_0402'] = "&#350;tirea extins&#259; obligatorie?";
 $locale['news_0700'] = "Trimite o &#351;tire";
 $locale['news_0701'] = "&#206;&#355;i mul&#355;umim pentru &#351;tirea trimis&#259;";
 $locale['news_0702'] = "Trimite o alt&#259; &#351;tire";
-$locale['news_0703'] = "Folose&#351;te urm&#259;torul formular pentru trimiterea unei &#351;tiri.<br /> Aceasta va fi verificat&#259; de un 
-administrator. [SITENAME] &#238;&#351;i rezerv&#259; dreptul de a amenda sau edita orice trimitere.<br /> &#350;tirile 
+$locale['news_0703'] = "Folose&#351;te urm&#259;torul formular pentru trimiterea unei &#351;tiri.<br /> Aceasta va fi verificat&#259; de un
+administrator. [SITENAME] &#238;&#351;i rezerv&#259; dreptul de a amenda sau edita orice trimitere.<br /> &#350;tirile
 ar trebui s&#259; fie aplicabile con&#355;inutului acestui portal, iar cele nepotrivite vor fi &#351;terse.";
 $locale['news_0704'] = "Revenire la [SITENAME]";
 
