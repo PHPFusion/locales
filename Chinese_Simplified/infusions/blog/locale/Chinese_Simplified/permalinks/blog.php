@@ -1,5 +1,5 @@
 <?php
-$locale['pl_blog_title'] = "Blog";
-$locale['pl_blog_desc'] = "Enable Permalinks for the Blog on the site.";
-$locale['pl_tags_001'] = "ID of the Blog Item.";
-$locale['pl_tags_002'] = "Title or Subject of the Blog Item.";
+$locale['pl_blog_title'] = "博客";
+$locale['pl_blog_desc'] = "启用网站博客永久链接。";
+$locale['pl_tags_001'] = "博客条目ID。";
+$locale['pl_tags_002'] = "博客项目的标题或主题。";

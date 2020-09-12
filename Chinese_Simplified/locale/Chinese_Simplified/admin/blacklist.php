@@ -1,5 +1,5 @@
 <?php
-$locale['BLS_000'] = "Blacklist"; //406
+$locale['BLS_000'] = "黑名单"; //406
 //Blacklist message
 $locale['BLS_010'] = "无效的电子邮件或 IP 地址。";
 $locale['BLS_011'] = "将用户添加到黑名单。";
@@ -15,9 +15,9 @@ $locale['BLS_022'] = "添加黑名单用户";
 $locale['BLS_023'] = "目前显示 %d %d 黑名单条目总数。";
 
 $locale['BLS_030'] = "黑名单信息"; //461
-$locale['BLS_031'] = "Admin"; //467
-$locale['BLS_032'] = "Date";  //468
-$locale['BLS_033'] = "Options"; //462
+$locale['BLS_031'] = "管理员"; //467
+$locale['BLS_032'] = "日期";  //468
+$locale['BLS_033'] = "选项"; //462
 $locale['BLS_034'] = "黑名单IP地址: [STRONG]或[/STRONG]"; //441
 $locale['BLS_035'] = "黑名单电子邮件地址"; //442
 $locale['BLS_036'] = "添加黑名单的原因"; //443
@@ -25,20 +25,21 @@ $locale['BLS_037'] = "黑名单用户";  //444
 $locale['BLS_038'] = "更新";
 $locale['BLS_039'] = "全部选择";
 
-$locale['BLS_MS'] = "Entering an IP address will prevent a user whose IP address matches the entry from visiting this site.
-You can enter a full IP, e.g. <em>123.45.67.89.</em>, or a partial IP, e.g. <em>123.45.67</em> or <em>123.45</em>.
-Please note: IPv6 addresses are converted to their full length form on this site,
-e.g. <em>ABCD:1234:5:6:7:8:9:FF</em> will be shown as <em>ABCD:1234:0005:0006:0007:0008:0009:00FF</em>.
-Mixed IP addresses (those contain both IPv6 and IPv4 part) will not be checked for partial match.
+$locale['BLS_MS'] = "输入IP地址将防止其IP地址匹配条目的用户访问此网站。
+您可以输入完整的 IP，如 <em>23.45.67.89。</em>或者部分IP，e。 。 
+23.45.67</em> 或 <em>123.45</em>。
+请注意：IPv6地址被转换为本站点上的完整长度表单。
+例如： <em>ABCD:1234:5:6:7:8:9:FF</em> 将显示为<em> ABCD:1234:0005:0006:00007:00008:00009:00FF</em>
+混合IP地址(包含IPv6和IPv4部分)不会被检查为部分匹配。
 <br /><br />
-Entering an email address will prevent members from registering using that address.
-You can enter a full email address, e.g. <em>foo@bar.com</em>, or an email domain, e.g. <em>bar.com</em>.<br /><br />
+输入电子邮件地址将阻止成员使用该地址注册。
+您可以输入完整的电子邮件地址，e。 。 <em>foo@bar.com</em>，或电子邮件域，例如 <em>bar.com</em>。<br /><br />
 
-% - matches any string.<br /><br />
+% - 匹配任何字符串<br /><br />
 
-%.%.%.%@domain.tld bans any address that contains at least 3 dots.<br />
-%+%@domain.tld bans any address that contains at least one plus sign.<br />
-%@domain.tld bans any address from domain.tld<br />
-%.domain.tld bans all sub-domains of domain.tld<br />
-%payday% bans any address that contains the word \"payday\" which was very often on sites.<br />
-domain.tld is an alias of %@domain.tld to make it compatible with rules defined in v7.<br />"; //440
+%.%.%.%@domain.tld禁止含有至少 3 点的任何地址。<br />
+ %+%@domain.tld禁止任何含有至少一个加号的地址。<br />
+%@domain.tld 禁止任何地址来自域名。tld<br />
+%.domain.tld禁止所有子域名。 老<br />
+%payday% 禁止任何含有“付费日”字样的地址，这种地址常常出现在网站上。<br />
+domain.tld是一个别名为 %@domain.tld 来使它与v7中定义的规则兼容。<br />"; //440

@@ -17,7 +17,7 @@ $locale['blog_0145'] = "博客提交已被删除";
 $locale['blog_0146'] = "博客提交已发布";
 $locale['blog_0147'] = "博客提交保存为草稿";
 $locale['blog_0148'] = "发布者 ";
-$locale['blog_0149'] = "%s has been disabled and will not take effect.";
+$locale['blog_0149'] = "%s 已被禁用，不会生效。";
 // Blog titles
 $locale['blog_0400'] = "目前的博客";
 $locale['blog_0401'] = "加入博客";
@@ -91,8 +91,7 @@ $locale['blog_0561'] = "此类别已经存在。";
 $locale['blog_0450'] = "请指定主题";
 $locale['blog_0451'] = "删除此博客？";
 $locale['blog_0452'] = "%s 对于所有项目禁用
-
-此设置只会被重用当设置为开.";
+此设置只会被重用当设置为开.";
 $locale['blog_0456'] = '在目前分类中没有博客。';
 $locale['blog_0457'] = "请指定关键词";
 $locale['blog_0461'] = '没有博客分类记录';
@@ -123,14 +122,14 @@ $locale['blog_603'] = "Maximum photo size:";
 $locale['blog_604'] = "Width x Height";
 $locale['blog_605'] = "Maximum file size (bytes):";
 // Blog Settings
-$locale['blog_950'] = "Image Upload";
-$locale['blog_951'] = "Image link:";
+$locale['blog_950'] = "图片上传";
+$locale['blog_951'] = "图片链接";
 $locale['blog_952'] = "Category";
-$locale['blog_953'] = "Blog Item";
-$locale['blog_954'] = "Thumb ratio:";
+$locale['blog_953'] = "博客条目";
+$locale['blog_954'] = "缩略图比率：";
 $locale['blog_955'] = "Original";
 $locale['blog_956'] = "Square";
-$locale['blog_959'] = "Uploaded Photo";
-$locale['blog_960'] = "Category Image";
-$locale['blog_961'] = "Allowed file types:";
+$locale['blog_959'] = "已上传照片";
+$locale['blog_960'] = "分类图像";
+$locale['blog_961'] = "允许的档案类型";
 $locale['blog_submit'] = "%s Blog";

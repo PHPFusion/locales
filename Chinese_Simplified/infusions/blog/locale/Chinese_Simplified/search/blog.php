@@ -1,9 +1,9 @@
 <?php
-$locale['blog.php'] = "Blog";
-$locale['b400'] = "Blog";
-$locale['b401'] = "Blog item";
-$locale['b402'] = "Blog items";
-$locale['b403'] = "found in";
-$locale['b404'] = "Blog subject";
-$locale['b405'] = "Blog text";
-$locale['b406'] = "extended Blog text";
+$locale['blog.php'] = "博客";
+$locale['b400'] = "博客";
+$locale['b401'] = "博客标题";
+$locale['b402'] = "博客项目";
+$locale['b403'] = "发现在";
+$locale['b404'] = "题目";
+$locale['b405'] = "博客文本";
+$locale['b406'] = "扩展博客文本";

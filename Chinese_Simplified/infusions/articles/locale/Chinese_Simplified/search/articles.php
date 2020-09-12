@@ -1,8 +1,8 @@
 <?php
-$locale['articles.php'] = "Articles";
-$locale['a400'] = "Articles";
-$locale['a401'] = "Article";
-$locale['a402'] = "Articles";
-$locale['a403'] = "found in";
-$locale['a404'] = "article subject";
-$locale['a405'] = "article text";
+$locale['articles.php'] = "文章";
+$locale['a400'] = "文章";
+$locale['a401'] = "文章";
+$locale['a402'] = "文章";
+$locale['a403'] = "发现在";
+$locale['a404'] = "文章主题";
+$locale['a405'] = "文章内容";
