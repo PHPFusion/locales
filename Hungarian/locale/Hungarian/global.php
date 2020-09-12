@@ -476,12 +476,12 @@ $locale['about'] = "Szerző";
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
 // Timer
-$locale['timer_year'] = "év|évek";
-$locale['timer_month'] = "hónap|hónapok";
-$locale['timer_day'] = "nap|napok";
-$locale['timer_hour'] = "óra|órák";
-$locale['timer_minute'] = "perc|percek";
-$locale['timer_second'] = "másodperc|másodpercek";
+$locale['timer_year'] = "év|év";
+$locale['timer_month'] = "hó|hó";
+$locale['timer_day'] = "napja|nap";
+$locale['timer_hour'] = "óra|óra";
+$locale['timer_minute'] = "perce|perc";
+$locale['timer_second'] = "mp|mp";
 $locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "beküldés|beküldés";
