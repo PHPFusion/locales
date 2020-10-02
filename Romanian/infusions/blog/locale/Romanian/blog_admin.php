@@ -91,7 +91,7 @@ $locale['blog_0561'] = "Aceast&#259; categorie exist&#259; deja.";
 $locale['blog_0450'] = "Te rog specifica un subiect";
 $locale['blog_0451'] = "&#350;terg aceast&#259; postare pe blog?";
 $locale['blog_0452'] = "%s sunt dezactivate pentru toate post&#259;rile pe blog.
-Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
+Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
 $locale['blog_0456'] = 'Nu exist&#259; post&#259;ri pe blog &#238;n aceast&#259; categorie.';
 $locale['blog_0457'] = "Te rog introdu un cu&#226;nt cheie";
 $locale['blog_0461'] = 'Nu exist&#259; categorii de blog definite.';

@@ -117,4 +117,4 @@ $locale['photo_0024'] = "Imagine &#351;tears&#259;";
 $locale['photo_0025'] = "Cur&#259;&#355;&#259; toate imaginile";
 $locale['photo_0026'] = "[STRONG]ATEN&#354;IE:[/STRONG] Ac&#355;iunea de cur&#259;&#355;are va [STRONG]&#351;terge permanent toate imaginile[/STRONG] din acest album. E&#351;ti sigur?";
 $locale['photo_0027'] = "Confirm&#259; cur&#259;&#355;area";
-$locale['gallery_submit'] = "%s Photos";
+$locale['gallery_submit'] = "%s Imagina";

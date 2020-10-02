@@ -90,7 +90,7 @@ $locale['news_0280'] = "Te rog introdu un subiect";
 $locale['news_0281'] = "&#350;terg aceast&#259; stire?";
 $locale['news_0282'] = "&#350;terg aceast&#259; categorie de &#351;tiri?";
 $locale['news_0283'] = "%s sunt dezactivate pentru toate &#351;tirile.
-Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
+Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
 $locale['news_0284'] = "Nu exist&#259; &#351;tiri &#238;n aceast&#259; categorie.";
 $locale['news_0285'] = "Te rog s&#259; introdi un cuv&#226;nt cheie";
 $locale['news_0300'] = "Nume categorie";
@@ -135,4 +135,4 @@ $locale['news_956'] = "P&#259;trat";
 $locale['news_957'] = "Image on Front-page";
 $locale['news_958'] = "Image on Read-more";
 $locale['news_959'] = "Uploaded Photo";
-$locale['news_submit'] = "%s News";
+$locale['news_submit'] = "%s Știri";

@@ -117,4 +117,4 @@ $locale['download_0309'] = "Salveaz&#259; categorie";
 $locale['download_0350'] = "&#350;terg aceast&#259; categorie?";
 $locale['download_0351'] = "V&#259; rug&#259;m s&#259; introduce&#355;i un nume de categorie.";
 $locale['download_0352'] = "Aceast&#259; categorie exist&#259; deja.";
-$locale['download_submit'] = "%s Downloads";
+$locale['download_submit'] = "%s Descărcări";
