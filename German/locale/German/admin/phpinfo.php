@@ -12,7 +12,7 @@ $locale['407'] = "PHP-Fusion Version";
 $locale['408'] = "Datenbank Prefix";
 $locale['409'] = "Cookie Prefix";
 $locale['410'] = "Internetbrowser und Betriebsystem";
-$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "Übersetzt von: Joerg Harms (J0eR6), Damian Toczek, Mayonesecraft 432, Firehunter, David Gütl, dtechniker, Webmeteor, Ingrimmsch93, SuNflOw1991"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP Einstellungen";
 $locale['423'] = "Safemode";

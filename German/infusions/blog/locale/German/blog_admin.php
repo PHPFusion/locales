@@ -91,7 +91,7 @@ $locale['blog_0561'] = "Es existiert bereits eine Blogkategorie mit dem selben N
 $locale['blog_0450'] = "Du musst einen Betreff angeben.";
 $locale['blog_0451'] = "Bist du dir sicher, dass du den Blog entfernen m&ouml;chtest?";
 $locale['blog_0452'] = "%s sind f&uuml;r alle Eintr&auml;ge deaktiviert.
-Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
+Diese Einstellung wird erst wirksam, wenn diese wieder aktiviert wird.";
 $locale['blog_0456'] = 'Es wurden noch keine Blogs in dieser Kategorie gespeichert.';
 $locale['blog_0457'] = "Du musst Keywords angeben.";
 $locale['blog_0461'] = 'Es wurden noch keine Blogkategorie angelegt.';
