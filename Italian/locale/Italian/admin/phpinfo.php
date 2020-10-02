@@ -12,7 +12,7 @@ $locale['407'] = "Versione PHP-Fusion";
 $locale['408'] = "Prefisso Database";
 $locale['409'] = "Prefisso Cookie";
 $locale['410'] = "Browser e SO";
-$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "Tradotto da: knapnet, Alberto Tartaglione"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Opzioni PHP";
 $locale['423'] = "Modo Manutenzione";
@@ -21,7 +21,7 @@ $locale['425'] = "Supporto per";
 $locale['426'] = "Caricamento Files (misura max del file)";
 $locale['428'] = "Mostra errori";
 $locale['429'] = "Funzioni disattivate";
-$locale['430'] = "n/a";
+$locale['430'] = "n/d";
 $locale['431'] = "versione";
 //Write permission
 $locale['440'] = "Permessi della cartella";

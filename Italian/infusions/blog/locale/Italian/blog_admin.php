@@ -91,7 +91,7 @@ $locale['blog_0561'] = "Questa categoria esiste già.";
 $locale['blog_0450'] = "Si prega di specificare un oggetto";
 $locale['blog_0451'] = "Eliminare questo Blog?";
 $locale['blog_0452'] = "%s sono disabilitati per tutti gli oggetti.
-Questa impostazione avrà effetto solo quando saranno attivate di nuovo.";
+Questa impostazione avrà effetto solo quando saranno attivate di nuovo.";
 $locale['blog_0456'] = 'Non ci sono Blog in questa categoria.';
 $locale['blog_0457'] = "Per favore specificare le parola chiave";
 $locale['blog_0461'] = 'Non ci sono Blog categoria definite.';

@@ -78,7 +78,7 @@ $locale['news_0250'] = "Si prega di specificare un nuovo soggetto";
 $locale['news_0251'] = "Elimina questa notizia?";
 $locale['news_0252'] = "Elimina questa categoria notizie?";
 $locale['news_0253'] = "%s sono disabilitati per tutti i items.
-This impostazione avrà effetto solo quando sono attivate nuovamente.";
+This impostazione avrà effetto solo quando sono attivate nuovamente.";
 $locale['news_0254'] = "Non ci sono nessuna news in questa categoria.";
 $locale['news_0255'] = "Per favore specificare le parole chiave";
 $locale['news_0266'] = "News Date";
