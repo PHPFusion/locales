@@ -12,7 +12,7 @@ $locale['407'] = "Versi PHP-Fusion";
 $locale['408'] = "Prefix Jadual";
 $locale['409'] = "Prefix Cookie";
 $locale['410'] = "Pelayar dan Perisian";
-$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "Terjemah oleh: Frederick MC Chan"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Pengaturan PHP";
 $locale['423'] = "Safemode";
