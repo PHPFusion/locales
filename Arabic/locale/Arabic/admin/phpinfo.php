@@ -12,7 +12,7 @@ $locale['407'] = "إصدار PHP-Fusion";
 $locale['408'] = "سابقة الجداول";
 $locale['409'] = "سابقة الكوكيز";
 $locale['410'] = "المتصفح والنظام التشغيل";
-$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "‮تُرجم بواسطة:PHPar ,iriatum"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "إعدادات PHP";
 $locale['423'] = "وضع التشغيل الآمن";
