@@ -12,11 +12,11 @@ $locale['407'] = "Versión de PHP-Fusion";
 $locale['408'] = "Prefijo de la BD";
 $locale['409'] = "Prefijo de la Cookie";
 $locale['410'] = "Navegador y SO";
-$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "Traducido por: Talocha"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Configuración de PHP";
 $locale['423'] = "Safemode";
-$locale['424'] = "RegisterGlobals";
+$locale['424'] = "Registrar Globales";
 $locale['425'] = "Soporte para";
 $locale['426'] = "Transferencia de Archivos (Tamaño Máx.)";
 $locale['428'] = "Mostrar Errores";
