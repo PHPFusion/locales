@@ -91,7 +91,7 @@ $locale['blog_0561'] = "Denne kategorien finnes alle rede.";
 $locale['blog_0450'] = "Vennligst oppgi et emne";
 $locale['blog_0451'] = "Slett denne Bloggen?";
 $locale['blog_0452'] = "%s er deaktivert for alle elementer.
-Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
+Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
 $locale['blog_0456'] = 'Det er ingen Blogg i denne kategorien.';
 $locale['blog_0457'] = "Vennligst oppgi søkeord";
 $locale['blog_0461'] = 'Det er ikke definert noen Blogg kategorier.';

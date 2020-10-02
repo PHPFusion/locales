@@ -78,7 +78,7 @@ $locale['news_0250'] = "Vennligst spesifiser et nytt emne";
 $locale['news_0251'] = "Skal denne nyheten slettes?";
 $locale['news_0252'] = "Slette denne nyhet?";
 $locale['news_0253'] = "%s er deaktivert for alle punkter.
-Denne innstillingen vil kun tre i kraft når den er aktivert igjen.";
+Denne innstillingen vil kun tre i kraft når den er aktivert igjen.";
 $locale['news_0254'] = "Det er ingen nyheter i denne kategori.";
 $locale['news_0255'] = "Vennligst spesifiser et søkeord";
 $locale['news_0266'] = "News Date";

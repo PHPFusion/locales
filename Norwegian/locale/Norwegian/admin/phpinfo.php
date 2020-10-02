@@ -12,7 +12,7 @@ $locale['407'] = "PHP-Fusion versjon";
 $locale['408'] = "Database navn";
 $locale['409'] = "Cookie navn";
 $locale['410'] = "Nettleser og Operativsystem";
-$locale['411'] = "Translated by:"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "Oversatt av: Preben Keim, Mr.Nobody"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP innstillinger";
 $locale['423'] = "Sikkerhetsmodus";
