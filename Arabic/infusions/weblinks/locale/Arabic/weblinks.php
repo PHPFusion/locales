@@ -2,10 +2,10 @@
 // Overview
 $locale['web_0000'] = "الروابط";
 $locale['web_0001'] = "جميع الروابط";
-$locale['fmt_open'] = "open|open";
+$locale['fmt_open'] = "مفتوح|مفتوح";
 // Sorting
 $locale['web_0030'] = "أحدث المقالات";
-$locale['web_0031'] = "Top Opened";
+$locale['web_0031'] = "الأعلى زيارة";
 $locale['web_0032'] = "الأقدم";
 // Views
 $locale['web_0040'] = "عرض";

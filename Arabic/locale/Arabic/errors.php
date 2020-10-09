@@ -13,7 +13,7 @@ $locale['E_USER_WARNING'] = "تحذير تم إنشاؤه بواسطة المس�
 $locale['E_USER_NOTICE'] = "إشعار تم إنشاؤه بواسطة المستخدم باستخدام دالة trigger_error ()";
 $locale['E_ALL'] = "يحدد كل الرسائل ما عدا E_STRICT";
 $locale['E_STRICT'] = "";
-$locale['err_100'] = "N/A";
-$locale['err_101'] = "WARNING: An error occurred while parsing the page. Please see PHP-Fusion's [ERROR_LOG_URL]Error Log[/ERROR_LOG_URL] for more details.";
+$locale['err_100'] = "لا شيء";
+$locale['err_101'] = "تحذيــر : حدث خطأ أثناء تحليل الصفحة . يرجى الاطلاع على [ERROR_LOG_URL]سجل خطأ [/ERROR_LOG_URL] PHP-Fusion ،  لمزيد من التفاصيل .";
 $locale['err_102'] = "مشاهدة الخطأ!";
 $locale['err_103'] = "{%function%} {%folder%} ليس موجود.";

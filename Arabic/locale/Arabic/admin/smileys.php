@@ -26,7 +26,7 @@ $locale['SMLY_424'] = "تحديث الابتسامة";
 // Current Smileys
 $locale['SMLY_430'] = "الشفرة";
 $locale['SMLY_431'] = "الصورة";
-$locale['SMLY_432'] = "Text";
+$locale['SMLY_432'] = "نص";
 $locale['SMLY_433'] = "الخيارات";
 $locale['SMLY_435'] = "غير فعال";
 $locale['SMLY_436'] = "لم يتم تعريف وجه معبر.";

@@ -1,8 +1,8 @@
 <?php
-$locale['spotlight'] = "Spotlight";
-$locale['spotlight_search'] = "Search for Apps";
-$locale['copyright'] = "Copyright &copy; ";
-$locale['render_engine'] = "Render Engine";
+$locale['spotlight'] = "تسليط ضوء";
+$locale['spotlight_search'] = "البحث عن تطبيقات";
+$locale['copyright'] = "الحقوق محفوظة &copy; ";
+$locale['render_engine'] = "إستدعاء المحرك";
 $locale['artemis_admin'] = "Artemis PHP-Fusion 9";
-$locale['admin_apps'] = "Apps";
-$locale['admin_collapse'] = "Collapse Menu";
+$locale['admin_apps'] = "التطبيقات";
+$locale['admin_collapse'] = "طي القائمة";

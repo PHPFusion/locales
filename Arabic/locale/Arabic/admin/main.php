@@ -127,4 +127,4 @@ $locale['search_msg_102'] = 'فشل في تحميل الصفحة';
 $locale['search_msg_103'] = 'سلسلة البحث قصيرة جدا';
 $locale['search_msg_104'] = 'لم يتم العثور على نتائج';
 
-$locale['new_update_avalaible'] = "A new [LINK]PHP-Fusion v[VERSION] update[/LINK] is available. Please update!";
+$locale['new_update_avalaible'] = "تحديث [LINK]PHP-Fusion v[VERSION] جديد[/LINK] متوفر . الرجاء التحديث!";

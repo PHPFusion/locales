@@ -1,4 +1,4 @@
 <?php
-$locale['uf_geo'] = "User Geo";
-$locale['uf_geo_desc'] = "Country, Region, City, Address, Zip from our Geo DB";
-$locale['uf_geo_error'] = "Geo fields can not be left empty.";
+$locale['uf_geo'] = "موقع المستخدم الجغرافي";
+$locale['uf_geo_desc'] = "البلد ,الولاية ,المدينة ,العنوان ,الرمز البريدي أو السكني من قاعدة بياناتنا الجغرافية";
+$locale['uf_geo_error'] = "حقول موقع المستخدم الجغرافي لا يمكن أن تترك فارغة.";

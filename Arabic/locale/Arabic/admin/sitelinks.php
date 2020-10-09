@@ -35,13 +35,13 @@ $locale['SL_0039'] = "تأكيد النقل";
 $locale['SL_0040'] = "حفظ الرابط";
 $locale['SL_0041'] = "الإعدادات";
 $locale['SL_0042'] = "قم بتكوين إعدادات التنقل في موقعك";
-$locale['SL_0043'] = "Links per page";
-$locale['SL_0044'] = "Maximum site links show on the navigation bar";
-$locale['SL_0045'] = "Number of links";
+$locale['SL_0043'] = "الروابط في كل صفحة";
+$locale['SL_0044'] = "الحد الأقصى لروابط الموقع التي تظهر على شريط الملاحة";
+$locale['SL_0045'] = "عدد الروابط";
 $locale['SL_0046'] = "مجموعة الروابط";
 $locale['SL_0047'] = "تجميع الروابط عندما يتجاوز عدد الروابط الروابط في كل صفحة";
-$locale['SL_0048'] = "No, do not group the links";
-$locale['SL_0049'] = "Yes, group the links as \"Show more\"";
+$locale['SL_0048'] = "لا، لا تقم بتجميع الروابط";
+$locale['SL_0049'] = "نعم ، قم بتجميع الروابط كـ \"عرض المزيد\"";
 
 // Site Links list
 $locale['SL_0050'] = "اسم الرابط";

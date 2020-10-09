@@ -19,12 +19,12 @@ $locale['428'] = "صور المدونة";
 $locale['429'] = "صور تصنيفات المدونة";
 // View Image
 $locale['440'] = "عرض الصورة";
-$locale['441'] = "Unknown file format, cannot display image.";
+$locale['441'] = "صيغة ملف غير معروفة , لا يمكن عرض الصورة.";
 $locale['442'] = "حذف هذه الصورة";
 // Image Management
 $locale['460'] = "الصور";
 $locale['461'] = "عرض";
 $locale['463'] = "هذا المجلد فارغ";
-$locale['464'] = "Update image list for TinyMCE editor";
+$locale['464'] = "تحديث قائمة صور محرر TinyMCE ";
 // Popup Error/Warning Messages
 $locale['470'] = "حذف هذه الصورة؟";

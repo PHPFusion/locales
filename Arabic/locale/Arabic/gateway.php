@@ -64,7 +64,7 @@ $locale['gateway_058'] = "عضو";
 $locale['gateway_059'] = "كلمة المرور";
 
 // General
-$locale['gateway_060'] = "What is";
+$locale['gateway_060'] = "ما هو";
 $locale['gateway_061'] = "في";
 $locale['gateway_062'] = "الكلمات";
 $locale['gateway_063'] = "الأرقام";
@@ -74,4 +74,4 @@ $locale['gateway_065'] = "المتابعة";
 $locale['gateway_066'] = "إجابتك غير صحيحة!<br/>يرجى كتابة جميع الإجابات في سطر واحد. مثال: عشرون أو تسعة عشر";
 $locale['gateway_067'] = "حاول مرة اخرى!";
 $locale['gateway_068'] = "الرجاء معاودة المحاولة في وقت لاحق!";
-$locale['gateway_069'] = "Fusion GateWay";
+$locale['gateway_069'] = "مدخل التسجيل الآمن";

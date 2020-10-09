@@ -65,7 +65,7 @@ $locale['user0'] = "عام";
 $locale['user1'] = "عضو";
 $locale['user2'] = "مدير";
 $locale['user3'] = "المدير العام";
-$locale['user_na'] = "N/A";
+$locale['user_na'] = "لا شيء";
 $locale['user_guest'] = "زائر";
 $locale['user_anonymous'] = "مستخدم مجهول";
 $locale['genitive'] = "%s's %s";
@@ -249,7 +249,7 @@ $locale['global_176'] = "سياسة الخصوصية";
 $locale['global_180'] = "الإدارة الرئيسية";
 $locale['global_181'] = "العودة";
 $locale['global_182'] = "لم يتم إدخال كلمة المرور أو إنها غير صحيحة.";
-$locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_183'] = "انتهت صلاحية جلسة تسجيل الدخول الخاصة بك. يرجى تسجيل الدخول مرة أخرى.";
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -417,7 +417,7 @@ $locale['it'] = "هذا";
 //Tables
 $locale['order'] = "الترتيب";
 $locale['sort'] = "الفرز";
-$locale['id'] = "ID";
+$locale['id'] = "المعرّف";
 $locale['title'] = "العنوان";
 $locale['rights'] = "الحقوق";
 $locale['info'] = "المعلومات";
@@ -436,8 +436,8 @@ $locale['publish'] = "نشر";
 $locale['unpublish'] = "لم يتم النشر";
 $locale['published'] = "منشور";
 $locale['unpublished'] = "غير منشورة";
-$locale['sticky'] = "Sticky";
-$locale['unsticky'] = "Unsticky";
+$locale['sticky'] = "مثبت";
+$locale['unsticky'] = "غير مثبت";
 $locale['draft'] = "المسودة";
 $locale['settings'] = "الاعدادات";
 $locale['posted'] = "أضيف";
