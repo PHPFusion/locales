@@ -1,7 +1,7 @@
 PHP-Fusion Locales
 =================
 
-Download: https://cdn.php-fusion.co.uk/languages/
+Download: https://translations.phpfusion.com/
 
 ### Crowdin
 Invitation Link: https://translate.php-fusion.co.uk/project/php-fusion-locales/invite (Members with no contributions will be removed)
