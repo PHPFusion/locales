@@ -270,9 +270,9 @@ $locale['global_199'] = "ADVERTENCIA: No está configurada la contraseña de adm
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Buscar";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Foro";
+$locale['global_202'] = "Buscar";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Foro";
 //Themes
 $locale['global_210'] = "Ir al Contenido";
 $locale['global_300'] = "No se han encontrado temas";

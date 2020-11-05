@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Conflicto de columna. Existen columnas en [OLD_TABLE] 
 $locale['fields_0668'] = "Tenedor No.2 - Actualizar campo en la misma tabla";
 $locale['fields_0669'] = "Cambio de nombre de columna [FIELD_NAME] en [OLD_TABLE] a [FIELD_NAME_] con atributos de";
 $locale['fields_0670'] = "Datos antiguos";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
