@@ -270,9 +270,9 @@ $locale['global_199'] = "attenzione: non impostata la password di amministratore
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Ricerca";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Ricerca";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Vai al contenuto";
 $locale['global_300'] = "Nessun tema trovato";
