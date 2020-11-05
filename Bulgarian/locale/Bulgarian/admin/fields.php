@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Конфликт в колоната. Няма кол�
 $locale['fields_0668'] = "Разклонение No.2 - Обновяване на поле в същата таблица";
 $locale['fields_0669'] = "Остатъчна колона [FIELD_NAME] в [OLD_TABLE] на [FIELD_NAME_] с принадлежност към ";
 $locale['fields_0670'] = "Стари данни";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
