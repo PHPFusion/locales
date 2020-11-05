@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Конфлікт стовпців. В таблиці [
 $locale['fields_0668'] = "Відгалуження №2 - Оновлення поля тієї самої таблиці";
 $locale['fields_0669'] = "Перейменування стовпця [FIELD_NAME] у таблиці [OLD_TABLE] в [FIELD_NAME_] з параметрами ";
 $locale['fields_0670'] = "Старі дані";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
