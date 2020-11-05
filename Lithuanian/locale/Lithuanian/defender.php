@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Prašome peržiūrėti ir patikrinti laukelį.";
-$locale['error_request'] = "Vykdant užklausą įvyko klaida"; // to be moved
-$locale['regex_error'] = "Prašome patikrinti %s laukelį"; // to be moved
+$locale['error_request'] = "Vykdant užklausą įvyko klaida";
+$locale['regex_error'] = "Prašome patikrinti %s laukelį";
 // Text fields errors
 $locale['error_input_username'] = "Prašome įvesti teisingą vartotojo vardą";
 $locale['error_input_default'] = "Prašome užpildyti šį laukelį";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Prašome įvesti tinkamą raštą";
 $locale['error_input_safemode'] = "Prašome šį laukelį užpildyti tinkamai";
 $locale['error_input_check'] = "Prašome įvesti tinkamą laukelio reikšmę";
 $locale['df_error_text'] = "%s blogai nustatymas, prašome atkreipti dėmesį.";
-$locale['error_invalid_theme'] = "Prašome pasirinkti tinkamą dizainą"; // to be moved
-$locale['error_input_checkbox'] = "Prašome pažymėti šį langelį"; // to be moved
+$locale['error_invalid_theme'] = "Prašome pasirinkti tinkamą dizainą";
+$locale['error_input_checkbox'] = "Prašome pažymėti šį langelį";
 $locale['error_input_file'] = "Prašome pasirinkti tinkamą failą";
 $locale['error_secure_file'] = "Įkeltas failas buvo atmestas dėl įtariamo galimo saugumo pažeidimo";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s nėra tinkamas slaptažodis.";
 $locale['df_403'] = "%s nėra tinkamas numeris.";
 $locale['df_404'] = "%s nėra tinkama data.";
 $locale['df_405'] = "%s nėra tinkamas tinklapio adresas.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Klaidingas failo pavadinimas.";
 $locale['df_416'] = "Įkeliamas failas per didelis. Jis turi būti mažesnis negu %s.";
 $locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Google Recaptcha laukelių modulis";
 $locale['grecaptcha_placeholder_1'] = "TINKLAPIO RAKTAS (SITE KEY) iš Google";
 $locale['grecaptcha_placeholder_2'] = "SLAPTAS RAKTAS (SECRET-KEY) iš Google";
 $locale['no_keys'] = "Panašu, kad dar neturite jokių raktų. Užsiregistruok ir gauk savo [RECAPTCHA_LINK]viešą raktą čia[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Viešas raktas";
 $locale['grecaptcha_0101'] = "Privatus raktas";
 $locale['grecaptcha_0102'] = "Dizainas";

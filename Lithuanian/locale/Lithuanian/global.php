@@ -269,9 +269,9 @@ $locale['global_199'] = "DĖMESIO: administratoriaus slaptažodis nenustatytas, 
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Paieška";
-$locale['global_203'] = " - DUK";
-$locale['global_204'] = " - Forumas";
+$locale['global_202'] = "Paieška";
+$locale['global_203'] = "DUK";
+$locale['global_204'] = "Forumas";
 //Themes
 $locale['global_210'] = "Peršokti prie turinio";
 $locale['global_300'] = "dizainų nerasta";

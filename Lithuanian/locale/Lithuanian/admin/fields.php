@@ -151,3 +151,4 @@ $locale['fields_0667'] = "Stulpelių konfliktas. Lentelėje [OLD_TABLE] yra stul
 $locale['fields_0668'] = "Atšaka Nr.2 - Atnaujinti laukelį toje pačioje lentelėje";
 $locale['fields_0669'] = "Pervadinamas stulpelis [FIELD_NAME] lentelėje [OLD_TABLE] į [FIELD_NAME_] su atributais ";
 $locale['fields_0670'] = "Seni duomenys";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
