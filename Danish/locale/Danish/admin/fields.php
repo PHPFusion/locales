@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Kolonnekonflikt. Kolonner er aktive i den gamle tabel 
 $locale['fields_0668'] = "Fork No.2 - opdater felt i samme tabel";
 $locale['fields_0669'] = "Omdøber kolonnen [FIELD_NAME] i [OLD_TABLE] til [FIELD_NAME_] med attributterne ";
 $locale['fields_0670'] = "Gamle data";
+$locale['fields_0671'] = "Din tabel skal være en gyldig tabel. Din kolonne skal være en kolonne med et bruger-id i den tabel.";

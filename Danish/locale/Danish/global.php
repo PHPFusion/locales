@@ -266,9 +266,9 @@ $locale['global_199'] = "Advarsel: administratorkodeord er ikke oprettet. Klik p
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Søg";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Debatforum";
+$locale['global_202'] = "Søg";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Debatforum";
 //Themes
 $locale['global_210'] = "Spring til indhold";
 $locale['global_300'] = "intet tema fundet";
