@@ -270,9 +270,9 @@ $locale['global_199'] = "AMARAN PENTING: Kata Laluan Admin belum ditetapkan lagi
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Cari";
-$locale['global_203'] = " - Soal Jawab";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Cari";
+$locale['global_203'] = "Soal Jawab";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Langkau ke Kandungan";
 $locale['global_300'] = "Tema situs tidak dapat dikesan";

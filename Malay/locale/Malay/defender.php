@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Sila meyemak dan mengesahkan isi borang.";
-$locale['error_request'] = "Kesalahan didapati semasa memproseskan permintaan anda"; // to be moved
-$locale['regex_error'] = "Sila meyemak dan mengesahkan isi borang - %s"; // to be moved
+$locale['error_request'] = "Kesalahan didapati semasa memproseskan permintaan anda";
+$locale['regex_error'] = "Sila meyemak dan mengesahkan isi borang - %s";
 // Text fields errors
 $locale['error_input_username'] = "Please enter a valid username";
 $locale['error_input_default'] = "Sila isikan isi borang ini";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Sila isikan corak yang sah";
 $locale['error_input_safemode'] = "Sila isikan isi borang dengan betul";
 $locale['error_input_check'] = "Sila menyemak isi borang dan isikan kandungan yang sah";
 $locale['df_error_text'] = "Sila betulkan kesilapan di %s dan memerlukan permerhatian anda.";
-$locale['error_invalid_theme'] = "Sila pilih tema situs yang sah"; // to be moved
-$locale['error_input_checkbox'] = "Silah tandakan kotak semak ini"; // to be moved
+$locale['error_invalid_theme'] = "Sila pilih tema situs yang sah";
+$locale['error_input_checkbox'] = "Silah tandakan kotak semak ini";
 $locale['error_input_file'] = "Sila pilih fail yang sah";
 $locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s bukan kata laluan yang sah.";
 $locale['df_403'] = "%s bukan nombor yang sah.";
 $locale['df_404'] = "%s bukan tarikh yang sah.";
 $locale['df_405'] = "%s bukan alamat URL yang sah.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Nama fail tidak Sah.";
 $locale['df_416'] = "Saiz muatan naik melampaui saiz dibenarkan. Sila cuba dengan saiz fail yang kurang daripada %s.";
 $locale['df_417'] = "Jenis fail muatan naik tidak dibenarkan. Imej yang dibenarkan adalah jenis extension - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Modul Isi Borang Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY daripada Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY daripada Google";
 $locale['no_keys'] = "Anda belum mempunyai kekunci daripada Google lagi? Daftar dan dapatkanlah [RECAPTCHA_LINK]kekunci awam di sini[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Kekunci Awam";
 $locale['grecaptcha_0101'] = "Kekunci Swasta";
 $locale['grecaptcha_0102'] = "Tema";
