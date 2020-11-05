@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Proszę sprawdzić i ponownie zweryfikować pole.";
-$locale['error_request'] = "Wystąpił błąd podczas przetwarzania Twojego żądania"; // to be moved
-$locale['regex_error'] = "Proszę sprawdzić i ponownie zweryfikować pole %s"; // to be moved
+$locale['error_request'] = "Wystąpił błąd podczas przetwarzania Twojego żądania";
+$locale['regex_error'] = "Proszę sprawdzić i ponownie zweryfikować pole %s";
 // Text fields errors
 $locale['error_input_username'] = "Proszę wprowadzić poprawną nazwę użytkownika";
 $locale['error_input_default'] = "Proszę wypełnić to pole";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Proszę wprowadzić prawidłową ścieżkę";
 $locale['error_input_safemode'] = "Proszę prawidłowo wypełnić to pole";
 $locale['error_input_check'] = "Proszę wypełnić poprawną wartość pola";
 $locale['df_error_text'] = "%s sygnalizuje błąd i wymaga Twojej uwagi.";
-$locale['error_invalid_theme'] = "Proszę wybrać prawidłowy motyw"; // to be moved
-$locale['error_input_checkbox'] = "Proszę zaznaczyć to pole wyboru"; // to be moved
+$locale['error_invalid_theme'] = "Proszę wybrać prawidłowy motyw";
+$locale['error_input_checkbox'] = "Proszę zaznaczyć to pole wyboru";
 $locale['error_input_file'] = "Proszę wybrać prawidłowy plik";
 $locale['error_secure_file'] = "Przesłany plik został odrzucony z powodu posiadania złośliwego kodu.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s nie jest prawidłowym hasłem.";
 $locale['df_403'] = "%s nie jest prawidłowym numerem.";
 $locale['df_404'] = "%s nie jest prawidłową datą.";
 $locale['df_405'] = "%s nie jest prawidłowym adresem witryny.";
+$locale["df_406"] = "%s ma ustawiony nieznany typ.";
 $locale['df_415'] = "Nieprawidłowa nazwa pliku.";
 $locale['df_416'] = "Przesyłany plik jest za duży. Plik musi być mniejszy niż %s.";
 $locale['df_417'] = "Przesyłany plik nie jest prawidłowym typem pliku. Plik musi być jednym z następujących typów plików - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Moduł pola Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Google";
 $locale['no_keys'] = "Wygląda na to, że nie masz jeszcze kluczy. Zarejestruj się i uzyskaj swój [RECAPTCHA_LINK]klucz publiczny tutaj[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Klucz publiczny";
 $locale['grecaptcha_0101'] = "Klucz prywatny";
 $locale['grecaptcha_0102'] = "Motyw";

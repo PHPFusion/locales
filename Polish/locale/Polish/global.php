@@ -266,9 +266,9 @@ $locale['global_199'] = "OSTRZEŻENIE: nie ustawiono hasła administratora, klik
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Wyszukiwarka";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Wyszukiwarka";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Przejdź do zawartości";
 $locale['global_300'] = "nie znaleziono motywu";
