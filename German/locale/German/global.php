@@ -269,9 +269,9 @@ $locale['global_199'] = "Warnung! Du hast kein Administratorpasswort festgelegt,
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Suche";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Foren";
+$locale['global_202'] = "Suche";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Foren";
 //Themes
 $locale['global_210'] = "Springe zu Inhalt";
 $locale['global_300'] = "Es wurde kein Theme gefunden.";

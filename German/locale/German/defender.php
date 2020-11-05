@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Bitte &uuml;berpr&uuml;fe das Feld.";
-$locale['error_request'] = "Es ist ein Fehler w&auml;hrend der Verarbeitung deiner Anfrage aufgetreten."; // to be moved
-$locale['regex_error'] = "Bitte &uuml;berpr&uuml;fe das Feld %s."; // to be moved
+$locale['error_request'] = "Es ist ein Fehler w&auml;hrend der Verarbeitung deiner Anfrage aufgetreten.";
+$locale['regex_error'] = "Bitte &uuml;berpr&uuml;fe das Feld %s.";
 // Text fields errors
 $locale['error_input_username'] = "Bitte gib einen gültigen Benutzernamen ein";
 $locale['error_input_default'] = "Du musst das Feld ausf&uuml;llen.";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Du musst ein g&uuml;ltiges Muster angeben.";
 $locale['error_input_safemode'] = "Du musst das Feld korrekt ausf&uuml;llen.";
 $locale['error_input_check'] = "Du musst einen korrekten Wert f&uuml;r das Feld angeben.";
 $locale['df_error_text'] = "%s hat Fehler und ben&ouml;tigt deine Aufmerksamkeit.";
-$locale['error_invalid_theme'] = "Du musst ein g&uuml;ltiges Seitendesign ausw&auml;hlen."; // to be moved
-$locale['error_input_checkbox'] = "Du musst dieses K&auml;stchen ausw&auml;hlen."; // to be moved
+$locale['error_invalid_theme'] = "Du musst ein g&uuml;ltiges Seitendesign ausw&auml;hlen.";
+$locale['error_input_checkbox'] = "Du musst dieses K&auml;stchen ausw&auml;hlen.";
 $locale['error_input_file'] = "Du musst eine g&uuml;ltige Datei ausw&auml;hlen.";
 $locale['error_secure_file'] = "Die hochgeladene Datei wurde wegen böswilligem Inhalt abgelehnt.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s ist kein g&uuml;ltiges Passwort.";
 $locale['df_403'] = "%s ist keine g&uuml;ltige Nummer.";
 $locale['df_404'] = "%s ist kein g&uuml;ltiges Datum.";
 $locale['df_405'] = "%s ist keine g&uuml;ltige Adresse.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Der Dateiname ist nicht g&uuml;ltig.";
 $locale['df_416'] = "Die Datei ist zu gro&szlig;. Die Datei muss kleiner als %s sein..";
 $locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Google Recaptcha Modul";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY von Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY von Google";
 $locale['no_keys'] = "Es sieht so aus, als h&auml;ttest du derzeit noch keinen Schl&uuml;ssel. Registriere dich und erhalte deinen Public Key [RECAPTCHA_LINK]hier[/RECAPTCHA_LINK].";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Public Key";
 $locale['grecaptcha_0101'] = "Private Key";
 $locale['grecaptcha_0102'] = "Design";
