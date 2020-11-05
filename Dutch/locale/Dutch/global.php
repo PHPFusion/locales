@@ -266,9 +266,9 @@ $locale['global_199'] = "<strong>Waarschuwing:</strong> beheerderwachtwoord niet
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Zoeken";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Zoeken";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Ga naar inhoud";
 $locale['global_300'] = "geen thema gevonden";

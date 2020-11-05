@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Controleer en bevestig a.u.b. opnieuw het veld.";
-$locale['error_request'] = "Er is een fout opgetreden tijdens de verwerking van uw verzoek"; // to be moved
-$locale['regex_error'] = "Controleer en bevestig a.u.b. opnieuw het %s veld"; // to be moved
+$locale['error_request'] = "Er is een fout opgetreden tijdens de verwerking van uw verzoek";
+$locale['regex_error'] = "Controleer en bevestig a.u.b. opnieuw het %s veld";
 // Text fields errors
 $locale['error_input_username'] = "Vul a.u.b. een geldige gebruikersnaam in";
 $locale['error_input_default'] = "Vul a.u.b. het veld in";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Geef a.u.b. een geldig patroon op";
 $locale['error_input_safemode'] = "Vul dit veld a.u.b. netjes in";
 $locale['error_input_check'] = "Vul a.u.b. een correcte waarde in";
 $locale['df_error_text'] = "%s heeft een fout en verreist uw aandacht.";
-$locale['error_invalid_theme'] = "Selecteer a.u.b. een geldig thema"; // to be moved
-$locale['error_input_checkbox'] = "Vink a.u.b. deze checkbox aan"; // to be moved
+$locale['error_invalid_theme'] = "Selecteer a.u.b. een geldig thema";
+$locale['error_input_checkbox'] = "Vink a.u.b. deze checkbox aan";
 $locale['error_input_file'] = "Selecteer a.u.b. een geldig bestand";
 $locale['error_secure_file'] = "Het ge&uuml;ploaded bestand is afgewezen door een mogelijk aanwezigheid van kwaadaardige inhoud.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s is geen geldig wachtwoord.";
 $locale['df_403'] = "%s is geen geldig nummer.";
 $locale['df_404'] = "%s is geen geldig daum.";
 $locale['df_405'] = "%s is geen geldig URL.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Ongeldige bestandsnaam.";
 $locale['df_416'] = "Upload-bestand te groot. Bestand dient kleiner te zijn dan %s.";
 $locale['df_417'] = "Upload-bestand is geen geldig bestandstype. Bestand dient een van de volgende types te zijn - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Google Recaptcha Veld Module";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY van Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY van Google";
 $locale['no_keys'] = "Het lijkt of u nog geen sleutes heeft. Registreer en ontvang uw [RECAPTCHA_LINK]publieke sleutel hier[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Publieke Sleutel";
 $locale['grecaptcha_0101'] = "Priv&eacute; Sleutel";
 $locale['grecaptcha_0102'] = "Thema";

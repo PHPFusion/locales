@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Kolom conflict. Er zijn kolommen in [OLD_TABLE] die be
 $locale['fields_0668'] = "Vork Nr.2 - Werk veld bij op dezelfde tabel";
 $locale['fields_0669'] = "Wijzigen kolom [FIELD_NAME] in [OLD_TABLE] naar [FIELD_NAME_] met attributen van ";
 $locale['fields_0670'] = "Oude Gegevens";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
