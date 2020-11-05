@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Konflikt stĺpcov. V stĺpcoch [OLD_TABLE] existujú v
 $locale['fields_0668'] = "Fork č.2 - Aktualizovať pole na rovnakej tabuľke";
 $locale['fields_0669'] = "Premenovať stĺpec [FIELD_NAME] na [OLD_TABLE] na [FIELD_NAME_] s atribútmi ";
 $locale['fields_0670'] = "Staré dáta";
+$locale['fields_0671'] = "Vaša tabuľka musí byť platná tabuľka. Váš stĺpec musí byť stĺpcom Id používateľa v tejto tabuľke.";

@@ -266,9 +266,9 @@ $locale['global_199'] = "UPOZORNENIE: heslo administrátora nie je nastavené, k
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Vyhľadávanie";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Fórum";
+$locale['global_202'] = "Vyhľadávanie";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Fórum";
 //Themes
 $locale['global_210'] = "Prejsť na obsah";
 $locale['global_300'] = "nebola nájdená žiadna téma";
