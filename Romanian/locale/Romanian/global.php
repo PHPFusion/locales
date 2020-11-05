@@ -271,9 +271,9 @@ $locale['global_199'] = "Aten&#355;ie: parola de administrare nu este setat&#259
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Search";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Search";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Salt la con&#355;inut";
 $locale['global_300'] = "Nu am g&#259;sit nicio tematic&#259;.";

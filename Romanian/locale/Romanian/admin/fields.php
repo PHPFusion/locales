@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Conflict coloane. Exist&#259; coloane &#238;n tabelul 
 $locale['fields_0668'] = "Pas 2 -  Actualizare c&#226;mp &#238;n acela&#351;i tabel";
 $locale['fields_0669'] = "Coloane r&#259;mase [FIELD_NAME] &#238;n [OLD_TABLE] cu  atribute de [FIELD_NAME_] ";
 $locale['fields_0670'] = "Date vechi";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
