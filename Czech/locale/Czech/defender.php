@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Zkontrolujte zápis a znovu ověřte správnost";
-$locale['error_request'] = "Během zpracování žádosti došlo k chybě"; // to be moved
-$locale['regex_error'] = "Zkontrolujte a znovu potvrďte platnost %s pole"; // to be moved
+$locale['error_request'] = "Během zpracování žádosti došlo k chybě";
+$locale['regex_error'] = "Zkontrolujte a znovu potvrďte platnost %s pole";
 // Text fields errors
 $locale['error_input_username'] = "Zadejte své uživatelské jméno";
 $locale['error_input_default'] = "Vyplňte toto pole";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Zadejte nyní platný vzor";
 $locale['error_input_safemode'] = "Vyplňte toto pole správně";
 $locale['error_input_check'] = "Vyplňte správnou hodnotu pole";
 $locale['df_error_text'] = "%s má chybu a vyžaduje vaši pozornost.";
-$locale['error_invalid_theme'] = "Vyberte platné vzhledy"; // to be moved
-$locale['error_input_checkbox'] = "Označte zaškrtávací políčko"; // to be moved
+$locale['error_invalid_theme'] = "Vyberte platné vzhledy";
+$locale['error_input_checkbox'] = "Označte zaškrtávací políčko";
 $locale['error_input_file'] = "Vyberte platný soubor";
 $locale['error_secure_file'] = "Nahraný soubor byl zamítnut kvůli možné škodlivé užitečné zátěži.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s není platné heslo.";
 $locale['df_403'] = "%s není platné číslo.";
 $locale['df_404'] = "%s není platný datum.";
 $locale['df_405'] = "%s není platná adresa URL.";
+$locale["df_406"] = "%s má nastaven neznámý typ.";
 $locale['df_415'] = "Neplatný název souboru.";
 $locale['df_416'] = "Nahraný soubor je příliš velký. Soubor musí být menší než %s.";
 $locale['df_417'] = "Nahraný soubor není platný typ souboru. Soubor musí být jeden z následujících typů souborů - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Referenční modul Google reCAPTCHA";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Googlu";
 $locale['no_keys'] = "Vypadá to, že ještě žádné klíče nemáte. Zaregistrujte se a získejte své [RECAPTCHA_LINK]klíče zde[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Klíč stránky";
 $locale['grecaptcha_0101'] = "Tajný klíč";
 $locale['grecaptcha_0102'] = "Téma";

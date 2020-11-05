@@ -105,13 +105,19 @@ $locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo j
 // Email activation
 $locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
 $locale['u151'] = "Vítejte v [SITENAME]";
-$locale['u152'] = "Dobrý den, USER_NAME,<br/>\r\n
-Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje:<br/>\r\n
-Uživatelské jméno: USER_NAME<br/>\r\n
-Heslo: USER_PASSWORD<br/>\r\n
-Aktivujte svůj účet prostřednictvím následujícího odkazu: ACTIVATION_LINK<br/>\r\n
-S pozdravem,<br/>\r\n
-SITEUSERNAME ";
+$locale['u152'] = "Dobrý den, USER_NAME,<br/>
+
+Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje:<br/>
+
+Uživatelské jméno: USER_NAME<br/>
+
+Heslo: USER_PASSWORD<br/>
+
+Aktivujte svůj účet prostřednictvím následujícího odkazu: <a href='ACTIVATION_LINK'>Aktivovat účet</a><br/>
+
+S pozdravem,<br/>
+
+SITEUSERNAME";
 
 $locale['u153'] = "Aktivační e-mail nelze odeslat.";
 $locale['u154'] = "Prosím, [LINK] kontaktujte [/LINK] administrátora webu.";

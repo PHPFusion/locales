@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Konflikt sloupců. Ve sloupcích [OLD_TABLE] existují
 $locale['fields_0668'] = "Vidlice č.2 - Aktualizovat pole na stejné tabulce";
 $locale['fields_0669'] = "Přejmenovat sloupec [FIELD_NAME] na [OLD_TABLE] na [FIELD_NAME_] s atributy ";
 $locale['fields_0670'] = "Staré údaje";
+$locale['fields_0671'] = "Vaša tabuľka musí být platná tabulka. Váš sloupec musí být sloupcom Id uživatele v této tabulce.";
