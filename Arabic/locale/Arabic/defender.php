@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "يرجى مراجعة وإعادة التحقق من الحقل.";
-$locale['error_request'] = "حدث خطأ أثناء معالجة طلبك"; // to be moved
-$locale['regex_error'] = "يرجى مراجعة وإعادة التحقق من الحقل %s "; // to be moved
+$locale['error_request'] = "حدث خطأ أثناء معالجة طلبك";
+$locale['regex_error'] = "يرجى مراجعة وإعادة التحقق من الحقل %s ";
 // Text fields errors
 $locale['error_input_username'] = "الرجاء إدخال اسم مستخدم صالح";
 $locale['error_input_default'] = "يرجى تعبئة هذا الحقل";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "الرجاء إدخال نمط صحيح";
 $locale['error_input_safemode'] = "الرجاء كتابة البيانات بشكل صحيح";
 $locale['error_input_check'] = "الرجاء كتابة القيمة الصحيحة";
 $locale['df_error_text'] = "%s يوجد به خطأ ويتطلب انتباهك.";
-$locale['error_invalid_theme'] = "يرجى اختيار قالب صالح"; // to be moved
-$locale['error_input_checkbox'] = "يرجى وضع علامة على صندوق تحديد الإختيار هذا"; // to be moved
+$locale['error_invalid_theme'] = "يرجى اختيار قالب صالح";
+$locale['error_input_checkbox'] = "يرجى وضع علامة على صندوق تحديد الإختيار هذا";
 $locale['error_input_file'] = "من فضلك حدد ملفاً صحيحاً";
 $locale['error_secure_file'] = "تم رفض الملف بسبب احتمالية وجود حمولة ضارة.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s هو كلمة مرور غير صحيحة.";
 $locale['df_403'] = "%s هو رقم غير صحيح.";
 $locale['df_404'] = "%s هو تاريخ غير صحيح.";
 $locale['df_405'] = "%s هو رابط غير صحيح.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "إسم ملف غير صحيح.";
 $locale['df_416'] = "تحميل الملف كبير جداً. يجب أن يكون الملف أقل من %s.";
 $locale['df_417'] = "تحميل الملف ليس نوع ملف صالح. الملف يجب أن يكون واحد من أنواع الملفات التالية - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "موديول حقل ريكابتشا جوجل";
 $locale['grecaptcha_placeholder_1'] = "مفتاح الموقع من جوجل";
 $locale['grecaptcha_placeholder_2'] = "المفتاح السري من جوجل";
 $locale['no_keys'] = "يبدو أنك لا تمتلك أي مفاتيح بعد . قم بالتسجيل والحصول على مفتاحك العام [RECAPTCHA_LINK]هنا [/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "المفتاح العام";
 $locale['grecaptcha_0101'] = "المفتاح الخاص";
 $locale['grecaptcha_0102'] = "الثيم";

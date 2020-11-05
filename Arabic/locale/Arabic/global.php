@@ -266,9 +266,9 @@ $locale['global_199'] = "تحذير: كلمة سر المدير العام لم 
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - البحث";
-$locale['global_203'] = " - الأسئلة المتكررة";
-$locale['global_204'] = " - المنتدى";
+$locale['global_202'] = "البحث";
+$locale['global_203'] = "الأسئلة المتكررة";
+$locale['global_204'] = "المنتدى";
 //Themes
 $locale['global_210'] = "الانتقال إلى المحتوى";
 $locale['global_300'] = "لا يوجد قالب";
