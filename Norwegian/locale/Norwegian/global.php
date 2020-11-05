@@ -269,9 +269,9 @@ $locale['global_199'] = "ADVARSEL: admin passord er ikke angitt, klikk [LINK]Red
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Search";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Search";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Hopp til innhold";
 $locale['global_300'] = "tema ikke funnet";

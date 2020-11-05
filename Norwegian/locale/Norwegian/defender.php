@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Vennligst kontroller og gjenta godkjenning av feltet.";
-$locale['error_request'] = "Det oppstod en feil under behandling av din forespørsel"; // to be moved
-$locale['regex_error'] = "Vennligst sjekk og godkjenn  %s feltet"; // to be moved
+$locale['error_request'] = "Det oppstod en feil under behandling av din forespørsel";
+$locale['regex_error'] = "Vennligst sjekk og godkjenn  %s feltet";
 // Text fields errors
 $locale['error_input_username'] = "Please enter a valid username";
 $locale['error_input_default'] = "Vennligst fyll ut dette feltet";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Vennligst velg et gyldig mønster";
 $locale['error_input_safemode'] = "Vennligst fyll ut dette feltet riktig";
 $locale['error_input_check'] = "Vennligst fyll ut en korrekt feltverdi";
 $locale['df_error_text'] = "%s er lagt til feil og krever din oppmerksomhet.";
-$locale['error_invalid_theme'] = "Vennligst velg et godkjent tema"; // to be moved
-$locale['error_input_checkbox'] = "Vennligst kryss av her"; // to be moved
+$locale['error_invalid_theme'] = "Vennligst velg et godkjent tema";
+$locale['error_input_checkbox'] = "Vennligst kryss av her";
 $locale['error_input_file'] = "Vennligst velg en gyldig fil";
 $locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s er ikke et gyldig passord.";
 $locale['df_403'] = "%s er ikke et gyldig tall.";
 $locale['df_404'] = "%s er ikke en gyldig dato.";
 $locale['df_405'] = "%s er ikke en gyldig nettadresse.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Ugyldig filnavn.";
 $locale['df_416'] = "Fil for opplasting er for stor. Filen må være mindre enn %s.";
 $locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Google Recaptcha Field Module";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY from Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY from Google";
 $locale['no_keys'] = "Det ser ut som du ikke har noen passord ennu. Registrer og få ditt <a href='https://www.google.com/recaptcha/admin' target='_BLANK'>offentlige passord her</a>";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Offentlig Passord";
 $locale['grecaptcha_0101'] = "Privat Passord";
 $locale['grecaptcha_0102'] = "Tema";
