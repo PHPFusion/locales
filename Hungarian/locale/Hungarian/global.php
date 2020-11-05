@@ -269,9 +269,9 @@ $locale['global_199'] = "FIGYELEM: Az admin jelszavad még nem állítottad be -
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Kereső";
-$locale['global_203'] = " - GyIK";
-$locale['global_204'] = " - Fórum";
+$locale['global_202'] = "Kereső";
+$locale['global_203'] = "GyIK";
+$locale['global_204'] = "Fórum";
 //Themes
 $locale['global_210'] = "Ugrás az oldal tartalmához";
 $locale['global_300'] = "nem található felület";

@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Oszlop ütközés. Ilyen nevű oszlop már létezik [O
 $locale['fields_0668'] = "No.2 - Módosítva a Field Ugyabban a táblában";
 $locale['fields_0669'] = "[FIELD_NAME] Oszlopot átneveztük, régi neve [OLD_TABLE], új neve [FIELD_NAME_], jellemzői ";
 $locale['fields_0670'] = "Régi Adat";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";

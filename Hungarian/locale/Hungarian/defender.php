@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Kérlek ellenőrizd és érvényesítsd újra a mezőt.";
-$locale['error_request'] = "Hiba a művelet végrehajtása során"; // to be moved
-$locale['regex_error'] = "Kérjük, ellenőrizze ezt a %s mezőt"; // to be moved
+$locale['error_request'] = "Hiba a művelet végrehajtása során";
+$locale['regex_error'] = "Kérjük, ellenőrizze ezt a %s mezőt";
 // Text fields errors
 $locale['error_input_username'] = "Kérlek Adj meg érvényes Felhasználó Nevet";
 $locale['error_input_default'] = "Kérem töltse ki ezt a mezőt";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Adjon meg egy érvényes mintát";
 $locale['error_input_safemode'] = "Kérjük, töltse ki a mezőt megfelelően";
 $locale['error_input_check'] = "Kérjük, töltse ki helyesen a mező értékét";
 $locale['df_error_text'] = "%s hibás és beavatkozást igényel.";
-$locale['error_invalid_theme'] = "Kérem válaszon felületet"; // to be moved
-$locale['error_input_checkbox'] = "Kérjük, jelölje be a jelölőnégyzetet"; // to be moved
+$locale['error_invalid_theme'] = "Kérem válaszon felületet";
+$locale['error_input_checkbox'] = "Kérjük, jelölje be a jelölőnégyzetet";
 $locale['error_input_file'] = "Kérem válaszon filét";
 $locale['error_secure_file'] = "A feltöltött fájl elutasításra került a rosszindulatú tartalom miatt.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s nem helyes jelszó.";
 $locale['df_403'] = "%s nem valós szám.";
 $locale['df_404'] = "%s nem valós dátum.";
 $locale['df_405'] = "%s nem valós URL.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Hibás fájlnév.";
 $locale['df_416'] = "A feltöltött fájl túl nagy. A fájlnak ennél kisebbnek kell lennie: %s.";
 $locale['df_417'] = "A feltöltött fájl nem megengedett fájltípus. Megengedett: %s.";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Google Recaptcha Profil Modul";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY a Google-tól";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY a Google-tól";
 $locale['no_keys'] = "Úgy tűnik nincs beállítva kulcsod. Regisztrálj és kapd meg a RECAPTCHAd itt: [RECAPTCHA_LINK]Nyilvános kulcsok[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Helyi kulcs";
 $locale['grecaptcha_0101'] = "Biztonsági kulcs";
 $locale['grecaptcha_0102'] = "Felület";
