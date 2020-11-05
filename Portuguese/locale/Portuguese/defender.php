@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Por favor, verifique e revalide o campo.";
-$locale['error_request'] = "Houve um erro ao processar seu pedido"; // to be moved
-$locale['regex_error'] = "Por favor, verifique e revalide o campo %s"; // to be moved
+$locale['error_request'] = "Houve um erro ao processar seu pedido";
+$locale['regex_error'] = "Por favor, verifique e revalide o campo %s";
 // Text fields errors
 $locale['error_input_username'] = "Por favor, introduz um nome de utilizador válido";
 $locale['error_input_default'] = "Por favor, preencha este campo";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Por favor introduza uma data válida";
 $locale['error_input_safemode'] = "Por favor, preencha este campo correctamente";
 $locale['error_input_check'] = "Por favor, preencha um valor correto de campo";
 $locale['df_error_text'] = "%s tem um erro e requer sua atenção.";
-$locale['error_invalid_theme'] = "Por favor, selecione um tema válido"; // to be moved
-$locale['error_input_checkbox'] = "Por favor, assinala esta caixa"; // to be moved
+$locale['error_invalid_theme'] = "Por favor, selecione um tema válido";
+$locale['error_input_checkbox'] = "Por favor, assinala esta caixa";
 $locale['error_input_file'] = "Por favor, selecione um tema válido";
 $locale['error_secure_file'] = "O arquivo enviado foi rejeitado devido à possibilidade de carregamento malicioso.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s não é uma palavra passe válida.";
 $locale['df_403'] = "%s não é um número válido.";
 $locale['df_404'] = "%s não é uma data válida.";
 $locale['df_405'] = "%s não é uma URL válida.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Nome de ficheiro inválido.";
 $locale['df_416'] = "Ficheiro muito grande. O ficheiro deve ser menor que %s.";
 $locale['df_417'] = "O ficheiro enviado não é um tipo de ficheiro válido. O ficheiro deve ser um dos seguintes tipos de ficheiro - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Módulo de Campo do Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "KEY SITE do Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY do Google";
 $locale['no_keys'] = "Parece que você ainda não tem nenhuma chave. Registe-se e obtenha sua [RECAPTCHA_LINK]chave pública aqui[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Chave do Site";
 $locale['grecaptcha_0101'] = "Chave secreta";
 $locale['grecaptcha_0102'] = "Tema";

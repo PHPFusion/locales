@@ -266,9 +266,9 @@ $locale['global_199'] = "AVISO: palavra-passe do administrador não definida, cl
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Pesquisar";
-$locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Fórum";
+$locale['global_202'] = "Pesquisar";
+$locale['global_203'] = "FAQ";
+$locale['global_204'] = "Fórum";
 //Themes
 $locale['global_210'] = "Ir para o Conteúdo";
 $locale['global_300'] = "nenhum tema encontrado";
