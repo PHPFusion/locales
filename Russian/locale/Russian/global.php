@@ -266,9 +266,9 @@ $locale['global_199'] = "Внимание: не установлен админ�
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Поиск";
-$locale['global_203'] = " - ЧаВо";
-$locale['global_204'] = " - Форум";
+$locale['global_202'] = "Поиск";
+$locale['global_203'] = "ЧаВо";
+$locale['global_204'] = "Форум";
 //Themes
 $locale['global_210'] = "Пропустить";
 $locale['global_300'] = "Тема не найдена";
