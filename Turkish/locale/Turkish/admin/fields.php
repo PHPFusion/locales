@@ -150,3 +150,4 @@ $locale['fields_0667'] = "Sütun Çatışması. [OLD_TABLE] Üzerinde Varolan S�
 $locale['fields_0668'] = "Fork No.2 - Alanı Aynı Tabloda Güncelle";
 $locale['fields_0669'] = "[OLD_TABLE] Alanındaki [FIELD_NAME] Sütununu [FIELD_NAME_] Alanına, Aşağıdaki Özelliklere Sahip Olarak Yeniden Adlandırma: ";
 $locale['fields_0670'] = "Eski Veriler";
+$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";

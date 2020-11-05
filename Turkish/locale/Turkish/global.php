@@ -266,9 +266,9 @@ $locale['global_199'] = "UYARI: Yönetici şifresi ayarlanmadı, ayarlamak için
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
-$locale['global_202'] = " - Ara";
-$locale['global_203'] = " - SSS";
-$locale['global_204'] = " - Forum";
+$locale['global_202'] = "Ara";
+$locale['global_203'] = "SSS";
+$locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "İçeriğe geç";
 $locale['global_300'] = "tema bulunamadı";

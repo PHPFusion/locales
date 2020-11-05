@@ -1,7 +1,7 @@
 <?php
 $locale['validate'] = "Lütfen alanı kontrol edin ve yeniden doğrulayın.";
-$locale['error_request'] = "İsteğiniz işlenirken bir hata oluştu"; // to be moved
-$locale['regex_error'] = "Lütfen %s alanını kontrol edin ve yeniden doğrulayın"; // to be moved
+$locale['error_request'] = "İsteğiniz işlenirken bir hata oluştu";
+$locale['regex_error'] = "Lütfen %s alanını kontrol edin ve yeniden doğrulayın";
 // Text fields errors
 $locale['error_input_username'] = "Lütfen geçerli bir kullanıcı adı girin";
 $locale['error_input_default'] = "Lütfen bu alanı doldurun";
@@ -13,8 +13,8 @@ $locale['error_input_regex'] = "Lütfen geçerli bir kalıp girin";
 $locale['error_input_safemode'] = "Lütfen bu alanı doğru bir şekilde doldurun";
 $locale['error_input_check'] = "Lütfen doğru bir alan değeri girin";
 $locale['df_error_text'] = "%s hata var ve dikkatinizi gerektiriyor.";
-$locale['error_invalid_theme'] = "Lütfen geçerli bir tema seçin"; // to be moved
-$locale['error_input_checkbox'] = "Lütfen bu onay kutusunu işaretleyin"; // to be moved
+$locale['error_invalid_theme'] = "Lütfen geçerli bir tema seçin";
+$locale['error_input_checkbox'] = "Lütfen bu onay kutusunu işaretleyin";
 $locale['error_input_file'] = "Lütfen geçerli bir dosya seçin";
 $locale['error_secure_file'] = "Yüklenen dosya, kötü amaç taşıma yükü olasılığı nedeniyle reddedildi.";
 // Admin Login
@@ -69,6 +69,7 @@ $locale['df_402'] = "%s geçerli bir şifre değil.";
 $locale['df_403'] = "%s geçerli bir numara değil.";
 $locale['df_404'] = "%s geçerli bir tarih değil.";
 $locale['df_405'] = "%s geçerli bir URL değil.";
+$locale["df_406"] = "%s has an unknown type set.";
 $locale['df_415'] = "Geçersiz dosya adı.";
 $locale['df_416'] = "Yükleme dosyası çok büyük. Azami dosya boyutu %s olmalı.";
 $locale['df_417'] = "Yükleme dosyası geçerli bir dosya türü değil. Dosya şu dosya türlerinden biri olmalıdır - %s";
@@ -86,8 +87,6 @@ $locale['grecaptcha_desc'] = "Google Recaptcha Alan Modülü";
 $locale['grecaptcha_placeholder_1'] = "Google SITE KEY (Site Anahtarı)";
 $locale['grecaptcha_placeholder_2'] = "Google SECRET-KEY (Gizli Anahtar)";
 $locale['no_keys'] = "Henüz hiç anahtarınız yok gibi görünüyor. Kayıt olun ve [RECAPTCHA_LINK]genel anahtarınızı buradan alın[/RECAPTCHA_LINK]";
-// here
-//$locale['review_keys'] = "<a href='https://www.google.com/recaptcha/admin' target='_BLANK'><button class='button'>Review your keys at Google reCAPTCHA</button></a>";
 $locale['grecaptcha_0100'] = "Site Anahtarı";
 $locale['grecaptcha_0101'] = "Gizli Anahtar";
 $locale['grecaptcha_0102'] = "Tema";
