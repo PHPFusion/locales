@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Опції";
 
 $locale['SL_0062'] = "Посилання відсутні.";
 $locale['SL_0063'] = "Використання BB кодів у назві посилання";
-
+$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
 $locale['SL_0070'] = "Зображення";
 $locale['SL_0071'] = "Відкривання у новому вікні";

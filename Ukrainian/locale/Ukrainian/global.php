@@ -348,8 +348,8 @@ LOST_PASSWORD
 З повагою,
 
 [SITEUSERNAME]";
-$locale['global_453'] = "Hello USER_NAME,<br/>\r\nThe suspension of your account at [SITEURL] has been lifted.<br/>\r\n
-Regards,<br/>\r\n[SITEUSERNAME]";
+$locale['global_453'] = "Hello USER_NAME,<br/>The suspension of your account at [SITEURL] has been lifted.<br/>
+Regards,<br/>[SITEUSERNAME]";
 $locale['global_454'] = "Відновлено обліковий запис";
 $locale['global_455'] = "Вітаємо, USER_NAME,
 
