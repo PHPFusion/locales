@@ -10,9 +10,9 @@ $locale['407'] = "Vennligst oppgi e-post adressen for brukerkontoen din i feltet
 Et nytt passord vil bli opprettet og sendt til deg via denne e-post adressen.";
 $locale['408'] = "Send Passord";
 $locale['409'] = "Nytt Passord for ";
-$locale['410'] = "Hello [USER_NAME],<br/>\r\nYou have or someone has requested a new password to access your [SITENAME] account.<br/>\r\n
-To change your password please click the following link:<br/>\r\n[NEW_PASS_LINK]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
-$locale['411'] = "Hello [USER_NAME],<br/>\r\nYour new password to access your [SITENAME] account is:<br/>\r\n
-[NEW_PASS]<br/>\r\nRegards,<br/>\r\n[SITEUSERNAME]";
+$locale['410'] = "Hello [USER_NAME],<br/>You have or someone has requested a new password to access your [SITENAME] account.<br/>
+To change your password please click the following link:<br/>[NEW_PASS_LINK]<br/>Regards,<br/>[SITEUSERNAME]";
+$locale['411'] = "Hello [USER_NAME],<br/>Your new password to access your [SITENAME] account is:<br/>
+[NEW_PASS]<br/>Regards,<br/>[SITEUSERNAME]";
 $locale['412'] = "Det oppstod en feil. Prøv igjen senere.";
 $locale['413'] = "Please enter your email address:";

@@ -109,13 +109,19 @@ Du kan ikke endre ditt administrative passord uden å oppgi det gjeldende passor
 $locale['u150'] = "Din registrering er nesten ferdig, Du vil motta en e-post med dine pålogningsopplysninger sammen med en lenke, som du må bruke for å verifisere din brukerkonto.";
 $locale['u151'] = "Velkommen til [SITENAME]";
 $locale['u152'] = "Hei USER_NAME
-\r\nVelkommen som bruker på; SITENAME. Her er dine påloggningsopplysninger:
-\r\nBrukernavn: USER_NAME
-\r\nPassord: USER_PASSWORD
-\r\nVennligst aktiver din konto ved å klikke på denne lenken: ACTIVATION_LINK
 
-\r\nVennlig hilsen,
-\r\nSITEUSERNAME";
+Velkommen som bruker på; SITENAME. Her er dine påloggningsopplysninger:
+
+Brukernavn: USER_NAME
+
+Passord: USER_PASSWORD
+
+Vennligst aktiver din konto ved å klikke på denne lenken: ACTIVATION_LINK
+
+
+Vennlig hilsen,
+
+SITEUSERNAME";
 
 $locale['u153'] = "Aktiverings e-post kunne ikke sendes.";
 $locale['u154'] = "Vennligst kontakt [LENKE] sidens [/LENKE] administrator.";
