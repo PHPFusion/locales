@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Op&#355;iuni";
 
 $locale['SL_0062'] = "Nu exist&#259; leg&#259;turi ad&#259;ugate.";
 $locale['SL_0063'] = "Use BBCode in Link Name?";
-
+$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
 $locale['SL_0070'] = "Imagine";
 $locale['SL_0071'] = "Fereastr&#259; nou&#259;?";

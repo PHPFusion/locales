@@ -108,16 +108,16 @@ $locale['u151'] = "Bun venit la [SITENAME]";
 $locale['u152'] = "Salut, USER_NAME!
 
 Bine ai venit la SITENAME. Acestea sunt datele tale de conectare:
-\r
+
 Utilizator: USER_NAME
-\r
+
 Parola: USER_PASSWORD
-\r
+
 Pentru activarea contului trebuie sa dai clic pe legatura urmatoare: ACTIVATION_LINK
 
-\r\r
+
 Cu respect,
-\r
+
 SITEUSERNAME";
 
 $locale['u153'] = "Mesajul de activare nu a putut fi trimis.";
