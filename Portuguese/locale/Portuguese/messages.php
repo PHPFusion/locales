@@ -123,7 +123,8 @@ $locale['622'] = "Salvar mensagens enviadas automaticamente:";
 $locale['623'] = "Guardar Configuração";
 $locale['624'] = "Configuração guardada";
 $locale['625'] = "Você tem uma nova mensagem privada à espera em [SITENAME]";
-$locale['626'] = ",<br/>\nVocê recebeu uma nova mensagem privada intitulada [SUBJECT] de [USER] em [SITENAME]. Você pode [LINK]ler[/LINK] sua mensagem privada. ou pode desactivar a notificação de e-mail através do painel de opções da página de mensagens privadas se você não quiser mais ser notificado de novas mensagens.";
+$locale['626'] = ",<br/>
+Você recebeu uma nova mensagem privada intitulada [SUBJECT] de [USER] em [SITENAME]. Você pode [LINK]ler[/LINK] sua mensagem privada. ou pode desactivar a notificação de e-mail através do painel de opções da página de mensagens privadas se você não quiser mais ser notificado de novas mensagens.";
 $locale['627'] = "Erro";
 $locale['628'] = "Não foi possível enviar a Mensagem Privada. A caixa de entrada do destinatário está cheia.";
 $locale['629'] = "Você não pode mover a mensagem(s) selecionada para a pasta especificada, pois ela excederá o limite máximo de mensagem.";

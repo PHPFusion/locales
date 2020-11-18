@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Opções";
 
 $locale['SL_0062'] = "Não foi definido nenhum link do site.";
 $locale['SL_0063'] = "Usar BBCode no Nome do Link?";
-
+$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
 $locale['SL_0070'] = "Ícone";
 $locale['SL_0071'] = "Nova Janela?";

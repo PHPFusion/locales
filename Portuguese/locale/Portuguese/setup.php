@@ -321,10 +321,20 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3800'] = "Modelos de E-Mail";
 $locale['setup_3801'] = "Notificação de nova MP";
 $locale['setup_3802'] = "Você tem uma nova mensagem privada de [USER] por ler em [SITENAME]";
-$locale['setup_3803'] = "Olá [RECEIVER],<br/>\nVocê recebeu uma nova mensagem privada [SUBJECT] de [USER] em [SITENAME]. Você pode ler a sua mensagem privada em [SITEURL]messages.php<br/>\nMensagem: [MESSAGE]<br/>\nVocê pode desactivar a notificação de e-mail através do painel de opções da página de Mensagem Privada, se não quiser mais ser notificado de novas mensagens.<br/>\nAtenciosamente,<br/>\n[SENDER].";
+$locale['setup_3803'] = "Olá [RECEIVER],<br/>
+Você recebeu uma nova mensagem privada [SUBJECT] de [USER] em [SITENAME]. Você pode ler a sua mensagem privada em [SITEURL]messages.php<br/>
+Mensagem: [MESSAGE]<br/>
+Você pode desactivar a notificação de e-mail através do painel de opções da página de Mensagem Privada, se não quiser mais ser notificado de novas mensagens.<br/>
+Atenciosamente,<br/>
+[SENDER].";
 $locale['setup_3804'] = "Notificação de novos posts no fórum";
 $locale['setup_3805'] = "Notificação de Resposta a Tópico - [SUBJECT]";
-$locale['setup_3806'] = "Olá [RECEIVER],,<br/>\nAlguém respondeu ao tópico do fórum \"[SUBJECT]\" que você está a seguir em [SITENAME]. Você pode usar o seguinte link para ver a resposta:<br/>\n[THREAD_URL]<br/>\nSe você não deseja mais acompanhar este tópico, você pode clicar no link \"Parar de acompanhar este tópico\" localizado no topo do tópico.<br/>\nAtenciosamente,<br/>\n[SENDER].";
+$locale['setup_3806'] = "Olá [RECEIVER],,<br/>
+Alguém respondeu ao tópico do fórum \"[SUBJECT]\" que você está a seguir em [SITENAME]. Você pode usar o seguinte link para ver a resposta:<br/>
+[THREAD_URL]<br/>
+Se você não deseja mais acompanhar este tópico, você pode clicar no link \"Parar de acompanhar este tópico\" localizado no topo do tópico.<br/>
+Atenciosamente,<br/>
+[SENDER].";
 $locale['setup_3807'] = "Formulário de Contacto";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";
