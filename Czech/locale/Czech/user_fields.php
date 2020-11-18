@@ -106,18 +106,11 @@ $locale['u149b'] = "Vaše současné přihlašovací heslo nebylo zadáno nebo j
 $locale['u150'] = "Registrace je téměř kompletní, obdržíte e-mail obsahující vaše přihlašovací údaje spolu s odkazem na ověření vašeho účtu.";
 $locale['u151'] = "Vítejte v [SITENAME]";
 $locale['u152'] = "Dobrý den, USER_NAME,<br/>
-
-Vítejte v SITENAME. Zde jsou vaše přihlašovací údaje:<br/>
-
+Vítejte na SITENAME. Zde jsou vaše přihlašovací údaje:<br/>
 Uživatelské jméno: USER_NAME<br/>
-
 Heslo: USER_PASSWORD<br/>
-
 Aktivujte svůj účet prostřednictvím následujícího odkazu: <a href='ACTIVATION_LINK'>Aktivovat účet</a><br/>
-
-S pozdravem,<br/>
-
-SITEUSERNAME";
+S pozdravem,<br/>SITEUSERNAME";
 
 $locale['u153'] = "Aktivační e-mail nelze odeslat.";
 $locale['u154'] = "Prosím, [LINK] kontaktujte [/LINK] administrátora webu.";
@@ -158,13 +151,11 @@ $locale['u195'] = "Captcha kód nemůže zůstat prázdný.";
 $locale['u200'] = "Ověřený e-mail byl odeslán na vaši novou e-mailovou adresu (%s). Zkontrolujte prosím svůj e-mail.";
 $locale['u201'] = "Vaše e-mailová adresa se změní po kliknutí na odkaz v e-mailu.";
 $locale['u202'] = "Kontrola e-mailové adresy - [SITENAME]";
-$locale['u203'] = "Dobrý den, [USER_NAME],<br/>\r\n
-Někdo nastavil tuto e-mailovou adresu ve svém účtu na našich stránkách.<br/>\r\n
-Pokud opravdu chcete změnit svou e-mailovou adresu, klikněte na následující odkaz:<br/>\r\n
-[EMAIL_VERIFY_LINK]<br/>\r\n
-Poznámka: Pro pokračování musíte být přihlášeni<br/>\r\n
-S pozdravem
-[SITEUSERNAME]<br/>\r\n
-[SITENAME]";
+$locale['u203'] = "Dobrý den, [USER_NAME],<br/>
+Někdo nastavil tuto e-mailovou adresu do svého účtu na našem webu.<br/>
+Pokud opravdu chcete změnit svou e-mailovou adresu na tuto, klikněte na následující odkaz:<br/>
+[EMAIL_VERIFY_LINK]<br/>
+Poznámka: Pro pokračování musíte být přihlášeni<br/>
+S pozdravem[SITEUSERNAME]<br/>[SITENAME]";
 
 $locale['u210'] = "Reputace";
