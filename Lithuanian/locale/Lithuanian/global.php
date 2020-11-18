@@ -330,9 +330,9 @@ Jūsų anketos blokavimas tinklapyje [SITEURL] buvo pašalintas.
 Pagarbiai,
 [SITEUSERNAME]";
 $locale['global_454'] = "Account reactivated at [SITENAME]";
-$locale['global_455'] = "Hello USER_NAME,<br/>\r\n
-Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>\r\n
-Regards,<br/>\r\n[SITEUSERNAME]";
+$locale['global_455'] = "Hello USER_NAME,<br/>
+Last time you logged in your account was reactivated at [SITEURL] and your account is no longer marked as inactive.<br/>
+Regards,<br/>[SITEUSERNAME]";
 $locale['global_456'] = "Naujas slaptažodis [SITENAME]";
 $locale['global_457'] = "Sveiki USER_NAME,
 

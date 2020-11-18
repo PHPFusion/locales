@@ -67,7 +67,7 @@ Pagarbiai,
 [SITEUSERNAME]";
 
 $locale['email_resend_subject'] = "Re-sent activation link - [SITENAME]";
-$locale['email_resend_message'] = "Hello [USER_NAME],<br/>\r\n
-You received this email because you did not activate the email on our site - [SITENAME].<br/>\r\nIf you do not activate an email within one day, your registration request will be canceled.<br/>\r\n
-You have registered with the following information:<br/>\r\nUsername: [USER_NAME]<br/>\r\n
-You can activate account with the following link:<br/>\r\n[ACTIVATION_LINK]<br/>\r\nRegards,<br/>\r\n[SITENAME]";
+$locale['email_resend_message'] = "Hello [USER_NAME],<br/>
+You received this email because you did not activate the email on our site - [SITENAME].<br/>If you do not activate an email within one day, your registration request will be canceled.<br/>
+You have registered with the following information:<br/>Username: [USER_NAME]<br/>
+You can activate account with the following link:<br/>[ACTIVATION_LINK]<br/>Regards,<br/>[SITENAME]";

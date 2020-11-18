@@ -108,13 +108,19 @@ Norint nustatyti administratoriaus slaptažodį, jūs turite įvesti teisingą s
 $locale['u150'] = "Jūsų registracija beveik baigta, neužilgo gausite el. laišką su prisijungimo duomenimis bei vartotojo paskyros patvirtinimo nuoroda.";
 $locale['u151'] = "Sveikiname užsiregistravus [SITENAME]";
 $locale['u152'] = "Sveiki USER_NAME,
-\r\nSveikiname sėkmingai užsiregistravus SITENAME svetainėje. Jūsų prisijungimo duomenys:
-\r\nVartotojo vardas: USER_NAME
-\r\nSlaptažodis: USER_PASSWORD
-\r\nPrašome aktyvuoti savo vartotojo paskyra paspausdami šią nuorodą: ACTIVATION_LINK
 
-\r\nLinkėjimai,
-\r\nSITEUSERNAME";
+Sveikiname sėkmingai užsiregistravus SITENAME svetainėje. Jūsų prisijungimo duomenys:
+
+Vartotojo vardas: USER_NAME
+
+Slaptažodis: USER_PASSWORD
+
+Prašome aktyvuoti savo vartotojo paskyra paspausdami šią nuorodą: ACTIVATION_LINK
+
+
+Linkėjimai,
+
+SITEUSERNAME";
 
 $locale['u153'] = "Aktyvacijos laiško siuntimas negalimas.";
 $locale['u154'] = "Prašome [LINK]susisiekti[/LINK] su tinklapio Administracija.";
