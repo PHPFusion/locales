@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Pilihan";
 
 $locale['SL_0062'] = "Tiada Pautan didapati.";
 $locale['SL_0063'] = "Use BBCode in Link Name?";
-
+$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
 $locale['SL_0070'] = "Ikon";
 $locale['SL_0071'] = "Paparan Pelayar Baru?";

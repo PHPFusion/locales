@@ -108,13 +108,19 @@ Anda tidak boleh menyimpan Kata Laluan Admin tanpa Kata Laluan Log Masuk yang sa
 $locale['u150'] = "Pendaftaran anda hampir selesai, Anda akan menerima emel dengan butir log masuk dengan pautan untuk pengesahan akaun anda.";
 $locale['u151'] = "Selamat Datang ke [SITENAME]";
 $locale['u152'] = "Hello USER_NAME,
-\r\nSelamat datang ke SITENAME. Berikut adalah butir-butir log masuk anda:
-\r\nKata Nama: USER_NAME
-\r\nKata Laluan: USER_PASSWORD
-\r\nSila aktifkan akaun anda melalui pautan ini: ACTIVATION_LINK
 
-\r\nSekian,
-\r\nSITEUSERNAME";
+Selamat datang ke SITENAME. Berikut adalah butir-butir log masuk anda:
+
+Kata Nama: USER_NAME
+
+Kata Laluan: USER_PASSWORD
+
+Sila aktifkan akaun anda melalui pautan ini: ACTIVATION_LINK
+
+
+Sekian,
+
+SITEUSERNAME";
 
 $locale['u153'] = "Emel pengaktifan tidak boleh dikirimkan.";
 $locale['u154'] = "Sila [LINK]hubungi[/LINK] Penyelia Situs.";
