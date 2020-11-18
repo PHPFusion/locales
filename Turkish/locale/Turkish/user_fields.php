@@ -105,12 +105,18 @@ $locale['u149b'] = "Geçerli Giriş Şifreniz belirtilmedi veya geçersiz.<br/>D
 // Email activation
 $locale['u150'] = "Kaydınız neredeyse tamamlandı, hesabınızı doğrulamak için bir bağlantıyla birlikte giriş bilgilerinizi içeren bir e-posta alacaksınız.";
 $locale['u151'] = "[SITENAME] Sitesine Hoşgeldiniz";
-$locale['u152'] = "Merhaba USER_NAME,<br/>\r\n
-SITENAME Sitesine Hoşgeldiniz. İşte giriş ayrıntılarınız:<br/>\r\n
-Kullanıcı Adı: USER_NAME<br/>\r\n
-Şifre: USER_PASSWORD<br/>\r\n
-Lütfen bu bağlantıyı kullanarak hesabınızı etkinleştirin: ACTIVATION_LINK<br/>\r\n
-Saygılarımızla,<br/>\r\n
+$locale['u152'] = "Merhaba USER_NAME,<br/>
+
+SITENAME Sitesine Hoşgeldiniz. İşte giriş ayrıntılarınız:<br/>
+
+Kullanıcı Adı: USER_NAME<br/>
+
+Şifre: USER_PASSWORD<br/>
+
+Lütfen bu bağlantıyı kullanarak hesabınızı etkinleştirin: ACTIVATION_LINK<br/>
+
+Saygılarımızla,<br/>
+
 SITEUSERNAME";
 
 $locale['u153'] = "Etkinleştirme e-postası gönderilemedi.";
@@ -152,13 +158,19 @@ $locale['u195'] = "Captcha kodu boş bırakılamaz.";
 $locale['u200'] = "Yeni E-posta adresinize (%s) bir doğrulama E-postası gönderildi. Lütfen e-postanızı kontrol edin.";
 $locale['u201'] = "E-Posta adresiniz, postadaki bağlantıyı tıkladığınızda geğişecektir.";
 $locale['u202'] = "E-posta adresi doğrulaması - [SITENAME]";
-$locale['u203'] = "Merhaba [USER_NAME],<br/>\r\n
-Birisi bu e-posta adresini sitemizdeki hesabına ayarladı.<br/>\r\n
-E-posta adresinizi gerçekten değiştirmek istiyorsanız lütfen aşağıdaki bağlantıyı tıklayın:<br/>\r\n
-[EMAIL_VERIFY_LINK]<br/>\r\n
-Not: devam etmek için giriş yapmalısınız.<br/>\r\n
+$locale['u203'] = "Merhaba [USER_NAME],<br/>
+
+Birisi bu e-posta adresini sitemizdeki hesabına ayarladı.<br/>
+
+E-posta adresinizi gerçekten değiştirmek istiyorsanız lütfen aşağıdaki bağlantıyı tıklayın:<br/>
+
+[EMAIL_VERIFY_LINK]<br/>
+
+Not: devam etmek için giriş yapmalısınız.<br/>
+
 Saygılarımızla,
-[SITEUSERNAME]<br/>\r\n
+[SITEUSERNAME]<br/>
+
 [SITENAME]";
 
 $locale['u210'] = "Kullanıcı İtibarı";

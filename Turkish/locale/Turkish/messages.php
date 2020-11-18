@@ -123,7 +123,8 @@ $locale['622'] = "Gönderilen mesajları otomatik olarak kaydedin:";
 $locale['623'] = "Yapılandırmayı Kaydet";
 $locale['624'] = "Yapılandırma Kaydedildi";
 $locale['625'] = "[SITENAME] web sitesinde bekleyen yeni bir özel mesajınız var";
-$locale['626'] = ",<br/>\\r\\n\n[SITENAME] sitesinde [USER] tarafından [SUBJECT] konu başlıklı yeni bir Özel Mesaj aldınız. Özel Mesajınızı [LINK]okuyabilirsiniz[/LINK]. Artık yeni mesajlardan haberdar olmak istemiyorsanız, Özel Mesaj sayfasının seçenekler panelinden e-posta bildirimini devre dışı bırakabilirsiniz.";
+$locale['626'] = ",<br/>\\r\\n
+[SITENAME] sitesinde [USER] tarafından [SUBJECT] konu başlıklı yeni bir Özel Mesaj aldınız. Özel Mesajınızı [LINK]okuyabilirsiniz[/LINK]. Artık yeni mesajlardan haberdar olmak istemiyorsanız, Özel Mesaj sayfasının seçenekler panelinden e-posta bildirimini devre dışı bırakabilirsiniz.";
 $locale['627'] = "Hata";
 $locale['628'] = "Özel Mesaj gönderilemedi. Alıcının gelen kutusu dolu.";
 $locale['629'] = "Seçilen mesajlar maksimum mesaj sınırını aşacağı için belirtilen klasöre taşıyamazsınız.";

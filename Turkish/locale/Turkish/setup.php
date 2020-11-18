@@ -321,10 +321,20 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3800'] = "E-Posta Şablonları";
 $locale['setup_3801'] = "Yeni ÖM Bildirimi";
 $locale['setup_3802'] = "Size [SITENAME] sitesinde [USER] adlı kullanıcıdan yeni bir özel mesaj var";
-$locale['setup_3803'] = "Merhaba [RECEIVER],<br/>\r\nSiz [SITENAME] sitesinde [USER] adlı kullanıcıdan [SUBJECT] başlıklı yeni bir özel mesaj aldınız. Özel Mesajınızı [SITEURL]messages.php adresinden okuyabilirsiniz.<br/>\r\nMesaj: [MESSAGE]<br/>\r\nArtık yeni mesajlarla ilgili bildirim almak istemiyorsanız, Özel Mesaj sayfasının seçenekler panelinden E-Posta bildirimini devre dışı bırakabilirsiniz.<br/>\r\nSaygılarımızla,<br/>\r\n[SENDER].";
+$locale['setup_3803'] = "Merhaba [RECEIVER],<br/>
+Siz [SITENAME] sitesinde [USER] adlı kullanıcıdan [SUBJECT] başlıklı yeni bir özel mesaj aldınız. Özel Mesajınızı [SITEURL]messages.php adresinden okuyabilirsiniz.<br/>
+Mesaj: [MESSAGE]<br/>
+Artık yeni mesajlarla ilgili bildirim almak istemiyorsanız, Özel Mesaj sayfasının seçenekler panelinden E-Posta bildirimini devre dışı bırakabilirsiniz.<br/>
+Saygılarımızla,<br/>
+[SENDER].";
 $locale['setup_3804'] = "Yeni Forum Mesajlarında Bildirim";
 $locale['setup_3805'] = "Konuya Cevap Bildirimi - [SUBJECT]";
-$locale['setup_3806'] = "Merhaba [RECEIVER],<br/>\r\nTakip ettiğiniz \\'[SUBJECT]\\' forum konusuna [SITENAME] sitesinde bir cevap gönderildi. Cevabı görüntülemek için aşağıdaki bağlantıyı kullanabilirsiniz:<br/>\r\n[THREAD_URL]<br/>\r\nEğer bu konuyu takip etmek istemiyorsanız, konunun üst kısmında bulunan \\'Bu Konuyu Takip Etmeyi Durdur\\' bağlantısını tıklayabilirsiniz.<br/>\r\nSaygılarımızla,<br/>\r\n[SENDER].";
+$locale['setup_3806'] = "Merhaba [RECEIVER],<br/>
+Takip ettiğiniz \\'[SUBJECT]\\' forum konusuna [SITENAME] sitesinde bir cevap gönderildi. Cevabı görüntülemek için aşağıdaki bağlantıyı kullanabilirsiniz:<br/>
+[THREAD_URL]<br/>
+Eğer bu konuyu takip etmek istemiyorsanız, konunun üst kısmında bulunan \\'Bu Konuyu Takip Etmeyi Durdur\\' bağlantısını tıklayabilirsiniz.<br/>
+Saygılarımızla,<br/>
+[SENDER].";
 $locale['setup_3807'] = "İletişim Formu";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";
