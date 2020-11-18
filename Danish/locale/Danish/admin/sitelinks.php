@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Valgmuligheder";
 
 $locale['SL_0062'] = "Der er ikke oprettet interne links.";
 $locale['SL_0063'] = "Benyt BB-kode i linknavn?";
-
+$locale['SL_0064'] = "Aktivering af dette vil omformatere linknavn med BBcodes";
 
 $locale['SL_0070'] = "Ikon";
 $locale['SL_0071'] = "Nyt vindue?";
