@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Možnosti";
 
 $locale['SL_0062'] = "Neboli pridané žiadne odkazy.";
 $locale['SL_0063'] = "Použiť BB kódy v názve odkazu?";
-
+$locale['SL_0064'] = "Povolenie tejto možnosti preformátuje názov odkazu na BB kódy";
 
 $locale['SL_0070'] = "Ikonka";
 $locale['SL_0071'] = "Nové okno?";
