@@ -321,7 +321,12 @@ $locale['setup_3704'] = "%d %B %Y %H:%M:%S";
 $locale['setup_3800'] = "Szablony e-mail";
 $locale['setup_3801'] = "Powiadomienie o nowej PW";
 $locale['setup_3802'] = "Masz nową prywatną wiadomość od użytkownika [USER], czekającego na [SITENAME]";
-$locale['setup_3803'] = "Witaj [RECEIVER],<br/>\nOtrzymałeś/aś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz przeczytać prywatną wiadomość na [SITEURL]messages.php<br/>\nWiadomość: [MESSAGE]<br/>\nJeśli nie chcesz już otrzymywać powiadomień o nowych wiadomościach, możesz wyłączyć powiadomienie e-mail za pośrednictwem zakładki Opcje w panelu Prywatne wiadomości.<br/>\nPozdrawiamy,<br/>\n[SENDER].";
+$locale['setup_3803'] = "Witaj [RECEIVER],<br/>
+Otrzymałeś/aś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz przeczytać prywatną wiadomość na [SITEURL]messages.php<br/>
+Wiadomość: [MESSAGE]<br/>
+Jeśli nie chcesz już otrzymywać powiadomień o nowych wiadomościach, możesz wyłączyć powiadomienie e-mail za pośrednictwem zakładki Opcje w panelu Prywatne wiadomości.<br/>
+Pozdrawiamy,<br/>
+[SENDER].";
 $locale['setup_3804'] = "Powiadomienie o nowych postach na forum";
 $locale['setup_3805'] = "Powiadomienie o odpowiedzi w wątku - [SUBJECT]";
 $locale['setup_3806'] = "Witaj [RECEIVER],

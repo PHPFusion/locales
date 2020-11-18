@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Opcje";
 
 $locale['SL_0062'] = "Nie zdefiniowano linków witryny.";
 $locale['SL_0063'] = "Używać kodu BB w nazwie linku?";
-
+$locale['SL_0064'] = "Włączenie tej opcji zreformuje połączenie nazwy z kodami BBCodes";
 
 $locale['SL_0070'] = "Ikona";
 $locale['SL_0071'] = "Nowe okno?";

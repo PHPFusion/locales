@@ -123,7 +123,8 @@ $locale['622'] = "Automatycznie zapisuj wysłane wiadomości:";
 $locale['623'] = "Zapisz konfigurację";
 $locale['624'] = "Zapisano konfigurację";
 $locale['625'] = "Masz nową prywatną wiadomość oczekującą na [SITENAME]";
-$locale['626'] = ",<br/>\nOtrzymałeś/aś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz [LINK]przeczytać[/LINK] swoją prywatną wiadomość. Możesz wyłączyć powiadomienie e-mail przez panel opcji strony prywatnej wiadomości, jeśli nie chcesz dłużej być informowany/a o nowych wiadomościach.";
+$locale['626'] = ",<br/>
+Otrzymałeś/aś nową prywatną wiadomość zatytułowaną [SUBJECT] od [USER] na [SITENAME]. Możesz [LINK]przeczytać[/LINK] swoją prywatną wiadomość. Możesz wyłączyć powiadomienie e-mail przez panel opcji strony prywatnej wiadomości, jeśli nie chcesz dłużej być informowany/a o nowych wiadomościach.";
 $locale['627'] = "Błąd";
 $locale['628'] = "Nie można wysłać wiadomości prywatnej. Skrzynka odbiorcza odbiorcy jest pełna.";
 $locale['629'] = "Nie można przenieść wybranej/nych wiadomości do określonego folderu, ponieważ przekroczy to maksymalny limit wiadomości.";
