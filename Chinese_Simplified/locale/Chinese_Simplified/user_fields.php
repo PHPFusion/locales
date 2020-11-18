@@ -108,13 +108,19 @@ You can't set your admin password without your correct login password.";
 $locale['u150'] = "Your registration is almost complete, you will receive an email containing your login details along with a link to verify your account.";
 $locale['u151'] = "Welcome to [SITENAME]";
 $locale['u152'] = "Hello USER_NAME,
-\r\nWelcome to SITENAME. Here are your login details:
-\r\nUsername: USER_NAME
-\r\nPassword: USER_PASSWORD
-\r\nPlease activate your account via the following link: ACTIVATION_LINK
 
-\r\nRegards,
-\r\nSITEUSERNAME";
+Welcome to SITENAME. Here are your login details:
+
+Username: USER_NAME
+
+Password: USER_PASSWORD
+
+Please activate your account via the following link: ACTIVATION_LINK
+
+
+Regards,
+
+SITEUSERNAME";
 
 $locale['u153'] = "Activation email could not be sent.";
 $locale['u154'] = "Please [LINK]contact[/LINK] the Site Administrator.";
