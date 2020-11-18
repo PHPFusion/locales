@@ -321,10 +321,20 @@ $locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 $locale['setup_3800'] = "Email Sjablonen";
 $locale['setup_3801'] = "Notificatie bij niew PB";
 $locale['setup_3802'] = "Je hebt een nieuw privé bericht van [USER] op [SITENAME]";
-$locale['setup_3803'] = "Hallo [RECEIVER],<br/>\nU heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht lezen op [SITEURL]messages.php\\r<br/>\nBericht: [MESSAGE]<br/>\nIndien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het <strong>Opties Paneel</strong> in uw priv&eacute; berichten pagina.<br/>\nMet vriendelijke groet,<br/>\n[SENDER].";
+$locale['setup_3803'] = "Hallo [RECEIVER],<br/>
+U heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht lezen op [SITEURL]messages.php\\r<br/>
+Bericht: [MESSAGE]<br/>
+Indien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het <strong>Opties Paneel</strong> in uw priv&eacute; berichten pagina.<br/>
+Met vriendelijke groet,<br/>
+[SENDER].";
 $locale['setup_3804'] = "Notificatie bij nieuwe forum berichten";
 $locale['setup_3805'] = "Notificatie van antwoord in forum - [SUBJECT]";
-$locale['setup_3806'] = "Hallo [RECEIVER],<br/>\nEr is een antwoord geplaatst in het forumonderwerp \\'[SUBJECT]\\' welke u volgt op [SITENAME]. U kunt de onderstaande link gebruiken om het antwoord te bekijken:<br/>\n[THREAD_URL]<br/>\nIndien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Volg dit onderwerp niet langer\\' klikken. U vindt de link bovenaan in het betreffende onderwerp.<br/>\nMet vriendelijke groet,<br/>\n[SENDER].";
+$locale['setup_3806'] = "Hallo [RECEIVER],<br/>
+Er is een antwoord geplaatst in het forumonderwerp \\'[SUBJECT]\\' welke u volgt op [SITENAME]. U kunt de onderstaande link gebruiken om het antwoord te bekijken:<br/>
+[THREAD_URL]<br/>
+Indien u het onderwerp niet langer wenst te volgen, dan kunt u op de link \\'Volg dit onderwerp niet langer\\' klikken. U vindt de link bovenaan in het betreffende onderwerp.<br/>
+Met vriendelijke groet,<br/>
+[SENDER].";
 $locale['setup_3807'] = "Contact formulier";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

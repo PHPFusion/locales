@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Opties";
 
 $locale['SL_0062'] = "Er zijn nog geen site links aangemaakt.";
 $locale['SL_0063'] = "BBCode gebruiken in link naam?";
-
+$locale['SL_0064'] = "Als dit wordt ingeschakeld, zal de naam van de koppeling met BBcodes worden aangepast";
 
 $locale['SL_0070'] = "Icoon";
 $locale['SL_0071'] = "Nieuw venster?";

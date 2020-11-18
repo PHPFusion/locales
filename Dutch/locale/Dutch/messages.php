@@ -123,7 +123,8 @@ $locale['622'] = "Automatisch verzonden berichten bewaren:";
 $locale['623'] = "Opties opslaan";
 $locale['624'] = "Opgeslagen opties";
 $locale['625'] = "U heeft een nieuw privé bericht ontvangen op [SITENAME]";
-$locale['626'] = ",<br/>\nU heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht [LINK] lezen [/LINK] Indien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het Opties Paneel in uw priv&eacute; berichten pagina.";
+$locale['626'] = ",<br/>
+U heeft een nieuw priv&eacute; bericht ontvangen met het onderwerp [SUBJECT] van [USER] op [SITENAME]. U kunt uw priv&eacute; bericht [LINK] lezen [/LINK] Indien u niet langer notificaties voor nieuwe priv&eacute; berichten per e-mail wilt ontvangen kunt u dit uitschakelen via het Opties Paneel in uw priv&eacute; berichten pagina.";
 $locale['627'] = "Fout";
 $locale['628'] = "Niet in staat het priv&eacute; bericht te versturen. Het postvak in van de geadresseerde is vol.";
 $locale['629'] = "U kunt het geselecteerde bericht/de geselecteerde berichten niet naar het aangegeven postvak verplaatsen, omdat daarmee het maximale aantal berichten in dat postvak zou worden overschreden.";
