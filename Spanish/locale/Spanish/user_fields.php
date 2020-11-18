@@ -108,14 +108,20 @@ No se puede establecer la contraseña de administrador sin la contraseña de acc
 $locale['u150'] = "Tu registro está casi completo. Recibirás un email conteniendo tus datos de inicio de sesión, así como un enlace para verificar tu cuenta.";
 $locale['u151'] = "Bienvenido a [SITENAME]";
 $locale['u152'] = "Hola USER_NAME,
-\r\nTe damos la bienvenida a SITENAME. Aquí tienes tus datos de usuario:
-\r\nNombre de Usuario: USER_NAME
-\r\nContraseña: USER_PASSWORD
-\r\nAhora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK
+
+Te damos la bienvenida a SITENAME. Aquí tienes tus datos de usuario:
+
+Nombre de Usuario: USER_NAME
+
+Contraseña: USER_PASSWORD
+
+Ahora debes activar tu cuenta por medio del siguiente enlace: ACTIVATION_LINK
 
 
-\r\nSaludos,
-\r\nSITEUSERNAME";
+
+Saludos,
+
+SITEUSERNAME";
 
 $locale['u153'] = "No se ha podido enviar el email de activación.";
 $locale['u154'] = "Contacta con el [LINK]Administrador del Portal.[/LINK].";
