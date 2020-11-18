@@ -150,4 +150,4 @@ $locale['fields_0667'] = "تعارض العمود . يوجد أعمدة على [
 $locale['fields_0668'] = "Fork No.2 - تحديث الحقل على نفس الجدول";
 $locale['fields_0669'] = "إعادة تسمية العمود [FIELD_NAME] من [OLD_TABLE] إلى [FIELD_NAME_] بسمات ";
 $locale['fields_0670'] = "البيانات القديمة";
-$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
+$locale['fields_0671'] = "يجب أن يكون جدولك جدولاً صالحاً. العمود الخاص بك يجب أن يكون عموداً لمعرّف مستخدم في ذلك الجدول.";

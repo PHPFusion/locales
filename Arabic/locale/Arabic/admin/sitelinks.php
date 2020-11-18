@@ -51,7 +51,7 @@ $locale['SL_0053'] = "الخيارات";
 
 $locale['SL_0062'] = "لم يتم إضافة رابط في الموقع.";
 $locale['SL_0063'] = "استخدام أكواد BB في الروابط؟";
-
+$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
 $locale['SL_0070'] = "الرمز";
 $locale['SL_0071'] = "نافذة جديدة؟";
