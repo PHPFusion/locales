@@ -1,14 +1,17 @@
-var locale = new Array();
-locale['wordLength'] = 'Your password is too short';
-locale['wordNotEmail'] = 'Do not use your email as your password';
-locale['wordSimilarToUsername'] = 'Your password cannot contain your username';
-locale['wordTwoCharacterClasses'] = 'Use different character classes';
-locale['wordRepetitions'] = 'Too many repetitions';
-locale['wordSequences'] = 'Your password contains sequences';
-locale['weak'] = 'Weak';
-locale['normal'] = 'Normal';
-locale['medium'] = 'Medium';
-locale['strong'] = 'Strong';
-locale['very-strong'] = 'Very Strong';
-locale['show'] = 'Show';
-locale['hide'] = 'Hide';
+var pwstrength_locale = {
+    wordMinLength: 'Das Passwort ist zu kurz',
+    wordMaxLength: 'Das Passwort ist zu lang',
+    wordInvalidChar: 'Das Passwort enthält ein ungültiges Zeichen',
+    wordNotEmail: 'Das Passwort darf die E-Mail Adresse nicht enthalten',
+    wordSimilarToUsername: 'Das Passwort darf den Benutzernamen nicht enthalten',
+    wordTwoCharacterClasses: 'Bitte Buchstaben und Ziffern verwenden',
+    wordRepetitions: 'Zu viele Wiederholungen',
+    wordSequences: 'Das Passwort enthält Buchstabensequenzen',
+    errorList: 'Fehler:',
+    veryWeak: 'Sehr schwach',
+    weak: 'Schwach',
+    normal: 'Normal',
+    medium: 'Mittel',
+    strong: 'Stark',
+    veryStrong: 'Sehr stark'
+}

@@ -1,15 +1,17 @@
-/**
- * Password Romanian translation.
- */
-var locale = new Array();
-locale['wordLength'] = 'Parola ta este prea scurtă';
-locale['wordNotEmail'] = 'Nu folosi e-mail-ul tău ca parolă';
-locale['wordSimilarToUsername'] = 'Parola ta nu poate conține numele tau de utilizator';
-locale['wordTwoCharacterClasses'] = 'Folosestește alte clase de caractere';
-locale['wordRepetitions'] = 'Prea multe repetiții';
-locale['wordSequences'] = 'Parola ta conține secvențe';
-locale['weak'] = 'Prea slabă';
-locale['normal'] = 'Normal';
-locale['medium'] = 'Mediu';
-locale['strong'] = 'Tare';
-locale['very-strong'] = 'Foarte tare';
+var pwstrength_locale = {
+    wordMinLength: 'Parola ta este prea scurtă',
+    wordMaxLength: 'Your password is too long',
+    wordInvalidChar: 'Your password contains an invalid character',
+    wordNotEmail: 'Nu folosi e-mail-ul tău ca parolă',
+    wordSimilarToUsername: 'Parola ta nu poate conține numele tau de utilizator',
+    wordTwoCharacterClasses: 'Folosestește alte clase de caractere',
+    wordRepetitions: 'Prea multe repetiții',
+    wordSequences: 'Parola ta conține secvențe',
+    errorList: 'Errors:',
+    veryWeak: 'Foarte slab',
+    weak: 'Slab',
+    normal: 'Normal',
+    medium: 'Mediu',
+    strong: 'Tare',
+    veryStrong: 'Foarte tare'
+}

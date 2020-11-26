@@ -1,14 +1,17 @@
-var locale = new Array();
-locale['wordLength'] = 'Vaše heslo je příliš krátké';
-locale['wordNotEmail'] = 'Nepoužívejte svůj e-mail jako heslo';
-locale['wordSimilarToUsername'] = 'Heslo nemůže obsahovat vaše uživatelské jméno';
-locale['wordTwoCharacterClasses'] = 'Použít různé třídy znaků';
-locale['wordRepetitions'] = 'Příliš mnoho opakování';
-locale['wordSequences'] = 'Vaše heslo obsahuje sekvence';
-locale['weak'] = 'Slabé';
-locale['normal'] = 'Normální';
-locale['medium'] = 'Střední';
-locale['strong'] = 'Silné';
-locale['very-strong'] = 'Velmi silné';
-locale['show'] = 'Zobrazit';
-locale['hide'] = 'Skrýt';
+var pwstrength_locale = {
+    wordMinLength: 'Vaše heslo je příliš krátké',
+    wordMaxLength: 'Vaše heslo je příliš dlouhé',
+    wordInvalidChar: 'Vaše heslo obsahuje neplatný znak',
+    wordNotEmail: 'Nepoužívejte Váš email jako Vaše heslo',
+    wordSimilarToUsername: 'Vaše heslo nesmí obsahovat přihlašovací jméno',
+    wordTwoCharacterClasses: 'Použijte různé druhy znaků',
+    wordRepetitions: 'Příliš mnoho opakování',
+    wordSequences: 'Vaše heslo obsahuje postupnost',
+    errorList: 'Chyby:',
+    veryWeak: 'Velmi slabé',
+    weak: 'Slabé',
+    normal: 'Normální',
+    medium: 'Středně silné',
+    strong: 'Silné',
+    veryStrong: 'Velmi silné'
+}

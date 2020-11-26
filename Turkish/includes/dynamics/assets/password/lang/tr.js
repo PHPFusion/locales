@@ -1,14 +1,17 @@
-var locale = new Array();
-locale['wordLength'] = 'Şifreniz çok kısa';
-locale['wordNotEmail'] = 'E-postanızı şifreniz olarak kullanmayın';
-locale['wordSimilarToUsername'] = 'Şifreniz kullanıcı adınızı içeremez';
-locale['wordTwoCharacterClasses'] = 'Farklı karakter sınıfları kullanın';
-locale['wordRepetitions'] = 'Çok fazla tekrar yapıldı';
-locale['wordSequences'] = 'Şifreniz yinelemeler içeriyor';
-locale['weak'] = 'Zayıf';
-locale['normal'] = 'Normal';
-locale['medium'] = 'Orta';
-locale['strong'] = 'Güçlü';
-locale['very-strong'] = 'Çok Güçlü';
-locale['show'] = 'Göster';
-locale['hide'] = 'Gizle';
+var pwstrength_locale = {
+    wordMinLength: 'Girdiğiniz şifre çok Kısa',
+    wordMaxLength: 'Parolanız çok uzun',
+    wordInvalidChar: 'Şifreniz geçersiz bir karakter içeriyor',
+    wordNotEmail: 'E-mail adresinizi şifreniz içerisinde kullanmayınız',
+    wordSimilarToUsername: 'Kullanıcı Adınızı şifreniz içerisinde kullanmayınız',
+    wordTwoCharacterClasses: 'Başka karakter sınıfı kullanınız',
+    wordRepetitions: 'Çok fazla tekrar var',
+    wordSequences: 'Şifreniz Dizi içermektedir',
+    errorList: 'Hatalar:',
+    veryWeak: 'Çok Zayıf',
+    weak: 'Zayıf',
+    normal: 'Normal',
+    medium: 'Orta',
+    strong: 'Güçlü',
+    veryStrong: 'Çok Güçlü'
+}

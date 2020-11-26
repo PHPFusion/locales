@@ -1,14 +1,17 @@
-var locale = new Array();
-locale['wordLength'] = 'Twoje hasło jest zbyt krótkie';
-locale['wordNotEmail'] = 'Nie używaj swojego e-maila jako hasła!';
-locale['wordSimilarToUsername'] = 'Twoje hasło nie może zawierać nazwy użytkownika';
-locale['wordTwoCharacterClasses'] = 'Użyj różnych znaków';
-locale['wordRepetitions'] = 'Zbyt wiele powtórzeń';
-locale['wordSequences'] = 'Twoje hasło zawiera ciąg znaków który łatwo rozszyfrować!';
-locale['weak'] = 'Słabe';
-locale['normal'] = 'Normalne';
-locale['medium'] = 'Średnie';
-locale['strong'] = 'Silne';
-locale['very-strong'] = 'Bardzo mocne';
-locale['show'] = 'Pokaż';
-locale['hide'] = 'Schowaj';
+var pwstrength_locale = {
+    wordMinLength: 'Hasło jest zbyt krótkie',
+    wordMaxLength: 'Hasło jest za długie',
+    wordInvalidChar: 'Hasło zawiera nieprawidłowy znak',
+    wordNotEmail: 'Hasło nie może być Twoim emailem',
+    wordSimilarToUsername: 'Hasło nie może zawierać nazwy użytkownika',
+    wordTwoCharacterClasses: 'Użyj innych klas znaków',
+    wordRepetitions: 'Zbyt wiele powtórzeń',
+    wordSequences: 'Hasło zawiera sekwencje',
+    errorList: 'Błędy:',
+    veryWeak: 'Bardzo słabe',
+    weak: 'Słabe',
+    normal: 'Normalne',
+    medium: 'Średnie',
+    strong: 'Silne',
+    veryStrong: 'Bardzo silne'
+}

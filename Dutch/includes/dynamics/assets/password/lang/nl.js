@@ -1,12 +1,17 @@
-var locale = new Array();
-locale['wordLength'] = 'Uw wachtwoord is te kort';
-locale['wordNotEmail'] = 'Gebruik niet uw e-mail als uw wachtwoord';
-locale['wordSimilarToUsername'] = 'Verwerk uw gebruikersnaam niet in uw wachtwoord';
-locale['wordTwoCharacterClasses'] = 'Gebruik verschillende tekenklassen';
-locale['wordRepetitions'] = 'Te veel herhalingen';
-locale['wordSequences'] = 'Uw wachtwoord bevat reeksen';
-locale['weak'] = 'Zwak';
-locale['normal'] = 'Normaal';
-locale['medium'] = 'Gemiddeld';
-locale['strong'] = 'Sterk';
-locale['very-strong'] = 'Zeer Sterk';
+var pwstrength_locale = {
+    wordMinLength: 'Uw wachtwoord is te kort',
+    wordMaxLength: 'Your password is too long',
+    wordInvalidChar: 'Your password contains an invalid character',
+    wordNotEmail: 'Gebruik niet uw e-mail als uw wachtwoord',
+    wordSimilarToUsername: 'Verwerk uw gebruikersnaam niet in uw wachtwoord',
+    wordTwoCharacterClasses: 'Gebruik verschillende tekenklassen',
+    wordRepetitions: 'Te veel herhalingen',
+    wordSequences: 'Uw wachtwoord bevat reeksen',
+    errorList: 'Errors:',
+    veryWeak: 'Zeer Zwak',
+    weak: 'Zwak',
+    normal: 'Normaal',
+    medium: 'Gemiddeld',
+    strong: 'Sterk',
+    veryStrong: 'Zeer Sterk'
+}

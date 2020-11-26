@@ -1,14 +1,17 @@
-var locale = new Array();
-locale['wordLength'] = 'كلمة المرور الخاصة بك هي قصيرة جداً';
-locale['wordNotEmail'] = 'لا تستعمل بريدك الالكتروني ككلمة سرية خاصة بك';
-locale['wordSimilarToUsername'] = 'كلمة المرور الخاصة بك لا يمكن أن تحتوي إسم المستخدم الخاص بك';
-locale['wordTwoCharacterClasses'] = 'استخدم فئات أحرف أو رموز مختلفة';
-locale['wordRepetitions'] = 'الكثير من التكرار';
-locale['wordSequences'] = 'تحتوي كلمة المرور الخاصة بك على تسلسلات وتعاقبات';
-locale['weak'] = 'ضعيف';
-locale['normal'] = 'عادي';
-locale['medium'] = 'متوسط';
-locale['strong'] = 'قوي';
-locale['very-strong'] = 'قوي جداً';
-locale['show'] = 'عرض';
-locale['hide'] = 'إخفاء';
+var pwstrength_locale = {
+    wordMinLength: "كلمة المرور قصيرة جداً",
+    wordMaxLength: "كلمة المرور طويلة جدا",
+    wordInvalidChar: "تحتوي كلمة المرور على رموز غير صالحة",
+    wordNotEmail: "لا تستخدم بريدك الإلكتروني ككلمة مرور",
+    wordSimilarToUsername: "لا يمكن ان تحتوي كلمة المرور على إسم المستخدم",
+    wordTwoCharacterClasses: "إستخدم فئات أحرف مختلفة",
+    wordRepetitions: "تكرارات كثيرة",
+    wordSequences: "تحتوي كلمة المرور على أنماط متتابعة",
+    errorList: "الأخطاء:",
+    veryWeak: "ضعيفة جداً",
+    weak: "ضعيفة",
+    normal: "عادية",
+    medium: "متوسطة",
+    strong: "قوية",
+    veryStrong: "قوية جداً"
+}
