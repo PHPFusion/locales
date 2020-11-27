@@ -406,6 +406,7 @@ $locale['reactivate'] = "Újra aktivál";
 $locale['user'] = "Felhasználó";
 $locale['promote'] = "Támogat";
 $locale['show'] = "Mutat";
+$locale['hide'] = "Elrejt";
 $locale['actions'] = "Művelet";
 $locale['language'] = "Nyelv";
 $locale['loading'] = "Betöltés...";
