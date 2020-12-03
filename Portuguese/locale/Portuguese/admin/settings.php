@@ -105,6 +105,8 @@ $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Modo de Desenvolvimento";
 $locale['610'] = "Atualizar Checker";
+$locale['611'] = "Number Delimiter";
+$locale['612'] = "Thousands separator";
 
 $locale['649'] = "Nomes de utilizador proibidos:";
 $locale['650'] = "Diversos";
@@ -305,4 +307,8 @@ $locale['security_011'] = "Método GateWay";
 $locale['security_012'] = "Palavras";
 $locale['security_013'] = "Números";
 $locale['security_014'] = "Ambos";
+$locale['security_015'] = "Error logging";
+$locale['security_016'] = "Error logging method";
+$locale['security_017'] = "Ficheiro";
+$locale['security_018'] = "Database";
 include_once __DIR__.'/../../../includes/dateformats.php';
