@@ -435,6 +435,7 @@ $locale['reactivate'] = "Reactivar";
 $locale['user'] = "Usuario";
 $locale['promote'] = "Promover";
 $locale['show'] = "Mostrar";
+$locale['hide'] = "Hide";
 $locale['actions'] = "Acciones";
 $locale['language'] = "Idioma";
 $locale['loading'] = "Loading...";
