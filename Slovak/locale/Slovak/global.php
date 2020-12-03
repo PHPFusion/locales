@@ -400,6 +400,7 @@ $locale['reactivate'] = "Reaktivovať";
 $locale['user'] = "Užívateľ";
 $locale['promote'] = "Podporovať";
 $locale['show'] = "Zobraziť";
+$locale['hide'] = "Skryť";
 $locale['actions'] = "Akcie";
 $locale['language'] = "Jazyk";
 $locale['loading'] = "Načítava...";
