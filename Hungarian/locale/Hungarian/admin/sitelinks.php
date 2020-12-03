@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Lehetőségek";
 
 $locale['SL_0062'] = "Nincs létrehozva Navigációs link.";
 $locale['SL_0063'] = "Használjon BBKódot a Link nevében?";
-$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
+$locale['SL_0064'] = "Ennek engedélyezésével a hivatkozás neve újraformázásra kerül a BBkódokkal";
 
 $locale['SL_0070'] = "Ikon";
 $locale['SL_0071'] = "Új ablak?";
