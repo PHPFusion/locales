@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "PHP-Fusion installation";
 $locale['setup_0002'] = "Velkommen til installationsprogrammet for PHP-Fusion";
 $locale['setup_0003'] = "Guiden her vil føre dig gennem de nødvendige trin til installationen af CMS-løsningen PHP-Fusion på din server. Har du brug for yderligere hjælp, så kig i vores online <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>installationshjælp</a>.";
-$locale['setup_0005'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>betingelser</a>";
+$locale['setup_0005'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>betingelser</a>";
 $locale['setup_0006'] = "PHP-Fusion 9 skal bruge PHP i mindst version 5.6.39. Se <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>systemkravene</a> for at få mere information.";
 $locale['setup_0007'] = "Systemer hvor OPcache er installeret skal have <a target='_blank' href='http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments'>opcache.save_comments</a> slået til.";
 $locale['setup_5000'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Ikke slået til";
 $locale['setup_0116'] = "PHP OPcode caching kan forbedre effektiviteten på din side betragteligt. Det anbefales <strong>kraftigt</strong> at få <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> installeret på din server.";
 $locale['setup_0118'] = "Det ser ikke ud til, at din server understøtter PDO (PHP Data Objects). Spørg hos din udbyder, om de understøtter PDO extension.";
 $locale['setup_0119a'] = "Overvej at øge grænsen for memory allokeret til PHP til %memory_minimum_limit for at forebygge fejl under installation.";
-$locale['setup_0119b'] = "Øg mængden af allokeret memory ved at rette værdien memory_limit i filen ".get_cfg_var('cfg_file_path')." og genstart så din webserver (eller kontakt din systemadministrator eller din udbyder for at få hjælp til det).";
+$locale['setup_0119b'] = "Øg mængden af allokeret memory ved at rette værdien memory_limit i filen [CFG_FILE_PATH] og genstart så din webserver (eller kontakt din systemadministrator eller din udbyder for at få hjælp til det).";
 $locale['setup_0119c'] = "Kontakt din systemadministrator eller din udbyder for at få hjælp til at øge grænsen for memory allokeret til PHP.";
 // Buttons
 $locale['setup_0120'] = "Gør konfigurationen færdig";

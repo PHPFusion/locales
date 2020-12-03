@@ -398,6 +398,7 @@ $locale['reactivate'] = "Genaktiver";
 $locale['user'] = "Bruger";
 $locale['promote'] = "Fremhæv";
 $locale['show'] = "Vis";
+$locale['hide'] = "Skjul";
 $locale['actions'] = "Handlinger";
 $locale['language'] = "Sprog";
 $locale['loading'] = "Indlæser ...";

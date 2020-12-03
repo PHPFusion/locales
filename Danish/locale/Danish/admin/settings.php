@@ -105,6 +105,8 @@ $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Udviklertilstand";
 $locale['610'] = "Opdaterings checker";
+$locale['611'] = "Nummerafgrænser";
+$locale['612'] = "Tusindtalsskilletegn";
 
 $locale['649'] = "Forbudte brugernavne:";
 $locale['650'] = "Diverse";
@@ -305,4 +307,8 @@ $locale['security_011'] = "GateWay metode";
 $locale['security_012'] = "Ord";
 $locale['security_013'] = "Tal";
 $locale['security_014'] = "Begge";
+$locale['security_015'] = "Fejllogning";
+$locale['security_016'] = "Fejllogningsmetode";
+$locale['security_017'] = "Fil";
+$locale['security_018'] = "Database";
 include_once __DIR__.'/../../../includes/dateformats.php';
