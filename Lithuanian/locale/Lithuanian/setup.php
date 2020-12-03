@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "PHP-Fusion įdiegimas";
 $locale['setup_0002'] = "Sveiki atvykę į PHP-Fusion įdiegimą";
 $locale['setup_0003'] = "Įdiegimo gidas Jums viską paaiškins ir parodys kiekvieną žingsnį, kurio reikės sėkmingam PHP-Fusion TVS įdiegimui į serverį. Jeigu reikės didesnės pagalbos, visada galite paskaityti <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Sistemos įdiegimo dokumentaciją</a> arba kreiptis į vietinę PHP-Fusion bendruomenę <a class='strong' href='http://www.phpfusion-lt.com/' target='_blank'>PHP-Fusion Lietuva</a>.";
-$locale['setup_0005'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://php-fusion.co.uk/license/' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>.";
+$locale['setup_0005'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>";
 $locale['setup_0006'] = "PHP-Fusion 9 veikimui būtina bent PHP versija 5.5.9. Paskaitykite <a href=\"https://www.php-fusion.co.uk/requirements\">sistemos reikalavimus (anglų k.)</a> norėdami gauti daugiau informacijos.";
 $locale['setup_0007'] = "Sistemos su instaliuota OPcache privalo turėti <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> įjungtą.";
 $locale['setup_5000'] = "Norėdami naudotis PHP-Fusion, turite perskaityti ir sutikti su sąlygomis</a>.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Išjungta";
 $locale['setup_0116'] = "PHP OPcode kešavimas gali smarkiai padidinti tinklalapio našumą. <strong>Stipriai rekomenduojame</strong> instaliuoti <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> į serverį.";
 $locale['setup_0118'] = "Panašu, kad Jūsų serveris nepalaiko PDO (PHP Data Objects). Pasiteiraukite serverio administratoriaus ar jie turi PDO palaikymą.";
 $locale['setup_0119a'] = "Siūlome padidinti PHP atminties limitą iki %memory_minimum_limit siekiant išvengti galimų klaidų instaliavimo procese.";
-$locale['setup_0119b'] = "Padidinti atminties limitą redaguodami memory_limit parametrą faile ".get_cfg_var('cfg_file_path')." ir perkrauti serverį (arba susisiekti su serverio administratoriumi).";
+$locale['setup_0119b'] = "Padidinti atminties limitą redaguodami memory_limit parametrą faile [CFG_FILE_PATH] ir perkrauti serverį (arba susisiekti su serverio administratoriumi).";
 $locale['setup_0119c'] = "Susisiekite su serverio administratoriumi arba hostingo tiekėju norėdami gauti pagalbos didinant PHP atminties limitą.";
 // Buttons
 $locale['setup_0120'] = "Baigti konfigūravimą";

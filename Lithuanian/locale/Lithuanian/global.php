@@ -425,6 +425,7 @@ $locale['reactivate'] = "Aktyvuoti iš naujo";
 $locale['user'] = "Narys";
 $locale['promote'] = "Reklamuoti";
 $locale['show'] = "Rodyti";
+$locale['hide'] = "Hide";
 $locale['actions'] = "Veiksmai";
 $locale['language'] = "Kalba";
 $locale['loading'] = "Loading...";
