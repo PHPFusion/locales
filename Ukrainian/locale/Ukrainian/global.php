@@ -454,6 +454,7 @@ $locale['reactivate'] = "Відновлення";
 $locale['user'] = "Користувач";
 $locale['promote'] = "Поширення";
 $locale['show'] = "Показати";
+$locale['hide'] = "Hide";
 $locale['actions'] = "Дії";
 $locale['language'] = "Мова";
 $locale['loading'] = "Loading...";

@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "Встановлення PHP-Fusion 9";
 $locale['setup_0002'] = "Вітаємо у системі встановлення PHP-Fusion 9.0";
 $locale['setup_0003'] = "Майстер встановлення проведе Вас через ряд кроків необхідних для встановлення на Ваш сервер CMS PHP-Fusion. Якщо буде потреба додаткової підтримки, будь ласка, ознайомтесь з нашою <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>відкритою довідкою з встановлення</a>.";
-$locale['setup_0005'] = " Мною прочитано <a href='https://php-fusion.co.uk/license/' target='_blank'>Умови використання</a> PHP-Fusion і я погоджуюсь з ними.";
+$locale['setup_0005'] = " Мною прочитано <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Умови використання</a> PHP-Fusion і я погоджуюсь з ними";
 $locale['setup_0006'] = "PHP-Fusion 9 потребує принаймні PHP 5.5.9. Ознайомтесь з повним переліком <a href=\"https://www.php-fusion.co.uk/requirements\">системних вимог</a>.";
 $locale['setup_0007'] = "У системах з встановленим OPcache має бути ввімкнено параметр <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a>.";
 $locale['setup_5000'] = "Для використання PHP-Fusion, Ви маєте ознайомитись і погодитись з <a href='https://php-fusion.co.uk/license/'>умовами використання</a>.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "вимкнено";
 $locale['setup_0116'] = "Кешування OPcode в PHP може значно покращити швидкодію Вашого сайту. <strong>Настійливо рекомендується</strong> встановлення <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> на Вашому сервері.";
 $locale['setup_0118'] = "Здається, Ваш сервер не підтримує PDO (PHP Data Objects). Запитайте у свого провайдера хостингу про наявність вбудованого розширення PDO.";
 $locale['setup_0119a'] = "Врахуйте, що збільшення ліміту пам&lsquo;яті для PHP, принаймні, до %memory_minimum_limit, допоможе уникнути помилок під час встановлення.";
-$locale['setup_0119b'] = "Збільште ліміт пам&lsquo;яті редагуванням параметра memory_limit у файлі ".get_cfg_var('cfg_file_path')." та перезавантажте Ваш сервер (або зверніться за допомогою до системного адміністратора чи провайдера хостингу).";
+$locale['setup_0119b'] = "Збільште ліміт пам&lsquo;яті редагуванням параметра memory_limit у файлі [CFG_FILE_PATH] та перезавантажте Ваш сервер (або зверніться за допомогою до системного адміністратора чи провайдера хостингу).";
 $locale['setup_0119c'] = "Зверніться за допомогою до системного адміністратора чи провайдера хостингу для збільшення ліміту пам&lsquo;яті для PHP.";
 // Buttons
 $locale['setup_0120'] = "Завершення встановлення";
