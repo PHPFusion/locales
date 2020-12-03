@@ -402,6 +402,7 @@ $locale['reactivate'] = "Реактивация";
 $locale['user'] = "Пользователь";
 $locale['promote'] = "Повысить";
 $locale['show'] = "Показать";
+$locale['hide'] = "Скрыть";
 $locale['actions'] = "Действия";
 $locale['language'] = "Язык";
 $locale['loading'] = "Загрузка...";

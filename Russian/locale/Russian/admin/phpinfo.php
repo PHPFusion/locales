@@ -12,7 +12,7 @@ $locale['407'] = "Версия PHP-Fusion";
 $locale['408'] = "Префикс БД";
 $locale['409'] = "Префикс Cookie";
 $locale['410'] = "Браузер и ОС";
-$locale['411'] = "Автор перевода: Rizado, ovasclub"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "Авторы перевода: Rizado, ovasclub"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Настройки PHP";
 $locale['423'] = "Безопасный режим";
