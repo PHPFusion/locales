@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "الـفـيـوشـن";
 $locale['setup_0002'] = "مرحباً بك في نظام إدارة المحتوى الفيوشن";
 $locale['setup_0003'] = "دليلك سوف يرشدك إلى الخطوات المطلوبة لعملية تنصيب نظام إدارة المحتوى <strong>الفيوشن</strong>. للمساعدة يرجى مراجعة هذه الصفحة <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>دليل عملية التثبيت</a>.";
-$locale['setup_0005'] = "&nbsp;قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>أحكام وشروط الإستخدام</a> ";
+$locale['setup_0005'] = " قرأت وأوافق على الشروط والأحكام الفيوشن <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>أحكام وشروط الإستخدام</a>";
 $locale['setup_0006'] = "الفيوشن النسخة 9 تحتاج على الأقل إصدار PHP 5.6.39 حتى يتوافق مع النظام ، لمزيد من المعلومات انظر <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>متطلبات النظام</a>.";
 $locale['setup_0007'] = "الأنظمة المزودة بـ OPCache لابد من تمكين خاصية <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> لتحسين أداء المستوى لابد من تمكينها، ولا يوجد سبب أو فائدة من تعطيلها (باستثناء حفظ بضع بايت من ذاكرة الوصول العشوائي).";
 $locale['setup_5000'] = "يتطلب منك الموافقة على اتفاقية الشروط والأحكام قبل استخدام الفيوشن.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "غير ممكن";
 $locale['setup_0116'] = "أداة OPcache تساعدك في تحسين مستوى الموقع بشكل ملحوظ والاستفادة القصوى من موارد الخادم، يجب بتثبيت <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> على الخادم الخاص بك.";
 $locale['setup_0118'] = "يبدو أن الخادم لا يدعم PDO(PHP Data Objects). إسأل المستضيف لحل مشكلة ملحق الـ PDO.";
 $locale['setup_0119a'] = "يتطلب منك زيادة مساحة ذاكرة الـPHP إلى %memory_minimum_limit لمنع حدوث أخطاء في عملية التثبيت.";
-$locale['setup_0119b'] = "لزيادة حد الذاكرة عن طريق تحرير memory_limit عامل متغيير في الملف ".get_cfg_var('cfg_file_path')." ثم أعد تشغيل خادم الويب (أو اتصل بمسؤول النظام أو مزود الاستضافة للحصول على المساعدة).";
+$locale['setup_0119b'] = "لزيادة حد الذاكرة عن طريق تحرير memory_limit عامل متغيير في الملف [CFG_FILE_PATH] ثم أعد تشغيل خادم الويب (أو اتصل بمسؤول النظام أو مزود الاستضافة للحصول على المساعدة).";
 $locale['setup_0119c'] = "اتصل بمسؤول النظام أو مزود الاستضافة للحصول على المساعدة في زيادة حد ذاكرة PHP.";
 // Buttons
 $locale['setup_0120'] = "الإنتهاء";
