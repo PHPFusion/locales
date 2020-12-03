@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "Instalarea versiunii 9.0 a nucleului PHP-Fusion";
 $locale['setup_0002'] = "Bine ai venit la instalarea v9.0 a PHP-Fusion";
 $locale['setup_0003'] = "Ghidul de instalare te va ghida prin pa&#351;i necesari inst&#259;ri versiunii 9.0 a CMS-ului PHP-Fusion pe serverul t&#259;u.<br /> Dac&#259; ai nevoie de ajutor, te rug&#259;m verific&#259; <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208' target='_blank'>procesul de instalare</a>.";
-$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://php-fusion.co.uk/license/' target='_blank'>Php-Fusion</a>";
+$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>>Php-Fusion</a>";
 $locale['setup_0006'] = "PHP-Fusion 9 necesit&#259; cel pu&#355;in PHP 5.5.9. Vezi pagina <a href=\"https://www.php-fusion.co.uk/requirements\">cerin&#355;e sistem</a> pentru mai multe informa&#355;i.";
 $locale['setup_0007'] = "Sistemele cu OPcache instalat trebuie s&#259; aibe <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> activat.";
 $locale['setup_5000'] = "Pentru a putea folosi PHP-Fusion, trebuie s&#259; bifezi &#351;i s&#259; fii de acord cu termenii &#351;i condi&#355;iile PHP-Fusion</a>.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Neactivat";
 $locale['setup_0116'] = "PHP OPcode caching poate &#238;mbun&#259;t&#259;&#355;i considerabil performan&#355;ele saitului t&#259;u. Este <strong>recomandat</strong> s&#259; ave&#355;i <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> instalat pe server.";
 $locale['setup_0118'] = "Serverul t&#259;u nu pare s&#259; aibe suport pentru PDO (PHP Data Objects). &#206;ntreab&#259; providerul de hosting dac&#259; suport&#259; extensia PDO nativ&#259;.";
 $locale['setup_0119a'] = "Lua&#355;i &#238;n considerare cre&#351;terea limitei de memorie PHP la %memory_minimum_limit pentru prevenirea erorilor &#238;n procesul de instalare.";
-$locale['setup_0119b'] = "Cre&#351;te limita de memorie prin editarea parametrului memory_limit din fi&#351;ierul ".get_cfg_var('cfg_file_path')." apoi restarteaz&#259; serverul t&#259;u web (sau contacteaz&#259; administratorul t&#259;u de sistem providerul de hosting pentru asisten&#355;&#259;).";
+$locale['setup_0119b'] = "Cre&#351;te limita de memorie prin editarea parametrului memory_limit din fi&#351;ierul [CFG_FILE_PATH] apoi restarteaz&#259; serverul t&#259;u web (sau contacteaz&#259; administratorul t&#259;u de sistem providerul de hosting pentru asisten&#355;&#259;).";
 $locale['setup_0119c'] = "Contacteaz&#259; administratorul de sistem sau providerul de hosting pentru asisten&#355;&#259; &#238;n vederea m&#259;riri limitei de memorie PHP.";
 // Buttons
 $locale['setup_0120'] = "Sf&#226;r&#351;itul configur&#259;rii ";

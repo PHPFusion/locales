@@ -429,6 +429,7 @@ $locale['reactivate'] = "Reactiveaz&#259;";
 $locale['user'] = "Utilizator";
 $locale['promote'] = "Promoveaz&#259;";
 $locale['show'] = "Arat&#259;";
+$locale['hide'] = "Hide";
 $locale['actions'] = "Ac&#355;iuni";
 $locale['language'] = "Limba";
 $locale['loading'] = "Loading...";
