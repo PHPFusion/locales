@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "Instalacja PHP-Fusion";
 $locale['setup_0002'] = "Witamy w instalatorze PHP-Fusion";
 $locale['setup_0003'] = "Podręcznik instalatora poprowadzi Cię przez kroki wymagane do zainstalowania PHP-Fusion CMS na Twoim serwerze. Jeśli potrzebujesz dodatkowej pomocy, sprawdź naszą <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>dokumentację instalacji online</a>.";
-$locale['setup_0005'] = " Przeczytałem i akceptuję <a href='https://php-fusion.co.uk/license/' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
+$locale['setup_0005'] = " Przeczytałem i akceptuję <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
 $locale['setup_0006'] = "PHP-Fusion 9 wymaga co najmniej PHP w wersji 5.5.9. Więcej informacji można znaleźć w sekcji <a href=\"https://www.php-fusion.co.uk/requirements\">wymagania systemowe</a>.";
 $locale['setup_0007'] = "Systemy z zainstalowanym OPcache muszą mieć włączone <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a>.";
 $locale['setup_5000'] = "Aby korzystać z PHP-Fusion, musisz sprawdzić i zaakceptować warunki PHP-Fusion</a>.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Nie włączone";
 $locale['setup_0116'] = "Buforowanie PHP OPcode może poprawić wydajność witryny. Jest to <strong>wysoce zalecane</strong>, aby <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> został zainstalowany na serwerze.";
 $locale['setup_0118'] = "Twój serwer sieci Web nie wydaje się obsługiwać PDO (obiektów danych PHP). Poproś dostawcę usługi hostingowej o wsparcie rodzimego rozszerzenia PDO.";
 $locale['setup_0119a'] = "Rozważ zwiększenie limitu pamięci PHP do %memory_minimum_limit, aby zapobiec błędom w procesie instalacji";
-$locale['setup_0119b'] = "Zwiększ limit pamięci, edytując parametr memory_limit w pliku ".get_cfg_var('cfg_file_path').",  następnie zrestartuj serwer WWW (lub skontaktuj się z administratorem systemu lub dostawcą usług hostingowych w celu uzyskania pomocy).";
+$locale['setup_0119b'] = "Zwiększ limit pamięci, edytując parametr memory_limit w pliku [CFG_FILE_PATH], następnie zrestartuj serwer WWW (lub skontaktuj się z administratorem systemu lub dostawcą usług hostingowych w celu uzyskania pomocy).";
 $locale['setup_0119c'] = "Skontaktuj się z administratorem systemu lub dostawcą usług hostingowych w celu zwiększenia limitu pamięci w PHP.";
 // Buttons
 $locale['setup_0120'] = "Zakończ konfigurację";

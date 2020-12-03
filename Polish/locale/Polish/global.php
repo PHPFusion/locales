@@ -421,6 +421,7 @@ $locale['reactivate'] = "Reaktywuj";
 $locale['user'] = "Użytkownik";
 $locale['promote'] = "Promuj";
 $locale['show'] = "Pokaż";
+$locale['hide'] = "Ukryj";
 $locale['actions'] = "Działania";
 $locale['language'] = "Język";
 $locale['loading'] = "Ładowanie...";
