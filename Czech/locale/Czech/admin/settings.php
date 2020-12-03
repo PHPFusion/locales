@@ -105,6 +105,8 @@ $locale['607'] = "GD1";
 $locale['608'] = "GD2";
 $locale['609'] = "Vývojářský režim";
 $locale['610'] = "Kontrola aktualizací";
+$locale['611'] = "Oddělovač čísel";
+$locale['612'] = "Oddělovač tisíců";
 
 $locale['649'] = "Zakázané uživatelská jména:";
 $locale['650'] = "Ostatní";
@@ -305,4 +307,8 @@ $locale['security_011'] = "GateWay metoda";
 $locale['security_012'] = "Slova";
 $locale['security_013'] = "Čísla";
 $locale['security_014'] = "Oboje";
+$locale['security_015'] = "Zaznamenávání chyb";
+$locale['security_016'] = "Metoda zaznamenávání chyb";
+$locale['security_017'] = "Soubor";
+$locale['security_018'] = "Databáze";
 include_once __DIR__.'/../../../includes/dateformats.php';

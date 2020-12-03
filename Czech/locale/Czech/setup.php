@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion Instalace";
 $locale['setup_0002'] = "Vítej v PHP-Fusion instalaci";
-$locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>online dokumentaci instalace</a>.";
-$locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>podmínkami používání</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 5.6.39. alší informace naleznete na stránce <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>systémových požadavků</a>.";
+$locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page_id=216' target='_blank'>online dokumentaci instalace</a>.";
+$locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>podmínkami používání</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 7.0. další informace naleznete na stránce <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page_id=215'>systémových požadavků</a>.";
 $locale['setup_0007'] = "Systémy s nainstalovanou OPCache musí mít <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> povoleno!";
 $locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion.";
 $locale['setup_0010'] = "Aktuální verze sestavy: ";
@@ -27,17 +27,17 @@ $locale['setup_0104'] = "Konfigurace / Nastavení databáze";
 $locale['setup_0105'] = "Konfigurace jádra systému";
 $locale['setup_0106'] = "Primární podrobnosti admina";
 $locale['setup_0107'] = "Finální nastavení";
-$locale['setup_0109'] = "Minimální verze aplikace Apache potřebná ke spuštění PHP-Fusion bez povoleného mod_rewrite je 2.2.16.";
-$locale['setup_0110'] = "Vzhledem k nastavení pro serverový token v httpd.conf není možné určit verzi Apache bez mod_rewrite, je proto nutná nainstalovaná minimální Apache verze 2.2.16.";
+$locale['setup_0109'] = "Minimální verze aplikace Apache potřebná ke spuštění PHP-Fusion bez povoleného mod_rewrite je 2.4.";
+$locale['setup_0110'] = "Vzhledem k nastavení pro serverový token v httpd.conf není možné určit verzi Apache bez mod_rewrite, je proto nutná nainstalovaná minimální Apache verze 2.4.";
 $locale['setup_0112'] = "Funkce phpinfo() byla z bezpečnostních důvodů zakázána. Chcete-li zobrazit informace o vašem serveru phpinfo (), změňte nastavení PHP nebo kontaktujte správce serveru";
-$locale['setup_0113'] = "Vaše instalace PHP je příliš stará. PHP-Fusion vyžaduje minimálně verzi 5.6.39. Verze PHP vyšší než 5.6.39 poskytují vestavěnou SQL injekci ochranu pro mysql databáze. Doporučuje se nutně aktualizovat!!";
+$locale['setup_0113'] = "Vaše instalace PHP je příliš stará. PHP-Fusion vyžaduje minimálně verzi 7.0. Verze PHP vyšší než 7.0 poskytují vestavěnou SQL injekci ochranu pro mysql databáze. Doporučuje se aktualizovat.";
 $locale['setup_0114'] = "PHP-Fusion vyžaduje, abyste povolili rozšíření PHP v následujícím seznamu:";
 $locale['setup_0115'] = "Povoleno";
 $locale['setup_0115a'] = "Není povoleno";
 $locale['setup_0116'] = "Funkce ukládání do mezipaměti PHP OPCache může výrazně zlepšit výkon vašeho webu. To je <strong>vysoce doporučeno</strong> mít <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> na vašem serveru.";
 $locale['setup_0118'] = "Váš webový server zřejmě nepodporuje PDO (PHP Data Objects). Požádejte svého poskytovatele hostingu, pokud podporuje přirozené rozšíření PDO, aby tento modul zuapnul";
 $locale['setup_0119a'] = "Zvažte zvýšení limitu paměti PHP na %memory_minimum_limit, abyste zabránili chybám v procesu instalace";
-$locale['setup_0119b'] = "Zvyšte limit paměti úpravou memory_limit parameter v souboru ".get_cfg_var('cfg_file_path')." A poté restartujte webový server (nebo se obraťte na správce systému nebo poskytovatele hostingu o pomoc).";
+$locale['setup_0119b'] = "Zvyšte limit paměti úpravou memory_limit parameter v souboru [CFG_FILE_PATH] A poté restartujte webový server (nebo se obraťte na správce systému nebo poskytovatele hostingu o pomoc).";
 $locale['setup_0119c'] = "Obraťte se na svého správce systému nebo poskytovatele hostingu o pomoc při zvyšování limitu paměti PHP";
 // Buttons
 $locale['setup_0120'] = "Dokončit konfiguraci";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Zadaná předpona tabulky se již používá a je spuš
 $locale['setup_0144'] = "Diagnostika databáze byla dokončena";
 // Step 1
 $locale['setup_1000'] = "Zvolte prosím svůj jazyk";
-$locale['setup_1001'] = "Stáhněte si další lokalizace z <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>oficiální PHP-Fusion podpory</strong></a>";
+$locale['setup_1001'] = "Stáhněte si další lokalizace z <a href='https://translations.phpfusion.com/' target='_blank'><strong>oficiální PHP-Fusion podpory</strong></a>";
 $locale['setup_1002'] = "Vítejte v režimu obnovení PHP-Fusion 9.";
 $locale['setup_1003'] = "Zjistili jsme, že stávající systém je nainstalován. Chcete-li pokračovat, vyberte jednu z následujících možností.";
 $locale['setup_1004'] = "Čistá instalace";
