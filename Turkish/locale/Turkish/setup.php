@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "PHP-Fusion Kurulumu";
 $locale['setup_0002'] = "PHP-Fusion Kurulumuna Hoşgeldiniz";
 $locale['setup_0003'] = "Yükleyici kılavuzu, sunucunuza PHP-Fusion CMS yüklemek için gereken adımlar konusunda size rehberlik edecektir. Daha fazla yardıma ihtiyacınız olursa, lütfen <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Çevrimiçi Kurulum Belgeleri</a> kontrol ediniz.";
-$locale['setup_0005'] = " PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>Şartlarını ve Kullanım Koşullarını</a> Okudum Ve Kabul Ediyorum.";
+$locale['setup_0005'] = " PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Şartlarını ve Kullanım Koşullarını</a> Okudum Ve Kabul Ediyorum";
 $locale['setup_0006'] = "PHP-Fusion 9, en az PHP 5.6.39 gerektirir. Daha fazla bilgi için <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'> sistem gereksinimleri</a> sayfasına bakın.";
 $locale['setup_0007'] = "OPCache kurulu olan sistemlerde <a href=\"http://php.net/manual/tr/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> etkin olmalıdır.";
 $locale['setup_5000'] = "PHP-Fusion'u kullanmak için PHP-Fusion'ın koşullarını kontrol etmeniz ve kabul etmeniz gerekir.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Etkin Değil";
 $locale['setup_0116'] = "PHP OPCache önbellekleme sitenizin performansını önemli ölçüde artırabilir. Sunucunuza <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> kurulu olması<strong> şiddetle tavsiye edilir</strong>.";
 $locale['setup_0118'] = "Web sunucunuz PDO'yu (PHP Veri Nesneleri) desteklemiyor gibi görünüyor. Barındırma sağlayıcınıza yerel PDO uzantısını destekleyip desteklemediklerini sorun.";
 $locale['setup_0119a'] = "Kurulum işlemindeki hataları önlemek için PHP bellek sınırınızı %memory_minimum_limit olarak yükseltmeyi gözönünde bulundurun.";
-$locale['setup_0119b'] = "Bellek sınırını Arttırın ".get_cfg_var('cfg_file_path')." dosyasındaki memory_limit karakter özelliğini düzenleyerek bellek sınırını artırın ve ardından web sunucunuzu yeniden başlatın (veya yardım için sistem yöneticinize veya barındırma sağlayıcınıza başvurun).";
+$locale['setup_0119b'] = "Bellek sınırını Arttırın [CFG_FILE_PATH] dosyasındaki memory_limit karakter özelliğini düzenleyerek bellek sınırını artırın ve ardından web sunucunuzu yeniden başlatın (veya yardım için sistem yöneticinize veya barındırma sağlayıcınıza başvurun).";
 $locale['setup_0119c'] = "PHP bellek sınırınızı artırmayla ilgili yardım için sistem yöneticinize veya barındırma sağlayıcınıza başvurun.";
 // Buttons
 $locale['setup_0120'] = "Yapılandırmayı Bitir";

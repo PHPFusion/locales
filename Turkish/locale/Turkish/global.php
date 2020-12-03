@@ -421,6 +421,7 @@ $locale['reactivate'] = "Yeniden Etkinleştir";
 $locale['user'] = "Kullanıcı";
 $locale['promote'] = "Terfi";
 $locale['show'] = "Göster";
+$locale['hide'] = "Gizle";
 $locale['actions'] = "Eylemler";
 $locale['language'] = "Dil";
 $locale['loading'] = "Yükleniyor...";
