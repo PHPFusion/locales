@@ -413,6 +413,7 @@ $locale['reactivate'] = "Reactiveer";
 $locale['user'] = "Gebruikers";
 $locale['promote'] = "Promote";
 $locale['show'] = "Toon";
+$locale['hide'] = "Verberg";
 $locale['actions'] = "Acties";
 $locale['language'] = "Taal";
 $locale['loading'] = "Laden...";

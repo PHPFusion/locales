@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "PHP-Fusion installeren";
 $locale['setup_0002'] = "Welkom bij PHP-Fusion installatie";
 $locale['setup_0003'] = "Het installatieprogramma zal u begeleiden door de stappen die nodig zijn om PHP-Fusion CMS te installeren op uw server. Mocht u verdere hulp nodig hebben, kijk dan op onze <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Online Installation Documentatio</a>.";
-$locale['setup_0005'] = " Ik heb de PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/licensing.php' target='_blank'>Terms and Conditions of Use</a> gelezen en ga hiermee akkoord";
+$locale['setup_0005'] = " Ik heb de PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a> gelezen en ga hiermee akkoord";
 $locale['setup_0006'] = "PHP-Fusion 9 vereist minstens PHP 5.6.39. Zie de <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>system requirements</a> pagina voor meer informatie.";
 $locale['setup_0007'] = "Systemen met OPCache geïnstalleerd moeten <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> ingeschakeld hebben.";
 $locale['setup_5000'] = "Om PHP-Fusion te kunnen gebruiken, dient u akkoord gaan met de voorwaarden van PHP-Fusion.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Niet Ingeschakeld";
 $locale['setup_0116'] = "PHP OPCache caching kan de prestaties van uw site aanzienlijk verbeteren. Het is <strong>zeer aanbevolen</strong> om <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> te hebben geïnstalleerd op uw server.";
 $locale['setup_0118'] = "Uw webserver lijkt PDO (PHP Data Objects) niet te ondersteunen. Vraag uw hostingprovider of zij de native PDO extensie ondersteunen.";
 $locale['setup_0119a'] = "Overweeg om uw PHP geheugenlimiet te verhogen tot %memory_minimum_limit om fouten in het installatieproces te voorkomen.";
-$locale['setup_0119b'] = "Verhoog de geheugenlimiet door de memory_limit parameter in het bestand te bewerken ".get_cfg_var('cfg_file_path')." - en herstart uw webserver (of neem contact op met uw systeembeheerder of hostingprovider voor hulp).";
+$locale['setup_0119b'] = "Verhoog de geheugenlimiet door de memory_limit parameter in het bestand te bewerken [CFG_FILE_PATH] - en herstart uw webserver (of neem contact op met uw systeembeheerder of hostingprovider voor hulp).";
 $locale['setup_0119c'] = "Neem contact op met uw systeembeheerder of hostingprovider voor hulp met het verhogen van uw PHP geheugenlimiet.";
 // Buttons
 $locale['setup_0120'] = "Configuratie afronden";
