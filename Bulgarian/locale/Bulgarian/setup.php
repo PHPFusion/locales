@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "Инсталация на PHP-Fusion";
 $locale['setup_0002'] = "Добре дошли в инсталацията на PHP-Fusion";
 $locale['setup_0003'] = "Инсталаторът ще Ви напътства през стъпките нужни за инсталирането на PHP-Fusion CMS на Вашия сървър. Ако се нуждаете от допълнителна помощ, моля прочете нашата <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208' target='_blank'>документация</a>.";
-$locale['setup_0005'] = " Прочетох и съм съгласен с <a href='https://php-fusion.co.uk/license/' target='_blank'>условията за ползване</a> на  PHP-Fusion> ";
+$locale['setup_0005'] = " Прочетох и съм съгласен с <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>условията за ползване</a> на PHP-Fusion>";
 $locale['setup_0006'] = "PHP-Fusion 9 се нуждае от поне PHP 5.5.9. Погледнете <a href=\"https://www.php-fusion.co.uk/requirements\">системните изисквания</a> за повече информация.";
 $locale['setup_0007'] = "Системи с OPcache инсталиран трябва да имат <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> разрешен.";
 $locale['setup_5000'] = "За да използвате PHP-Fusion, трябва да се съгласите с условията за ползване</a>.";
@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Не са разрешени";
 $locale['setup_0116'] = "PHP OPcode кеш подобрява скоростта на сайта Ви осезателно. <strong>Силно препоръчително е</strong> да имате <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> инсталирано на сървъра.";
 $locale['setup_0118'] = "Сървърът Ви изглежда, че не поддържа PDO (PHP Data Objects). Попитайте хостинг компанията Ви, дали поддъжат PDO разширението.";
 $locale['setup_0119a'] = "Обмислете увеличаване на PHP паметта до %memory_minimum_limit, за да спрете евентуални грешки по време на инсталацията.";
-$locale['setup_0119b'] = "Увеличете паметта, като редактирате memory_limit параметъра във файла ".get_cfg_var('cfg_file_path')." и след това рестартирате уеб сървъра (или се свържете със системния администратор или хостинг компанията).";
+$locale['setup_0119b'] = "Увеличете паметта, като редактирате memory_limit параметъра във файла [CFG_FILE_PATH] и след това рестартирате уеб сървъра (или се свържете със системния администратор или хостинг компанията).";
 $locale['setup_0119c'] = "Свържете се със системния администратор или хостинг компанията, за да увеличат паметта на PHP.";
 // Buttons
 $locale['setup_0120'] = "Финални настройки на конфигурацията";

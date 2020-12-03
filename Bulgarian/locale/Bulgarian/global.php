@@ -435,6 +435,7 @@ $locale['reactivate'] = "Повторно активиране";
 $locale['user'] = "Потребител";
 $locale['promote'] = "Повиши";
 $locale['show'] = "Покажи";
+$locale['hide'] = "Hide";
 $locale['actions'] = "Действия";
 $locale['language'] = "Език";
 $locale['loading'] = "Loading...";
