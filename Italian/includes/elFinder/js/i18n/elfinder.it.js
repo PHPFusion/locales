@@ -1,10 +1,10 @@
 /**
- * Italiano translation
+ * Italian translation
  * @author Alberto Tocci (alberto.tocci@gmail.com)
  * @author Claudio Nicora (coolsoft.ita@gmail.com)
  * @author Stefano Galeazzi <stefano.galeazzi@probanet.it>
  * @author Thomas Camaran <camaran@gmail.com>
- * @version 2018-06-08
+ * @version 2020-12-04
  */
 (function(root, factory) {
 	if (typeof define === 'function' && define.amd) {
@@ -17,11 +17,11 @@
 }(this, function(elFinder) {
 	elFinder.prototype.i18.it = {
 		translator : 'Alberto Tocci (alberto.tocci@gmail.com), Claudio Nicora (coolsoft.ita@gmail.com), Stefano Galeazzi &lt;stefano.galeazzi@probanet.it&gt;, Thomas Camaran &lt;camaran@gmail.com&gt;',
-		language   : 'Italiano',
+		language   : 'Italian',
 		direction  : 'ltr',
-		dateFormat : 'd/m/Y H:i', // Mar 13, 2012 05:27 PM
-		fancyDateFormat : '$1 H:i', // will produce smth like: Today 12:25 PM
-		nonameDateFormat : 'ymd-His', // to apply if upload file is noname: 120513172700
+		dateFormat : 'd/m/Y H:i', // will show like: 04/12/2020 16:04
+		fancyDateFormat : '$1 H:i', // will show like: Oggi 16:04
+		nonameDateFormat : 'ymd-His', // noname upload will show like: 201204-160416
 		messages   : {
 
 			/********************************** errors **********************************/
@@ -117,6 +117,7 @@
 			'errEditorNotFound'    : 'Impossibile trovare un editor per questo tipo di file.', // from v2.1.25 added 23.5.2017
 			'errServerError'       : 'Si è verificato un errore lato server.', // from v2.1.25 added 16.6.2017
 			'errEmpty'             : 'Impossibile svuotare la cartella "$1".', // from v2.1.25 added 22.6.2017
+			'moreErrors'           : 'There are $1 more errors.', // from v2.1.44 added 9.12.2018
 
 			/******************************* commands names ********************************/
 			'cmdarchive'   : 'Crea archivio',
@@ -165,6 +166,7 @@
 			'cmdselectnone': 'Annulla selezione', // from v2.1.28 added 15.08.2017
 			'cmdselectinvert': 'Inverti selezione', // from v2.1.28 added 15.08.2017
 			'cmdopennew'   : 'Apri in una nuova finestra', // from v2.1.38 added 3.4.2018
+			'cmdhide'      : 'Hide (Preference)', // from v2.1.41 added 24.7.2018
 
 			/*********************************** buttons ***********************************/
 			'btnClose'  : 'Chiudi',
@@ -226,6 +228,7 @@
 			'ntfchkdir'   : 'Controllo cartella destinazione', // from v2.1.24 added 3.5.2017
 			'ntfundo'     : 'Annullamento operazione precedente', // from v2.1.27 added 31.07.2017
 			'ntfredo'     : 'Rifacimento precedente annullamento', // from v2.1.27 added 31.07.2017
+			'ntfchkcontent' : 'Checking contents', // from v2.1.41 added 3.8.2018
 
 			/*********************************** volumes *********************************/
 			'volume_Trash' : 'Cestino', //from v2.1.24 added 29.4.2017
@@ -289,6 +292,9 @@
 			'untitled file.txt' : 'NuovoFile.txt', // added 10.11.2015
 			'untitled folder'   : 'NuovaCartella',   // added 10.11.2015
 			'Archive'           : 'NuovoArchivio',  // from v2.1 added 10.11.2015
+			'untitled file'     : 'NewFile.$1',  // from v2.1.41 added 6.8.2018
+			'extentionfile'     : '$1: File',    // from v2.1.41 added 6.8.2018
+			'extentiontype'     : '$1: $2',      // from v2.1.43 added 17.10.2018
 
 			/********************************** messages **********************************/
 			'confirmReq'      : 'Conferma richiesta',
@@ -299,6 +305,7 @@
 			'confirmNonUTF8'  : 'La codifica caratteri di questo file non può essere determinata. Sarà temporaneamente convertito in UTF-8 per l\'editting.<br/>Per cortesia, selezionare la codifica caratteri per il file.', // from v2.1.19 added 28.11.2016
 			'confirmNotSave'  : 'Il contenuto è stato modificato.<br/>Le modifiche andranno perse se non si salveranno.', // from v2.1 added 15.7.2015
 			'confirmTrash'    : 'Sei sicuro di voler cestinare gli oggetti?', //from v2.1.24 added 29.4.2017
+			'confirmMove'     : 'Are you sure you want to move items to "$1"?', //from v2.1.50 added 27.7.2019
 			'apllyAll'        : 'Applica a tutti',
 			'name'            : 'Nome',
 			'size'            : 'Dimensione',
@@ -438,6 +445,7 @@
 			'clearBrowserData': 'Inizializza le impostazioni salvate nel browser', // from v2.1.26 added 28.6.2017
 			'toolbarPref'     : 'Impostazioni ToolBar', // from v2.1.27 added 2.8.2017
 			'charsLeft'       : '... $1 caratteri rimanenti.',  // from v2.1.29 added 30.8.2017
+			'linesLeft'       : '... $1 lines left.',  // from v2.1.52 added 16.1.2020
 			'sum'             : 'Somma', // from v2.1.29 added 28.9.2017
 			'roughFileSize'   : 'Dimensione file approssimativa', // from v2.1.30 added 2.11.2017
 			'autoFocusDialog' : 'Fuoco sull\'elemento sotto al mouse',  // from v2.1.30 added 2.11.2017
@@ -463,7 +471,29 @@
 			'workspace'       : 'Spazio di lavoro', // from v2.1.38 added 4.4.2018
 			'dialog'          : 'Dialog', // from v2.1.38 added 4.4.2018
 			'all'             : 'Tutti', // from v2.1.38 added 4.4.2018
-			'iconSize'        : 'Dimensione icona (Visualizzazione icone)', // form v2.1.39 added 7.5.2018
+			'iconSize'        : 'Dimensione icona (Visualizzazione icone)', // from v2.1.39 added 7.5.2018
+			'editorMaximized' : 'Open the maximized editor window', // from v2.1.40 added 30.6.2018
+			'editorConvNoApi' : 'Because conversion by API is not currently available, please convert on the website.', //from v2.1.40 added 8.7.2018
+			'editorConvNeedUpload' : 'After conversion, you must be upload with the item URL or a downloaded file to save the converted file.', //from v2.1.40 added 8.7.2018
+			'convertOn'       : 'Convert on the site of $1', // from v2.1.40 added 10.7.2018
+			'integrations'    : 'Integrations', // from v2.1.40 added 11.7.2018
+			'integrationWith' : 'This elFinder has the following external services integrated. Please check the terms of use, privacy policy, etc. before using it.', // from v2.1.40 added 11.7.2018
+			'showHidden'      : 'Show hidden items', // from v2.1.41 added 24.7.2018
+			'hideHidden'      : 'Hide hidden items', // from v2.1.41 added 24.7.2018
+			'toggleHidden'    : 'Show/Hide hidden items', // from v2.1.41 added 24.7.2018
+			'makefileTypes'   : 'File types to enable with "New file"', // from v2.1.41 added 7.8.2018
+			'typeOfTextfile'  : 'Type of the Text file', // from v2.1.41 added 7.8.2018
+			'add'             : 'Add', // from v2.1.41 added 7.8.2018
+			'theme'           : 'Theme', // from v2.1.43 added 19.10.2018
+			'default'         : 'Default', // from v2.1.43 added 19.10.2018
+			'description'     : 'Description', // from v2.1.43 added 19.10.2018
+			'website'         : 'Website', // from v2.1.43 added 19.10.2018
+			'author'          : 'Author', // from v2.1.43 added 19.10.2018
+			'email'           : 'Email', // from v2.1.43 added 19.10.2018
+			'license'         : 'License', // from v2.1.43 added 19.10.2018
+			'exportToSave'    : 'This item can\'t be saved. To avoid losing the edits you need to export to your PC.', // from v2.1.44 added 1.12.2018
+			'dblclickToSelect': 'Double click on the file to select it.', // from v2.1.47 added 22.1.2019
+			'useFullscreen'   : 'Use fullscreen mode', // from v2.1.47 added 19.2.2019
 
 			/********************************** mimetypes **********************************/
 			'kindUnknown'     : 'Sconosciuto',

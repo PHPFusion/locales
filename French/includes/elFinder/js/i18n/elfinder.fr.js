@@ -1,9 +1,9 @@
 /**
- * française translation
+ * French translation
  * @author Régis Guyomarch <regisg@gmail.com>
  * @author Benoit Delachaux <benorde33@gmail.com>
  * @author Jonathan Grunder <jonathan.grunder@gmail.com>
- * @version 2019-06-11
+ * @version 2020-12-04
  */
 (function(root, factory) {
 	if (typeof define === 'function' && define.amd) {
@@ -16,11 +16,11 @@
 }(this, function(elFinder) {
 	elFinder.prototype.i18.fr = {
 		translator : 'Régis Guyomarch &lt;regisg@gmail.com&gt;, Benoit Delachaux &lt;benorde33@gmail.com&gt;, Jonathan Grunder &lt;jonathan.grunder@gmail.com&gt;',
-		language   : 'française',
+		language   : 'French',
 		direction  : 'ltr',
-		dateFormat : 'd/M/Y H:i', // will show like: 11/Jun/2019 19:33
-		fancyDateFormat : '$1 H:i', // will show like: Aujourd'hui 19:33
-		nonameDateFormat : 'ymd-His', // noname upload will show like: 190611-193346
+		dateFormat : 'd/M/Y H:i', // will show like: 04/Déc/2020 15:58
+		fancyDateFormat : '$1 H:i', // will show like: Aujourd'hui 15:58
+		nonameDateFormat : 'ymd-His', // noname upload will show like: 201204-155809
 		messages   : {
 
 			/********************************** errors **********************************/
@@ -304,6 +304,7 @@
 			'confirmNonUTF8'  : 'Impossible de détecter l\'encodage de ce fichier. Pour être modifié, il doit être temporairement convertit en UTF-8.<br/>Veuillez s\'il vous plaît sélectionner un encodage pour ce fichier.', // from v2.1.19 added 28.11.2016
 			'confirmNotSave'  : 'Ce fichier a été modifié.<br/>Les données seront perdues si les changements ne sont pas sauvegardés.', // from v2.1 added 15.7.2015
 			'confirmTrash'    : 'Êtes-vous certain de vouloir déplacer les éléments vers la corbeille?', //from v2.1.24 added 29.4.2017
+			'confirmMove'     : 'Are you sure you want to move items to "$1"?', //from v2.1.50 added 27.7.2019
 			'apllyAll'        : 'Appliquer à tous',
 			'name'            : 'Nom',
 			'size'            : 'Taille',
@@ -443,6 +444,7 @@
 			'clearBrowserData': 'Initialisation des configurations sauvegardées dans ce navigateur', // from v2.1.26 added 28.6.2017
 			'toolbarPref'     : 'Paramètres de la barre d\'outils', // from v2.1.27 added 2.8.2017
 			'charsLeft'       : '... $1 caractères restants.',  // from v2.1.29 added 30.8.2017
+			'linesLeft'       : '... $1 lines left.',  // from v2.1.52 added 16.1.2020
 			'sum'             : 'Somme', // from v2.1.29 added 28.9.2017
 			'roughFileSize'   : 'Taille de fichier brute', // from v2.1.30 added 2.11.2017
 			'autoFocusDialog' : 'Focus on the element of dialog with mouseover',  // from v2.1.30 added 2.11.2017
@@ -576,3 +578,4 @@
 		}
 	};
 }));
+

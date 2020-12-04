@@ -2,7 +2,7 @@
  * Bulgarian translation
  * @author Stamo Petkov <stamo.petkov@gmail.com>
  * @author Nikolay Petkov <office@cmstory.com>
- * @version 2018-07-28
+ * @version 2020-12-04
  */
 (function(root, factory) {
 	if (typeof define === 'function' && define.amd) {
@@ -17,9 +17,9 @@
 		translator : 'Stamo Petkov &lt;stamo.petkov@gmail.com&gt;, Nikolay Petkov &lt;office@cmstory.com&gt;',
 		language   : 'Bulgarian',
 		direction  : 'ltr',
-		dateFormat : 'd.m.Y H:i', // Mar 13, 2012 05:27 PM
-		fancyDateFormat : '$1 H:i', // will produce smth like: Today 12:25 PM
-		nonameDateFormat : 'Ymd-His', // to apply if upload file is noname: 120513172700
+		dateFormat : 'd.m.Y H:i', // will show like: 04.12.2020 15:48
+		fancyDateFormat : '$1 H:i', // will show like: днес 15:48
+		nonameDateFormat : 'Ymd-His', // noname upload will show like: 20201204-154811
 		messages   : {
 
 			/********************************** errors **********************************/
@@ -115,6 +115,7 @@
 			'errEditorNotFound'    : 'Не е намерен редактор за този тип файл.', // from v2.1.25 added 23.5.2017
 			'errServerError'       : 'Възникна грешка на сървъра.', // from v2.1.25 added 16.6.2017
 			'errEmpty'             : 'Папката "$1" не може да се изпразни.', // from v2.1.25 added 22.6.2017
+			'moreErrors'           : 'There are $1 more errors.', // from v2.1.44 added 9.12.2018
 
 			/******************************* commands names ********************************/
 			'cmdarchive'   : 'Създай архив',
@@ -225,6 +226,7 @@
 			'ntfchkdir'   : 'Проверка на целевата папка', // from v2.1.24 added 3.5.2017
 			'ntfundo'     : 'Отмяна на предишната операция', // from v2.1.27 added 31.07.2017
 			'ntfredo'     : 'Възстановяване на предходните отменени', // from v2.1.27 added 31.07.2017
+			'ntfchkcontent' : 'Checking contents', // from v2.1.41 added 3.8.2018
 
 			/*********************************** volumes *********************************/
 			'volume_Trash' : 'Кошче', //from v2.1.24 added 29.4.2017
@@ -288,6 +290,9 @@
 			'untitled file.txt' : 'NewFile.txt', // added 10.11.2015
 			'untitled folder'   : 'NewFolder',   // added 10.11.2015
 			'Archive'           : 'NewArchive',  // from v2.1 added 10.11.2015
+			'untitled file'     : 'NewFile.$1',  // from v2.1.41 added 6.8.2018
+			'extentionfile'     : '$1: File',    // from v2.1.41 added 6.8.2018
+			'extentiontype'     : '$1: $2',      // from v2.1.43 added 17.10.2018
 
 			/********************************** messages **********************************/
 			'confirmReq'      : 'Изисква се подтвърждение',
@@ -298,6 +303,7 @@
 			'confirmNonUTF8'  : 'Кодирането на този файл не може да бъде открито. Необходимо е временно да се преобразува в UTF-8 за редактиране. <br/> Моля, изберете кодиране на този файл.', // from v2.1.19 added 28.11.2016
 			'confirmNotSave'  : 'Има направени промени.<br/>Те ще бъдат загубени, ако не запишете промените.', // from v2.1 added 15.7.2015
 			'confirmTrash'    : 'Наистина ли искате да преместите позиции в кошчето за боклук?', //from v2.1.24 added 29.4.2017
+			'confirmMove'     : 'Are you sure you want to move items to "$1"?', //from v2.1.50 added 27.7.2019
 			'apllyAll'        : 'Приложи за всички',
 			'name'            : 'Име',
 			'size'            : 'Размер',
@@ -437,6 +443,7 @@
 			'clearBrowserData': 'Инициализирайте настройките запаметени в този браузър', // from v2.1.26 added 28.6.2017
 			'toolbarPref'     : 'Настройки на лентата с инструменти', // from v2.1.27 added 2.8.2017
 			'charsLeft'       : '... $1 символа остават.',  // from v2.1.29 added 30.8.2017
+			'linesLeft'       : '... $1 lines left.',  // from v2.1.52 added 16.1.2020
 			'sum'             : 'Сумарно', // from v2.1.29 added 28.9.2017
 			'roughFileSize'   : 'Груб размер на файла', // from v2.1.30 added 2.11.2017
 			'autoFocusDialog' : 'Фокусирайте върху елемента в диалоговия прозорец с мишката',  // from v2.1.30 added 2.11.2017
@@ -472,6 +479,19 @@
 			'showHidden'      : 'Покажи скритите елементи', // from v2.1.41 added 24.7.2018
 			'hideHidden'      : 'Скрий скритите елементи', // from v2.1.41 added 24.7.2018
 			'toggleHidden'    : 'Покажи/скрий скритите елементи', // from v2.1.41 added 24.7.2018
+			'makefileTypes'   : 'File types to enable with "New file"', // from v2.1.41 added 7.8.2018
+			'typeOfTextfile'  : 'Type of the Text file', // from v2.1.41 added 7.8.2018
+			'add'             : 'Add', // from v2.1.41 added 7.8.2018
+			'theme'           : 'Theme', // from v2.1.43 added 19.10.2018
+			'default'         : 'Default', // from v2.1.43 added 19.10.2018
+			'description'     : 'Description', // from v2.1.43 added 19.10.2018
+			'website'         : 'Website', // from v2.1.43 added 19.10.2018
+			'author'          : 'Author', // from v2.1.43 added 19.10.2018
+			'email'           : 'Email', // from v2.1.43 added 19.10.2018
+			'license'         : 'License', // from v2.1.43 added 19.10.2018
+			'exportToSave'    : 'This item can\'t be saved. To avoid losing the edits you need to export to your PC.', // from v2.1.44 added 1.12.2018
+			'dblclickToSelect': 'Double click on the file to select it.', // from v2.1.47 added 22.1.2019
+			'useFullscreen'   : 'Use fullscreen mode', // from v2.1.47 added 19.2.2019
 
 			/********************************** mimetypes **********************************/
 			'kindUnknown'     : 'Непознат',
@@ -557,3 +577,4 @@
 		}
 	};
 }));
+

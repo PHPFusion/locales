@@ -1,10 +1,10 @@
 /**
- * Español internacional translation
+ * Spanish translation
  * @author Julián Torres <julian.torres@pabernosmatao.com>
  * @author Luis Faura <luis@luisfaura.es>
  * @author Adrià Vilanova <me@avm99963.tk>
  * @author Wilman Marín Duran <fuclo05@hotmail.com>
- * @version 2018-04-10
+ * @version 2020-12-04
  */
 (function(root, factory) {
 	if (typeof define === 'function' && define.amd) {
@@ -17,11 +17,11 @@
 }(this, function(elFinder) {
 	elFinder.prototype.i18.es = {
 		translator : 'Julián Torres &lt;julian.torres@pabernosmatao.com&gt;, Luis Faura &lt;luis@luisfaura.es&gt;, Adrià Vilanova &lt;me@avm99963.tk&gt;, Wilman Marín Duran &lt;fuclo05@hotmail.com&gt;',
-		language   : 'Español internacional',
+		language   : 'Spanish',
 		direction  : 'ltr',
-		dateFormat : 'M d, Y h:i A', // Mar 13, 2012 05:27 PM
-		fancyDateFormat : '$1 h:i A', // will produce smth like: Today 12:25 PM
-		nonameDateFormat : 'ymd-His', // to apply if upload file is noname: 120513172700
+		dateFormat : 'M d, Y h:i A', // will show like: Dic 04, 2020 04:15 PM
+		fancyDateFormat : '$1 h:i A', // will show like: Hoy 04:15 PM
+		nonameDateFormat : 'ymd-His', // noname upload will show like: 201204-161553
 		messages   : {
 
 			/********************************** errors **********************************/
@@ -117,6 +117,7 @@
 			'errEditorNotFound'    : 'Editor no encontrado para este tipo de archivo.', // from v2.1.25 added 23.5.2017
 			'errServerError'       : 'Error ocurrido en el lado del servidor.', // from v2.1.25 added 16.6.2017
 			'errEmpty'             : 'No es posible vaciar la carpeta "$1".', // from v2.1.25 added 22.6.2017
+			'moreErrors'           : 'There are $1 more errors.', // from v2.1.44 added 9.12.2018
 
 			/******************************* commands names ********************************/
 			'cmdarchive'   : 'Crear archivo',
@@ -165,6 +166,7 @@
 			'cmdselectnone': 'Seleccionar ninguno', // from v2.1.28 added 15.08.2017
 			'cmdselectinvert': 'Invertir selección', // from v2.1.28 added 15.08.2017
 			'cmdopennew'   : 'Abrir en nueva ventana', // from v2.1.38 added 3.4.2018
+			'cmdhide'      : 'Hide (Preference)', // from v2.1.41 added 24.7.2018
 
 			/*********************************** buttons ***********************************/
 			'btnClose'  : 'Cerrar',
@@ -226,6 +228,7 @@
 			'ntfchkdir'   : 'Comprobando carpeta de destino', // from v2.1.24 added 3.5.2017
 			'ntfundo'     : 'Deshaciendo operación previa', // from v2.1.27 added 31.07.2017
 			'ntfredo'     : 'Rehaciendo previo deshacer', // from v2.1.27 added 31.07.2017
+			'ntfchkcontent' : 'Checking contents', // from v2.1.41 added 3.8.2018
 
 			/*********************************** volumes *********************************/
 			'volume_Trash' : 'Papelera', //from v2.1.24 added 29.4.2017
@@ -289,6 +292,9 @@
 			'untitled file.txt' : 'NuevoArchivo.txt', // added 10.11.2015
 			'untitled folder'   : 'NuevaCarpeta',   // added 10.11.2015
 			'Archive'           : 'NuevoArchivo',  // from v2.1 added 10.11.2015
+			'untitled file'     : 'NewFile.$1',  // from v2.1.41 added 6.8.2018
+			'extentionfile'     : '$1: File',    // from v2.1.41 added 6.8.2018
+			'extentiontype'     : '$1: $2',      // from v2.1.43 added 17.10.2018
 
 			/********************************** messages **********************************/
 			'confirmReq'      : 'Se necesita confirmación',
@@ -299,6 +305,7 @@
 			'confirmNonUTF8'  : 'Codificación de caracteres de este archivo no pudo ser detectada. Es necesario convertir temporalmente a UTF-8 para editarlo. <br/> Por favor, seleccione la codificación de caracteres de este archivo.', // from v2.1.19 added 28.11.2016
 			'confirmNotSave'  : 'Ha sido modificado.<br/>Perderás los cambios si no los guardas.', // from v2.1 added 15.7.2015
 			'confirmTrash'    : '¿Estás seguro que quieres mover los elementos a la papelera?', //from v2.1.24 added 29.4.2017
+			'confirmMove'     : 'Are you sure you want to move items to "$1"?', //from v2.1.50 added 27.7.2019
 			'apllyAll'        : 'Aplicar a todo',
 			'name'            : 'Nombre',
 			'size'            : 'Tamaño',
@@ -316,6 +323,10 @@
 			'selectlfile'     : 'Seleccionar último archivo',
 			'viewlist'        : 'ver como lista',
 			'viewicons'       : 'Ver como iconos',
+			'viewSmall'       : 'Small icons', // from v2.1.39 added 22.5.2018
+			'viewMedium'      : 'Medium icons', // from v2.1.39 added 22.5.2018
+			'viewLarge'       : 'Large icons', // from v2.1.39 added 22.5.2018
+			'viewExtraLarge'  : 'Extra large icons', // from v2.1.39 added 22.5.2018
 			'places'          : 'Lugares',
 			'calc'            : 'Calcular',
 			'path'            : 'Ruta',
@@ -434,6 +445,7 @@
 			'clearBrowserData': 'Inicializa la configuración guardada en este navegador', // from v2.1.26 added 28.6.2017
 			'toolbarPref'     : 'Configuración de la barra de herramientas', // from v2.1.27 added 2.8.2017
 			'charsLeft'       : '...falta $1 caracteres.',  // from v2.1.29 added 30.8.2017
+			'linesLeft'       : '... $1 lines left.',  // from v2.1.52 added 16.1.2020
 			'sum'             : 'Suma', // from v2.1.29 added 28.9.2017
 			'roughFileSize'   : 'Tamaño de archivo aproximado', // from v2.1.30 added 2.11.2017
 			'autoFocusDialog' : 'Centrado en el elemento de diálogo con \'mouseover\'',  // from v2.1.30 added 2.11.2017
@@ -459,6 +471,29 @@
 			'workspace'       : 'Espacio de trabajo', // from v2.1.38 added 4.4.2018
 			'dialog'          : 'Diálogo', // from v2.1.38 added 4.4.2018
 			'all'             : 'Todo', // from v2.1.38 added 4.4.2018
+			'iconSize'        : 'Icon Size (Icons view)', // from v2.1.39 added 7.5.2018
+			'editorMaximized' : 'Open the maximized editor window', // from v2.1.40 added 30.6.2018
+			'editorConvNoApi' : 'Because conversion by API is not currently available, please convert on the website.', //from v2.1.40 added 8.7.2018
+			'editorConvNeedUpload' : 'After conversion, you must be upload with the item URL or a downloaded file to save the converted file.', //from v2.1.40 added 8.7.2018
+			'convertOn'       : 'Convert on the site of $1', // from v2.1.40 added 10.7.2018
+			'integrations'    : 'Integrations', // from v2.1.40 added 11.7.2018
+			'integrationWith' : 'This elFinder has the following external services integrated. Please check the terms of use, privacy policy, etc. before using it.', // from v2.1.40 added 11.7.2018
+			'showHidden'      : 'Show hidden items', // from v2.1.41 added 24.7.2018
+			'hideHidden'      : 'Hide hidden items', // from v2.1.41 added 24.7.2018
+			'toggleHidden'    : 'Show/Hide hidden items', // from v2.1.41 added 24.7.2018
+			'makefileTypes'   : 'File types to enable with "New file"', // from v2.1.41 added 7.8.2018
+			'typeOfTextfile'  : 'Type of the Text file', // from v2.1.41 added 7.8.2018
+			'add'             : 'Add', // from v2.1.41 added 7.8.2018
+			'theme'           : 'Theme', // from v2.1.43 added 19.10.2018
+			'default'         : 'Default', // from v2.1.43 added 19.10.2018
+			'description'     : 'Description', // from v2.1.43 added 19.10.2018
+			'website'         : 'Website', // from v2.1.43 added 19.10.2018
+			'author'          : 'Author', // from v2.1.43 added 19.10.2018
+			'email'           : 'Email', // from v2.1.43 added 19.10.2018
+			'license'         : 'License', // from v2.1.43 added 19.10.2018
+			'exportToSave'    : 'This item can\'t be saved. To avoid losing the edits you need to export to your PC.', // from v2.1.44 added 1.12.2018
+			'dblclickToSelect': 'Double click on the file to select it.', // from v2.1.47 added 22.1.2019
+			'useFullscreen'   : 'Use fullscreen mode', // from v2.1.47 added 19.2.2019
 
 			/********************************** mimetypes **********************************/
 			'kindUnknown'     : 'Desconocido',
@@ -544,3 +579,4 @@
 		}
 	};
 }));
+
