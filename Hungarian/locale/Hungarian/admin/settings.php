@@ -106,7 +106,7 @@ $locale['608'] = "GD2";
 $locale['609'] = "Fejlesztési mód";
 $locale['610'] = "Frissítés ellenőrzés";
 $locale['611'] = "Összefoglaló határoló";
-$locale['612'] = "Ezres választék";
+$locale['612'] = "Ezres választó";
 
 $locale['649'] = "Tiltott Felhasználó Nevek:";
 $locale['650'] = "További beállítások";
