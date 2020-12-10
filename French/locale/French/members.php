@@ -1,20 +1,20 @@
 <?php
-$locale['MEMB_000'] = "Members List";
+$locale['MEMB_000'] = "Liste des membres";
 $locale['MEMB_001'] = "Avatar";
-$locale['MEMB_002'] = "User Name";
-$locale['MEMB_003'] = "User groups";
-$locale['MEMB_004'] = "User Type";
-$locale['MEMB_005'] = "Search for member...";
-$locale['MEMB_006'] = "Search";
-$locale['MEMB_007'] = "Sort&nbsp;By";
-$locale['MEMB_008'] = "Last Active";
-$locale['MEMB_009'] = "Newly Registered";
-$locale['MEMB_010'] = "Alphabetical";
+$locale['MEMB_002'] = "Nom d'utilisateur";
+$locale['MEMB_003'] = "Groupes d'utilisateurs";
+$locale['MEMB_004'] = "Type d'utilisateur";
+$locale['MEMB_005'] = "Rechercher un membre...";
+$locale['MEMB_006'] = "Recherche";
+$locale['MEMB_007'] = "Trier&nbsp;par";
+$locale['MEMB_008'] = "Dernier Actif";
+$locale['MEMB_009'] = "Récemment inscrit";
+$locale['MEMB_010'] = "Alphabétique";
 
-$locale['MEMB_012'] = "Ascending";
-$locale['MEMB_013'] = "Descending";
-$locale['MEMB_014'] = "Show All";
-$locale['MEMB_015'] = "Not registered to any group";
-$locale['MEMB_016'] = "Access to all groups";
-$locale['MEMB_017'] = "Viewing {%start_row%} - {%end_row%} of {%max_row%} active {%member%}";
-$locale['MEMB_018'] = "There are no user names beginning with: ";
+$locale['MEMB_012'] = "Croissant";
+$locale['MEMB_013'] = "Décroissant";
+$locale['MEMB_014'] = "Afficher tout";
+$locale['MEMB_015'] = "Pas enregistré dans un groupe";
+$locale['MEMB_016'] = "Accès à tous les groupes";
+$locale['MEMB_017'] = "Visualisation {%start_row%} - {%end_row%} sur {%max_row%} actif {%member%}";
+$locale['MEMB_018'] = "Il n'y a aucun nom d'utilisateur commençant par : ";

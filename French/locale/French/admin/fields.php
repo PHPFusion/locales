@@ -150,4 +150,4 @@ $locale['fields_0667'] = "Conflit de colonnes. Il y a des colonnes sur [OLD_TABL
 $locale['fields_0668'] = "Fork No.2 - Mettre à jour le champ sur la même table";
 $locale['fields_0669'] = "Renommer la colonne [FIELD_NAME] sur [OLD_TABLE] en [FIELD_NAME_] avec des attributs de ";
 $locale['fields_0670'] = "Anciennes données";
-$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
+$locale['fields_0671'] = "Votre table doit être une table valide. Votre colonne doit être une colonne d'un identifiant utilisateur dans cette table.";

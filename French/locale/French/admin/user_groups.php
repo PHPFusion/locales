@@ -1,54 +1,54 @@
 <?php
 // Edit/Save/Delete User Group Messages
-$locale['GRP_400'] = "User Group updated";
-$locale['GRP_401'] = "User Group added";
-$locale['GRP_403'] = "Not Selected User";
-$locale['GRP_404'] = "No Group ";
-$locale['GRP_405'] = "Cannot delete User Group";
-$locale['GRP_406'] = "There are users assigned to this group";
-$locale['GRP_407'] = "User Group deleted";
-$locale['GRP_408'] = "No Selected User or Group.";
-$locale['GRP_409'] = " Add a user group.";
+$locale['GRP_400'] = "Groupe d'utilisateurs mis à jour";
+$locale['GRP_401'] = "Groupe d'utilisateur ajouté";
+$locale['GRP_403'] = "Pas d'utilisateur sélectionné";
+$locale['GRP_404'] = "Aucun groupe ";
+$locale['GRP_405'] = "Impossible de supprimer le groupe d'utilisateurs";
+$locale['GRP_406'] = "Il y a des utilisateurs assignés à ce groupe";
+$locale['GRP_407'] = "Groupe d'utilisateur supprimé";
+$locale['GRP_408'] = "Aucun utilisateur ou groupe sélectionné.";
+$locale['GRP_409'] = " Ajouter un groupe d’utilisateurs.";
 
-$locale['GRP_410'] = "User \"%s\" added to group \"%s\"";
-$locale['GRP_411'] = "User \"%s\" removed from group \"%s\"";
-$locale['GRP_412'] = "\"%s\" users removed from group \"%s\"";
+$locale['GRP_410'] = "Utilisateur \"%s\" ajouté au groupe \"%s\"";
+$locale['GRP_411'] = "Utilisateur \"%s\" supprimé du groupe \"%s\"";
+$locale['GRP_412'] = "%s\" utilisateurs supprimés du groupe \"%s\"";
 
 // Edit/Delete Options
-$locale['GRP_420'] = "User Groups";
-$locale['GRP_421'] = "Edit Group";
-$locale['GRP_422'] = "Delete Group";
-$locale['GRP_423'] = "User Management";
-$locale['GRP_424'] = "Displaying %d User Group.";
-$locale['GRP_425'] = "Delete this user group?";
-$locale['GRP_426'] = "Default Group";
-$locale['GRP_427'] = "Currently %d displaying %d members.";
-$locale['GRP_428'] = "Add Group";
-$locale['GRP_430'] = "added to Group %s";
+$locale['GRP_420'] = "Groupes d'utilisateur";
+$locale['GRP_421'] = "Modifier le groupe";
+$locale['GRP_422'] = "Supprimer Groupe";
+$locale['GRP_423'] = "Gestion d'utilisateur";
+$locale['GRP_424'] = "Affichage de %d Groupes d'utilisateurs.";
+$locale['GRP_425'] = "Supprimer ce groupe d'utilisateur ?";
+$locale['GRP_426'] = "Groupe par défaut";
+$locale['GRP_427'] = "Actuellement %d affiche %d membres.";
+$locale['GRP_428'] = "Ajouter un groupe";
+$locale['GRP_430'] = "ajouté au groupe %s";
 // Edit/Add User Group
-$locale['GRP_432'] = "Group Name";
-$locale['GRP_433'] = "Group Description";
-$locale['GRP_434'] = "Save Group";
-$locale['GRP_435'] = "ID";
+$locale['GRP_432'] = "Nom de groupe";
+$locale['GRP_433'] = "Description du groupe";
+$locale['GRP_434'] = "Enregistrer le groupe";
+$locale['GRP_435'] = "Identifiant";
 $locale['GRP_436'] = "Icône";
 $locale['GRP_437'] = "Action";
-$locale['GRP_438'] = "Members";
-$locale['GRP_439'] = "Group Icon";
+$locale['GRP_438'] = "Membres";
+$locale['GRP_439'] = "Icône du groupe";
 // Search/Add Group Users
-$locale['GRP_440'] = "Add users to Group";
-$locale['GRP_441'] = "Search for users to add to this group using the form below.";
-$locale['GRP_442'] = "You can search for multiple users by separating each entry Enter.";
-$locale['GRP_446'] = "User Name";
-$locale['GRP_447'] = "User Type";
-$locale['GRP_448'] = "Check All";
-$locale['GRP_449'] = "Uncheck All";
-$locale['GRP_450'] = "Add selected users";
-$locale['GRP_451'] = "Search User";
-$locale['GRP_452'] = "Current Group: ";
+$locale['GRP_440'] = "Ajouter des utilisateurs au groupe";
+$locale['GRP_441'] = "Rechercher des utilisateurs à ajouter en utilisant le formulaire ci-dessous.";
+$locale['GRP_442'] = "Vous pouvez rechercher plusieurs utilisateurs en séparant chaque entrée avec la touche Entrer.";
+$locale['GRP_446'] = "Nom d'utilisateur";
+$locale['GRP_447'] = "Type d'utilisateur";
+$locale['GRP_448'] = "Cocher tout";
+$locale['GRP_449'] = "Décocher tout";
+$locale['GRP_450'] = "Ajouter les utilisateurs sélectionnés";
+$locale['GRP_451'] = "Rechercher un utilisateur";
+$locale['GRP_452'] = "Groupe Actuel : ";
 // Current Group Users
-$locale['GRP_460'] = "Current Group Users";
-$locale['GRP_461'] = "Remove selected users";
-$locale['GRP_462'] = "Remove all users";
-$locale['GRP_463'] = "There are no users in this group.";
+$locale['GRP_460'] = "Utilisateurs actuels du groupe";
+$locale['GRP_461'] = "Supprimer les utilisateurs sélectionnés";
+$locale['GRP_462'] = "Enlever tous les utilisateurs";
+$locale['GRP_463'] = "Il n'y a aucun utilisateur dans ce groupe.";
 // Error Messages
-$locale['GRP_464'] = "Please enter a Group name";
+$locale['GRP_464'] = "Veuillez entrer un nom de groupe";

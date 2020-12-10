@@ -1,44 +1,44 @@
 <?php
 // Section Titles
-$locale['PL_400'] = "Enabled Permalinks";
-$locale['PL_401'] = "Disabled Permalinks";
-$locale['PL_401a'] = "Permalink Settings";
+$locale['PL_400'] = "Permaliens activés";
+$locale['PL_401'] = "Permaliens désactivés";
+$locale['PL_401a'] = "Paramètres du permalien";
 
 // Common
-$locale['PL_402'] = "Rewrite Name";
+$locale['PL_402'] = "Réécrire le nom";
 $locale['PL_403'] = "Description";
 $locale['PL_404'] = "Options";
-$locale['PL_404a'] = "Enable";
-$locale['PL_404b'] = "Disable";
-$locale['PL_404d'] = "Reinstall";
+$locale['PL_404a'] = "Activé";
+$locale['PL_404b'] = "Désactiver";
+$locale['PL_404d'] = "Réinstaller";
 
 // Editing Permalinks
-$locale['PL_405'] = "Editing Permalinks for %s";
-$locale['PL_406'] = "Tags";
+$locale['PL_405'] = "Édition des permaliens pour %s";
+$locale['PL_406'] = "Mots-clés";
 $locale['PL_407'] = "Description";
 $locale['PL_408'] = "Types";
-$locale['PL_409'] = "Edit Pattern";
-$locale['PL_410'] = "Permalink type %u:";
-$locale['PL_411'] = "Error";
-$locale['PL_412'] = "Check the files of the Permalink %s!";
-$locale['PL_413'] = "Save";
-$locale['PL_414'] = "WARNING: Permalinks &amp; Custom Alias data will be permanently deleted!<br/>Are you sure you want to Disable this Permalink?";
-$locale['PL_415'] = "Permalink Rules will transform various site URLs to Search Engine Friendly URLs with options to customize the URL structure for your site.<br/>
-                  You can turn on the Permalinks in the Settings Tab if your server supports mod_rewrite. You activate the various Permalinks found in the Disabled tab. You can edit the rules to further customize an URL to your preference directly in each Permalink module.<br/><br/>
-                  Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
+$locale['PL_409'] = "Modifier le schéma";
+$locale['PL_410'] = "Permaliens type %u:";
+$locale['PL_411'] = "Erreur";
+$locale['PL_412'] = "Vérifiez les fichiers du Permalien %s!";
+$locale['PL_413'] = "Sauvegarder";
+$locale['PL_414'] = "AVERTISSEMENT : Les liens permanents &amp; les données d'alias personnalisés seront définitivement supprimés !<br/>Êtes-vous sûr de vouloir désactiver ce lien permanent ?";
+$locale['PL_415'] = "Les règles de permalien transformeront diverses URL de site pour des URL simplifiées pour les moteurs de recherche avec des options pour personnaliser la structure d'URL de votre site.<br/>
+                  Vous pouvez activer les Permalinks dans l'onglet Paramètres si votre serveur prend en charge mod_rewrite. Vous activez les différents Permaliens trouvés dans l'onglet Désactivé. Vous pouvez modifier les règles pour personnaliser davantage une URL à votre préférence directement dans chaque module de Permalink.<br/><br/>
+                  Veuillez noter que mod_rewrite ou son équivalent est requis pour que les Permalinks fonctionnent.";
 
 // Admin Messages
-$locale['PL_420'] = "An Error occurred.";
-$locale['PL_421'] = "Permalinks Updated successfully.";
-$locale['PL_422'] = "No Permalink patterns found for %s.";
-$locale['PL_423'] = "Permalink not found.";
-$locale['PL_424'] = "Enabled Permalinks for %s successfully.";
-$locale['PL_425'] = "Permalinks for %s are already enabled.";
-$locale['PL_426'] = "Disabled Permalinks for %s successfully.";
-$locale['PL_429'] = "Permalink Driver for %s";
+$locale['PL_420'] = "Une erreur est survenue.";
+$locale['PL_421'] = "Permaliens mis à jour avec succès.";
+$locale['PL_422'] = "Aucun modèle de permalien trouvé pour %s.";
+$locale['PL_423'] = "Permalien introuvable.";
+$locale['PL_424'] = "Permaliens activés avec succès pour %s.";
+$locale['PL_425'] = "Les liens permanents pour %s sont déjà activés.";
+$locale['PL_426'] = "Permaliens activés avec succès pour %s.";
+$locale['PL_429'] = "Pilote de permalien pour %s";
 
 // Other
-$locale['PL_427'] = "No Permalinks are enabled.";
-$locale['PL_428'] = "Permalinks";
-$locale['seo_htc_warning'] = "Please note that if you change any of these settings the content of `.htaccess` will be overwritten and any changes previously done to this file will be lost.";
-$locale['rewrite_disabled'] = "It looks like `mod_rewrite` is not enabled on your host. Enabling SEF urls might break your website. Please contact your hosting provider about enabling `mod_rewrite` on your host.";
+$locale['PL_427'] = "Aucun Permalien n'est actif.";
+$locale['PL_428'] = "Permaliens";
+$locale['seo_htc_warning'] = "Veuillez noter que si vous modifiez l'un de ces paramètres, le contenu du fichier `. htaccess` sera écrasé et tous les changements effectués précédemment sur ce fichier seront perdus.";
+$locale['rewrite_disabled'] = "Il semble que `mod_rewrite` ne soit pas activé sur votre hôte. L'activation des urls SEF pourrait endommager votre site web. Veuillez contacter votre hébergeur afin d'activer `mod_rewrite` sur votre hôte.";

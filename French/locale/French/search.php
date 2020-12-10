@@ -1,47 +1,47 @@
 <?php
-$locale['400'] = "Search [SITENAME]";
-$locale['401'] = "Search keywords";
-$locale['402'] = "Search";
-$locale['403'] = "search any of those words";
-$locale['404'] = "result has to contain all those words";
-$locale['405'] = "Where:";
-$locale['406'] = "Options:";
-$locale['407'] = "Entire site";
-$locale['408'] = "Search Results";
+$locale['400'] = "Rechercher [SITENAME]";
+$locale['401'] = "Rechercher des mots-clés";
+$locale['402'] = "Recherche";
+$locale['403'] = "rechercher un de ces mots";
+$locale['404'] = "le résultat doit contenir tous ces mots";
+$locale['405'] = "Emplacement :";
+$locale['406'] = "Options :";
+$locale['407'] = "Site entier";
+$locale['408'] = "Résultats de la recherche";
 //addition date
-$locale['420'] = "Search:";
-$locale['421'] = "all";
-$locale['422'] = "last day";
-$locale['423'] = "last week";
-$locale['424'] = "last two weeks";
-$locale['425'] = "last month";
-$locale['426'] = "last three months";
-$locale['427'] = "last six months";
+$locale['420'] = "Rechercher :";
+$locale['421'] = "tous";
+$locale['422'] = "dernier jour";
+$locale['423'] = "semaine précedente";
+$locale['424'] = "deux dernières semaines";
+$locale['425'] = "le mois dernier";
+$locale['426'] = "les trois derniers mois";
+$locale['427'] = "les six derniers mois";
 //where
-$locale['430'] = "title and message";
-$locale['431'] = "only message";
-$locale['432'] = "only title";
+$locale['430'] = "titre et message";
+$locale['431'] = "seulement le message";
+$locale['432'] = "seulement le titre";
 //sort by
-$locale['440'] = "Sort by:";
-$locale['441'] = "addition date";
-$locale['442'] = "title";
-$locale['443'] = "author";
+$locale['440'] = "Trier par :";
+$locale['441'] = "date d'ajout";
+$locale['442'] = "titre";
+$locale['443'] = "auteur";
 //
-$locale['450'] = "descending";
-$locale['451'] = "ascending";
+$locale['450'] = "décroissant";
+$locale['451'] = "croissant";
 //characters in results
-$locale['460'] = "Show:";
-$locale['461'] = "characters in result";
-$locale['462'] = "entire text";
+$locale['460'] = "Afficher :";
+$locale['461'] = "caractères dans le résultat";
+$locale['462'] = "texte entier";
 //No results
-$locale['500'] = "No matches found.";
-$locale['501'] = "Search text must be at least 3 characters long.";
-$locale['502'] = "Search strings with less than three characters (%s) are ignored in the search.";
+$locale['500'] = "Aucune correspondance trouvée.";
+$locale['501'] = "Le texte de la recherche doit comporter au moins 3 caractères.";
+$locale['502'] = "Les chaînes de recherche avec moins de trois caractères (%s) sont ignorées dans la recherche.";
 //Global search
-$locale['510'] = "matches in global site search";
+$locale['510'] = "correspondances dans la recherche de site global";
 //
-$locale['520'] = "match";
-$locale['521'] = "matches";
-$locale['522'] = "found matching search criteria";
+$locale['520'] = "correspondance";
+$locale['521'] = "correspondances";
+$locale['522'] = "trouvé correspondant aux critères de recherche";
 //more than 100 results
-$locale['530'] = "Please be more precise in your query. Your query returns %s results. We are displaying just 100 top results";
+$locale['530'] = "Veuillez être plus précis dans votre requête. Votre requête retourne %s résultats. Nous affichons seulement 100 meilleurs résultats";

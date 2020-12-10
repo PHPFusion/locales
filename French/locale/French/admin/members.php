@@ -53,33 +53,33 @@ $locale['ME_460'] = 'Il n\'y a aucun utilisateur à désactiver';
 $locale['ME_461'] = '%s a été désactivé';
 $locale['ME_462'] = 'Désactiver les membres inactifs';
 $locale['ME_463'] = 'Vous avez plus de 50 utilisateurs inactifs et devrez exécuter le processus de désactivation (%d) fois.';
-$locale['ME_464'] = '%d user(s) have not logged in for %d day(s) and have been marked as inactive. By deactivating these users they will have (%d) day(s) before they are %s.';
-$locale['ME_465'] = 'Please note that some users may have submitted content to your site such as forum posts, comments, photos etc. These will be deleted when deactivated users are being deleted.';
-$locale['ME_466'] = 'It is strongly recommended to change deactivation action to anonymize instead of delete to prevent data loss!';
-$locale['ME_467'] = "Set deactivation system to anonymize.";
-$locale['ME_468'] = 'Automatic deactivation of inactive users.';
-$locale['ME_469'] = 'User has been activated';
+$locale['ME_464'] = '%d utilisateur(s) ne sont pas connectés depuis %d jour(s) et ont été marqués comme inactifs. En désactivant ces utilisateurs, ils auront (%d) jour(s) avant d\'avoir %s.';
+$locale['ME_465'] = 'Veuillez noter que certains utilisateurs peuvent avoir soumis du contenu à votre site comme des messages sur le forum, des commentaires, des photos, etc. Celles-ci seront supprimées lorsque les utilisateurs désactivés seront supprimés.';
+$locale['ME_466'] = 'Il est fortement recommandé de changer l\'action de désactivation pour anonymiser au lieu de supprimer pour éviter la perte de données !';
+$locale['ME_467'] = "Définir le système de désactivation pour l'anonymat.";
+$locale['ME_468'] = 'Désactivation automatique des utilisateurs inactifs.';
+$locale['ME_469'] = 'Cet utilisateur a été activé';
 
 // Actions
-$locale['ME_500'] = 'Ban';
-$locale['ME_501'] = 'Reinstate';
-$locale['ME_502'] = 'Deactivate';
+$locale['ME_500'] = 'Banni';
+$locale['ME_501'] = 'Rétablir';
+$locale['ME_502'] = 'Désactiver';
 $locale['ME_503'] = 'Suspendue';
-$locale['ME_504'] = 'Security Ban';
-$locale['ME_505'] = 'Cancel';
-$locale['ME_506'] = 'Anonymize';
-$locale['ME_507'] = 'Activate';
+$locale['ME_504'] = 'Bannissement de sécurité';
+$locale['ME_505'] = 'Annuler';
+$locale['ME_506'] = 'Rendre anonyme';
+$locale['ME_507'] = 'Activer';
 
 // a_message keys
-$locale['ME_550'] = 'banned';
-$locale['ME_551'] = 'reinstated';
-$locale['ME_552'] = 'deactivated';
-$locale['ME_553'] = 'suspended';
-$locale['ME_554'] = 'security banned';
-$locale['ME_555'] = 'cancelled';
-$locale['ME_556'] = 'anonymized';
-$locale['ME_557'] = 'permanently deleted';
+$locale['ME_550'] = 'banni';
+$locale['ME_551'] = 'rétabli';
+$locale['ME_552'] = 'désactivé';
+$locale['ME_553'] = 'suspendu';
+$locale['ME_554'] = 'bannissement de sécurité';
+$locale['ME_555'] = 'annulé';
+$locale['ME_556'] = 'anonymisé';
+$locale['ME_557'] = 'supprimé définitivement';
 
-$locale['ME_560'] = "Display Results";
-$locale['ME_561'] = "Display User With Status";
-$locale['ME_562'] = "New Unactivated User";
+$locale['ME_560'] = "Afficher les résultats";
+$locale['ME_561'] = "Afficher l'utilisateur avec le statut";
+$locale['ME_562'] = "Nouvel utilisateur non activé";
