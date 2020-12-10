@@ -1,16 +1,16 @@
 <?php
 $locale['setlocale'] = "lt_LT"; // https://www.php.net/manual/en/function.setlocale.php
-$locale['charset'] = "UTF-8"; // ISO 639-1 - http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['region'] = "LT"; // ISO-3166 (2 Alpha numeric) - https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "lt";
-$locale['short_lang_name'] = "lt";
+$locale['charset'] = "UTF-8"; // https://www.iana.org/assignments/character-sets/character-sets.xhtml
+$locale['region'] = "LT"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
+$locale['xml_lang'] = "lt"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['short_lang_name'] = "lt"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['tinymce'] = "lt"; // refer to path includes/jscripts/tinymce/langs/{value}.js
 $locale['select2'] = "lt"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
 $locale['phpmailer'] = "lt"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "lt"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "lt"; // // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "YYYY-M-DD H:mm:ss";
-$locale['datepicker_php'] = "Y-m-d H:i:s";
+$locale['datepicker'] = "lt"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['datepicker_js'] = "YYYY-M-DD H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
+$locale['datepicker_php'] = "Y-m-d H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "lt"; // refer to path includes/dynamics/assets/password/lang/{value}.js
 $locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
