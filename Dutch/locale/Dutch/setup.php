@@ -37,7 +37,7 @@ $locale['setup_0115a'] = "Niet Ingeschakeld";
 $locale['setup_0116'] = "PHP OPCache caching kan de prestaties van uw site aanzienlijk verbeteren. Het is <strong>zeer aanbevolen</strong> om <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPCache</a> te hebben geïnstalleerd op uw server.";
 $locale['setup_0118'] = "Uw webserver lijkt PDO (PHP Data Objects) niet te ondersteunen. Vraag uw hostingprovider of zij de native PDO extensie ondersteunen.";
 $locale['setup_0119a'] = "Overweeg om uw PHP geheugenlimiet te verhogen tot %memory_minimum_limit om fouten in het installatieproces te voorkomen.";
-$locale['setup_0119b'] = "Verhoog de geheugenlimiet door de memory_limit parameter in het bestand te bewerken [CFG_FILE_PATH] - en herstart uw webserver (of neem contact op met uw systeembeheerder of hostingprovider voor hulp).";
+$locale['setup_0119b'] = "Verhoog de geheugenlimiet door de memory_limit parameter in het [CFG_FILE_PATH] - bestand te bewerken en herstart uw webserver (of neem contact op met uw systeembeheerder of hostingprovider voor hulp).";
 $locale['setup_0119c'] = "Neem contact op met uw systeembeheerder of hostingprovider voor hulp met het verhogen van uw PHP geheugenlimiet.";
 // Buttons
 $locale['setup_0120'] = "Configuratie afronden";
