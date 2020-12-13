@@ -18,4 +18,4 @@ Locales for v7: https://github.com/php-fusion/locales/tree/version-7
 ## How to install another language
 It's easy, move all folders from the language pack to website root. After moving files go to Admin Dashboard and open Language Settings then enable your language.
 
-![Screenshot](screenshot.png)
+![How to install another language](how_to_install_language.png)
