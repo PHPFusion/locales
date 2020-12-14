@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion Kurulumu";
 $locale['setup_0002'] = "PHP-Fusion Kurulumuna Hoşgeldiniz";
-$locale['setup_0003'] = "Yükleyici kılavuzu, sunucunuza PHP-Fusion CMS yüklemek için gereken adımlar konusunda size rehberlik edecektir. Daha fazla yardıma ihtiyacınız olursa, lütfen <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Çevrimiçi Kurulum Belgeleri</a> kontrol ediniz.";
-$locale['setup_0005'] = " PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Şartlarını ve Kullanım Koşullarını</a> Okudum Ve Kabul Ediyorum";
-$locale['setup_0006'] = "PHP-Fusion 9, en az PHP 5.6.39 gerektirir. Daha fazla bilgi için <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'> sistem gereksinimleri</a> sayfasına bakın.";
+$locale['setup_0003'] = "Yükleyici kılavuzu, sunucunuza PHP-Fusion CMS yüklemek için gereken adımlar konusunda size rehberlik edecektir. Daha fazla yardıma ihtiyacınız olursa, lütfen <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>Çevrimiçi Kurulum Belgeleri</a> kontrol ediniz.";
+$locale['setup_0005'] = " PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Şartlarını ve Kullanım Koşullarını</a> Okudum Ve Kabul Ediyorum";
+$locale['setup_0006'] = "PHP-Fusion 9, en az PHP 7.0 gerektirir. Daha fazla bilgi için <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page=215'> sistem gereksinimleri</a> sayfasına bakın.";
 $locale['setup_0007'] = "OPCache kurulu olan sistemlerde <a href=\"http://php.net/manual/tr/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> etkin olmalıdır.";
 $locale['setup_5000'] = "PHP-Fusion'u kullanmak için PHP-Fusion'ın koşullarını kontrol etmeniz ve kabul etmeniz gerekir.";
 $locale['setup_0010'] = "Mevcut Yapı Sürümü - ";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Belirtilen tablo öneki zaten kullanılıyor ve çalı�
 $locale['setup_0144'] = "Veritabanı Teşhisi Tamamlandı";
 // Step 1
 $locale['setup_1000'] = "Lütfen dilinizi seçiniz";
-$locale['setup_1001'] = "<a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>PHP-Fusion Resmi Destek Sitesinden</strong></a> daha fazla dil dosyaları indirebilirsiniz.";
+$locale['setup_1001'] = "<a href='https://www.phpfusion.com/php_fusion_9_downloads.php' target='_blank'><strong>PHP-Fusion Resmi Destek Sitesinden</strong></a> daha fazla dil dosyaları indirebilirsiniz.";
 $locale['setup_1002'] = "PHP-Fusion 9 Kurtarma Moduna hoş geldiniz.";
 $locale['setup_1003'] = "Yüklü mevcut bir sistem olduğunu tespit ettik. Devam etmek için lütfen aşağıdakilerden birini seçin.";
 $locale['setup_1004'] = "Temiz Kurulum";

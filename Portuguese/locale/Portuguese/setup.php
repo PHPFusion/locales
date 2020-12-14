@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "Instalação do PHP-Fusion";
 $locale['setup_0002'] = "Bemvindo à Instalação do PHP-Fusion";
-$locale['setup_0003'] = "O guia de instalação irá guiá-lo pelos passos necessários para instalar o PHP-Fusion CMS no seu servidor. Caso precise de mais ajuda, por favor, verifique a nossa <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Documentação de Instalação Online</a>.";
-$locale['setup_0005'] = " Eu li e aceito os <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Termos e Condições de Uso</a> do PHP-Fusion";
-$locale['setup_0006'] = "PHP-Fusion 9 requer pelo menos PHP 5.6.39. Veja os <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>requesitos de sistema</a> para mais informações.";
+$locale['setup_0003'] = "O guia de instalação irá guiá-lo pelos passos necessários para instalar o PHP-Fusion CMS no seu servidor. Caso precise de mais ajuda, por favor, verifique a nossa <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>Documentação de Instalação Online</a>.";
+$locale['setup_0005'] = " Eu li e aceito os <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Termos e Condições de Uso</a> do PHP-Fusion";
+$locale['setup_0006'] = "PHP-Fusion 9 requer pelo menos PHP 7.0. Veja os <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page=215'>requesitos de sistema</a> para mais informações.";
 $locale['setup_0007'] = "Sistemas com OPCache instalado devem ter <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> activados.";
 $locale['setup_5000'] = "Para utilizar o PHP-Fusion é necessário verificar e concordar com os termos do PHP-Fusion.";
 $locale['setup_0010'] = "Versão actual da compilação - ";
@@ -30,7 +30,7 @@ $locale['setup_0107'] = "Configurações Finais";
 $locale['setup_0109'] = "A versão mínima do Apache necessária para executar o PHP-Fusion sem mod_rewrite activado é 2.2.16.";
 $locale['setup_0110'] = "Devido às configurações de tokens de servidor no httpd.confg, é impossível determinar a versão do Apache sem mod_rewrite, uma versão mínima de 2.2.16 é necessária.";
 $locale['setup_0112'] = "A função phpinfo() foi desactivada por razões de segurança. Para ver as informações do seu servidor phpinfo(), altere suas configurações de PHP ou entre em contacto com o administrador do servidor.";
-$locale['setup_0113'] = "A sua instalação do PHP é muito antiga. O PHP-Fusion requer pelo menos no mínimo o PHP 5.6.39. Versões do PHP maiores que 5.6.39 fornecem proteção de injeção SQL embutida para bases de dados mysql. Recomenda-se actualizar.";
+$locale['setup_0113'] = "A sua instalação do PHP é muito antiga. O PHP-Fusion requer pelo menos no mínimo o PHP 7.0. Versões do PHP maiores que 5.6.39 fornecem proteção de injeção SQL embutida para bases de dados mysql. Recomenda-se actualizar.";
 $locale['setup_0114'] = "PHP-Fusion requer que você active as extensões PHP da seguinte lista";
 $locale['setup_0115'] = "Activado";
 $locale['setup_0115a'] = "Desactivado";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "O Prefixo de tabela especificado já está a ser usado.
 $locale['setup_0144'] = "Diagnósticos da Base de Dados Terminados";
 // Step 1
 $locale['setup_1000'] = "Por favor escolha o seu Idioma";
-$locale['setup_1001'] = "Descarregue mais idiomas no <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>Site de Suporte Oficial do PHP-Fusion</strong></a>";
+$locale['setup_1001'] = "Descarregue mais idiomas no <a href='https://www.phpfusion.com/php_fusion_9_downloads.php' target='_blank'><strong>Site de Suporte Oficial do PHP-Fusion</strong></a>";
 $locale['setup_1002'] = "Bemvindo ao Modo de Recuperação do PHP-Fusion 9.";
 $locale['setup_1003'] = "Nós detectamos que existe uma versão já instalada. Por favor escolha uma das seguintes opções para continuar.";
 $locale['setup_1004'] = "Instalação Limpa";

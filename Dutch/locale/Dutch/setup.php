@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion installeren";
 $locale['setup_0002'] = "Welkom bij PHP-Fusion installatie";
-$locale['setup_0003'] = "Het installatieprogramma zal u begeleiden door de stappen die nodig zijn om PHP-Fusion CMS te installeren op uw server. Mocht u verdere hulp nodig hebben, kijk dan op onze <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Online Installation Documentatio</a>.";
-$locale['setup_0005'] = " Ik heb de PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a> gelezen en ga hiermee akkoord";
-$locale['setup_0006'] = "PHP-Fusion 9 vereist minstens PHP 5.6.39. Zie de <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>system requirements</a> pagina voor meer informatie.";
+$locale['setup_0003'] = "Het installatieprogramma zal u begeleiden door de stappen die nodig zijn om PHP-Fusion CMS te installeren op uw server. Mocht u verdere hulp nodig hebben, kijk dan op onze <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>Online Installation Documentatio</a>.";
+$locale['setup_0005'] = " Ik heb de PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a> gelezen en ga hiermee akkoord";
+$locale['setup_0006'] = "PHP-Fusion 9 vereist minstens PHP 7.0. Zie de <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page=215'>system requirements</a> pagina voor meer informatie.";
 $locale['setup_0007'] = "Systemen met OPCache geïnstalleerd moeten <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> ingeschakeld hebben.";
 $locale['setup_5000'] = "Om PHP-Fusion te kunnen gebruiken, dient u akkoord gaan met de voorwaarden van PHP-Fusion.";
 $locale['setup_0010'] = "Huidige Build versie - ";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Het opgegeven tabelvoorvoegsel is al in gebruik en word
 $locale['setup_0144'] = "Database diagnose voltooid";
 // Step 1
 $locale['setup_1000'] = "Kies aub een Taal";
-$locale['setup_1001'] = "U kunt meer talen downloaden van de <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a> website";
+$locale['setup_1001'] = "U kunt meer talen downloaden van de <a href='https://www.phpfusion.com/php_fusion_9_downloads.php' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a> website";
 $locale['setup_1002'] = "Welkom bij PHP-Fusion 9 Herstel Modus.";
 $locale['setup_1003'] = "We hebben gedetecteerd dat er een bestaand systeem geïnstalleerd is. Kies een van de volgende opties om verder te gaan.";
 $locale['setup_1004'] = "Nieuwe installatie";

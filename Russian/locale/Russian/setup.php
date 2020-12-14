@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "Установка PHP-Fusion Core 9 Edition";
 $locale['setup_0002'] = "Добро пожаловать в установку PHP-Fusion";
-$locale['setup_0003'] = "Установщик проведёт Вас через все шаги, необходимые для установки PHP-Fusion на Ваш сервер. Если Вам нужна дополнительная помощь, пожалуйста, проверьте нашу <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page_id=216'>онлайн-документацию по установке</a>.";
-$locale['setup_0005'] = " Я прочитал и соглашаюсь с <a href='https://www.php-fusion.co.uk/license/?agpl' target='_blank'>Правилами и условиями использования</a> PHP-Fusion.";
-$locale['setup_0006'] = "PHP-Fusion 9 требует как минимум PHP 7.0. Посмотрите <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page_id=215'>системные требования</a> для подробной информации.";
+$locale['setup_0003'] = "Установщик проведёт Вас через все шаги, необходимые для установки PHP-Fusion на Ваш сервер. Если Вам нужна дополнительная помощь, пожалуйста, проверьте нашу <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page_id=216'>онлайн-документацию по установке</a>.";
+$locale['setup_0005'] = " Я прочитал и соглашаюсь с <a href='https://www.phpfusion.com/license/?agpl' target='_blank'>Правилами и условиями использования</a> PHP-Fusion.";
+$locale['setup_0006'] = "PHP-Fusion 9 требует как минимум PHP 7.0. Посмотрите <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page_id=215'>системные требования</a> для подробной информации.";
 $locale['setup_0007'] = "Системы с установленным OPcache должны иметь включенный модуль <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a>.";
 $locale['setup_5000'] = "Для установки и использования PHP-Fusion Вы дожлжны ознакомиться с правилами и принять их.";
 $locale['setup_0010'] = "Текущая версия сборки - ";

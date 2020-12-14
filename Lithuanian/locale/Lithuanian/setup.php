@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion įdiegimas";
 $locale['setup_0002'] = "Sveiki atvykę į PHP-Fusion įdiegimą";
-$locale['setup_0003'] = "Įdiegimo gidas Jums viską paaiškins ir parodys kiekvieną žingsnį, kurio reikės sėkmingam PHP-Fusion TVS įdiegimui į serverį. Jeigu reikės didesnės pagalbos, visada galite paskaityti <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>Sistemos įdiegimo dokumentaciją</a> arba kreiptis į vietinę PHP-Fusion bendruomenę <a class='strong' href='http://www.phpfusion-lt.com/' target='_blank'>PHP-Fusion Lietuva</a>.";
-$locale['setup_0005'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 veikimui būtina bent PHP versija 5.5.9. Paskaitykite <a href=\"https://www.php-fusion.co.uk/requirements\">sistemos reikalavimus (anglų k.)</a> norėdami gauti daugiau informacijos.";
+$locale['setup_0003'] = "Įdiegimo gidas Jums viską paaiškins ir parodys kiekvieną žingsnį, kurio reikės sėkmingam PHP-Fusion TVS įdiegimui į serverį. Jeigu reikės didesnės pagalbos, visada galite paskaityti <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>Sistemos įdiegimo dokumentaciją</a> arba kreiptis į vietinę PHP-Fusion bendruomenę <a class='strong' href='http://www.phpfusion-lt.com/' target='_blank'>PHP-Fusion Lietuva</a>.";
+$locale['setup_0005'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 veikimui būtina bent PHP versija 7.0. Paskaitykite <a href=\"https://www.phpfusion.com/infusions/wiki/documentation.php?page=215\">sistemos reikalavimus (anglų k.)</a> norėdami gauti daugiau informacijos.";
 $locale['setup_0007'] = "Sistemos su instaliuota OPcache privalo turėti <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> įjungtą.";
 $locale['setup_5000'] = "Norėdami naudotis PHP-Fusion, turite perskaityti ir sutikti su sąlygomis</a>.";
 $locale['setup_0010'] = "Dabartinė versija - ";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "The specified table prefix is already in use and is run
 $locale['setup_0144'] = "Duomenų bazės diagnostika baigta";
 // Step 1
 $locale['setup_1000'] = "Prašome pasirinkti reikiamą kalbą:";
-$locale['setup_1001'] = "Parsisiųskite daugiau kalbų iš <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
+$locale['setup_1001'] = "Parsisiųskite daugiau kalbų iš <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
 $locale['setup_1002'] = "Sveiki atvykę į PHP-Fusion 9.0 Atstatymo režimą.";
 $locale['setup_1003'] = "Nustatėme, kad jau yra įdiegta sistema.<br /><br />Prašome pasirinkti vieną iš žemiau esančių punktų.";
 $locale['setup_1004'] = "Švarus įdiegimas";

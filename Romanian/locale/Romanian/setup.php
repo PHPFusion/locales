@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "Instalarea versiunii 9.0 a nucleului PHP-Fusion";
 $locale['setup_0002'] = "Bine ai venit la instalarea v9.0 a PHP-Fusion";
-$locale['setup_0003'] = "Ghidul de instalare te va ghida prin pa&#351;i necesari inst&#259;ri versiunii 9.0 a CMS-ului PHP-Fusion pe serverul t&#259;u.<br /> Dac&#259; ai nevoie de ajutor, te rug&#259;m verific&#259; <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208' target='_blank'>procesul de instalare</a>.";
-$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>>Php-Fusion</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 necesit&#259; cel pu&#355;in PHP 5.5.9. Vezi pagina <a href=\"https://www.php-fusion.co.uk/requirements\">cerin&#355;e sistem</a> pentru mai multe informa&#355;i.";
+$locale['setup_0003'] = "Ghidul de instalare te va ghida prin pa&#351;i necesari inst&#259;ri versiunii 9.0 a CMS-ului PHP-Fusion pe serverul t&#259;u.<br /> Dac&#259; ai nevoie de ajutor, te rug&#259;m verific&#259; <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=208' target='_blank'>procesul de instalare</a>.";
+$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>>Php-Fusion</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 necesit&#259; cel pu&#355;in PHP 7.0. Vezi pagina <a href=\"https://www.phpfusion.com/infusions/wiki/documentation.php?page=215\">cerin&#355;e sistem</a> pentru mai multe informa&#355;i.";
 $locale['setup_0007'] = "Sistemele cu OPcache instalat trebuie s&#259; aibe <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> activat.";
 $locale['setup_5000'] = "Pentru a putea folosi PHP-Fusion, trebuie s&#259; bifezi &#351;i s&#259; fii de acord cu termenii &#351;i condi&#355;iile PHP-Fusion</a>.";
 $locale['setup_0010'] = "Versiunea curent&#259; - ";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Prefixul de tabel specificat este deja folosit &#351;i 
 $locale['setup_0144'] = "Diagnostic baza de date complet";
 // Step 1
 $locale['setup_1000'] = "Alege o localizare (limb&#259;):";
-$locale['setup_1001'] = "Descarc&#259; mai multe limbi de la <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion </strong></a>";
+$locale['setup_1001'] = "Descarc&#259; mai multe limbi de la <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion </strong></a>";
 $locale['setup_1002'] = "Bine ai venit la PHP-Fusion 9.0 modul recuperare.";
 $locale['setup_1003'] = "Am detectat c&#259; exist&#259; deja o versiune instalat&#259;.<br/><br/>Te rog selecteaz&#259; una din variante pentru a continua.";
 $locale['setup_1004'] = "Instalare nou&#259;";

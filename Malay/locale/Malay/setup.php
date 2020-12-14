@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "Pemasangan PHP-Fusion Teras 9.00";
 $locale['setup_0002'] = "Selamat Datang ke Sistem Pemasangan Versi Teras 9.00 PHP-Fusion";
-$locale['setup_0003'] = "Program pemasangan ini akan membantu anda untuk pemasangan PHP-Fusion CMS di server anda. Jikalau ada apa-apa yang pembantuan diperlukan, sila layani ke <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=208'>Dokumen Pembantuan Pemasangan Online</a> kami.";
-$locale['setup_0005'] = " Saya telah membaca dan bersetuju dengan <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>syarat-syarat pengunaan</a> PHP-Fusion";
-$locale['setup_0006'] = "PHP-Fusion 9 requires at least PHP 7.0. See the <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page_id=215'>system requirements</a> page for more information.";
+$locale['setup_0003'] = "Program pemasangan ini akan membantu anda untuk pemasangan PHP-Fusion CMS di server anda. Jikalau ada apa-apa yang pembantuan diperlukan, sila layani ke <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=208'>Dokumen Pembantuan Pemasangan Online</a> kami.";
+$locale['setup_0005'] = " Saya telah membaca dan bersetuju dengan <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>syarat-syarat pengunaan</a> PHP-Fusion";
+$locale['setup_0006'] = "PHP-Fusion 9 requires at least PHP 7.0. See the <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page_id=215'>system requirements</a> page for more information.";
 $locale['setup_0007'] = "Systems with OPCache installed must have <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> enabled.";
 $locale['setup_5000'] = "Anda perlu bersetuju dengan syarat pengunaan PHP-Fusion sebelum boleh mengguna PHP-Fusion.</a>.";
 $locale['setup_0010'] = "9.0";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "The specified table prefix is already in use and is run
 $locale['setup_0144'] = "Database Diagnostics Completed";
 // Step 1
 $locale['setup_1000'] = "Sila pilih locale yang diperlukan (Edisi Bahasa):";
-$locale['setup_1001'] = "Muat turn lebih edisi bahasa di <a href='https://www.php-fusion.co.uk/downloads.php#langpacks'><strong>Halaman Utama PHP-Fusion</strong></a>";
+$locale['setup_1001'] = "Muat turn lebih edisi bahasa di <a href='https://www.phpfusion.com/downloads.php#langpacks'><strong>Halaman Utama PHP-Fusion</strong></a>";
 $locale['setup_1002'] = "Selamat Datang ke Mod Pemulihan PHP-Fusion 9.00.";
 $locale['setup_1003'] = "Kami telah mengesan bahawa terdapat sistem yang sedia ada telah dipasang<br/><br/>Sila pilih di antara satu untuk melanjut seterusnya.";
 $locale['setup_1004'] = "Pemasangan Baru";

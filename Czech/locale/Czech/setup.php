@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion Instalace";
 $locale['setup_0002'] = "Vítej v PHP-Fusion instalaci";
-$locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page_id=216' target='_blank'>online dokumentaci instalace</a>.";
-$locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>podmínkami používání</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 7.0. další informace naleznete na stránce <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page_id=215'>systémových požadavků</a>.";
+$locale['setup_0003'] = "Průvodce instalací vás provede kroky potřebnými k instalaci PHP-Fusion CMS na váš server. Pokud potřebujete další pomoc, přečtěte si naši <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page_id=216' target='_blank'>online dokumentaci instalace</a>.";
+$locale['setup_0005'] = " Četl jsem a souhlasim s PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>podmínkami používání</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 vyžaduje nejméně PHP 7.0. další informace naleznete na stránce <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page_id=215'>systémových požadavků</a>.";
 $locale['setup_0007'] = "Systémy s nainstalovanou OPCache musí mít <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> povoleno!";
 $locale['setup_5000'] = "Abyste mohli používat PHP-Fusion, musíte zkontrolovat a souhlasit s podmínkami PHP-Fusion.";
 $locale['setup_0010'] = "Aktuální verze sestavy: ";

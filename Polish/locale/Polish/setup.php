@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "Instalacja PHP-Fusion";
 $locale['setup_0002'] = "Witamy w instalatorze PHP-Fusion";
-$locale['setup_0003'] = "Podręcznik instalatora poprowadzi Cię przez kroki wymagane do zainstalowania PHP-Fusion CMS na Twoim serwerze. Jeśli potrzebujesz dodatkowej pomocy, sprawdź naszą <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>dokumentację instalacji online</a>.";
-$locale['setup_0005'] = " Przeczytałem i akceptuję <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
-$locale['setup_0006'] = "PHP-Fusion 9 wymaga co najmniej PHP w wersji 5.5.9. Więcej informacji można znaleźć w sekcji <a href=\"https://www.php-fusion.co.uk/requirements\">wymagania systemowe</a>.";
+$locale['setup_0003'] = "Podręcznik instalatora poprowadzi Cię przez kroki wymagane do zainstalowania PHP-Fusion CMS na Twoim serwerze. Jeśli potrzebujesz dodatkowej pomocy, sprawdź naszą <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>dokumentację instalacji online</a>.";
+$locale['setup_0005'] = " Przeczytałem i akceptuję <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>regulamin użytkowania</a> PHP-Fusion";
+$locale['setup_0006'] = "PHP-Fusion 9 wymaga co najmniej PHP w wersji 7.0. Więcej informacji można znaleźć w sekcji <a href=\"https://www.phpfusion.com/infusions/wiki/documentation.php?page=215\">wymagania systemowe</a>.";
 $locale['setup_0007'] = "Systemy z zainstalowanym OPcache muszą mieć włączone <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a>.";
 $locale['setup_5000'] = "Aby korzystać z PHP-Fusion, musisz sprawdzić i zaakceptować warunki PHP-Fusion</a>.";
 $locale['setup_0010'] = "Aktualna wersja wydania - ";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Podany przedrostek tabeli jest już w użyciu i jest ur
 $locale['setup_0144'] = "Diagnostyka bazy danych została zakończona";
 // Step 1
 $locale['setup_1000'] = "Proszę wybrać język";
-$locale['setup_1001'] = "Pobierz więcej pakietów regionalnych z <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank'><strong>oficjalnej strony wsparcia PHP-Fusion</strong></a>";
+$locale['setup_1001'] = "Pobierz więcej pakietów regionalnych z <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank'><strong>oficjalnej strony wsparcia PHP-Fusion</strong></a>";
 $locale['setup_1002'] = "Witamy w tryb odzyskiwania PHP-Fusion 9.0.";
 $locale['setup_1003'] = "Wykryliśmy, że zainstalowany jest istniejący system. Wybierz jedną z poniższych czynności, aby kontynuować.";
 $locale['setup_1004'] = "Czysta instalacja";

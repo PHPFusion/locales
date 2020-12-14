@@ -1,9 +1,9 @@
 <?php
 $locale['setup_0000'] = "PHP-Fusion installation";
 $locale['setup_0002'] = "Velkommen til installationsprogrammet for PHP-Fusion";
-$locale['setup_0003'] = "Guiden her vil føre dig gennem de nødvendige trin til installationen af CMS-løsningen PHP-Fusion på din server. Har du brug for yderligere hjælp, så kig i vores online <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page=216' target='_blank'>installationshjælp</a>.";
-$locale['setup_0005'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>betingelser</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 skal bruge PHP i mindst version 5.6.39. Se <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>systemkravene</a> for at få mere information.";
+$locale['setup_0003'] = "Guiden her vil føre dig gennem de nødvendige trin til installationen af CMS-løsningen PHP-Fusion på din server. Har du brug for yderligere hjælp, så kig i vores online <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>installationshjælp</a>.";
+$locale['setup_0005'] = " Jeg har læst og accepteret de relevante PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>betingelser</a>";
+$locale['setup_0006'] = "PHP-Fusion 9 skal bruge PHP i mindst version 5.6.39. Se <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page=215'>systemkravene</a> for at få mere information.";
 $locale['setup_0007'] = "Systemer hvor OPcache er installeret skal have <a target='_blank' href='http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments'>opcache.save_comments</a> slået til.";
 $locale['setup_5000'] = "For at kunne bruge PHP-Fusion, skal du acceptere betingelserne.";
 $locale['setup_0010'] = "Nuværende Build Version - ";
@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Det angivne tabel-fornavn er allerede i brug og åbent.
 $locale['setup_0144'] = "Diagnosen af databasen er gennemført";
 // Step 1
 $locale['setup_1000'] = "Du skal vælge sprog";
-$locale['setup_1001'] = "Hent flere lokale sprogversioner fra <a href='https://www.php-fusion.co.uk/php_fusion_9_downloads.php' target='_blank'><strong>PHP-Fusions officielle støtteside</strong></a>";
+$locale['setup_1001'] = "Hent flere lokale sprogversioner fra <a href='https://www.phpfusion.com/php_fusion_9_downloads.php' target='_blank'><strong>PHP-Fusions officielle støtteside</strong></a>";
 $locale['setup_1002'] = "Velkommen til PHP-Fusion 9 Genskabelse.";
 $locale['setup_1003'] = "Vi kan se, at der allerede er en version af systemet installeret. Vælg en blandt nedenstående alternativer for at fortsætte.";
 $locale['setup_1004'] = "Geninstaller";

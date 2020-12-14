@@ -3,8 +3,8 @@ $locale['setup_0000'] = "PHP-Fusion 9.0 Edition Installation";
 $locale['setup_0002'] = "Herzlich Willkommen zur PHP-Fusion 9.0 Installation";
 $locale['setup_0003'] = "Der Installer f&uuml;hrt dich durch die notwendigen Schritte, um das Content Management System PHP-Fusion auf deinen Server zu installieren.<br /><br />
 ";
-$locale['setup_0005'] = " Ich habe die aktuellen <a href='https://www.php-fusion.co.uk/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
-$locale['setup_0006'] = "PHP-Fusion 9 braucht mindestens PHP 5.5.9. Siehe unter <a href='https://www.php-fusion.co.uk/infusions/wiki/documentation.php?page=215'>System vorraussetzung</a> f&uuml;r mehr information.";
+$locale['setup_0005'] = " Ich habe die aktuellen <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
+$locale['setup_0006'] = "PHP-Fusion 9 braucht mindestens PHP 7.0. Siehe unter <a href='https://www.phpfusion.com/infusions/wiki/documentation.php?page=215'>System vorraussetzung</a> f&uuml;r mehr information.";
 $locale['setup_0007'] = "Systems with OPCache installed must have <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> enabled.";
 $locale['setup_5000'] = "Wenn du PHP-Fusion nutzten m&ouml;chtest, musst du die aktuellen Lizenzbedinungen akzeptieren.";
 $locale['setup_0010'] = "9.0";
@@ -62,7 +62,7 @@ $locale['setup_0143'] = "The specified table prefix is already in use and is run
 $locale['setup_0144'] = "Database Diagnostics Completed";
 // Step 1
 $locale['setup_1000'] = "Bitte w&auml;hle deine Sprache";
-$locale['setup_1001'] = "Du kannst weitere Sprachpakete auf der <a href='https://www.php-fusion.co.uk/downloads.php#langpacks' target='_blank' title='Offizielle PHP-Fusion Support Seite (Englisch)'><strong>offiziellen PHP-Fusion Supportseite (Englisch)</strong></a> herunterladen.";
+$locale['setup_1001'] = "Du kannst weitere Sprachpakete auf der <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank' title='Offizielle PHP-Fusion Support Seite (Englisch)'><strong>offiziellen PHP-Fusion Supportseite (Englisch)</strong></a> herunterladen.";
 $locale['setup_1002'] = "Willkommen zum PHP-Fusion 9.0 Wiederherstellungsprogramm";
 $locale['setup_1003'] = "Wir haben festgestellt, dass bereits eine PHP-Fusion Installation installiert ist. Bitte w&auml;hle einen der nachfolgenden Schritte.";
 $locale['setup_1004'] = "Installation erneuern";
