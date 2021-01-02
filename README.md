@@ -1,4 +1,4 @@
-#PHPFusion Locales
+# PHPFusion Locales
 You do not need to download the entire repository, you can download one language pack at this [link](https://www.php-fusion.co.uk/translations/).
 
 Crowdin [invitation link](https://translate.php-fusion.co.uk/project/php-fusion-locales/invite). Members with no contributions will be removed.
