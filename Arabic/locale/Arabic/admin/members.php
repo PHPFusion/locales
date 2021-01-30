@@ -69,6 +69,7 @@ $locale['ME_504'] = 'محظور أمنياً';
 $locale['ME_505'] = 'إلغاء';
 $locale['ME_506'] = 'مجهولة المصدر';
 $locale['ME_507'] = 'تفعيل';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'محظور';

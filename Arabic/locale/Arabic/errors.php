@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "ملاحظة تم إنشاؤه بواسطة المس
 $locale['E_ALL'] = "يعرف جميع الرسائل باستثناء E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "لا شيء";
-$locale['err_101'] = "تحذيــر : حدث خطأ أثناء تحليل الصفحة . يرجى الاطلاع على [ERROR_LOG_URL]سجل خطأ [/ERROR_LOG_URL] PHP-Fusion ،  لمزيد من التفاصيل .";
+$locale['err_101'] = "تحذيــر : حدث خطأ أثناء تحليل الصفحة . يرجى الاطلاع على [ERROR_LOG_URL]سجل خطأ [/ERROR_LOG_URL] PHPFusion ،  لمزيد من التفاصيل .";
 $locale['err_102'] = "أظهر لي الخلل !";
 $locale['err_103'] = "{%function%} {%folder%} غير موجود .";

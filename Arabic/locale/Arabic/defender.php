@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "من فضلك حدد ثيم صحيح";
 $locale['error_input_checkbox'] = "يرجى وضع علامة على صندوق تحديد الإختيار هذا";
 $locale['error_input_file'] = "من فضلك حدد ملفاً صحيحاً";
 $locale['error_secure_file'] = "تم رفض الملف الذي تم تحميله بسبب احتمال حدوث حمولة ضارة.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "انتهت الجلسة";
 $locale['cookie_description'] = "لا توجد مصادقة صالحة / أو جلسة العمل الخاصة بك ربما قد انتهت المهلة المحددة لها . يرجى تسجيل الدخول مرة أخرى.";
 $locale['cookie_expired'] = "انتهت صلاحية ملف تعريف الارتباط لمدير الموقع. يرجى تسجيل الدخول مرة أخرى.";
 $locale['password_invalid'] = "كلمة المرور خاطئة أو غير صالحة";
 $locale['password_invalid_description'] = "إدخال كلمة المرور كان  غير صحيح. يرجى المحاولة مرة أخرى.";
+$locale['prefix_error'] = "بادئة الاتصال تتطلب الاهتمام.";
+$locale['contact_error'] = "رقم الاتصال يتطلب الاهتمام.";
 $locale['cookie_error'] = "خطأ كوكي";
 $locale['cookie_error_description'] = "أنت بحاجة إلى تفعيل كوكي المتصفح للدخول إلى الإدارة.";
 $locale['validate_title'] = "هل يمكن أن تتحقق من شيء ما!";

@@ -172,5 +172,3 @@ $locale['u203'] = "مرحبا [USER_NAME],<br/>
 [SITEUSERNAME]<br/>
 
 [SITENAME]";
-
-$locale['u210'] = "سمعة العضو";

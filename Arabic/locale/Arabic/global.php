@@ -9,10 +9,7 @@ $locale['select2'] = "ar"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "ar"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "ar"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "ar"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "d-m-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "ar"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d%b";
 $locale['text-direction'] = "rtl";
 // Full & Short Months
 $locale['months'] = "&nbsp;|كانون2|شباط|آذار|نيسان|أيار|حزيران|تموز|آب|أيلول|تشرين1|تشرين2|كانون1";
@@ -195,6 +192,7 @@ $locale['global_126'] = "رسالة";
 $locale['global_127'] = "رسائل";
 $locale['global_128'] = "مشاركة";
 $locale['global_129'] = "مشاركات";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "تسجيل الدخول";
 $locale['UM061'] = "إسم المستخدم";
@@ -228,10 +226,12 @@ $locale['UM102'] = "إرسال أسئلة مكررة";
 $locale['UM096'] = "مرحباً: ";
 $locale['UM097'] = "القائمة الشخصية";
 $locale['UM101'] = "تغيير اللغة";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "صندوق الوارد :";
 $locale['UM099'] = "صندوق الصادر :";
 $locale['UM100'] = "أرشيف الرسائل :";
+
 // Keywords and Meta
 $locale['tags'] = "وسوم";
 // Captcha
@@ -250,6 +250,9 @@ $locale['global_180'] = "الإدارة الرئيسية";
 $locale['global_181'] = "العودة";
 $locale['global_182'] = "لم يتم إدخال كلمة المرور أو إنها غير صحيحة.";
 $locale['global_183'] = "انتهت صلاحية جلسة تسجيل الدخول الخاصة بك. يرجى تسجيل الدخول مرة أخرى.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -273,7 +276,7 @@ $locale['global_204'] = "المنتدى";
 $locale['global_210'] = "الانتقال إلى المحتوى";
 $locale['global_300'] = "لا يوجد قالب";
 $locale['global_301'] = "نأسف حقًا ولكن لا يمكن عرض هذه الصفحة. نظرًا لبعض الظروف ، لا يمكن العثور على سمة الموقع.
- إذا كنت مسؤول موقع ، فيرجى استخدام عميل FTP الخاص بك لتحميل أي سمة مصممة من أجل PHP-Fusion 9 إلى مجلد القوالبthemes.
+ إذا كنت مسؤول موقع ، فيرجى استخدام عميل FTP الخاص بك لتحميل أي سمة مصممة من أجل PHPFusion 9 إلى مجلد القوالبthemes.
 بعد التحميل ، تحقق من إعدادات الستايل لمعرفة ما إذا كان السمة المحددة قد تم تحميلها بشكل صحيح في دليل السمات الخاص بك.
  يرجى ملاحظة أن مجلد السمة التي تم تحميلها يجب أن يكون له نفس الاسم بالضبط (بما في ذلك حالة الأحرف ، وهو أمر مهم على الخوادم القائمة على نظام يونكس)
  كما تم اختياره في صفحة إعدادات السمة.<br/>إذا كنت عضوًا عاديًا في هذا الموقع ، فيرجى الاتصال بمسؤول الموقع عبر [SITE_EMAIL]البريد الإلكتروني والإبلاغ عن هذه المشكلة.";
@@ -295,6 +298,8 @@ $locale['global_409'] = "تم حظر هذا الحساب لأسباب أمنية
 $locale['global_410'] = "السبب لهذا هو: ";
 $locale['global_411'] = "تم إلغاء هذا الحساب.";
 $locale['global_412'] = "تم وضع هذا الحساب بهيئة مخفية ربما لعدم وجود نشاط.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "حظر ذاتي بسبب نظام مكافحة الإغراق";
 $locale['global_441'] = "تم حظر حسابك في [SITENAME] ";
