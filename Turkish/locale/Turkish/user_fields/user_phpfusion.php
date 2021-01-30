@@ -1,5 +1,5 @@
 <?php
-$locale['uf_phpfusion'] = "PHP-Fusion";
-$locale['uf_phpfusion_id'] = "PHP-Fusion Kullanıcı Adı";
-$locale['uf_phpfusion_desc'] = "PHP-Fusion Destek Sitesi Hesabı";
-$locale['uf_phpfusion_error'] = "PHP-Fusion Kullanıcı Adı boş bırakılamaz.";
+$locale['uf_phpfusion'] = "PHPFusion";
+$locale['uf_phpfusion_id'] = "PHPFusion Kullanıcı Adı";
+$locale['uf_phpfusion_desc'] = "PHPFusion Destek Sitesi Hesabı";
+$locale['uf_phpfusion_error'] = "PHPFusion Kullanıcı Adı boş bırakılamaz.";

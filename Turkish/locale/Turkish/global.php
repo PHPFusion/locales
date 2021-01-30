@@ -9,10 +9,7 @@ $locale['select2'] = "tr"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "tr"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "tr"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "tr"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "A-GG-YYYY S:dd:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "a-g-Y S:d:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "tr"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Ocak|Şubat|Mart|Nisan|Mayıs|Haziran|Temmuz|Ağustos|Eylül|Ekim|Kasım|Aralık";
@@ -195,6 +192,7 @@ $locale['global_126'] = "mesaj var";
 $locale['global_127'] = "mesajlar var";
 $locale['global_128'] = "gönderi var";
 $locale['global_129'] = "gönderimler var";
+$locale["global_130"] = "%s paneli bulunamadı";
 // User Menu
 $locale['UM060'] = "Giriş";
 $locale['UM061'] = "Kullanıcı Adı";
@@ -228,10 +226,12 @@ $locale['UM102'] = "SSS Gönder";
 $locale['UM096'] = "Hoşgeldiniz: ";
 $locale['UM097'] = "Kişisel menü";
 $locale['UM101'] = "Dili Değiştir";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "ÖM Gelen Kutusu :";
 $locale['UM099'] = "ÖM Giden Kutusu :";
 $locale['UM100'] = "ÖM Arşivi :";
+
 // Keywords and Meta
 $locale['tags'] = "Etiketler";
 // Captcha
@@ -250,6 +250,9 @@ $locale['global_180'] = "Yönetim Ana Sayfası";
 $locale['global_181'] = "Siteye Dön";
 $locale['global_182'] = "Yönetici Şifresi girilmemiş veya yanlış.";
 $locale['global_183'] = "Giriş oturumunuzun süresi doldu. Lütfen tekrar giriş yapın.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -273,7 +276,7 @@ $locale['global_204'] = "Forum";
 $locale['global_210'] = "İçeriğe geç";
 $locale['global_300'] = "tema bulunamadı";
 $locale['global_301'] = "Gerçekten üzgünüz, ancak bu sayfa görüntülenemiyor. Bazı koşullardan dolayı hiçbir site teması bulunamadı.
- Site Yöneticisiyseniz, PHP-Fusion 9 için tasarlanmış temaları temalar klasörüne yüklemek için lütfen FTP istemcinizi kullanın.
+ Site Yöneticisiyseniz, PHPFusion 9 için tasarlanmış temaları temalar klasörüne yüklemek için lütfen FTP istemcinizi kullanın.
  Yükledikten sonra, seçilen temanın temalar dizinine doğru şekilde yüklenip yüklenmediğini görmek için Tema Ayarları'na bir göz atın.
  Tema Ayarları sayfasında seçilen şekilde yüklenen tema klasörünün tam olarak aynı ada (Unix tabanlı sunucularda önemli olan karakter durumuna)
  sahip olduğuna dikkat edin. Bu sitenin düzenli üyesiyseniz, lütfen [SITE_EMAIL] e-posta yoluyla sitenin yöneticisine başvurun ve bu konuyu bildirin.";
@@ -295,6 +298,8 @@ $locale['global_409'] = "Bu hesap güvenlik nedeniyle yasaklandı.";
 $locale['global_410'] = "Bunun nedeni şudur: ";
 $locale['global_411'] = "Bu hesap iptal edildi.";
 $locale['global_412'] = "Bu hesap, muhtemelen hareketsizlik nedeniyle anonimleştirildi.";
+$locale['global_413'] = "Kullanıcı adı kullanılabilir";
+$locale['global_414'] = "Kullanıcı adı kullanılamaz";
 // Flood control
 $locale['global_440'] = "Saldırı Kontrolü ile Otomatik Yasaklama";
 $locale['global_441'] = "[SITENAME] hesabınız yasaklandı";

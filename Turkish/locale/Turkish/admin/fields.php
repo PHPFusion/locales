@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Konum";
 $locale['fields_0513'] = "Numara";
 $locale['fields_0514'] = "E-Posta";
 $locale['fields_0515'] = "Web URL'si";
+$locale['fields_0516'] = "İletişim Numarası";
 
 $locale['fields_0600'] = "Bu Kategoride %s Alt Kategori Var";
 $locale['fields_0601'] = "Bu Kategoride %s Alan(lar) Var";
@@ -150,4 +151,4 @@ $locale['fields_0667'] = "Sütun Çatışması. [OLD_TABLE] Üzerinde Varolan S�
 $locale['fields_0668'] = "Fork No.2 - Alanı Aynı Tabloda Güncelle";
 $locale['fields_0669'] = "[OLD_TABLE] Alanındaki [FIELD_NAME] Sütununu [FIELD_NAME_] Alanına, Aşağıdaki Özelliklere Sahip Olarak Yeniden Adlandırma: ";
 $locale['fields_0670'] = "Eski Veriler";
-$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
+$locale['fields_0671'] = "Tablonuz geçerli bir tablo olmalıdır. Sütununuz, bu tablodaki bir kullanıcı kimliğinin sütunu olmalıdır.";

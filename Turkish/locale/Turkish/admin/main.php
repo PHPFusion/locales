@@ -127,4 +127,5 @@ $locale['search_msg_102'] = 'Sayfalar Yüklenemedi';
 $locale['search_msg_103'] = 'Arama Dizesi Çok Kısa';
 $locale['search_msg_104'] = 'Sonuç Bulunamadı';
 
-$locale['new_update_avalaible'] = "Yeni bir [LINK]PHP-Fusion v[VERSION] güncellemesi [/LINK] mevcut. Lütfen güncelle!";
+$locale['deprecated_section'] = 'Bu bölüm kullanımdan kaldırılmıştır. Artık bunu önermiyoruz ve yakında kaldırmayı planlıyoruz.';
+$locale['new_update_avalaible'] = "Yeni bir [LINK]PHPFusion v[VERSION] güncellemesi [/LINK] mevcut. Lütfen güncelle!";

@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Kullanıcı tarafından trigger_error() işlevi kull
 $locale['E_ALL'] = "E_STRICT dışındaki tüm iletileri tanımlar";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "Mevcut Değil";
-$locale['err_101'] = "UYARI: Sayfa ayrıştırılırken bir hata oluştu. Daha fazla bilgi için lütfen PHP-Fusion [ERROR_LOG_URL]Hata Günlüğü[/ERROR_LOG_URL] konusuna bakın.";
+$locale['err_101'] = "UYARI: Sayfa ayrıştırılırken bir hata oluştu. Daha fazla bilgi için lütfen PHPFusion [ERROR_LOG_URL]Hata Günlüğü[/ERROR_LOG_URL] konusuna bakın.";
 $locale['err_102'] = "Bana hatayı göster!";
 $locale['err_103'] = "{%function%} {%folder%} yok.";

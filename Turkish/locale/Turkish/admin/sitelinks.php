@@ -51,7 +51,7 @@ $locale['SL_0053'] = "Seçenekler";
 
 $locale['SL_0062'] = "Site Bağlantıları Tanımlanmadı.";
 $locale['SL_0063'] = "Bağlantı Adında BBCode Kullanılsın Mı?";
-$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
+$locale['SL_0064'] = "Bunu etkinleştirmek, bağlantı adını BBcodes ile yeniden biçimlendirir";
 
 $locale['SL_0070'] = "Simge";
 $locale['SL_0071'] = "Yeni Pencere mi?";

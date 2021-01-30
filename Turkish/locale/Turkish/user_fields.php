@@ -172,5 +172,3 @@ Saygılarımızla,
 [SITEUSERNAME]<br/>
 
 [SITENAME]";
-
-$locale['u210'] = "Kullanıcı İtibarı";

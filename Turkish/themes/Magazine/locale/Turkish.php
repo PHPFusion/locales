@@ -1,5 +1,5 @@
 <?php
-$locale['MG_description'] = 'PHP-Fusion Andromeda 9.03 için resmi tema';
+$locale['MG_description'] = 'PHPFusion Andromeda 9.03 için resmi tema';
 $locale['created_by']  = 'Yapan';
 $locale['MG_001'] = 'Merhaba, ';
 // Templates
