@@ -9,10 +9,7 @@ $locale['select2'] = "uk"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "uk"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "uk"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "uk_UA"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "uk"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Січень|Лютий|Березень|Квітень|Травень|Червень|Липень|Серпень|Вересень|Жовтень|Листопад|Грудень";
@@ -200,6 +197,7 @@ $locale['global_126'] = "повідомлення";
 $locale['global_127'] = "повідомлень";
 $locale['global_128'] = "ухвалення";
 $locale['global_129'] = "ухвалень";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Авторизація";
 $locale['UM061'] = "Ім&lsquo;я";
@@ -237,10 +235,12 @@ $locale['UM102'] = "Запропонувати ЧАП";
 $locale['UM096'] = "Вітаємо: ";
 $locale['UM097'] = "Особисте меню";
 $locale['UM101'] = "Зміна мови";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "Вхідні:";
 $locale['UM099'] = "Вихідні:";
 $locale['UM100'] = "Архів:";
+
 // Keywords and Meta
 $locale['tags'] = "Теґи";
 // Captcha
@@ -259,6 +259,9 @@ $locale['global_180'] = "Центр керування";
 $locale['global_181'] = "Повернутися на сайт";
 $locale['global_182'] = "Пароль адміністрування введено некоректно";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -288,7 +291,7 @@ $locale['global_210'] = "Перейти до змісту";
 $locale['global_300'] = "Тему сайту не визначено";
 $locale['global_301'] = "Вибачте, неможливо відобразити сторінку. Через певні обставини, неможливо знайти жодну тему оформлення сайту.
 
-Якщо Ви адміністратор сайту, завантажте з допомогою FTP тему оформлення, сумісну з PHP-Fusion 9, до відповідного каталогу.
+Якщо Ви адміністратор сайту, завантажте з допомогою FTP тему оформлення, сумісну з PHPFusion 9, до відповідного каталогу.
 
 Після завантаження теми, перевірте її коректне застосування у Центрі керування.
 
@@ -317,6 +320,8 @@ $locale['global_409'] = "Цей обліковий запис заблокова
 $locale['global_410'] = "Причина: ";
 $locale['global_411'] = "Цей обліковий запис скасовано.";
 $locale['global_412'] = "Цей обліковий запис зроблено анонімним, можливо, через бездіяльність.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Автоматичне блокування через порушення контролю за флудом";
 $locale['global_441'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано";

@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Будь ласка, виберіть коре
 $locale['error_input_checkbox'] = "Будь ласка, позначте цей пункт";
 $locale['error_input_file'] = "Будь ласка, виберіть коректний файл";
 $locale['error_secure_file'] = "Завантажений файл заблоковано з міркувань безпеки (підозра на шкідливий вміст).";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Термін дії сесії вичерпано";
 $locale['cookie_description'] = "Авторизація недійсна або термін сесії вичерпано. Для продовження, будь ласка, авторизуйтесь ще раз.";
 $locale['cookie_expired'] = "Термін дії коржика (cookie) адміністратора вичерпано. Будь ласка, авторизуйтесь знову.";
 $locale['password_invalid'] = "Некоректний пароль";
 $locale['password_invalid_description'] = "Пароль введено з помилкою або він некоректний. Будь ласка, спробуйте ще раз.";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Помилка коржика (cookie)";
 $locale['cookie_error_description'] = "Для можливості адміністрування Ви маєте дозволити переглядачу зберігати коржики (cookie).";
 $locale['validate_title'] = "Зверніть увагу та перевірте!";

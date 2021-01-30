@@ -8,9 +8,9 @@ $locale['404'] = "Версія PHP";
 $locale['405'] = "Інтерфейс PHP";
 $locale['406'] = "Версія MySQL";
 $locale['406a'] = "Драйвер бази даних";
-$locale['407'] = "Версія PHP-Fusion";
-$locale['408'] = "Префікс бази даних PHP-Fusion";
-$locale['409'] = "Префікс файлів cookie PHP-Fusion";
+$locale['407'] = "Версія PHPFusion";
+$locale['408'] = "Префікс бази даних PHPFusion";
+$locale['409'] = "Префікс файлів cookie PHPFusion";
 $locale['410'] = "Переглядач та ОС";
 $locale['411'] = "Перекладав: kot2007"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings

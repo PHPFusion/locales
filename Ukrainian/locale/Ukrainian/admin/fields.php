@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Розміщення";
 $locale['fields_0513'] = "Номер";
 $locale['fields_0514'] = "Електронна пошта";
 $locale['fields_0515'] = "Посилання";
+$locale['fields_0516'] = "Contact Number";
 
 $locale['fields_0600'] = "Кількість підрозділів у цьому розділі: %s";
 $locale['fields_0601'] = "Кількість полів у цьому розділі %s";

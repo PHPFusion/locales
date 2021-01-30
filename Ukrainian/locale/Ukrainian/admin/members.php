@@ -77,6 +77,7 @@ $locale['ME_504'] = 'Блокування з міркувань безпеки';
 $locale['ME_505'] = 'Скасування';
 $locale['ME_506'] = 'Анонімізація';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'заблоковано';
