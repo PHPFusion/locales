@@ -1,8 +1,8 @@
 <?php
-$locale['downloads.php'] = "Downloads";
-$locale['d400'] = "Downloads";
-$locale['d401'] = "Download";
-$locale['d402'] = "Downloads";
+$locale['downloads.php'] = "下载";
+$locale['d400'] = "下载";
+$locale['d401'] = "下载";
+$locale['d402'] = "下载";
 $locale['d403'] = "[NEW]";
 $locale['d404'] = "License:";
 $locale['d405'] = "O/S:";

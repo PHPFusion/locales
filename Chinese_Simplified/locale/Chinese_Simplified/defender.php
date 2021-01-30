@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Please select a valid theme";
 $locale['error_input_checkbox'] = "Please tick this checkbox";
 $locale['error_input_file'] = "Please select a valid file";
 $locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Session Timed Out";
 $locale['cookie_description'] = "There are no valid authentication / or your session has probably timed out. Please login again.";
 $locale['cookie_expired'] = "The site admin cookie has expired. Please login again.";
 $locale['password_invalid'] = "Wrong or Invalid Password";
 $locale['password_invalid_description'] = "The password input was incorrect. Please try again.";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Cookie Error";
 $locale['cookie_error_description'] = "You need to enable browser cookie to enter administration.";
 $locale['validate_title'] = "Could you check something!";

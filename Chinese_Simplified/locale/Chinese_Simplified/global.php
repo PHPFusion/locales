@@ -9,10 +9,7 @@ $locale['select2'] = "zh"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "ch"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "zh_CN"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "zh-cn"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "zh"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|一月|二月|三月|四月|五月|六月|七月|八月|九月|十月|十一月|十二月";
@@ -196,6 +193,7 @@ $locale['global_126'] = "message";
 $locale['global_127'] = "messages";
 $locale['global_128'] = "submission";
 $locale['global_129'] = "submissions";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Login";
 $locale['UM061'] = "Username";
@@ -230,10 +228,12 @@ $locale['UM102'] = "Submit FAQ";
 $locale['UM096'] = "Welcome: ";
 $locale['UM097'] = "Personal menu";
 $locale['UM101'] = "Switch Language";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "PM Inbox :";
 $locale['UM099'] = "PM Outbox :";
 $locale['UM100'] = "PM Archive :";
+
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
@@ -252,6 +252,9 @@ $locale['global_180'] = "Admin Home";
 $locale['global_181'] = "Return to Site";
 $locale['global_182'] = "Admin Password not entered or incorrect.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -277,7 +280,7 @@ $locale['global_204'] = "Forum";
 $locale['global_210'] = "Skip to content";
 $locale['global_300'] = "no theme found";
 $locale['global_301'] = "We are really sorry but this page cannot be displayed. Due to some circumstances no site theme can be found.
- If you are a Site Administrator, please use your FTP client to upload any theme designed for PHP-Fusion 9 to the themes folder.
+ If you are a Site Administrator, please use your FTP client to upload any theme designed for PHPFusion 9 to the themes folder.
  After upload check in Theme Settings to see if the selected theme was correctly uploaded to your themes directory.
  Please note that the uploaded theme folder has to have the exact same name (including character case, which is important on Unix based servers)
  as chosen in Theme Settings page.
@@ -302,6 +305,8 @@ $locale['global_409'] = "This account has been banned for security reasons.";
 $locale['global_410'] = "The reason for this is: ";
 $locale['global_411'] = "This account has been cancelled.";
 $locale['global_412'] = "This account has been anonymized, probably because of inactivity.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatic Ban by Flood Control";
 $locale['global_441'] = "Your account on [SITENAME] has been banned";

@@ -16,7 +16,7 @@ $locale['412'] = "Save Conversation";
 $locale['413'] = "Unsave";
 $locale['414'] = "Read";
 $locale['415'] = "Unread";
-$locale['416'] = "Delete Conversation";
+$locale['416'] = "删除";
 $locale['417'] = "Show sender with Letters:";
 $locale['418'] = "All";
 $locale['419'] = "You have no Private Messages";
@@ -128,6 +128,7 @@ $locale['627'] = "Error";
 $locale['628'] = "Unable to send the Private Message. The recipient's inbox is full.";
 $locale['629'] = "You cannot move the selected message(s) into the specified folder as it will exceed the maximum message limit.";
 $locale['630'] = " Message Limit";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
 $locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
