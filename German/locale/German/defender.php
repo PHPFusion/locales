@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Du musst ein g&uuml;ltiges Seitendesign ausw&a
 $locale['error_input_checkbox'] = "Du musst dieses K&auml;stchen ausw&auml;hlen.";
 $locale['error_input_file'] = "Du musst eine g&uuml;ltige Datei ausw&auml;hlen.";
 $locale['error_secure_file'] = "Die hochgeladene Datei wurde wegen böswilligem Inhalt abgelehnt.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Deine Session ist abgelaufen.";
 $locale['cookie_description'] = "Es existiert keine g&uuml;ltige Authentifizierung, oder deine Session ist abgelaufen. Bitte melde dich erneut an.";
 $locale['cookie_expired'] = "Dein Administrations-Cookie ist abgelaufen. Bitte melde dich erneut an.";
 $locale['password_invalid'] = "Falsches Passwort";
 $locale['password_invalid_description'] = "Das angegebene Passwort ist fehlerhaft. Bitte versuche es erneut.";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Cookie Fehler";
 $locale['cookie_error_description'] = "Du musst in deinem Browser Cookies aktiviert haben, um dich in der Administration anzumelden.";
 $locale['validate_title'] = "Du musst etwas &uuml;berpr&uuml;fen!";

@@ -155,5 +155,3 @@ $locale['u202'] = "E-Mail Adresse bei [SITENAME] bestätigen";
 $locale['u203'] = "Hallo [USER_NAME],
 
 ";
-
-$locale['u210'] = "Benutzer Ruf";

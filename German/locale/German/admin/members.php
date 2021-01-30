@@ -67,6 +67,7 @@ $locale['ME_504'] = 'Sicherheit Bann';
 $locale['ME_505'] = 'Abbruch';
 $locale['ME_506'] = 'Anonymisieren';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'gebanned';

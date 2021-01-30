@@ -9,10 +9,7 @@ $locale['select2'] = "de"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "de"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "de"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "de"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "DD-M-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "d-m-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "de"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januar|Februar|M&auml;rz|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember";
@@ -196,6 +193,7 @@ $locale['global_126'] = "Nachricht";
 $locale['global_127'] = "Nachrichten";
 $locale['global_128'] = "Einsendung";
 $locale['global_129'] = "Einsendungen";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Login";
 $locale['UM061'] = "Benutzername";
@@ -229,10 +227,12 @@ $locale['UM102'] = "FAQ einsenden";
 $locale['UM096'] = "Willkommen: ";
 $locale['UM097'] = "Pers&ouml;nliches Men&uuml;";
 $locale['UM101'] = "Sprache wechseln";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "PN Eingang";
 $locale['UM099'] = "PN Ausgang";
 $locale['UM100'] = "PN Archiv";
+
 // Keywords and Meta
 $locale['tags'] = "Stichwörter";
 // Captcha
@@ -251,6 +251,9 @@ $locale['global_180'] = "Administration Start";
 $locale['global_181'] = "Zur&uuml;ck zur Seite";
 $locale['global_182'] = "Du hast kein Administrator Passwort angegeben oder es war ung&uuml;ltig.";
 $locale['global_183'] = "Ihre Anmeldung ist abgelaufen, bitte melden Sie sich erneut an.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -295,6 +298,8 @@ $locale['global_409'] = "Dieser Account wurde aus Sicherheitsgr&uuml;nden gebann
 $locale['global_410'] = "Der Grund daf&uuml;r ist: ";
 $locale['global_411'] = "Dieser Account wurde storniert.";
 $locale['global_412'] = "Dieser Account wurde anonymisiert, m&ouml;glicherweise aufgrund von Inaktivit&auml;t.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatischer Ban durch die Floodkontrolle";
 $locale['global_441'] = "Account gebannt auf [SITENAME]";

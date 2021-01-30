@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Hinweis generiert von Benutzer unter Verwendung der 
 $locale['E_ALL'] = "Definiert alle Nachrichten mit der Ausnahme von E_STRICT.";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "Nicht definiert";
-$locale['err_101'] = "Warnung! Beim Parsen der Seite ist ein Fehler aufgetreten. Um mehr Details zu erfahren, sehe bitte im [ERROR_LOG_URL]PHP-Fusion Fehlerlog[/ERROR_LOG_URL] nach.";
+$locale['err_101'] = "Warnung! Beim Parsen der Seite ist ein Fehler aufgetreten. Um mehr Details zu erfahren, sehe bitte im [ERROR_LOG_URL]PHPFusion Fehlerlog[/ERROR_LOG_URL] nach.";
 $locale['err_102'] = "Fehler anzeigen";
 $locale['err_103'] = "{%function%} {%folder%} existiert nicht.";

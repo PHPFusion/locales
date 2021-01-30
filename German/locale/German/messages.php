@@ -130,6 +130,7 @@ $locale['627'] = "Fehler";
 $locale['628'] = "Die private Nachricht konnte nicht gesendet werden. Der Posteingang des Empf&auml;ngers ist voll.";
 $locale['629'] = "Du kannst die markierten Nachrichten nicht in das Postfach verschieben, da sonst das Limit &uuml;berschritten wird.";
 $locale['630'] = " Nachrichten Limit";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
 $locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
