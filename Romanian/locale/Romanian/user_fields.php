@@ -173,5 +173,3 @@ Cu respect,
 [SITEUSERNAME]
 
 [SITENAME]";
-
-$locale['u210'] = "Reputa&#355;ie utilizator";

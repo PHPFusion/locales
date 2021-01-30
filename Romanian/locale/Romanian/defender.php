@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Te rog selecteaz&#259; o tematic&#259; valid&#
 $locale['error_input_checkbox'] = "Te rog bifeaz&#259; aceast&#259; casu&#355;&#259;";
 $locale['error_input_file'] = "Te rog selecteaz&#259; un fi&#351;ier valid";
 $locale['error_secure_file'] = "Fi&#351;ierul &#238;nc&#259;rcat a fost respins din cauza posibilelor coduri mali&#355;ioase.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Sesiunea a expirat";
 $locale['cookie_description'] = "Nu exist&#259; nicio autentificare valid&#259; / sau sesiunea ta probabil a expirat. Te rog conecteaz&#259;-te din nou.";
 $locale['cookie_expired'] = "Cookie-urile pentru panoul de administrare au expirat. Te rog conecteaz&#259;-te din nou.";
 $locale['password_invalid'] = "Parol&#259; gre&#351;it&#259; sau invalid&#259;";
 $locale['password_invalid_description'] = "Parola introdus&#259; este incorect&#259;. Te rog &#238;ncearc&#259; din nou.";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Eroare cookie";
 $locale['cookie_error_description'] = "Trebuie s&#259; activezi &#238;n browserul t&#259;u cookie pentru a intra &#238;n panoul de administrare.";
 $locale['validate_title'] = "Ai putea verifica ceva!";

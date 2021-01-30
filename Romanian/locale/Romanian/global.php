@@ -9,10 +9,7 @@ $locale['select2'] = "ro"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "ro"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "ro"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "ro-ro"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "ro"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Ianuarie|Februarie|Martie|Aprilie|Mai|Iunie|Iulie|August|Septembrie|Octombrie|Noiembrie|Decembrie";
@@ -196,6 +193,7 @@ $locale['global_126'] = "mesaj nou";
 $locale['global_127'] = "mesaje noi";
 $locale['global_128'] = "trimitere";
 $locale['global_129'] = "trimiteri";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Conectare";
 $locale['UM061'] = "Utilizator";
@@ -230,10 +228,12 @@ $locale['UM102'] = "Trimite o &#238;ntrebare frecvent&#259;";
 $locale['UM096'] = "Bun venit: ";
 $locale['UM097'] = "Meniul t&#259;u";
 $locale['UM101'] = "Schimb&#259; limba";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "Intrare :";
 $locale['UM099'] = "Ie&#351;ire :";
 $locale['UM100'] = "Arhiv&#259; :";
+
 // Keywords and Meta
 $locale['tags'] = "Etichete";
 // Captcha
@@ -252,6 +252,9 @@ $locale['global_180'] = "Index administrare";
 $locale['global_181'] = "Revenire la sait";
 $locale['global_182'] = "Parola de administrare nu a fost setat&#259; sau este incorect&#259;.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -277,7 +280,7 @@ $locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Salt la con&#355;inut";
 $locale['global_300'] = "Nu am g&#259;sit nicio tematic&#259;.";
-$locale['global_301'] = "Ne pare sincer r&#259;u, dar aceast&#259; pagin&#259; nu poate fi afi&#351;at&#259;. Din cauza unor circumstan&#355;e, tematica saitului nu poate fi g&#259;sit&#259;. Dac&#259; e&#351;ti un administrator al site-ului, folose&#351;te clientul t&#259;u de FTP pentru a &#238;nc&#259;rca o tematic&#259; pentru <em>PHP-Fusion 9</em> &#238;n directorul <em>themes/</em>. Dup&#259; &#238;nc&#259;rcare, verific&#259; &#238;n <em>Set&#259;ri tematic&#259;</em> dac&#259; tematica selectat&#259; a fost corect &#238;nc&#259;rcat&#259; &#238;n directorul <em>themes/</em>. Directorul tematicii &#238;nc&#259;rcate trebuie s&#259; aib&#259; acela&#351;i nume (incluz&#226;nd literele mici sau mari, care sunt importante pe serverele bazate pe Unix) cu cel ales &#238;n pagina <em>Set&#259;ri tematic&#259;</em>.
+$locale['global_301'] = "Ne pare sincer r&#259;u, dar aceast&#259; pagin&#259; nu poate fi afi&#351;at&#259;. Din cauza unor circumstan&#355;e, tematica saitului nu poate fi g&#259;sit&#259;. Dac&#259; e&#351;ti un administrator al site-ului, folose&#351;te clientul t&#259;u de FTP pentru a &#238;nc&#259;rca o tematic&#259; pentru <em>PHPFusion 9</em> &#238;n directorul <em>themes/</em>. Dup&#259; &#238;nc&#259;rcare, verific&#259; &#238;n <em>Set&#259;ri tematic&#259;</em> dac&#259; tematica selectat&#259; a fost corect &#238;nc&#259;rcat&#259; &#238;n directorul <em>themes/</em>. Directorul tematicii &#238;nc&#259;rcate trebuie s&#259; aib&#259; acela&#351;i nume (incluz&#226;nd literele mici sau mari, care sunt importante pe serverele bazate pe Unix) cu cel ales &#238;n pagina <em>Set&#259;ri tematic&#259;</em>.
 
 Dac&#259; e&#351;ti un utilizator obi&#351;nuit pe acest sait, te rog contacteaz&#259; administratorul la adresa [SITE_EMAIL] &#351;i raporteaz&#259;-i aceast&#259; problem&#259;.";
 $locale['global_302'] = "Tematica aleas&#259; &#238;n Set&#259;ri principale nu exist&#259; sau este incomplet&#259;!";
@@ -298,6 +301,8 @@ $locale['global_409'] = "Acest cont a fost suspendat din motive de securitate.";
 $locale['global_410'] = "Motivul pentru asta este: ";
 $locale['global_411'] = "Acest cont a fost anulat.";
 $locale['global_412'] = "Acest cont este anonim, probabil din cauza inactivit&#259;&#355;ii.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Suspendat automat de Controlul abuzurilor";
 $locale['global_441'] = "Contul t&#259;u pe [SITENAME] a fost suspendat";

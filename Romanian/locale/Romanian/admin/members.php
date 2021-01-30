@@ -74,6 +74,7 @@ $locale['ME_504'] = 'Baneaz&#259; de securitate';
 $locale['ME_505'] = 'Anuleaz&#259;';
 $locale['ME_506'] = 'Anomizeaz&#259;';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'banat';

@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Loca&#355;ie";
 $locale['fields_0513'] = "Num&#259;r";
 $locale['fields_0514'] = "E-mail";
 $locale['fields_0515'] = "URL";
+$locale['fields_0516'] = "Contact Number";
 
 $locale['fields_0600'] = "Exist&#259; %s subcategorie(i) &#238;n aceast&#259; cateogie";
 $locale['fields_0601'] = "Exist&#259; %s c&#226;mp(uri) utilizatori &#238;n aceast&#259; categorie";

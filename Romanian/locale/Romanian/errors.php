@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Eroare minor&#259; generat&#259; de utilizator prin 
 $locale['E_ALL'] = "Define&#351;te toate mesajele cu excep&#355;ia E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "necunoscut&#259;";
-$locale['err_101'] = "ATEN&#354;IE:O eroare a fost &#238;mpinat&#259; la procesarea paginii. Te rog uit&#259;-te &#238;n [ERROR_LOG_URL]jurnalul de erori[/ERROR_LOG_URL] PHP-Fusion pentru detalii.";
+$locale['err_101'] = "ATEN&#354;IE:O eroare a fost &#238;mpinat&#259; la procesarea paginii. Te rog uit&#259;-te &#238;n [ERROR_LOG_URL]jurnalul de erori[/ERROR_LOG_URL] PHPFusion pentru detalii.";
 $locale['err_102'] = "Arat&#259;-mi eroarea!";
 $locale['err_103'] = "{%function%} {%folder%} nu exist&#259;.";

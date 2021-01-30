@@ -1,18 +1,18 @@
 <?php
-$locale['setup_0000'] = "Instalarea versiunii 9.0 a nucleului PHP-Fusion";
-$locale['setup_0002'] = "Bine ai venit la instalarea v9.0 a PHP-Fusion";
-$locale['setup_0003'] = "Ghidul de instalare te va ghida prin pa&#351;i necesari inst&#259;ri versiunii 9.0 a CMS-ului PHP-Fusion pe serverul t&#259;u.<br /> Dac&#259; ai nevoie de ajutor, te rug&#259;m verific&#259; <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=208' target='_blank'>procesul de instalare</a>.";
-$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>>Php-Fusion</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 necesit&#259; cel pu&#355;in PHP 7.0. Vezi pagina <a href=\"https://www.phpfusion.com/infusions/wiki/documentation.php?page=215\">cerin&#355;e sistem</a> pentru mai multe informa&#355;i.";
+$locale['setup_0000'] = "Instalarea versiunii 9.0 a nucleului PHPFusion";
+$locale['setup_0002'] = "Bine ai venit la instalarea v9.0 a PHPFusion";
+$locale['setup_0003'] = "Ghidul de instalare te va ghida prin pa&#351;i necesari inst&#259;ri versiunii 9.0 a CMS-ului PHPFusion pe serverul t&#259;u.<br /> Dac&#259; ai nevoie de ajutor, te rug&#259;m verific&#259; <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page_id=208' target='_blank'>procesul de instalare</a>.";
+$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>>Php-Fusion</a>";
+$locale['setup_0006'] = "PHPFusion 9 necesit&#259; cel pu&#355;in PHP 7.0. Vezi pagina <a href=\"https://phpfusion.com/infusions/wiki/documentation.php?page_id=215\">cerin&#355;e sistem</a> pentru mai multe informa&#355;i.";
 $locale['setup_0007'] = "Sistemele cu OPcache instalat trebuie s&#259; aibe <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> activat.";
-$locale['setup_5000'] = "Pentru a putea folosi PHP-Fusion, trebuie s&#259; bifezi &#351;i s&#259; fii de acord cu termenii &#351;i condi&#355;iile PHP-Fusion</a>.";
+$locale['setup_5000'] = "Pentru a putea folosi PHPFusion, trebuie s&#259; bifezi &#351;i s&#259; fii de acord cu termenii &#351;i condi&#355;iile PHPFusion</a>.";
 $locale['setup_0010'] = "Versiunea curent&#259; - ";
 $locale['setup_0011'] = "ro";
 $locale['setup_0012'] = "utf-8";
 $locale['setup_0012a'] = "ltr";
-$locale['setup_0020'] = "Upgrade PHP-Fusion";
-$locale['setup_0022'] = "Bun venit la procesul de upgrade PHP-Fusion";
-$locale['setup_0023'] = "Procesul de upgrade te va ghida prin pa&#351;i necesari pentru upgradeul CMS-ului PHP-Fusion pe serverul t&#259;u. Te rog urmeaz&#259; ace&#351;i pa&#351;i &#351;i verific&#259; fiecare informa&#355;ie.";
+$locale['setup_0020'] = "Upgrade PHPFusion";
+$locale['setup_0022'] = "Bun venit la procesul de upgrade PHPFusion";
+$locale['setup_0023'] = "Procesul de upgrade te va ghida prin pa&#351;i necesari pentru upgradeul CMS-ului PHPFusion pe serverul t&#259;u. Te rog urmeaz&#259; ace&#351;i pa&#351;i &#351;i verific&#259; fiecare informa&#355;ie.";
 $locale['setup_0050'] = "Server Web";
 $locale['setup_0051'] = "Versiune PHP";
 $locale['setup_0052'] = "Extensie PHP";
@@ -27,11 +27,11 @@ $locale['setup_0104'] = "Configurare / Instalare baz&#259; de date";
 $locale['setup_0105'] = "Configurare sistem principal";
 $locale['setup_0106'] = "Datele administratorului principal";
 $locale['setup_0107'] = "Set&#259;ri finale";
-$locale['setup_0109'] = "Versiunea minim&#259; de Apache necesar&#259; pentru a rula PHP-Fusion f&#259;r&#259; mod_rewrite activat este 2.2.16.";
+$locale['setup_0109'] = "Versiunea minim&#259; de Apache necesar&#259; pentru a rula PHPFusion f&#259;r&#259; mod_rewrite activat este 2.2.16.";
 $locale['setup_0110'] = "Din cauza set&#259;rillor pentru Servertokens &#238;n httpd.confg, este imposibil s&#259; determin&#259;m versiunea Apache f&#259;r&#259; mod_rewrite, este necesar&#259; minim versiunea 2.2.16.";
 $locale['setup_0112'] = "Func&#355;ia phpinfo() a fost dezactivat&#259; din motive de securitate. Pentru a vizualiza informa&#355;iile phpinfo(), modific&#259; set&#259;rile PHP sau contacteaz&#259; administratorul serverului.";
-$locale['setup_0113'] = "Versiunea ta de PHP este prea veche. PHP-Fusion necesit&#259; minim 5.5.21. Versiunile PHP mai mari de 5.6.5 sau 5.5.21 asigur&#259; protec&#355;ie &#206;mpotriva inject&#259;rii SQL &#206;n baza de date mysql. Este recomandat s&#259; actualiza&#355;i.";
-$locale['setup_0114'] = "PHP-Fusion necesit&#259; extensiile PHP activate din lista urm&#259;toare";
+$locale['setup_0113'] = "Versiunea ta de PHP este prea veche. PHPFusion necesit&#259; minim 5.5.21. Versiunile PHP mai mari de 5.6.5 sau 5.5.21 asigur&#259; protec&#355;ie &#206;mpotriva inject&#259;rii SQL &#206;n baza de date mysql. Este recomandat s&#259; actualiza&#355;i.";
+$locale['setup_0114'] = "PHPFusion necesit&#259; extensiile PHP activate din lista urm&#259;toare";
 $locale['setup_0115'] = "Activat";
 $locale['setup_0115a'] = "Neactivat";
 $locale['setup_0116'] = "PHP OPcode caching poate &#238;mbun&#259;t&#259;&#355;i considerabil performan&#355;ele saitului t&#259;u. Este <strong>recomandat</strong> s&#259; ave&#355;i <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> instalat pe server.";
@@ -61,8 +61,8 @@ $locale['setup_0143'] = "Prefixul de tabel specificat este deja folosit &#351;i 
 $locale['setup_0144'] = "Diagnostic baza de date complet";
 // Step 1
 $locale['setup_1000'] = "Alege o localizare (limb&#259;):";
-$locale['setup_1001'] = "Descarc&#259; mai multe limbi de la <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion </strong></a>";
-$locale['setup_1002'] = "Bine ai venit la PHP-Fusion 9.0 modul recuperare.";
+$locale['setup_1001'] = "Descarc&#259; mai multe limbi de la <a href='https://phpfusion.com/downloads.php#langpacks' target='_blank'><strong>PHPFusion </strong></a>";
+$locale['setup_1002'] = "Bine ai venit la PHPFusion 9.0 modul recuperare.";
 $locale['setup_1003'] = "Am detectat c&#259; exist&#259; deja o versiune instalat&#259;.<br/><br/>Te rog selecteaz&#259; una din variante pentru a continua.";
 $locale['setup_1004'] = "Instalare nou&#259;";
 $locale['setup_1005'] = "&#206;&#355;i po&#355;i &#351;terge &#351;i cur&#259;&#355;a baza de date &#351;i po&#355;i &#238;ncepe o instalare nou&#259;.<br />";
@@ -98,15 +98,15 @@ $locale['setup_1206'] = "Prefixul tabelelor:";
 $locale['setup_1207'] = "Prefixul cookie:";
 $locale['setup_1208'] = "Drivere baza de date";
 // Step 4 - Database Setup
-$locale['setup_1210'] = "Erori instalare PHP-Fusion. Te rog restarteaz&#259; instalarea.";
-$locale['setup_1211'] = "Noua instalare PHP-Fusion complet&#259;. Te rog mergi la urm&#259;torul pas.";
+$locale['setup_1210'] = "Erori instalare PHPFusion. Te rog restarteaz&#259; instalarea.";
+$locale['setup_1211'] = "Noua instalare PHPFusion complet&#259;. Te rog mergi la urm&#259;torul pas.";
 $locale['setup_1212'] = "Configurare sait &#351;i Super Administrator";
 $locale['setup_1213'] = "Detalii informa&#355;i sait";
 $locale['setup_1214'] = "Nume sait";
-$locale['setup_1215'] = "Saitul t&#259;u motorizat de PHP-Fusion";
-$locale['setup_1216'] = "PHP-Fusion este un sistem integrat de gestiune a conţinutului(CMS) de categorie u&#351;oar&#259; scris &#238;n PHP.";
+$locale['setup_1215'] = "Saitul t&#259;u motorizat de PHPFusion";
+$locale['setup_1216'] = "PHPFusion este un sistem integrat de gestiune a conţinutului(CMS) de categorie u&#351;oar&#259; scris &#238;n PHP.";
 $locale['setup_1217'] = "Contul t&#259;u a fost actualizat. Te rog folose&#351;te noile creden&#355;iale de acum &#238;ncolo ";
-$locale['setup_1220'] = "Numele bazei de date &#238;n care dore&#351;ti rularea PHP-Fusion";
+$locale['setup_1220'] = "Numele bazei de date &#238;n care dore&#351;ti rularea PHPFusion";
 $locale['setup_1221'] = "Utilizator MYSQL";
 $locale['setup_1222'] = "...&#351;i parol&#259; MYSQL";
 $locale['setup_1223'] = "F&#259; acesta foarte unic pentru a securiza baza ta de date";
@@ -254,7 +254,7 @@ $locale['setup_3507'] = "Modific&#259;ri";
 $locale['setup_3508'] = "Filme";
 $locale['setup_3509'] = "Re&#355;elistic&#259;";
 $locale['setup_3510'] = "&#350;tiri";
-$locale['setup_3511'] = "PHP-Fusion";
+$locale['setup_3511'] = "PHPFusion";
 $locale['setup_3512'] = "Securitate";
 $locale['setup_3513'] = "Software";
 $locale['setup_3514'] = "Tematici";
@@ -306,11 +306,11 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Bun venit pe saitul t&#259;u!";
 // Final message
 $locale['setup_1700'] = "Instalarea este complet&#259;";
-$locale['setup_1701'] = "PHP-Fusion 9.0  este acum gata de utilizare. <br />
+$locale['setup_1701'] = "PHPFusion 9.0  este acum gata de utilizare. <br />
 Apas&#259; sf&#226;r&#351;it pentru rescrie fi&#351;ierul config_temp.php &#238;n config.php<br />";
 $locale['setup_1702'] = "<strong>Not&#259;: Dup&#259; ce intri pe sait trebuie s&#259; &#351;tergi &#238;ntregul director /install <br />
 &#351;i s&#259; schimbi atributele fi&#351;ierului config.php la 0644 din motive de securitate.</strong>";
-$locale['setup_1703'] = "&#206;&#355;i mul&#355;umim c&#259; &#238;ncerci PHP-Fusion.";
+$locale['setup_1703'] = "&#206;&#355;i mul&#355;umim c&#259; &#238;ncerci PHPFusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";
