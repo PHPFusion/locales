@@ -69,6 +69,7 @@ $locale['ME_504'] = 'Ban de Segurança';
 $locale['ME_505'] = 'Cancelar';
 $locale['ME_506'] = 'Anonimizar';
 $locale['ME_507'] = 'Activar';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'banido';

@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Aviso gerado pelo utilizador usando a função trigg
 $locale['E_ALL'] = "Define todas as mensagens exceto E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
-$locale['err_101'] = "AVISO: Ocorreu um erro ao analisar a página. Por favor, veja o [ERROR_LOG_URL]Log de Erro do PHP-Fusion[/ERROR_LOG_URL] para mais detalhes.";
+$locale['err_101'] = "AVISO: Ocorreu um erro ao analisar a página. Por favor, veja o [ERROR_LOG_URL]Log de Erro do PHPFusion[/ERROR_LOG_URL] para mais detalhes.";
 $locale['err_102'] = "Mostre-me o erro!";
 $locale['err_103'] = "{%function%} {%folder%} não existe.";

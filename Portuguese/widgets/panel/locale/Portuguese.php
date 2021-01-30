@@ -1,6 +1,6 @@
 <?php
 $locale['PW_0100'] = "Painel";
-$locale['PW_0101'] = "Paineis do PHP-Fusion";
+$locale['PW_0101'] = "Paineis do PHPFusion";
 $locale['PW_0200'] = "Seleccionar Painel Instalado";
 $locale['PW_0201'] = "Por favor, verifique as configurações de acesso ao painel instaladas no [LINK]Administração do Painel[/LINK]";
 $locale['PW_0220'] = "Guardar Painel";
