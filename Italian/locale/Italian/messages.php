@@ -128,6 +128,7 @@ $locale['627'] = "Errore";
 $locale['628'] = "Impossibile inviare il messaggio. La casella In Arrivo utente É piena.";
 $locale['629'] = "Non puoi spostare il messaggio selezionato nella cartella desiderata perché supera il limite massimo.";
 $locale['630'] = " Limite Messaggi";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
 $locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";

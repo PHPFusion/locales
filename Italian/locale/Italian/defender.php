@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Seleziona un tema valido";
 $locale['error_input_checkbox'] = "Si prega di barrare questa casella di controllo";
 $locale['error_input_file'] = "Seleziona un file valido";
 $locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Sessione scaduta";
 $locale['cookie_description'] = "non ci sono nessuna autenticazione valida / o probabilmente la tua sessione è terminata. Effettua nuovamente il login. ";
 $locale['cookie_expired'] = "il cookie di admin del sito è scaduto. Effettua nuovamente il login. ";
 $locale['password_invalid'] = "Password errata o non valida";
 $locale['password_invalid_description'] = "l'input della password non è corretta. Si prega di riprovare. ";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Errore di Cookie";
 $locale['cookie_error_description'] = "Devi abilitare i cookie del browser entrare amministrazione.";
 $locale['validate_title'] = "Potresti controllare qualcosa!";
