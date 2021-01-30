@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Poloha";
 $locale['fields_0513'] = "Číslo";
 $locale['fields_0514'] = "E-mail";
 $locale['fields_0515'] = "Web Url";
+$locale['fields_0516'] = "Kontaktné číslo";
 
 $locale['fields_0600'] = "Existujú %s sub-kategórie v tejto kategórii";
 $locale['fields_0601'] = "Existujú %s polia v tejto kategórii";

@@ -9,10 +9,7 @@ $locale['select2'] = "sk"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "sk"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "sk"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "sk"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "sk"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Január|Február|Marec|Apríl|Máj|Jún|Júl|August|September|Október|November|December";
@@ -195,6 +192,7 @@ $locale['global_126'] = "správu";
 $locale['global_127'] = "správy";
 $locale['global_128'] = "príspevok na schválenie";
 $locale['global_129'] = "príspevky na schválenie";
+$locale["global_130"] = "Panel %s sa nepodarilo nájsť";
 // User Menu
 $locale['UM060'] = "Prihlásiť sa";
 $locale['UM061'] = "Užívateľské meno";
@@ -228,10 +226,12 @@ $locale['UM102'] = "Pridať FAQ";
 $locale['UM096'] = "Vitaj ";
 $locale['UM097'] = "Osobné menu";
 $locale['UM101'] = "Prepnúť jazyk";
+$locale['UM103'] = "Odhlásiť sa ako používateľ";
 // Gauges
 $locale['UM098'] = "Doručená pošta: ";
 $locale['UM099'] = "Odoslaná pošta: ";
 $locale['UM100'] = "Archív: ";
+
 // Keywords and Meta
 $locale['tags'] = "Tagy";
 // Captcha
@@ -250,6 +250,9 @@ $locale['global_180'] = "Administrácia";
 $locale['global_181'] = "Späť na stránku";
 $locale['global_182'] = "Heslo správcu nebolo zadané alebo je nesprávne.";
 $locale['global_183'] = "Vaša relácia vypršala. Prosím, prihláste sa znovu.";
+$locale['global_184'] = "Teraz ste prihlásený ako %s";
+$locale['global_185'] = "Teraz ste prepnutí späť na svoj vlastný účet.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -273,7 +276,7 @@ $locale['global_204'] = "Fórum";
 $locale['global_210'] = "Prejsť na obsah";
 $locale['global_300'] = "nebola nájdená žiadna téma";
 $locale['global_301'] = "Je nám ľúto, ale táto stránka sa nedá zobraziť. Z nejakých okolností nie je možné nájsť tému webu.
- Ak ste administrátorom stráky, použite svoj FTP klient na nahrávanie akejkoľvek témy určenej pre PHP-Fusion 9 do priečinka tém.
+ Ak ste administrátorom stráky, použite svoj FTP klient na nahrávanie akejkoľvek témy určenej pre PHPFusion 9 do priečinka tém.
  Po nahraní skontrolujte nastavenia témy, či ste správne nahrali vybranú tému do priečinka tém.
  Upozorňujeme, že nahraná zložka témy musí mať presne rovnaký názov (vrátane znakovej sady, ktorá je dôležitá na Unixových serveroch)
  ako je vybraná na stránke Nastavenie tém.<br/><br/>Ak ste pravidelný člen tejto stránky, prosím kontaktujte administrátora cez [SITE_EMAIL] e-mail a nahláste tento problém.";
@@ -295,6 +298,8 @@ $locale['global_409'] = "Tento účet bol z bezpečnostných dôvodov zabanovan�
 $locale['global_410'] = "Dôvod pre toto je: ";
 $locale['global_411'] = "Tento účet bol zrušený.";
 $locale['global_412'] = "Tento účet bol anonymizovaný, pravdepodobne kvôli nečinnosti.";
+$locale['global_413'] = "Užívateľské meno je dostupné";
+$locale['global_414'] = "Užívateľské meno nie je dostupné";
 // Flood control
 $locale['global_440'] = "Automatický BAN od kontroly pretečenia";
 $locale['global_441'] = "Váš účet na [SITENAME] bol zabanovaný";

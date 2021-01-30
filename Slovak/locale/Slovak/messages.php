@@ -128,6 +128,7 @@ $locale['627'] = "Chyba";
 $locale['628'] = "Súkromná správa sa nedá odoslať. Prijímateľova schránka je plná.";
 $locale['629'] = "Nemôžete presunúť označenú/é správu/y do vybratej zložky, pretože je plná.";
 $locale['630'] = " Limit správ";
+$locale['631'] = "Táto správa bola odoslaná automaticky botom a nevyžaduje žiadnu odpoveď.";
 
 $locale['700'] = "Doručená pošta používateľa je plná. Pokúste sa ho odstrániť alebo inovovať na stav -102 alebo -103";
 $locale['701'] = "ID odosielateľa neexistuje v databáze. Postup odstránený.";

@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Prosím, vyberte platnú tému";
 $locale['error_input_checkbox'] = "Prosím, začiarknite toto políčko";
 $locale['error_input_file'] = "Prosím, vyberte platný súbor";
 $locale['error_secure_file'] = "Nahraný súbor bol odmietnutý z dôvodu možnosti škodlivého zaťaženia.";
+$locale['error_input_login'] = "Nesprávne meno alebo heslo";
 // Admin Login
 $locale['cookie_title'] = "Vypršal časový limit relácie";
 $locale['cookie_description'] = "Neexistuje platné overovanie alebo vaša relácia pravdepodobne vypršala. Prosím, prihláste sa znova.";
 $locale['cookie_expired'] = "Súbor cookie administrácie vypršal. Prosím, prihláste sa znova.";
 $locale['password_invalid'] = "Nesprávne alebo neplatné heslo";
 $locale['password_invalid_description'] = "Zadané heslo bolo nesprávne. Prosím skúste to znova.";
+$locale['prefix_error'] = "Predvoľba kontaktu vyžaduje pozornosť.";
+$locale['contact_error'] = "Kontaktné číslo si vyžaduje pozornosť.";
 $locale['cookie_error'] = "Chyba súboru cookie";
 $locale['cookie_error_description'] = "Musíte povoliť súbory cookie prehliadača pre vstup do administrácie.";
 $locale['validate_title'] = "Môžete skontrolovať niečo!";

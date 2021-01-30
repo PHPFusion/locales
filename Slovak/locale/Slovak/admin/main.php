@@ -127,4 +127,5 @@ $locale['search_msg_102'] = 'Stránky sa nepodarilo načítať';
 $locale['search_msg_103'] = 'Hľadaný výraz je príliš krátky';
 $locale['search_msg_104'] = 'Neboli nájdené žiadne výsledky';
 
-$locale['new_update_avalaible'] = "K dispozícii je nová aktualizácia [LINK]PHP-Fusion v[VERSION][/LINK]. Aktualizujte prosím!";
+$locale['deprecated_section'] = 'Táto sekcia je zastaraná. Už ju neodporúčame a plánujeme ju čoskoro odstrániť.';
+$locale['new_update_avalaible'] = "K dispozícii je nová aktualizácia [LINK]PHPFusion v[VERSION][/LINK]. Aktualizujte prosím!";

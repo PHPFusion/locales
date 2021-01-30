@@ -157,5 +157,3 @@ Ak naozaj chcete zmeniť svoju e-mailovú adresu na túto, kliknite na nasleduj�
 [EMAIL_VERIFY_LINK]<br/>
 Poznámka: Ak chcete pokračovať, musíte sa prihlásiť.<br/>
 S pozdravom, [SITEUSERNAME]<br/>[SITENAME]";
-
-$locale['u210'] = "Reputácia";
