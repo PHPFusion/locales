@@ -1,18 +1,18 @@
 <?php
-$locale['setup_0000'] = "Инсталация на PHP-Fusion";
-$locale['setup_0002'] = "Добре дошли в инсталацията на PHP-Fusion";
-$locale['setup_0003'] = "Инсталаторът ще Ви напътства през стъпките нужни за инсталирането на PHP-Fusion CMS на Вашия сървър. Ако се нуждаете от допълнителна помощ, моля прочете нашата <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=208' target='_blank'>документация</a>.";
-$locale['setup_0005'] = " Прочетох и съм съгласен с <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>условията за ползване</a> на PHP-Fusion>";
-$locale['setup_0006'] = "PHP-Fusion 9 се нуждае от поне PHP 7.0. Погледнете <a href=\"https://www.phpfusion.com/infusions/wiki/documentation.php?page=215\">системните изисквания</a> за повече информация.";
+$locale['setup_0000'] = "Инсталация на PHPFusion";
+$locale['setup_0002'] = "Добре дошли в инсталацията на PHPFusion";
+$locale['setup_0003'] = "Инсталаторът ще Ви напътства през стъпките нужни за инсталирането на PHPFusion CMS на Вашия сървър. Ако се нуждаете от допълнителна помощ, моля прочете нашата <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=208' target='_blank'>документация</a>.";
+$locale['setup_0005'] = " Прочетох и съм съгласен с <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>условията за ползване</a> на PHPFusion>";
+$locale['setup_0006'] = "PHPFusion 9 се нуждае от поне PHP 7.0. Погледнете <a href=\"https://phpfusion.com/infusions/wiki/documentation.php?page=215\">системните изисквания</a> за повече информация.";
 $locale['setup_0007'] = "Системи с OPcache инсталиран трябва да имат <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> разрешен.";
-$locale['setup_5000'] = "За да използвате PHP-Fusion, трябва да се съгласите с условията за ползване</a>.";
+$locale['setup_5000'] = "За да използвате PHPFusion, трябва да се съгласите с условията за ползване</a>.";
 $locale['setup_0010'] = "Текуща версия - ";
 $locale['setup_0011'] = "bg";
 $locale['setup_0012'] = "utf-8";
 $locale['setup_0012a'] = "ltr";
-$locale['setup_0020'] = "PHP-Fusion обновление";
-$locale['setup_0022'] = "Добре дошли в PHP-Fusion система за обновление";
-$locale['setup_0023'] = "Системата ще Ви опъти в стъпките, нужни да обновите PHP-Fusion на Вашия сървър. Моля, следвайте тези стъпки и въвеждайте всяка нужна информация.";
+$locale['setup_0020'] = "PHPFusion обновление";
+$locale['setup_0022'] = "Добре дошли в PHPFusion система за обновление";
+$locale['setup_0023'] = "Системата ще Ви опъти в стъпките, нужни да обновите PHPFusion на Вашия сървър. Моля, следвайте тези стъпки и въвеждайте всяка нужна информация.";
 $locale['setup_0050'] = "Уеб сървър";
 $locale['setup_0051'] = "PHP версия";
 $locale['setup_0052'] = "PHP разширение";
@@ -27,11 +27,11 @@ $locale['setup_0104'] = "Конфигурация / Инсталация на б
 $locale['setup_0105'] = "Конфигурация на ядрото на системата";
 $locale['setup_0106'] = "Данни за основния администратор";
 $locale['setup_0107'] = "Финални настройки";
-$locale['setup_0109'] = "Минималната версия на Apache за PHP-Fusion, без mod_rewrite да е разрешен, е 2.2.16.";
+$locale['setup_0109'] = "Минималната версия на Apache за PHPFusion, без mod_rewrite да е разрешен, е 2.2.16.";
 $locale['setup_0110'] = "Поради настройките на Servertokens в httpd.confg, е невъзможно определянето на версията на Apache без mod_rewrite, минималните изисквания са 2.2.16.";
 $locale['setup_0112'] = "Phpinfo() функцията е спряна от съображение за сигурност. За да видите phpinfo() на сървъра, променете настройките на PHP или се свържете с администратора на сървъра.";
-$locale['setup_0113'] = "PHP инсталацията Ви е стара. PHP-Fusion се нуждае минимум от версия 5.5.21. PHP по-нови от 5.6.5 или 5.5.21 имат вградени защити от SQL инжекции за MySQL базите данни. Съватваме Ви да обновите.";
-$locale['setup_0114'] = "PHP-Fusion се нуждае да позволите разширенията на PHP от следния списък";
+$locale['setup_0113'] = "PHP инсталацията Ви е стара. PHPFusion се нуждае минимум от версия 5.5.21. PHP по-нови от 5.6.5 или 5.5.21 имат вградени защити от SQL инжекции за MySQL базите данни. Съватваме Ви да обновите.";
+$locale['setup_0114'] = "PHPFusion се нуждае да позволите разширенията на PHP от следния списък";
 $locale['setup_0115'] = "Разрешени";
 $locale['setup_0115a'] = "Не са разрешени";
 $locale['setup_0116'] = "PHP OPcode кеш подобрява скоростта на сайта Ви осезателно. <strong>Силно препоръчително е</strong> да имате <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> инсталирано на сървъра.";
@@ -61,8 +61,8 @@ $locale['setup_0143'] = "Написаната представка за табл
 $locale['setup_0144'] = "Диагностиката на базата данни е завършена";
 // Step 1
 $locale['setup_1000'] = "Моля изберете желания език:";
-$locale['setup_1001'] = "Свалете още преводи от from <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank'><strong>официалния сайт на PHP-Fusion</strong></a>";
-$locale['setup_1002'] = "Добре дошли в режим на възстановяване на PHP-Fusion 9.0.";
+$locale['setup_1001'] = "Свалете още преводи от from <a href='https://phpfusion.com/downloads.php#langpacks' target='_blank'><strong>официалния сайт на PHPFusion</strong></a>";
+$locale['setup_1002'] = "Добре дошли в режим на възстановяване на PHPFusion 9.0.";
 $locale['setup_1003'] = "Засякана е инсталирана вече система.<br/><br/>Моля изберете една от следните възможности, за да продължите.";
 $locale['setup_1004'] = "Нова инсталация";
 $locale['setup_1005'] = "Може да деинсталирате и изчистите базата си данни и да започнете нова инсталация отново.";
@@ -98,15 +98,15 @@ $locale['setup_1206'] = "Представка на таблицата:";
 $locale['setup_1207'] = "Представка на бисквитките:";
 $locale['setup_1208'] = "Разреши PDO?";
 // Step 4 - Database Setup
-$locale['setup_1210'] = "Грешки по време на инсталацията на PHP-Fusion. Моля рестартирайте инсталатора.";
-$locale['setup_1211'] = "Новата инсталация на PHP-Fusion е завършена. Продължете със следващата стъпка.";
+$locale['setup_1210'] = "Грешки по време на инсталацията на PHPFusion. Моля рестартирайте инсталатора.";
+$locale['setup_1211'] = "Новата инсталация на PHPFusion е завършена. Продължете със следващата стъпка.";
 $locale['setup_1212'] = "Конфифурация на сайт и супер администратор";
 $locale['setup_1213'] = "Информация за сайта";
 $locale['setup_1214'] = "Име на сайта";
-$locale['setup_1215'] = "PHP-Fusion Powered Website";
-$locale['setup_1216'] = "PHP-Fusion е лека система с отворен код за управление на съдържанието (CMS), написана на PHP.";
+$locale['setup_1215'] = "PHPFusion Powered Website";
+$locale['setup_1216'] = "PHPFusion е лека система с отворен код за управление на съдържанието (CMS), написана на PHP.";
 $locale['setup_1217'] = "Потребителят Ви е обновен. Моля, използвайте новите данни от сега нататък.";
-$locale['setup_1220'] = "Името на базата данни, която да изпълнява PHP-Fusion";
+$locale['setup_1220'] = "Името на базата данни, която да изпълнява PHPFusion";
 $locale['setup_1221'] = "MYSQL потребител";
 $locale['setup_1222'] = "...и MYSQL парола";
 $locale['setup_1223'] = "Прави много уникална и сигурна Вашата база данни";
@@ -254,7 +254,7 @@ $locale['setup_3507'] = "Модификации";
 $locale['setup_3508'] = "Филми";
 $locale['setup_3509'] = "Мрежа";
 $locale['setup_3510'] = "Новини";
-$locale['setup_3511'] = "PHP-Fusion";
+$locale['setup_3511'] = "PHPFusion";
 $locale['setup_3512'] = "Сигурност";
 $locale['setup_3513'] = "Софтуер";
 $locale['setup_3514'] = "Теми";
@@ -306,9 +306,9 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Добре дошли във Вашия сайт";
 // Final message
 $locale['setup_1700'] = "Инсталацията приключи";
-$locale['setup_1701'] = "PHP-Fusion 9.0 е готов за използване. Натиснете край, за да пренапишете файла config_temp.php на config.php<br/>";
+$locale['setup_1701'] = "PHPFusion 9.0 е готов за използване. Натиснете край, за да пренапишете файла config_temp.php на config.php<br/>";
 $locale['setup_1702'] = "<strong>Забележка: След като влезете в сайта си изтрийте папката /install и променете chmod на config.php на 0644 поради съображения за сигурност.</strong>";
-$locale['setup_1703'] = "Благодарим, че избрахте PHP-Fusion.";
+$locale['setup_1703'] = "Благодарим, че избрахте PHPFusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";

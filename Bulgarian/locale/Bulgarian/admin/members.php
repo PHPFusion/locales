@@ -74,6 +74,7 @@ $locale['ME_504'] = 'Бан от съображение за сигурност'
 $locale['ME_505'] = 'Спиране';
 $locale['ME_506'] = 'Анонимизиране';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'баннат';

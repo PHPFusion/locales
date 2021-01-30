@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Локация";
 $locale['fields_0513'] = "Номер";
 $locale['fields_0514'] = "Електронна поща";
 $locale['fields_0515'] = "Интернет страница";
+$locale['fields_0516'] = "Contact Number";
 
 $locale['fields_0600'] = "Има %s подкатегории в тази категория";
 $locale['fields_0601'] = "Има %s полета в тази категория";

@@ -175,5 +175,3 @@ $locale['u203'] = "Здравейте [USER_NAME],
 [SITEUSERNAME]
 
 [SITENAME]";
-
-$locale['u210'] = "Репутация на потребителя";

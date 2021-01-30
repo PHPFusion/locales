@@ -1,5 +1,5 @@
 <?php
-$locale['uf_phpfusion'] = "PHP-Fusion";
-$locale['uf_phpfusion_id'] = "PHP-Fusion потребител";
-$locale['uf_phpfusion_desc'] = "PHP-Fusion профил в официалния сайт";
-$locale['uf_phpfusion_error'] = "PHP-Fusion потребителят не може да бъде оставен празен.";
+$locale['uf_phpfusion'] = "PHPFusion";
+$locale['uf_phpfusion_id'] = "PHPFusion потребител";
+$locale['uf_phpfusion_desc'] = "PHPFusion профил в официалния сайт";
+$locale['uf_phpfusion_error'] = "PHPFusion потребителят не може да бъде оставен празен.";

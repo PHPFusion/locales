@@ -9,10 +9,7 @@ $locale['select2'] = "bg"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "bg"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "bg"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "bg-bg"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "bg"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|януари|февруари|март|април|май|юни|юли|август|септември|октомври|ноември|декември";
@@ -196,6 +193,7 @@ $locale['global_126'] = "съобщение";
 $locale['global_127'] = "съобщения";
 $locale['global_128'] = "публикация";
 $locale['global_129'] = "публикации";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Вход";
 $locale['UM061'] = "Потребител";
@@ -230,10 +228,12 @@ $locale['UM102'] = "Публикувай ЧЗВ";
 $locale['UM096'] = "Добре дошли: ";
 $locale['UM097'] = "Персонално меню";
 $locale['UM101'] = "Смяна на езиците";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "Входяща кутия :";
 $locale['UM099'] = "Изходяща кутия :";
 $locale['UM100'] = "Архив на ЛС :";
+
 // Keywords and Meta
 $locale['tags'] = "Тагове";
 // Captcha
@@ -252,6 +252,9 @@ $locale['global_180'] = "Администрация - начало";
 $locale['global_181'] = "Връщане към сайта";
 $locale['global_182'] = "Административната парола е грешна.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -277,7 +280,7 @@ $locale['global_204'] = "Форум";
 $locale['global_210'] = "Пропусни до съдържанието";
 $locale['global_300'] = "няма намерена тема";
 $locale['global_301'] = "Съжаляване, но страницата не може да бъде показана. Поради някои обстоятелства темата не може да бъде намерена.
- Ако сте администратора на сайта, моля използвайте FTP клиент, за да качите каквато и да е тема направена за PHP-Fusion 9 в папката с теми.
+ Ако сте администратора на сайта, моля използвайте FTP клиент, за да качите каквато и да е тема направена за PHPFusion 9 в папката с теми.
  След като качите темата, моля проверете дали избраната тема е добавена коректно в папката с теми.
  Моля забележете, че качената тема трябва да има същото име (включително и главни и малки букви, което е важно за Unix сървърите),
  като избраната в настройките на сайта.
@@ -302,6 +305,8 @@ $locale['global_409'] = "Този потребител е баннат от съ
 $locale['global_410'] = "Причината за това: ";
 $locale['global_411'] = "Този потребител е бил прекратен.";
 $locale['global_412'] = "Този потребител е направен анонимен, може би поради неактивност.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Автоматичен бан от флууд контролиране";
 $locale['global_441'] = "Потребителят Ви в [SITENAME] е баннат";
