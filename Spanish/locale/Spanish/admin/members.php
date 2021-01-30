@@ -74,6 +74,7 @@ $locale['ME_504'] = 'Prohibición de seguridad';
 $locale['ME_505'] = 'Cancelar';
 $locale['ME_506'] = 'Anonimizar';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'prohibido';
