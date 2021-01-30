@@ -100,6 +100,7 @@ $locale['ME_504'] = 'Biztonságilag kitiltás';
 $locale['ME_505'] = 'Eltávolítás';
 $locale['ME_506'] = 'Anonimizálás';
 $locale['ME_507'] = 'Kikapcsolás';
+$locale['ME_508'] = 'Bejelentkezés felhasználóként';
 
 // a_message keys
 $locale['ME_550'] = 'bannolása';

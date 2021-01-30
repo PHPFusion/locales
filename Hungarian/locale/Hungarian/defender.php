@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Kérem válaszon felületet";
 $locale['error_input_checkbox'] = "Kérjük, jelölje be a jelölőnégyzetet";
 $locale['error_input_file'] = "Kérem válaszon filét";
 $locale['error_secure_file'] = "A feltöltött fájl elutasításra került a rosszindulatú tartalom miatt.";
+$locale['error_input_login'] = "Hibás felhasználónév vagy jelszó";
 // Admin Login
 $locale['cookie_title'] = "A Session lejárt";
 $locale['cookie_description'] = "Nincs érvényesítve vagy a session-öd lejárt. Kérlek jelentkezz be újra a folytatáshoz.";
 $locale['cookie_expired'] = "Az oldal admin sütije lejárt. Kérlek jelentkezz be újból.";
 $locale['password_invalid'] = "Hibás vagy érvénytelen jelszó";
 $locale['password_invalid_description'] = "A jelszó nem volt megfelelő. Kérlek próbáld újra.";
+$locale['prefix_error'] = "A kapcsolat előtag érvénytelen.";
+$locale['contact_error'] = "A kapcsolattartási szám érvénytelen.";
 $locale['cookie_error'] = "Cookie Hiba";
 $locale['cookie_error_description'] = "Engedélyezd a sütiket (cookies) az adminisztrációhoz.";
 $locale['validate_title'] = "Valamit ellenőrizned kellene!";

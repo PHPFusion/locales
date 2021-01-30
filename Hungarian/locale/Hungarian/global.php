@@ -9,10 +9,7 @@ $locale['select2'] = "hu"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "hu"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "hu"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "hu"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "YYYY-M-DD H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "Y-m-d H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "hu"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%b %d";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|január|február|március|április|május|június|július|augusztus|szeptember|október|november|december";
@@ -196,6 +193,7 @@ $locale['global_126'] = "üzeneted van";
 $locale['global_127'] = "üzeneted van";
 $locale['global_128'] = "beküldés érkezett";
 $locale['global_129'] = "beküldés érkezett";
+$locale["global_130"] = "A(z) %s panel nem található";
 // User Menu
 $locale['UM060'] = "Bejelentkezés";
 $locale['UM061'] = "Felhasználónév";
@@ -229,10 +227,12 @@ $locale['UM102'] = "GyIK küldése";
 $locale['UM096'] = "Üdvözöllek: ";
 $locale['UM097'] = "Személyes menü";
 $locale['UM101'] = "Nyelv váltása";
+$locale['UM103'] = "Kijelentkezés Felhasználóként";
 // Gauges
 $locale['UM098'] = "PM Beérkezett:";
 $locale['UM099'] = "PM Kimenő:";
 $locale['UM100'] = "PM Archivált:";
+
 // Keywords and Meta
 $locale['tags'] = "Jelölések";
 // Captcha
@@ -251,6 +251,9 @@ $locale['global_180'] = "Adminisztrátori főmenü";
 $locale['global_181'] = "Főoldal";
 $locale['global_182'] = "Megjegyzés: az admin jelszó nincs megadva, vagy hibás.";
 $locale['global_183'] = "A bejelentkezési session lejárt. Kérjük, jelentkezz be újra.";
+$locale['global_184'] = "Most %s néven van bejelentkezve";
+$locale['global_185'] = "Visszaváltott a saját fiókjára.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -275,7 +278,7 @@ $locale['global_204'] = "Fórum";
 //Themes
 $locale['global_210'] = "Ugrás az oldal tartalmához";
 $locale['global_300'] = "nem található felület";
-$locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem található egyetlen theme (felület) sem. Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver <em>themes/</em> mappájába bármilyen <em>PHP-Fusion v7</em> kompatibilis készült theme-t. Feltöltés után ellenőrizd az <em>Alap beállítások</em> admin oldalon, hogy az általad választott felület szerepel-e a szerver <em>themes/</em> mappájában. Ha igen, és mégsem működik, akkor ellenőrizd, hogy nincsenek-e különleges karakterek benne, illetve ügyelj arra, hogy a szerverek többsége megkülönbözteti a kis- és Nagybetűket!<br /><br />Ha csak egy látogató vagy az oldalon, kérjük lépj kapcsolatba az oldal adminisztrátorával ([SITE_EMAIL]) és jelentsd neki a hibát.";
+$locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem található egyetlen theme (felület) sem. Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver <em>themes/</em> mappájába bármilyen <em>PHPFusion v7</em> kompatibilis készült theme-t. Feltöltés után ellenőrizd az <em>Alap beállítások</em> admin oldalon, hogy az általad választott felület szerepel-e a szerver <em>themes/</em> mappájában. Ha igen, és mégsem működik, akkor ellenőrizd, hogy nincsenek-e különleges karakterek benne, illetve ügyelj arra, hogy a szerverek többsége megkülönbözteti a kis- és Nagybetűket!<br /><br />Ha csak egy látogató vagy az oldalon, kérjük lépj kapcsolatba az oldal adminisztrátorával ([SITE_EMAIL]) és jelentsd neki a hibát.";
 $locale['global_302'] = "A Rendszer-beállítások - Alap beállítások menüpontja alatt beállított theme nem található vagy hibás!";
 // JavaScript Not Enabled
 $locale['global_303'] = "Hiba történt! Nem működik a <strong>JavaScript</strong>!<br />
@@ -295,6 +298,8 @@ $locale['global_409'] = "Ez a felhasználó biztonsági okokból ki lett tiltva.
 $locale['global_410'] = "Indoklás: ";
 $locale['global_411'] = "Ez a felhasználó el lett távolítva.";
 $locale['global_412'] = "Ez a felhasználó anonimizálva lett, valószínűleg inaktivitás miatt.";
+$locale['global_413'] = "A felhasználó név szabad";
+$locale['global_414'] = "A felhasználó név foglalt";
 // Flood control
 $locale['global_440'] = "Flood miatti automatikus kitiltás";
 $locale['global_441'] = "Felhasználóneved kitiltva - [SITENAME]";

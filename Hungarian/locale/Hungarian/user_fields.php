@@ -178,5 +178,3 @@ Megjegyzés: a link használata előtt jelentkezz be!<br />
 [SITEUSERNAME]<br />
 
 [SITENAME]";
-
-$locale['u210'] = "Felhasználói Hírnév";
