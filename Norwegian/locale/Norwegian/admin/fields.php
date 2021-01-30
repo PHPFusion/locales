@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Plassering";
 $locale['fields_0513'] = "Antall";
 $locale['fields_0514'] = "E-post";
 $locale['fields_0515'] = "Nettadresse";
+$locale['fields_0516'] = "Kontaktnummer";
 
 $locale['fields_0600'] = "Det er %s under-kategori(er) i denne kategorien";
 $locale['fields_0601'] = "Det er %s felt(er) i denne kategorien";

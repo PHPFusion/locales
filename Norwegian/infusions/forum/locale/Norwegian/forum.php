@@ -19,17 +19,17 @@ $locale['forum_0010'] = "Forum Hovedside";
 $locale['forum_0011'] = "Mine Innlegg";
 $locale['forum_0012'] = "Siste Tråd";
 $locale['forum_0013'] = "Forum Kategorier";
-$locale['forum_0014'] = "Reputation";
-$locale['forum_0015'] = "Forum Overview";
-$locale['forum_0016'] = "Activity";
-$locale['forum_0017'] = "People";
+$locale['forum_0014'] = "Omdømme";
+$locale['forum_0015'] = "Forum Oversikt";
+$locale['forum_0016'] = "Aktivitet";
+$locale['forum_0017'] = "Personer";
 $locale['forum_0018'] = "Person";
-$locale['forum_0019'] = "There are no sub-forums available";
+$locale['forum_0019'] = "Det er ingen under-forum tilgjengelig";
 
-$locale['forum_0020'] = "Last Activity";
-$locale['forum_0021'] = "on %s by %s";
+$locale['forum_0020'] = "Siste aktivitet";
+$locale['forum_0021'] = "på %s av %s";
 $locale['forum_0022'] = "Responded in";
-$locale['forum_0023'] = "Re:";
+$locale['forum_0023'] = "Sv:";
 $locale['forum_0024'] = "See the full discussion posts";
 
 
@@ -41,7 +41,7 @@ $locale['forum_0054'] = "Svar";
 $locale['forum_0055'] = "Side: ";
 $locale['forum_0056'] = "Ingen Tråd har blitt startet";
 $locale['forum_0057'] = "Start en Ny Tråd";
-$locale['forum_0058'] = "Ask a Question";
+$locale['forum_0058'] = "Still et spørsmål";
 
 $locale['forum_0080'] = "Velg Alle";
 $locale['forum_0081'] = "Fravelg Alle";

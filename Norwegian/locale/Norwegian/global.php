@@ -9,10 +9,7 @@ $locale['select2'] = "nb"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "nb"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "no"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "no"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "no"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januar|Februar|Mars|April|Mai|Juni|July|August|September|Oktober|November|Desember";
@@ -196,6 +193,7 @@ $locale['global_126'] = "ny melding";
 $locale['global_127'] = "nye meldinger";
 $locale['global_128'] = "brukerforslag";
 $locale['global_129'] = "brukerforslag";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Logg Inn";
 $locale['UM061'] = "Brukernavn";
@@ -229,10 +227,12 @@ $locale['UM102'] = "Submit FAQ";
 $locale['UM096'] = "Velkommen: ";
 $locale['UM097'] = "Personlig meny";
 $locale['UM101'] = "Bytt Språk";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "PM Innboks :";
 $locale['UM099'] = "PM Utboks :";
 $locale['UM100'] = "PM Arkiv :";
+
 // Keywords and Meta
 $locale['tags'] = "Merker";
 // Captcha
@@ -251,6 +251,9 @@ $locale['global_180'] = "Administrasjon";
 $locale['global_181'] = "Gå tilbake til siden";
 $locale['global_182'] = "Admin Passord ikke skrevet inn eller er feil.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -275,7 +278,7 @@ $locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Hopp til innhold";
 $locale['global_300'] = "tema ikke funnet";
-$locale['global_301'] = "Vi beklager, men denne siden kan ikke vises. Av en eller annen grunn finnes det ikke noe tema for siden. Hvis du er administrator for siden bruk din FTP klient og last opp et tema laget for PHP-Fusion 9 til mappen Themes. Etter opplasting sjekk Tema Innstillinger for å se om det valgte temaet ble riktig lastet opp til temaer katalogen. Hvis så er tilfelle - sjekk at opplastet tema har samme navn (inkludert store og små bokstaver; viktig på UNIX baserte servere) som valgt på sidens Hovedinnstillinger.
+$locale['global_301'] = "Vi beklager, men denne siden kan ikke vises. Av en eller annen grunn finnes det ikke noe tema for siden. Hvis du er administrator for siden bruk din FTP klient og last opp et tema laget for PHPFusion 9 til mappen Themes. Etter opplasting sjekk Tema Innstillinger for å se om det valgte temaet ble riktig lastet opp til temaer katalogen. Hvis så er tilfelle - sjekk at opplastet tema har samme navn (inkludert store og små bokstaver; viktig på UNIX baserte servere) som valgt på sidens Hovedinnstillinger.
 
  Hvis du er en vanlig bruker av siden, vennligst kontakt sidens administrator via [SITE_EMAIL] E-post og fortell om problemet.";
 $locale['global_302'] = "Det tema, som du har valgt under Hoved Innstillingene eksisterer ikke eller er ufullstendig!";
@@ -296,6 +299,8 @@ $locale['global_409'] = "Kontoen har blitt utestengt av sikkerhetsgrunner.";
 $locale['global_410'] = "Grunnen til dette er: ";
 $locale['global_411'] = "Kontoen har blitt kanselert.";
 $locale['global_412'] = "Denne konto har blitt anonymisert, sannsynligvis på grunn av inaktivitet.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatisk utestengelse av Flood Kontroll";
 $locale['global_441'] = "Your account on [SITENAME] has been banned";

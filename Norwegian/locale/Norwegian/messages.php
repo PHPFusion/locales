@@ -128,6 +128,7 @@ $locale['627'] = "Feil";
 $locale['628'] = "Kunne ikke sende Privat Melding. Mottagers innboks er full.";
 $locale['629'] = "Du kan ikke flytte valgte melding(er) til den angitte mappen. Den maksimale grensen for antall meldinger vil da overskrides.";
 $locale['630'] = " Grense for antall meldinger";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
 $locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";

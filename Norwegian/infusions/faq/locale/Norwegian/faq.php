@@ -50,17 +50,17 @@ $locale['faq_0125'] = "Velg synlighet";
 $locale['faq_0128'] = "Velg språk";
 $locale['faq_0129'] = "Alle språk";
 $locale['faq_0130'] = "Velg Forfatter";
-$locale['faq_0131'] = "All Authors";
+$locale['faq_0131'] = "Alle forfattere";
 $locale['faq_0132'] = "Elementer per Side";
 $locale['faq_0200'] = "ID";
 $locale['faq_0202'] = "Innlevering";
 $locale['faq_0203'] = "Dato";
 $locale['faq_0204'] = "Valg";
-$locale['faq_0205'] = "Review Submission";
+$locale['faq_0205'] = "Gjennomgå innsending";
 $locale['faq_0251'] = "Svar";
-$locale['faq_0252'] = "Category";
+$locale['faq_0252'] = "Kategori";
 $locale['faq_0253'] = "Svaret selv.";
-$locale['faq_0255'] = "Published";
+$locale['faq_0255'] = "Publisert";
 $locale['faq_0256'] = "Aktiver automatiske linjeskift";
 $locale['faq_0257'] = "Oppdater Publikasjons Dato";
 $locale['faq_0258'] = "Flere innstillinger";
@@ -73,15 +73,15 @@ Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
 $locale['faq_0350'] = "Innleveringen over ble sendt av {%SUBMISSION_AUTHOR%}.";
 $locale['faq_0351'] = "Publiseringsdato: {%SUBMISSION_TIME%} - {%SUBMISSION_DATE%}.";
 $locale['faq_0400'] = "Innstillinger for FAQ-systemet.";
-$locale['faq_0900'] = "Submit FAQ";
+$locale['faq_0900'] = "Sende inn FAQ";
 $locale['faq_0910'] = "Oppdatering av spørmål og svar var vellykket.";
 $locale['faq_0911'] = "Takk for ditt bidrag.";
 $locale['faq_0912'] = "Send inn andre ofte stilte spørsmål";
 $locale['faq_0913'] = "Tilbake til [SITENAME]";
-$locale['faq_0920'] = "Use the following form to submit an FAQ. Your submission will be reviewed by an
-Administrator. [SITENAME] reserves the right to amend or edit any submission. FAQ
-should be applicable to the content of this site. Unsuitable submissions will be deleted.";
-$locale['faq_0921'] = "You must login to submit a FAQ.";
-$locale['faq_0922'] = "We do not accept new FAQs Submissions at the Moment.";
-$locale['faq_0923'] = "You cannot submit a FAQ, because there are no FAQ category defined.";
-$locale['faq_submit'] = "%s FAQs";
+$locale['faq_0920'] = "Bruk følgende skjema for å sende inn en FAQ. Ditt svar vil bli gjennomgått av en
+administrator. [SITENAME] forbeholder seg retten til å endre eller redigere enhver innlevering. FAQ
+skal gjelde for innholdet på dette nettstedet. Uegnede innleveringer vil bli slettet.";
+$locale['faq_0921'] = "Du må logge inn for å sende inn FAQ.";
+$locale['faq_0922'] = "Vi mottar ikke nye FAQ eller artikkel innsendinger for øyeblikket.";
+$locale['faq_0923'] = "Kan ikke opprette FAQ, kategori for bestemt FAQ forespørsel er ikke definert.";
+$locale['faq_submit'] = "%s ofte stilte spørsmål";

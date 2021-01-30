@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Vennligst velg et godkjent tema";
 $locale['error_input_checkbox'] = "Vennligst kryss av her";
 $locale['error_input_file'] = "Vennligst velg en gyldig fil";
 $locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Din økt fikk tidsavbrudd";
 $locale['cookie_description'] = "Det er ingen gyldig godkjenning eller så har din økt fått tidsavbrudd. Vennligst logg inn igjen.";
 $locale['cookie_expired'] = "Nettstedet admin cookie er utløpt. Vennligst logg inn igjen.";
 $locale['password_invalid'] = "Feil eller ugyldig passord";
 $locale['password_invalid_description'] = "Passordet var feil. Vennligst prøv igjen.";
+$locale['prefix_error'] = "Kontaktprefiks må kontrolleres.";
+$locale['contact_error'] = "Kontaktnummeret må kontrolleres.";
 $locale['cookie_error'] = "Feil i forbindelse med cookie";
 $locale['cookie_error_description'] = "Du må aktivere cookie i nettleser for å entre administrasjonen.";
 $locale['validate_title'] = "Det er mulig du må sjekke noe!";
