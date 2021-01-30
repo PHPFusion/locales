@@ -125,6 +125,7 @@ $locale['fields_0512'] = "Vieta";
 $locale['fields_0513'] = "Numeris";
 $locale['fields_0514'] = "El. paštas";
 $locale['fields_0515'] = "Nuoroda";
+$locale['fields_0516'] = "Contact Number";
 
 $locale['fields_0600'] = "Šioje kategorijoje yra %s subkategorija(-ių)";
 $locale['fields_0601'] = "Šioje kategorijoje yra %s laukelis(-ių)";

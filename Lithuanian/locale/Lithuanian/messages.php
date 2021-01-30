@@ -128,6 +128,7 @@ $locale['627'] = "Klaida";
 $locale['628'] = "Neįmanoma pasiųsti asmeninės žinutės. Vartotojo gavimo dėžutė pilna.";
 $locale['629'] = "Jūs negalite perkelti pasirinktų žinučių į direktorijų, kadangi pasiektas leistinas limitas.";
 $locale['630'] = " Žinučių limitas";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 
 $locale['700'] = "Asmeninių žinučių dėžutė pilna. Bandykite pratrinti arba pakelti iki 102 arba 103 lygio";
 $locale['701'] = "Siuntėjo ID neegzistuoja duom. bazėje. Veiksmas nutrauktas.";

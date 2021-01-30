@@ -74,6 +74,7 @@ $locale['ME_504'] = 'Blokavimas dėl saugumo';
 $locale['ME_505'] = 'Atšaukti';
 $locale['ME_506'] = 'Anonimizuoti';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'užblokuotas';

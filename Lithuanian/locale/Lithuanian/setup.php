@@ -1,18 +1,18 @@
 <?php
-$locale['setup_0000'] = "PHP-Fusion įdiegimas";
-$locale['setup_0002'] = "Sveiki atvykę į PHP-Fusion įdiegimą";
-$locale['setup_0003'] = "Įdiegimo gidas Jums viską paaiškins ir parodys kiekvieną žingsnį, kurio reikės sėkmingam PHP-Fusion TVS įdiegimui į serverį. Jeigu reikės didesnės pagalbos, visada galite paskaityti <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page=216' target='_blank'>Sistemos įdiegimo dokumentaciją</a> arba kreiptis į vietinę PHP-Fusion bendruomenę <a class='strong' href='http://www.phpfusion-lt.com/' target='_blank'>PHP-Fusion Lietuva</a>.";
-$locale['setup_0005'] = " Perskaičiau ir sutinku su PHP-Fusion <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>";
-$locale['setup_0006'] = "PHP-Fusion 9 veikimui būtina bent PHP versija 7.0. Paskaitykite <a href=\"https://www.phpfusion.com/infusions/wiki/documentation.php?page=215\">sistemos reikalavimus (anglų k.)</a> norėdami gauti daugiau informacijos.";
+$locale['setup_0000'] = "PHPFusion įdiegimas";
+$locale['setup_0002'] = "Sveiki atvykę į PHPFusion įdiegimą";
+$locale['setup_0003'] = "Įdiegimo gidas Jums viską paaiškins ir parodys kiekvieną žingsnį, kurio reikės sėkmingam PHPFusion TVS įdiegimui į serverį. Jeigu reikės didesnės pagalbos, visada galite paskaityti <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page_is=216' target='_blank'>Sistemos įdiegimo dokumentaciją</a> arba kreiptis į vietinę PHPFusion bendruomenę <a class='strong' href='http://www.phpfusion-lt.com/' target='_blank'>PHPFusion Lietuva</a>.";
+$locale['setup_0005'] = " Perskaičiau ir sutinku su PHPFusion <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>naudojimo taisyklėmis ir sąlygomis</a>";
+$locale['setup_0006'] = "PHPFusion 9 veikimui būtina bent PHP versija 7.0. Paskaitykite <a href=\"https://phpfusion.com/infusions/wiki/documentation.php?page_is=215\">sistemos reikalavimus (anglų k.)</a> norėdami gauti daugiau informacijos.";
 $locale['setup_0007'] = "Sistemos su instaliuota OPcache privalo turėti <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> įjungtą.";
-$locale['setup_5000'] = "Norėdami naudotis PHP-Fusion, turite perskaityti ir sutikti su sąlygomis</a>.";
+$locale['setup_5000'] = "Norėdami naudotis PHPFusion, turite perskaityti ir sutikti su sąlygomis</a>.";
 $locale['setup_0010'] = "Dabartinė versija - ";
 $locale['setup_0011'] = "lt";
 $locale['setup_0012'] = "utf-8";
 $locale['setup_0012a'] = "ltr";
-$locale['setup_0020'] = "PHP-Fusion atnaujinimas";
-$locale['setup_0022'] = "Sveiki atvykę į PHP-Fusion atnaujinimų tarnybą";
-$locale['setup_0023'] = "Šo tarnyba Jums padės atnaujinti PHP-Fusion sistemą Jūsų serveryje. Prašome sekti šiuos žingsnius ir patikrinkite kiekvieną punktą.";
+$locale['setup_0020'] = "PHPFusion atnaujinimas";
+$locale['setup_0022'] = "Sveiki atvykę į PHPFusion atnaujinimų tarnybą";
+$locale['setup_0023'] = "Šo tarnyba Jums padės atnaujinti PHPFusion sistemą Jūsų serveryje. Prašome sekti šiuos žingsnius ir patikrinkite kiekvieną punktą.";
 $locale['setup_0050'] = "Tinklapio serveris";
 $locale['setup_0051'] = "PHP versija";
 $locale['setup_0052'] = "PHP išplėtimas";
@@ -27,11 +27,11 @@ $locale['setup_0104'] = "Konfiguracijos / duom. bazės nustatymai";
 $locale['setup_0105'] = "Sistemos konfigūracija";
 $locale['setup_0106'] = "Pirminės administratoriaus detalės";
 $locale['setup_0107'] = "Paskutiniai nustatymai";
-$locale['setup_0109'] = "Minimali privaloma Apache versija PHP-Fusion veikimui be įjungto mod_rewrite yra 2.2.16.";
+$locale['setup_0109'] = "Minimali privaloma Apache versija PHPFusion veikimui be įjungto mod_rewrite yra 2.2.16.";
 $locale['setup_0110'] = "Dėl Servertokens nustatymų faile httpd.confg, neįmanoma nustatyti Apache versijos be mod_rewrite, reikalinga minimali versija yra 2.2.16.";
 $locale['setup_0112'] = "Funkcija phpinfo() buvo išjungta dėl saugumo. Norėdami pamatyti savo serverio phpinfo() informaciją, pakeiskite savo PHP nustatymus arba susisiekite su serverio administratoriumi.";
-$locale['setup_0113'] = "Jūsų PHP instaliacija yra per sena. PHP-Fusion veikimui reikia bent versijos nr. 5.5.21. PHP versijos, aukštesnės nei 5.6.5 ar 5.5.21, turi įdiegtą SQL injekcijos apsaugą MySQL duomenų bazėms. Rekomenduojame atsinaujinti.";
-$locale['setup_0114'] = "PHP-Fusion reikalauja įjungti PHP išplėtimą šiame sąraše";
+$locale['setup_0113'] = "Jūsų PHP instaliacija yra per sena. PHPFusion veikimui reikia bent versijos nr. 5.5.21. PHP versijos, aukštesnės nei 5.6.5 ar 5.5.21, turi įdiegtą SQL injekcijos apsaugą MySQL duomenų bazėms. Rekomenduojame atsinaujinti.";
+$locale['setup_0114'] = "PHPFusion reikalauja įjungti PHP išplėtimą šiame sąraše";
 $locale['setup_0115'] = "Įjungta";
 $locale['setup_0115a'] = "Išjungta";
 $locale['setup_0116'] = "PHP OPcode kešavimas gali smarkiai padidinti tinklalapio našumą. <strong>Stipriai rekomenduojame</strong> instaliuoti <a href='http://php.net/manual/opcache.installation.php' target='_blank'>OPcache</a> į serverį.";
@@ -61,8 +61,8 @@ $locale['setup_0143'] = "The specified table prefix is already in use and is run
 $locale['setup_0144'] = "Duomenų bazės diagnostika baigta";
 // Step 1
 $locale['setup_1000'] = "Prašome pasirinkti reikiamą kalbą:";
-$locale['setup_1001'] = "Parsisiųskite daugiau kalbų iš <a href='https://www.phpfusion.com/downloads.php#langpacks' target='_blank'><strong>PHP-Fusion Official Support Site</strong></a>";
-$locale['setup_1002'] = "Sveiki atvykę į PHP-Fusion 9.0 Atstatymo režimą.";
+$locale['setup_1001'] = "Parsisiųskite daugiau kalbų iš <a href='https://phpfusion.com/downloads.php#langpacks' target='_blank'><strong>PHPFusion Official Support Site</strong></a>";
+$locale['setup_1002'] = "Sveiki atvykę į PHPFusion 9.0 Atstatymo režimą.";
 $locale['setup_1003'] = "Nustatėme, kad jau yra įdiegta sistema.<br /><br />Prašome pasirinkti vieną iš žemiau esančių punktų.";
 $locale['setup_1004'] = "Švarus įdiegimas";
 $locale['setup_1005'] = "Galite išdiegti sistemą ir išvalyti duomenų bazę bei įdiegti sistemą švariai iš naujo.";
@@ -98,15 +98,15 @@ $locale['setup_1206'] = "Lentelių priesaga:";
 $locale['setup_1207'] = "Sausainėlių priesaga:";
 $locale['setup_1208'] = "Duomenų bazės tvarkyklė";
 // Step 4 - Database Setup
-$locale['setup_1210'] = "PHP-Fusion instaliacijos klaidos. Prašome perkrauti.";
-$locale['setup_1211'] = "Nauja PHP-Fusion instaliacija baigta. Prašome tęsti toliau.";
+$locale['setup_1210'] = "PHPFusion instaliacijos klaidos. Prašome perkrauti.";
+$locale['setup_1211'] = "Nauja PHPFusion instaliacija baigta. Prašome tęsti toliau.";
 $locale['setup_1212'] = "Tinklapio ir vyr. administratoriaus konfigūracija";
 $locale['setup_1213'] = "Tinklapio informacijos detalės";
 $locale['setup_1214'] = "Tinklapio pavadinimas";
-$locale['setup_1215'] = "PHP-Fusion Powered Website";
-$locale['setup_1216'] = "PHP-Fusion is a lightweight open source content management system (CMS) written in PHP.";
+$locale['setup_1215'] = "PHPFusion Powered Website";
+$locale['setup_1216'] = "PHPFusion is a lightweight open source content management system (CMS) written in PHP.";
 $locale['setup_1217'] = "Vartotojas atnaujintas. Nuo šiol junkitės su naujais duomenimis.";
-$locale['setup_1220'] = "Duomenų bazės, skirtos PHP-Fusion, pavadinimas";
+$locale['setup_1220'] = "Duomenų bazės, skirtos PHPFusion, pavadinimas";
 $locale['setup_1221'] = "Jūsų MYSQL vartotojo vardas";
 $locale['setup_1222'] = "...ir MYSQL slaptažodis";
 $locale['setup_1223'] = "Sugalvokite kažką unikalaus, kad būtų saugiau";
@@ -133,12 +133,12 @@ $locale['setup_1512'] = "Tinklapio kalbų instaliacijos:";
 $locale['setup_1513'] = "Tinklapio savininko vardas";
 // Progress Reports
 $locale['setup_1600'] = "Diegimas baigtas.";
-$locale['setup_1601'] = "PHP-Fusion 9.0 paruošta naudojimui. Paspauskite Baigti, kad būtų perrašytas config_temp.php failas į config.php.<br />";
+$locale['setup_1601'] = "PHPFusion 9.0 paruošta naudojimui. Paspauskite Baigti, kad būtų perrašytas config_temp.php failas į config.php.<br />";
 $locale['setup_1602'] = "<strong>Pastaba: Prieš įeidami į tinklapį būtinai pašalinkite visą /install aplanką iš serverio ir pakeiskite config.php failo CHMOD teises atgal į 0644 dėl saugumo.</strong>";
-$locale['setup_1603'] = "Dėkojame, kad renkatės PHP-Fusion.<br /><br />
-Jeigu kils kokių nors klausimų susijusių su PHP-Fusion sistema,
+$locale['setup_1603'] = "Dėkojame, kad renkatės PHPFusion.<br /><br />
+Jeigu kils kokių nors klausimų susijusių su PHPFusion sistema,
 visapusiškos pagalbos galite sulaukti apsilankę Lietuvos
-PHP-Fusion pagalbos tinklapiuose:<br /><br />
+PHPFusion pagalbos tinklapiuose:<br /><br />
 <a href='http://www.phpfusion-lt.com' target='_blank'>PHPFusion-LT.com</a> - Pagrindinis Lietuvos Php-Fusion pagalbos tinklapis<br />
 <a href='http://modai.phpfusion-lt.com' target='_blank'>Modai.PHPFusion-LT.com</a> - Lietuvos Php-Fusion modifikacijų tinklapis<br />
 <a href='http://themes.phpfusion-lt.com' target='_blank'>Themes.PHPFusion-LT.com</a> - Lietuvos Php-Fusion dizainų tinklapis";
@@ -260,7 +260,7 @@ $locale['setup_3507'] = "Modifikacijos";
 $locale['setup_3508'] = "Filmai";
 $locale['setup_3509'] = "Internetas";
 $locale['setup_3510'] = "Naujienos";
-$locale['setup_3511'] = "PHP-Fusion";
+$locale['setup_3511'] = "PHPFusion";
 $locale['setup_3512'] = "Saugumas";
 $locale['setup_3513'] = "Programinė įranga";
 $locale['setup_3514'] = "Dizainai";
@@ -312,9 +312,9 @@ require_once __DIR__."/user_fields/user_blacklist.php";
 $locale['setup_3650'] = "Sveiki atvykę į savo tinklapį!";
 // Final message
 $locale['setup_1700'] = "Setup is Complete";
-$locale['setup_1701'] = "PHP-Fusion 9 is now ready for use. Click Finish to rewrite your config_temp.php file to config.php<br/>";
+$locale['setup_1701'] = "PHPFusion 9 is now ready for use. Click Finish to rewrite your config_temp.php file to config.php<br/>";
 $locale['setup_1702'] = "<strong>Note: After you enter your site you should delete /install.php file and chmod your config.php back to 0644 for security reasons.</strong>";
-$locale['setup_1703'] = "Thank you for choosing PHP-Fusion.";
+$locale['setup_1703'] = "Thank you for choosing PHPFusion.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%y-%m-%d";

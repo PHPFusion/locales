@@ -9,10 +9,7 @@ $locale['select2'] = "lt"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "lt"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "lt"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "lt"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "YYYY-M-DD H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "Y-m-d H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "lt"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Sausis|Vasaris|Kovas|Balandis|Gegužė|Birželis|Liepa|Rugpjūtis|Rugsėjis|Spalis|Lapkritis|Gruodis";
@@ -196,6 +193,7 @@ $locale['global_126'] = "naują žinutę";
 $locale['global_127'] = "naujas žinutes";
 $locale['global_128'] = "pateikimas";
 $locale['global_129'] = "pateikimai";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Prisijungimas";
 $locale['UM061'] = "Vartotojo vardas";
@@ -229,10 +227,12 @@ $locale['UM102'] = "Pateikti DUK";
 $locale['UM096'] = "Sveiki: ";
 $locale['UM097'] = "Asmeninis meniu";
 $locale['UM101'] = "Keisti kalbą";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "Gautos žinutės:";
 $locale['UM099'] = "Išsiųstos žinutės:";
 $locale['UM100'] = "Žinučių archyvas:";
+
 // Keywords and Meta
 $locale['tags'] = "Raktažodžiai";
 // Captcha
@@ -251,6 +251,9 @@ $locale['global_180'] = "Admin panelė";
 $locale['global_181'] = "Grįžti į tinklapį";
 $locale['global_182'] = "Admin slaptažodis įvestas blogai arba neįvestas.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -275,7 +278,7 @@ $locale['global_204'] = "Forumas";
 //Themes
 $locale['global_210'] = "Peršokti prie turinio";
 $locale['global_300'] = "dizainų nerasta";
-$locale['global_301'] = "Atsiprašome, bet negalime atvaizduoti šio puslapio. Dėl kažkokių aplinkybių nebuvo rastas joks portalo dizainas. Jeigu Jūs esate puslapio administratorius, naudodamiesi savo FTP klientu įkelkite kokį nors dizainą skirtą PHP-Fusion 9 sistemai į themes/ FTP katalogą. Po įkėlimo Pagrindiniuose nustatymuose patikrinkite ar pasirinktas dizainas buvo teisingai įkeltas į Jūsų themes/ FTP katalogą. Nepamirškite, kad įkelto dizaino katalogas turi turėti tokį patį pavadinimą(įskaitant ir didžiąsias/mažąsias raides, kas yra svarbu Unix pagrindu paremtiems serveriams) kaip ir esate pasirinke Pagrindinių nustatymų puslapyje.
+$locale['global_301'] = "Atsiprašome, bet negalime atvaizduoti šio puslapio. Dėl kažkokių aplinkybių nebuvo rastas joks portalo dizainas. Jeigu Jūs esate puslapio administratorius, naudodamiesi savo FTP klientu įkelkite kokį nors dizainą skirtą PHPFusion 9 sistemai į themes/ FTP katalogą. Po įkėlimo Pagrindiniuose nustatymuose patikrinkite ar pasirinktas dizainas buvo teisingai įkeltas į Jūsų themes/ FTP katalogą. Nepamirškite, kad įkelto dizaino katalogas turi turėti tokį patį pavadinimą(įskaitant ir didžiąsias/mažąsias raides, kas yra svarbu Unix pagrindu paremtiems serveriams) kaip ir esate pasirinke Pagrindinių nustatymų puslapyje.
 
 Jeigu esate paprastas šio portalo lankytojas, prašome susisiekti su portalo administratoriumi el. paštu: [SITE_EMAIL] ir pranešti apie šią problemą.";
 $locale['global_302'] = "Dizainas, pasirinktas Pagrindiniuose nustatymuose neegzistuoja arba yra nebaigtas!";
@@ -296,6 +299,8 @@ $locale['global_409'] = "Šis vartotojas blokuotas dėl saugumo priežasčių.";
 $locale['global_410'] = "Priežastis yra: ";
 $locale['global_411'] = "Anketa buvo atšaukta.";
 $locale['global_412'] = "Anketa buvo padaryta anonimine, greičiausiai dėl neaktyvumo.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatinis flodo kontrolės sistemos blokavimas";
 $locale['global_441'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";

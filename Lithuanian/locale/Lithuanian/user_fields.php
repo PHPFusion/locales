@@ -175,5 +175,3 @@ Linkėjimai,
 [SITEUSERNAME]
 
 [SITENAME]";
-
-$locale['u210'] = "Vartotojo reputacija";

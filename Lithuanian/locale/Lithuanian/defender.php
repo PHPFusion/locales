@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Prašome pasirinkti tinkamą dizainą";
 $locale['error_input_checkbox'] = "Prašome pažymėti šį langelį";
 $locale['error_input_file'] = "Prašome pasirinkti tinkamą failą";
 $locale['error_secure_file'] = "Įkeltas failas buvo atmestas dėl įtariamo galimo saugumo pažeidimo";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Sesija baigėsi";
 $locale['cookie_description'] = "Nėra galiojančios autentifikacijos arba Jūsų sesija baigėsi. Norėdami tęsti turite prisijungti iš naujo.";
 $locale['cookie_expired'] = "Tinklapio administratoriaus sausainėlis pasenęs. Prašome prisijungti iš naujo.";
 $locale['password_invalid'] = "Neteisingas arba netinkamas slaptažodis";
 $locale['password_invalid_description'] = "Įvestas slaptažodis buvo negeras. Prašome bandyti dar kartą.";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Sesijos klaida";
 $locale['cookie_error_description'] = "Jums reikia įjungti naršyklės slapukus, kad galėtume įeiti.";
 $locale['validate_title'] = "Prašome viską patikrinti!";

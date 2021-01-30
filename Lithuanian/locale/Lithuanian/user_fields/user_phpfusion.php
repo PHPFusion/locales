@@ -1,5 +1,5 @@
 <?php
-$locale['uf_phpfusion'] = "PHP-Fusion";
-$locale['uf_phpfusion_id'] = "PHP-Fusion vartotojas";
-$locale['uf_phpfusion_desc'] = "PHP-Fusion Support Site vartotojas";
-$locale['uf_phpfusion_error'] = "PHP-Fusion vartotojas negali būti tuščias.";
+$locale['uf_phpfusion'] = "PHPFusion";
+$locale['uf_phpfusion_id'] = "PHPFusion vartotojas";
+$locale['uf_phpfusion_desc'] = "PHPFusion Support Site vartotojas";
+$locale['uf_phpfusion_error'] = "PHPFusion vartotojas negali būti tuščias.";
