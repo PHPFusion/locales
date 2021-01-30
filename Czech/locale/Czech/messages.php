@@ -128,6 +128,7 @@ $locale['627'] = "Chyba";
 $locale['628'] = "Nelze odeslat soukromou zprávu. Doručená pošta příjemce je plná.";
 $locale['629'] = "Vybranou zprávu nemůžete přesunout do zadané složky, protože překročí maximální limit zprávy.";
 $locale['630'] = " Limit zpráv";
+$locale['631'] = "Tato zpráva byla odeslána automaticky botem a nevyžaduje žádnou odpověď.";
 
 $locale['700'] = "Vaše uživatelská schránka je již plná! Zkuste ji smazat nebo ji upgradovat na stav 102 nebo 103";
 $locale['701'] = "ID odesílatele neexistuje v databázi DB. Sekvence zrušena.";

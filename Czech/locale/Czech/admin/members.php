@@ -69,6 +69,7 @@ $locale['ME_504'] = 'Bezpečnostní zákaz';
 $locale['ME_505'] = 'Zrušit';
 $locale['ME_506'] = 'Anonymizovat';
 $locale['ME_507'] = 'Aktivovat';
+$locale['ME_508'] = 'Přihlásit se jako uživatel';
 
 // a_message keys
 $locale['ME_550'] = 'zakázán';
