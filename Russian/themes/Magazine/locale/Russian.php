@@ -1,5 +1,5 @@
 <?php
-$locale['MG_description'] = 'Оффициальная тема для PHP-Fusion Andromeda 9.03';
+$locale['MG_description'] = 'Оффициальная тема для PHPFusion Andromeda 9.03';
 $locale['created_by']  = 'Создана';
 $locale['MG_001'] = 'Привет, ';
 // Templates

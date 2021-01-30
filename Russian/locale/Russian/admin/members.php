@@ -69,6 +69,7 @@ $locale['ME_504'] = 'Блокировка безопасности';
 $locale['ME_505'] = 'Отмена';
 $locale['ME_506'] = 'Анонимизация';
 $locale['ME_507'] = 'Активация';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'заблокирован';
