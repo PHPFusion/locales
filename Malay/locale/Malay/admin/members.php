@@ -69,6 +69,7 @@ $locale['ME_504'] = 'Security Ban';
 $locale['ME_505'] = 'Batal';
 $locale['ME_506'] = 'Anonymize';
 $locale['ME_507'] = 'Activate';
+$locale['ME_508'] = 'Log masuk User';
 
 // a_message keys
 $locale['ME_550'] = 'diharam';

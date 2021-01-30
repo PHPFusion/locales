@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Sila pilih tema situs yang sah";
 $locale['error_input_checkbox'] = "Silah tandakan kotak semak ini";
 $locale['error_input_file'] = "Sila pilih fail yang sah";
 $locale['error_secure_file'] = "The uploaded file has been rejected due to possibility of malicious payload.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Sesi Tamat Masa";
 $locale['cookie_description'] = "Tiada pengesahan sah / atau sesi anda mungkin telah tamat masa. Sila log masuk sekali lagi.";
 $locale['cookie_expired'] = "Cookie laman admin telah tamat. Sila log masuk sekali lagi.";
 $locale['password_invalid'] = "Kata laluan Salah atau Tidak Sah";
 $locale['password_invalid_description'] = "Kata Laluan tidak betul. Sila cuba sekali lagi.";
+$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Kesalahan Cookie";
 $locale['cookie_error_description'] = "Anda perlu untuk mengguna Cookie pelayar log masuk panel admin.";
 $locale['validate_title'] = "Bolehkah anda menyemak sesuatu..";

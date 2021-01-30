@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Amaran dijana oleh pengguna melalui fungsi trigger_e
 $locale['E_ALL'] = "Definasi semua mesej kecuali E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "Tidak Berkenaan";
-$locale['err_101'] = "AMARAN: Kesalahan didapati semasa menghurai halaman ini. Sila lihat ke [ERROR_LOG_URL]Log Kesalahan[/ERROR_LOG_URL] PHP-Fusion untuk keterangan lanjut.";
+$locale['err_101'] = "AMARAN: Kesalahan didapati semasa menghurai halaman ini. Sila lihat ke [ERROR_LOG_URL]Log Kesalahan[/ERROR_LOG_URL] PHPFusion untuk keterangan lanjut.";
 $locale['err_102'] = "Tunjukan Kesilapan!";
 $locale['err_103'] = "{%function%} {%folder%} does not exists.";

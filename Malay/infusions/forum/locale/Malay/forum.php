@@ -282,7 +282,7 @@ $locale['forum_0630'] = "Undian ini akan ditambah selapas Utusan ini ditambahkan
 $locale['forum_0640'] = "Dicantumkan pada";
 $locale['forum_0650'] = "Amaran: Anda tidak boleh membanjiri forum ini";
 $locale['forum_0660'] = "Pemberitahuan Notis Balasan - {THREAD_SUBJECT}";
-$locale['forum_0661'] = "Apa Khabar {USERNAME},&#092;nAda balasan telah diposkan dalam forum perbincangan &#039;{THREAD_SUBJECT}&#039; yang diikuti anda di PHP-Fusion Powered Website.&#092;nAnda boleh menggunakan pautan ini untuk memaparkan balasan tersebut:&#092;n&#092;n{THREAD_URL}&#092;nJika anda tidak ingin mengikuti utusan ini, anda boleh klik butang &#039;Berhenti mengikuti utusan ini&#039; di halaman utusan tersebut.&#092;nSalam sejahtera daripada,&#092;nadmin.";
+$locale['forum_0661'] = "Apa Khabar {USERNAME},&#092;nAda balasan telah diposkan dalam forum perbincangan &#039;{THREAD_SUBJECT}&#039; yang diikuti anda di PHPFusion Powered Website.&#092;nAnda boleh menggunakan pautan ini untuk memaparkan balasan tersebut:&#092;n&#092;n{THREAD_URL}&#092;nJika anda tidak ingin mengikuti utusan ini, anda boleh klik butang &#039;Berhenti mengikuti utusan ini&#039; di halaman utusan tersebut.&#092;nSalam sejahtera daripada,&#092;nadmin.";
 
 $locale['forum_0662'] = "User Options";
 $locale['forum_0663'] = "Edit User";

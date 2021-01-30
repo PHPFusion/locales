@@ -9,10 +9,7 @@ $locale['select2'] = "ms"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "ms"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "ms"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "ms-my"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "M-DD-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "m-d-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "ms"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januari|Februari|Mac|April|Mei|Jun|Julai|Ogos|September|Oktober|November|Disember";
@@ -196,6 +193,7 @@ $locale['global_126'] = "mesej baru";
 $locale['global_127'] = "mesej baru";
 $locale['global_128'] = "sumbangan";
 $locale['global_129'] = "sumbangan";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Log Masuk";
 $locale['UM061'] = "Kata Nama";
@@ -230,10 +228,12 @@ $locale['UM102'] = "Submit FAQ";
 $locale['UM096'] = "Selamat Datang: ";
 $locale['UM097'] = "Menu Peribadi";
 $locale['UM101'] = "Tukar Bahasa";
+$locale['UM103'] = "Log keluar User";
 // Gauges
 $locale['UM098'] = "Mesej Masuk :";
 $locale['UM099'] = "Mesej Keluar :";
 $locale['UM100'] = "Mesej Diarkib :";
+
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
@@ -252,6 +252,9 @@ $locale['global_180'] = "Halaman Utama Admin";
 $locale['global_181'] = "Kembali ke Situs";
 $locale['global_182'] = "Notis: Kata Laluan salah atau belum diisikan.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
+$locale['global_184'] = "Anda log masuk sebagai %s";
+$locale['global_185'] = "Anda telah kembali kepada akaun asal anda.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -277,7 +280,7 @@ $locale['global_204'] = "Forum";
 $locale['global_210'] = "Langkau ke Kandungan";
 $locale['global_300'] = "Tema situs tidak dapat dikesan";
 $locale['global_301'] = "We are really sorry but this page cannot be displayed. Due to some circumstances no site theme can be found.
- If you are a Site Administrator, please use your FTP client to upload any theme designed for PHP-Fusion 9 to the themes folder.
+ If you are a Site Administrator, please use your FTP client to upload any theme designed for PHPFusion 9 to the themes folder.
  After upload check in Theme Settings to see if the selected theme was correctly uploaded to your themes directory.
  Please note that the uploaded theme folder has to have the exact same name (including character case, which is important on Unix based servers)
  as chosen in Theme Settings page.
@@ -302,6 +305,8 @@ $locale['global_409'] = "Akaun ini telah diharamkan kerana sebab-sebab sekuriti.
 $locale['global_410'] = "Sebab-sebab kerana ini seperti berikut: ";
 $locale['global_411'] = "Akaun ini telah ditamatkan.";
 $locale['global_412'] = "Akaun ini telah dilindungkan, kemungkinan kerana tidak aktif.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Dihentikan secara otomatik oleh Sistem kawalan pos banjir.";
 $locale['global_441'] = "Akaun anda di [SITENAME] telah dihentikan";

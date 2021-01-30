@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Lokasi";
 $locale['fields_0513'] = "Nombor";
 $locale['fields_0514'] = "E-mel";
 $locale['fields_0515'] = "Pautan Web";
+$locale['fields_0516'] = "Contact Number";
 
 $locale['fields_0600'] = "Terdapat %s sub-Kategori(s) dalam Kategori ini";
 $locale['fields_0601'] = "Terdapat %s Isi Borang(s) dalam Kategori ini";

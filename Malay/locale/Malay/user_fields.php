@@ -177,5 +177,3 @@ Sekian,
 [SITEUSERNAME]
 
 [SITENAME]";
-
-$locale['u210'] = "User Reputation";

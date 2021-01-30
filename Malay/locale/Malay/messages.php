@@ -128,6 +128,7 @@ $locale['627'] = "Kesalahan";
 $locale['628'] = "Tidak dapat mengirim Mesej Peribadi. Peti Masuk User telah penuh.";
 $locale['629'] = "Anda tidak dapat memindah Mesej terpilih ke folder ini kerana pindaan ini akan melampaui had maksimum folder Mesej tersebut.";
 $locale['630'] = " Had Mesej";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
 $locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
