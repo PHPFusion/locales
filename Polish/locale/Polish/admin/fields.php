@@ -124,6 +124,7 @@ $locale['fields_0512'] = "Lokalizacja";
 $locale['fields_0513'] = "Numer";
 $locale['fields_0514'] = "Adres e-mail";
 $locale['fields_0515'] = "Adres witryny";
+$locale['fields_0516'] = "Numer kontaktowy";
 
 $locale['fields_0600'] = "Istnieje %s podkategoria/i w tej kategorii";
 $locale['fields_0601'] = "Istnieje %s pole/pól w tej kategorii";

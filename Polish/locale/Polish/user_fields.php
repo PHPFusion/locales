@@ -176,5 +176,3 @@ Pozdrawiamy,
 [SITEUSERNAME]
 
 [SITENAME]";
-
-$locale['u210'] = "Reputacja użytkownika";

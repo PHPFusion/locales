@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Proszę wybrać prawidłowy motyw";
 $locale['error_input_checkbox'] = "Proszę zaznaczyć to pole wyboru";
 $locale['error_input_file'] = "Proszę wybrać prawidłowy plik";
 $locale['error_secure_file'] = "Przesłany plik został odrzucony z powodu posiadania złośliwego kodu.";
+$locale['error_input_login'] = "Nieprawidłowy login lub hasło";
 // Admin Login
 $locale['cookie_title'] = "Sesja wygasła";
 $locale['cookie_description'] = "Brak poprawnego uwierzytelnienia / lub Twoja sesja prawdopodobnie wygasła. Zaloguj się ponownie.";
 $locale['cookie_expired'] = "Plik cookie administratora witryny wygasł. Zaloguj się ponownie.";
 $locale['password_invalid'] = "Błędne lub nieprawidłowe hasło";
 $locale['password_invalid_description'] = "Hasło jest nieprawidłowe. Proszę spróbować ponownie.";
+$locale['prefix_error'] = "Prefiks kontaktu wymaga uwagi.";
+$locale['contact_error'] = "Numer kontaktu wymaga uwagi.";
 $locale['cookie_error'] = "Błąd Cookie";
 $locale['cookie_error_description'] = "Musisz włączyć ciasteczka w przeglądarce, aby wejść do administracji.";
 $locale['validate_title'] = "Czy mógłbyś coś sprawdzić!";

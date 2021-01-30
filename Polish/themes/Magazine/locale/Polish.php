@@ -1,5 +1,5 @@
 <?php
-$locale['MG_description'] = 'Oficjalny motyw dla PHP-Fusion Andromeda 9.03';
+$locale['MG_description'] = 'Oficjalny motyw dla PHPFusion Andromeda 9.03';
 $locale['created_by']  = 'Stworzone przez';
 $locale['MG_001'] = 'Cześć, ';
 // Templates

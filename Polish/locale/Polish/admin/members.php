@@ -69,6 +69,7 @@ $locale['ME_504'] = 'Zablokuj zp. bezpieczeństwa';
 $locale['ME_505'] = 'Anuluj';
 $locale['ME_506'] = 'Anonimizuj';
 $locale['ME_507'] = 'Aktywuj';
+$locale['ME_508'] = 'Zaloguj się jako Użytkownik';
 
 // a_message keys
 $locale['ME_550'] = 'zablokowany';

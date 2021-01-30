@@ -129,6 +129,7 @@ $locale['627'] = "Błąd";
 $locale['628'] = "Nie można wysłać wiadomości prywatnej. Skrzynka odbiorcza odbiorcy jest pełna.";
 $locale['629'] = "Nie można przenieść wybranej/nych wiadomości do określonego folderu, ponieważ przekroczy to maksymalny limit wiadomości.";
 $locale['630'] = " Limit wiadomości";
+$locale['631'] = "Ta wiadomość została wysłana automatycznie przez bota i nie wymaga żadnej odpowiedzi.";
 
 $locale['700'] = "Skrzynka odbiorcza użytkownika jest pełna. Spróbuj usunąć lub uaktualnić go do statusu 102 lub 103";
 $locale['701'] = "Identyfikator użytkownika nadawcy nie istnieje w bazie danych. Sekwencja przerwana.";
