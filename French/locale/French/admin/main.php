@@ -127,4 +127,5 @@ $locale['search_msg_102'] = 'Le chargement des pages a échoué';
 $locale['search_msg_103'] = 'La chaîne de recherche est trop courte';
 $locale['search_msg_104'] = 'Il n\'y a aucun résultat trouvé';
 
-$locale['new_update_avalaible'] = "Une nouvelle [LINK]mise à jour PHP-Fusion v[VERSION][/LINK] est disponible. Veuillez la mettre à jour !";
+$locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
+$locale['new_update_avalaible'] = "Une nouvelle [LINK]mise à jour PHPFusion v[VERSION][/LINK] est disponible. Veuillez la mettre à jour !";

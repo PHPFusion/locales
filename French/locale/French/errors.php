@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Avertissement généré par l'utilisateur en utilisa
 $locale['E_ALL'] = "Définit tous les messages excepté les E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
-$locale['err_101'] = "AVERTISSEMENT : Une erreur est survenue lors de l'analyse de la page. Veuillez consulter le [ERROR_LOG_URL]Error Log[/ERROR_LOG_URL] de PHP-Fusion pour plus de détails.";
+$locale['err_101'] = "AVERTISSEMENT : Une erreur est survenue lors de l'analyse de la page. Veuillez consulter le [ERROR_LOG_URL]Error Log[/ERROR_LOG_URL] de PHPFusion pour plus de détails.";
 $locale['err_102'] = "Montrez-moi le bug !";
 $locale['err_103'] = "{%function%} {%folder%} n'existe pas.";
