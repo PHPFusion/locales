@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Der blev lavet en bemærkning af funktionen trigger_
 $locale['E_ALL'] = "Viser alle fejlmeddelelser med undtagelse af E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
-$locale['err_101'] = "ADVARSEL: Der opstod en fejl i forbindelse med visningen af siden. Se i PHP-Fusions [ERROR_LOG_URL]Fejllog[/ERROR_LOG_URL] for yderligere oplysninger.";
+$locale['err_101'] = "ADVARSEL: Der opstod en fejl i forbindelse med visningen af siden. Se i PHPFusions [ERROR_LOG_URL]Fejllog[/ERROR_LOG_URL] for yderligere oplysninger.";
 $locale['err_102'] = "Vis fejlen!";
 $locale['err_103'] = "{%function%} {%folder%} eksisterer ikke.";

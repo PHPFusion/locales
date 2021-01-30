@@ -9,10 +9,7 @@ $locale['select2'] = "da"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "da"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "da"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "da"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "DD-M-YYYY, H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "d-m-Y, H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "da"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%b %d";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Januar|Februar|Marts|April|Maj|Juni|Juli|August|September|Oktober|November|December";
@@ -195,6 +192,7 @@ $locale['global_126'] = "besked";
 $locale['global_127'] = "beskeder";
 $locale['global_128'] = "brugerforslag";
 $locale['global_129'] = "brugerforslag";
+$locale["global_130"] = "Element %s kunne ikke findes";
 // User Menu
 $locale['UM060'] = "Log ind";
 $locale['UM061'] = "Brugernavn";
@@ -228,10 +226,12 @@ $locale['UM102'] = "Foreslå FAQ";
 $locale['UM096'] = "Velkommen: ";
 $locale['UM097'] = "Privat menu";
 $locale['UM101'] = "Skift sprog";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "Indbakke:";
 $locale['UM099'] = "Udbakke:";
 $locale['UM100'] = "Arkiv:";
+
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
@@ -250,6 +250,9 @@ $locale['global_180'] = "Administration";
 $locale['global_181'] = "Tilbage til siden";
 $locale['global_182'] = "Administratorkodeord er ikke angivet eller ukorrekt.";
 $locale['global_183'] = "Din log ind session er udløbet. Vær sød at logge ind igen.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -272,7 +275,7 @@ $locale['global_204'] = "Debatforum";
 //Themes
 $locale['global_210'] = "Spring til indhold";
 $locale['global_300'] = "intet tema fundet";
-$locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes. Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med PHP-Fusion version 9 til folderen themes/. Efter at du har gjort det, skal du se
+$locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes. Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med PHPFusion version 9 til folderen themes/. Efter at du har gjort det, skal du se
 under Hovedopsætning for at sikre dig, at det uploadede tema er kommet korrekt op på siden.
 Bemærk at den uploadede temafolder skal have nøjagtig samme navn inklusive store og små bogstaver som navnet
 på det tema, du vælger under Hovedopsætning.<br/> Hvis du er medlem på siden, så skal
@@ -294,6 +297,8 @@ $locale['global_409'] = "Denne konto er blevet udelukket af sikkerhedsårsager."
 $locale['global_410'] = "Begrundelsen er: ";
 $locale['global_411'] = "Denne konto er blevet lukket.";
 $locale['global_412'] = "Denne konto er blevet anonymiseret, sandsynligvis på grund af manglende aktivitet.";
+$locale['global_413'] = "Brugernavn er tilgængeligt";
+$locale['global_414'] = "Brugernavn ikke tilgængeligt";
 // Flood control
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
 $locale['global_441'] = "Din konto på [SITENAME] er blevet udelukket";

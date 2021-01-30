@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Du skal bruge et gyldigt tema";
 $locale['error_input_checkbox'] = "Denne boks skal klikkes af";
 $locale['error_input_file'] = "Du skal vælge en gyldig fil";
 $locale['error_secure_file'] = "Den uploadede fil er blevet afvist på grund af muligheden for ondsindet payload.";
+$locale['error_input_login'] = "Forkert brugernavn eller adgangskode";
 // Admin Login
 $locale['cookie_title'] = "Din session fik timeout";
 $locale['cookie_description'] = "Valideringen kunne ikke gennemføres eller også har din session fået timeout. Prøv at logge på igen.";
 $locale['cookie_expired'] = "Administrationscookien er udløbet. Log på igen.";
 $locale['password_invalid'] = "Forkert eller ubrugeligt kodeord";
 $locale['password_invalid_description'] = "Kodeordet var forkert. Prøv igen.";
+$locale['prefix_error'] = "Kontaktpræfiks kræver opmærksomhed.";
+$locale['contact_error'] = "Kontaktnummer kræver opmærksomhed.";
 $locale['cookie_error'] = "Fejl i forbindelse med cookie";
 $locale['cookie_error_description'] = "Du skal tillade din browser at bruge cookies for at komme ind i administrationen.";
 $locale['validate_title'] = "Måske er der noget, du skal kontrollere!";

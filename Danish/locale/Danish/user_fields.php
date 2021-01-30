@@ -160,5 +160,3 @@ Bemærk: Du skal være logget på for at kunne fortsætte.<br/>
 Venlig hilsen
 [SITEUSERNAME]<br/>
 [SITENAME]";
-
-$locale['u210'] = "Brugeromdømme";

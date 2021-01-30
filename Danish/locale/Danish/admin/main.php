@@ -127,4 +127,5 @@ $locale['search_msg_102'] = 'Siderne kunne ikke indlæses';
 $locale['search_msg_103'] = 'Søgeudtryk er for kort';
 $locale['search_msg_104'] = 'Der er ikke fundet nogen resultater';
 
-$locale['new_update_avalaible'] = "En ny [LINK]PHP-Fusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";
+$locale['deprecated_section'] = 'Dette afsnit er udfaset. Vi anbefaler det ikke længere og planlægger at fjerne det snart.';
+$locale['new_update_avalaible'] = "En ny [LINK]PHPFusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";
