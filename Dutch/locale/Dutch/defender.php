@@ -17,12 +17,15 @@ $locale['error_invalid_theme'] = "Selecteer a.u.b. een geldig thema";
 $locale['error_input_checkbox'] = "Vink a.u.b. deze checkbox aan";
 $locale['error_input_file'] = "Selecteer a.u.b. een geldig bestand";
 $locale['error_secure_file'] = "Het ge&uuml;ploaded bestand is afgewezen door een mogelijk aanwezigheid van kwaadaardige inhoud.";
+$locale['error_input_login'] = "Incorrect username or password";
 // Admin Login
 $locale['cookie_title'] = "Sessie Verlopen";
 $locale['cookie_description'] = "Er is geen geldige aanmelding / of uw sessie is verlopen. Log a.u.b. opnieuw in.";
 $locale['cookie_expired'] = "Het beheerders cookie is verlopen. Log a.u.b. opnieuw in.";
 $locale['password_invalid'] = "Fout of ongeldig wachtwoord";
 $locale['password_invalid_description'] = "Het opgegeven wachtwoord is onjuist. Probeer het a.u.b. nogmaals.";
+$locale['prefix_error'] = "Contact voorvoegsel verreist attentie.";
+$locale['contact_error'] = "Contactnummer vereist attentie.";
 $locale['cookie_error'] = "Cookie Fout";
 $locale['cookie_error_description'] = "U dient cookies toe te staan in uw browser om het in beheerder gedeelte te kunnen komen.";
 $locale['validate_title'] = "Kunt u iets controleren!";

@@ -1,5 +1,5 @@
 <?php
-$locale['uf_phpfusion'] = "PHP-Fusion";
-$locale['uf_phpfusion_id'] = "PHP-Fusion gebruikersnaam";
-$locale['uf_phpfusion_desc'] = "PHP-Fusion Support Site Account";
-$locale['uf_phpfusion_error'] = "PHP-Fusion Gebruikersnaam kan niet leeg blijven.";
+$locale['uf_phpfusion'] = "PHPFusion";
+$locale['uf_phpfusion_id'] = "PHPFusion gebruikersnaam";
+$locale['uf_phpfusion_desc'] = "PHPFusion Support Site Account";
+$locale['uf_phpfusion_error'] = "PHPFusion Gebruikersnaam kan niet leeg blijven.";

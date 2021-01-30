@@ -9,10 +9,7 @@ $locale['select2'] = "nl"; // refer to path includes/dynamics/assets/select2/sel
 $locale['phpmailer'] = "nl"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
 $locale['filemanager'] = "nl"; // refer to path includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "nl-nl"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['datepicker_js'] = "DD-m-YYYY H:mm:ss"; // https://momentjs.com/docs/#/displaying/format/
-$locale['datepicker_php'] = "d-m-Y H:i:s"; // https://www.php.net/manual/en/datetime.format.php#refsect1-datetime.format-parameters
 $locale['password_strength'] = "nl"; // refer to path includes/dynamics/assets/password/lang/{value}.js
-$locale['date_day'] = "%d %b";
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Januari|Februari|Maart|April|Mei|Juni|Juli|Augustus|September|Oktober|November|December";
@@ -195,6 +192,7 @@ $locale['global_126'] = "bericht";
 $locale['global_127'] = "berichten";
 $locale['global_128'] = "inzending";
 $locale['global_129'] = "inzendingen";
+$locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Inloggen";
 $locale['UM061'] = "Gebruikersnaam";
@@ -228,10 +226,12 @@ $locale['UM102'] = "FAQ inzenden";
 $locale['UM096'] = "Welkom: ";
 $locale['UM097'] = "Persoonlijk menu";
 $locale['UM101'] = "Kies taal";
+$locale['UM103'] = "Logoff as User";
 // Gauges
 $locale['UM098'] = "Berichten inbox:";
 $locale['UM099'] = "Berichten outbox:";
 $locale['UM100'] = "Berichten archief:";
+
 // Keywords and Meta
 $locale['tags'] = "Labels";
 // Captcha
@@ -250,6 +250,9 @@ $locale['global_180'] = "Beheerder Index";
 $locale['global_181'] = "Terug naar site";
 $locale['global_182'] = "<strong>Waarschuwing:</strong> Beheerderwachtwoord niet opgegeven of incorrect.";
 $locale['global_183'] = "Uw inlogsessie is verlopen. Log alsjeblieft nogmaals in.";
+$locale['global_184'] = "You are now logged in as %s";
+$locale['global_185'] = "You are now switched back to your own account.";
+
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
@@ -272,7 +275,7 @@ $locale['global_204'] = "Forum";
 //Themes
 $locale['global_210'] = "Ga naar inhoud";
 $locale['global_300'] = "geen thema gevonden";
-$locale['global_301'] = "Het spijt ons zeer, maar deze pagina kan niet worden getoond. Door bepaalde omstandigheden kan geen site-thema worden gevonden. Indien u een beheerder van de site bent, gebruik dan a.u.b. uw FTP-programma om een voor <em>PHP-Fusion v9</em> ontworpen thema naar de <em>themes</em> map te uploaden. Controleer na de upload in <em>Algemene Instellingen</em> of het geselecteerde thema correct is ge-upload. Houdt er rekening mee dat de ge-uploade thema map exact dezelfde naam moet hebben (inclusief eventuele hoofdletters, van belang bij Unix-servers) als gekozen in <em>Algemene Instellingen</em>.<br /><br />Indien u een gewoon lid van de site bent, neemt u dan a.u.b. contact op met de beheerder van de site via \" [SITE_EMAIL] e-mail en meldt dit probleem.";
+$locale['global_301'] = "Het spijt ons zeer, maar deze pagina kan niet worden getoond. Door bepaalde omstandigheden kan geen site-thema worden gevonden. Indien u een beheerder van de site bent, gebruik dan a.u.b. uw FTP-programma om een voor <em>PHPFusion v9</em> ontworpen thema naar de <em>themes</em> map te uploaden. Controleer na de upload in <em>Algemene Instellingen</em> of het geselecteerde thema correct is ge-upload. Houdt er rekening mee dat de ge-uploade thema map exact dezelfde naam moet hebben (inclusief eventuele hoofdletters, van belang bij Unix-servers) als gekozen in <em>Algemene Instellingen</em>.<br /><br />Indien u een gewoon lid van de site bent, neemt u dan a.u.b. contact op met de beheerder van de site via \" [SITE_EMAIL] e-mail en meldt dit probleem.";
 $locale['global_302'] = "Het thema gekozen in Algemene Instellingen bestaat niet of is incompleet!";
 // JavaScript Not Enabled
 $locale['global_303'] = "<center>Oeps! <strong>JavaScript</strong> ontbreekt!<br />Uw Web browser heeft JavaScript uitstaan of ondersteund geen JavaScript.<br />Om deze website optimaal te kunnen zien dient u <strong>JavaScript aan te zetten</strong> in uw Web browser en/of Firewall.<br />Of <strong>verander</strong> van Web browser die wel JavaScript ondersteund; <a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a> of <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> nieuwer dan versie 6.</center>";
@@ -290,6 +293,8 @@ $locale['global_409'] = "Dit account is verbannen om veiligheidsredenen.";
 $locale['global_410'] = "De reden hiervoor is: ";
 $locale['global_411'] = "Dit account is geannuleerd.";
 $locale['global_412'] = "Dit account is geanonimiseerd, waarschijnlijk door inactiviteit.";
+$locale['global_413'] = "Username is available";
+$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatische verbanning door Flood Control";
 $locale['global_441'] = "Uw account op [SITENAME] is verbannen";

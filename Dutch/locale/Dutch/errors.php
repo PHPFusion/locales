@@ -14,6 +14,6 @@ $locale['E_USER_NOTICE'] = "Notificatie gegenereerd door gebruiker door gebruikm
 $locale['E_ALL'] = "Definieert alle berichten behalve E_STRICT";
 $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
-$locale['err_101'] = "<strong>WAARSCHUWING:</strong> Een fout is opgetreden tijdens het parsen van de pagina. Zie PHP-Fusion's [ERROR_LOG_URL]Error Log[/ERROR_LOG_URL]  voor meer informatie.";
+$locale['err_101'] = "<strong>WAARSCHUWING:</strong> Een fout is opgetreden tijdens het parsen van de pagina. Zie PHPFusion's [ERROR_LOG_URL]Error Log[/ERROR_LOG_URL]  voor meer informatie.";
 $locale['err_102'] = "Laat mij de fout zien!";
 $locale['err_103'] = "{%function%} {%folder%} bestaat niet.";

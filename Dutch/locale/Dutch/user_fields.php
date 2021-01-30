@@ -160,5 +160,3 @@ Opmerking: Je moet ingelogd zijn om door te gaan.<br/>
 Groeten,
 [SITEUSERNAME]<br/>
 [SITENAME]";
-
-$locale['u210'] = "Gebruiker reputatie";

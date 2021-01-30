@@ -127,4 +127,5 @@ $locale['search_msg_102'] = 'Pagina\'s laden mislukt';
 $locale['search_msg_103'] = 'Zoekstring is te kort';
 $locale['search_msg_104'] = 'Er zijn geen resultaten om weer te geven';
 
-$locale['new_update_avalaible'] = "Een nieuwe [LINK]PHP-Fusion v[VERSION] update[/LINK] is beschikbaar. Graag bijwerken!";
+$locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
+$locale['new_update_avalaible'] = "Een nieuwe [LINK]PHPFusion v[VERSION] update[/LINK] is beschikbaar. Graag bijwerken!";

@@ -80,6 +80,7 @@ $locale['ME_504'] = 'VeiligheidsBan';
 $locale['ME_505'] = 'Annuleren';
 $locale['ME_506'] = 'Anonimiseren';
 $locale['ME_507'] = 'Activeren';
+$locale['ME_508'] = 'Login as User';
 
 // a_message keys
 $locale['ME_550'] = 'verbannen';
