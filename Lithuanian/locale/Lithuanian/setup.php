@@ -135,13 +135,7 @@ $locale['setup_1513'] = "Tinklapio savininko vardas";
 $locale['setup_1600'] = "Diegimas baigtas.";
 $locale['setup_1601'] = "PHPFusion 9.0 paruošta naudojimui. Paspauskite Baigti, kad būtų perrašytas config_temp.php failas į config.php.<br />";
 $locale['setup_1602'] = "<strong>Pastaba: Prieš įeidami į tinklapį būtinai pašalinkite visą /install aplanką iš serverio ir pakeiskite config.php failo CHMOD teises atgal į 0644 dėl saugumo.</strong>";
-$locale['setup_1603'] = "Dėkojame, kad renkatės PHPFusion.<br /><br />
-Jeigu kils kokių nors klausimų susijusių su PHPFusion sistema,
-visapusiškos pagalbos galite sulaukti apsilankę Lietuvos
-PHPFusion pagalbos tinklapiuose:<br /><br />
-<a href='http://www.phpfusion-lt.com' target='_blank'>PHPFusion-LT.com</a> - Pagrindinis Lietuvos Php-Fusion pagalbos tinklapis<br />
-<a href='http://modai.phpfusion-lt.com' target='_blank'>Modai.PHPFusion-LT.com</a> - Lietuvos Php-Fusion modifikacijų tinklapis<br />
-<a href='http://themes.phpfusion-lt.com' target='_blank'>Themes.PHPFusion-LT.com</a> - Lietuvos Php-Fusion dizainų tinklapis";
+$locale['setup_1603'] = "Įrašomi duomenys ";
 // Step 6 - User details validation
 $locale['setup_5010'] = "Vartotojo varde yra neleistinų ženklų.";
 $locale['setup_5011'] = "Vartotojo vardo laukelis negali būti tuščias.";

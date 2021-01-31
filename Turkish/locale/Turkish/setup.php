@@ -308,7 +308,7 @@ $locale['setup_3650'] = "Sitenize hoş geldiniz";
 $locale['setup_1700'] = "Kurulum Tamamlandı";
 $locale['setup_1701'] = "PHPFusion 9 artık kullanıma hazır. config_temp.php dosyanızı config.php dosyasına yeniden yazması için son'u tıklayın.<br/>";
 $locale['setup_1702'] = "<strong>Not: Sitenize girdikten sonra /install.php dosyasını silmelisiniz ve güvenlik nedenleriyle config.php dosyanızı 0644'e geri döndürmelisiniz.</strong>";
-$locale['setup_1703'] = "Php-Fusion'u Seçtiğiniz Için Teşekkür Ederiz.";
+$locale['setup_1703'] = "PHPFusion'u Seçtiğiniz Için Teşekkür Ederiz.";
 // Default time settings
 // http://php.net/manual/en/function.strftime.php
 $locale['setup_3700'] = "%d.%m.%y";

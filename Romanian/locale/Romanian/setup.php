@@ -2,7 +2,7 @@
 $locale['setup_0000'] = "Instalarea versiunii 9.0 a nucleului PHPFusion";
 $locale['setup_0002'] = "Bine ai venit la instalarea v9.0 a PHPFusion";
 $locale['setup_0003'] = "Ghidul de instalare te va ghida prin pa&#351;i necesari inst&#259;ri versiunii 9.0 a CMS-ului PHPFusion pe serverul t&#259;u.<br /> Dac&#259; ai nevoie de ajutor, te rug&#259;m verific&#259; <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page_id=208' target='_blank'>procesul de instalare</a>.";
-$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>>Php-Fusion</a>";
+$locale['setup_0005'] = " Am citit &#351;i sunt de acord cu termenii &#351;i condi&#355;iile <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>PHPFusion</a>";
 $locale['setup_0006'] = "PHPFusion 9 necesit&#259; cel pu&#355;in PHP 7.0. Vezi pagina <a href=\"https://phpfusion.com/infusions/wiki/documentation.php?page_id=215\">cerin&#355;e sistem</a> pentru mai multe informa&#355;i.";
 $locale['setup_0007'] = "Sistemele cu OPcache instalat trebuie s&#259; aibe <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> activat.";
 $locale['setup_5000'] = "Pentru a putea folosi PHPFusion, trebuie s&#259; bifezi &#351;i s&#259; fii de acord cu termenii &#351;i condi&#355;iile PHPFusion</a>.";

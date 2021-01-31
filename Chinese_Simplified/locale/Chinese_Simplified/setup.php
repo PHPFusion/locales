@@ -1,7 +1,7 @@
 <?php
 $locale['setup_0000'] = "PHPFusion Core 9 Edition Setup";
 $locale['setup_0002'] = "Welcome to PHPFusion 9.00 Installation";
-$locale['setup_0003'] = "The installer guide will guide you through the steps required to install PHPFusion CMS on your server. Should you need further assistance, please check our <a class='strong' href='https://php-fusion.co.uk/infusions/wiki/documentation.php?page_id=208'>Online Installation Documentation</a>.";
+$locale['setup_0003'] = "The installer guide will guide you through the steps required to install PHPFusion CMS on your server. Should you need further assistance, please check our <a class='strong' href='https://phpfusion.com/infusions/wiki/documentation.php?page_id=216' target='_blank'>Online Installation Documentation</a>.";
 $locale['setup_0005'] = " I have read and agreed to the PHPFusion <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>Terms and Conditions of Use</a>";
 $locale['setup_0006'] = "PHPFusion 9 requires at least PHP 7.0. See the <a href='https://phpfusion.com/infusions/wiki/documentation.php?page_id=215'>system requirements</a> page for more information.";
 $locale['setup_0007'] = "Systems with OPCache installed must have <a href=\"http://php.net/manual/en/opcache.configuration.php#ini.opcache.save-comments\">opcache.save_comments</a> enabled.";
