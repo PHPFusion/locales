@@ -226,7 +226,7 @@ $locale['UM102'] = "Foreslå FAQ";
 $locale['UM096'] = "Velkommen: ";
 $locale['UM097'] = "Privat menu";
 $locale['UM101'] = "Skift sprog";
-$locale['UM103'] = "Logoff as User";
+$locale['UM103'] = "Log ud som bruger";
 // Gauges
 $locale['UM098'] = "Indbakke:";
 $locale['UM099'] = "Udbakke:";
@@ -250,8 +250,8 @@ $locale['global_180'] = "Administration";
 $locale['global_181'] = "Tilbage til siden";
 $locale['global_182'] = "Administratorkodeord er ikke angivet eller ukorrekt.";
 $locale['global_183'] = "Din log ind session er udløbet. Vær sød at logge ind igen.";
-$locale['global_184'] = "You are now logged in as %s";
-$locale['global_185'] = "You are now switched back to your own account.";
+$locale['global_184'] = "Du er nu logget ind som %s";
+$locale['global_185'] = "Du er nu skiftet tilbage til din egen konto.";
 
 // Do not add anything within global_183-190. To be reserved for code verification development.
 

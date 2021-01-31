@@ -69,7 +69,7 @@ $locale['ME_504'] = 'Sikkerhedsudeluk';
 $locale['ME_505'] = 'Annuller';
 $locale['ME_506'] = 'Anonymiser';
 $locale['ME_507'] = 'Aktiver';
-$locale['ME_508'] = 'Login as User';
+$locale['ME_508'] = 'Log ind som bruger';
 
 // a_message keys
 $locale['ME_550'] = 'udelukket';
