@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Le préfixe de table spécifié est déjà utilisé et 
 $locale['setup_0144'] = "Diagnostics de la base de données terminés";
 // Step 1
 $locale['setup_1000'] = "Sélectionnez votre langue";
-$locale['setup_1001'] = "Télécharger plus de langue locales depuis <a href='https://translations.phpfusion.com/' target='_blank'><strong>le site de support officiel PHP Fusion</strong></a>";
+$locale['setup_1001'] = "Télécharger plus de langue locales depuis <a href='https://phpfusion.com/translations/' target='_blank'><strong>le site de support officiel PHP Fusion</strong></a>";
 $locale['setup_1002'] = "Bienvenue en mode de récupération PHP Fusion 9.";
 $locale['setup_1003'] = "Nous avons détecté qu'un système existant est installé. Veuillez choisir l'un des éléments suivants pour continuer.";
 $locale['setup_1004'] = "Nettoyer l'installation";

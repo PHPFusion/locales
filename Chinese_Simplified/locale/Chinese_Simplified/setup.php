@@ -61,7 +61,7 @@ $locale['setup_0143'] = "The specified table prefix is already in use and is run
 $locale['setup_0144'] = "Database Diagnostics Completed";
 // Step 1
 $locale['setup_1000'] = "Please select the required locale (language):";
-$locale['setup_1001'] = "Download more locales from <a href='https://www.php-fusion.co.uk/downloads.php#langpacks'><strong>PHPFusion Official Support Site</strong></a>";
+$locale['setup_1001'] = "Download more locales from <a href='https://phpfusion.com/translations/' target='_blank'><strong>PHPFusion Official Support Site</strong></a>";
 $locale['setup_1002'] = "Welcome to PHPFusion 9.00 Recovery Mode.";
 $locale['setup_1003'] = "We have detected that there is an existing system installed.<br/><br/>Please choose any of the following to proceed.";
 $locale['setup_1004'] = "Clean Installation";

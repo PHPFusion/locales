@@ -61,7 +61,7 @@ $locale['setup_0143'] = "Zadaná predpona tabuľky sa už používa a je spusten
 $locale['setup_0144'] = "Diagnostika databázy bola dokončená";
 // Step 1
 $locale['setup_1000'] = "Vyberte svoj jazyk";
-$locale['setup_1001'] = "Stiahnuť viac lokalizácií z <a href='https://translations.phpfusion.com/' target='_blank'><strong>Oficiálnej PHPFusion podpori</strong></a>";
+$locale['setup_1001'] = "Stiahnuť viac lokalizácií z <a href='https://phpfusion.com/translations/' target='_blank'><strong>Oficiálnej PHPFusion podpori</strong></a>";
 $locale['setup_1002'] = "Vitajte v režime obnovy PHPFusion 9.";
 $locale['setup_1003'] = "Zistili sme, že existujúci systém je nainštalovaný. Ak chcete pokračovať, vyberte jednu z nasledujúcich možností.";
 $locale['setup_1004'] = "Čistá inštalácia";
