@@ -192,7 +192,7 @@ $locale['global_126'] = "сообщение";
 $locale['global_127'] = "сообщений";
 $locale['global_128'] = "присланный материал";
 $locale['global_129'] = "присланных материалов";
-$locale["global_130"] = "Panel %s could not be found";
+$locale["global_130"] = "Панель не найдена %s";
 // User Menu
 $locale['UM060'] = "Логин";
 $locale['UM061'] = "Логин";
@@ -226,7 +226,7 @@ $locale['UM102'] = "Добавить в ЧаВо";
 $locale['UM096'] = "Добро пожаловать: ";
 $locale['UM097'] = "Личное меню";
 $locale['UM101'] = "Изменить язык";
-$locale['UM103'] = "Logoff as User";
+$locale['UM103'] = "Выйти как пользователь";
 // Gauges
 $locale['UM098'] = "Входящие сообщения:";
 $locale['UM099'] = "Отправленные сообщения:";
@@ -250,8 +250,8 @@ $locale['global_180'] = "Панель администратора";
 $locale['global_181'] = "Вернуться на сайт";
 $locale['global_182'] = "Админпароль не введён или введён неправильно.";
 $locale['global_183'] = "Ваш сеанс входа истек. Пожалуйста, войдите снова.";
-$locale['global_184'] = "You are now logged in as %s";
-$locale['global_185'] = "You are now switched back to your own account.";
+$locale['global_184'] = "Теперь вы вошли как %s";
+$locale['global_185'] = "Теперь вы вернулись к своей учетной записи.";
 
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
