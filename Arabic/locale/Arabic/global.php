@@ -192,7 +192,7 @@ $locale['global_126'] = "رسالة";
 $locale['global_127'] = "رسائل";
 $locale['global_128'] = "مشاركة";
 $locale['global_129'] = "مشاركات";
-$locale["global_130"] = "Panel %s could not be found";
+$locale["global_130"] = "تعذّر العثور على القائمة الجانبية %s";
 // User Menu
 $locale['UM060'] = "تسجيل الدخول";
 $locale['UM061'] = "إسم المستخدم";
@@ -226,7 +226,7 @@ $locale['UM102'] = "إرسال أسئلة مكررة";
 $locale['UM096'] = "مرحباً: ";
 $locale['UM097'] = "القائمة الشخصية";
 $locale['UM101'] = "تغيير اللغة";
-$locale['UM103'] = "Logoff as User";
+$locale['UM103'] = "تسجيل خروجك كعضو";
 // Gauges
 $locale['UM098'] = "صندوق الوارد :";
 $locale['UM099'] = "صندوق الصادر :";
@@ -250,8 +250,8 @@ $locale['global_180'] = "الإدارة الرئيسية";
 $locale['global_181'] = "العودة";
 $locale['global_182'] = "لم يتم إدخال كلمة المرور أو إنها غير صحيحة.";
 $locale['global_183'] = "انتهت صلاحية جلسة تسجيل الدخول الخاصة بك. يرجى تسجيل الدخول مرة أخرى.";
-$locale['global_184'] = "You are now logged in as %s";
-$locale['global_185'] = "You are now switched back to your own account.";
+$locale['global_184'] = "أنت الآن مسجل دخولك كـ %s";
+$locale['global_185'] = "لقد تم الآن تحويلك مرة أخرى إلى حسابك.";
 
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
@@ -298,8 +298,8 @@ $locale['global_409'] = "تم حظر هذا الحساب لأسباب أمنية
 $locale['global_410'] = "السبب لهذا هو: ";
 $locale['global_411'] = "تم إلغاء هذا الحساب.";
 $locale['global_412'] = "تم وضع هذا الحساب بهيئة مخفية ربما لعدم وجود نشاط.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
+$locale['global_413'] = "اسم المستخدم متاح";
+$locale['global_414'] = "اسم المستخدم غير متاح";
 // Flood control
 $locale['global_440'] = "حظر ذاتي بسبب نظام مكافحة الإغراق";
 $locale['global_441'] = "تم حظر حسابك في [SITENAME] ";

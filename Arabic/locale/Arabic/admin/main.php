@@ -127,5 +127,5 @@ $locale['search_msg_102'] = 'فشل في تحميل الصفحة';
 $locale['search_msg_103'] = 'سلسلة البحث قصيرة جدا';
 $locale['search_msg_104'] = 'لم يتم العثور على نتائج';
 
-$locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
+$locale['deprecated_section'] = 'هذا القسم مهجور. لم نعد نوصي به ونخطط لإزالته قريبا.';
 $locale['new_update_avalaible'] = "تحديث [LINK]PHPFusion v[VERSION] جديد[/LINK] متوفر . الرجاء التحديث!";

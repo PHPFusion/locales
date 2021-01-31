@@ -17,7 +17,7 @@ $locale['error_invalid_theme'] = "من فضلك حدد ثيم صحيح";
 $locale['error_input_checkbox'] = "يرجى وضع علامة على صندوق تحديد الإختيار هذا";
 $locale['error_input_file'] = "من فضلك حدد ملفاً صحيحاً";
 $locale['error_secure_file'] = "تم رفض الملف الذي تم تحميله بسبب احتمال حدوث حمولة ضارة.";
-$locale['error_input_login'] = "Incorrect username or password";
+$locale['error_input_login'] = "خطأ في اسم المستخدم أو كلمة المرور";
 // Admin Login
 $locale['cookie_title'] = "انتهت الجلسة";
 $locale['cookie_description'] = "لا توجد مصادقة صالحة / أو جلسة العمل الخاصة بك ربما قد انتهت المهلة المحددة لها . يرجى تسجيل الدخول مرة أخرى.";
