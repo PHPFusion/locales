@@ -1,7 +1,7 @@
 <?php
 $locale['theme_1000'] = "Správce vzhledu";
 $locale['theme_1001'] = "Název vzhledu:";
-$locale['theme_1002'] = "Přednastavené vzhledy";
+$locale['theme_1002'] = "Předvolby témata";
 $locale['theme_1003'] = "Naloženo";
 $locale['theme_1004'] = "Zatížení";
 $locale['theme_1005'] = "Správa vzhledu";
@@ -24,7 +24,7 @@ $locale['theme_1020'] = "Nastavení widgetů";
 $locale['theme_1021'] = "widget|widgety|widgetů";
 $locale['theme_1022'] = "Přehled vzhledu";
 $locale['theme_1023'] = "Ovládací prvky widgetů";
-$locale['theme_1024'] = "Přednastavený vzhled";
+$locale['theme_1024'] = "Předvolba témata";
 $locale['theme_1025'] = "Popis vzhledu: ";
 $locale['theme_1026'] = "Autor vzhledu: ";
 $locale['theme_1027'] = "Widgety vzhledu: ";
