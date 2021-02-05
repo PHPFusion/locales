@@ -1,7 +1,7 @@
 <?php
 $locale['ALT_001'] = 'Masz';
 $locale['ALT_002'] = 'Nie ma żadnych wiadomości';
-$locale['ALT_003'] = 'nową wiadomość';
+$locale['ALT_003'] = 'Nowa wiadomość';
 $locale['ALT_004'] = 'Członek od';
 $locale['ALT_005'] = 'Szukaj...';
 $locale['ALT_006'] = 'Stworzone przez';

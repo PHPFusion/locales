@@ -105,9 +105,9 @@ $locale['news_0352'] = "Ta kategoria już istnieje.";
 $locale['news_0400'] = "Zgłoszenia aktualności";
 $locale['news_0401'] = "Obraz zgłoszenia";
 $locale['news_0402'] = "Wymagać rozszerzenia aktualności?";
-$locale['news_0700'] = "Zatwierdź aktualność";
+$locale['news_0700'] = "Dodaj aktualność";
 $locale['news_0701'] = "Dziękujemy za zgłoszenie twojej aktualności";
-$locale['news_0702'] = "Zatwierdź inną aktualność";
+$locale['news_0702'] = "Dodaj inną aktualność";
 $locale['news_0703'] = "Użyj poniższego formularza do przesłania aktualności. Twoje zgłoszenie zostanie przejrzane przez administratora. [SITENAME] zastrzega sobie prawo do modyfikacji przesłanego materiału. Aktualność powinna być zgodna z tematyką strony. Nieodpowiednie zgłoszenia zostaną usunięte.";
 $locale['news_0704'] = "Powrót do [SITENAME]";
 

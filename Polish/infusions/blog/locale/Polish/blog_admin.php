@@ -106,9 +106,9 @@ $locale['blog_0600'] = "Zgłoszenia";
 $locale['blog_0601'] = "Obraz zgłoszenia";
 $locale['blog_0602'] = "Wymagać rozszerzenia wpisu?";
 // Public Submissions Form
-$locale['blog_0700'] = "Zatwierdź wpis";
+$locale['blog_0700'] = "Dodaj wpis";
 $locale['blog_0701'] = "Dziękujemy za zgłoszenie twojego wpisu";
-$locale['blog_0702'] = "Zatwierdź inny wpis";
+$locale['blog_0702'] = "Dodaj inny wpis";
 $locale['blog_0703'] = "Użyj poniższego formularza do przesłania wpisu. Twoje zgłoszenie zostanie przejrzane przez administratora. [SITENAME] zastrzega sobie prawo do modyfikacji przesłanego materiału. Wpis powinien być zgodny z tematyką strony. Nieodpowiednie zgłoszenia zostaną usunięte.";
 $locale['blog_0704'] = "Powrót do [SITENAME]";
 $locale['blog_601'] = "Wymiar miniatury:";
