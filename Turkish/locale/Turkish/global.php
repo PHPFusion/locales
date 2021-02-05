@@ -226,7 +226,7 @@ $locale['UM102'] = "SSS Gönder";
 $locale['UM096'] = "Hoşgeldiniz: ";
 $locale['UM097'] = "Kişisel menü";
 $locale['UM101'] = "Dili Değiştir";
-$locale['UM103'] = "Logoff as User";
+$locale['UM103'] = "Kullanıcı olarak giriş yap";
 // Gauges
 $locale['UM098'] = "ÖM Gelen Kutusu :";
 $locale['UM099'] = "ÖM Giden Kutusu :";
@@ -250,8 +250,8 @@ $locale['global_180'] = "Yönetim Ana Sayfası";
 $locale['global_181'] = "Siteye Dön";
 $locale['global_182'] = "Yönetici Şifresi girilmemiş veya yanlış.";
 $locale['global_183'] = "Giriş oturumunuzun süresi doldu. Lütfen tekrar giriş yapın.";
-$locale['global_184'] = "You are now logged in as %s";
-$locale['global_185'] = "You are now switched back to your own account.";
+$locale['global_184'] = "Şimdi %s olarak giriş yaptınız";
+$locale['global_185'] = "Artık kendi hesabınıza geri döndünüz.";
 
 // Do not add anything within global_183-190. To be reserved for code verification development.
 

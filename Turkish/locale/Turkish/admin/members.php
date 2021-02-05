@@ -69,7 +69,7 @@ $locale['ME_504'] = 'Güvenlik Yasağı';
 $locale['ME_505'] = 'İptal Et';
 $locale['ME_506'] = 'Anonimleştir';
 $locale['ME_507'] = 'Etkinleştir';
-$locale['ME_508'] = 'Login as User';
+$locale['ME_508'] = 'Kullanıcı olarak giriş yap';
 
 // a_message keys
 $locale['ME_550'] = 'Yasaklandı';
