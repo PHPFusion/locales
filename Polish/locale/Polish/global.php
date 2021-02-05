@@ -214,10 +214,10 @@ $locale['UM086'] = "wiadomość";
 $locale['UM087'] = "Wiadomości";
 $locale['UM088'] = "Obserwowane wątki";
 // Submit (news, link, article)
-$locale['UM089'] = "Zatwierdź...";
+$locale['UM089'] = "Dodaj...";
 $locale['UM090'] = "Dodaj aktualność";
 $locale['UM091'] = "Dodaj link";
-$locale['UM092'] = "Zatwierdź artykuł";
+$locale['UM092'] = "Dodaj artykuł";
 $locale['UM093'] = "Dodaj zdjęcie";
 $locale['UM094'] = "Dodaj plik";
 $locale['UM095'] = "Dodaj wpis";
