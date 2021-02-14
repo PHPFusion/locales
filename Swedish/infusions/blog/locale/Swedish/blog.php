@@ -1,0 +1,21 @@
+<?php
+$locale['blog_1000'] = "Blogg";
+$locale['blog_1001'] = "Blogg Hem";
+$locale['blog_1003'] = "Blogg Kategori";
+$locale['blog_1004'] = "Blogg Arkiv";
+$locale['blog_1005'] = "Bloggförfattare";
+$locale['blog_1006'] = "Läs vidare";
+$locale['blog_2001'] = "Senaste Bloggarna";
+$locale['blog_2002'] = "Mest kommenterade Bloggarna";
+$locale['blog_2003'] = "Högsta betygen";
+$locale['blog_3000'] = "Inga Blogg inlägg har skrivits ännu";
+$locale['blog_3001'] = "Ingen Kategori";
+$locale['blog_3002'] = "Inga inlägg";
+$locale['blog_3003'] = "Ingen författare";
+$locale['testimonial_rank'] = "Jag är %s av denna sida";
+$locale['testimonial_location'] = "och jag bor för närvarande i %s";
+$locale['testimonial_join'] = "Jag gick med %s";
+$locale['testimonial_web'] = "Jag kör också en annan sida på %s";
+$locale['testimonial_contact'] = "Om du behöver kontakta mig kan du nå mig på %s";
+$locale['testimonial_email'] = "Du kan också nå mig på min e-postadress på %s";
+$locale['blog_archive'] = "%b %Y";

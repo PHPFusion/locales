@@ -1,0 +1,21 @@
+<?php
+$locale['forum_tag_0100'] = "Forum Taggar";
+$locale['forum_tag_0101'] = "Taggar används för att organisera dina trådar och hjälpa dig med mikroorganisering av dina diskussionsämnen.";
+$locale['forum_tag_0102'] = "Nuvarande forumtagg";
+$locale['forum_tag_0103'] = "Skapa tagg";
+$locale['forum_tag_0104'] = "Redigera Tagg";
+$locale['forum_tag_0105'] = "Tagg skapad";
+$locale['forum_tag_0106'] = "Tagg uppdaterad";
+$locale['forum_tag_0107'] = "Tagg raderad";
+$locale['forum_tag_0110'] = "Webbplatsinformation";
+$locale['forum_tag_0111'] = "Diskussioner om hanteringen av denna webbplats";
+$locale['forum_tag_0200'] = "Tagg titel";
+$locale['forum_tag_0201'] = "Tagg beskrivning";
+$locale['forum_tag_0202'] = "Tagg färg";
+$locale['forum_tag_0203'] = "Språk för tagg";
+$locale['forum_tag_0204'] = "Tagg Status";
+$locale['forum_tag_0205'] = "Denna tagg är aktiv";
+$locale['forum_tag_0206'] = "Denna tagg är inaktiv";
+$locale['forum_tag_0207'] = "Skapa tagg";
+$locale['forum_tag_0208'] = "Uppdatera tagg";
+$locale['forum_tag_0209'] = "Det finns inga forumstaggar.";

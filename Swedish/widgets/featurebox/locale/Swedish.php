@@ -1,0 +1,36 @@
+<?php
+$locale['FBW_0100'] = "Funktioner";
+$locale['FBW_0101'] = "Funktioner Plugin";
+$locale['FBW_0200'] = "Titel";
+$locale['FBW_0201'] = "Beskrivning";
+$locale['FBW_0202'] = "Icontyp";
+$locale['FBW_0203'] = "CSS Icon";
+$locale['FBW_0204'] = "Bild Ikon";
+$locale['FBW_0205'] = "Välj eller ladda upp din ikonbild";
+$locale['FBW_0206'] = "Vänligen fyll i ikon konfigurationen";
+$locale['FBW_0207'] = "Ikon Klass";
+$locale['FBW_0208'] = "Se din svg ikonkod. dvs Font-Awesome: \"fa fa-thumbs-up-o\"";
+$locale['FBW_0209'] = "Ikonstorlek";
+$locale['FBW_0210'] = "Pixlar. Negativt tal är inte tillåtet.";
+$locale['FBW_0211'] = "Ikonfärg";
+$locale['FBW_0212'] = "Ikon staplad klass";
+$locale['FBW_0213'] = "Ikon staplad storlek";
+$locale['FBW_0214'] = "Ikon staplad klass";
+$locale['FBW_0215'] = "Länk url";
+$locale['FBW_0216'] = "Länk klass";
+$locale['FBW_0217'] = "Block marginaler och mellanrum";
+$locale['FBW_0218'] = "Ikon Marginal topp";
+$locale['FBW_0219'] = "Ange bottenmarginalen mellan ikonen och kanten";
+$locale['FBW_0220'] = "Ikon Marginal botten";
+$locale['FBW_0221'] = "Ange bottenmarginalen mellan ikonen och kanten";
+$locale['FBW_0222'] = "Box Padding";
+$locale['FBW_0223'] = "Ange avstånd på topp, vänster, höger, botten av rutan";
+$locale['FBW_0224'] = "Box Link Margin Top";
+$locale['FBW_0225'] = "Ange den översta marginalen mellan länken och beskrivningen";
+$locale['FBW_0226'] = "Box Link Margin Bottom";
+$locale['FBW_0227'] = "Ange bottenmarginalen mellan länken och kanten";
+$locale['FBW_0228'] = "Spara funktionen";
+$locale['FBW_0229'] = "Spara och stäng funktionen";
+$locale['FBW_0230'] = "Box klass";
+
+$locale['FBW_0300'] = "Ta reda på mer";

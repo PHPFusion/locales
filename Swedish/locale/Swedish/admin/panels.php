@@ -1,0 +1,90 @@
+<?php
+// Panel Management
+$locale['400'] = "Paneler";
+$locale['401'] = "Panelnamn";
+$locale['402'] = "Sida";
+$locale['403'] = "Ordning";
+$locale['404'] = "Typ";
+$locale['405'] = "Åtkomst";
+$locale['406'] = "Alternativ";
+$locale['407'] = "Nuvarande paneler";
+$locale['408'] = "Lägg till panel";
+$locale['409'] = "Redigera panel";
+$locale['410'] = "Du kan dra och släppa panelerna över panelfönstret för att växla positioner eller blanda panelen ordningen.";
+// Panel Settings
+$locale['420'] = "Vänster";
+$locale['421'] = "Övre Center";
+$locale['422'] = "Höger";
+$locale['423'] = "Fil";
+$locale['424'] = "PHP";
+$locale['425'] = "Nedre Center";
+$locale['426'] = "Under header";
+$locale['427'] = "Ovanför footer";
+$locale['428a'] = "Användare 1";
+$locale['428b'] = "Användare 2";
+$locale['428c'] = "Användare 3";
+$locale['428d'] = "Användare 4";
+// Panel Options1
+$locale['430'] = "Flytta till vänster";
+$locale['431'] = "Flytta till höger";
+$locale['432'] = "Flytta upp";
+$locale['433'] = "Flytta ner";
+$locale['435'] = "Aktivera";
+$locale['436'] = "Inaktivera";
+$locale['438'] = "Lägg till ny panel";
+$locale['439'] = "Uppdatera panelordningen";
+$locale['440'] = "Radera denna panel?";
+$locale['441'] = "Vänster";
+$locale['442'] = "Höger";
+$locale['443'] = "Upp";
+$locale['444'] = "Ner";
+$locale['445'] = "Flytta till övre";
+$locale['446'] = "Flytta till nedre";
+// Add/Edit Panel Form
+$locale['450'] = "Redigera panel";
+$locale['451'] = "Lägg till panel";
+$locale['452'] = "Panelnamn:";
+$locale['453'] = "Filnamn för panel:";
+$locale['454'] = "Panelens innehåll kommer att ignoreras om valt";
+$locale['455'] = "Innehåll för panel:";
+$locale['456'] = "Administrations lösenord:";
+$locale['457'] = "Panel Sida:";
+$locale['458'] = "Panelåtkomst:";
+$locale['459'] = "Visa panel på alla sidor";
+$locale['460'] = "Förhandsgranska panel";
+$locale['461'] = "Spara Panel";
+$locale['462'] = "Panelbegränsning:";
+$locale['463'] = "Exempel:";
+$locale['464'] = "Exkludera endast på dessa sidor";
+$locale['465'] = "Inkludera endast på dessa sidor";
+$locale['466'] = "Panelens språk:";
+$locale['467'] = "Visa endast på startsidan";
+$locale['468'] = "Panelens typ";
+$locale['469'] = "Ingen";
+$locale['469a'] = "Innehåll";
+// Update/Add new Panel Errors
+$locale['470'] = "Panelnamn ej definierat";
+$locale['471'] = "Panelnamnet upptaget";
+$locale['472'] = "Panelens innehåll ej definierat";
+$locale['473'] = "Panelens filnamn ej definierat";
+$locale['474'] = "Administratörslösenordet är felaktigt";
+$locale['475'] = "Det måste finnas minst en sektion i filterlistan för att använda filtret";
+// Update/Add new Panel Success/Fail
+$locale['480'] = "Uppdatera Panel";
+$locale['481'] = "Panelen gick ej att uppdatera";
+$locale['482'] = "Panelen uppdaterad";
+$locale['483'] = "Ny panel";
+$locale['484'] = "Kunde inte lägga till ny panel";
+$locale['485'] = "Ny panel sparad";
+$locale['486'] = "Tillbaka till Panelhantering";
+$locale['487'] = "Tillbaka till administrationspanel";
+$locale['488'] = "Panelernas ordning uppdaterad.";
+$locale['489'] = "Panelen borttagen.";
+//Visual Panel
+$locale['600'] = "Panel Administration";
+$locale['602'] = "Oanvända paneler";
+$locale['603'] = "Använda paneler";
+$locale['604'] = "Panel|Paneler";
+$locale['605'] = "";
+$locale['606'] = "Sidans innehåll";
+$locale['607'] = "Fil";
