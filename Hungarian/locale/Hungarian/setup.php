@@ -61,7 +61,7 @@ $locale['setup_0143'] = "A megadott tábla előtag már használatban van, és f
 $locale['setup_0144'] = "Adatbázis diagnosztika Elvégezve";
 // Step 1
 $locale['setup_1000'] = "Kérjük válassza ki a kívánt nyelvet:";
-$locale['setup_1001'] = "További nyelveket itt találhatsz: <a href='https://phpfusion.com/translations/'><strong>PHPFusion hivatalos támogatási oldal</strong></a>";
+$locale['setup_1001'] = "További nyelveket itt találhatsz: <a href='https://phpfusion.com/translations/' target='_blank'><strong>PHPFusion hivatalos támogatási oldal</strong></a>";
 $locale['setup_1002'] = "Üdvözöllek a PHPFusion 9 helyreállítási módba.";
 $locale['setup_1003'] = "Már installálva van egy rendszer.<br/>Kérjük válassz a következőkből a folytatáshoz.";
 $locale['setup_1004'] = "Új Telepítés";
