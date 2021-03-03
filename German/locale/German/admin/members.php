@@ -22,7 +22,7 @@ $locale['ME_420'] = 'Email Verst&auml;ken?';
 $locale['ME_421'] = 'Beitritts Datum';
 $locale['ME_422'] = 'Letzter Login';
 $locale['ME_423'] = 'IP Addresse';
-$locale['ME_424'] = 'IP Type';
+$locale['ME_424'] = 'IP-Typ';
 $locale['ME_425'] = 'Benutzer Grouppe';
 $locale['ME_426'] = 'Zeitzone';
 $locale['ME_427'] = 'Benutzer Status';
@@ -38,7 +38,7 @@ $locale['ME_436'] = 'Tage';
 $locale['ME_437'] = 'Update Benutzer';
 
 $locale['ME_450'] = 'Neue Benutzer hinzuf&uuml;gen';
-$locale['ME_451'] = '%s\'s Profile';
+$locale['ME_451'] = '%s Benutzer Profil';
 $locale['ME_452'] = 'Editiere %s\'s Profile';
 $locale['ME_453'] = 'L&ouml;sche Benutzer %s';
 $locale['ME_454'] = "Warnung!";
@@ -56,7 +56,7 @@ $locale['ME_465'] = 'Bitte beachte, dass einige Benutzer Inhalte eingereicht hab
 $locale['ME_466'] = 'Es wird dringend empfohlen, den Deaktivierungsprozess von L&ouml;schen auf Anonymisieren zu &auml;ndern, um Datenverlust zu verhindern!';
 $locale['ME_467'] = "Sette Deaktivierung-system auf anonymisieren.";
 $locale['ME_468'] = 'Automatische Deaktivierung von inaktiven Benutzern.';
-$locale['ME_469'] = 'User has been activated';
+$locale['ME_469'] = 'Benutzer wurde aktiviert';
 
 // Actions
 $locale['ME_500'] = 'Bann';
@@ -66,8 +66,8 @@ $locale['ME_503'] = 'Sperren';
 $locale['ME_504'] = 'Sicherheit Bann';
 $locale['ME_505'] = 'Abbruch';
 $locale['ME_506'] = 'Anonymisieren';
-$locale['ME_507'] = 'Activate';
-$locale['ME_508'] = 'Login as User';
+$locale['ME_507'] = 'Aktivieren';
+$locale['ME_508'] = 'Melden Sie sich als Benutzer an';
 
 // a_message keys
 $locale['ME_550'] = 'gebanned';

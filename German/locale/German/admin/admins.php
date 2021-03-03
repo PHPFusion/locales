@@ -1,6 +1,6 @@
 <?php
 // Administrators messages
-$locale['ADM_400'] = "Der Administrator wurde hinzugef&uuml;gt.";
+$locale['ADM_400'] = "Der Administrator wurde hinzugefügt";
 $locale['ADM_401'] = "Der Administrator wurde aktualisiert.";
 $locale['ADM_402'] = "Der Administrator wurde gel&ouml;scht.";
 // Search/Add Administrator
@@ -28,7 +28,7 @@ $locale['ADM_448'] = "Adminrechte speichern";
 $locale['ADM_449'] = "Einstellungen";
 $locale['ADM_450'] = "Alle sicheren Rechte markieren";
 // Popup Error/Warning Messages
-$locale['ADM_460'] = "Remove this administrator?";
+$locale['ADM_460'] = "Diesen Administrator entfernen?";
 $locale['ADM_461'] = "Willst du diesen Administrator wirklich hinzuf&uuml;gen?";
-$locale['ADM_462'] = "Einem Benutzer diese Adminrechte zu geben ist ein Sicherheitsrisiko!";
-$locale['ADM_463'] = "No action selected!";
+$locale['ADM_462'] = "Einem Benutzer diese Admin rechte zu geben ist ein Sicherheitsrisiko!";
+$locale['ADM_463'] = "Keine Aktion ausgewählt!";

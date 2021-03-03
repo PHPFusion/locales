@@ -1,7 +1,7 @@
 <?php
 // New locale for Quantum Fields
-$locale['fields_0100'] = "Diese Seite f&uuml;gt Tabellenfelder direkt in die Tabelle %s ein.";
-$locale['fields_0101'] = "Diese Seite f&uuml;gt Tabellenfelder direkt in die Tabelle %s ein, kombiniert mit der Tabelle DB_USERS &uuml;ber das Tabellenfeld %s.";
+$locale['fields_0100'] = "Diese Seite fügt Tabellenfelder direkt in die Tabelle %s ein";
+$locale['fields_0101'] = "Diese Seite fügt Tabellenfelder direkt in die Tabelle %s ein, kombiniert mit der Tabelle DB_USERS über das Tabellenfeld %s";
 $locale['fields_0102'] = "Es existieren keine Fehler in der Kategorie ";
 $locale['fields_0103'] = "Derzeit sind keine Seiten erstellt. Bitte f&uuml;ge eine Seite hinzu, wo du eine Kategorie als Seite anlegst.";
 $locale['fields_0104'] = "Feldname existiert in %s und umbennenen des Tabellenfeld schulg fehl. Bitte w&auml;hle einen anderen Namen.";
@@ -64,7 +64,7 @@ $locale['fields_0433'] = "Kategorie Reihenfolge";
 $locale['fields_0434'] = "Prim&auml;re Tabelle (%s)";
 $locale['fields_0435'] = "Prim&auml;re Tabelle Benutzer Spalte";
 $locale['fields_0436'] = "Icon Klasse";
-$locale['fields_0437'] = "icon for tabs";
+$locale['fields_0437'] = "icon für Tabs";
 
 $locale['fields_0450'] = "Kategorie";
 $locale['fields_0451'] = "Feldtitel";
@@ -102,18 +102,18 @@ $locale['fields_0483'] = "Feld in Benutzerlog speichern";
 $locale['fields_0484'] = "Feld Reihenfolge";
 $locale['fields_0485'] = "Feld bei Registrierung hinzuf&uuml;gen";
 $locale['fields_0488'] = "Feld speichern";
-$locale['fields_0489'] = "Images Only";
+$locale['fields_0489'] = "Nur Bilder";
 
 $locale['fields_0490'] = "Bytes (bytes)";
 $locale['fields_0491'] = "KB (Kilobytes)";
 $locale['fields_0492'] = "MB (Megabytes)";
 
-$locale['fields_0500'] = "Module";
+$locale['fields_0500'] = "Modul";
 $locale['fields_0501'] = "Textbox";
 $locale['fields_0502'] = "Drop &amp; Down";
 $locale['fields_0503'] = "Textarea";
 $locale['fields_0504'] = "Checkbox";
-$locale['fields_0505'] = "Switch";
+$locale['fields_0505'] = "Umschalten";
 $locale['fields_0506'] = "Datum";
 $locale['fields_0507'] = "Farbe";
 $locale['fields_0508'] = "Datei";
@@ -124,15 +124,15 @@ $locale['fields_0512'] = "Ort";
 $locale['fields_0513'] = "Nummer";
 $locale['fields_0514'] = "E-Mail";
 $locale['fields_0515'] = "Internet Adresse";
-$locale['fields_0516'] = "Contact Number";
+$locale['fields_0516'] = "Kontakt Nummer";
 
 $locale['fields_0600'] = "Es ist/sind %s Unterkategorie(n) in dieser Kategorie.";
 $locale['fields_0601'] = "Es ist/sind %s Benutzerfeld(er) in dieser Kategorie.";
 $locale['fields_0602'] = "Das Modul kann nicht installiert werden. Es fehlt die Tabellenfeldinformation.";
 
 $locale['fields_0650'] = "Bewege Feld ID ";
-$locale['fields_0651'] = " Up a slot and Field ID [FIELD_ID] down a slot.";
-$locale['fields_0652'] = " Down a slot and Field ID [FIELD_ID] up a slot.";
+$locale['fields_0651'] = " Einen Slot hoch und die Feld-ID [FIELD_ID] einen Slot runter.";
+$locale['fields_0652'] = " Einen Slot runter und die Feld-ID [FIELD_ID] einen Slot rauf.";
 $locale['fields_0653'] = "Keine R&uuml;ckmeldung";
 $locale['fields_0654'] = "L&ouml;sche Felder";
 $locale['fields_0655'] = "Cat ID wurde nicht fegunden. Bitte erneut &uuml;berfr&uuml;fen.";
@@ -141,14 +141,14 @@ $locale['fields_0657'] = " gesetzt zum hochladen.";
 $locale['fields_0658'] = " Geladen.";
 $locale['fields_0659'] = " Sprache fehlt!";
 $locale['fields_0660'] = "Keine Module gefunden";
-$locale['fields_0661'] = "Update Mode";
-$locale['fields_0662'] = "Save Mode";
+$locale['fields_0661'] = "Aktualisierungsmodus";
+$locale['fields_0662'] = "Modus speichern";
 $locale['fields_0663'] = "Tabellen Name";
 $locale['fields_0664'] = "Alte Tabellen information -";
 $locale['fields_0665'] = "Neue Tabellen information -";
-$locale['fields_0666'] = "Fork No.1 - Update Field on a different table";
+$locale['fields_0666'] = "Fork Nr.1 - Feld für eine andere Tabelle aktualisieren";
 $locale['fields_0667'] = "Spalten Konflikt. Es sind Spalten in [OLD_TABLE] die existieren in ";
-$locale['fields_0668'] = "Fork No.2 - Update Field on the same table";
-$locale['fields_0669'] = "Renaming column [FIELD_NAME] on [OLD_TABLE] to [FIELD_NAME_] with attributes of ";
+$locale['fields_0668'] = "Fork Nr.2 - Update-Feld in derselben Tabelle";
+$locale['fields_0669'] = "Umbenennen der Spalte [FIELD_NAME] in [OLD_TABLE] in [FIELD_NAME_] mit den Attributen von ";
 $locale['fields_0670'] = "Alte Daten";
-$locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";
+$locale['fields_0671'] = "Ihre Tabelle muss eine gültige Tabelle sein. Ihre Spalte muss eine Spalte einer Benutzer-Id in dieser Tabelle sein.";

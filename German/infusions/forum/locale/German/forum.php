@@ -1,6 +1,6 @@
 <?php
-$locale['error-DP001'] = "Keine Forenbeitr&auml;ge zum verschieben vorhanden.";
-$locale['error-MP000'] = "Beitr&auml;ge verschieben - Fehler";
+$locale['error-DP001'] = "Es sind Keine Foren Beiträge zum verschieben vorhanden.";
+$locale['error-MP000'] = "Beiträge verschieben - Fehler";
 $locale['error-MP001'] = "Das neue Thema existiert nicht.";
 $locale['error-MP002'] = "Die von Ihnen ausgew&auml;hlen Beitr&auml;ge existieren nicht, oder jemand anders hat diese bereits verschoben.";
 
@@ -335,12 +335,12 @@ $locale['forum_4102'] = "Diese Frage ist weit an die gesamte Community gerichtet
 $locale['forum_4103'] = "Community Punkte verliehen an {%user_name%}";
 $locale['forum_4104'] = "Wir möchten Sie darüber informieren, dass es keine ausgewählte Antwort innerhalb der Community Frist gibt, die Antwort mit der höchsten Stimmenmehrheit mit der Hälfte der Punkte verliehen wurde. Du kannst die beste Antwort auf deine Hülle {%link_start%}hier ansehen.{%link_end%}";
 $locale['forum_4105'] = "Sie haben eine Auszeichnung verdient!";
-$locale['forum_4106'] = "Congratulations for earning half of the total bounty points made on the question in {%thread_link%}. Your answer was selected by default because it has received the highest vote by the community before bounty time ended.";
-$locale['forum_4107'] = "Award Bounty";
-$locale['forum_4108'] = "The bounty has been awarded as requested.";
-$locale['forum_4109'] = "Thread bounty not awarded";
-$locale['forum_4110'] = "Thread bounty cannot be given to yourself.";
-$locale['forum_4120'] = "There are no forum ID or thread id defined. Please define either one.";
+$locale['forum_4106'] = "Herzlichen Glückwunsch, dass Sie die Hälfte der Gesamt schuld punkte auf die Frage in {%thread_link%} erhalten haben. Ihre Antwort wurde standardmäßig ausgewählt, da sie die höchste Stimme von der Community erhalten hat, bevor die Bounty Zeit endete.";
+$locale['forum_4107'] = "Auszeichnung";
+$locale['forum_4108'] = "Die Auszeichnung wurde wie gewünscht vergeben.";
+$locale['forum_4109'] = "Thread-Bounty nicht verliehen";
+$locale['forum_4110'] = "Thread Bounty kann nicht an dich selbst gegeben werden.";
+$locale['forum_4120'] = "Es sind keine Forum-ID oder Thread-ID definiert. Bitte definieren Sie eine.";
 $locale['forum_4121'] = "Es gibt keine Aktivitäten in diesem Forum.";
 
 $locale['forum_p001'] = "1 Tag";
@@ -353,7 +353,7 @@ $locale['forum_p090'] = "3 Monate";
 $locale['forum_p180'] = "6 Monate";
 $locale['forum_p999'] = "Alle Ergebnisse";
 $locale['forum_perm_access'] = "Sie %s alle Themen in diesem Forum sehen.";
-$locale['forum_perm_bounty'] = "You %s set up a bounty in this discussion thread.";
+$locale['forum_perm_bounty'] = "Sie %s auf dieses Thema antworten.";
 $locale['forum_perm_create_poll'] = "Sie %s Umfragen in diesem Forum erstellen.";
 $locale['forum_perm_download'] = "Sie %s Anh&auml;nge in diesem Forum herunterladen.";
 $locale['forum_perm_edit_poll'] = "Sie %s die Umfrage in diesem Thema bearbeiten.";

@@ -1,13 +1,13 @@
 <?php
-$locale['100'] = "Fusion File Manager";
+$locale['100'] = "Fusion-Datei-Manager";
 
 // Delete Image
-$locale['400'] = "Bild l&ouml;schen";
-$locale['401'] = "Das Bild wurde gel&ouml;scht.";
-$locale['402'] = "Zur&uuml;ck zur Bilderverwaltung";
-$locale['403'] = "Zur&uuml;ck zur Admin&uuml;bersicht";
+$locale['400'] = "Bild löschen";
+$locale['401'] = "Das Bild wurde gelöscht";
+$locale['402'] = "Zurück zur Bilder Verwaltung";
+$locale['403'] = "Zurück zur Admin Übersicht";
 // Upload Image
-$locale['420'] = "Bild hinzuf&uuml;gen";
+$locale['420'] = "Bild hinzufügen";
 $locale['421'] = "Dateiname:";
 $locale['422'] = "Hauptbilder";
 $locale['423'] = "Artikelbilder";

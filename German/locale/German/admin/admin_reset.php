@@ -1,8 +1,8 @@
 <?php
-$locale['apw_title'] = "Administratoren-Passw&ouml;rter Zur&uuml;cksetzen";
-$locale['apw_desc'] = "&Auml;ndert die Login- &amp; Adminpassw&ouml;rter der Administratoren";
-$locale['apw_admin1'] = "Administrator zur6uuml;cksetzen";
-$locale['apw_400'] = "Zur&uuml;cksetzen bei:";
+$locale['apw_title'] = "Administratoren-Passwörter Zurücksetzen";
+$locale['apw_desc'] = "Ändert die Login- & Admin Passwörter der Administratoren";
+$locale['apw_admin1'] = "Administrator zurücksetzen";
+$locale['apw_400'] = "Zurücksetzen bei:";
 $locale['apw_401'] = "Alle Administratoren";
 $locale['apw_402'] = "nur Seitenadministratoren";
 $locale['apw_403'] = "nur Administratoren";
@@ -28,8 +28,8 @@ $locale['apw_420'] = "Erfolgreich";
 $locale['apw_421'] = "Grund";
 $locale['apw_422'] = "von";
 $locale['apw_423'] = "Kein Grund angegeben.";
-$locale['apw_424'] = "Admins reset:";
-$locale['apw_425'] = "Admins failed:";
+$locale['apw_424'] = "Admins zurücksetzen:";
+$locale['apw_425'] = "Admins fehlgeschlagen:";
 $locale['apw_426'] = "Es wurde kein Password ver&auml;ndertNo password is modified.";
 $locale['apw_427'] = "Option";
 $locale['apw_428'] = "Soll der Log wirklich gel&ouml;scht werden?";

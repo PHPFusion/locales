@@ -8,7 +8,7 @@ $locale['502'] = "Der Reaktivierungslink ist nicht g&uuml;ltig.<br /><br />
 $locale['503'] = "Der Reaktivierungslink kann deinen Account nicht reaktivieren.<br />
 ";
 // Send confirmation mail
-$locale['504'] = "Account re-activated at [SITENAME]";
+$locale['504'] = "Account bei [SITENAME] reaktiviert";
 $locale['505'] = "Hallo [USER_NAME],
 
 ";

@@ -23,7 +23,7 @@ $locale['BBCA_418'] = "Smileys in diesem Test deaktivieren.";
 $locale['BBCA_418a'] = "Test Nachricht";
 $locale['BBCA_418b'] = "Du musst eine Nachricht angeben, um die BB-Codes zu testen.";
 // Notices
-$locale['BBCA_430'] = "BB Code has been moved Up.";
-$locale['BBCA_431'] = "BB Code has been moved Down.";
-$locale['BBCA_432'] = "BB Code has been Enabled.";
-$locale['BBCA_433'] = "BB Code has been Disabled.";
+$locale['BBCA_430'] = "Der BB-Code wurde nach unten verschoben.";
+$locale['BBCA_431'] = "Der BB-Code wurde nach unten verschoben.";
+$locale['BBCA_432'] = "Der BB-Code wurde aktiviert.";
+$locale['BBCA_433'] = "Der BB-Code wurde deaktiviert.";

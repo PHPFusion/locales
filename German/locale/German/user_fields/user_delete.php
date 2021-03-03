@@ -1,5 +1,5 @@
 <?php
-$locale['uf_delete'] = "L&ouml;sche den Benutzer";
-$locale['uf_delete_desc'] = "L&ouml;sche den Benutzer";
-$locale['uf_delete_del'] = "Delete Me";
-$locale['uf_delete_exit'] = "Account Deleted...";
+$locale['uf_delete'] = "Lösche den Benutzer";
+$locale['uf_delete_desc'] = "Lösche den Benutzer";
+$locale['uf_delete_del'] = "Lösche mich";
+$locale['uf_delete_exit'] = "Benutzerkonto ist gelöscht...";

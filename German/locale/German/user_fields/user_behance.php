@@ -1,5 +1,5 @@
 <?php
 $locale['uf_behance'] = "Behance";
-$locale['uf_behance_id'] = "Behance Username";
-$locale['uf_behance_desc'] = "Behance Profile Page";
-$locale['uf_behance_error'] = "Behance Username can not be left empty.";
+$locale['uf_behance_id'] = "Echter Benutzername";
+$locale['uf_behance_desc'] = "Profil Seite";
+$locale['uf_behance_error'] = "Echter Benutzer-Nachname darf nicht leer gelassen werden.";

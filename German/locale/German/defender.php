@@ -1,6 +1,6 @@
 <?php
-$locale['validate'] = "Bitte &uuml;berpr&uuml;fe das Feld.";
-$locale['error_request'] = "Es ist ein Fehler w&auml;hrend der Verarbeitung deiner Anfrage aufgetreten.";
+$locale['validate'] = "Bitte überprüfen und bestätigen Sie das Feld.";
+$locale['error_request'] = "Es ist ein Fehler während der Verarbeitung deiner Anfrage aufgetreten";
 $locale['regex_error'] = "Bitte &uuml;berpr&uuml;fe das Feld %s.";
 // Text fields errors
 $locale['error_input_username'] = "Bitte gib einen gültigen Benutzernamen ein";
@@ -17,15 +17,15 @@ $locale['error_invalid_theme'] = "Du musst ein g&uuml;ltiges Seitendesign ausw&a
 $locale['error_input_checkbox'] = "Du musst dieses K&auml;stchen ausw&auml;hlen.";
 $locale['error_input_file'] = "Du musst eine g&uuml;ltige Datei ausw&auml;hlen.";
 $locale['error_secure_file'] = "Die hochgeladene Datei wurde wegen böswilligem Inhalt abgelehnt.";
-$locale['error_input_login'] = "Incorrect username or password";
+$locale['error_input_login'] = "Falscher Benutzername oder falsches Passwort";
 // Admin Login
 $locale['cookie_title'] = "Deine Session ist abgelaufen.";
 $locale['cookie_description'] = "Es existiert keine g&uuml;ltige Authentifizierung, oder deine Session ist abgelaufen. Bitte melde dich erneut an.";
 $locale['cookie_expired'] = "Dein Administrations-Cookie ist abgelaufen. Bitte melde dich erneut an.";
 $locale['password_invalid'] = "Falsches Passwort";
 $locale['password_invalid_description'] = "Das angegebene Passwort ist fehlerhaft. Bitte versuche es erneut.";
-$locale['prefix_error'] = "Contact prefix requires attention.";
-$locale['contact_error'] = "Contact number requires attention.";
+$locale['prefix_error'] = "Das Kontaktpräfix erfordert Aufmerksamkeit.";
+$locale['contact_error'] = "Die Kontaktnummer erfordert Aufmerksamkeit.";
 $locale['cookie_error'] = "Cookie Fehler";
 $locale['cookie_error_description'] = "Du musst in deinem Browser Cookies aktiviert haben, um dich in der Administration anzumelden.";
 $locale['validate_title'] = "Du musst etwas &uuml;berpr&uuml;fen!";
@@ -72,16 +72,16 @@ $locale['df_402'] = "%s ist kein g&uuml;ltiges Passwort.";
 $locale['df_403'] = "%s ist keine g&uuml;ltige Nummer.";
 $locale['df_404'] = "%s ist kein g&uuml;ltiges Datum.";
 $locale['df_405'] = "%s ist keine g&uuml;ltige Adresse.";
-$locale["df_406"] = "%s has an unknown type set.";
+$locale["df_406"] = "%s hat einen unbekannten Typ gesetzt.";
 $locale['df_415'] = "Der Dateiname ist nicht g&uuml;ltig.";
 $locale['df_416'] = "Die Datei ist zu gro&szlig;. Die Datei muss kleiner als %s sein..";
-$locale['df_417'] = "Upload file is not a valid file type. File must be one of the following file types - %s";
+$locale['df_417'] = "Upload-Datei ist kein gültiger Dateityp. Datei muss einer der folgenden Dateitypen sein - %s";
 $locale['df_418'] = "Die Datei ist in Ordnung, aber die Endung ung&uuml;ltig. Bitte &auml;ndere die Endung und lade die Datei erneut hoch.";
 $locale['df_419'] = "Die Bildverifizierung ist fehlgeschlagen. Bitte mache dein Bild nochmals.";
 $locale['df_420'] = "Der Ordner existiert nicht. Bitte erstelle den Ordner mit deinem FTP Programm manuell und versuche es erneut.";
 $locale['df_421'] = "Das Bild darf eine maximale Gr&ouml;&szlig;e von %uw x %uh Pixel haben.";
 $locale['df_422'] = "Es ist ein unbekannter Fehler mit dem Query aufgetreten.";
-$locale['df_423'] = "File was not uploaded properly. Please try again";
+$locale['df_423'] = "Die Datei wurde nicht korrekt hochgeladen. Bitte versuche es nochmals";
 $locale['df_424'] = "Die hochzuladenden Dateien &uuml;berschreiten das maximale erlaubte Limit. Bitte versuche es mit weniger Dateien nochmals.";
 
 // ReCaptcha2

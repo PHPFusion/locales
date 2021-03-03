@@ -170,7 +170,7 @@ $locale['global_093'] = " von ";
 $locale['global_094'] = " von ";
 // Guest User Menu
 $locale['global_100'] = "Anmelden";
-$locale['global_101'] = "Login ID";
+$locale['global_101'] = "Anmelde-ID";
 $locale['global_101a'] = "Benutzername";
 $locale['global_101b'] = "E-Mail Adresse";
 $locale['global_101c'] = "E-Mail Adresse oder Benutzername";
@@ -193,7 +193,7 @@ $locale['global_126'] = "Nachricht";
 $locale['global_127'] = "Nachrichten";
 $locale['global_128'] = "Einsendung";
 $locale['global_129'] = "Einsendungen";
-$locale["global_130"] = "Panel %s could not be found";
+$locale["global_130"] = "Panel %s konnte nicht gefunden werden";
 // User Menu
 $locale['UM060'] = "Login";
 $locale['UM061'] = "Benutzername";
@@ -204,7 +204,7 @@ $locale['UM063'] = "Angemeldet bleiben";
 $locale['UM064'] = "Anmelden";
 $locale['UM065'] = "Noch keinen Account? [LINK]Klicke hier[/LINK], um einen zu erstellen.";
 $locale['UM066'] = "Passwort vergessen? [LINK]Klicke hier[/LINK], um ein neues anzufordern.";
-$locale['UM067'] = "(not recommended on public or shared computer)";
+$locale['UM067'] = "(nicht empfohlen auf öffentlichem oder geteiltem Computer)";
 $locale['UM080'] = "Profil bearbeiten";
 $locale['UM081'] = "Private Nachrichten";
 $locale['UM082'] = "Mitgliederliste";
@@ -227,7 +227,7 @@ $locale['UM102'] = "FAQ einsenden";
 $locale['UM096'] = "Willkommen: ";
 $locale['UM097'] = "Pers&ouml;nliches Men&uuml;";
 $locale['UM101'] = "Sprache wechseln";
-$locale['UM103'] = "Logoff as User";
+$locale['UM103'] = "Abmeldung als Benutzer";
 // Gauges
 $locale['UM098'] = "PN Eingang";
 $locale['UM099'] = "PN Ausgang";
@@ -251,8 +251,8 @@ $locale['global_180'] = "Administration Start";
 $locale['global_181'] = "Zur&uuml;ck zur Seite";
 $locale['global_182'] = "Du hast kein Administrator Passwort angegeben oder es war ung&uuml;ltig.";
 $locale['global_183'] = "Ihre Anmeldung ist abgelaufen, bitte melden Sie sich erneut an.";
-$locale['global_184'] = "You are now logged in as %s";
-$locale['global_185'] = "You are now switched back to your own account.";
+$locale['global_184'] = "Sie sind nun angemeldet als %s";
+$locale['global_185'] = "Du bist jetzt wieder auf dein eigenes Konto gewechselt.";
 
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
@@ -298,8 +298,8 @@ $locale['global_409'] = "Dieser Account wurde aus Sicherheitsgr&uuml;nden gebann
 $locale['global_410'] = "Der Grund daf&uuml;r ist: ";
 $locale['global_411'] = "Dieser Account wurde storniert.";
 $locale['global_412'] = "Dieser Account wurde anonymisiert, m&ouml;glicherweise aufgrund von Inaktivit&auml;t.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
+$locale['global_413'] = "Der Benutzername ist verfügbar";
+$locale['global_414'] = "Der Benutzername ist nicht verfügbar";
 // Flood control
 $locale['global_440'] = "Automatischer Ban durch die Floodkontrolle";
 $locale['global_441'] = "Account gebannt auf [SITENAME]";
@@ -379,8 +379,8 @@ $locale['back'] = "Zur&uuml;ck";
 $locale['forward'] = "Vorw&auml;rts";
 $locale['go'] = "Los";
 $locale['cancel'] = "Abbrechen";
-$locale['clear'] = "Clear";
-$locale['move'] = "Move";
+$locale['clear'] = "Löschen";
+$locale['move'] = "Verschiebe";
 $locale['move_up'] = "Aufw&auml;rts";
 $locale['move_down'] = "Abw&auml;rts";
 $locale['load_more'] = "Weitere Eintr&auml;ge laden";
@@ -403,7 +403,7 @@ $locale['reactivate'] = "Reaktivieren";
 $locale['user'] = "Benutzer";
 $locale['promote'] = "F&ouml;rdern";
 $locale['show'] = "Anzeigen";
-$locale['hide'] = "Hide";
+$locale['hide'] = "Verstecken";
 $locale['actions'] = "Actionen";
 $locale['language'] = "Sprache";
 $locale['loading'] = "Lade...";
@@ -516,7 +516,7 @@ $locale['fmt_points'] = "Punkt|Punkte";
 $locale['fmt_admin'] = "Admin|Admins";
 $locale['fmt_group'] = "Gruppe|Gruppen";
 $locale['fmt_category'] = "Kategori|Kategorien";
-$locale['fmt_review'] = "review|reviews";
+$locale['fmt_review'] = "bewertung | Bewertungen";
 $locale['fmt_infusion'] = "Infusion|Infusionen";
 // include Defender locales
 include_once __DIR__."/defender.php";

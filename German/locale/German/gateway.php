@@ -32,14 +32,14 @@ $locale['gateway_029'] = "Hundert";
 $locale['gateway_030'] = "Tausend";
 $locale['gateway_031'] = "Millionen";
 $locale['gateway_032'] = "Billionen";
-$locale['gateway_033'] = "trillion";
-$locale['gateway_034'] = "quadrillion";
+$locale['gateway_033'] = "trillionen";
+$locale['gateway_034'] = "billiarden";
 $locale['gateway_035'] = "quintillion";
 $locale['gateway_036'] = "sextillion";
 $locale['gateway_037'] = "septillion";
-$locale['gateway_038'] = "octillion";
-$locale['gateway_039'] = "nonillion";
-$locale['gateway_040'] = "decillion";
+$locale['gateway_038'] = "oktillion";
+$locale['gateway_039'] = "nonillionen";
+$locale['gateway_040'] = "dezillion";
 $locale['gateway_041'] = "undecillion";
 $locale['gateway_042'] = "duodecillion";
 $locale['gateway_043'] = "tredecillion";
@@ -47,12 +47,12 @@ $locale['gateway_044'] = "quattuordecillion";
 $locale['gateway_045'] = "quindecillion";
 $locale['gateway_046'] = "sexdecillion";
 $locale['gateway_047'] = "septendecillion";
-$locale['gateway_048'] = "octodecillion";
+$locale['gateway_048'] = "oktodecillion";
 $locale['gateway_049'] = "novemdecillion";
 $locale['gateway_050'] = "vigintillion";
 $locale['gateway_051'] = "hundert";
 
-$locale['gateway_052'] = "Please enable Javascript before you can register";
+$locale['gateway_052'] = "Bitte aktivieren Sie Javascript, bevor Sie sich registrieren können";
 
 // Honeypot default Array, can be made user defined by db later with a Gateway interface that has a lot of options.
 $locale['gateway_053'] = "Fax";
@@ -60,18 +60,18 @@ $locale['gateway_054'] = "Telefon";
 $locale['gateway_055'] = "Adresse";
 $locale['gateway_056'] = "E-Mail";
 $locale['gateway_057'] = "Name";
-$locale['gateway_058'] = "user";
+$locale['gateway_058'] = "mitglieder";
 $locale['gateway_059'] = "Passwort";
 
 // General
-$locale['gateway_060'] = "What is";
+$locale['gateway_060'] = "Was ist";
 $locale['gateway_061'] = "in";
-$locale['gateway_062'] = "Words";
-$locale['gateway_063'] = "Numbers";
-$locale['gateway_064'] = "You must answer the question";
-$locale['gateway_065'] = "Proceed";
+$locale['gateway_062'] = "Wörter";
+$locale['gateway_063'] = "Nummern";
+$locale['gateway_064'] = "Bitte beantworte die Frage";
+$locale['gateway_065'] = "Fortfahren";
 
-$locale['gateway_066'] = "Your answer is incorrect!<br/>Please write all answers in one line. Example: twentysix or nineteen";
-$locale['gateway_067'] = "Try Again!";
-$locale['gateway_068'] = "Please try again later!";
+$locale['gateway_066'] = "Deine Antwort ist falsch! <br/> Bitte schreiben Sie alle Antworten in eine Zeile. Beispiel: sechsundzwanzig oder neunzehn";
+$locale['gateway_067'] = "Nochmal versuchen!";
+$locale['gateway_068'] = "Bitte versuche es später noch einmal!";
 $locale['gateway_069'] = "Fusion GateWay";

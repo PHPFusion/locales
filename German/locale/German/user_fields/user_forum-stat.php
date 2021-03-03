@@ -1,4 +1,4 @@
 <?php
-$locale['uf_forum-stat'] = "Forenbeitr&auml;ge";
-$locale['uf_forum-stat_desc'] = "Displays number of forum posts.";
-$locale['uf_forum-stat_na'] = "Please install Forum infusion.";
+$locale['uf_forum-stat'] = "Forenbeiträge";
+$locale['uf_forum-stat_desc'] = "Anzahl der Forenbeiträge.";
+$locale['uf_forum-stat_na'] = "Bitte installieren Sie die Forum-Infusion.";

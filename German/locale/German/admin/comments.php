@@ -13,5 +13,5 @@ $locale['431'] = "L&ouml;schen";
 $locale['432'] = "Benutzer IP:";
 $locale['433'] = "Willst du diesen Kommentar wirklich entfernen?";
 $locale['434'] = "Keine Kommentare verfasst.";
-$locale['435'] = "Do you really want to add this user to a blacklist?";
-$locale['436'] = "Your comment are blacklisted.";
+$locale['435'] = "Wollen Sie diesen Benutzer wirklich zu einer Blacklist hinzufügen?";
+$locale['436'] = "Ihr Kommentar ist auf Blackliste.";

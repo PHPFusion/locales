@@ -11,7 +11,7 @@ $locale['SL_0017'] = "Der Navigationslink wurde erfolgreich entfernt.";
 $locale['SL_0018'] = "Der Navigationslink wurde erfolgreich bearbeitet.";
 // Site Links form
 $locale['SL_0020'] = "Link Name:";
-$locale['SL_0020a'] = "Link Icon";
+$locale['SL_0020a'] = "Link-Symbol";
 $locale['SL_0021'] = "Link URL:";
 $locale['SL_0022'] = "Sichtbarkeit:";
 $locale['SL_0023'] = "Reihenfolge:";
@@ -50,8 +50,8 @@ $locale['SL_0052'] = "Reihenfolge";
 $locale['SL_0053'] = "Optionen";
 
 $locale['SL_0062'] = "Derzeit wurden noch keine Navigationslinks hinzugef&uuml;gt.";
-$locale['SL_0063'] = "Use BBCode in Link Name?";
-$locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
+$locale['SL_0063'] = "BBCode im Linknamen verwenden?";
+$locale['SL_0064'] = "Wenn Sie dies aktivieren, wird der Linkname mit BBcodes neu formatiert";
 
 $locale['SL_0070'] = "Symbol";
 $locale['SL_0071'] = "Neues Fenster?";

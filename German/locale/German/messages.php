@@ -130,9 +130,9 @@ $locale['627'] = "Fehler";
 $locale['628'] = "Die private Nachricht konnte nicht gesendet werden. Der Posteingang des Empf&auml;ngers ist voll.";
 $locale['629'] = "Du kannst die markierten Nachrichten nicht in das Postfach verschieben, da sonst das Limit &uuml;berschritten wird.";
 $locale['630'] = " Nachrichten Limit";
-$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
+$locale['631'] = "Diese Nachricht wurde automatisch von Bot gesendet und erfordert keine Antwort.";
 
-$locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
-$locale['701'] = "Sender User ID does not exist in DB. Sequence Aborted.";
-$locale['702'] = "Message Recipient User ID is invalid";
-$locale['703'] = "You are flooding, send_pm halted";
+$locale['700'] = "Der Posteingang ist voll. Löschen Sie ihn oder aktualisieren Sie ihn auf 102 oder 103 Status";
+$locale['701'] = "Absender-Benutzer-ID existiert in DB nicht abgebrochen.";
+$locale['702'] = "ID des Nachrichtenempfängers ist ungültig";
+$locale['703'] = "Du bist überflutet, send_pm unterbrochen";

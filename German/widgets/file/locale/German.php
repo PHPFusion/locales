@@ -1,8 +1,8 @@
 <?php
 $locale['f0100'] = "Titel";
-$locale['f0102'] = "File Path from Root Directory";
-$locale['f0103'] = "Save File";
-$locale['f0104'] = "Save and Close File";
-$locale['f0105'] = "WARNING: File inclusion is not found";
-$locale['f0106'] = "Use Server Hosted File";
-$locale['f0107'] = "File Widget";
+$locale['f0102'] = "Dateipfad vom Root-Verzeichnis";
+$locale['f0103'] = "Datei speichern";
+$locale['f0104'] = "Speichern und schliessen";
+$locale['f0105'] = "WARNUNG: Datei-Inklusion nicht gefunden";
+$locale['f0106'] = "Server Hosted Datei verwenden";
+$locale['f0107'] = "Datei-Widget";
