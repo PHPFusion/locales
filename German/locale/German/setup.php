@@ -246,8 +246,11 @@ $locale['224'] = "Privatsph&auml;hre";
 $locale['230'] = "Herzlich Willkommen auf deiner neuen Webseite!<br /><br />";
 
 // Final message
-$locale['240'] = "Die Installation von PHPFusion v7 ist nun abgeschlossen und benutzbar.<br />
-";
+$locale['240'] = "Das Setup ist abgeschlossen, PHPFusion 8 ist jetzt einsatzbereit.<br />
+Klicken Sie auf Fertigstellen, um zu Ihrer PHPFusion betriebenen Website zu gelangen.<br />
+<strong>Hinweis:</strong> Nachdem Sie Ihre Seite eingegeben haben, sollten Sie das Setup löschen. hp von
+Ihrem Server und chmod Ihre config.php zurück zu 644 zu Sicherheitszwecken.<br /><br />
+Vielen Dank, dass Sie PHPFusion gewählt haben.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";

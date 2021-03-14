@@ -10,7 +10,7 @@ $locale['412'] = "Die Artikel Kategorie konnte nicht gel&ouml;scht werden.";
 $locale['413'] = "Es befinden sich noch Artikel in dieser Kategorie.";
 $locale['414'] = "Die Artikel Kategorie wurde gel&ouml;scht.";
 // Category form
-$locale['420'] = "Kategoriename";
+$locale['420'] = "Kategorie Name:";
 $locale['421'] = "Kategorie Beschreibung:";
 $locale['422'] = "Sortieren nach:";
 $locale['423'] = "Artikel ID";
@@ -30,5 +30,5 @@ $locale['445'] = "Keine Artikel Kategorien definiert.";
 // Delete Article category
 $locale['450'] = "Willst du diese Kategorie wirklich löschen?";
 // Error Messages
-$locale['460'] = "Du musst einen Namen f&uuml;r die Blogkategorie angeben.";
+$locale['460'] = "Bitte geben Sie einen Kategorie namen ein.";
 $locale['461'] = "Diese Kategorie ist bereits vorhanden.";

@@ -1,11 +1,10 @@
 <?php
-$locale['title'] = "PHPFusion Core 8 Edition Setup";
-$locale['sub-title'] = "PHPFusion Core 8 Edition Setup";
-$locale['os_version'] = '8.0';
+$locale['title'] = "PHPFusion Core 8 Edition Einrichten";
+$locale['sub-title'] = "PHPFusion Core 8 Edition Einrichten";
 $locale['xml_lang'] = "de";
 $locale['charset'] = "utf-8";
 $locale['001'] = "Schritt 1: Sprache";
-$locale['002'] = "Schritt 2: Schreibrechte &Uuml;berpr&uuml;fung";
+$locale['002'] = "Schritt 2: Datei- und Ordner Berechtigungen";
 $locale['003'] = "Schritt 3: Datenbank Einstellungen";
 $locale['004'] = "Schritt 4: Konfiguration und Datenbank erstellen";
 $locale['005'] = "Schritt 5: Seiten Administrator erstellen";
@@ -16,9 +15,9 @@ $locale['009'] = "Weiter";
 
 // Step 1
 $locale['010'] = "Bitte w&auml;hle die gew&uuml;nschte Sprache aus:";
-$locale['011'] = "Weitere Sprachen kannst du auf <a href='http://www.phpfusion.com/' title='http://www.phpfusion.com/' target='_blank' rel='nofollow'>http://www.phpfusion.com</a> herunterladen.";
+$locale['011'] = "Weitere Sprachen kannst du auf <a href='http://phpfusion.com/' title='http://phpfusion.com/' target='_blank' rel='nofollow'>http://phpfusion.com</a> herunterladen.";
 $locale['012'] = "Wenn du PHPFusion nutzten m&ouml;chtest, musst du die aktuellen Lizenzbedinungen akzeptieren.";
-$locale['013'] = " Ich habe die aktuellen <a href='https://www.phpfusion.com/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
+$locale['013'] = " Ich habe die aktuellen <a href='https://phpfusion.com/licensing/?agpl' target='_blank'>Lizenzbedienungen</a> gelesen und akzeptiere diese";
 
 // Step 2
 $locale['020'] = "Um die Installation fortzusetzten, m&uuml;ssen die folgenden Dateien/Ordner schreibbar sein:";
@@ -90,7 +89,7 @@ $locale['080'] = "Administratoren";
 $locale['081'] = "Artikelkategorien";
 $locale['082'] = "Artikel";
 $locale['083'] = "Banner";
-$locale['084'] = "BB Codes";
+$locale['084'] = "BB-Codes Verwaltung";
 $locale['085'] = "Blacklist";
 $locale['086'] = "Kommentare";
 $locale['087'] = "Eigene Seiten";
@@ -105,9 +104,9 @@ $locale['095'] = "Infusionen Panels";
 $locale['096'] = "Mitglieder";
 $locale['097'] = "Newskategorien";
 $locale['098'] = "News";
-$locale['099'] = "Panels";
+$locale['099'] = "Panel Verwaltung";
 $locale['100'] = "Fotogalerien";
-$locale['101'] = "PHP Info";
+$locale['101'] = "PHP-Info";
 $locale['102'] = "Umfragen";
 $locale['103'] = "";
 $locale['104'] = "Navigationslinks";
@@ -145,7 +144,10 @@ $locale['129f'] = "Themeeinstellungen";
 $locale['130a'] = "Blogkategorien";
 $locale['130b'] = "Blog";
 $locale['130c'] = "Blogeinstellungen";
-$locale['130d'] = "Fusion File Manager";
+$locale['130d'] = "Fusion-Datei-Manager";
+/*$locale['130e'] = "Fusion Security"; // for a future release, no need to translate atm
+$locale['130f'] = "Database Optimization";
+$locale['130g'] = "User IP Lookup";*/
 
 // Step 6 - Navigation Links
 $locale['130'] = "Start";
@@ -174,8 +176,8 @@ $locale['164'] = "Willkommensnachricht";
 $locale['165'] = "Forenthemenliste";
 $locale['166'] = "Benutzerinformationen";
 $locale['167'] = "Mitgliederumfragen";
-$locale['168'] = "RSS Feeds";
-$locale['169'] = "Blog Archives";
+$locale['168'] = "RSS-Feeds";
+$locale['169'] = "Blog Archiv";
 
 //Multilanguage table rights
 $locale['MLT001'] = "Artikel";
@@ -184,12 +186,12 @@ $locale['MLT003'] = "Downloads";
 $locale['MLT004'] = "FAQs";
 $locale['MLT005'] = "Foren";
 $locale['MLT006'] = "News";
-$locale['MLT007'] = "Photogallery";
+$locale['MLT007'] = "Fotogalerie";
 $locale['MLT008'] = "Umfragen";
 $locale['MLT009'] = "E-Mail Templates";
 $locale['MLT010'] = "Weblinks";
 $locale['MLT011'] = "Seitenlinks";
-$locale['MLT012'] = "Panels";
+$locale['MLT012'] = "Panel Verwaltung";
 $locale['MLT013'] = "Forenr&auml;nge";
 $locale['MLT014'] = "Blog";
 
@@ -199,7 +201,7 @@ $locale['181'] = "Downloads";
 $locale['182'] = "Spiele";
 $locale['183'] = "Grafiken";
 $locale['184'] = "Hardware";
-$locale['185'] = "Journal";
+$locale['185'] = "Magazin";
 $locale['186'] = "Mitglieder";
 $locale['187'] = "Modifikationen";
 $locale['188'] = "Filme";
@@ -244,8 +246,11 @@ $locale['224'] = "Privatsph&auml;hre";
 $locale['230'] = "Herzlich Willkommen auf deiner neuen Webseite!<br /><br />";
 
 // Final message
-$locale['240'] = "Die Installation von PHPFusion v7 ist nun abgeschlossen und benutzbar.<br />
-";
+$locale['240'] = "Das Setup ist abgeschlossen, PHPFusion 8 ist jetzt einsatzbereit.<br />
+Klicken Sie auf Fertigstellen, um zu Ihrer PHPFusion betriebenen Website zu gelangen.<br />
+<strong>Hinweis:</strong> Nachdem Sie Ihre Seite eingegeben haben, sollten Sie das Setup löschen. hp von
+Ihrem Server und chmod Ihre config.php zurück zu 644 zu Sicherheitszwecken.<br /><br />
+Vielen Dank, dass Sie PHPFusion gewählt haben.";
 
 // Default time settings
 $locale['shortdate'] = "%d.%m.%y";
@@ -265,9 +270,9 @@ $locale['T203'] = "Hallo [RECEIVER],\r\n\r\nes gibt einen neuen Beitrag im Thema
 $locale['T301'] = "Kontaktformular";
 $locale['T302'] = "[SUBJECT]";
 $locale['T303'] = "[MESSAGE]";
-$locale['T304'] = "Email activation";
+$locale['T304'] = "E-Mail-Aktivierung";
 $locale['T305'] = "Herzlich Willkommen auf [SITENAME]";
-$locale['T306'] = "Hello USER_NAME,<br/>\r\nWelcome to SITENAME. Here are your login details:<br/>\r\nUsername: USER_NAME<br/>\r\nPassword: USER_PASSWORD<br/>\r\nPlease activate your account via the following link: ACTIVATION_LINK<br/>\r\nRegards,<br/>\r\nSITEUSERNAME";
+$locale['T306'] = "Hallo USER_NAME, <br/>\nWillkommen bei SITENAME. Hier sind Ihre Anmeldedaten: <br/>\nBenutzername: USER_NAME <br/>\nPasswort: USER_PASSWORD <br/>\nBitte aktivieren Sie Ihr Konto über den folgenden Link: ACTIVATION_LINK <br/>\nGrüße, <br/>\nSITEUSERNAME";
 
 // Language Admin
 $locale['L001'] = "Mehrsprachig";

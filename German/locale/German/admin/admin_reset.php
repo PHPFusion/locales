@@ -1,9 +1,9 @@
 <?php
 // Infusion titles & description
-$locale['apw_title'] = "Administratoren-Passwörter Zurücksetzen";
+$locale['apw_title'] = "Administrator-Passwort zurücksetzen";
 $locale['apw_desc'] = "Ändert die Login- & Admin Passwörter der Administratoren";
 $locale['apw_admin1'] = "Administrator zurücksetzen";
-$locale['400'] = "Zurücksetzen bei:";
+$locale['400'] = "Administrator(en) zum Zurücksetzen:";
 $locale['401'] = "Alle Administratoren";
 $locale['402'] = "nur Seitenadministratoren";
 $locale['403'] = "nur Administratoren";
