@@ -84,8 +84,9 @@ $locale['df_422'] = "Erreur inconnue (requête)";
 $locale['df_423'] = "Le fichier n'a pas été téléchargé correctement. Veuillez réessayer";
 $locale['df_424'] = "Le téléchargement actuel de fichiers dépasse la limite maximale. Veuillez réessayer et attacher moins de fichiers.";
 
-// ReCaptcha2
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Module de champ Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "CLÉ DU SITE par Google";
 $locale['grecaptcha_placeholder_2'] = "CLÉ SÉCURÉE par Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Sombre";
 $locale['grecaptcha_0103'] = "Type de validation";
 $locale['grecaptcha_0103a'] = "Texte";
 $locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Veuillez entrer votre clé publique et privée de reCAPTCHA";

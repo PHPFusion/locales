@@ -84,8 +84,9 @@ $locale['df_422'] = "Kasalahan Query";
 $locale['df_423'] = "Imej tidak dapat dimuat naikkan oleh Server dengan betul. Sila cuba sekali lagi.";
 $locale['df_424'] = "Muatan naik ini melampaui batasan yang dibenarkan. Sila cuba sekali lagi dan kurangkan fail yang dipilih.";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google Recaptcha";
+// ReCaptcha
+$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Modul Isi Borang Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY daripada Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY daripada Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Gelap";
 $locale['grecaptcha_0103'] = "Jenis Pengesahan";
 $locale['grecaptcha_0103a'] = "Teks";
 $locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Sila isikan kekunci awam dan kekunci swasta reCAPTCHA";

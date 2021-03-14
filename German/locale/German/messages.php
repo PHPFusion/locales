@@ -123,9 +123,7 @@ $locale['622'] = "Gesendete Nachrichten automatisch speichern";
 $locale['623'] = "Einstellungen speichern";
 $locale['624'] = "Deine Einstellungen wurden erfolgreich aktualisiert.";
 $locale['625'] = "Neue private Nachricht auf [SITENAME]";
-$locale['626'] = "Du hast eine neue private Nachricht auf unserer Seite erhalten.
-
-";
+$locale['626'] = ",<br/>Sie haben eine neue private Nachricht mit dem Titel [SUBJECT] von [USER] am [SITENAME]erhalten. Sie können [LINK]Ihre private Nachricht lesen[/LINK]. Sie können die E-Mail-Benachrichtigung über das Optionsmenü der Seite Private Nachrichten deaktivieren, wenn Sie nicht mehr über neue Nachrichten benachrichtigt werden möchten.";
 $locale['627'] = "Fehler";
 $locale['628'] = "Die private Nachricht konnte nicht gesendet werden. Der Posteingang des Empf&auml;ngers ist voll.";
 $locale['629'] = "Du kannst die markierten Nachrichten nicht in das Postfach verschieben, da sonst das Limit &uuml;berschritten wird.";

@@ -84,8 +84,9 @@ $locale['df_422'] = "Nežinoma klaida (Užklausa)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Bandomi įkelti failai užima per daug vietos. Prašome bandyti dar kartą su mažiau failų.";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google Recaptcha";
+// ReCaptcha
+$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha laukelių modulis";
 $locale['grecaptcha_placeholder_1'] = "TINKLAPIO RAKTAS (SITE KEY) iš Google";
 $locale['grecaptcha_placeholder_2'] = "SLAPTAS RAKTAS (SECRET-KEY) iš Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Tamsus";
 $locale['grecaptcha_0103'] = "Patikros tipas";
 $locale['grecaptcha_0103a'] = "Tekstas";
 $locale['grecaptcha_0103b'] = "Garsas";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Prašome įvesti viešą ir privatų reCAPTCHA raktą";

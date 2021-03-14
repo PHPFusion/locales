@@ -84,8 +84,9 @@ $locale['df_422'] = "Bilinmeyen hata (Sorgu)";
 $locale['df_423'] = "Dosya düzgün yüklenmedi. Lütfen tekrar deneyin";
 $locale['df_424'] = "Mevcut yükleme dosyaları maksimum sınırın üzerinde. Lütfen tekrar deneyin ve daha az dosya ekleyin.";
 
-// ReCaptcha2
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Alan Modülü";
 $locale['grecaptcha_placeholder_1'] = "Google SITE KEY (Site Anahtarı)";
 $locale['grecaptcha_placeholder_2'] = "Google SECRET-KEY (Gizli Anahtar)";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Karanlık";
 $locale['grecaptcha_0103'] = "Doğrulama Türü";
 $locale['grecaptcha_0103a'] = "Metin";
 $locale['grecaptcha_0103b'] = "Ses";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Lütfen genel ve özel reCAPTCHA anahtarınızı girin";

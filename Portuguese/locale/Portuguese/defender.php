@@ -84,8 +84,9 @@ $locale['df_422'] = "Erro desconhecido (Consulta)";
 $locale['df_423'] = "Ficheiro(s) não submetidos. Por favor, tente novamente";
 $locale['df_424'] = "O upload atual de ficheiros é maior que o limite máximo. Por favor, tente novamente e anexe menos ficheiros .";
 
-// ReCaptcha2
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Módulo de Campo do Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "KEY SITE do Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY do Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Escuro";
 $locale['grecaptcha_0103'] = "Tipo de Validação";
 $locale['grecaptcha_0103a'] = "Texto";
 $locale['grecaptcha_0103b'] = "Áudio";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Por favor, insira a sua chave reCAPTCHA pública e privada";

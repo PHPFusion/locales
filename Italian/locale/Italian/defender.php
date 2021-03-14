@@ -84,8 +84,9 @@ $locale['df_422'] = "Errore sconosciuto (Query)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "caricamento corrente file è oltre il limite massimo. Si prega di riprovare e allegare meno file. ";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google Recaptcha";
+// ReCaptcha
+$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha campo modulo";
 $locale['grecaptcha_placeholder_1'] = "Sito chiave da Google";
 $locale['grecaptcha_placeholder_2'] = "Chiave segreta da Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Dark";
 $locale['grecaptcha_0103'] = "Tipo di convalida";
 $locale['grecaptcha_0103a'] = "Testo";
 $locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Inserisci la tua chiave pubblica e privata reCAPTCHA";

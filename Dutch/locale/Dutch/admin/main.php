@@ -2,7 +2,7 @@
 // Admin Links
 $locale['200'] = "[SITENAME] Beheerder paneel";
 $locale['200a'] = "Beheerder paneel";
-$locale['ac00'] = "Beheerder Index";
+$locale['ac00'] = "Beheerder startpagina";
 $locale['ac01'] = "Content Beheer";
 $locale['ac02'] = "Leden Beheer";
 $locale['ac03'] = "Systeem Beheer";
@@ -127,5 +127,5 @@ $locale['search_msg_102'] = 'Pagina\'s laden mislukt';
 $locale['search_msg_103'] = 'Zoekstring is te kort';
 $locale['search_msg_104'] = 'Er zijn geen resultaten om weer te geven';
 
-$locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
+$locale['deprecated_section'] = 'Deze sectie is verouderd. We raden het niet meer aan en zijn van plan om het binnenkort te verwijderen.';
 $locale['new_update_avalaible'] = "Een nieuwe [LINK]PHPFusion v[VERSION] update[/LINK] is beschikbaar. Graag bijwerken!";

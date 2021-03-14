@@ -109,9 +109,12 @@ Du kannst dein Adminpasswort nicht ändern, wenn du dein aktuelles Loginpasswort
 // Email activation
 $locale['u150'] = "Deine Registrierung ist fast abgeschlossen. Du erhältst in Kürze eine E-Mail mit deinen Logingetails und einem Link, um deinen Account zu bestätigen.";
 $locale['u151'] = "Herzlich Willkommen auf [SITENAME]";
-$locale['u152'] = "Hallo [USER_NAME],
-
-";
+$locale['u152'] = "Hallo NUTZER_NAME,<br/>
+Willkommen bei SITENAME. Hier sind Ihre Login-Daten:<br/>
+Benutzername: USER_NAME<br/>
+Passwort: USER_PASSWORD<br/>
+Bitte aktivieren Sie Ihr Konto über den folgenden Link: <a href='ACTIVATION_LINK'>Aktivieren Sie Konto</a><br/>
+Mit freundlichen Grüßen,<br/>SITEUSERNAME";
 
 $locale['u153'] = "Die Aktivierungs E-Mail konnte nicht gesendet werde.";
 $locale['u154'] = "Bitte [LINK]kontaktiere[/LINK] den Seiten Administrator.";
@@ -152,6 +155,12 @@ $locale['u195'] = "Du musst einen Sicherheitscode eingeben.";
 $locale['u200'] = "Eine Bestätigungs E-Mail wurde an deine neue E-Mail Adresse (%s) gesendet.";
 $locale['u201'] = "Deine neue E-Mail Adresse wird akzeptiert, wenn du den enthaltenen Link aufrufst.";
 $locale['u202'] = "E-Mail Adresse bei [SITENAME] bestätigen";
-$locale['u203'] = "Hallo [USER_NAME],
+$locale['u203'] = "Hallo [USER_NAME], <br/>Jemand hat diese E-Mail-Adresse in seinem Konto auf unserer Website festgelegt. <br/>Wenn Sie Ihre E-Mail-Adresse wirklich in diese ändern möchten, klicken Sie bitte auf den folgenden Link: <br/>
+[EMAIL_VERIFY_LINK] <br/>
 
-";
+Hinweis: Sie müssen angemeldet sein, um fortzufahren. <br/>
+
+Grüße,
+[SITEUSERNAME] <br/>
+
+[SITENAME]";

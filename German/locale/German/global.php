@@ -80,8 +80,7 @@ $locale['status8'] = "Inaktiv";
 $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Navigation";
-$locale['global_002'] = "Es wurden keine Links definiert.
-";
+$locale['global_002'] = "Es wurden keine Links definiert";
 $locale['global_003'] = "Nichts da für ein Vorschau";
 // Users Online
 $locale['global_010'] = "Benutzer Online";
@@ -278,12 +277,15 @@ $locale['global_204'] = "Foren";
 //Themes
 $locale['global_210'] = "Springe zu Inhalt";
 $locale['global_300'] = "Es wurde kein Theme gefunden.";
-$locale['global_301'] = "Es tut uns wirklich leid, aber leider kann die Webseite nicht angezeigt werden!<br /><br />
-";
-$locale['global_302'] = "Das ausgew&auml;hlte Theme in den Haupteinstellungen existiert nicht, oder ist nicht vollst&auml;ndig.";
+$locale['global_301'] = "Es tut uns wirklich leid, aber diese Seite kann nicht angezeigt werden. Aufgrund einiger Umstände kann kein Seitenthema gefunden werden.
+ Wenn Sie ein Website-Administrator sind, verwenden Sie bitte Ihren FTP-Client um ein für PHPFusion 9 entwickeltes Theme in den Theme-Ordner hochzuladen.
+ Nach dem Upload überprüfen Sie die Theme-Einstellungen, ob das ausgewählte Theme korrekt in Ihr Theme-Verzeichnis hochgeladen wurde.
+ Bitte beachten Sie, dass der hochgeladene Theme-Ordner genau den gleichen Namen haben muss (einschließlich Zeichensatz, Zeichensatz was auf Unix-basierten Servern wichtig ist)
+ wie auf der Seite Theme-Einstellungen ausgewählt.<br/>Wenn Sie regulär Mitglied dieser Seite sind, wenden Sie sich bitte an den Administrator der Seite über [SITE_EMAIL] E-Mail und melden Sie dieses Problem.";
+$locale['global_302'] = "Das in den Haupteinstellungen ausgewählte Thema existiert nicht oder ist unvollständig!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Oops! Dein Browser unterst&uuml;tzt kein JavaScript oder es wurde deaktiviert.
-";
+$locale['global_303'] = "Oh nein! Wo ist das JavaScript?<br/>Ihr Web-Browser hat kein JavaScript aktiviert oder unterstützt kein JavaScript.
+Bitte aktivieren Sie JavaScript in Ihrem Web-Browser, um diese Website richtig anzusehen, oder aktualisieren Sie auf einen Web-Browser, der JavaScript unterstützt.";
 // User Management
 $locale['global_400'] = "suspendiert";
 $locale['global_401'] = "gebannt";
@@ -303,26 +305,28 @@ $locale['global_414'] = "Der Benutzername ist nicht verfügbar";
 // Flood control
 $locale['global_440'] = "Automatischer Ban durch die Floodkontrolle";
 $locale['global_441'] = "Account gebannt auf [SITENAME]";
-$locale['global_442'] = "Hallo [USER_NAME],
-
-";
+$locale['global_442'] = "Guten Tag, [USER_NAME],<br/>
+Ihr Konto auf [SITENAME] wurde in sehr kurzer Zeit aus der IP [USER_IP] erwischt, dass zu viele Elemente an das System geschickt wurden, und wurden damit verboten. Dies wird getan, um zu verhindern, dass Bots Spam-Nachrichten in rascher Folge senden.<br/>
+Bitte wenden Sie sich an den Website-Administrator unter [SITE_EMAIL], um Ihr Konto wiederherzustellen oder melden Sie, wenn dies nicht der Fall war, der dieses Sicherheitsverbot verursachte.<br/>
+Grüß,<br/>[SITEUSERNAME]";
 // Authenticate Class
 $locale['global_450'] = "Suspendierung von System aufgehoben";
 $locale['global_451'] = "Suspendierung bei [SITENAME] aufgehoben";
-$locale['global_452'] = "Hallo USER_NAME,
-
-";
-$locale['global_453'] = "Hallo USER_NAME,
-
-";
+$locale['global_452'] = "Hallo NUTZER_NAME,<br/>
+Die Sperrung Ihres Kontos bei [SITEURL] wurde aufgehoben. Hier sind Ihre Login-Daten:<br/>
+Benutzername: USER_NAME<br/>Passwort: Versteckt aus Sicherheitsgründen<br/>
+Wenn Sie Ihr Passwort vergessen haben, können Sie es über den folgenden Link zurücksetzen: LOST_PASSWORD<br/>
+Mit freundlichen Grüßen,<br/>[SITEUSERNAME]";
+$locale['global_453'] = "Hallo NUTZER_NAME,<br/>Die Sperrung Ihres Kontos bei [SITEURL] wurde aufgehoben.<br/>
+Mit freundlichen Grüßen,<br/>[SITEUSERNAME]";
 $locale['global_454'] = "Account bei [SITENAME] reaktiviert";
-$locale['global_455'] = "Hallo USER_NAME,
-
-";
+$locale['global_455'] = "Hallo BENUTZER_NAME,<br/>
+Das letzte Mal, dass Sie sich bei [SITEURL] angemeldet haben und Ihr Konto nicht mehr als inaktiv markiert wurde.<br/>
+Grüße,<br/>[SITEUSERNAME]";
 $locale['global_456'] = "Neues Passwort bei [SITENAME]";
 $locale['global_457'] = "Hallo USER_NAME,
-
-";
+<br/>Ein neues Passwort wurde für Ihr Konto bei [SITENAME] gesetzt. Bitte finden Sie die beigefügten Login-Daten:<br/>
+Benutzername: USER_NAME<br/>Passwort: [PASSWORD]<br/>Mit freundlichen Grüßen,<br/>[SITEUSERNAME]";
 $locale['global_458'] = "Das neue Passwort f&uuml;r USER_NAME wurde gesetzt.";
 $locale['global_459'] = "Das neue Passwort f&uuml;r USER_NAME wurde gesetzt, jedoch konnte die E-Mail nicht versendet werden. Bitte teile das neue Passwort dem Benutzer manuell mit.";
 // Function parsebytesize()

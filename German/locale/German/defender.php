@@ -84,8 +84,9 @@ $locale['df_422'] = "Es ist ein unbekannter Fehler mit dem Query aufgetreten.";
 $locale['df_423'] = "Die Datei wurde nicht korrekt hochgeladen. Bitte versuche es nochmals";
 $locale['df_424'] = "Die hochzuladenden Dateien &uuml;berschreiten das maximale erlaubte Limit. Bitte versuche es mit weniger Dateien nochmals.";
 
-// ReCaptcha2
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Modul";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY von Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY von Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Dunkel";
 $locale['grecaptcha_0103'] = "&Uuml;berpr&uuml;fungs Typ";
 $locale['grecaptcha_0103a'] = "Text";
 $locale['grecaptcha_0103b'] = "Ton";
+$locale['grecaptcha_0104'] = "Ergebnis";
 $locale['grecaptcha_warn'] = "Du musst deinen Public und Private Key von reCAPTCHA angeben.";

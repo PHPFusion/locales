@@ -192,7 +192,7 @@ $locale['global_126'] = "bericht";
 $locale['global_127'] = "berichten";
 $locale['global_128'] = "inzending";
 $locale['global_129'] = "inzendingen";
-$locale["global_130"] = "Panel %s could not be found";
+$locale["global_130"] = "Paneel %s kon niet worden gevonden";
 // User Menu
 $locale['UM060'] = "Inloggen";
 $locale['UM061'] = "Gebruikersnaam";
@@ -226,7 +226,7 @@ $locale['UM102'] = "FAQ inzenden";
 $locale['UM096'] = "Welkom: ";
 $locale['UM097'] = "Persoonlijk menu";
 $locale['UM101'] = "Kies taal";
-$locale['UM103'] = "Logoff as User";
+$locale['UM103'] = "Afmelden als gebruiker";
 // Gauges
 $locale['UM098'] = "Berichten inbox:";
 $locale['UM099'] = "Berichten outbox:";
@@ -250,8 +250,8 @@ $locale['global_180'] = "Beheerder Index";
 $locale['global_181'] = "Terug naar site";
 $locale['global_182'] = "<strong>Waarschuwing:</strong> Beheerderwachtwoord niet opgegeven of incorrect.";
 $locale['global_183'] = "Uw inlogsessie is verlopen. Log alsjeblieft nogmaals in.";
-$locale['global_184'] = "You are now logged in as %s";
-$locale['global_185'] = "You are now switched back to your own account.";
+$locale['global_184'] = "Je bent nu ingelogd als '%s'";
+$locale['global_185'] = "Je wordt nu teruggeschakeld naar je eigen account.";
 
 // Do not add anything within global_183-190. To be reserved for code verification development.
 
@@ -293,8 +293,8 @@ $locale['global_409'] = "Dit account is verbannen om veiligheidsredenen.";
 $locale['global_410'] = "De reden hiervoor is: ";
 $locale['global_411'] = "Dit account is geannuleerd.";
 $locale['global_412'] = "Dit account is geanonimiseerd, waarschijnlijk door inactiviteit.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
+$locale['global_413'] = "Gebruikersnaam is beschikbaar";
+$locale['global_414'] = "Gebruikersnaam is niet beschikbaar";
 // Flood control
 $locale['global_440'] = "Automatische verbanning door Flood Control";
 $locale['global_441'] = "Uw account op [SITENAME] is verbannen";

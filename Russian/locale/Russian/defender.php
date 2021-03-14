@@ -84,8 +84,9 @@ $locale['df_422'] = "Неизвестная ошибка (Запрос)";
 $locale['df_423'] = "Файл не был загружен должным образом. Пожалуйста, попробуйте ещё раз.";
 $locale['df_424'] = "Вы превысили допустимое количество загружаемых файлов. Пожалуйста, попобуйте снова с меньшим количеством файлов.";
 
-// ReCaptcha2
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Модуль поля Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "Ключ сайта от Google";
 $locale['grecaptcha_placeholder_2'] = "Секретный ключ от Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Тёмная";
 $locale['grecaptcha_0103'] = "Тип проверки";
 $locale['grecaptcha_0103a'] = "Текст";
 $locale['grecaptcha_0103b'] = "Звук";
+$locale['grecaptcha_0104'] = "Сумма";
 $locale['grecaptcha_warn'] = "Пожалуйста, введите Ваши публичный и секретный ключи от reCAPTCHA";

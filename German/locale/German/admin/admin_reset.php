@@ -1,5 +1,5 @@
 <?php
-$locale['apw_title'] = "Administratoren-Passwörter Zurücksetzen";
+$locale['apw_title'] = "Administrator-Passwort zurücksetzen";
 $locale['apw_desc'] = "Ändert die Login- & Admin Passwörter der Administratoren";
 $locale['apw_admin1'] = "Administrator zurücksetzen";
 $locale['apw_400'] = "Zurücksetzen bei:";
@@ -10,12 +10,22 @@ $locale['apw_404'] = "Begr&uuml;ndung der Zur&uuml;cksetzung:";
 $locale['apw_405'] = "Login- &amp; Adminpasswort zur&uuml;cksetzen";
 $locale['apw_406'] = "Passw&ouml;rter zur&uuml;cksetzen";
 $locale['apw_407'] = "Passwort Zurücksetzung auf ";
-$locale['apw_408'] = "Hallo [USER_NAME],
+$locale['apw_408'] = "Hallo [USER_NAME],<br/>
+Ihr Login und Ihre Administratorpasswörter wurden zurückgesetzt: [SITEURL]:<br/>
 
-";
-$locale['apw_409'] = "Hallo [USER_NAME],
+Login-Passwort: [NEW_PASS]<br/>
+Admin Passwort: [NEW_ADMIN_PASS]<br/>
+Der Grund für diese Zurücksetzung ist: [RESET_MESSAGE]<br/>
 
-";
+Grüße,<br/>
+[ADMIN]";
+$locale['apw_409'] = "Hallo [USER_NAME],<br/>Ihr Login und Ihre Administratorpasswörter wurden zurückgesetzt: [SITEURL]:<br/>
+Login-Passwort: [NEW_PASS]<br/>
+Admin Passwort: [NEW_ADMIN_PASS]<br/>
+Der Grund für diese Zurücksetzung ist: [RESET_MESSAGE]<br/>
+
+Grüße,<br/>
+[ADMIN]";
 $locale['apw_410'] = "Ergebnisse";
 $locale['apw_411'] = "<strong>Hinweis:</strong> Du hast kein Adminpasswort angegeben oder es ist ung&uuml;ltig.";
 $locale['apw_412'] = "Adminpasswort:";

@@ -84,8 +84,9 @@ $locale['df_422'] = "Neznáma chyba (Dotaz)";
 $locale['df_423'] = "Súbor nebol nahraný správne. Prosím skúste znova";
 $locale['df_424'] = "Aktuálne nahrané súbory sú viac ako maximálny limit. Skúste to znova a pripojte menej súborov.";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google reCAPTCHA";
+// ReCaptcha
+$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google reCAPTCHA modul poľa";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Googlu";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "Tmavá";
 $locale['grecaptcha_0103'] = "Typ validácie";
 $locale['grecaptcha_0103a'] = "Text";
 $locale['grecaptcha_0103b'] = "Zvuk";
+$locale['grecaptcha_0104'] = "Skóre";
 $locale['grecaptcha_warn'] = "Zadajte prosím svoj kľúč stránky a tajný kľúč reCAPTCHA";

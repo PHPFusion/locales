@@ -322,14 +322,10 @@ $locale['setup_3704'] = "%d. %B %Y %H:%M:%S";
 $locale['setup_3800'] = "E-Mail Templates";
 $locale['setup_3801'] = "Neue private Nachricht";
 $locale['setup_3802'] = "Neue private Nachricht auf [SITENAME]";
-$locale['setup_3803'] = "Hallo [RECEIVER],
-
-";
+$locale['setup_3803'] = "Hallo [RECEIVER],<br/>Sie haben eine neue Private Nachricht mit dem Titel [SUBJECT] von [USER] um [SITENAME]erhalten. Sie können Ihre private Nachricht unter <a href=\\'[SITEURL]messages.php\\'>[SITEURL]Nachrichten lesen. hp</a><br/>Nachricht: [MESSAGE]<br/>Sie können die E-Mail-Benachrichtigung über das Optionsfeld der Seite Private Nachrichten deaktivieren, wenn Sie nicht mehr über neue Nachrichten benachrichtigt werden möchten.<br/>Grüße,<br/>[SENDER].";
 $locale['setup_3804'] = "Neuer Forenbeitrag";
 $locale['setup_3805'] = "Neuer Forenbeitrag auf [SITENAME]";
-$locale['setup_3806'] = "Hallo [RECEIVER],
-
-";
+$locale['setup_3806'] = "Hallo [RECEIVER],<br/>Eine Antwort wurde im Foren-Thread \\'[SUBJECT]\\' gepostet, die Sie auf [SITENAME] verfolgen. Sie können den folgenden Link benutzen, um die Antwort anzuzeigen:<br/>[THREAD_URL]<br/>Wenn Sie diesen Thread nicht mehr ansehen möchten, können Sie auf den Link \\'Tracking dieses Thread\\' klicken, der sich am Anfang des Threads befindet.<br/>Grüße<br/>[SENDER].";
 $locale['setup_3807'] = "Kontaktformular";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";

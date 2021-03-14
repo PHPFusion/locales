@@ -84,8 +84,9 @@ $locale['df_422'] = "Невідома помилка (запит)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Кількість файлів для завантаження перевищують допустиме значення. Будь ласка, приєднайте менше файлів і спробуйте ще раз.";
 
-// ReCaptcha2
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Поле для Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY від Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY від Google";
@@ -98,4 +99,5 @@ $locale['grecaptcha_0102b'] = "темна";
 $locale['grecaptcha_0103'] = "Тип перевірки";
 $locale['grecaptcha_0103a'] = "Текст";
 $locale['grecaptcha_0103b'] = "Звук";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Будь ласка, вкажіть Ваш публічний та приватний ключі для reCAPTCHA";
