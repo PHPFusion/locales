@@ -2,17 +2,17 @@
 // Download Category titles
 $locale['400'] = "Download Kategorie bearbeiten";
 $locale['401'] = "Download Kategorie hinzufügen";
-$locale['402'] = "Aktuell vorhandene Download Kategorien";
+$locale['402'] = "Aktuelle Download-Kategorien";
 // Download Category messages
-$locale['410'] = "Die Download Kategorie wurde hinzugefügt";
-$locale['411'] = "Die Download Kategorie wurde aktualisiert.";
-$locale['412'] = "Die Download Kategorie konnte nicht gelöscht werden";
-$locale['413'] = "Es befinden sich noch Downloads in dieser Kategorie.";
-$locale['414'] = "Die Download Kategorie wurde gelöscht";
+$locale['410'] = "Download-Kategorie hinzugefügt";
+$locale['411'] = "Download-Kategorie aktualisiert";
+$locale['412'] = "Download-Kategorie kann nicht gelöscht werden";
+$locale['413'] = "Es gibt Downloads, die mit dieser Kategorie verknüpft sind";
+$locale['414'] = "Download-Kategorie gelöscht";
 // Download Category form
 $locale['420'] = "Kategorie Name:";
 $locale['421'] = "Kategorie Beschreibung:";
-$locale['422'] = "Sortieren nach:";
+$locale['422'] = "Kategorie-Sortierung:";
 $locale['423'] = "Download ID";
 $locale['424'] = "Download Name";
 $locale['425'] = "Download Datum";
@@ -21,14 +21,14 @@ $locale['427'] = "Absteigend";
 $locale['428'] = "Kategorie-Zugriff:";
 $locale['429'] = "Kategorie speichern";
 // Current Download Categories
-$locale['440'] = "Kommentare erlaubt";
+$locale['440'] = "Kategorie";
 $locale['441'] = "Zugriff";
-$locale['442'] = "Optionen";
+$locale['442'] = "Einstellungen";
 $locale['443'] = "Bearbeiten";
-$locale['444'] = "Entfernen";
-$locale['445'] = "Keine Download Kategorien definiert.";
+$locale['444'] = "Löschen";
+$locale['445'] = "Es sind keine Download-Kategorien angelegt";
 // Delete Download category
-$locale['450'] = "Möchtest du diese Kategorie wirklich löschen?";
+$locale['450'] = "Diese Download-Kategorie löschen?";
 // Error Messages
 $locale['460'] = "Bitte geben Sie einen Kategorie namen ein.";
-$locale['461'] = "Es existiert bereits eine Kategorie mit dem selben Namen.";
+$locale['461'] = "Diese Kategorie ist bereits vorhanden.";

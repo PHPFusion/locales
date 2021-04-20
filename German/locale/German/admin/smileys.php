@@ -1,31 +1,31 @@
 <?php
 // Smiley titles
-$locale['401'] = "Smiley hinzuf&uuml;gen";
+$locale['401'] = "Smiley hinzufügen";
 $locale['402'] = "Smiley bearbeiten";
-$locale['400'] = "Aktuell vorhandene Smileys";
+$locale['400'] = "Aktuelle Smileys";
 // Smiley messages
-$locale['410'] = "Das Smiley wurde erfolgreich hinzugef&uuml;gt.";
-$locale['411'] = "Das Smiley wurde erfolgreich aktualisiert.";
-$locale['412'] = "Das Smiley wurde erfolgreich entfernt.";
-$locale['413'] = "Das Smiley konnte nicht aktualisiert werden.";
-$locale['414'] = "Das Smiley konnte nicht hinzugef&uuml;gt werden.";
-$locale['415'] = "Das Smiley K&uuml;rzel ist bereits in Verwendung.";
-$locale['416'] = "Bist du dir sicher, dass du das Smiley entfernen m&ouml;chtest?";
+$locale['410'] = "Smiley hinzugefügt";
+$locale['411'] = "Smiley aktualisiert";
+$locale['412'] = "Smiley gelöscht";
+$locale['413'] = "Smiley kann nicht aktualisiert werden";
+$locale['414'] = "Smiley kann nicht hinzugefügt werden";
+$locale['415'] = "Der Smiley-Code wird verwendet.";
+$locale['416'] = "Möchten Sie diesen Smiley wirklich löschen?";
 // Smiley form
-$locale['420'] = "K&uuml;rzel:";
-$locale['421'] = "Bild:";
-$locale['422'] = "Text:";
+$locale['420'] = "Smiley Code:";
+$locale['421'] = "Smiley Bild:";
+$locale['422'] = "Smiley Text:";
 $locale['423'] = "Smiley speichern";
-$locale['424'] = "Vorschau:";
+$locale['424'] = "Smiley-Vorschau:";
 // Current Smileys
-$locale['430'] = "K&uuml;rzel";
+$locale['430'] = "Code";
 $locale['431'] = "Bild";
 $locale['432'] = "Text";
-$locale['433'] = "Optionen";
+$locale['433'] = "Einstellungen";
 $locale['434'] = "Bearbeiten";
-$locale['435'] = "Entfernen";
-$locale['436'] = "Derzeit wurden noch keine Smileys hinzugef&uuml;gt.";
+$locale['435'] = "Löschen";
+$locale['436'] = "Es sind keine Smileys angelegt.";
 // Error Message
-$locale['437'] = "Du musst ein K&uuml;rzel f&uuml;r das Smiley angeben.";
-$locale['438'] = "Du musst ein Bild f&uuml;r das Smiley ausw&auml;hlen.";
-$locale['439'] = "Du musst einen Text f&uuml;r das Smiley angeben.";
+$locale['437'] = "Bitte geben Sie einen Smiley-Code ein";
+$locale['438'] = "Bitte wählen Sie einen Smiley";
+$locale['439'] = "Bitte geben Sie einen Smiley-Text ein";

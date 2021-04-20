@@ -1,40 +1,40 @@
 <?php
 // FAQ Category titles
-$locale['400'] = "Neue Kategorie hinzuf&uuml;gen";
+$locale['400'] = "FAQ Kategorie hinzufügen";
 $locale['401'] = "FAQ-Kategorie bearbeiten";
 // FAQ Category messages
-$locale['410'] = "Die FAQ Kategorie wurde hinzugef&uuml;gt";
-$locale['411'] = "Die FAQ Kategorie wurde erfolgreich aktualisiert";
-$locale['412'] = "Die FAQ Kategorie konnte nicht gel&ouml;scht werden.";
-$locale['413'] = "Es befinden sich noch FAQs in dieser Kategorie.";
-$locale['414'] = "Die FAQ Kategorie wurde erfolgreich gel&ouml;scht";
+$locale['410'] = "FAQ Kategorie hinzugefügt";
+$locale['411'] = "FAQ-Kategorie aktualisiert";
+$locale['412'] = "FAQ Kategorie kann nicht gelöscht werden";
+$locale['413'] = "Es gibt FAQs zu dieser Kategorie";
+$locale['414'] = "FAQ Kategorie gelöscht";
 // FAQ Category form
 $locale['420'] = "Kategorie Name";
-$locale['421'] = "Kategoriebeschreibung";
+$locale['421'] = "Kategorie Beschreibung";
 $locale['422'] = "Kategorie speichern";
 // FAQ titles
 $locale['500'] = "FAQ hinzufügen";
-$locale['501'] = "FAQ ändern";
-$locale['502'] = "Aktuell vorhandene FAQs";
+$locale['501'] = "FAQ bearbeiten";
+$locale['502'] = "Aktuelle FAQs";
 // FAQ messages
-$locale['510'] = "Die FAQ wurde hinzugef&uuml;gt.";
-$locale['511'] = "Die FAQ wurde aktualisiert.";
-$locale['512'] = "Die FAQ wurde gel&ouml;scht.";
+$locale['510'] = "FAQ hinzugefügt";
+$locale['511'] = "FAQ aktualisiert";
+$locale['512'] = "FAQ gelöscht";
 // FAQ Form
-$locale['520'] = "Kommentare erlaubt";
-$locale['521'] = "FAQs";
-$locale['522'] = "Anwort";
+$locale['520'] = "Kategorie";
+$locale['521'] = "Frage";
+$locale['522'] = "Antwort";
 $locale['523'] = "FAQ speichern";
 // Current FAQs
-$locale['540'] = "Frage";
-$locale['541'] = "Optionen";
+$locale['540'] = "Kategorie / Frage";
+$locale['541'] = "Einstellungen";
 $locale['542'] = "Bearbeiten";
-$locale['543'] = "Entfernen";
-$locale['544'] = "Es befinden sich keine FAQs in dieser Kategorie.";
-$locale['545'] = "Keine FAQ Kategorien definiert.";
-$locale['546'] = "Willst du diese FAQ Kategorie wirklich löschen?";
-$locale['547'] = "Antwort";
+$locale['543'] = "Löschen";
+$locale['544'] = "Es wurden keine FAQs hinzugefügt.";
+$locale['545'] = "Keine FAQ Kategorien angelegt.";
+$locale['546'] = "Diese FAQ-Kategorie löschen?";
+$locale['547'] = "Diese FAQ löschen?";
 // Error Messages
-$locale['460'] = "Du musst einen Namen f&uuml;r die Blogkategorie angeben.";
-$locale['461'] = "Es existiert bereits eine Blogkategorie mit dem selben Namen.";
-$locale['462'] = "Du musst eine FAQ Frage sowie eine FAQ Antwort eingeben.";
+$locale['460'] = "Bitte geben Sie einen Kategorie Name ein.";
+$locale['461'] = "Diese Kategorie existiert bereits.";
+$locale['462'] = "Bitte geben Sie eine Faq-Frage und eine Faq-Antwort ein.";

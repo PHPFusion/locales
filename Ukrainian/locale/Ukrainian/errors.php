@@ -12,6 +12,6 @@ $locale['E_USER_ERROR'] = "Помилка через задану користу
 $locale['E_USER_WARNING'] = "Помилка через задану користувачем функцію trigger_error()";
 $locale['E_USER_NOTICE'] = "Зауваження через задану користувачем функцію trigger_error()";
 $locale['E_ALL'] = "Визначення усіх повідомлень, крім E_STRICT";
-$locale['E_STRICT'] = "";
+// $locale['E_STRICT'] = "";
 $locale['err_100'] = "немає";
 $locale['err_101'] = "<strong>WARNING:</strong> An error occurred while parsing the page. Please see PHPFusion's <a href='[ERROR_LOG_URL]' class='alt'>error log</a> for more details.";

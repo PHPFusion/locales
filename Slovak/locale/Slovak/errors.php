@@ -12,6 +12,6 @@ $locale['E_USER_ERROR'] = "Chyba vytvorená užívateľom pomocou trigger_error(
 $locale['E_USER_WARNING'] = "Upozornenie vytvorené užívateľom pomocou trigger_error() funkcie";
 $locale['E_USER_NOTICE'] = "Poznámka vytvorená užívateľom pomocou trigger_error() funkcie";
 $locale['E_ALL'] = "Definuje všetky správy okrem E_STRICT";
-$locale['E_STRICT'] = "";
+// $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
 $locale['err_101'] = "<strong>WARNING:</strong> Chyba pri parsovaní stránky. Viac informácií nájdete na <a href='[ERROR_LOG_URL]'>chybovom zázname</a>.";

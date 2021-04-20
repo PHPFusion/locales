@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Downloads";
 // Download File Information
-$locale['410'] = "[NEU]";
+$locale['410'] = "[NEW]";
 $locale['411'] = "Lizenz";
 $locale['412'] = "Betriebssystem:";
 $locale['413'] = "Version:";
@@ -19,22 +19,22 @@ $locale['423'] = "Version";
 $locale['424'] = "Downloads";
 $locale['425'] = "Kommentare";
 $locale['426'] = "Bewertung";
-$locale['427'] = "Erstellt von:";
-$locale['428'] = "Information";
+$locale['427'] = "Erstellt:";
+$locale['428'] = "Info";
 $locale['429'] = "Download Statistik";
 $locale['429a'] = "Nicht verfügbar";
 // Downloads Notices
-$locale['430'] = "Keine Download Kategorien definiert";
-$locale['431'] = "Es wurden bis jetzt noch keine Downloads in dieser Kategorie abgelegt.";
+$locale['430'] = "Keine Download-Kategorien angelegt";
+$locale['431'] = "Zu dieser Kategorie wurden keine Downloads hinzugefügt";
 // Statistics
 $locale['440'] = "Heruntergeladen:";
-$locale['441'] = "Die Meist Heruntergeladen:";
-$locale['442'] = "Neuster Download:";
+$locale['441'] = "Meist heruntergeladen:";
+$locale['442'] = "Neueste:";
 // Search and filters
-$locale['450'] = "Nutze den Filter auf der rechten Seite, um einen Download zu finden.";
+$locale['450'] = "Verwenden Sie die Filter auf der rechten Seite, um die gewünschten Downloads zu finden.";
 $locale['451'] = "Zeige alle";
 $locale['452'] = "ID";
-$locale['453'] = "Titel";
+$locale['453'] = "Name";
 $locale['454'] = "Autor";
 $locale['455'] = "Downloads";
 $locale['456'] = "Datum";

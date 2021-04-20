@@ -1,9 +1,9 @@
 <?php
-$locale['400'] = "Weblinks";
+$locale['400'] = "Web Links";
 // Download File Information
 $locale['410'] = "Neu";
-$locale['411'] = "Hinzugef&uuml;gt am:";
-$locale['412'] = "Besuch(e):";
+$locale['411'] = "Datum hinzugefügt:";
+$locale['412'] = "Besuche:";
 // Downloads Notices
-$locale['430'] = "Es wurden noch keine Weblink Kategorien angelegt.";
-$locale['431'] = "Es wurden noch keine Weblinks in dieser Kategorie abgelegt.";
+$locale['430'] = "Keine Weblink Kategorien angelegt";
+$locale['431'] = "Zu dieser Kategorie wurden keine Weblinks hinzugefügt";

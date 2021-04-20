@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Zugriff verweigert! Du hast nicht gen&uuml;gend Rechte, um diese Seite zu sehen.";
-$locale['401'] = "Unbekannter Fehler!";
-$locale['402'] = "Der Seiteninhalt kann nicht angezeigt werden.";
-$locale['403'] = "Zur&uuml;ck zur Startseite";
+$locale['400'] = "Zugriff verweigert! <br/> Sie dürfen diese Seite nicht sehen.";
+$locale['401'] = "Interner Fehler";
+$locale['402'] = "Seiteninhalt kann nicht abgerufen werden.";
+$locale['403'] = "Zurück";

@@ -1,5 +1,5 @@
 <?php
-$locale['100'] = "Benutzerlog";
+$locale['100'] = "Benutzer Protokoll";
 $locale['101'] = "ID";
 $locale['102'] = "Datum";
 $locale['103'] = "Benutzername";
@@ -9,13 +9,13 @@ $locale['106'] = "Neuer Wert";
 $locale['107'] = "Sortiert nach:";
 $locale['108'] = "Benutzer Name / Benutzer ID:";
 $locale['109'] = "Absenden";
-$locale['110'] = "Alle Eintr&auml;ge l&ouml;schen, welche &Auml;lter sind als";
+$locale['110'] = "Einträge löschen, die älter als sind";
 $locale['111'] = "Tage";
-$locale['112'] = "Momentan sind keine Protokolle (Logs) verfügbar.";
-$locale['113'] = "Ausgew&auml;hlter Benutzername:";
+$locale['112'] = "Derzeit sind keine Protokolle verfügbar.";
+$locale['113'] = "Ausgewählter Benutzername:";
 $locale['114'] = "Abbrechen";
 $locale['115'] = "Benutzer Feld:";
-$locale['116'] = "Entfernen";
-$locale['117'] = "Optionen";
-$locale['118'] = "Alle Eintr&auml;ge &auml;lter als %d TAge wurden gel&uoml;scht.";
-$locale['119'] = "Benutzer log Eintrag gel&uoml;scht";
+$locale['116'] = "Löschen";
+$locale['117'] = "Einstellungen";
+$locale['118'] = "Alle Einträge, die älter als %d Tage sind, werden gelöscht.";
+$locale['119'] = "Benutzer Protokoll-Eintrag gelöscht";

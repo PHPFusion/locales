@@ -28,12 +28,12 @@ $locale['minute'] = "Minute";
 $locale['minute_a'] = "Minuten";
 $locale['second'] = "Sekunde";
 $locale['second_a'] = "Sekunden";
-$locale['just_now'] = "Gerade eben";
+$locale['just_now'] = "gerade jetzt";
 $locale['now'] = 'jetzt';
 $locale['ago'] = "zuvor";
 // Name
 $locale['name'] = "Vollständiger Name";
-$locale['username_pretext'] = "Dein öffentlicher Benutzername ist ebenfalls identisch mit der Adresse Ihres Benutzerprofils, die sich unter %s %s befindet";
+$locale['username_pretext'] = "Ihr öffentlicher Benutzername entspricht auch Ihrer Benutzer Profil Adresse unter: %s %s";
 $locale['first_name'] = "Vorname";
 $locale['middle_name'] = "Zweiter Vorname";
 $locale['last_name'] = "Nachname";
@@ -42,16 +42,16 @@ $locale['user0'] = "Öffentlich";
 $locale['user1'] = "Mitglied";
 $locale['user2'] = "Administrator";
 $locale['user3'] = "Seiten Administrator";
-$locale['user_na'] = "Nicht definiert";
+$locale['user_na'] = "N/A";
 $locale['user_guest'] = "Gast";
 $locale['user_anonymous'] = "Anonymer Benutzer";
 $locale['genitive'] = "%s's %s";
 // Standard User Status
 $locale['status0'] = "Aktiv";
-$locale['status1'] = "Gebannt";
+$locale['status1'] = "Gesperrt";
 $locale['status2'] = "Unaktiviert";
-$locale['status3'] = "Suspendiert";
-$locale['status4'] = "Sicherheitshalber gebannt";
+$locale['status3'] = "Gesperrt";
+$locale['status4'] = "Sicherheit gesperrt";
 $locale['status5'] = "Abgebrochen";
 $locale['status6'] = "Anonymisiert";
 $locale['status7'] = "Deaktiviert";
@@ -60,21 +60,21 @@ $locale['status8'] = "Inaktiv";
 $locale['userf1'] = "Moderator";
 // Navigation
 $locale['global_001'] = "Navigation";
-$locale['global_002'] = "Es wurden keine Links definiert";
+$locale['global_002'] = "Es wurden keine Links angelegt";
 $locale['global_003'] = "Keine Vorschau verfügbar";
 // Users Online
-$locale['global_010'] = "Benutzer Online";
+$locale['global_010'] = "Benutzer jetzt online";
 $locale['global_011'] = "Gäste Online";
 $locale['global_012'] = "Mitglieder Online";
 $locale['global_013'] = "Keine Mitglieder Online";
 $locale['global_014'] = "Mitglieder insgesamt";
-$locale['global_015'] = "Mitglieder unaktiviert";
+$locale['global_015'] = "Unaktivierte Mitglieder";
 $locale['global_016'] = "Neuestes Mitglied";
-$locale['global_017'] = "Navigation an-/ausschalten";
+$locale['global_017'] = "Navigation umschalten";
 // Forum Side panel
 $locale['global_020'] = "Forum Themen";
 $locale['global_021'] = "Neueste Diskussionen";
-$locale['global_022'] = "Heißste Themen";
+$locale['global_022'] = "Heißesten Themen";
 $locale['global_023'] = "Keine Themen erstellt";
 $locale['global_024'] = "Beteiligte Diskussionen";
 $locale['global_027'] = "Unbeantwortete Themen";
@@ -91,7 +91,7 @@ $locale['global_033'] = "Keine Downloads verfügbar";
 // Welcome panel
 $locale['global_035'] = "Willkommen";
 // Latest Active Forum Threads panel
-$locale['global_040'] = "Letzte aktive Forum Themen";
+$locale['global_040'] = "Neueste aktive Forum Themen";
 $locale['global_041'] = "Meine letzten Themen";
 $locale['global_042'] = "Meine letzten Beiträge";
 $locale['global_043'] = "Neue Beiträge";
@@ -100,7 +100,7 @@ $locale['global_045'] = "Angesehen";
 $locale['global_046'] = "Antworten";
 $locale['global_047'] = "Letzter Beitrag";
 $locale['global_048'] = "Forum";
-$locale['global_049'] = "Geschrieben";
+$locale['global_049'] = "Gesendet";
 $locale['global_050'] = "Autor";
 $locale['global_051'] = "Umfrage";
 $locale['global_052'] = "Verschoben";
@@ -108,8 +108,8 @@ $locale['global_053'] = "Sie haben noch keine Forum-Themen gestartet.";
 $locale['global_054'] = "Sie haben noch keine Forum nachrichten Gepostet.";
 $locale['global_055'] = "Seit deinen letzten Besuch gibt es %u neue Beiträge in %u verschiedene Themen seit Ihrem letzten Besuch.";
 $locale['global_056'] = "Verfolgte Themen";
-$locale['global_057'] = "Optionen";
-$locale['global_058'] = "Thema nicht mehr verfolgen";
+$locale['global_057'] = "Einstellungen";
+$locale['global_058'] = "Verfolgung stoppen";
 $locale['global_059'] = "Sie verfolgen keine Themen.";
 $locale['global_060'] = "Bist du dir sicher, dass du dieses Thema nicht mehr verfolgen möchtest?";
 // News & Articles
@@ -120,8 +120,8 @@ $locale['global_071b'] = "Autor";
 $locale['global_072'] = "Weiterlesen";
 $locale['global_073'] = " Kommentare";
 $locale['global_073b'] = " Kommentar";
-$locale['global_074'] = " Liest";
-$locale['global_074b'] = " Gelesen";
+$locale['global_074'] = " Gelesen";
+$locale['global_074b'] = " Lesen";
 $locale['global_075'] = "Drucken";
 $locale['print'] = "Drucken";
 $locale['global_076'] = "Bearbeiten";
@@ -129,7 +129,7 @@ $locale['global_077'] = "News";
 $locale['global_078'] = "Es wurden bisher noch keine News verfasst";
 $locale['global_079'] = "In ";
 $locale['global_080'] = "Nicht kategorisiert";
-$locale['global_081'] = "News Übersicht";
+$locale['global_081'] = "News-Startseite";
 $locale['global_082'] = "News";
 $locale['global_083'] = "Letzte Aktualisierung";
 $locale['global_084'] = "News Kategorie";
@@ -137,85 +137,85 @@ $locale['global_085'] = "Alle anderen Kategorien";
 $locale['global_086'] = "Meist Neueste News";
 $locale['global_087'] = "Meiste kommentierte News";
 $locale['global_088'] = "Höchst bewertete News";
-$locale['global_089'] = "Sei der Erste, der ein Kommentar bei %s verfasst.";
-$locale['global_089a'] = "Sei der Erste, der eine Bewertung zu %s abgibt.";
-$locale['global_089b'] = "Vorschaubild";
-$locale['global_089c'] = "Listenansicht";
+$locale['global_089'] = "Seien Sie der Erste, der %s kommentiert";
+$locale['global_089a'] = "Seien Sie der Erste, der diese %s bewertet";
+$locale['global_089b'] = "Vorschau Ansehen";
+$locale['global_089c'] = "Listen Ansicht";
 // Page Navigation
 $locale['global_090'] = "Zurück";
 $locale['global_091'] = "Weiter";
 $locale['global_092'] = "Seite ";
 $locale['global_093'] = " von ";
-$locale['global_094'] = " von ";
+$locale['global_094'] = " aus ";
 // Guest User Menu
-$locale['global_100'] = "Anmelden";
+$locale['global_100'] = "Einloggen";
 $locale['global_101'] = "Benutzername";
 $locale['global_101a'] = "Geben Sie Benutzername ein";
 $locale['global_101b'] = "Geben Sie Ihre E-Mail ein";
 $locale['global_101c'] = "E-Mail-Adresse oder Benutzername eingeben";
 $locale['global_102'] = "Passwort";
-$locale['global_103'] = "Angemeldet bleiben";
-$locale['global_104'] = "Anmelden";
-$locale['global_105'] = "Noch keinen Account? [LINK]Klicke hier[/LINK], um einen zu erstellen.";
+$locale['global_103'] = "Bleiben Sie angemeldet";
+$locale['global_104'] = "Einloggen";
+$locale['global_105'] = "Noch kein Mitglied? [LINK] Klicken Sie hier [/LINK], um sich zu registrieren.";
 $locale['global_106'] = "[LINK]Passwort vergessen?[/LINK]";
 $locale['global_107'] = "Registrieren";
 $locale['global_108'] = "Passwort vergessen";
 $locale['global_109'] = "Anmeldung";
 // Member User Menu
-$locale['global_120'] = "Profil anpassen";
+$locale['global_120'] = "Passen Sie Ihre Profilseite an";
 $locale['global_121'] = "Private Nachrichten";
 $locale['global_122'] = "Mitgliederliste";
-$locale['global_123'] = "Administration";
-$locale['global_124'] = "Abmelden";
+$locale['global_123'] = "Admin bereich";
+$locale['global_124'] = "Ausloggen";
 $locale['global_125'] = "Du hast %u neue ";
 $locale['global_126'] = "Nachricht";
 $locale['global_127'] = "Nachrichten";
 $locale['global_128'] = "Einsendung";
 $locale['global_129'] = "Einsendungen";
 // Poll
-$locale['global_130'] = "Mitglieder umfragen";
+$locale['global_130'] = "Mitglieder umfrage";
 $locale['global_131'] = "Abstimmung abgeben";
-$locale['global_132'] = "Du musst dich einloggen, um abzustimmen.";
-$locale['global_133'] = "Bewertung";
-$locale['global_134'] = "Bewertungen";
+$locale['global_132'] = "Sie müssen sich anmelden, um abstimmen zu können.";
+$locale['global_133'] = "Abstimmung";
+$locale['global_134'] = "Stimmen";
 $locale['global_135'] = "Stimmen: ";
 $locale['global_136'] = "Gestartet: ";
 $locale['global_137'] = "Beendet: ";
-$locale['global_138'] = "Umfrage-Archiv";
-$locale['global_139'] = "Bitte wählen Sie eine Option aus der Liste aus:";
+$locale['global_138'] = "Umfragen Archiv";
+$locale['global_139'] = "Bitte wählen Sie eine Umfrage aus der Liste aus:";
 $locale['global_140'] = "Ansehen";
-$locale['global_141'] = "Umfragen ansehen";
-$locale['global_142'] = "Es sind keine Umfragen definiert.";
+$locale['global_141'] = "Umfrage ansehen";
+$locale['global_142'] = "Es sind keine Umfragen angelegt.";
 $locale['global_143'] = "Bewertungen";
 // User Menu
 $locale['UM060'] = "Anmelden";
 $locale['UM061'] = "Benutzername";
-$locale['UM061a'] = "E-Mail Adresse";
-$locale['UM061b'] = "Benutzername oder E-Mail Adresse";
+$locale['UM061a'] = "E-Mail";
+$locale['UM061b'] = "Benutzername oder E-Mail";
 $locale['UM062'] = "Passwort";
 $locale['UM063'] = "Auf diesem Computer automatisch anmelden";
 $locale['UM064'] = "Anmelden";
-$locale['UM065'] = "Noch keinen Account? [LINK]Klicke hier[/LINK], um einen zu erstellen.";
-$locale['UM066'] = "Passwort vergessen? [LINK]Klicke hier[/LINK], um ein neues anzufordern.";
+$locale['UM065'] = "Noch kein Mitglied? [LINK] Klicken Sie hier [/LINK], um sich zu registrieren.";
+$locale['UM066'] = "Passwort vergessen? <br/> [LINK] Fordern Sie ein neues an [/LINK].";
 $locale['UM067'] = "(nicht empfohlen auf öffentlichem oder geteiltem Computer)";
 $locale['UM080'] = "Profil bearbeiten";
 $locale['UM081'] = "Private Nachrichten";
 $locale['UM082'] = "Mitgliederliste";
-$locale['UM083'] = "Administration";
-$locale['UM084'] = "Abmelden";
+$locale['UM083'] = "Admin bereich";
+$locale['UM084'] = "Ausloggen";
 $locale['UM085'] = "Du hast %u neue ";
 $locale['UM086'] = "Nachricht";
 $locale['UM087'] = "Nachrichten";
-$locale['UM088'] = "Verfolgte Themen";
+$locale['UM088'] = "Gefolgte Themen";
 // Submit (news, blog, link, article)
-$locale['UM089'] = "Einsendungen ..";
-$locale['UM090'] = "News einsenden";
-$locale['UM091'] = "Weblink einsenden";
-$locale['UM092'] = "Artikel einsenden";
-$locale['UM093'] = "Foto einsenden";
-$locale['UM094'] = "Download einsenden";
-$locale['UM095'] = "Blog einsenden";
-$locale['UM102'] = "FAQ einsenden";
+$locale['UM089'] = "Einreichen...";
+$locale['UM090'] = "News Einreichen";
+$locale['UM091'] = "Link Einreichen";
+$locale['UM092'] = "Artikel Einreichen";
+$locale['UM093'] = "Foto Einreichen";
+$locale['UM094'] = "Download Einreichen";
+$locale['UM095'] = "Blog Einreichen";
+$locale['UM102'] = "FAQ Einreichen";
 // User Panel
 $locale['UM096'] = "Willkommen: ";
 $locale['UM097'] = "Persönliches Menü";
@@ -233,88 +233,88 @@ $locale['global_150'] = "Sicherheitscode";
 $locale['global_151'] = "Sicherheitscode eingeben";
 // Footer Counter
 $locale['global_170'] = "eindeutiger Besuch";
-$locale['global_171'] = "eindeutige Besuche";
+$locale['global_171'] = "eindeutige Besucher";
 $locale['global_172'] = "Ladezeit: %s Sekunde(n)";
 $locale['global_173'] = "Abfragen";
-$locale['global_174'] = "Verwendeter Speicher";
+$locale['global_174'] = "Speicher verwendet";
 $locale['global_175'] = "Durchschnitt: %s Sekunde(n)";
-$locale['global_176'] = "Datenschutzerklärung";
+$locale['global_176'] = "Datenschutz-Bestimmungen";
 // Admin Navigation
-$locale['global_180'] = "Administration Start";
+$locale['global_180'] = "Admin-Startseite";
 $locale['global_181'] = "Zurück zur Seite";
-$locale['global_182'] = "Du hast kein Administrator Passwort angegeben oder es war ungültig.";
+$locale['global_182'] = "Admin nicht eingegeben oder falsch.";
 // Miscellaneous
-$locale['global_190'] = "Wartungsmodus aktiviert";
-$locale['global_191'] = "Deine IP Adresse befindet sich derzeit auf der Blacklist.";
-$locale['global_192'] = "Deine Login-Session ist abgelaufen. Bitte melde dich erneut an, um fortzufahren.";
-$locale['global_193'] = "Das Cookie konnte nicht gesetzt werden. Bitte prüfe, ob in deinem Browser Cookies aktiviert sind, um dich anzumelden.";
-$locale['global_194'] = "Dieser Account ist derzeit suspendiert.";
-$locale['global_195'] = "Dieser Account ist derzeit nicht aktiviert.";
-$locale['global_196'] = "Der Benutzername oder das Passwort ist fehlerhaft.";
+$locale['global_190'] = "Wartungsarbeiten aktiviert";
+$locale['global_191'] = "Ihre IP-Adresse ist derzeit auf der Sperrliste.";
+$locale['global_192'] = "Ihre Anmelde Sitzung ist abgelaufen. Bitte melden Sie sich erneut an, um fortzufahren.";
+$locale['global_193'] = "Dokument cookie konnte nicht gesetzt werden. Bitte stellen Sie sicher, dass Cookies aktiviert sind, damit Sie sich ordnungsgemäß anmelden können.";
+$locale['global_194'] = "Dieses Konto ist derzeit gesperrt.";
+$locale['global_195'] = "Dieses Konto wurde nicht aktiviert.";
+$locale['global_196'] = "Ungültiger Benutzername oder Passwort.";
 $locale['global_197'] = "Bitte warte, während du weitergeleitet wirst ..
 
 [ [LINK]Oder klicke hier, falls du nicht warten möchtest[/LINK] ]";
-$locale['global_198'] = "<strong>WARNUNG:</strong> INSTALLIERER ERKANNT, BITTE LÖSCHEN SIE DIE SETUP.PHP-DATEI SOFORT.";
-$locale['global_199'] = "Warnung! Du hast kein Administrator Passwort festgelegt, klicke auf [LINK]Profil bearbeiten[/LINK] um eines festzulegen.";
+$locale['global_198'] = "WARNUNG: INSTALLIERER ERKANNT, BITTE LÖSCHEN SIE DIE SETUP.PHP-DATEI SOFORT.";
+$locale['global_199'] = "Warnung! das Admin Passwort ist nicht festgelegt. Klicken Sie auf [LINK] Profil bearbeiten [/LINK], um es festzulegen.";
 //Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = " - Suche";
 $locale['global_203'] = " - FAQ";
-$locale['global_204'] = " - Foren";
+$locale['global_204'] = " - Forum";
 //Themes
-$locale['global_210'] = "Springe zu Inhalt";
-$locale['global_300'] = "Es wurde kein Theme gefunden.";
-$locale['global_301'] = "Diese Seite kann nicht angezeigt werden. Aus unbekannten Gründen kann kein gültiges Site-Thema gefunden werden.
- Wenn Sie der Administrator sind, verwenden Sie bitte Ihren FTP-Client, um ein für PHPFusion 8 entwickeltes Thema in den Themenordner hochzuladen.
- Überprüfen Sie nach dem Hochladen in den Themeneinstellungen, ob das ausgewählte Thema korrekt in Ihr Themenverzeichnis hochgeladen wurde.
- Bitte beachten Sie, dass der hochgeladene Themenordner genau den gleichen Namen haben muss (einschließlich Groß- und Kleinschreibung, was auf Unix-basierten Servern wichtig ist).
- Wie auf der Seite \"Themeneinstellungen\" ausgewählt. <br/> Wenn Sie reguläres Mitglied dieser Site sind, wenden Sie sich bitte per E-Mail an [SITE_EMAIL] an den Administrator der Site und melden Sie dieses Problem.";
-$locale['global_302'] = "Das in den Haupteinstellungen gewählte Theme existiert nicht oder ist unvollständig!";
+$locale['global_210'] = "Springe zum Inhalt";
+$locale['global_300'] = "kein Design gefunden";
+$locale['global_301'] = "Diese Seite kann nicht angezeigt werden. Aus unbekannten Gründen kann kein gültiges Seiten-Design gefunden werden.
+ Wenn Sie der Administrator sind, verwenden Sie bitte Ihren FTP-Client, um ein für PHPFusion 8 entwickeltes Design in den Themenordner hochzuladen.
+ Überprüfen Sie nach dem Hochladen in den Design Einstellungen, ob das ausgewählte Design korrekt in Ihr Themenverzeichnis hochgeladen wurde.
+ Bitte beachten Sie, dass der Hochgeladene Themenordner genau den gleichen Namen haben muss (einschließlich Groß- und Kleinschreibung, was auf Unix-basierten Servern wichtig ist).
+ Wie auf der Seite \"Design Einstellungen\" ausgewählt. <br/> Wenn Sie reguläres Mitglied dieser Site sind, wenden Sie sich bitte per E-Mail [SITE_EMAIL] an den Administrator der Seite\\n und melden Sie dieses Problem.";
+$locale['global_302'] = "Das in den Haupteinstellungen ausgewählte Design existiert nicht oder ist unvollständig!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Oh nein! Wo ist das JavaScript?<br/>Ihr Web-Browser hat kein JavaScript aktiviert oder unterstützt kein JavaScript.
-Bitte aktivieren Sie JavaScript in Ihrem Web-Browser, um diese Website richtig anzusehen, oder aktualisieren Sie auf einen Web-Browser, der JavaScript unterstützt.";
+$locale['global_303'] = "Ach nein! Wo ist das JavaScript? <br/> In Ihrem Webbrowser ist JavaScript nicht aktiviert oder es wird kein JavaScript unterstützt.
+Aktivieren Sie JavaScript in Ihrem Webbrowser, um diese Website ordnungsgemäß anzuzeigen, oder aktualisieren Sie auf einen Webbrowser, der JavaScript unterstützt.";
 // User Management
 $locale['global_400'] = "suspendiert";
-$locale['global_401'] = "gebannt";
+$locale['global_401'] = "gesperrt";
 $locale['global_402'] = "deaktiviert";
-$locale['global_403'] = "konto wurde gelöscht";
-$locale['global_404'] = "Account anonymisiert";
+$locale['global_403'] = "konto beendet";
+$locale['global_404'] = "konto anonymisiert";
 $locale['global_405'] = "Anonymer Benutzer";
-$locale['global_406'] = "Dieser Account wurde aus dem folgenden Grund gebannt:";
-$locale['global_407'] = "Dieser Account wurde bis zum ";
-$locale['global_408'] = " suspendiert, aus folgenden Grund:";
+$locale['global_406'] = "Dieses Konto wurde aus folgendem Grund gesperrt:";
+$locale['global_407'] = "Dieses Konto wurde gesperrt bis ";
+$locale['global_408'] = " aus folgendem Grund:";
 $locale['global_409'] = "Dieses Konto wurde aus Sicherheitsgründen gesperrt.";
 $locale['global_410'] = "Der Grund dafür ist: ";
-$locale['global_411'] = "Dieser Account wurde storniert.";
+$locale['global_411'] = "Dieses Konto wurde aufgelöst.";
 $locale['global_412'] = "Dieses Konto wurde anonymisiert, wahrscheinlich wegen Inaktivität.";
 // Flood control
-$locale['global_440'] = "Automatischer Bann durch Flutkontrolle";
-$locale['global_441'] = "Account gebannt auf [SITENAME]";
-$locale['global_442'] = "Guten Tag, [USER_NAME],<br/>
-Ihr Konto auf [SITENAME] wurde in sehr kurzer Zeit aus der IP [USER_IP] erwischt, dass zu viele Elemente an das System geschickt wurden, und wurden damit verboten. Dies wird getan, um zu verhindern, dass Bots Spam-Nachrichten in rascher Folge senden.<br/>
-Bitte wenden Sie sich an den Website-Administrator unter [SITE_EMAIL], um Ihr Konto wiederherzustellen oder melden Sie, wenn dies nicht der Fall war, der dieses Sicherheitsverbot verursachte.<br/>
-Grüß,<br/>[SITEUSERNAME]";
+$locale['global_440'] = "Automatische Sperre durch Spam Kontrolle";
+$locale['global_441'] = "Ihr Konto bei [SITENAME] wurde gesperrt";
+$locale['global_442'] = "Hallo [USER_NAME], <br/>
+Ihr Konto auf [SITENAME] wurde beim Posten von zu vielen Elementen in sehr kurzer Zeit von der IP-Adresse [USER_IP] auf dem System erwischt und wurde daher gesperrt. Dies geschieht, um zu verhindern, dass Bots schnell hintereinander Spam-Nachrichten senden. <br/>
+Wenden Sie sich an den Seiten-Administrator unter [SITE_EMAIL], um Ihr Konto wiederherzustellen oder zu melden, wenn Sie die Sicherheits Sperre nicht verursacht haben. <br/>
+Grüße, <br/> [SITEUSERNAME]";
 // Authenticate Class
-$locale['global_450'] = "Suspendierung von System aufgehoben";
-$locale['global_451'] = "Suspendierung bei [SITENAME] aufgehoben";
-$locale['global_452'] = "Hallo NUTZER_NAME,<br/>
-Die Sperrung Ihres Kontos bei [SITEURL] wurde aufgehoben. Hier sind Ihre Login-Daten:<br/>
-Benutzername: USER_NAME<br/>Passwort: Versteckt aus Sicherheitsgründen<br/>
-Wenn Sie Ihr Passwort vergessen haben, können Sie es über den folgenden Link zurücksetzen: LOST_PASSWORD<br/>
-Mit freundlichen Grüßen,<br/>[SITEUSERNAME]";
-$locale['global_453'] = "Hallo NUTZER_NAME,<br/>Die Sperrung Ihres Kontos bei [SITEURL] wurde aufgehoben.<br/>
-Mit freundlichen Grüßen,<br/>[SITEUSERNAME]";
-$locale['global_454'] = "Account bei [SITENAME] reaktiviert";
-$locale['global_455'] = "Hallo BENUTZER_NAME,<br/>
-Das letzte Mal, dass Sie sich bei [SITEURL] angemeldet haben und Ihr Konto nicht mehr als inaktiv markiert wurde.<br/>
-Grüße,<br/>[SITEUSERNAME]";
-$locale['global_456'] = "Neues Passwort bei [SITENAME]";
+$locale['global_450'] = "Die Sperrung wird vom System automatisch aufgehoben";
+$locale['global_451'] = "Sperrung bei [SITENAME] aufgehoben";
+$locale['global_452'] = "Hallo USER_NAME, <br/>
+Die Sperrung Ihres Kontos bei [SITEURL] wurde aufgehoben. Hier sind Ihre Anmelde Daten: <br/>
+Benutzername: USER_NAME <br/> Passwort: Aus Sicherheitsgründen versteckt <br/>
+Wenn Sie Ihr Passwort vergessen haben, können Sie es über den folgenden Link zurücksetzen: LOST_PASSWORD <br/>
+Grüße, <br/> [SITEUSERNAME]";
+$locale['global_453'] = "Hallo USER_NAME, <br/> Die Sperrung Ihres Kontos bei [SITEURL] wurde aufgehoben. <br/>
+Grüße, <br/> [SITEUSERNAME]";
+$locale['global_454'] = "Konto bei [SITENAME] reaktiviert";
+$locale['global_455'] = "Hallo USER_NAME, <br/>
+Das letzte Mal, als Sie sich in Ihrem Konto angemeldet haben, wurde bei [SITEURL] reaktiviert und Ihr Konto wird nicht mehr als inaktiv markiert. <br/>
+Grüße, <br/> [SITEUSERNAME]";
+$locale['global_456'] = "Neue Passwort-Benachrichtigung für [SITENAME]";
 $locale['global_457'] = "Hallo USER_NAME,
-<br/>Ein neues Passwort wurde für Ihr Konto bei [SITENAME] gesetzt. Bitte finden Sie die beigefügten Login-Daten:<br/>
-Benutzername: USER_NAME<br/>Passwort: [PASSWORD]<br/>Mit freundlichen Grüßen,<br/>[SITEUSERNAME]";
+<br/> Unter [SITENAME] wurde ein neues Passwort für Ihr Konto festgelegt. Hier finden Sie die beiliegenden neuen Anmelde Daten: <br/>
+Benutzername: USER_NAME <br/> Passwort: [PASSWORD] <br/> Grüße, <br/> [SITEUSERNAME]";
 $locale['global_458'] = "Das neue Passwort für USER_NAME wurde gesetzt";
-$locale['global_459'] = "Das neue Passwort für USER_NAME wurde gesetzt, jedoch konnte die E-Mail nicht versendet werden. Bitte teile das neue Passwort dem Benutzer manuell mit.";
+$locale['global_459'] = "Für USER_NAME wurde ein neues Passwort festgelegt und keine E-Mail gesendet. Bitte informieren Sie den Benutzer über die neuen Details.";
 // Function parsebytesize()
 $locale['global_460'] = "Leer";
 $locale['global_461'] = "Bytes";
@@ -323,31 +323,31 @@ $locale['global_463'] = "MB";
 $locale['global_464'] = "GB";
 $locale['global_465'] = "TB";
 //Safe Redirect
-$locale['global_500'] = "Du wirst weitergeleitet zu %s, bitte warte. Wenn du nicht weitergeleitet wirst, klicke hier.";
+$locale['global_500'] = "Sie werden zu %s umgeleitet, bitte warten Sie. Wenn Sie nicht weitergeleitet werden, klicken Sie hier.";
 // Captcha Locales
 $locale['global_600'] = "Sicherheitscode";
-$locale['global_601'] = "Da war der Capcha nicht richtig";
+$locale['global_601'] = "Sie müssen einen korrekten Validierungscode eingeben";
 $locale['recaptcha'] = "de";
 // Site links
-$locale['global_700'] = "Zeige mehr";
+$locale['global_700'] = "Mehr anzeigen";
 //Miscellaneous
-$locale['global_900'] = "Es ist nicht m&ouml;glich, HEX zu DEC zu konventieren.";
-$locale['global_901'] = "Media hinzufügen";
+$locale['global_900'] = "HEX kann nicht in DEC konvertiert werden";
+$locale['global_901'] = "Media einfügen";
 //Language Selection
 $locale['global_ML100'] = "Sprache";
-$locale['global_ML101'] = "- Sprache wählen -";
+$locale['global_ML101'] = "- Sprache auswählen -";
 $locale['global_ML102'] = "Seiten Sprache";
 $locale['global_ML103'] = "Sprache wechseln";
 // Flood Control
-$locale['flood'] = "Du wurdest durch die Floodkontrolle gesperrt. Bitte warte %t";
+$locale['flood'] = "Sie dürfen erst dann posten, wenn die Spam Kontrolle zeit abgelaufen ist. Bitte warten Sie auf %s.";
 $locale['no_image'] = "Kein Bild";
-$locale['send_message'] = "Nachricht absenden";
-$locale['go_profile'] = "Gehe zu %s Profil";
+$locale['send_message'] = "Nachricht senden";
+$locale['go_profile'] = "Gehen Sie zur %s Profilseite";
 // Global one word locales
 $locale['hello'] = "Hallo!";
 $locale['goodbye'] = "Auf wiedersehen!";
 $locale['welcome'] = "Willkommen zurück";
-$locale['home'] = "Start";
+$locale['home'] = "Startseite";
 // Status
 $locale['error'] = "Fehler!";
 $locale['success'] = "Erfolgreich!";
@@ -369,7 +369,7 @@ $locale['joined'] = "Registriert seit: ";
 $locale['enter'] = "Absenden";
 // Navigation
 $locale['next'] = "Weiter";
-$locale['previous'] = "Vorheriger";
+$locale['previous'] = "Bisherige";
 $locale['back'] = "Zurück";
 $locale['forward'] = "Vorwärts";
 $locale['go'] = "Los";
@@ -379,7 +379,7 @@ $locale['move'] = "Verschieben";
 $locale['move_up'] = "Nach oben verschieben";
 $locale['move_down'] = "Nach unten verschieben";
 $locale['load_more'] = "Weitere Einträge laden";
-$locale['load_end'] = "Von Start an laden";
+$locale['load_end'] = "Laden von Anfang an";
 // Actions
 $locale['add'] = "Hinzufügen";
 $locale['save'] = "Speichern";
@@ -393,14 +393,14 @@ $locale['delete'] = "Löschen";
 $locale['search'] = "Suche";
 $locale['help'] = "Hilfe";
 $locale['register'] = "Registrieren";
-$locale['ban'] = "Bannen";
+$locale['ban'] = "Sperre";
 $locale['reactivate'] = "Reaktivieren";
 $locale['user'] = "Benutzer";
 $locale['promote'] = "Unterstützen";
 $locale['show'] = "Anzeigen";
 $locale['actions'] = "Actionen";
 $locale['language'] = "Sprache";
-$locale['loading'] = "Lade...";
+$locale['loading'] = "Wird geladen...";
 // Persons & Identifiers
 $locale['you'] = "Du";
 $locale['me'] = "Ich";
@@ -412,24 +412,24 @@ $locale['she'] = "Sie";
 $locale['it'] = "Es";
 //Tables
 $locale['order'] = "Reihenfolge";
-$locale['sort'] = "Sortierung";
+$locale['sort'] = "Sortieren";
 $locale['id'] = "ID";
-$locale['title'] = "Titel";
+$locale['title'] = "Name";
 $locale['rights'] = "Rechte";
-$locale['info'] = "Information";
+$locale['info'] = "Info";
 $locale['image'] = "Bild";
 // Forms
-$locale['choose'] = "Bitte auswählen...";
+$locale['choose'] = "Bitte wähle eines...";
 $locale['no_opts'] = "Keine Auswahl";
 $locale['root'] = "Als Element";
-$locale['choose-user'] = "Bitte wähle einen Benutzer...";
-$locale['choose-location'] = "Bitte wähle einen Wohnort";
+$locale['choose-user'] = "Bitte wählen Sie einen Benutzer...";
+$locale['choose-location'] = "Bitte wählen Sie einen Ort";
 $locale['parent'] = "Als neues übergeordnetes Element erstellen..";
 $locale['item_order'] = "Eintrag Sortierung";
 $locale['status'] = "Status";
-$locale['note'] = "Diesen Titel notieren";
-$locale['publish'] = "Veröffentlicht";
-$locale['unpublish'] = "Veröffentlichung aufheben";
+$locale['note'] = "Notieren Sie sich diesen eintrag";
+$locale['publish'] = "Veröffentlichen";
+$locale['unpublish'] = "Nicht veröffentlichen";
 $locale['sticky'] = "Gepinnt";
 $locale['unsticky'] = "Entpinnt";
 $locale['draft'] = "Entwurf";
@@ -440,18 +440,18 @@ $locale['edit'] = "Bearbeiten";
 $locale['qedit'] = "Schnell bearbeiten";
 $locale['view'] = "Ansehen";
 $locale['login'] = "Anmelden";
-$locale['logout'] = "Abmelden";
-$locale['admin-logout'] = "Administration abmelden";
+$locale['logout'] = "Ausloggen";
+$locale['admin-logout'] = "Admin Abmeldung";
 $locale['message'] = "Private Nachrichten";
 $locale['logged'] = "Angemeldet als ";
 $locale['version'] = "Version ";
 $locale['browse'] = "Durchsuche ...";
 $locale['close'] = "Schließen";
-$locale['nopreview'] = "Es gibt nichts anzuzeigen";
+$locale['nopreview'] = "Es gibt nichts zur Vorschau";
 $locale['mark_as'] = "Markieren als";
 $locale['preview'] = "Vorschau";
-$locale['custom'] = "Eigen";
-$locale['submit'] = "Absenden";
+$locale['custom'] = "Benutzerdefiniert";
+$locale['submit'] = "Einreichen";
 // Alignment
 $locale['left'] = "Links";
 $locale['center'] = "Mittig";
@@ -460,7 +460,7 @@ $locale['right'] = "Rechts";
 $locale['comments'] = "Kommentare";
 $locale['ratings'] = "Bewertungen";
 $locale['comments_ratings'] = "Kommentare und Bewertungen";
-$locale['user_account'] = "Benutzer Account";
+$locale['user_account'] = "Benutzer Konto";
 $locale['about'] = "Über";
 // User status
 $locale['online'] = "Online";
@@ -470,34 +470,34 @@ $locale['fmt_submission'] = "Einsendung|Einsendungen";
 $locale['fmt_article'] = "Artikel|Artikel";
 $locale['fmt_blog'] = "Blog|Blogs";
 $locale['fmt_comment'] = "Kommentar|Kommentare";
-$locale['fmt_vote'] = "Stimme|Stimmen";
+$locale['fmt_vote'] = "abstimmung|abstimmen";
 $locale['fmt_rating'] = "Bewertung|Bewertungen";
-$locale['fmt_day'] = "Tag(e)|Tage";
+$locale['fmt_day'] = "tag|tage";
 $locale['fmt_download'] = "Download|Downloads";
-$locale['fmt_follower'] = "Verfolger|Verfolger";
+$locale['fmt_follower'] = "verfolge|Verfolgen";
 $locale['fmt_forum'] = "Forum|Foren";
-$locale['fmt_guest'] = "Gast|G&auml;ste";
-$locale['fmt_hour'] = "Stunde(n)|Stunden";
-$locale['fmt_item'] = "Eintrag|Eintr&auml;ge";
+$locale['fmt_guest'] = "gast|gäste";
+$locale['fmt_hour'] = "stunde|stunden";
+$locale['fmt_item'] = "eintrag|Einträge";
 $locale['fmt_member'] = "Mitglied|Mitglieder";
 $locale['fmt_message'] = "Nachricht|Nachrichten";
-$locale['fmt_minute'] = "Minute(n)|Minuten";
-$locale['fmt_month'] = "Monat(e)|Monate";
+$locale['fmt_minute'] = "minute|minuten";
+$locale['fmt_month'] = "monat|monate";
 $locale['fmt_news'] = "News|News";
 $locale['fmt_photo'] = "Foto|Fotos";
-$locale['fmt_post'] = "Beitrag|Beitr&auml;ge";
+$locale['fmt_post'] = "beitrag|beiträge";
 $locale['fmt_question'] = "Frage|Fragen";
-$locale['fmt_read'] = "Gelesen|Gelesen";
-$locale['fmt_second'] = "Sekunde(n)|Sekunden";
-$locale['fmt_shouts'] = "Shoutboxbeitrag|Shoutboxbeitr&auml;ge";
+$locale['fmt_read'] = "lesen|Gelesen";
+$locale['fmt_second'] = "sekunde|sekunden";
+$locale['fmt_shouts'] = "meldung|meldungen";
 $locale['fmt_thread'] = "Thema|Themen";
-$locale['fmt_user'] = "Benutzer|Benutzer";
-$locale['fmt_views'] = "Gesehen|Gesehen";
+$locale['fmt_user'] = "benutzer|benutzern";
+$locale['fmt_views'] = "ansehen|Gesehen";
 $locale['fmt_weblink'] = "Weblink|Weblinks";
-$locale['fmt_week'] = "Woche(n)|Wochen";
-$locale['fmt_year'] = "Jahr(e)|Jahre";
+$locale['fmt_week'] = "woche|wochen";
+$locale['fmt_year'] = "jahr|jahre";
 $locale['fmt_points'] = "Punkt|Punkte";
 $locale['fmt_admin'] = "Admin|Admins";
 $locale['fmt_group'] = "Gruppe|Gruppen";
-$locale['fmt_category'] = "Kategori|Kategorien";
-$locale['fmt_review'] = "bewertung | Bewertungen";
+$locale['fmt_category'] = "kategorie|kategorien";
+$locale['fmt_review'] = "bewertung|Bewertungen";

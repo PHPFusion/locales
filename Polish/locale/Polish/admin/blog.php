@@ -33,7 +33,7 @@ $locale['437'] = "Zapisz";
 $locale['438'] = "[SZKIC]";
 $locale['439'] = "Obraz wpisu";
 $locale['440'] = "Maksymalny rozmiar pliku: %s / Dozwolone typy plików: GIF, JPEG lub PNG.";
-$locale['441'] = "Pagebreak";
+$locale['441'] = "Przełamanie strony";
 // Popup Error/Warning Messages
 $locale['450'] = "Proszę podać tytuł";
 $locale['451'] = "Usunąć wpis?";

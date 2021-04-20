@@ -1,3 +1,3 @@
 <?php
-$locale['pl_message_title'] = "Private Nachrichten";
-$locale['pl_message_desc'] = "Aktiviert die Permalinks f&uuml;r die privaten Nachrichten auf der Homepage.";
+$locale['pl_message_title'] = "Nachrichten";
+$locale['pl_message_desc'] = "Aktivieren Sie Permalinks für das Private nachrichten-System.";

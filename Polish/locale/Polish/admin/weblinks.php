@@ -1,8 +1,8 @@
 <?php
 // Web Link Category titles
 $locale['400'] = "Linki";
-$locale['401'] = "Edit Web Link Category";
-$locale['402'] = "Current Web Link Categories";
+$locale['401'] = "Edytuj kategorię linku";
+$locale['402'] = "Bieżące kategorie linków";
 // Web Link Category messages
 $locale['410'] = "[NOWY]";
 $locale['411'] = "Data dodania:";
@@ -38,7 +38,7 @@ $locale['510'] = "Web Link added";
 $locale['511'] = "Web Link updated";
 $locale['512'] = "Web Link deleted";
 // Web Link form
-$locale['520'] = "Site Name:";
+$locale['520'] = "Nazwa strony:";
 $locale['521'] = "Opis:";
 $locale['522'] = "Adres strony:";
 $locale['523'] = "Kategoria:";
@@ -56,4 +56,4 @@ $locale['538'] = "You must define at least one category before you can add any W
 $locale['539'] = "Kliknij tutaj";
 $locale['540'] = " to go to Web Link Categories";
 // Delete Web Link
-$locale['550'] = "Delete this web link?";
+$locale['550'] = "Usunąć ten link?";

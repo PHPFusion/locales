@@ -1,5 +1,5 @@
 <?php
-$locale['bb_php'] = "PHP-Code";
-$locale['bb_php_description'] = "Markierten Text als PHP Code hervorheben";
-$locale['bb_php_usage'] = "PHP Code der hervorgehoben werden soll";
-$locale['bb_php_save'] = "Code herunterladen";
+$locale['bb_php'] = "PHP";
+$locale['bb_php_description'] = "Markieren Sie den ausgewählten Text als PHP-Code";
+$locale['bb_php_usage'] = "PHP-Code zum Hervorheben";
+$locale['bb_php_save'] = "Download-Quelle";

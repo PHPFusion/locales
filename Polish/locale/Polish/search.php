@@ -1,6 +1,6 @@
 <?php
 $locale['400'] = "Wyszukiwarka [SITENAME]";
-$locale['401'] = "Search for:";
+$locale['401'] = "Szukaj:";
 $locale['402'] = "Wyszukiwarka";
 $locale['403'] = "wyszukaj jakiegokolwiek z tych słów";
 $locale['404'] = "wynik musi zawierać wszystkie te słowa";

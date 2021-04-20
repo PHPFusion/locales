@@ -1,14 +1,14 @@
 <?php
-$locale['html400'] = "- Farbe w&auml;hlen -";
-$locale['html401'] = "- Bild w&auml;hlen -";
+$locale['html400'] = "- Farbe wählen -";
+$locale['html401'] = "- Bild wählen -";
 $locale['html402'] = "Kastanienbraun";
 $locale['html403'] = "Rot";
 $locale['html404'] = "Orange";
 $locale['html405'] = "Braun";
 $locale['html406'] = "Gelb";
-$locale['html407'] = "Gr&uuml;n";
-$locale['html408'] = "Limette";
-$locale['html409'] = "Olivgr&uuml;n";
+$locale['html407'] = "Grün";
+$locale['html408'] = "Hellgrün";
+$locale['html409'] = "Olivgrün";
 $locale['html410'] = "Türkis";
 $locale['html411'] = "Blau";
 $locale['html412'] = "Marineblau";
@@ -17,4 +17,4 @@ $locale['html414'] = "Violett";
 $locale['html415'] = "Schwarz";
 $locale['html416'] = "Grau";
 $locale['html417'] = "Silber";
-$locale['html418'] = "Wei&szlig;";
+$locale['html418'] = "Weiß";

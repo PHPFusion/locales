@@ -1,3 +1,3 @@
 <?php
-$locale['bb_u_description'] = "Zeigt den ausgew&auml;hlten Text unterstrichen an.";
-$locale['bb_u_usage'] = "Text";
+$locale['bb_u_description'] = "Der ausgewählte Text wird unterstrichen";
+$locale['bb_u_usage'] = "Zu unterstreichender Text";

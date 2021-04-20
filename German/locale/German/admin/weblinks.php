@@ -1,59 +1,59 @@
 <?php
 // Web Link Category titles
-$locale['400'] = "Link Kategorie hinzuf&uuml;gen";
-$locale['401'] = "Link Kategorie bearbeiten";
-$locale['402'] = "Aktuell vorhandene Link Kategorien";
+$locale['400'] = "Weblink-Kategorie hinzufügen";
+$locale['401'] = "Weblink-Kategorie bearbeiten";
+$locale['402'] = "Aktuelle Weblink-Kategorien";
 // Web Link Category messages
-$locale['410'] = "Die Link Kategorie wurde hinzugef&uuml;gt.";
-$locale['411'] = "Die Link Kategorie wurde aktualisiert.";
-$locale['412'] = "Die Link Kategorie konnte nicht gel&ouml;scht werden.";
-$locale['413'] = "Es befinden sich noch WLinks in dieser Kategorie.";
-$locale['414'] = "Die Link Kategorie wurde gel&ouml;scht.";
+$locale['410'] = "Weblink-Kategorie hinzugefügt";
+$locale['411'] = "Weblink-Kategorie aktualisiert";
+$locale['412'] = "Weblink-Kategorie kann nicht gelöscht werden";
+$locale['413'] = "Es gibt Weblinks, die mit dieser Kategorie verknüpft sind";
+$locale['414'] = "Weblink-Kategorie gelöscht";
 // Add/Edit Web Link Category Form
-$locale['420'] = "Kategoriename";
+$locale['420'] = "Kategorie-Name:";
 $locale['421'] = "Kategorie Beschreibung:";
-$locale['422'] = "Sortieren nach:";
-$locale['423'] = "Link ID";
-$locale['424'] = "Link Name";
-$locale['425'] = "Link Datum";
+$locale['422'] = "Kategorie-Sortierung:";
+$locale['423'] = "Weblink ID";
+$locale['424'] = "Weblink-Name";
+$locale['425'] = "Weblink-Datum";
 $locale['426'] = "Aufsteigend";
 $locale['427'] = "Absteigend";
 $locale['428'] = "Kategorie-Zugriff:";
 $locale['429'] = "Kategorie speichern";
 // Current Web Link categories
-$locale['430'] = "Kommentare erlaubt";
+$locale['430'] = "Kategorie";
 $locale['431'] = "Zugriff";
 // Delete Web Link category
-$locale['440'] = "Willst du diese Link Kategorie wirklich löschen?";
+$locale['440'] = "Weblink-Kategorie löschen?";
 // Error Messages
-$locale['460'] = "Du musst einen Namen f&uuml;r die Blogkategorie angeben.";
-$locale['461'] = "Es existiert bereits eine Blogkategorie mit dem selben Namen.";
-$locale['462'] = "Gib einen Weblinknamen. ein";
+$locale['460'] = "Bitte geben Sie einen Kategorie namen ein.";
+$locale['461'] = "Diese Kategorie existiert bereits.";
+$locale['462'] = "Bitte geben Sie einen Weblink-Namen ein.";
 // Web Link titles
-$locale['500'] = "Web Link hinzuf&uuml;gen";
-$locale['501'] = "Web Link &auml;ndern";
-$locale['502'] = "Aktuell vorhandene Links";
+$locale['500'] = "Web link hinzufügen";
+$locale['501'] = "Web-Link bearbeiten";
+$locale['502'] = "Aktuelle Weblinks";
 // Web Link messages
-$locale['510'] = "Der Link wurde hinzugef&uuml;gt.";
-$locale['511'] = "Der Link wurde aktualisiert.";
-$locale['512'] = "Der Link wurde gel&ouml;scht.";
+$locale['510'] = "Weblink hinzugefügt";
+$locale['511'] = "Weblink aktualisiert";
+$locale['512'] = "Weblink gelöscht";
 // Web Link form
-$locale['520'] = "Name:";
+$locale['520'] = "Seitenname:";
 $locale['521'] = "Beschreibung";
-$locale['522'] = "Adresse:";
+$locale['522'] = "Seitenadresse:";
 $locale['523'] = "Kategorie:";
-$locale['524'] = "Ver&ouml;ffentlichungsdatum aktualisieren";
-$locale['525'] = "Link speichern";
+$locale['524'] = "Veröffentlichungs datum aktualisieren";
+$locale['525'] = "Weblink speichern";
 // Current Web Links
-$locale['531'] = "Name (Klicke f&uuml;r einen Testaufruf)";
-$locale['532'] = "Optionen";
+$locale['531'] = "Weblink [Zum Testen klicken]";
+$locale['532'] = "Einstellungen";
 $locale['533'] = "Bearbeiten";
-$locale['534'] = "Entfernen";
-$locale['535'] = "Es befinden sich keine Links in dieser Kategorie.";
-$locale['536'] = "Keine Link Kategorie definiert.";
-$locale['537'] = "Keine Link Kategorie definiert.";
-$locale['538'] = "Du musst mindestens eine Link Kategorie anlegen, bevor du einen Link hinzuf&uuml;gen kannst.";
+$locale['534'] = "Löschen";
+$locale['535'] = "Zu dieser Kategorie wurden keine Weblinks hinzugefügt";
+$locale['536'] = "Keine Weblink-Kategorien angelegt";
+$locale['537'] = "Es sind keine Weblink-Kategorien angelegt";
+$locale['538'] = "Sie müssen mindestens eine Kategorie anlegen, bevor Sie Weblinks hinzufügen können";
 $locale['539'] = "Klicke hier";
-$locale['540'] = " um zu den Link Kategorien zu wechseln.";
+$locale['540'] = " um zu Weblink-Kategorien zu gelangen";
 // Delete Web Link
-$locale['550'] = "Willst du diesen Link wirklich löschen?";
+$locale['550'] = "Diesen Web-Link löschen?";

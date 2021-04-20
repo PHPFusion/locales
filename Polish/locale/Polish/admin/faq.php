@@ -37,4 +37,4 @@ $locale['547'] = "Usunąć to FAQ?";
 // Error Messages
 $locale['460'] = "Proszę wprowadzić nazwę kategorii.";
 $locale['461'] = "Ta kategoria już istnieje.";
-$locale['462'] = "Please enter a faq question and faq answer.";
+$locale['462'] = "Wprowadź często zadawane pytanie, a następnie udziel odpowiedzi.";

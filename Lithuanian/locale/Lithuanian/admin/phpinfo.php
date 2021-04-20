@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP info";
+$locale['400'] = "PHP informacija";
 //General
 $locale['401'] = "Bendri";
 $locale['402'] = "Serverio programinė įranga";

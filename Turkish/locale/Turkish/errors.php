@@ -12,6 +12,6 @@ $locale['E_USER_ERROR'] = "Kullanıcı tarafından trigger_error() işlevi kulla
 $locale['E_USER_WARNING'] = "Kullanıcı tarafından trigger_error() işlevi kullanılarak oluşturulan uyarı";
 $locale['E_USER_NOTICE'] = "Kullanıcı tarafından trigger_error() işlevi kullanarak oluşturulan bildirim";
 $locale['E_ALL'] = "E_STRICT dışındaki tüm iletileri tanımlar";
-$locale['E_STRICT'] = "";
+// $locale['E_STRICT'] = "";
 $locale['err_100'] = "Mevcut Değil";
 $locale['err_101'] = "<strong>WARNING:</strong> An error occurred while parsing the page. Please see PHPFusion's <a href='[ERROR_LOG_URL]' class='alt'>error log</a> for more details.";

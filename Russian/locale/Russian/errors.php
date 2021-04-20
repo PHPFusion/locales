@@ -12,6 +12,6 @@ $locale['E_USER_ERROR'] = "Ошибка, вызванная использова
 $locale['E_USER_WARNING'] = "предупреждение, вызванное использованием функции trigger_error()";
 $locale['E_USER_NOTICE'] = "Уведомление, вызванное использованием функции trigger_error()";
 $locale['E_ALL'] = "Определяет все сообщения, кроме E_STRICT";
-$locale['E_STRICT'] = "";
+// $locale['E_STRICT'] = "";
 $locale['err_100'] = "N/A";
 $locale['err_101'] = "<strong>ПРЕДУПРЕЖДЕНИЕ:</strong> Произошла ошибка при разборе страницы. Пожалуйста, посмотрите <a href='[ERROR_LOG_URL]' class='alt'>журнал ошибок</a> PHPFusion для получения большей информации.";

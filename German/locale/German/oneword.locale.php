@@ -1,7 +1,7 @@
 <?php
 // Greetings
 $locale['hello'] = "Hallo!";
-$locale['goodbye'] = "Tsch&uuml;ss!";
+$locale['goodbye'] = "Auf wiedersehen!";
 $locale['welcome'] = "Willkommen";
 
 // Status
@@ -11,43 +11,43 @@ $locale['enable'] = "Aktivieren";
 $locale['disable'] = "Deaktivieren";
 $locale['no'] = "Nein";
 $locale['yes'] = "Ja";
-$locale['off'] = "Deaktiviert";
-$locale['on'] = "Aktiviert";
+$locale['off'] = "Aus";
+$locale['on'] = "An";
 
 // Navigation
-$locale['next'] = "Vor";
-$locale['previous'] = "R&uuml;ckw&auml;rts";
-$locale['back'] = "Zur&uuml;ck";
-$locale['forward'] = "Vorw&auml;rts";
+$locale['next'] = "Weiter";
+$locale['previous'] = "Bisherige";
+$locale['back'] = "Zurück";
+$locale['forward'] = "Vorwärts";
 
 // Action
-$locale['add'] = "Hinzuf&uuml;gen";
+$locale['add'] = "Hinzufügen";
 $locale['save'] = "Speichern";
 $locale['update'] = "Aktualisieren";
 $locale['remove'] = "Entfernen";
 $locale['search'] = "Suche";
 $locale['help'] = "Hilfe";
 $locale['register'] = "Registrieren";
-$locale['ban'] = "Bannen";
+$locale['ban'] = "Sperre";
 $locale['reactivate'] = "Reaktivieren";
 $locale['user'] = "Benutzer";
-$locale['promote'] = "F&ouml;rdern";
+$locale['promote'] = "Unterstützen";
 
 //Tables
 $locale['status'] = "Status";
 $locale['order'] = "Reihenfolge";
 $locale['id'] = "ID";
-$locale['title'] = "Titel";
+$locale['title'] = "Name";
 $locale['rights'] = "Rechte";
-$locale['image'] = "Bilder/Icons";
-$locale['info'] = "Information";
+$locale['image'] = "Bilder/Symbole";
+$locale['info'] = "Info";
 
 // Forms
-$locale['choose'] = "Bitte wähle";
+$locale['choose'] = "Bitte wähle eines...";
 $locale['parent'] = "Erstelle als neues Haupt";
 $locale['order'] = "Eintrag Sortierung";
 $locale['status'] = "Status";
-$locale['note'] = "Diesen Titel notieren";
+$locale['note'] = "Notiz von diesem Element machen";
 $locale['publish'] = "Veröffentlicht";
 $locale['unpublish'] = "Unveröffentlicht";
 $locale['draft'] = "Entwurf";
@@ -57,10 +57,10 @@ $locale['in'] = "in";
 $locale['profile'] = "Profil";
 $locale['edit'] = "Bearbeiten";
 $locale['view'] = "Ansehen";
-$locale['login'] = "Login";
-$locale['logout'] = "Abmelden";
+$locale['login'] = "Einloggen";
+$locale['logout'] = "Ausloggen";
 $locale['pm'] = "Private Nachrichten";
-$locale['logged'] = "Angemeldet als ";
+$locale['logged'] = "Eingeloggt als ";
 $locale['version'] = "Version ";
-$locale['browse'] = "Suche ..";
+$locale['browse'] = "Durchsuche ...";
 $locale['or'] = "oder";

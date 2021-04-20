@@ -12,6 +12,6 @@ $locale['E_USER_ERROR'] = "Fel som genereras av användaren med funktionen trigg
 $locale['E_USER_WARNING'] = "Varning som genereras av användare med funktionen trigger_error()";
 $locale['E_USER_NOTICE'] = "Notis som genereras av användare med funktionen trigger_error()";
 $locale['E_ALL'] = "Definierar alla meddelanden utom E_STRICT";
-$locale['E_STRICT'] = "";
+// $locale['E_STRICT'] = "";
 $locale['err_100'] = "Ej tillämpligt";
 $locale['err_101'] = "<strong>VARNING:</strong> Ett fel uppstod vid tolkning av sidan. Se PHPFusion's <a href='[ERROR_LOG_URL]' class='alt'>fellogg</a> för mer information.";

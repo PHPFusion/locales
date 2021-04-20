@@ -14,17 +14,17 @@ $locale['421'] = "Edytuj";
 $locale['422'] = "Usuń";
 $locale['423'] = "Usunąć tę grupę użytkownika?";
 // Edit/Add User Group
-$locale['430'] = "Edit User Group";
-$locale['431'] = "Add User Group";
-$locale['432'] = "Group Name:";
-$locale['433'] = "Group Description:";
+$locale['430'] = "Edytuj grupę użytkowników";
+$locale['431'] = "Dodaj grupę użytkownika";
+$locale['432'] = "Nazwa grupy:";
+$locale['433'] = "Opis grupy:";
 $locale['434'] = "Zapisz grupę";
 // Search/Add Group Users
 $locale['440'] = "Dodaj użytkowników do grupy";
 $locale['441'] = "Wyszukaj użytkowników używając poniższego formularza, aby dodać ich do tej grupy.";
 $locale['442'] = "You can search for multiple users by separating each entry with a comma.";
-$locale['443'] = "User IDs";
-$locale['444'] = "User Names";
+$locale['443'] = "ID użytkownika";
+$locale['444'] = "Nazwy użytkowników";
 $locale['445'] = "Wyszukiwarka";
 $locale['446'] = "Nazwa użytkownika";
 $locale['447'] = "Typ użytkownika";

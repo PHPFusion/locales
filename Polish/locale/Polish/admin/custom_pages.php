@@ -20,7 +20,7 @@ $locale['427'] = "Włącz komentarze";
 $locale['428'] = "Włącz oceny";
 $locale['429'] = "Podgląd strony";
 $locale['430'] = "Zapisz stronę";
-$locale['431'] = "Pagebreak";
+$locale['431'] = "Przełamanie strony";
 // Popup errors / warning messages
 $locale['450'] = "Usunąć tę dodatkową stronę?";
 $locale['451'] = "Proszę podać tytuł strony";

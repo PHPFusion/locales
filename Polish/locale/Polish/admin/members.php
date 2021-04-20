@@ -132,8 +132,7 @@ $locale['602'] = "Odbanuj";
 $locale['603'] = "odblokowywanie";
 $locale['604'] = "Powód:";
 // Deactivation System
-$locale['610'] = "<strong>%d user(s)</strong> have not logged in for <strong>%d day(s)</strong> and have been marked as inactive.
-By deactivating these users they will have <strong>%d day(s)</strong> before they are %s.";
+$locale['610'] = "<strong>%d użytkowników </strong> nie zalogowało się przez <strong>%d dni </strong> i zostali oznaczeni jako nieaktywni. Po dezaktywacji tych użytkowników będą mieć <strong> (%d) dni </strong> zanim będą %s.";
 $locale['611'] = "Pamiętaj, że część użytkowników mogła dodać do Twojej strony posty, komentarze, zdjęcia itp. Powyższe treści zostaną usunięte razem z&nbsp;kontami, jeśli w&nbspustawieniach systemu deaktywacji jako działanie wobec bezczynnych kont masz ustawione usuwanie kont.";
 $locale['612'] = "użytkownik";
 $locale['613'] = "konta";

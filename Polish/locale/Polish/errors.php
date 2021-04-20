@@ -12,6 +12,6 @@ $locale['E_USER_ERROR'] = "Błąd wygenerowany przez użytkownika przy użyciu f
 $locale['E_USER_WARNING'] = "Ostrzeżenie wygenerowane przez użytkownika przy użyciu funkcji trigger_error()";
 $locale['E_USER_NOTICE'] = "Powiadomienie wygenerowane przez użytkownika przy użyciu funkcji trigger_error()";
 $locale['E_ALL'] = "Definiuje wszystkie wiadomości, z wyjątkiem E_STRICT";
-$locale['E_STRICT'] = "";
+// $locale['E_STRICT'] = "";
 $locale['err_100'] = "Nie dotyczy";
 $locale['err_101'] = "<strong>OSTRZEŻENIE:</strong> Wystąpił błąd podczas analizowania strony. Aby uzyskać więcej informacji, zobacz dziennik błędów PHPFusion's <a href='[ERROR_LOG_URL]' class='alt'></a>.";

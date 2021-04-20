@@ -21,7 +21,7 @@ $locale['425'] = "Komentarze";
 $locale['426'] = "Oceny";
 $locale['427'] = "Utworzony przez:";
 $locale['428'] = "Informacja";
-$locale['429'] = "Download Stats";
+$locale['429'] = "Pobierz statystyki";
 $locale['429a'] = "Nie dostępne";
 // Downloads Notices
 $locale['430'] = "Nie zdefiniowano kategorii pobierania";
