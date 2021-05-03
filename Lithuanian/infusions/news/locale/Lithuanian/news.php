@@ -16,3 +16,4 @@ $locale['news_0016'] = "No categories defined.";
 $locale['news_0017'] = "Filtruoti pagal";
 $locale['news_0018'] = "Rodyti visas naujienas";
 $locale['news_0019'] = "Naujienų galerija";
+$locale['news_0020'] = "Most Read News";

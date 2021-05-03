@@ -13,3 +13,4 @@ $locale['article_0041'] = "Lijst weergave";
 $locale['article_0060'] = "Geen artikelcategorieën gedefinieerd.";
 $locale['article_0061'] = "Geen artikelen gevonden.";
 $locale['article_0062'] = "Er zijn geen artikelen in deze Categorie.";
+$locale['article_0063'] = "Meest gelezen";

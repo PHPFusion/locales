@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "Información de PHP";
+$locale['400'] = "Server Info";
 //General
-$locale['401'] = "Información General";
+$locale['401'] = "General";
 $locale['402'] = "Software del Servidor";
 $locale['403'] = "Software del Servidor Web";
 $locale['404'] = "Versión de PHP";
@@ -28,5 +28,5 @@ $locale['440'] = "Permisos de Carpetas";
 $locale['441'] = "Puede Escribirse";
 $locale['442'] = "No Puede Escribirse";
 //PHPinfo
-$locale['450'] = "Información Detallada";
+$locale['450'] = "Detalles";
 $locale['451'] = "No se han podido obtener los datos. Comprueba si la función phpinfo() está desactivada.";

@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Existem %s sub-categoria(s) nesta categoria";
 $locale['fields_0601'] = "Existem %s campo(s) nesta categoria";
 $locale['fields_0602'] = "Este módulo não pôde ser instalado. Faltam informações sobre a coluna da tabela.";
 
-$locale['fields_0650'] = "Mover ID do Campo ";
-$locale['fields_0651'] = " Suba um slot e ID de campo [FIELD_ID] para baixo um slot.";
-$locale['fields_0652'] = " Abaixe um slot e mova o campo ID [FIELD_ID] para cima um slot.";
 $locale['fields_0653'] = "Nenhum resultado";
-$locale['fields_0654'] = "Apagar Campos";
-$locale['fields_0655'] = "O ID da Categoria não foi encontrado. Por favor, verifique novamente.";
-$locale['fields_0656'] = "O ID da Categoria não foi encontrado. Por favor, verifique novamente.";
-$locale['fields_0657'] = " definido para carregamento.";
-$locale['fields_0658'] = " carregado.";
+
 $locale['fields_0659'] = " idioma em falta!";
 $locale['fields_0660'] = "Nenhum módulo encontrado";
-$locale['fields_0661'] = "Modo de Actualização";
-$locale['fields_0662'] = "Modo de Guardar";
+
 $locale['fields_0663'] = "Nome da Tabela";
-$locale['fields_0664'] = "Informação Antiga da Tabela";
-$locale['fields_0665'] = "Informação Nova da Tabela";
-$locale['fields_0666'] = "Fork No.1 - Atualizar Campo numa tabela diferente";
-$locale['fields_0667'] = "Conflito de coluna. Existem colunas em [OLD_TABLE] existentes em ";
-$locale['fields_0668'] = "Fork No.2 - Actualizar Campo na mesma tabela";
-$locale['fields_0669'] = "Renomeando a coluna [FIELD_NAME] em [OLD_TABLE] para [FIELD_NAME_] com atributos de ";
-$locale['fields_0670'] = "Dados Antigos";
 $locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";

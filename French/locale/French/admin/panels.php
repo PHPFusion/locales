@@ -85,6 +85,6 @@ $locale['600'] = "Interface de gestion des panneaux";
 $locale['602'] = "Panneaux non utilisés";
 $locale['603'] = "Panneaux utilisés";
 $locale['604'] = "Panneau | Panneaux";
-$locale['605'] = "";
+// $locale['605'] = "";
 $locale['606'] = "Contenu du site";
 $locale['607'] = "Fichier";

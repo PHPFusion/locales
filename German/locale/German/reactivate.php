@@ -1,6 +1,6 @@
 <?php
 // Error messages
-$locale['500'] = "Es ist ein Feler aufgetreten.";
+$locale['500'] = "Ein Fehler ist aufgetreten";
 $locale['501'] = "Der von Ihnen angeklickte Link zur erneuten Aktivierung ist nicht mehr gültig. <br /> <br /> Wenden Sie sich unter [SITEEMAIL] an den Administrator der Site, wenn Sie eine manuelle erneute Aktivierung anfordern möchten.";
 $locale['502'] = "Der Link zur erneuten Aktivierung, auf den Sie geklickt haben, ist ungültig! <br /> <br /> Wenden Sie sich unter [SITEEMAIL] an den Administrator der Site, wenn Sie eine manuelle Reaktivierung anfordern möchten.";
 $locale['503'] = "Der von Ihnen gefolgte Reaktivierungs-Link konnte Ihr Konto nicht wieder aktivieren.<br />

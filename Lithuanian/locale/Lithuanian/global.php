@@ -4,12 +4,12 @@ $locale['charset'] = "UTF-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "LT"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "lt"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "lt"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "lt"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "lt"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "lt"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "lt"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "lt"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "lt"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "lt"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "lt"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "lt"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "lt"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "lt"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "lt"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Sausis|Vasaris|Kovas|Balandis|Gegužė|Birželis|Liepa|Rugpjūtis|Rugsėjis|Spalis|Lapkritis|Gruodis";
@@ -232,7 +232,6 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Gautos žinutės:";
 $locale['UM099'] = "Išsiųstos žinutės:";
 $locale['UM100'] = "Žinučių archyvas:";
-
 // Keywords and Meta
 $locale['tags'] = "Raktažodžiai";
 // Captcha
@@ -253,8 +252,6 @@ $locale['global_182'] = "Admin slaptažodis įvestas blogai arba neįvestas.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Tinklapis išjungtas";
@@ -355,7 +352,7 @@ $locale['global_459'] = "Nustatytas naujas slaptažodis vartotojui USER_NAME, ta
 // Function parsebytesize()
 $locale['global_460'] = "Tuščias";
 $locale['global_461'] = "Baitai";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Jūs buvote nukreipas į %s, prašome palaukti. Jeigu nebuvote perkeltas, spauskite čia.";
 // Captcha Locales
 $locale['global_600'] = "Patvirtinimo kodas";
@@ -363,10 +360,10 @@ $locale['global_601'] = "Turite įvesti teisingą patvirtinimo kodą";
 $locale['recaptcha'] = "lt";
 // Site links
 $locale['global_700'] = "Rodyti daugiau";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Neįmanoma paversti HEX į DEC";
 $locale['global_901'] = "Įkelti mediją";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Kalba:";
 $locale['global_ML101'] = "- Pasirinkti kalbą -";
 $locale['global_ML102'] = "Tinklapio kalba";
@@ -434,6 +431,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Veiksmai";
 $locale['language'] = "Kalba";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Pasirinkimai";
 // Persons & Identifiers
 $locale['you'] = "Tu";
 $locale['me'] = "Aš";
@@ -443,7 +441,7 @@ $locale['us'] = "Mus";
 $locale['he'] = "Jis";
 $locale['she'] = "Ji";
 $locale['it'] = "Tai";
-//Tables
+// Tables
 $locale['order'] = "Rodymo tvarka";
 $locale['sort'] = "Rikiavimas";
 $locale['id'] = "ID";
@@ -487,6 +485,8 @@ $locale['mark_as'] = "Žymėti kaip";
 $locale['preview'] = "Peržiūrėti";
 $locale['custom'] = "Nestandartinis";
 $locale['submit'] = "Pateikti";
+$locale['submissions'] = "Pateikimai";
+$locale['categories'] = "Kategorijos";
 // Alignment
 $locale['left'] = "Kairė";
 $locale['center'] = "Centras";
@@ -500,6 +500,8 @@ $locale['about'] = "Apie";
 // User status
 $locale['online'] = "Prisijungęs";
 $locale['offline'] = "Atsijungęs";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
 // Timer
 $locale['timer_year'] = "metai|metai";
 $locale['timer_month'] = "mėnesis|mėnesiai";

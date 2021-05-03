@@ -5,6 +5,7 @@ $locale['401'] = "Hozzászólások";
 // Comments messages
 $locale['410'] = "Hozzászólás módosítva";
 $locale['411'] = "Hozzászólás törölve";
+$locale['412'] = "A megjegyzést eltávolítottuk, és a felhasználót felvettük a feketelistára.";
 // Edit Comment form
 $locale['420'] = "Hangulatjelek kikapcsolása ebben a hozzászólásban";
 $locale['421'] = "Hozzászólás mentése";

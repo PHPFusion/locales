@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Ningún Blogs se ha puesto aún";
 $locale['blog_3001'] = "Ninguna Categoría";
 $locale['blog_3002'] = "Sin Post";
 $locale['blog_3003'] = "Sin Autor";
+$locale['blog_3004'] = "Most Read Blogs";
 $locale['testimonial_rank'] = "Soy %s de este sitio web";
 $locale['testimonial_location'] = "y actualmente vivo en %s";
 $locale['testimonial_join'] = "Ingresé a este sitio web en %s";

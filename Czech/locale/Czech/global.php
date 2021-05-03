@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "CZ"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "cs"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "cs"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "cs"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "cs"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "cs"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "cs"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "cs"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "cs"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "cs"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "cs"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "cs"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "cs"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "cs"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "cs"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Leden|Únor|Březen|Duben|Květen|Červen|Červenec|Srpen|Září|Říjen|Listopad|Prosinec";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Odhlásit se jako uživatel";
 $locale['UM098'] = "Doručená pošta: ";
 $locale['UM099'] = "Odeslaná pošta: ";
 $locale['UM100'] = "Archiv: ";
-
 // Keywords and Meta
 $locale['tags'] = "Tagy";
 // Captcha
@@ -252,8 +251,6 @@ $locale['global_182'] = "Heslo správce nebylo zadáno nebo je nesprávné.";
 $locale['global_183'] = "Vaše relace vypršela. Prosím, přihlaste se znovu.";
 $locale['global_184'] = "Nyní jste přihlášen jako %s";
 $locale['global_185'] = "Nyní jste přepnut zpět na svůj vlastní účet.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Režim údržby je aktivován";
@@ -330,7 +327,7 @@ $locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, A e-mail nebyl od
 // Function parsebytesize()
 $locale['global_460'] = "Prázdný";
 $locale['global_461'] = "Byty";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Budete přesměrováni %s, prosím, čekejte. Pokud nejste přesměrováni, klikněte sem.";
 // Captcha Locales
 $locale['global_600'] = "Ověřovací kód";
@@ -338,10 +335,10 @@ $locale['global_601'] = "Musíte zadat správný ověřovací kód";
 $locale['recaptcha'] = "cz";
 // Site links
 $locale['global_700'] = "Zobrazit více";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Nelze konvertovat HEX na DEC";
 $locale['global_901'] = "Vložte médium";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Jazyk:";
 $locale['global_ML101'] = "- Zvolte jazyk -";
 $locale['global_ML102'] = "Jazyk stránek";
@@ -409,6 +406,7 @@ $locale['hide'] = "Skrýt";
 $locale['actions'] = "Akce";
 $locale['language'] = "Jazyk";
 $locale['loading'] = "Načítá...";
+$locale['options'] = "Možnosti";
 // Persons & Identifiers
 $locale['you'] = "Vy";
 $locale['me'] = "Ja";
@@ -418,7 +416,7 @@ $locale['us'] = "Nás";
 $locale['he'] = "On";
 $locale['she'] = "Ona";
 $locale['it'] = "Ono";
-//Tables
+// Tables
 $locale['order'] = "Pořadí";
 $locale['sort'] = "Seřadit";
 $locale['id'] = "ID";
@@ -462,6 +460,8 @@ $locale['mark_as'] = "Označit jako";
 $locale['preview'] = "Náhled";
 $locale['custom'] = "Vlastní";
 $locale['submit'] = "Odoslat";
+$locale['submissions'] = "Na schválení";
+$locale['categories'] = "Kategorie";
 // Alignment
 $locale['left'] = "Vlevo";
 $locale['center'] = "Uprostřed";
@@ -475,6 +475,8 @@ $locale['about'] = "O nás";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. velikost souboru %s / Povolené typy souborů %s";
 // Timer
 $locale['timer_year'] = "rokem|lety|lety";
 $locale['timer_month'] = "měsícem|měsíci|měsíci";

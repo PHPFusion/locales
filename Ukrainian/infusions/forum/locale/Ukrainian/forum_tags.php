@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Обговорення, що відповідают
 $locale['forum_tag_0200'] = "Назва:";
 $locale['forum_tag_0201'] = "Опис:";
 $locale['forum_tag_0202'] = "Колір:";
+$locale['forum_tag_0202a'] = "Tag Icon";
 $locale['forum_tag_0203'] = "Мова:";
 $locale['forum_tag_0204'] = "Стан:";
 $locale['forum_tag_0205'] = "Використовується";

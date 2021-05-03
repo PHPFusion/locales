@@ -16,3 +16,4 @@ $locale['news_0016'] = "Hiçbir Kategori Tanımlanmadı.";
 $locale['news_0017'] = "Filtreleme";
 $locale['news_0018'] = "Tüm Haberleri Göster";
 $locale['news_0019'] = "Haber Galerisi";
+$locale['news_0020'] = "En Çok Okunan Haberler";

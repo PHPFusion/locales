@@ -1,6 +1,6 @@
 <?php
 $locale['ALT_001'] = 'Du hast';
-$locale['ALT_002'] = 'Es befinden sich keine Nachrichten in diesem Postfach.';
+$locale['ALT_002'] = 'Es gibt keine Nachrichten';
 $locale['ALT_003'] = 'Neue Nachricht';
 $locale['ALT_004'] = 'Mitglied seit';
 $locale['ALT_005'] = 'Suche...';

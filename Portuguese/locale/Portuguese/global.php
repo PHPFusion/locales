@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "GB"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "en"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "pt"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "pt"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "pt-PT"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "pt"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "pt_PT"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "pt-pt"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "pt"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "pt"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "pt-PT"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "pt"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "pt_PT"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "pt-pt"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "pt"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;| Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Caixa de entrada PM:";
 $locale['UM099'] = "Caixa de saída PM:";
 $locale['UM100'] = "Arquivo PM:";
-
 // Keywords and Meta
 $locale['tags'] = "Etiquetas";
 // Captcha
@@ -252,8 +251,6 @@ $locale['global_182'] = "Palavra-passe de administrador não inserida ou incorre
 $locale['global_183'] = "Sua sessão de login expirou. Por favor faça login novamente.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Modo de manutenção activo";
@@ -351,7 +348,7 @@ $locale['global_459'] = "Nova palavra-passe foi definida para USER_NAME, e o e-m
 // Function parsebytesize()
 $locale['global_460'] = "Vazio";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Você está sendo redireccionado para %s, por favor aguarde. Se você não foi redireccionado, clique aqui.";
 // Captcha Locales
 $locale['global_600'] = "Código de Validação";
@@ -359,10 +356,10 @@ $locale['global_601'] = "Tem que indicar o código de validação correcto";
 $locale['recaptcha'] = "pt";
 // Site links
 $locale['global_700'] = "Mostrar Mais";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Não é possível converter HEX para DEC";
 $locale['global_901'] = "Inserir Média";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Idioma:";
 $locale['global_ML101'] = "-- Seleccione o Idioma --";
 $locale['global_ML102'] = "Idioma do Site";
@@ -430,6 +427,7 @@ $locale['hide'] = "Ocultar";
 $locale['actions'] = "Acções";
 $locale['language'] = "Idioma";
 $locale['loading'] = "A carregar...";
+$locale['options'] = "Opções";
 // Persons & Identifiers
 $locale['you'] = "Você";
 $locale['me'] = "Eu";
@@ -439,7 +437,7 @@ $locale['us'] = "Nós";
 $locale['he'] = "Ele";
 $locale['she'] = "Ela";
 $locale['it'] = "Este";
-//Tables
+// Tables
 $locale['order'] = "Ordenar";
 $locale['sort'] = "Ordenar";
 $locale['id'] = "ID";
@@ -483,6 +481,8 @@ $locale['mark_as'] = "Marcar como";
 $locale['preview'] = "Pré-visualizar";
 $locale['custom'] = "Personalizado";
 $locale['submit'] = "Submeter";
+$locale['submissions'] = "Submissões";
+$locale['categories'] = "Categorias";
 // Alignment
 $locale['left'] = "Esquerda";
 $locale['center'] = "Centro";
@@ -496,6 +496,8 @@ $locale['about'] = "Sobre";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
 // Timer
 $locale['timer_year'] = "ano | anos";
 $locale['timer_month'] = "mês|meses";

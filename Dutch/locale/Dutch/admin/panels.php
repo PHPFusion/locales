@@ -85,6 +85,6 @@ $locale['600'] = "Paneel Beheer Interface";
 $locale['602'] = "Ongebruikte panelen";
 $locale['603'] = "Gebruikte panelen";
 $locale['604'] = "Panelen";
-$locale['605'] = "";
+// $locale['605'] = "";
 $locale['606'] = "Site inhoud";
 $locale['607'] = "Bestand";

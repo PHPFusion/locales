@@ -26,5 +26,6 @@ $locale['460'] = "الصور";
 $locale['461'] = "عرض";
 $locale['463'] = "هذا المجلد فارغ";
 $locale['464'] = "تحديث قائمة صور محرر TinyMCE ";
+$locale['465'] = "Image list updated";
 // Popup Error/Warning Messages
 $locale['470'] = "حذف هذه الصورة؟";

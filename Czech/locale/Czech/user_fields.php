@@ -157,3 +157,8 @@ Pokud opravdu chcete změnit svou e-mailovou adresu na tuto, klikněte na násle
 [EMAIL_VERIFY_LINK]<br/>
 Poznámka: Pro pokračování musíte být přihlášeni<br/>
 S pozdravem[SITEUSERNAME]<br/>[SITENAME]";
+// Checker
+$locale['u300'] = "Heslo by mělo obsahovat nejméně 1 speciální znak";
+$locale['u301'] = "Heslo by mělo obsahovat nejméně 1 velké a 1 malé písmeno";
+$locale['u302'] = "Heslo by mělo obsahovat nejméně 1 číslo";
+$locale['u303'] = "Heslo by mělo mít nejméně 8 znaků";

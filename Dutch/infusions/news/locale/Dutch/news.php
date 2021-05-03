@@ -16,3 +16,4 @@ $locale['news_0016'] = "Geen categorieën gedefinieerd.";
 $locale['news_0017'] = "Filter op";
 $locale['news_0018'] = "Toon alle nieuws";
 $locale['news_0019'] = "Nieuws afbeeldingen";
+$locale['news_0020'] = "Meest gelezen nieuws";

@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "Serverinformatie";
 //General
 $locale['401'] = "Algemeen";
 $locale['402'] = "Server software";
@@ -7,11 +7,11 @@ $locale['403'] = "Webserver software";
 $locale['404'] = "PHP versie";
 $locale['405'] = "PHP interface";
 $locale['406'] = "MySQL Server versie";
-$locale['406a'] = "Database Driver";
+$locale['406a'] = "Database Stuurprogramma";
 $locale['407'] = "PHPFusion versie";
 $locale['408'] = "Database voorvoegsel";
 $locale['409'] = "Cookie voorvoegsel";
-$locale['410'] = "Web-browser en OS";
+$locale['410'] = "Webbrowser en OS";
 $locale['411'] = "Vertaald door: Douwe Yntema, mpol_nl, Pedro"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "PHP instellingen";

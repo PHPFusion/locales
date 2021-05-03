@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "SE"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "sv-SE"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "sv"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "sv_SE"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "sv"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "sv"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "sv"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "sv"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "sv"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "sv_SE"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "sv"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "sv"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "sv"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "sv"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "sv"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Januari|Februari|Mars|April|Maj|Juni|Juli|Augusti|September|Oktober|November|December";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Logga ut som användare";
 $locale['UM098'] = "PM Inkorgen:";
 $locale['UM099'] = "PM Utkorg:";
 $locale['UM100'] = "PM Arkiv:";
-
 // Keywords and Meta
 $locale['tags'] = "Taggar";
 // Captcha
@@ -252,8 +251,6 @@ $locale['global_182'] = "Admin lösenord inte angett eller felaktigt.";
 $locale['global_183'] = "Din session har gått ut. Vänligen logga in på nytt.";
 $locale['global_184'] = "Du är inloggad som %s";
 $locale['global_185'] = "Du har nu bytt tillbaka till ditt eget konto.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Underhållsläget är aktiverat";
@@ -330,7 +327,7 @@ $locale['global_459'] = "Nytt lösenord har satts för USER_NAME och e-postmedde
 // Function parsebytesize()
 $locale['global_460'] = "[Tomt]";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Du omdirigeras till %s, var god vänta. Om du inte dirigeras om, klicka här.";
 // Captcha Locales
 $locale['global_600'] = "Validerings kod";
@@ -338,10 +335,10 @@ $locale['global_601'] = "Du måste ange korrekt valideringskod";
 $locale['recaptcha'] = "sv-SE";
 // Site links
 $locale['global_700'] = "Visa Mer";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Det går inte att konvertera HEX till DEC";
 $locale['global_901'] = "Bifoga media";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Språk:";
 $locale['global_ML101'] = "- Välj språk -";
 $locale['global_ML102'] = "Sajtens språk";
@@ -409,6 +406,7 @@ $locale['hide'] = "Dölj";
 $locale['actions'] = "Åtgärder";
 $locale['language'] = "Språk";
 $locale['loading'] = "Laddar ...";
+$locale['options'] = "Alternativ";
 // Persons & Identifiers
 $locale['you'] = "Du";
 $locale['me'] = "Jag";
@@ -418,7 +416,7 @@ $locale['us'] = "Oss";
 $locale['he'] = "Han";
 $locale['she'] = "Hon";
 $locale['it'] = "Det";
-//Tables
+// Tables
 $locale['order'] = "Ordning";
 $locale['sort'] = "Sortering";
 $locale['id'] = "ID";
@@ -462,6 +460,8 @@ $locale['mark_as'] = "Markera som";
 $locale['preview'] = "Förhandsgranska";
 $locale['custom'] = "Anpassa";
 $locale['submit'] = "Skicka in";
+$locale['submissions'] = "Förslag";
+$locale['categories'] = "Kategorier";
 // Alignment
 $locale['left'] = "Vänster";
 $locale['center'] = "Centrera";
@@ -475,6 +475,8 @@ $locale['about'] = "Om";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
 // Timer
 $locale['timer_year'] = "år|år";
 $locale['timer_month'] = "månad|månader";

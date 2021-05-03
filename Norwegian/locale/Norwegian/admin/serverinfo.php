@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "PHP informasjon";
+$locale['400'] = "Server Info";
 //General
-$locale['401'] = "Generelt";
+$locale['401'] = "Generellt";
 $locale['402'] = "Server programvare";
 $locale['403'] = "Webserver programvare";
 $locale['404'] = "PHP versjon";
@@ -28,5 +28,5 @@ $locale['440'] = "Mappe Rettigheter";
 $locale['441'] = "Skrivbar";
 $locale['442'] = "Ikke skrivbar";
 //PHPinfo
-$locale['450'] = "Detaljer";
+$locale['450'] = "Details";
 $locale['451'] = "Ute av stand til å hente data. Se etter om  phpinfo() funksjonen er slått av?";

@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Existujú %s sub-kategórie v tejto kategórii";
 $locale['fields_0601'] = "Existujú %s polia v tejto kategórii";
 $locale['fields_0602'] = "Tento modul nemožno nainštalovať. Chýbajú informácie o stĺpci tabuľky.";
 
-$locale['fields_0650'] = "Presunúť ID poľa ";
-$locale['fields_0651'] = " Zadajte slot a ID poľa [FIELD_ID] dole.";
-$locale['fields_0652'] = " Dole do pozície a ID poľa [FIELD_ID] hore.";
 $locale['fields_0653'] = "Žiadny výsledok";
-$locale['fields_0654'] = "Odstrániť polia";
-$locale['fields_0655'] = "ID kategórie nebolo nájdené. Prosím, znova skontrolujte.";
-$locale['fields_0656'] = "ID kategórie nebolo nájdené. Prosím, znova skontrolujte.";
-$locale['fields_0657'] = " nastaviť na načítanie.";
-$locale['fields_0658'] = " načítané.";
+
 $locale['fields_0659'] = " chýba lokalizácia!";
 $locale['fields_0660'] = "Neboli nájdené žiadne moduly";
-$locale['fields_0661'] = "Režim aktualizácie";
-$locale['fields_0662'] = "Uložiť režim";
+
 $locale['fields_0663'] = "Názov tabuľky";
-$locale['fields_0664'] = "Staré informácie o tabuľke -";
-$locale['fields_0665'] = "Nové informácie o tabuľke -";
-$locale['fields_0666'] = "Fork č.1 - Aktualizovať pole na inej tabuľke";
-$locale['fields_0667'] = "Konflikt stĺpcov. V stĺpcoch [OLD_TABLE] existujú v ";
-$locale['fields_0668'] = "Fork č.2 - Aktualizovať pole na rovnakej tabuľke";
-$locale['fields_0669'] = "Premenovať stĺpec [FIELD_NAME] na [OLD_TABLE] na [FIELD_NAME_] s atribútmi ";
-$locale['fields_0670'] = "Staré dáta";
 $locale['fields_0671'] = "Vaša tabuľka musí byť platná tabuľka. Váš stĺpec musí byť stĺpcom Id používateľa v tejto tabuľke.";

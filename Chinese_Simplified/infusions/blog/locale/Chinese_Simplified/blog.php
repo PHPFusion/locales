@@ -12,6 +12,7 @@ $locale['blog_3000'] = "没有任何博客";
 $locale['blog_3001'] = "没有任何博客類別";
 $locale['blog_3002'] = "没有博客";
 $locale['blog_3003'] = "没有作者";
+$locale['blog_3004'] = "Most Read Blogs";
 $locale['testimonial_rank'] = "我是这个网站的 %s。";
 $locale['testimonial_location'] = "我目前住在 %s。";
 $locale['testimonial_join'] = "我在%s加入了这个网站";

@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "NL"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "nl"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "nl"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "nl"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "nl"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "nl"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "nl"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "nl-nl"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "nl"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "nl"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "nl"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "nl"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "nl"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "nl-nl"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "nl"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Januari|Februari|Maart|April|Mei|Juni|Juli|Augustus|September|Oktober|November|December";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Afmelden als gebruiker";
 $locale['UM098'] = "Berichten inbox:";
 $locale['UM099'] = "Berichten outbox:";
 $locale['UM100'] = "Berichten archief:";
-
 // Keywords and Meta
 $locale['tags'] = "Labels";
 // Captcha
@@ -252,8 +251,6 @@ $locale['global_182'] = "<strong>Waarschuwing:</strong> Beheerderwachtwoord niet
 $locale['global_183'] = "Uw inlogsessie is verlopen. Log alsjeblieft nogmaals in.";
 $locale['global_184'] = "Je bent nu ingelogd als '%s'";
 $locale['global_185'] = "Je wordt nu teruggeschakeld naar je eigen account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Onderhoudsmodus geactiveerd";
@@ -343,7 +340,7 @@ $locale['global_459'] = "Nieuw wachtwoord ingesteld voor USER_NAME, maar email k
 // Function parsebytesize()
 $locale['global_460'] = "Leeg";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "U wordt doorgestuurd naar %s, wacht een moment. Als u niet wordt doorgestuurd, klikt u hier.";
 // Captcha Locales
 $locale['global_600'] = "Validatie Code";
@@ -351,10 +348,10 @@ $locale['global_601'] = "Voer alstublieft de juiste validatiecode in";
 $locale['recaptcha'] = "nl";
 // Site links
 $locale['global_700'] = "Toon meer";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Niet in staat om HEX naar DEC te converteren";
 $locale['global_901'] = "Media toevoegen";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Taal:";
 $locale['global_ML101'] = "- Selecteer Taal -";
 $locale['global_ML102'] = "Site taal";
@@ -422,6 +419,7 @@ $locale['hide'] = "Verberg";
 $locale['actions'] = "Acties";
 $locale['language'] = "Taal";
 $locale['loading'] = "Laden...";
+$locale['options'] = "Opties";
 // Persons & Identifiers
 $locale['you'] = "Jij";
 $locale['me'] = "Mij";
@@ -431,7 +429,7 @@ $locale['us'] = "Ons";
 $locale['he'] = "Hij";
 $locale['she'] = "Zij";
 $locale['it'] = "Het";
-//Tables
+// Tables
 $locale['order'] = "Volgorde";
 $locale['sort'] = "Sorteer";
 $locale['id'] = "ID";
@@ -475,6 +473,8 @@ $locale['mark_as'] = "Markeren als";
 $locale['preview'] = "Voorvertoning";
 $locale['custom'] = "Eigen";
 $locale['submit'] = "Inzenden";
+$locale['submissions'] = "Inzendingen";
+$locale['categories'] = "Categorieën";
 // Alignment
 $locale['left'] = "Links";
 $locale['center'] = "Centreer";
@@ -488,6 +488,8 @@ $locale['about'] = "Over";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. bestandsgrootte: %s / Toegestane bestandstypes: %s";
 // Timer
 $locale['timer_year'] = "jaar|jaren";
 $locale['timer_month'] = "maand|maanden";

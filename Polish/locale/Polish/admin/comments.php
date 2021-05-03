@@ -5,6 +5,7 @@ $locale['401'] = "Komentarze";
 // Comments messages
 $locale['410'] = "Zaktualizowano komentarz";
 $locale['411'] = "Usunięto komentarz";
+$locale['412'] = "Komentarz został usunięty i użytkownik dodany do czarnej listy.";
 // Edit Comment form
 $locale['420'] = "Wyłącz emotoikony w tym komentarzu";
 $locale['421'] = "Zapisz komentarz";

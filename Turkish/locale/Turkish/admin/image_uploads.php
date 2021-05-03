@@ -26,5 +26,6 @@ $locale['460'] = "Görüntüler";
 $locale['461'] = "Göster";
 $locale['463'] = "Bu klasör boş";
 $locale['464'] = "TinyMCE editörü için görüntü listesini güncelle";
+$locale['465'] = "Görüntü listesi güncellendi";
 // Popup Error/Warning Messages
 $locale['470'] = "Bu resim silinsin mi?";

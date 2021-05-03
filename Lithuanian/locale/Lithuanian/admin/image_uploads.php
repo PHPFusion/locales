@@ -26,5 +26,6 @@ $locale['460'] = "Paveiksliukai";
 $locale['461'] = "Peržiūrėti";
 $locale['463'] = "Šis aplankas tuščias";
 $locale['464'] = "Atnaujinti paveikslėlių sąrašą TinyMCE redaktoriui";
+$locale['465'] = "Image list updated";
 // Popup Error/Warning Messages
 $locale['470'] = "Ištrinti šį paveiksliuką?";

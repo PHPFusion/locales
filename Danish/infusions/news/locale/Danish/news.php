@@ -16,3 +16,4 @@ $locale['news_0016'] = "Ingen kategorier oprettet.";
 $locale['news_0017'] = "Filtrer efter";
 $locale['news_0018'] = "Vis alle nyheder";
 $locale['news_0019'] = "Nyhedsgalleri";
+$locale['news_0020'] = "Mest læste nyheder";

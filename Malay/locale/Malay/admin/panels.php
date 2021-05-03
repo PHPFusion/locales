@@ -85,6 +85,6 @@ $locale['600'] = "Pengurusan Panel";
 $locale['602'] = "Panel yang belum diguna";
 $locale['603'] = "Panel diguna";
 $locale['604'] = "Panel";
-$locale['605'] = "Panel";
+// $locale['605'] = "";
 $locale['606'] = "Kandungan Situs";
 $locale['607'] = "File";

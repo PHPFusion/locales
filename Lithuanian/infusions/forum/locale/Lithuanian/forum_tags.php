@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Diskusijos apie šio tinklapio valdymą";
 $locale['forum_tag_0200'] = "Raktažodžio pavadinimas";
 $locale['forum_tag_0201'] = "Raktažodžio aprašymas";
 $locale['forum_tag_0202'] = "Raktažodžio spalva";
+$locale['forum_tag_0202a'] = "Tag Icon";
 $locale['forum_tag_0203'] = "Raktažodžio kalba";
 $locale['forum_tag_0204'] = "Raktažodžio statusas";
 $locale['forum_tag_0205'] = "Šis raktažodis yra aktyvus";

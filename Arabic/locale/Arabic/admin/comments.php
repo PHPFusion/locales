@@ -5,6 +5,7 @@ $locale['401'] = "التعليقات";
 // Comments messages
 $locale['410'] = "تم تحديث التعليق";
 $locale['411'] = "تم حذف التعليق";
+$locale['412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
 $locale['420'] = "تعطيل رموز التعبير (smileys) في التعليق";
 $locale['421'] = "حفظ التعليق";

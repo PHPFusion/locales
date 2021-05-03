@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "CM"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "zh"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "zh"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "zh_CN"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "zh"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "ch"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "zh_CN"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "zh-cn"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "zh"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "zh_CN"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "zh"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ch"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "zh_CN"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "zh-cn"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "zh"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|一月|二月|三月|四月|五月|六月|七月|八月|九月|十月|十一月|十二月";
@@ -233,7 +233,6 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "PM Inbox :";
 $locale['UM099'] = "PM Outbox :";
 $locale['UM100'] = "PM Archive :";
-
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
@@ -254,8 +253,6 @@ $locale['global_182'] = "Admin Password not entered or incorrect.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Maintenance Mode Activated";
@@ -365,7 +362,7 @@ $locale['global_459'] = "New password has been set for USER_NAME, and email was 
 // Function parsebytesize()
 $locale['global_460'] = "Empty";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "You are being redirected to %s, please wait. If you're not redirected, click here.";
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
@@ -373,10 +370,10 @@ $locale['global_601'] = "You must enter a correct validation code";
 $locale['recaptcha'] = "zh";
 // Site links
 $locale['global_700'] = "Show More";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Unable to convert HEX to DEC";
 $locale['global_901'] = "Insert Media";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Language:";
 $locale['global_ML101'] = "- Select Language -";
 $locale['global_ML102'] = "Site language";
@@ -444,6 +441,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Actions";
 $locale['language'] = "Language";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Options";
 // Persons & Identifiers
 $locale['you'] = "You";
 $locale['me'] = "Me";
@@ -453,7 +451,7 @@ $locale['us'] = "Us";
 $locale['he'] = "He";
 $locale['she'] = "She";
 $locale['it'] = "It";
-//Tables
+// Tables
 $locale['order'] = "Item Ordering";
 $locale['sort'] = "Sort";
 $locale['id'] = "ID";
@@ -497,6 +495,8 @@ $locale['mark_as'] = "Mark As";
 $locale['preview'] = "Preview";
 $locale['custom'] = "Custom";
 $locale['submit'] = "Submit";
+$locale['submissions'] = "Submissions";
+$locale['categories'] = "目录";
 // Alignment
 $locale['left'] = "Left";
 $locale['center'] = "Center";
@@ -510,6 +510,8 @@ $locale['about'] = "About";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
 // Timer
 $locale['timer_year'] = "year|years";
 $locale['timer_month'] = "month|months";

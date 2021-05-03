@@ -85,6 +85,6 @@ $locale['600'] = "Panouri";
 $locale['602'] = "Panouri nefolosite";
 $locale['603'] = "Panouri folosite";
 $locale['604'] = "Panouri";
-$locale['605'] = "Panou";
+// $locale['605'] = "";
 $locale['606'] = "Con&#355;inut sait";
 $locale['607'] = "Fi&#351;ier";

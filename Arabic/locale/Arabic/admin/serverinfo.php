@@ -1,9 +1,9 @@
 <?php
-$locale['400'] = "معلومات الـPHP";
+$locale['400'] = "Server Info";
 //General
 $locale['401'] = "عام";
 $locale['402'] = "برنامج السرفر";
-$locale['403'] = "برنامج الوب سرفر";
+$locale['403'] = "برنامج الويب سيرفر";
 $locale['404'] = "إصدار PHP";
 $locale['405'] = "واجهة PHP";
 $locale['406'] = "إصدار سرفر MySQL";
@@ -12,7 +12,7 @@ $locale['407'] = "إصدار PHPFusion";
 $locale['408'] = "سابقة الجداول";
 $locale['409'] = "سابقة الكوكيز";
 $locale['410'] = "المتصفح والنظام التشغيل";
-$locale['411'] = "‮تُرجم بواسطة:PHPar ,iriatum ,Khamis Alqutob"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "الترجمة إلى اللغة العربية  بواسطة : Eng. Khamis Alqutob </br>   الدعم العربي لمجلة PHPFusion العربية © 2020 </br>   http://phpfusion-ar.xyz </br> إحدى قنوات شبكة زاد العرب - ArabZad.Com "; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "إعدادات PHP";
 $locale['423'] = "وضع التشغيل الآمن";
@@ -29,4 +29,4 @@ $locale['441'] = "قابل للكتابة";
 $locale['442'] = "غير قابل للكتابة";
 //PHPinfo
 $locale['450'] = "التفاصيل";
-$locale['451'] = "لم يمكن الحصول على البيانات. تحقق إن كانت دالة phpinfo() معطلة?";
+$locale['451'] = "لم يمكن الحصول على البيانات. تحقق إن كانت دالة phpinfo() معطلة؟";

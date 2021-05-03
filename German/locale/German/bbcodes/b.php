@@ -1,3 +1,3 @@
 <?php
-$locale['bb_b_description'] = "Zeigt den ausgew&auml;hlten Text in Fett an.";
-$locale['bb_b_usage'] = "Text Fett darstellen";
+$locale['bb_b_description'] = "Zeigt den ausgewählten Text fett an";
+$locale['bb_b_usage'] = "Fett gedruckter Text";

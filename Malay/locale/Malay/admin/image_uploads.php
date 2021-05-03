@@ -26,5 +26,6 @@ $locale['460'] = "Imej";
 $locale['461'] = "Papar";
 $locale['463'] = "Folder ini kosong";
 $locale['464'] = "Kemaskinikan senarai imej untuk penyunting TinyMCE";
+$locale['465'] = "Image list updated";
 // Popup Error/Warning Messages
 $locale['470'] = "Padam imej ini?";

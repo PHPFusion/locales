@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "Server Info";
 //General
 $locale['401'] = "Allmänt";
 $locale['402'] = "Server programvara";

@@ -1,9 +1,9 @@
 <?php
-$locale['400'] = "PHP Info";
+$locale['400'] = "Informácie o serveri";
 //General
 $locale['401'] = "Všeobecné";
 $locale['402'] = "Serverový softvér";
-$locale['403'] = "Softvér webového servera";
+$locale['403'] = "Webserver";
 $locale['404'] = "PHP verzia";
 $locale['405'] = "PHP rozhranie";
 $locale['406'] = "Verzia MySQL servera";

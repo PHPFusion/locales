@@ -26,5 +26,6 @@ $locale['460'] = "Изображения";
 $locale['461'] = "Виж";
 $locale['463'] = "Тази папка е празна";
 $locale['464'] = "Обновете списъка с изображенията за TinyMCE";
+$locale['465'] = "Image list updated";
 // Popup Error/Warning Messages
 $locale['470'] = "Да се изтрие ли изображението?";

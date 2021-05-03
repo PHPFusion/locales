@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Der er oprettet %s underkategori(er) under denne kateg
 $locale['fields_0601'] = "Der eksisterer %s felt(er) under denne kategori";
 $locale['fields_0602'] = "Dette modul kan ikke installeres. Der mangler nødvendig tabelinformation.";
 
-$locale['fields_0650'] = "Flyt felt-ID ";
-$locale['fields_0651'] = " En position op og felt-ID [FIELD_ID] ned et trin.";
-$locale['fields_0652'] = " En position ned og felt-ID [FIELD_ID] en position op.";
 $locale['fields_0653'] = "Intet resultat";
-$locale['fields_0654'] = "Slet felter";
-$locale['fields_0655'] = "Kategori-ID blev ikke fundet. Kig efter en gang mere.";
-$locale['fields_0656'] = "Kategori-ID blev ikke fundet. Kig efter igen.";
-$locale['fields_0657'] = " sæt til indlæsning.";
-$locale['fields_0658'] = " indlæst.";
+
 $locale['fields_0659'] = " der mangler en tekst!";
 $locale['fields_0660'] = "Ingen moduler fundet";
-$locale['fields_0661'] = "Opdateringstilstand";
-$locale['fields_0662'] = "Gemtilstand";
+
 $locale['fields_0663'] = "Tabelnavn";
-$locale['fields_0664'] = "Gammel tabelinformation -";
-$locale['fields_0665'] = "Ny tabelinformation -";
-$locale['fields_0666'] = "Fork No.1 - opdater felt i en anden tabel";
-$locale['fields_0667'] = "Kolonnekonflikt. Kolonner er aktive i den gamle tabel [OLD_TABLE] ";
-$locale['fields_0668'] = "Fork No.2 - opdater felt i samme tabel";
-$locale['fields_0669'] = "Omdøber kolonnen [FIELD_NAME] i [OLD_TABLE] til [FIELD_NAME_] med attributterne ";
-$locale['fields_0670'] = "Gamle data";
 $locale['fields_0671'] = "Din tabel skal være en gyldig tabel. Din kolonne skal være en kolonne med et bruger-id i den tabel.";

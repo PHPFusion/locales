@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "PHP Informacija";
+$locale['400'] = "Server Info";
 //General
-$locale['401'] = "Pagrindinė";
+$locale['401'] = "Bendri";
 $locale['402'] = "Serverio programinė įranga";
 $locale['403'] = "Web serverio programinė įranga";
 $locale['404'] = "PHP versija";

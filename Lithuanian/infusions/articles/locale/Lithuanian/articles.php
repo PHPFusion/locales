@@ -13,3 +13,4 @@ $locale['article_0041'] = "Sąrašo rodymas";
 $locale['article_0060'] = "Nėra sukurtų straipsnių kategorijų.";
 $locale['article_0061'] = "Nėra numatytų straipsnių.";
 $locale['article_0062'] = "Šioje kategorijoje nėra straipsnių.";
+$locale['article_0063'] = "Most Read";

@@ -26,5 +26,6 @@ $locale['460'] = "Imagini";
 $locale['461'] = "Vizualizeaz&#259;";
 $locale['463'] = "Acest director este gol";
 $locale['464'] = "Actualizeaz&#259; lista de imagini pentru editorul TinyMCE";
+$locale['465'] = "Image list updated";
 // Popup Error/Warning Messages
 $locale['470'] = "Sterg aceasta imagine?";

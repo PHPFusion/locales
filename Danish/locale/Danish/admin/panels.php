@@ -85,6 +85,6 @@ $locale['600'] = "Elementadministration";
 $locale['602'] = "Ikke-anvendte elementer";
 $locale['603'] = "Anvendte elementer";
 $locale['604'] = "Element|Elementer";
-$locale['605'] = "";
+// $locale['605'] = "";
 $locale['606'] = "Sideindhold";
 $locale['607'] = "Fil";

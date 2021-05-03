@@ -5,6 +5,7 @@ $locale['401'] = "Comentários";
 // Comments messages
 $locale['410'] = "Comentário actualizado";
 $locale['411'] = "Comentário apagado";
+$locale['412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
 $locale['420'] = "Desactivar smileys neste comentário";
 $locale['421'] = "Guardar comentário";

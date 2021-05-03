@@ -26,5 +26,6 @@ $locale['460'] = "Billeder";
 $locale['461'] = "Se";
 $locale['463'] = "Denne folder er tom";
 $locale['464'] = "Opdater billedliste til TinyMCE";
+$locale['465'] = "Billedliste er opdateret";
 // Popup Error/Warning Messages
 $locale['470'] = "Skal dette billede slettes?";

@@ -5,6 +5,7 @@ $locale['401'] = "Reacties";
 // Comments messages
 $locale['410'] = "Reactie gewijzigd";
 $locale['411'] = "Reactie verwijderd";
+$locale['412'] = "De reactie is verwijderd en de gebruiker is toegevoegd aan de zwarte lijst.";
 // Edit Comment form
 $locale['420'] = "Smileys in deze reactie uitschakelen";
 $locale['421'] = "Reactie opslaan";

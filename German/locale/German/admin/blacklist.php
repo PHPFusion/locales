@@ -1,29 +1,29 @@
 <?php
-$locale['BLS_000'] = "Blacklist"; //406
+$locale['BLS_000'] = "Sperrliste";
 //Blacklist message
-$locale['BLS_010'] = "Ung&uuml;ltige E-Mail oder IP-Adresse.";
-$locale['BLS_011'] = "Benutzer zur Blacklist hinzufügen.";
-$locale['BLS_012'] = "Benutzer geänderte Blacklist.";
-$locale['BLS_013'] = "Benutzer von Blacklist gelöscht"; //401
-$locale['BLS_014'] = "Wollen Sie diesen Eintrag wirklich löschen?";
-$locale['BLS_015'] = "Die Blacklist ist zur Zeit leer."; //465
-$locale['BLS_016'] = "E-Mail-Adresse der Blacklist ist ungültig."; //405
+$locale['BLS_010'] = "E-Mail- oder IP-Adresse darf nicht leer sein.";
+$locale['BLS_011'] = "Eintrag wurde hinzugefügt.";
+$locale['BLS_012'] = "Eintrag wurde geändert.";
+$locale['BLS_013'] = "Eintrag wurde entfernt.";
+$locale['BLS_014'] = "Möchten Sie diesen Eintrag wirklich löschen?";
+$locale['BLS_015'] = "Die Sperrliste ist zur Zeit leer.";
+$locale['BLS_016'] = "E-Mail-Adresse ist keine gültige E-Mail.";
 
-$locale['BLS_020'] = "Benutzer Blacklist"; //420
-$locale['BLS_021'] = "Benutzer auf der Blacklist bearbeiten"; //421
-$locale['BLS_022'] = "Benutzer auf der Blackliste hinzufügen";
-$locale['BLS_023'] = "Derzeit werden %d von %d gesamten Blacklist-Einträgen angezeigt.";
+$locale['BLS_020'] = "Sperrliste Benutzer";
+$locale['BLS_021'] = "Benutzer auf der Sperrliste bearbeiten";
+$locale['BLS_022'] = "Benutzer auf der Sperrliste hinzufügen";
+$locale['BLS_023'] = "Derzeit werden %d von %d gesamten Sperrliste-Einträge angezeigt.";
 
-$locale['BLS_030'] = "Blacklist Information"; //461
-$locale['BLS_031'] = "Administrator"; //467
-$locale['BLS_032'] = "Datum";  //468
-$locale['BLS_033'] = "Optionen"; //462
-$locale['BLS_034'] = "Sperrliste der IP-Adresse: [STRONG]oder[/STRONG]"; //441
-$locale['BLS_035'] = "Sperrliste E-Mail Adresse"; //442
-$locale['BLS_036'] = "Sperrlisten-Grund"; //443
-$locale['BLS_037'] = "Benutzer Blacklist";  //444
+$locale['BLS_030'] = "Sperrlisten Information";
+$locale['BLS_031'] = "Admin";
+$locale['BLS_032'] = "Datum";
+$locale['BLS_033'] = "Einstellungen";
+$locale['BLS_034'] = "Sperrliste der IP-Adresse: [STRONG]oder[/STRONG]";
+$locale['BLS_035'] = "Sperrliste E-Mail Adresse";
+$locale['BLS_036'] = "Sperrlisten-Grund";
+$locale['BLS_037'] = "Benutzer Sperrliste";
 $locale['BLS_038'] = "Aktualisieren";
-$locale['BLS_039'] = "Alles";
+$locale['BLS_039'] = "Alle auswählen";
 
 $locale['BLS_MS'] = "Die Eingabe einer IP-Adresse verhindert, dass ein Benutzer, dessen IP-Adresse mit dem Eintrag übereinstimmt, diese Seite besucht.
 Du kannst eine vollständige IP eingeben, z.B. <em>23.45.67.89.</em>, oder eine partielle IP, e.. 
@@ -42,4 +42,4 @@ Sie können eine vollständige E-Mail-Adresse eingeben.. <em>foo@bar.com</em>ode
 %@domain.tld verbietet jede Adresse von domain.tld<br />
 %.domain.tld alle Subdomains der Domain. ld<br />
 %payday% verbietet jede Adresse, die das Wort \"Zahlungstag\" enthält, das sehr oft auf Websites auftrat.<br />
-domain.tld ist ein Alias für %@domain.tld um es mit in v7 definierten Regeln kompatibel zu machen.<br />"; //440
+domain.tld ist ein Alias für %@domain.tld um es mit in v7 definierten Regeln kompatibel zu machen.<br />";

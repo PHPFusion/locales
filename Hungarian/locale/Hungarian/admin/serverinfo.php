@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP Infó";
+$locale['400'] = "Szerver információk";
 //General
 $locale['401'] = "Általános";
 $locale['402'] = "Szerver szoftver";
@@ -7,7 +7,7 @@ $locale['403'] = "Webszerver szoftver";
 $locale['404'] = "PHP verzió";
 $locale['405'] = "PHP interfész";
 $locale['406'] = "MySQL verzió";
-$locale['406a'] = "Adatbázis Meghajtó";
+$locale['406a'] = "Adatbázis meghajtó";
 $locale['407'] = "PHPFusion verzió";
 $locale['408'] = "Adatbázis előtag";
 $locale['409'] = "Cookie előtag";
@@ -28,5 +28,5 @@ $locale['440'] = "Mappák jogosultságai";
 $locale['441'] = "Írható";
 $locale['442'] = "Nem írható";
 //PHPinfo
-$locale['450'] = "Részletek";
+$locale['450'] = "Leírás";
 $locale['451'] = "Nem sikerült adatokat gyűjteni. Valószínűleg a phpinfo() nincs engedélyezve?";

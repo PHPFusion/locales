@@ -26,5 +26,6 @@ $locale['460'] = "Obrazy";
 $locale['461'] = "Podgląd";
 $locale['463'] = "Ten katalog jest pusty";
 $locale['464'] = "Zaktualizuj listę obrazów dla edytora TinyMCE";
+$locale['465'] = "Lista obrazów zaktualizowana";
 // Popup Error/Warning Messages
 $locale['470'] = "Usunąć ten obraz?";

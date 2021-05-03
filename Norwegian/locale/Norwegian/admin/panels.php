@@ -85,6 +85,6 @@ $locale['600'] = "Panel Administrasjon av paneler";
 $locale['602'] = "Ubrukte panel";
 $locale['603'] = "Brukte panel";
 $locale['604'] = "Paneler";
-$locale['605'] = "Panel";
+// $locale['605'] = "";
 $locale['606'] = "Sidens innhold";
 $locale['607'] = "File";

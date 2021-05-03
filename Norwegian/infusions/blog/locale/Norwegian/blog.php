@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Ingen Blogger er skrevet ennå";
 $locale['blog_3001'] = "Ingen Kategori";
 $locale['blog_3002'] = "Ingen Innlegg";
 $locale['blog_3003'] = "Ingen Forfatter";
+$locale['blog_3004'] = "Most Read Blogs";
 $locale['testimonial_rank'] = "Jeg er %s på denne nettsiden";
 $locale['testimonial_location'] = "og jeg bor for tiden i %s";
 $locale['testimonial_join'] = "Jeg ble medlem på denne nettsiden den %s";

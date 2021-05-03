@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Det finns %s underkategorier i denna kategori";
 $locale['fields_0601'] = "Det finns %s fält i denna kategori";
 $locale['fields_0602'] = "Modulen kan inte installeras. Information om tabellkolumnen saknas.";
 
-$locale['fields_0650'] = "Flytta fält ID ";
-$locale['fields_0651'] = " Upp en plats och Field ID [FIELD_ID] ner en plats.";
-$locale['fields_0652'] = " Ner en plats och Field ID [FIELD_ID] upp en plats.";
 $locale['fields_0653'] = "Inga resultat";
-$locale['fields_0654'] = "Radera fält";
-$locale['fields_0655'] = "Kat-ID hittades inte. Kontrollera igen.";
-$locale['fields_0656'] = "Kategorins ID kunde inte hittas. Kontrollera igen.";
-$locale['fields_0657'] = " inställd för laddning.";
-$locale['fields_0658'] = " laddat.";
+
 $locale['fields_0659'] = " språk saknas!";
 $locale['fields_0660'] = "Inga moduler hittades";
-$locale['fields_0661'] = "Uppdateringsläge";
-$locale['fields_0662'] = "Sparläge";
+
 $locale['fields_0663'] = "Tabellnamn";
-$locale['fields_0664'] = "Gammal tabellinformation -";
-$locale['fields_0665'] = "Ny tabellinformation -";
-$locale['fields_0666'] = "Förgrening nr 1 - Uppdateringsfält på en annan tabell";
-$locale['fields_0667'] = "Kolumnkonflikt. Det finns kolumner på [OLD_TABLE] existerade i ";
-$locale['fields_0668'] = "Förgrening nr 2 - Uppdateringsfält på samma tabell";
-$locale['fields_0669'] = "Döper om kolumn [FIELD_NAME] på [OLD_TABLE] till [FIELD_NAME_] med attribut för ";
-$locale['fields_0670'] = "Gammal data";
 $locale['fields_0671'] = "Din tabell måste vara en giltig tabell. Din kolumn måste vara en kolumn med ett användar-id i den tabellen.";

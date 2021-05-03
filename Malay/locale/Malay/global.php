@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "MY"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ms"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "ms"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "ml_IN"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "ms"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "ms"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "ms"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ms-my"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "ms"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "ml_IN"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "ms"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ms"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "ms"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "ms-my"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "ms"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januari|Februari|Mac|April|Mei|Jun|Julai|Ogos|September|Oktober|November|Disember";
@@ -233,7 +233,6 @@ $locale['UM103'] = "Log keluar User";
 $locale['UM098'] = "Mesej Masuk :";
 $locale['UM099'] = "Mesej Keluar :";
 $locale['UM100'] = "Mesej Diarkib :";
-
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
@@ -254,8 +253,6 @@ $locale['global_182'] = "Notis: Kata Laluan salah atau belum diisikan.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "Anda log masuk sebagai %s";
 $locale['global_185'] = "Anda telah kembali kepada akaun asal anda.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Penyelenggaraan Sistem Sedang Dijalankan.";
@@ -365,7 +362,7 @@ $locale['global_459'] = "Kata Laluan telah dikeluarkan kepada USER_NAME, tetapi 
 // Function parsebytesize()
 $locale['global_460'] = "Kosong";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Sila tunggu sementara anda diagihkan ke %s. Jika anda tidak ingin tunggu, sila klik pautan ini.";
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
@@ -373,10 +370,10 @@ $locale['global_601'] = "You must enter a correct validation code";
 $locale['recaptcha'] = "ms";
 // Site links
 $locale['global_700'] = "Show More";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Tidak dapat menukar HEX ke DEC";
 $locale['global_901'] = "Insert Media";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Bahasa:";
 $locale['global_ML101'] = "- Pilih Bahasa -";
 $locale['global_ML102'] = "Bahasa Halaman";
@@ -444,6 +441,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Actions";
 $locale['language'] = "Language";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Pilihan";
 // Persons & Identifiers
 $locale['you'] = "You";
 $locale['me'] = "Me";
@@ -453,7 +451,7 @@ $locale['us'] = "Us";
 $locale['he'] = "He";
 $locale['she'] = "She";
 $locale['it'] = "It";
-//Tables
+// Tables
 $locale['order'] = "Susunan Item";
 $locale['sort'] = "Isih";
 $locale['id'] = "ID";
@@ -497,6 +495,8 @@ $locale['mark_as'] = "Tanda Sebagai";
 $locale['preview'] = "Preview";
 $locale['custom'] = "Custom";
 $locale['submit'] = "Submit";
+$locale['submissions'] = "Penyerahan";
+$locale['categories'] = "Sunting Artikel";
 // Alignment
 $locale['left'] = "Kiri";
 $locale['center'] = "Tengah";
@@ -510,6 +510,8 @@ $locale['about'] = "Pengenaian";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
 // Timer
 $locale['timer_year'] = "tahun|tahun";
 $locale['timer_month'] = "bulan|bulan";

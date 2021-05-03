@@ -5,6 +5,7 @@ $locale['401'] = "Kommentarer";
 // Comments messages
 $locale['410'] = "Kommentaren har uppdaterats";
 $locale['411'] = "Kommentar borttagen";
+$locale['412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
 $locale['420'] = "Inaktivera smileys i denna kommentar";
 $locale['421'] = "Spara kommentar";

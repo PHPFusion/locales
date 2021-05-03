@@ -13,3 +13,4 @@ $locale['article_0041'] = "Widok listy";
 $locale['article_0060'] = "Nie zdefiniowano kategorii artykułów.";
 $locale['article_0061'] = "Nie zdefiniowano artykułów.";
 $locale['article_0062'] = "Brak artykułów w tej kategorii.";
+$locale['article_0063'] = "Najczęściej czytane";

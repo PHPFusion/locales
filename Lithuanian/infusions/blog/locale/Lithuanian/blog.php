@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Nėra sukurtų tinklaraščių";
 $locale['blog_3001'] = "Nėra kategorijų";
 $locale['blog_3002'] = "Nėra pranešimų";
 $locale['blog_3003'] = "Nėra autoriaus";
+$locale['blog_3004'] = "Most Read Blogs";
 $locale['testimonial_rank'] = "Aš esu šio tinklapio %s";
 $locale['testimonial_location'] = "ir šiuo metu gyvenu %s";
 $locale['testimonial_join'] = "Šio tinklapio nariu tapau %s";

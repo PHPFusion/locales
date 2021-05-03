@@ -13,3 +13,4 @@ $locale['article_0041'] = "清单检视";
 $locale['article_0060'] = "目前没有任何文章分类记录。";
 $locale['article_0061'] = "没有文章记录。";
 $locale['article_0062'] = "此類別中沒有任何文章。";
+$locale['article_0063'] = "Most Read";

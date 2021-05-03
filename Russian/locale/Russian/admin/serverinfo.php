@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "Информация PHP";
+$locale['400'] = "Информация сервера";
 //General
-$locale['401'] = "Общая";
+$locale['401'] = "Общие";
 $locale['402'] = "Серверное ПО";
 $locale['403'] = "ПО веб-сервера";
 $locale['404'] = "Версия PHP";
@@ -11,7 +11,7 @@ $locale['406a'] = "Драйвер БД";
 $locale['407'] = "Версия PHPFusion";
 $locale['408'] = "Префикс БД";
 $locale['409'] = "Префикс Cookie";
-$locale['410'] = "Браузер и ОС";
+$locale['410'] = "Веб-браузер и ОС";
 $locale['411'] = "Авторы перевода: Rizado, ovasclub"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "Настройки PHP";

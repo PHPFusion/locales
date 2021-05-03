@@ -5,9 +5,9 @@ $locale['PL_401'] = "Deaktivierte Permalinks";
 $locale['PL_401a'] = "Permalink Einstellungen";
 
 // Common
-$locale['PL_402'] = "Umschreibmodus";
+$locale['PL_402'] = "Name umschreiben";
 $locale['PL_403'] = "Beschreibung";
-$locale['PL_404'] = "Optionen";
+$locale['PL_404'] = "Einstellungen";
 $locale['PL_404a'] = "Aktivieren";
 $locale['PL_404b'] = "Deaktivieren";
 $locale['PL_404d'] = "Neu installieren";
@@ -40,5 +40,5 @@ $locale['PL_429'] = "Permalink-Treiber für %s";
 // Other
 $locale['PL_427'] = "Keine Permalinks sind aktiviert.";
 $locale['PL_428'] = "Permalinks";
-$locale['seo_htc_warning'] = "Bitte beachte, wenn du etwas an den Einstellungen &auml;nderst, wird die \".htaccess\"-Datei &uuml;berschrieben und alle bisherigen &Auml;nderungen an der Datei sind verloren!";
-$locale['rewrite_disabled'] = "Es sieht so aus, als ob `mod_rewrite` auf deinem Rechner nicht aktiviert ist. Das Aktivieren von SEF-URLs könnte deine Website zerstören. Bitte kontaktiere deinen Hosting-Provider, um `mod_rewrite` auf deinem Host zu aktivieren.";
+$locale['seo_htc_warning'] = "Bitte beachten Sie, dass wenn Sie eine dieser Einstellungen ändern, der Inhalt von \".htaccess\" überschrieben wird und alle zuvor an dieser Datei vorgenommenen Änderungen verloren gehen.";
+$locale['rewrite_disabled'] = "Es sieht so aus, als ob `mod_rewrite` auf deinem Server nicht aktiviert ist. Das Aktivieren von SEF-URLs könnte deine Website zerstören. Bitte kontaktiere deinen Hosting-Provider, um `mod_rewrite` auf deinem Host zu aktivieren.";

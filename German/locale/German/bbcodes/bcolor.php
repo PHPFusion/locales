@@ -1,4 +1,4 @@
 <?php
-$locale['bb_bcolor_description'] = "Zeigt den ausgew&auml;hlten Text in der definierten Hintergrundfarbe an.";
-$locale['bb_bcolor_usage'] = "Text";
-$locale['bb_bcolor_hex'] = "HEX Farbcode";
+$locale['bb_bcolor_description'] = "Farbiger Hintergrund des ausgewählten Textes";
+$locale['bb_bcolor_usage'] = "Farbiger Hintergrund des ausgewählten Textes";
+$locale['bb_bcolor_hex'] = "HEX Hintergrundfarbe Wert";

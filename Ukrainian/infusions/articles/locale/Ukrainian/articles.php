@@ -13,3 +13,4 @@ $locale['article_0041'] = "Перегляд списком";
 $locale['article_0060'] = "Розділи відсутні";
 $locale['article_0061'] = "Статті відсутні";
 $locale['article_0062'] = "Цей розділ не містить жодної статті";
+$locale['article_0063'] = "Most Read";

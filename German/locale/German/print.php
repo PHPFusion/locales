@@ -2,10 +2,10 @@
 //news, articles, blog
 $locale['400'] = "Verfasst von ";
 $locale['401'] = " am ";
-$locale['402'] = "Komplette News";
-$locale['403'] = "Kompletter Blog";
+$locale['402'] = "Erweiterte News";
+$locale['403'] = "Erweiterter Blog";
 //forums
-$locale['500'] = "Forenthema Betreff:";
+$locale['500'] = "Thema Betreff:";
 $locale['501'] = "Verfasst von ";
 $locale['502'] = " am ";
 $locale['503'] = "Bearbeitet von ";
@@ -13,4 +13,4 @@ $locale['503'] = "Bearbeitet von ";
 $locale['600'] = "Nutzungsbedingungen";
 $locale['601'] = "Zuletzt aktualisiert am";
 //Privacy Policy
-$locale['700'] = "Datenschutzerkl&auml;rung";
+$locale['700'] = "Datenschutzerklärung";

@@ -5,6 +5,7 @@ $locale['401'] = "Komentarai";
 // Comments messages
 $locale['410'] = "Komentaras atnaujintas";
 $locale['411'] = "Komentaras ištrintas";
+$locale['412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
 $locale['420'] = "Išjungti šypsenėles";
 $locale['421'] = "Išsaugoti komentarą";
@@ -14,4 +15,4 @@ $locale['432'] = "Vartotojo IP:";
 $locale['433'] = "Trinti komentarą?";
 $locale['434'] = "Komentarų nėra.";
 $locale['435'] = "Do you really want to add this user to a blacklist?";
-$locale['436'] = "Your comment are blacklisted.";
+$locale['436'] = "Blacklisted comment.";

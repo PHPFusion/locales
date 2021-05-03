@@ -5,6 +5,7 @@ $locale['401'] = "Yorumlar";
 // Comments messages
 $locale['410'] = "Yorum Güncellendi";
 $locale['411'] = "Yorum Silindi";
+$locale['412'] = "Yorum kaldırıldı ve kullanıcı kara listeye eklendi.";
 // Edit Comment form
 $locale['420'] = "Bu Yorumdaki Yüz Ifadelerini Devre Dışı Bırak";
 $locale['421'] = "Yorum Kaydet";

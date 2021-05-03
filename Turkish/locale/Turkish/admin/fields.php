@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Bu Kategoride %s Alt Kategori Var";
 $locale['fields_0601'] = "Bu Kategoride %s Alan(lar) Var";
 $locale['fields_0602'] = "Bu Modül Kurulamıyor: Tablo Sütun Bilgisi Eksik.";
 
-$locale['fields_0650'] = "Alan ID Taşı ";
-$locale['fields_0651'] = " Bir Alan Yukarı Ve Alan ID [FIELD_ID] Aşağı Slota Taşıyın.";
-$locale['fields_0652'] = " Bir Alan Aşağı Ve Alan ID [FIELD_ID] Yukarı Slota Taşıyın.";
 $locale['fields_0653'] = "Sonuç Yok";
-$locale['fields_0654'] = "Alanları Sil";
-$locale['fields_0655'] = "Kat ID Bulunamadı. Lütfen Tekrar Kontrol Et.";
-$locale['fields_0656'] = "Kategori ID Bulunamadı. Lütfen Tekrar Kontrol Et.";
-$locale['fields_0657'] = " Yükleme Için Ayarla.";
-$locale['fields_0658'] = " Yüklendi.";
+
 $locale['fields_0659'] = " Yerel Ayar Eksik!";
 $locale['fields_0660'] = "Hiçbir Modül Bulunamadı";
-$locale['fields_0661'] = "Güncelleme Modu";
-$locale['fields_0662'] = "Kaydetme Modu";
+
 $locale['fields_0663'] = "Tablo Adı";
-$locale['fields_0664'] = "Eski Tablo Bilgileri -";
-$locale['fields_0665'] = "Yeni Tablo Bilgileri -";
-$locale['fields_0666'] = "Fork No.1 - Alanı Farklı Bir Tabloda Güncelle";
-$locale['fields_0667'] = "Sütun Çatışması. [OLD_TABLE] Üzerinde Varolan Sütunlar Var ";
-$locale['fields_0668'] = "Fork No.2 - Alanı Aynı Tabloda Güncelle";
-$locale['fields_0669'] = "[OLD_TABLE] Alanındaki [FIELD_NAME] Sütununu [FIELD_NAME_] Alanına, Aşağıdaki Özelliklere Sahip Olarak Yeniden Adlandırma: ";
-$locale['fields_0670'] = "Eski Veriler";
 $locale['fields_0671'] = "Tablonuz geçerli bir tablo olmalıdır. Sütununuz, bu tablodaki bir kullanıcı kimliğinin sütunu olmalıdır.";

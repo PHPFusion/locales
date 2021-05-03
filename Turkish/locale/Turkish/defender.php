@@ -99,5 +99,5 @@ $locale['grecaptcha_0102b'] = "Karanlık";
 $locale['grecaptcha_0103'] = "Doğrulama Türü";
 $locale['grecaptcha_0103a'] = "Metin";
 $locale['grecaptcha_0103b'] = "Ses";
-$locale['grecaptcha_0104'] = "Score";
+$locale['grecaptcha_0104'] = "Skor";
 $locale['grecaptcha_warn'] = "Lütfen genel ve özel reCAPTCHA anahtarınızı girin";

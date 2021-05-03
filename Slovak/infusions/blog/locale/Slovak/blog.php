@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Žiadne blogy neboli zatiaľ zverejnené";
 $locale['blog_3001'] = "Žiadna kategória";
 $locale['blog_3002'] = "Žiadny príspevok";
 $locale['blog_3003'] = "Žiadny autor";
+$locale['blog_3004'] = "Najčítanejšie";
 $locale['testimonial_rank'] = "Som %s tejto stránky";
 $locale['testimonial_location'] = "a v súčasnosti žijem v %s";
 $locale['testimonial_join'] = "Pripojil som sa k tejto stránke dňa %s";

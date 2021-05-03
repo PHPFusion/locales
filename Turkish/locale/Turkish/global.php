@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "TR"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "tr"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "tr"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "tr"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "tr"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "tr"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "tr"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "tr"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "tr"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "tr"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "tr"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "tr"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "tr"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "tr"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "tr"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Ocak|Şubat|Mart|Nisan|Mayıs|Haziran|Temmuz|Ağustos|Eylül|Ekim|Kasım|Aralık";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Kullanıcı olarak giriş yap";
 $locale['UM098'] = "ÖM Gelen Kutusu :";
 $locale['UM099'] = "ÖM Giden Kutusu :";
 $locale['UM100'] = "ÖM Arşivi :";
-
 // Keywords and Meta
 $locale['tags'] = "Etiketler";
 // Captcha
@@ -252,8 +251,6 @@ $locale['global_182'] = "Yönetici Şifresi girilmemiş veya yanlış.";
 $locale['global_183'] = "Giriş oturumunuzun süresi doldu. Lütfen tekrar giriş yapın.";
 $locale['global_184'] = "Şimdi %s olarak giriş yaptınız";
 $locale['global_185'] = "Artık kendi hesabınıza geri döndünüz.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Bakım Modu Etkinleştirildi";
@@ -351,7 +348,7 @@ $locale['global_459'] = "USER_NAME için yeni şifre belirlendi ve E-posta gönd
 // Function parsebytesize()
 $locale['global_460'] = "Boş";
 $locale['global_461'] = "Bayt";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "%s sayfasına yönlendiriliyorsunuz, lütfen bekleyin. Yönlendirilmediyseniz, buraya tıklayın.";
 // Captcha Locales
 $locale['global_600'] = "Doğrulama Kodu";
@@ -359,10 +356,10 @@ $locale['global_601'] = "Doğru bir doğrulama kodu girmelisiniz";
 $locale['recaptcha'] = "tr";
 // Site links
 $locale['global_700'] = "Daha Fazla Göster";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "HEX DEC dönüştürme işlemi yapılamadı";
 $locale['global_901'] = "Medya Ekle";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Dil:";
 $locale['global_ML101'] = "- Dil Seçiniz -";
 $locale['global_ML102'] = "Site dili";
@@ -430,6 +427,7 @@ $locale['hide'] = "Gizle";
 $locale['actions'] = "Eylemler";
 $locale['language'] = "Dil";
 $locale['loading'] = "Yükleniyor...";
+$locale['options'] = "Seçenekler";
 // Persons & Identifiers
 $locale['you'] = "Sen";
 $locale['me'] = "Ben";
@@ -439,7 +437,7 @@ $locale['us'] = "Biz";
 $locale['he'] = "O";
 $locale['she'] = "O";
 $locale['it'] = "O";
-//Tables
+// Tables
 $locale['order'] = "Düzen";
 $locale['sort'] = "Tür";
 $locale['id'] = "ID";
@@ -483,6 +481,8 @@ $locale['mark_as'] = "Farklı İşaretle";
 $locale['preview'] = "Önizleme";
 $locale['custom'] = "Özel";
 $locale['submit'] = "Gönder";
+$locale['submissions'] = "Gönderimler";
+$locale['categories'] = "Kategoriler";
 // Alignment
 $locale['left'] = "Sol";
 $locale['center'] = "Merkez";
@@ -496,6 +496,8 @@ $locale['about'] = "Hakkında";
 // User status
 $locale['online'] = "Çevrimiçi";
 $locale['offline'] = "Çevrimdışı";
+// Misc
+$locale['max_fs_allowed_ft'] = "Maks. dosya boyutu %s / İzin verilen dosya türleri %s";
 // Timer
 $locale['timer_year'] = "yıl|yıllar";
 $locale['timer_month'] = "ay|aylar";

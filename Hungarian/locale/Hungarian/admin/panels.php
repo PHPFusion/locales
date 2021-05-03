@@ -85,6 +85,6 @@ $locale['600'] = "Panel Beállítások";
 $locale['602'] = "Nem használt panelek";
 $locale['603'] = "Használatban levő panelek";
 $locale['604'] = "Panel|Panelek";
-$locale['605'] = "";
+// $locale['605'] = "";
 $locale['606'] = "Oldal tartalom";
 $locale['607'] = "Fájl";

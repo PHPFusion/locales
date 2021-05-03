@@ -1,18 +1,18 @@
 <?php
 // Blog Submissions messages
-$locale['blog_0130'] = "Es gibt keine neuen Einsendungen.";
-$locale['blog_0131'] = "Einsendung ansehen";
-$locale['blog_0132'] = "Die obige Einsendung wurde eingesendet von ";
-$locale['blog_0133'] = "Möchten Sie diesen Blogeintrag veröffentlichen oder löschen?";
-$locale['blog_0134'] = "Blogeintrag veröffentlichen";
-$locale['blog_0135'] = "Blogeintrag löschen";
+$locale['blog_0130'] = "Derzeit gibt es keine Blog-Einsendungen";
+$locale['blog_0131'] = "Überprüfen Sie die Blog-Einsendung";
+$locale['blog_0132'] = "Die obige Blog wurde eingesendet von ";
+$locale['blog_0133'] = "Möchten Sie diesen Blog Eintrag veröffentlichen oder löschen?";
+$locale['blog_0134'] = "Blog veröffentlichen";
+$locale['blog_0135'] = "Blog löschen";
 $locale['blog_0136'] = "Titel der Einsendung";
 $locale['blog_0137'] = "Es sind derzeit %s zur Überprüfung verfügbar.";
-$locale['blog_0138'] = "Wir akzeptieren im Moment keine neuen Einsendungen.";
-$locale['blog_0141'] = "Vorschau";
-$locale['blog_0142'] = "Einsender";
-$locale['blog_0143'] = "Datum";
-$locale['blog_0144'] = "ID";
+$locale['blog_0138'] = "Leider akzeptieren wir derzeit keine Blog-Beiträge auf dieser Website.";
+$locale['blog_0141'] = "Blog Vorschau";
+$locale['blog_0142'] = "Einreichungs-Autor";
+$locale['blog_0143'] = "Einreichungs-Zeit";
+$locale['blog_0144'] = "Einsendungs Id";
 $locale['blog_0145'] = "Blog Einreichung wurde gelöscht";
 $locale['blog_0146'] = "Blog Einreichungen wurden veröffentlicht";
 $locale['blog_0147'] = "Blog Einreichungen wurden als Entwurf gespeichert";
@@ -30,8 +30,8 @@ $locale['blog_0409'] = "Blog Kategorie hinzufügen";
 // Blog messages
 $locale['blog_0410'] = "Blog-Eintrag hinzugefügt";
 $locale['blog_0411'] = "Blog-Eintrag aktualisiert";
-$locale['blog_0412'] = "Blogeintrag gelöscht";
-$locale['blog_0413'] = "Ungültiger Dateiname.";
+$locale['blog_0412'] = "Blog Eintrag gelöscht";
+$locale['blog_0413'] = "Ungültige Bilddatei.";
 $locale['blog_0414'] = "Bild muss kleiner als %s sein.";
 $locale['blog_0415'] = "Das Bild muss einer der folgenden Dateitypen %s sein.";
 $locale['blog_0416'] = "Bild darf nicht größer als %s Pixel sein.";
@@ -41,7 +41,7 @@ $locale['blog_0422'] = "Blog-Betreff";
 $locale['blog_0423'] = "Kategorie";
 $locale['blog_0424'] = "Nicht kategorisiert";
 $locale['blog_0425'] = "Auszug:";
-$locale['blog_0425a'] = "Kurze Blogeinführung";
+$locale['blog_0425a'] = "Kurze Blog Einführung";
 $locale['blog_0426'] = "Erweitert:";
 $locale['blog_0426b'] = "Blog-Inhalt";
 $locale['blog_0427'] = "Startdatum:";
@@ -50,7 +50,7 @@ $locale['blog_0429'] = "(Optional)";
 $locale['blog_0430'] = "Sichtbarkeit:";
 $locale['blog_0431'] = "Als Entwurf speichern";
 $locale['blog_0432'] = "Diesen Blog anpinnen.";
-$locale['blog_0433'] = "Automatische Zeilenumbr&uuml;che aktivieren";
+$locale['blog_0433'] = "Automatische Zeilenumbrüche aktivieren";
 $locale['blog_0434'] = "In diesem Blog Kommentare aktivieren";
 $locale['blog_0435'] = "In diesem Blog Bewertungen aktivieren";
 $locale['blog_0437'] = "Blog speichern";
@@ -98,7 +98,7 @@ $locale['blog_0461'] = 'Es wurden noch keine Blogkategorie angelegt.';
 // Filters
 $locale['blog_0458'] = "Filtern nach";
 $locale['blog_0459'] = "Kategorie gefiltert nach";
-$locale['blog_0460'] = "Alle Blog Eintr&auml;ge";
+$locale['blog_0460'] = "Alle Blog-Einträge";
 //Alignment
 $locale['left'] = "Links";
 $locale['center'] = "Mittig";

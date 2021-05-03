@@ -85,6 +85,6 @@ $locale['600'] = "Panel Yönetim Arayüzeyi";
 $locale['602'] = "Kullanılmayan Paneller";
 $locale['603'] = "Kullanılan Paneller";
 $locale['604'] = "Panel|Paneller";
-$locale['605'] = "";
+// $locale['605'] = "";
 $locale['606'] = "Site içeriği";
 $locale['607'] = "Dosya";

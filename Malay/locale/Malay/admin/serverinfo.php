@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Info PHP";
+$locale['400'] = "Server Info";
 //General
 $locale['401'] = "Am";
 $locale['402'] = "Perisian Server";
@@ -28,5 +28,5 @@ $locale['440'] = "Hak Folder";
 $locale['441'] = "Boleh ditulis";
 $locale['442'] = "Tidak boleh ditulis";
 //PHPinfo
-$locale['450'] = "Butir-butir";
+$locale['450'] = "Details";
 $locale['451'] = "Maklumat dan butiran tidak dapat didapati. Sila buat pengesahan fungsi phpinfo() didapati dan aktif?";

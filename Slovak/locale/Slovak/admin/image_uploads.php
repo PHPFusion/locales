@@ -12,7 +12,7 @@ $locale['421'] = "Názov obrázka:";
 $locale['422'] = "Hlavné obrázky";
 $locale['423'] = "Obrázky článkov";
 $locale['424'] = "Obrázky noviniek";
-$locale['425'] = "Max. veľkosť súboru %s / Povolené typy súborov .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
+$locale['425'] = "Max. veľkosť súboru %s / Povolené typy súborov .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
 $locale['426'] = "Obrázok bol nahratý";
 $locale['427'] = "Obrázky kategórií noviniek";
 $locale['428'] = "Obrázky blogov";
@@ -26,5 +26,6 @@ $locale['460'] = "Obrázky";
 $locale['461'] = "Náhľad";
 $locale['463'] = "Táto zložka je prázdna";
 $locale['464'] = "Obnoviť zoznam obrázkov pre TinyMCE editor";
+$locale['465'] = "Zoznam obrázkov bol aktualizovaný";
 // Popup Error/Warning Messages
 $locale['470'] = "Vymazať tento obrázok?";

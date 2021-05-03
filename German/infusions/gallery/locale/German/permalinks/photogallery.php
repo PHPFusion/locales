@@ -1,3 +1,3 @@
 <?php
-$locale['pl_gallery_title'] = "Fotogalerien";
-$locale['pl_gallery_desc'] = "Aktiviert die Permalinks f&uuml;r die Fotogalerien auf der Homepage.";
+$locale['pl_gallery_title'] = "Fotoalben";
+$locale['pl_gallery_desc'] = "Aktivieren Sie Permalinks für die Fotoalben-Links auf der Seite.";

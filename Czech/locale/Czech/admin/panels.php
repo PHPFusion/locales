@@ -85,6 +85,6 @@ $locale['600'] = "Rozhraní pro správu panelů";
 $locale['602'] = "Nepoužité panely";
 $locale['603'] = "Použité panely";
 $locale['604'] = "panel|panely|panelů";
-$locale['605'] = "Panel";
+// $locale['605'] = "";
 $locale['606'] = "Obsah webu";
 $locale['607'] = "Soubor";

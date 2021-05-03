@@ -5,6 +5,7 @@ $locale['401'] = "Commenti";
 // Comments messages
 $locale['410'] = "Commento aggiornato";
 $locale['411'] = "Commento eliminato";
+$locale['412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
 $locale['420'] = "Disabilita smileys in questo commento";
 $locale['421'] = "Salva commento";
@@ -14,4 +15,4 @@ $locale['432'] = "IP Utente:";
 $locale['433'] = "Eliminare questo commento?";
 $locale['434'] = "Non sono stati scritti commenti.";
 $locale['435'] = "Do you really want to add this user to a blacklist?";
-$locale['436'] = "Your comment are blacklisted.";
+$locale['436'] = "Blacklisted comment.";

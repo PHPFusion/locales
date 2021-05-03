@@ -26,5 +26,6 @@ $locale['460'] = "Képek";
 $locale['461'] = "Megnyitás";
 $locale['463'] = "Ez a kategória üres";
 $locale['464'] = "Kép lista frissítése a TinyMCE szerkesztőben";
+$locale['465'] = "Képlista frissítve";
 // Popup Error/Warning Messages
 $locale['470'] = "Biztosan törölni szeretnéd ezt a képet?";

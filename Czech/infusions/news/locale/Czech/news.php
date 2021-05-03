@@ -16,3 +16,4 @@ $locale['news_0016'] = "Žádné kategorie novinek nebyly definovány.";
 $locale['news_0017'] = "Filtrovat podle";
 $locale['news_0018'] = "Zobrazit všechny novinky";
 $locale['news_0019'] = "Galerie";
+$locale['news_0020'] = "Nejčtenější";

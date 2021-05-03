@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "PHP Bilgisi";
+$locale['400'] = "Server Info";
 //General
 $locale['401'] = "Genel";
 $locale['402'] = "Sunucu Yazılımı";

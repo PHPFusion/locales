@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "RO"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ro"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "ro"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "ro"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "ro"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "ro"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "ro"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ro-ro"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "ro"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "ro"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "ro"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ro"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "ro"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "ro-ro"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "ro"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Ianuarie|Februarie|Martie|Aprilie|Mai|Iunie|Iulie|August|Septembrie|Octombrie|Noiembrie|Decembrie";
@@ -233,7 +233,6 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Intrare :";
 $locale['UM099'] = "Ie&#351;ire :";
 $locale['UM100'] = "Arhiv&#259; :";
-
 // Keywords and Meta
 $locale['tags'] = "Etichete";
 // Captcha
@@ -254,8 +253,6 @@ $locale['global_182'] = "Parola de administrare nu a fost setat&#259; sau este i
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Mod de &#238;ntre&#355;inere activat";
@@ -359,7 +356,7 @@ $locale['global_459'] = "Noua parol&#259; a fost setat&#259; pentru USER_NAME, &
 // Function parsebytesize()
 $locale['global_460'] = "Gol";
 $locale['global_461'] = "Octe&#355;i";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Vei fi redirec&#355;ionat la %s; te rog a&#351;teapt&#259;. Dac&#259; nu vei fi redirec&#355;ionat, apas&#259; aici.";
 // Captcha Locales
 $locale['global_600'] = "Cod de validare";
@@ -367,10 +364,10 @@ $locale['global_601'] = "Trebuie s&#259; introduci un cod de validare corect";
 $locale['recaptcha'] = "ro";
 // Site links
 $locale['global_700'] = "Arat&#259; mai mult";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Hexazecimala nu a putut fi convertit&#259; &#238;n zecimal&#259;";
 $locale['global_901'] = "Adaug&#259; media";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Limba:";
 $locale['global_ML101'] = "- Selecteaz&#259; limba -";
 $locale['global_ML102'] = "Limba site-ului";
@@ -438,6 +435,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Ac&#355;iuni";
 $locale['language'] = "Limba";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Op&#355;iuni";
 // Persons & Identifiers
 $locale['you'] = "&#354;ie";
 $locale['me'] = "Eu";
@@ -447,7 +445,7 @@ $locale['us'] = "Noi";
 $locale['he'] = "El";
 $locale['she'] = "Ea";
 $locale['it'] = "Ei";
-//Tables
+// Tables
 $locale['order'] = "Ordine";
 $locale['sort'] = "Sorteaz&#259;";
 $locale['id'] = "ID";
@@ -491,6 +489,8 @@ $locale['mark_as'] = "Marcheaz&#259; ca";
 $locale['preview'] = "Previzualizeaz&#259;";
 $locale['custom'] = "Personalizat";
 $locale['submit'] = "Trimite";
+$locale['submissions'] = "Trimiteri";
+$locale['categories'] = "Categorii";
 // Alignment
 $locale['left'] = "St&#226;nga";
 $locale['center'] = "Centru";
@@ -504,6 +504,8 @@ $locale['about'] = "Despre";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
 // Timer
 $locale['timer_year'] = "ani|an";
 $locale['timer_month'] = "luni|lun&#259;";

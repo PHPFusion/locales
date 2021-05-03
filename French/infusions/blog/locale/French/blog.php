@@ -1,17 +1,18 @@
 <?php
 $locale['blog_1000'] = "Blog";
-$locale['blog_1001'] = "Accueil du blog";
-$locale['blog_1003'] = "Catégorie de blog";
+$locale['blog_1001'] = "Accueil du Blog";
+$locale['blog_1003'] = "Catégories du blog";
 $locale['blog_1004'] = "Archives du blog";
-$locale['blog_1005'] = "Auteur du blog";
+$locale['blog_1005'] = "Auteur de blog";
 $locale['blog_1006'] = "Lire la suite";
-$locale['blog_2001'] = "Blogs plus récents";
-$locale['blog_2002'] = "Blog le plu commenté";
-$locale['blog_2003'] = "Blog plus évalué";
+$locale['blog_2001'] = "Les blogs les plus récents";
+$locale['blog_2002'] = "Blog les plus commentés";
+$locale['blog_2003'] = "Les mieux notés";
 $locale['blog_3000'] = "Aucun blog n'a encore été publié";
 $locale['blog_3001'] = "Aucune catégorie";
-$locale['blog_3002'] = "Aucun article";
+$locale['blog_3002'] = "Aucune publication";
 $locale['blog_3003'] = "Aucun auteur";
+$locale['blog_3004'] = "Les blogs les plus lus";
 $locale['testimonial_rank'] = "Je suis le %s de ce site";
 $locale['testimonial_location'] = "et j'habite actuellement dans %s";
 $locale['testimonial_join'] = "J'ai rejoint ce site le %s";

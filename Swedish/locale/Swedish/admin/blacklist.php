@@ -1,27 +1,27 @@
 <?php
-$locale['BLS_000'] = "Svartlista"; //406
+$locale['BLS_000'] = "Svartlista";
 //Blacklist message
 $locale['BLS_010'] = "Ogiltig e-postadress eller IP-adress.";
 $locale['BLS_011'] = "Lägga till användare i svartlistan.";
 $locale['BLS_012'] = "Användar modifierad svartlista.";
-$locale['BLS_013'] = "Användare borttagen från svartlistan"; //401
+$locale['BLS_013'] = "Användare borttagen från svartlistan";
 $locale['BLS_014'] = "Är du säker på att du vill radera det här?";
-$locale['BLS_015'] = "Svartlistan är för närvarande tom."; //465
-$locale['BLS_016'] = "Epostadressen är inte giltig."; //405
+$locale['BLS_015'] = "Svartlistan är för närvarande tom.";
+$locale['BLS_016'] = "Epostadressen är inte giltig.";
 
-$locale['BLS_020'] = "Svartlista Användare"; //420
-$locale['BLS_021'] = "Redigera svartlistad användare"; //421
+$locale['BLS_020'] = "Svartlista Användare";
+$locale['BLS_021'] = "Redigera svartlistad användare";
 $locale['BLS_022'] = "Lägg till svartlistad användare";
 $locale['BLS_023'] = "Visar för närvarande %d av %d totalt Svartlisteposter.";
 
-$locale['BLS_030'] = "Svartlistade information"; //461
-$locale['BLS_031'] = "Administratör"; //467
-$locale['BLS_032'] = "Datum";  //468
-$locale['BLS_033'] = "Alternativ"; //462
-$locale['BLS_034'] = "Svartlista IP-adress: [STRONG]eller[/STRONG]"; //441
-$locale['BLS_035'] = "Svartlista e-postadress"; //442
-$locale['BLS_036'] = "Orsak till svartlistning"; //443
-$locale['BLS_037'] = "Svartlista användare";  //444
+$locale['BLS_030'] = "Svartlistade information";
+$locale['BLS_031'] = "Administratör";
+$locale['BLS_032'] = "Datum";
+$locale['BLS_033'] = "Alternativ";
+$locale['BLS_034'] = "Svartlista IP-adress: [STRONG]eller[/STRONG]";
+$locale['BLS_035'] = "Svartlista e-postadress";
+$locale['BLS_036'] = "Orsak till svartlistning";
+$locale['BLS_037'] = "Svartlista användare";
 $locale['BLS_038'] = "Uppdatera";
 $locale['BLS_039'] = "Välj alla";
 
@@ -42,4 +42,4 @@ Du kan ange en fullständig e-postadress, e.. <em>foo@bar.com</em>eller en e-pos
 %@domain.tld förbjuder alla adresser från domain.tld<br />
 %.domain.tld förbjuder alla underdomäner av domän. ld<br />
 %payday% förbjuder alla adresser som innehåller ordet \"payday\" som ofta fanns på webbplatser.<br />
-domain.tld är ett alias av %@domain.tld för att göra den kompatibel med regler som definieras i v7.<br />"; //440
+domain.tld är ett alias av %@domain.tld för att göra den kompatibel med regler som definieras i v7.<br />";

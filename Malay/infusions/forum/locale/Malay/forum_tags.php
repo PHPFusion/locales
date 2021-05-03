@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Perbincangan tentang pengurusan halaman web ini";
 $locale['forum_tag_0200'] = "Tajuk Tag";
 $locale['forum_tag_0201'] = "Pengenalan Tag";
 $locale['forum_tag_0202'] = "Warna Tag";
+$locale['forum_tag_0202a'] = "Tag Icon";
 $locale['forum_tag_0203'] = "Bahasa Tag";
 $locale['forum_tag_0204'] = "Status Tag";
 $locale['forum_tag_0205'] = "Tak adalah aktif";

@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "HU"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "hu"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "hu"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "hu_HU"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "hu"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "hu"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "hu"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "hu"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "hu"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "hu_HU"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "hu"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "hu"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "hu"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "hu"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "hu"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|január|február|március|április|május|június|július|augusztus|szeptember|október|november|december";
@@ -232,7 +232,6 @@ $locale['UM103'] = "Kijelentkezés Felhasználóként";
 $locale['UM098'] = "PM Beérkezett:";
 $locale['UM099'] = "PM Kimenő:";
 $locale['UM100'] = "PM Archivált:";
-
 // Keywords and Meta
 $locale['tags'] = "Jelölések";
 // Captcha
@@ -253,8 +252,6 @@ $locale['global_182'] = "Megjegyzés: az admin jelszó nincs megadva, vagy hibá
 $locale['global_183'] = "A bejelentkezési session lejárt. Kérjük, jelentkezz be újra.";
 $locale['global_184'] = "Most %s néven van bejelentkezve";
 $locale['global_185'] = "Visszaváltott a saját fiókjára.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
 
 // Miscellaneous
 $locale['global_190'] = "Az oldal karbantartás alatt áll";
@@ -336,7 +333,7 @@ $locale['global_459'] = "Új jelszó beállítva neki: USER_NAME, de email nem l
 // Function parsebytesize()
 $locale['global_460'] = "Üres";
 $locale['global_461'] = "Bájt";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Átirányítás folyamatban: %s, kérjük várj. Ha ez nem történik meg, kérjük kattints ide.";
 // Captcha Locales
 $locale['global_600'] = "Ellenőrzőkód";
@@ -344,10 +341,10 @@ $locale['global_601'] = "A megadott ellenőrzőkód hibás";
 $locale['recaptcha'] = "hu";
 // Site links
 $locale['global_700'] = "További Linkek";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Sikertelen HEX-DEC átváltás";
 $locale['global_901'] = "Média Hozzáadása";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Nyelv:";
 $locale['global_ML101'] = "- Válassz nyelvet -";
 $locale['global_ML102'] = "Oldal nyelve";
@@ -415,6 +412,7 @@ $locale['hide'] = "Elrejt";
 $locale['actions'] = "Művelet";
 $locale['language'] = "Nyelv";
 $locale['loading'] = "Betöltés...";
+$locale['options'] = "Lehetőségek";
 // Persons & Identifiers
 $locale['you'] = "Te";
 $locale['me'] = "Én";
@@ -424,7 +422,7 @@ $locale['us'] = "Nekünk";
 $locale['he'] = "Ő";
 $locale['she'] = "Az";
 $locale['it'] = "Azt";
-//Tables
+// Tables
 $locale['order'] = "Rendez";
 $locale['sort'] = "Sorba rendez";
 $locale['id'] = "ID";
@@ -468,6 +466,8 @@ $locale['mark_as'] = "Megjelölés";
 $locale['preview'] = "Előnézet";
 $locale['custom'] = "Mód";
 $locale['submit'] = "Beküldés";
+$locale['submissions'] = "Beküldések";
+$locale['categories'] = "Kategóriák";
 // Alignment
 $locale['left'] = "Ball";
 $locale['center'] = "Közép";
@@ -481,6 +481,8 @@ $locale['about'] = "Szerző";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. fájlméret: %s / Engedélyezett fájltípusok: %s";
 // Timer
 $locale['timer_year'] = "év|év";
 $locale['timer_month'] = "hó|hó";

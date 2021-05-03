@@ -26,5 +26,6 @@ $locale['460'] = "Images";
 $locale['461'] = "View";
 $locale['463'] = "This folder is empty";
 $locale['464'] = "Update image list for TinyMCE editor";
+$locale['465'] = "Image list updated";
 // Popup Error/Warning Messages
 $locale['470'] = "Delete this image?";

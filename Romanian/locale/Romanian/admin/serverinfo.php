@@ -1,7 +1,7 @@
 <?php
-$locale['400'] = "Informa&#355;ii PHP";
+$locale['400'] = "Server Info";
 //General
-$locale['401'] = "Generale";
+$locale['401'] = "General";
 $locale['402'] = "Informa&#355;ii server";
 $locale['403'] = "Platforma web";
 $locale['404'] = "Versiune PHP";

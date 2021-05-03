@@ -16,3 +16,4 @@ $locale['news_0016'] = "Inga nyhetskategorier definierade.";
 $locale['news_0017'] = "Filtrera på";
 $locale['news_0018'] = "Visa alla nyheter";
 $locale['news_0019'] = "Nyhetsgalleri";
+$locale['news_0020'] = "Most Read News";

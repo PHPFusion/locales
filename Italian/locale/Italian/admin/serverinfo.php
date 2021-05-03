@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Info su PHP";
+$locale['400'] = "Server Info";
 //General
 $locale['401'] = "Generale";
 $locale['402'] = "Software del Server";
@@ -28,5 +28,5 @@ $locale['440'] = "Permessi della cartella";
 $locale['441'] = "Scrivibile";
 $locale['442'] = "Non scrivibile";
 //PHPinfo
-$locale['450'] = "Dettagliato";
+$locale['450'] = "Details";
 $locale['451'] = "Impossibile ottenere i dati. Verificare se la funzione phpinfo() sia spenta?";
