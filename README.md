@@ -3,7 +3,9 @@ You do not need to download the entire repository, you can download one language
 
 Crowdin [invitation link](https://translate.phpfusion.com/project/php-fusion-locales/invite). Members with no contributions will be removed.
 
-Locales for v9: [tree/version-9](https://github.com/PHPFusion/locales/tree/version-9)
+Locales for v9.10: [tree/version-9](https://github.com/PHPFusion/locales/tree/version-9)
+
+Locales for v9.03: [tree/version-9.03](https://github.com/PHPFusion/locales/tree/version-9.03)
 
 Locales for v8: [tree/version-8](https://github.com/PHPFusion/locales/tree/version-8)
 
