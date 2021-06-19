@@ -61,10 +61,10 @@ $locale['u115'] = "Language";
 $locale['u116'] = "There are no group members.";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "User name contains.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Bruker navnet inneholder ugyldig tegn.";
 $locale['u121'] = "Det valgte bruker navn er allerede valgt av en annen bruker.";
-$locale['u122'] = "Det må oppgis et bruker navn.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Din e-postadresse ser ikke ut til å være utfylt feil.";
 $locale['u124'] = "Din e-post adresse eller e-post domene ser ut til å være svartelistet.";
 $locale['u125'] = "E-post adressen er allerede registrert av en annen bruker.";

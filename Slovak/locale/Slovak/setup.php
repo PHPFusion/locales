@@ -309,13 +309,6 @@ $locale['setup_1700'] = "Inštalácia je dokončená";
 $locale['setup_1701'] = "PHPFusion 9 je teraz pripravený na použitie. Kliknutím na tlačidlo Dokončiť prepíše sa súbor config_temp.php na config.php<br/>";
 $locale['setup_1702'] = "<strong>Poznámka: Po vstupe na stránku by ste mali vymazať /install.php súbor a z bezpečnostných dôvodov zmeňte atribúty config.php späť na 0644.</strong>";
 $locale['setup_1703'] = "Ďakujeme, že ste si vybrali PHPFusion.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Šablóny e-mailov";

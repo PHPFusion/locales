@@ -32,7 +32,7 @@ $locale['PH'] = "Фотоальбомы";
 $locale['B'] = "Чёрный список";
 $locale['C'] = "Комментарии";
 $locale['DB'] = "Резервная копия БД";
-$locale['PI'] = "Информация PHP";
+$locale['PI'] = "Информация сервера";
 $locale['PO'] = "Опросы";
 $locale['SL'] = "Навигация сайта";
 $locale['SU'] = "Присланные материалы";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Строка поиска слишком корот
 $locale['search_msg_104'] = 'Результаты не найдены';
 
 $locale['deprecated_section'] = 'Этот раздел устарел. Мы больше не рекомендуем его и планируем вскоре удалить.';
-$locale['new_update_avalaible'] = "Доступно новое обновление [LINK]PHPFusion v[VERSION][/LINK]. Пожалуйста, обновите!";
+$locale['new_update_avalaible'] = "Доступно новое обновление PHPFusion v%s!";
+$locale['update_now'] = "Обновить сейчас";

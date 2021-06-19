@@ -48,12 +48,11 @@ $locale['433'] = "saitulmeu.ro";
 $locale['434'] = "directorul_meu";
 $locale['435'] = "Exclude panourile de mai sus";
 $locale['436'] = "Exclude panourile de mai jos";
-$locale['437'] = "Activeaz&#259; Bootstrap Responsive Framework";
+
 $locale['438'] = "Caut&#259; Engine Friendly URL (SEF):";
 $locale['439'] = "Normalizeaz&#259; Friendly URLs:";
 $locale['440'] = "Activeaz&#259; mod depanare SEO";
-$locale['441'] = "Activeaz&#259; Emtypo";
-$locale['442'] = "Activeaz&#259; Font-Awesome";
+
 $locale['443a'] = "Exclude  panourile utilizator 1";
 $locale['443b'] = "Exclude  panourile utilizator 2";
 $locale['443c'] = "Exclude  panourile utilizator 3";
@@ -71,7 +70,7 @@ $locale['450'] = "Timp &#351;i dat&#259;";
 $locale['451'] = "Format scurt de dat&#259;:";
 $locale['452'] = "Format lung de dat&#259;:";
 $locale['453'] = "Format de dat&#259; pe forum:";
-$locale['454'] = "Formatul datei de sub-antet:";
+
 $locale['455'] = "-- Alege un format --";
 $locale['456'] = "Diferen&#355;a de fus oras pentru vizitatori";
 $locale['457'] = "Formatul datei la &#351;tiri &amp; articole:";
@@ -114,8 +113,7 @@ $locale['651'] = "List&#259; cuvinte interzise:";
 $locale['652'] = "Introdu un cuv&#226;nt pe linie.";
 $locale['653'] = "Las&#259; gol dac&#259; nu este cazul.";
 $locale['654'] = "&#206;nlocuire cuvinte interzise:";
-$locale['655'] = "Permi&#355;i vizitatorilor s&#259; posteze?";
-$locale['656'] = "Avatare &#238;n comentarii?";
+
 $locale['657'] = "Mod de &#238;ntre&#355;inere:";
 $locale['658'] = "Mesaj mod de &#238;ntre&#355;inere:";
 $locale['659'] = "Filtru de cuvinte interzise activ?";
@@ -152,7 +150,11 @@ $locale['669'] = "&#350;tiri";
 $locale['669b'] = "Post&#259;ri pe pagin&#259;";
 $locale['669c'] = "&#350;tiri pe pagin&#259;";
 $locale['670'] = "Trebuie s&#259; fie impar";
-$locale['671'] = "Activez sistemul de comentarii?";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Desc&#259;rcare";
+
 $locale['672'] = "Activez sistemul de evaluare?";
 $locale['673'] = "Profilele membrilor sunt ascunse de public?";
 $locale['674'] = "Port SMTP";
@@ -165,9 +167,7 @@ $locale['680'] = "Suspendare automat&#259; la supra&#238;nc&#259;rcare:";
 $locale['681'] = "&#206;ntre&#355;inere";
 $locale['682'] = "Set&#259;ri supra&#238;nc&#259;rcare";
 $locale['683'] = "Set&#259;ri securitate";
-$locale['684'] = "Sortare comentarii";
-$locale['685'] = "Cresc&#259;tor";
-$locale['686'] = "Descresc&#259;tor";
+
 $locale['687'] = "Cuvinte interzise";
 $locale['688'] = "Se afi&#351;eaz&#259; timpul gener&#259;rii paginii (&#238;n subsol)?";
 $locale['689'] = "Da (inclusiv vizitatorilor)";
@@ -178,8 +178,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Permite execu&#355;ia PHP";
 $locale['695'] = "ATEN&#354;IE! Permi&#355;&#226;nd execu&#355;ia PHP poate creea o vulnerabilitate SQL.";
 $locale['696'] = "Te rog introdu cheia public&#259; &#351;i cea privat&#259; reCAPTCHA!";
-
-$locale['913'] = "Comentarii pe pagin&#259;";
 
 $locale['955'] = "Original";
 $locale['956'] = "P&#259;trat";
@@ -256,11 +254,6 @@ $locale['1030'] = "Creaz&#259; meta tag OpenGraph pentru re&#355;ele de socializ
 $locale['1031'] = "Permite URL-uri index &#238;n coduri BB";
 $locale['1032'] = "Permite URL-uri index &#238;n profilul utilizatorului";
 
-$locale['error_rate'] = "Te rog introdu un procent.";
-$locale['error_type'] = "Te rog introdu un tip de extensie.";
-$locale['error_width'] = "Te rog introdu l&#259;&#355;imea";
-$locale['error_height'] = "Te rog introdu &#238;n&#259;l&#355;imea";
-$locale['error_value'] = "Te rog introdu o valoare";
 $locale['blog_description'] = "Set&#259;ri configurare pentru blog";
 $locale['news_description'] = "Set&#259;ri configurare pentru &#351;tiri";
 $locale['forum_description'] = "Set&#259;ri configurare forum";

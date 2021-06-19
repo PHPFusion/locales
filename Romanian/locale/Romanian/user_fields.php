@@ -61,10 +61,10 @@ $locale['u115'] = "Limb&#259;";
 $locale['u116'] = "Nu exist&#259; niciun membru &#238;n grup.";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "User name contains.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Numele de utilizator con&#355;ine caractere nevalide.";
 $locale['u121'] = "Numele ales este deja folosit de un alt utilizator.";
-$locale['u122'] = "Numele de utilizator nu poate fi gol.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Adresa ta de e-mail nu pare s&#259; fie valid&#259;.";
 $locale['u124'] = "Adresa ta de e-amil sau domeniul par s&#259; fie &#238;n lista neagr&#259;.";
 $locale['u125'] = "Aceast&#259; adres&#259; de e-mail este &#238;nregistrat&#259; pe un alt cont.";

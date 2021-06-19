@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Server Info";
+$locale['400'] = "معلومات الخادم";
 //General
 $locale['401'] = "عام";
 $locale['402'] = "برنامج السرفر";
@@ -12,7 +12,7 @@ $locale['407'] = "إصدار PHPFusion";
 $locale['408'] = "سابقة الجداول";
 $locale['409'] = "سابقة الكوكيز";
 $locale['410'] = "المتصفح والنظام التشغيل";
-$locale['411'] = "الترجمة إلى اللغة العربية  بواسطة : Eng. Khamis Alqutob </br>   الدعم العربي لمجلة PHPFusion العربية © 2020 </br>   http://phpfusion-ar.xyz </br> إحدى قنوات شبكة زاد العرب - ArabZad.Com "; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['411'] = "‮تُرجم بواسطة: PHPar ,iriatum ,Khamis Alqutob"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['420'] = "إعدادات PHP";
 $locale['423'] = "وضع التشغيل الآمن";
@@ -21,8 +21,8 @@ $locale['425'] = "دعم";
 $locale['426'] = "أقصى حجم مسموح في الملف المرفوع";
 $locale['428'] = "عرض الأخطاء";
 $locale['429'] = "الدوال المعطلة";
-$locale['430'] = "غير متوفر";
-$locale['431'] = "الإصدار";
+$locale['430'] = "غير محدد";
+$locale['431'] = "الإصدارة";
 //Write permission
 $locale['440'] = "تراخيص المجلدات";
 $locale['441'] = "قابل للكتابة";

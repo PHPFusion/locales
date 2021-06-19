@@ -295,8 +295,6 @@ $locale['global_409'] = "Detta konto har blivit bannlyst av säkerhetsskäl.";
 $locale['global_410'] = "Anledningen till detta är: ";
 $locale['global_411'] = "Det här kontot har avaktiverats (Cancelled).";
 $locale['global_412'] = "Detta konto har anonymiserats, troligen på grund av inaktivitet.";
-$locale['global_413'] = "Användarnamnet är tillgängligt";
-$locale['global_414'] = "Användarnamnet är upptaget";
 // Flood control
 $locale['global_440'] = "Automatisk avstängning av spamkontroll";
 $locale['global_441'] = "Ditt konto på [SITENAME] har blivit bannat";
@@ -389,6 +387,8 @@ $locale['add'] = "Lägg till";
 $locale['save'] = "Spara";
 $locale['save_changes'] = "Spara ändringar";
 $locale['save_and_close'] = "Spara och stäng";
+$locale['save_settings'] = "Spara Inställningar";
+$locale['settings_updated'] = "Inställningarna har uppdaterats";
 $locale['confirm'] = "Bekräfta";
 $locale['update'] = "Uppdatera";
 $locale['updated'] = "Uppdaterat";
@@ -461,6 +461,7 @@ $locale['preview'] = "Förhandsgranska";
 $locale['custom'] = "Anpassa";
 $locale['submit'] = "Skicka in";
 $locale['submissions'] = "Förslag";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Kategorier";
 // Alignment
 $locale['left'] = "Vänster";

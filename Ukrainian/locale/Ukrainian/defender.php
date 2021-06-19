@@ -84,6 +84,12 @@ $locale['df_422'] = "Невідома помилка (запит)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Кількість файлів для завантаження перевищують допустиме значення. Будь ласка, приєднайте менше файлів і спробуйте ще раз.";
 
+$locale['error_rate'] = "Будь ласка, введіть оцінку.";
+$locale['error_type'] = "Будь ласка, введіть тип файлу (розширення).";
+$locale['error_width'] = "Будь ласка, введіть ширину.";
+$locale['error_height'] = "Будь ласка, введіть висоту.";
+$locale['error_value'] = "Будь ласка, введіть значення.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

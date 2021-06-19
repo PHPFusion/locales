@@ -298,8 +298,6 @@ $locale['global_409'] = "Acest cont a fost suspendat din motive de securitate.";
 $locale['global_410'] = "Motivul pentru asta este: ";
 $locale['global_411'] = "Acest cont a fost anulat.";
 $locale['global_412'] = "Acest cont este anonim, probabil din cauza inactivit&#259;&#355;ii.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Suspendat automat de Controlul abuzurilor";
 $locale['global_441'] = "Contul t&#259;u pe [SITENAME] a fost suspendat";
@@ -418,6 +416,8 @@ $locale['add'] = "Adaug&#259;";
 $locale['save'] = "Salveaz&#259;";
 $locale['save_changes'] = "Salveaz&#259; schimb&#259;rile";
 $locale['save_and_close'] = "Salveaz&#259; &#351;i &#238;nchide";
+$locale['save_settings'] = "Salveaz&#259; set&#259;rile";
+$locale['settings_updated'] = "Set&#259;ri actualizate";
 $locale['confirm'] = "Confirm&#259;";
 $locale['update'] = "Actualizeaz&#259;";
 $locale['updated'] = "Actualizat";
@@ -490,6 +490,7 @@ $locale['preview'] = "Previzualizeaz&#259;";
 $locale['custom'] = "Personalizat";
 $locale['submit'] = "Trimite";
 $locale['submissions'] = "Trimiteri";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Categorii";
 // Alignment
 $locale['left'] = "St&#226;nga";

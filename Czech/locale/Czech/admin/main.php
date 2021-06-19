@@ -32,7 +32,7 @@ $locale['PH'] = "Galérie";
 $locale['B'] = "Černá listina";
 $locale['C'] = "Komentáře";
 $locale['DB'] = "Zálohování databáze";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "Informace o serveru";
 $locale['PO'] = "Anketa";
 $locale['SL'] = "Odkazy na stránku";
 $locale['SU'] = "Na schválení";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Hledaný výraz je příliš krátký';
 $locale['search_msg_104'] = 'Nebyly nalezeny žádné výsledky';
 
 $locale['deprecated_section'] = 'Tato sekce je zastaralá. Už ji nedoporučujeme a plánujeme ji brzy odstranit.';
-$locale['new_update_avalaible'] = "K dispozici je nová aktualizace [LINK]PHPFusion v[VERSION][/LINK]. Aktualizujte prosím!";
+$locale['new_update_avalaible'] = "K dispozici je nová PHPFusion aktualizace v%s!";
+$locale['update_now'] = "Aktualizovat nyní";

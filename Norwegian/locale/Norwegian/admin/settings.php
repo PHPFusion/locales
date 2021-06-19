@@ -45,12 +45,11 @@ $locale['433'] = "minside.no";
 $locale['434'] = "minmappe";
 $locale['435'] = "Utelokk visninger over toppelementer:";
 $locale['436'] = "Utelokk visninger under bunnelementer:";
-$locale['437'] = "Bootstrap Framework (standard)";
+
 $locale['438'] = "Søkemaskin vennlig adresse (SEF):";
 $locale['439'] = "Tilpass brukervennlig adresse:";
 $locale['440'] = "Skal SEO Debug Mode Aktiver :";
-$locale['441'] = "Enable Entypo";
-$locale['442'] = "Enable Font-Awesome";
+
 $locale['443a'] = "Exclude User 1 Panels";
 $locale['443b'] = "Exclude User 2 Panels";
 $locale['443c'] = "Exclude User 3 Panels";
@@ -68,7 +67,7 @@ $locale['450'] = "Foreslå nyhet";
 $locale['451'] = "Kort datoformat:";
 $locale['452'] = "Langt datoformat:";
 $locale['453'] = "Dato format i Forum:";
-$locale['454'] = "Datoformat i Menylinjen:";
+
 $locale['455'] = "-- Velg et datoformat --";
 $locale['456'] = "Tidssone";
 $locale['457'] = "Datoformat i Nyheter og Artikler:";
@@ -111,8 +110,7 @@ $locale['651'] = "Liste over stygge ord:";
 $locale['652'] = "Skriv inn ett ord per linje.";
 $locale['653'] = "La stå tomt hvis ikke nødvendig.";
 $locale['654'] = "Erstatningsord for stygge ord:";
-$locale['655'] = "Tillat gjester å skrive innlegg?";
-$locale['656'] = "Aktiver avatar kommentarer:";
+
 $locale['657'] = "Vedlikeholdsmodus:";
 $locale['658'] = "Vedlikeholdsmodus melding:";
 $locale['659'] = "Stygge ord filter aktivert?";
@@ -147,7 +145,11 @@ $locale['669'] = "Nyheter pr. side";
 $locale['669b'] = "Bloggs";
 $locale['669c'] = "News items per page";
 $locale['670'] = "Ditt nedlastingsforslag kunne ikke lagres";
-$locale['671'] = "Filnavnet ble lagt til feil.";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Nedlasting";
+
 $locale['672'] = "Filstørrelsen må være mindre enn %s.";
 $locale['673'] = "Skjul brukerprofilen fra offentligheten";
 $locale['674'] = "Overskriften må fylles ut.";
@@ -160,9 +162,7 @@ $locale['680'] = "Flytende Auto Utestengelse:";
 $locale['681'] = "Overskrift:";
 $locale['682'] = "Beskrivelse:";
 $locale['683'] = "URL:";
-$locale['684'] = "eller filnavn:";
-$locale['685'] = "Beregn filstørrelse";
-$locale['686'] = "Skjermdump:";
+
 $locale['687'] = "Kategori:";
 $locale['688'] = "Lisensforhold:";
 $locale['689'] = "O/S:";
@@ -173,8 +173,6 @@ $locale['693'] = "Filstørrelse:";
 $locale['694'] = "Maksimal filstørrelse: %s / Tillatte filtyper: %s";
 $locale['695'] = "Foreslå nedlasting";
 $locale['696'] = "Vennligst Skriv inn din offentlige og private reCAPTCHA kode!";
-
-$locale['913'] = "Kommentarer pr. side";
 
 $locale['955'] = "Original";
 $locale['956'] = "Firkantet";
@@ -251,11 +249,6 @@ $locale['1030'] = "Lag OpenGraph metakoder for Sosiale nettverk";
 $locale['1031'] = "Tillat å indeksere nettadresser i BB-koder";
 $locale['1032'] = "Tillat å indeksere nettadresser i bruker profil";
 
-$locale['error_rate'] = "Please enter a Rate.";
-$locale['error_type'] = "Vennligst skriv inn filtype.";
-$locale['error_width'] = "Vennligst skriv inn Bredde.";
-$locale['error_height'] = "Vennligst skriv inn Høyde.";
-$locale['error_value'] = "Vennligst skriv inn en verdi.";
 $locale['blog_description'] = "Konfigurasjonsinnstillingene for Blogg system";
 $locale['news_description'] = "Konfigurasjonsinnstillingene for Nyhets system";
 $locale['forum_description'] = "Konfigurasjonsinnstillingene for Forum system";

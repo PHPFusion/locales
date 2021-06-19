@@ -84,6 +84,12 @@ $locale['df_422'] = "Erreur inconnue (requête)";
 $locale['df_423'] = "Le fichier n'a pas été téléchargé correctement. Veuillez réessayer";
 $locale['df_424'] = "Le téléchargement actuel de fichiers dépasse la limite maximale. Veuillez réessayer et attacher moins de fichiers.";
 
+$locale['error_rate'] = "Veuillez entrer une note.";
+$locale['error_type'] = "Veuillez entrer le type d'extension.";
+$locale['error_width'] = "Veuillez entrer la largeur.";
+$locale['error_height'] = "Veuillez entrer la hauteur.";
+$locale['error_value'] = "Veuillez entrer une valeur.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

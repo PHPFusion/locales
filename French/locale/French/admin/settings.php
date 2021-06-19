@@ -44,12 +44,11 @@ $locale['433'] = "monsite.com";
 $locale['434'] = "mondossier";
 $locale['435'] = "Exclure au dessus des panneaux supérieurs :";
 $locale['436'] = "Exclure sous les panneaux inférieurs :";
-$locale['437'] = "Activer Bootstrap";
+
 $locale['438'] = "URL simplifiée du moteur de recherche (SEF) :";
 $locale['439'] = "Normaliser les URL simplifiées :";
 $locale['440'] = "Activer le mode de débogage SEO :";
-$locale['441'] = "Activer Entypo";
-$locale['442'] = "Activer Font-Génial";
+
 $locale['443a'] = "Exclure les panneaux de l'utilisateur 1";
 $locale['443b'] = "Exclure les panneaux de l'utilisateur 2";
 $locale['443c'] = "Exclure les panneaux de l'utilisateur 3";
@@ -67,7 +66,7 @@ $locale['450'] = "Heure et Date";
 $locale['451'] = "Format de date court :";
 $locale['452'] = "Format de date longue :";
 $locale['453'] = "Format de la date du forum :";
-$locale['454'] = "Format de la date du sous-en-tête :";
+
 $locale['455'] = "-- Sélectionnez un format --";
 $locale['456'] = "Décalage invité";
 $locale['457'] = "News &amp; Format de date des articles :";
@@ -110,8 +109,7 @@ $locale['651'] = "Liste de mots incorrects :";
 $locale['652'] = "Entrez un mot par ligne.";
 $locale['653'] = "Laisser vide si non requis.";
 $locale['654'] = "Remplacement de mot incorrect :";
-$locale['655'] = "Autoriser les invités à poster ?";
-$locale['656'] = "Activer les commentaires d'avatar ?";
+
 $locale['657'] = "Mode de maintenance :";
 $locale['658'] = "Message du mode maintenance :";
 $locale['659'] = "Filtre de mots mauvais activé ?";
@@ -146,7 +144,11 @@ $locale['669'] = "News";
 $locale['669b'] = "Éléments de blog par page";
 $locale['669c'] = "News par page";
 $locale['670'] = "Doit être un nombre inégal";
-$locale['671'] = "Activer le système de commentaires ?";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Télécharger";
+
 $locale['672'] = "Activer le système de notation ?";
 $locale['673'] = "Cacher les profils d'utilisateurs au public";
 $locale['674'] = "Port SMTP";
@@ -159,9 +161,7 @@ $locale['680'] = "Bannissement automatique des inondations";
 $locale['681'] = "Maintenance";
 $locale['682'] = "Réglages de l'inondation";
 $locale['683'] = "Paramètres de sécurité";
-$locale['684'] = "Tri des commentaires";
-$locale['685'] = "Croissant";
-$locale['686'] = "Décroissant";
+
 $locale['687'] = "Mauvais mots";
 $locale['688'] = "Afficher le temps de rendu";
 $locale['689'] = "Oui (tous les visiteurs)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Autoriser l'exécution PHP";
 $locale['695'] = "ATTENTION ! Permettre l'exécution de PHP ouvrira le système aux vulnérabilités SQL.";
 $locale['696'] = "Veuillez entrer votre clé publique et privée reCAPTCHA !";
-
-$locale['913'] = "Commentaires de base par page";
 
 $locale['955'] = "Original";
 $locale['956'] = "Place";
@@ -250,11 +248,6 @@ $locale['1030'] = "Créer des balises méta OpenGraph pour les réseaux sociaux"
 $locale['1031'] = "Autoriser les URL d'index dans les codes BB";
 $locale['1032'] = "Autoriser les URLs d'index dans les profils utilisateur";
 
-$locale['error_rate'] = "Veuillez entrer une note.";
-$locale['error_type'] = "Veuillez entrer le type d'extension.";
-$locale['error_width'] = "Veuillez entrer la largeur.";
-$locale['error_height'] = "Veuillez entrer la hauteur.";
-$locale['error_value'] = "Veuillez entrer une valeur.";
 $locale['blog_description'] = "Les paramètres de configuration du système de blog";
 $locale['news_description'] = "Les paramètres de configuration pour le système News";
 $locale['forum_description'] = "Les paramètres de configuration du système de forum";

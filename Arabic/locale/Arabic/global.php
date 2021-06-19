@@ -295,8 +295,6 @@ $locale['global_409'] = "تم حظر هذا الحساب لأسباب أمنية
 $locale['global_410'] = "السبب لهذا هو: ";
 $locale['global_411'] = "تم إلغاء هذا الحساب.";
 $locale['global_412'] = "تم وضع هذا الحساب بهيئة مخفية ربما لعدم وجود نشاط.";
-$locale['global_413'] = "اسم المستخدم متاح";
-$locale['global_414'] = "اسم المستخدم غير متاح";
 // Flood control
 $locale['global_440'] = "حظر ذاتي بسبب نظام مكافحة الإغراق";
 $locale['global_441'] = "تم حظر حسابك في [SITENAME] ";
@@ -391,6 +389,8 @@ $locale['add'] = "إضافة";
 $locale['save'] = "حفظ";
 $locale['save_changes'] = "حفظ التغييرات";
 $locale['save_and_close'] = "حفط واغلاق";
+$locale['save_settings'] = "حفظ الإعدادات";
+$locale['settings_updated'] = "تم تحديث الإعدادات بنجاح";
 $locale['confirm'] = "تطبيق";
 $locale['update'] = "التحديث";
 $locale['updated'] = "تم التحديث";
@@ -463,6 +463,7 @@ $locale['preview'] = "معاينة";
 $locale['custom'] = "تخصيص";
 $locale['submit'] = "إرسال";
 $locale['submissions'] = "الإرساليات";
+$locale['submit_access'] = "الوصول إلى صفحة الإرسال";
 $locale['categories'] = "التصنيفات";
 // Alignment
 $locale['left'] = "يسار";
@@ -478,7 +479,7 @@ $locale['about'] = "حول";
 $locale['online'] = "متصل";
 $locale['offline'] = "غير مُتصل";
 // Misc
-$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
+$locale['max_fs_allowed_ft'] = "أكبر حجم للملف: %s / الصيغ المسموح بها: %s";
 // Timer
 $locale['timer_year'] = "سنة|سنوات";
 $locale['timer_month'] = "شهر|أشهر";

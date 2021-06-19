@@ -61,10 +61,10 @@ $locale['u115'] = "اللّغة";
 $locale['u116'] = "لا يوجد أعضاء في المجموعة.";
 $locale['u117'] = "لا توجد مجموعات للعضو.";
 // User name and email
-$locale['u119'] = "اسم المستخدم يحتوي على.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "إسم المستخدم يحتوي على أحرف غير صالحة.";
 $locale['u121'] = "اسم المستخدم غير متاح.";
-$locale['u122'] = "الرجاء إدخال جميع البيانات المطلوبة.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "البريد الإلكتروني غير صحيح.";
 $locale['u124'] = "تم حظر البريد الإلكتروني أو الجزء الرئيسي منة.";
 $locale['u125'] = "لا يمكن تسجيل حساب جديد بنفس عنوان البريد الإلكتروني.";
@@ -173,7 +173,7 @@ $locale['u203'] = "مرحبا [USER_NAME],<br/>
 
 [SITENAME]";
 // Checker
-$locale['u300'] = "Password should contain at least 1 special character";
-$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
-$locale['u302'] = "Password should contain at least 1 number";
-$locale['u303'] = "Password should be at least 8 characters long";
+$locale['u300'] = "كلمة السر يجب أن تحتوي على واحد على الأقل طابع خاص";
+$locale['u301'] = "كلمة المرور يجب أن تحتوي على الأقل على حرف واحد كبير وحرف واحد صغير";
+$locale['u302'] = "كلمة المرور يجب أن تحتوي على الأقل على رقم واحد";
+$locale['u303'] = "كلمة المرور يجب أن تكون على الأقل بطول 8 حروف";

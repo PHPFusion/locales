@@ -295,8 +295,6 @@ $locale['global_409'] = "To konto zostało zablokowane z powodów bezpieczeństw
 $locale['global_410'] = "Powodem tego jest: ";
 $locale['global_411'] = "To konto zostało anulowane.";
 $locale['global_412'] = "To konto zostało zanonimizowane, prawdopodobnie z powodu bezczynności.";
-$locale['global_413'] = "Użytkownik jest dostępny";
-$locale['global_414'] = "Użytkownik nie jest dostępny";
 // Flood control
 $locale['global_440'] = "Automatyczna blokada przez kontrolę aktywności";
 $locale['global_441'] = "Twoje konto [SITENAME] zostało zablokowane";
@@ -410,6 +408,8 @@ $locale['add'] = "Dodaj";
 $locale['save'] = "Zapisz";
 $locale['save_changes'] = "Zapisz zmiany";
 $locale['save_and_close'] = "Zapisz i zamknij";
+$locale['save_settings'] = "Zapisz ustawienia";
+$locale['settings_updated'] = "Pomyślnie zaktualizowano ustawienia";
 $locale['confirm'] = "Zatwierdź";
 $locale['update'] = "Aktualizuj";
 $locale['updated'] = "Zaktualizowano";
@@ -482,6 +482,7 @@ $locale['preview'] = "Podgląd";
 $locale['custom'] = "Niestandardowe";
 $locale['submit'] = "Wyślij";
 $locale['submissions'] = "Zgłoszenia";
+$locale['submit_access'] = "Dostęp do strony przesyłania";
 $locale['categories'] = "Kategorie";
 // Alignment
 $locale['left'] = "Z lewej";

@@ -13,4 +13,4 @@ $locale['article_0041'] = "عرض القائمة";
 $locale['article_0060'] = "لم يتم تعريف تصنيف مقالات.";
 $locale['article_0061'] = "لا توجد مقالات.";
 $locale['article_0062'] = "لا توجد مقالات في هذا التصنيف.";
-$locale['article_0063'] = "Most Read";
+$locale['article_0063'] = "الأكثر قراءة";

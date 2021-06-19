@@ -48,12 +48,11 @@ $locale['433'] = "situs-saya.com";
 $locale['434'] = "folder_saya";
 $locale['435'] = "Halaman yang abaikan Panel Atas:";
 $locale['436'] = "Halaman yang abaikan Panel Bawah:";
-$locale['437'] = "Guna Bootstrap Responsive Framework";
+
 $locale['438'] = "Guna Search Engine Friendly URL (SEF):";
 $locale['439'] = "Bukaan Normalize Friendly URLs:";
 $locale['440'] = "Buka mod SEO Debug:";
-$locale['441'] = "Guna Entypo";
-$locale['442'] = "Guna Font-Awesome";
+
 $locale['443a'] = "Exclude User 1 Panels";
 $locale['443b'] = "Exclude User 2 Panels";
 $locale['443c'] = "Exclude User 3 Panels";
@@ -71,7 +70,7 @@ $locale['450'] = "Tarikh dan Masa";
 $locale['451'] = "Format Tarikh Ringkas:";
 $locale['452'] = "Format Tarikh Penuh:";
 $locale['453'] = "Format Tarikh Forum";
-$locale['454'] = "Format Tarikh Sub-header";
+
 $locale['455'] = "-- Pilih Format --";
 $locale['456'] = "Offset Tetamu";
 $locale['457'] = "Format Tarikh Berita dan Artikel:";
@@ -114,8 +113,7 @@ $locale['651'] = "Senarai perkataan kotor:";
 $locale['652'] = "Guna baris baru setiap perkataan.";
 $locale['653'] = "Kosongkan jika tidak perlu.";
 $locale['654'] = "Mengganti perkataan kotor dengan:";
-$locale['655'] = "Tetamu Situs boleh pos?";
-$locale['656'] = "Guna avatar dalam komen?";
+
 $locale['657'] = "Mod Penyelenggaraan:";
 $locale['658'] = "Mesej Mod Penyelenggaraan:";
 $locale['659'] = "Guna Penapis Perkataan Kotor?";
@@ -150,7 +148,11 @@ $locale['669'] = "Berita";
 $locale['669b'] = "Batasan paparan bilangan Blog";
 $locale['669c'] = "Batasan paparan bilangan Berita";
 $locale['670'] = "Semestinya bilangan ganjil";
-$locale['671'] = "Guna sistem Komen?";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Muat Turun";
+
 $locale['672'] = "Guna sistem Penilaian?";
 $locale['673'] = "Jangan guna halaman profil ahli untuk orang awam";
 $locale['674'] = "SMTP Port";
@@ -163,9 +165,7 @@ $locale['680'] = "Gantung Akaun Automatik Flooding";
 $locale['681'] = "Penyenlengaran";
 $locale['682'] = "Pengaturan Flood";
 $locale['683'] = "Pengaturan Sekuriti";
-$locale['684'] = "Susunan Komen";
-$locale['685'] = "Menaik";
-$locale['686'] = "Menurun";
+
 $locale['687'] = "Perkataan Kotor";
 $locale['688'] = "Papar masa paparan dijana";
 $locale['689'] = "Ya (orang awam)";
@@ -176,8 +176,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Benarkan Kegunaan PHP";
 $locale['695'] = "AMARAN! Pengunaan PHP dalam Admin Panel akan membuka kelemahan SQL dan membahayakan sistem anda.";
 $locale['696'] = "Sila isikan kekunci awam dan kekunci peribadi reCAPTCHA!";
-
-$locale['913'] = "Bilangan Komen setiap muka halaman";
 
 $locale['955'] = "Original";
 $locale['956'] = "Empat Segi";
@@ -254,11 +252,6 @@ $locale['1030'] = "Jana tag meta OpenGraph untuk Rangkaian Sosial";
 $locale['1031'] = "Guna indeks URLs di Kod BB";
 $locale['1032'] = "Guna indeks URLs di Profil Ahli";
 
-$locale['error_rate'] = "Sila isikan Penilaian.";
-$locale['error_type'] = "Sila isikan Jenis Extension";
-$locale['error_width'] = "Sila isikan Lebar";
-$locale['error_height'] = "Sila isikan Tinggi";
-$locale['error_value'] = "Sila isikan nilai yang berkenaan";
 $locale['blog_description'] = "Pengaturan dan konfigurasi untuk sistem Blog";
 $locale['news_description'] = "Pengaturan dan konfigurasi untuk sistem Berita";
 $locale['forum_description'] = "Pengaturan dan konfigurasi untuk sistem Forum";

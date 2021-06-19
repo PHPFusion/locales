@@ -302,8 +302,6 @@ $locale['global_409'] = "Esta cuenta ha sido expulsada por motivos de seguridad.
 $locale['global_410'] = "El motivo es: ";
 $locale['global_411'] = "Esta cuenta ha sido cancelada.";
 $locale['global_412'] = "Esta cuenta ha sido anonimizada debido, probablemente, a su inactividad.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Prohibición automática por control de inundación";
 $locale['global_441'] = "Tu cuenta en [SITENAME] ha sido prohibida";
@@ -424,6 +422,8 @@ $locale['add'] = "Añadir";
 $locale['save'] = "Guardar";
 $locale['save_changes'] = "Guardar Cambios";
 $locale['save_and_close'] = "Guardar y Salir";
+$locale['save_settings'] = "Guardar configuración";
+$locale['settings_updated'] = "Configuraciones actualizadas con éxito";
 $locale['confirm'] = "Confirmar";
 $locale['update'] = "Actualización";
 $locale['updated'] = "Actualizado";
@@ -496,6 +496,7 @@ $locale['preview'] = "Vista previa";
 $locale['custom'] = "Personalizado";
 $locale['submit'] = "Enviar";
 $locale['submissions'] = "Las presentaciones";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Categorías";
 // Alignment
 $locale['left'] = "Izquierda";

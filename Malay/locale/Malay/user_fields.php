@@ -61,10 +61,10 @@ $locale['u115'] = "Language";
 $locale['u116'] = "There are no group members.";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "User name contains.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Kata Nama mempunyai huruf yang tidak sah.";
 $locale['u121'] = "Kata Nama telah dipakai oleh Ahli lain.";
-$locale['u122'] = "Kata Nama tidak boleh dikosongkan.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Alamat emel anda tidak didapati betul atau sah.";
 $locale['u124'] = "Alamat emel atau domain didapati dalam senarai hitam situs ini.";
 $locale['u125'] = "Alamat emel anda sedang dipakai oleh ahli lain.";

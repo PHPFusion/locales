@@ -84,6 +84,12 @@ $locale['df_422'] = "Neznáma chyba (Dotaz)";
 $locale['df_423'] = "Súbor nebol nahraný správne. Prosím skúste znova";
 $locale['df_424'] = "Aktuálne nahrané súbory sú viac ako maximálny limit. Skúste to znova a pripojte menej súborov.";
 
+$locale['error_rate'] = "Prosím, zadajte hodnotu.";
+$locale['error_type'] = "Prosím, zadajte typ rozšírenia.";
+$locale['error_width'] = "Prosím, zadajte šírku.";
+$locale['error_height'] = "Prosím, zadajte výšku.";
+$locale['error_value'] = "Prosím, zadajte hodnotu.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

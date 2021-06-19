@@ -6,7 +6,7 @@ $locale['403'] = "keresés bármelyik kifejezésre";
 $locale['404'] = "összes kifejezést tartalmazza";
 $locale['405'] = "Keresés helye";
 $locale['406'] = "Beállítások";
-$locale['407'] = "Mindenhol";
+$locale['407'] = "A teljes weboldalon";
 $locale['408'] = "Keresés eredménye";
 //addition date
 $locale['420'] = "Keresés visszamenőleg:";

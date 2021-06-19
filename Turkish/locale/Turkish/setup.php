@@ -309,13 +309,6 @@ $locale['setup_1700'] = "Kurulum Tamamlandı";
 $locale['setup_1701'] = "PHPFusion 9 artık kullanıma hazır. config_temp.php dosyanızı config.php dosyasına yeniden yazması için son'u tıklayın.<br/>";
 $locale['setup_1702'] = "<strong>Not: Sitenize girdikten sonra /install.php dosyasını silmelisiniz ve güvenlik nedenleriyle config.php dosyanızı 0644'e geri döndürmelisiniz.</strong>";
 $locale['setup_1703'] = "PHPFusion'u Seçtiğiniz Için Teşekkür Ederiz.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "E-Posta Şablonları";

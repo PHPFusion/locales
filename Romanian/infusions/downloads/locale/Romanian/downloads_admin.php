@@ -2,7 +2,7 @@
 $locale['download_604'] = "L&#259;&#355;ime x &#206;n&#259;l&#355;ime";
 $locale['download_930'] = "Maximum size uploads:";
 $locale['download_931'] = "Maximum file size in bytes";
-$locale['download_932'] = "Allowed file types:";
+$locale['download_932'] = "Tipuri de fișiere permise:";
 $locale['download_933'] = "Separate each type with a comma";
 $locale['download_934'] = "Maximum screenshot size:";
 $locale['download_936'] = "Maximum screenshot file size (bytes):";

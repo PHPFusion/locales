@@ -302,8 +302,6 @@ $locale['global_409'] = "Този потребител е баннат от съ
 $locale['global_410'] = "Причината за това: ";
 $locale['global_411'] = "Този потребител е бил прекратен.";
 $locale['global_412'] = "Този потребител е направен анонимен, може би поради неактивност.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Автоматичен бан от флууд контролиране";
 $locale['global_441'] = "Потребителят Ви в [SITENAME] е баннат";
@@ -424,6 +422,8 @@ $locale['add'] = "Добваи";
 $locale['save'] = "Запази";
 $locale['save_changes'] = "Запази промените";
 $locale['save_and_close'] = "Запазване и излизане";
+$locale['save_settings'] = "Запазване на настройките";
+$locale['settings_updated'] = "Насртойките са успешно обновени";
 $locale['confirm'] = "Потвърди";
 $locale['update'] = "Обнови";
 $locale['updated'] = "Обновен";
@@ -496,6 +496,7 @@ $locale['preview'] = "Предварителен изглед";
 $locale['custom'] = "Персонализиран";
 $locale['submit'] = "Публикуване";
 $locale['submissions'] = "Публикации";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Категории";
 // Alignment
 $locale['left'] = "Ляво";

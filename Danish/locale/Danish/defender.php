@@ -84,6 +84,12 @@ $locale['df_422'] = "Ukendt fejl (Query)";
 $locale['df_423'] = "Filen blev ikke uploadet korrekt. Prøv igen";
 $locale['df_424'] = "Der er udpeget flere filer til upload, end det er tilladt. Prøv igen og tilknyt færre filer.";
 
+$locale['error_rate'] = "Venligst indtast en fejlrate.";
+$locale['error_type'] = "Venligst indtast filendelsestype.";
+$locale['error_width'] = "Venligst indtast bredde.";
+$locale['error_height'] = "Venligst indtast højde.";
+$locale['error_value'] = "Venligst indtast en værdi.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

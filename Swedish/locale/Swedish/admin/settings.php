@@ -44,12 +44,11 @@ $locale['433'] = "mysite.com";
 $locale['434'] = "minmapp";
 $locale['435'] = "Exkludera ovan övre paneler:";
 $locale['436'] = "Exkludera under lägre paneler:";
-$locale['437'] = "Aktivera Bootstrap";
+
 $locale['438'] = "Sökmotorvänlig URL (SEF):";
 $locale['439'] = "Normalisera URL: er:";
 $locale['440'] = "Aktivera Debug-läge:";
-$locale['441'] = "Aktivera Entypo";
-$locale['442'] = "Aktivera Font-Awesome";
+
 $locale['443a'] = "Exkludera användare 1 paneler";
 $locale['443b'] = "Exkludera användare 2 paneler";
 $locale['443c'] = "Exkludera 3 paneler för användare";
@@ -67,7 +66,7 @@ $locale['450'] = "Tid och datuminställningar";
 $locale['451'] = "Kort datumformat:";
 $locale['452'] = "Långt datumformat:";
 $locale['453'] = "Datumformat i debattforum:";
-$locale['454'] = "Datumformat Sub-header:";
+
 $locale['455'] = "-- Välj ett format --";
 $locale['456'] = "Gäster offset";
 $locale['457'] = "Nyheter &amp; artikel datumformat:";
@@ -110,8 +109,7 @@ $locale['651'] = "Förbjudna ord:";
 $locale['652'] = "Skriv in ett ord per rad.";
 $locale['653'] = "Lämna fältet tomt om det inte skall användas.";
 $locale['654'] = "Ersättningsord:";
-$locale['655'] = "Tillåt gäster att posta?";
-$locale['656'] = "Aktivera avatar i kommentarer?";
+
 $locale['657'] = "Underhållsläge:";
 $locale['658'] = "Underhållsmeddelande:";
 $locale['659'] = "Censurera förbjudna ord?";
@@ -146,7 +144,11 @@ $locale['669'] = "Nyheter";
 $locale['669b'] = "Blogg poster per sida";
 $locale['669c'] = "Nyheter per sida";
 $locale['670'] = "Bör vara ett ojämnt nummer";
-$locale['671'] = "Aktivera kommentarssystemet?";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Hämta";
+
 $locale['672'] = "Aktivera betygssystemet?";
 $locale['673'] = "Dölj användarprofiler från gäster";
 $locale['674'] = "SMTP Port";
@@ -159,9 +161,7 @@ $locale['680'] = "Flooding Auto Banning";
 $locale['681'] = "Underhåll";
 $locale['682'] = "Flood Inställningar";
 $locale['683'] = "Säkerhetsinställningar";
-$locale['684'] = "Sortering av kommentarer";
-$locale['685'] = "Stigande";
-$locale['686'] = "Fallande";
+
 $locale['687'] = "Blockerade ord";
 $locale['688'] = "Visa renderingstid";
 $locale['689'] = "Ja (alla besökare)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Tillåt PHP körning från databas";
 $locale['695'] = "VARNING! Att tillåta PHP-körning kommer att öppna systemet för SQL-sårbarheter.";
 $locale['696'] = "Ange din offentliga och privata reCAPTCHA-nyckel!";
-
-$locale['913'] = "Kommentarer per sida";
 
 $locale['955'] = "Original";
 $locale['956'] = "Fyrkant";
@@ -250,11 +248,6 @@ $locale['1030'] = "Skapa OpenGraph metataggar för sociala nätverk";
 $locale['1031'] = "Tillåt index-URL: er i BB Koder";
 $locale['1032'] = "Tillåt index-URLer i användarprofiler";
 
-$locale['error_rate'] = "Var vänlig och skriv in ett värde.";
-$locale['error_type'] = "Vänligen ange tilläggstyp.";
-$locale['error_width'] = "Vänligen ange bredd.";
-$locale['error_height'] = "Vänligen ange höjd.";
-$locale['error_value'] = "Var vänlig och skriv in ett värde.";
 $locale['blog_description'] = "Konfigurationsinställningar för bloggsystemet";
 $locale['news_description'] = "Konfigurationsinställningar för nyhetssystemet";
 $locale['forum_description'] = "Konfigurationsinställningar för forumsystemet";

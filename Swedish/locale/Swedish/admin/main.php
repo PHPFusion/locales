@@ -32,7 +32,7 @@ $locale['PH'] = "Galleri";
 $locale['B'] = "Svartlista";
 $locale['C'] = "Kommentarer";
 $locale['DB'] = "Säkerhetskopiering databas";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "Server Info";
 $locale['PO'] = "Omröstningar";
 $locale['SL'] = "Sidans länkar";
 $locale['SU'] = "Förslag";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Söksträngen är för kort';
 $locale['search_msg_104'] = 'Det finns inga resultat att visa';
 
 $locale['deprecated_section'] = 'Detta avsnitt är föråldrat. Vi rekommenderar inte längre det och planerar att ta bort det snart.';
-$locale['new_update_avalaible'] = "En ny [LINK]PHPFusion v[VERSION] uppdatering[/LINK] är tillgänglig. Vänligen uppdatera!";
+$locale['new_update_avalaible'] = "A new PHPFusion v%s update is available!";
+$locale['update_now'] = "Update now";

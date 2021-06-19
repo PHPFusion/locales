@@ -297,8 +297,6 @@ $locale['global_409'] = "Dieses Konto wurde aus Sicherheitsgründen gesperrt.";
 $locale['global_410'] = "Der Grund dafür ist: ";
 $locale['global_411'] = "Dieses Konto wurde aufgelöst.";
 $locale['global_412'] = "Dieses Konto wurde anonymisiert, wahrscheinlich aufgrund von Inaktivität.";
-$locale['global_413'] = "Der Benutzername ist verfügbar";
-$locale['global_414'] = "Der Benutzername ist nicht verfügbar";
 // Flood control
 $locale['global_440'] = "Automatischer Sperre durch die Flood Kontrolle";
 $locale['global_441'] = "Ihr Konto auf [SITENAME] wurde gesperrt";
@@ -391,6 +389,8 @@ $locale['add'] = "Hinzufügen";
 $locale['save'] = "Speichern";
 $locale['save_changes'] = "Änderungen speichern";
 $locale['save_and_close'] = "Speichern und Schließen";
+$locale['save_settings'] = "Einstellungen speichern";
+$locale['settings_updated'] = "Die Einstellungen wurden erfolgreich aktualisiert.";
 $locale['confirm'] = "Bestätigen";
 $locale['update'] = "Aktualisieren";
 $locale['updated'] = "Aktualisiert";
@@ -463,6 +463,7 @@ $locale['preview'] = "Vorschau";
 $locale['custom'] = "Benutzerdefiniert";
 $locale['submit'] = "Einreichen";
 $locale['submissions'] = "Einsendungen";
+$locale['submit_access'] = "Zugriff auf die Seite \"Senden\"";
 $locale['categories'] = "Kategorien";
 // Alignment
 $locale['left'] = "Links";

@@ -296,8 +296,6 @@ $locale['global_409'] = "Šis vartotojas blokuotas dėl saugumo priežasčių.";
 $locale['global_410'] = "Priežastis yra: ";
 $locale['global_411'] = "Anketa buvo atšaukta.";
 $locale['global_412'] = "Anketa buvo padaryta anonimine, greičiausiai dėl neaktyvumo.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatinis flodo kontrolės sistemos blokavimas";
 $locale['global_441'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
@@ -414,6 +412,8 @@ $locale['add'] = "Pridėti";
 $locale['save'] = "Išsaugoti";
 $locale['save_changes'] = "Išsaugoti pakeitimus";
 $locale['save_and_close'] = "Išsaugoti ir uždaryti";
+$locale['save_settings'] = "Išsaugoti nustatymus";
+$locale['settings_updated'] = "Nustatymai atnaujinti";
 $locale['confirm'] = "Patvirtinti";
 $locale['update'] = "Atnaujinti";
 $locale['updated'] = "Atnaujinta";
@@ -486,6 +486,7 @@ $locale['preview'] = "Peržiūrėti";
 $locale['custom'] = "Nestandartinis";
 $locale['submit'] = "Pateikti";
 $locale['submissions'] = "Pateikimai";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Kategorijos";
 // Alignment
 $locale['left'] = "Kairė";

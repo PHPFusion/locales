@@ -181,7 +181,7 @@ $locale['forum_0397'] = "Nie sú pridané žiadne fóra.";
 $locale['forum_0398'] = "Súbor sa nepodarilo stiahnuť";
 $locale['forum_0399'] = "Pridať odmenu";
 
-$locale['forum_0400'] = "Bounty vlákna bola aktualizovaná. Nezabudnite vybrať odpoveď, ktorá vám bude udelená s odmenou";
+$locale['forum_0400'] = "Odmena vlákna bola aktualizovaná. Nezabudnite vybrať odpoveď, ktorá vám bude udelená s odmenou";
 
 $locale['forum_0500'] = "Náhľad vlákna";
 $locale['forum_0501'] = "Odoslať vlákno";
@@ -244,7 +244,7 @@ $locale['forum_0585'] = "Vložte správu v odpovedi";
 $locale['forum_0586'] = "ID príspevku je prázdne a nepredložené! Oznámte to správcovi systému.";
 $locale['forum_0587'] = "ID fóra je prázdne a nepredložené! Oznámte to správcovi systému.";
 $locale['forum_0588'] = "ID vlákna je prázdne a nepredložené! Oznámte to správcovi systému.";
-$locale['forum_0589'] = "Neboli nájdené žiadne nové, odpovedané ani upravené údaje.";
+$locale['forum_0589'] = "V novej odpovedi alebo úprave sa nenašli žiadne údaje.";
 $locale['forum_0591'] = "Vyprázdniť príspevky";
 $locale['forum_0592'] = "Vyprázdniť vlákna";
 $locale['forum_0593'] = "Vyprázdniť prílohy";
@@ -355,7 +355,7 @@ $locale['forum_p090'] = "3 mesiace";
 $locale['forum_p180'] = "6 mesiacov";
 $locale['forum_p999'] = "Všetky výsledky";
 $locale['forum_perm_access'] = "Vy %s zobraziť všetky vlákna v tomto fóre.";
-$locale['forum_perm_bounty'] = "Vy %s nastaviť odmenu v tomto vlákne.";
+$locale['forum_perm_bounty'] = "Nastavil/a si %s odmenu v tomto vlákne.";
 $locale['forum_perm_create_poll'] = "Vy %s začať v anketu v tomto fóre.";
 $locale['forum_perm_download'] = "Vy %s stiahnuť prílohy v tomto fóre.";
 $locale['forum_perm_edit_poll'] = "Vy %s upraviť anketu v tomto vlákne.";

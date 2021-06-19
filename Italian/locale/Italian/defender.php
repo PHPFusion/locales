@@ -84,6 +84,12 @@ $locale['df_422'] = "Errore sconosciuto (Query)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "caricamento corrente file è oltre il limite massimo. Si prega di riprovare e allegare meno file. ";
 
+$locale['error_rate'] = "Inserisci un tasso.";
+$locale['error_type'] = "Inserisci tipo di estensione.";
+$locale['error_width'] = "Inserisci larghezza.";
+$locale['error_height'] = "Inserisci altezza.";
+$locale['error_value'] = "Inserisci un valore.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

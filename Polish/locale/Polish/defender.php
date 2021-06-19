@@ -84,6 +84,12 @@ $locale['df_422'] = "Nieznany błąd (zapytanie)";
 $locale['df_423'] = "Plik nie został prawidłowo przesłany. Proszę spróbować ponownie";
 $locale['df_424'] = "Aktualnie przesyłane pliki przekraczają maksymalny limit. Proszę spróbować ponownie dodając mniej plików.";
 
+$locale['error_rate'] = "Proszę wybrać ocenę.";
+$locale['error_type'] = "Proszę wprowadzić typ rozszerzenia.";
+$locale['error_width'] = "Proszę wprowadzić szerokość.";
+$locale['error_height'] = "Proszę wprowadzić wysokość.";
+$locale['error_value'] = "Proszę wprowadzić wartość.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

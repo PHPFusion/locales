@@ -61,7 +61,7 @@ $locale['u115'] = "Taal";
 $locale['u116'] = "Deze groep bevat geen leden.";
 $locale['u117'] = "Geen gebruikersgroepen.";
 // User name and email
-$locale['u119'] = "Gebruikersnaam bevat.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Gebruikersnaam bevat ongeldige tekens.";
 $locale['u121'] = "De gebruikersnaam is reeds door een ander lid in gebruik. Kies een andere gebruikersnaam.";
 $locale['u122'] = "Gebruikersnaam kan niet leeg worden gelaten.";

@@ -290,8 +290,6 @@ $locale['global_409'] = "Dit account is verbannen om veiligheidsredenen.";
 $locale['global_410'] = "De reden hiervoor is: ";
 $locale['global_411'] = "Dit account is geannuleerd.";
 $locale['global_412'] = "Dit account is geanonimiseerd, waarschijnlijk door inactiviteit.";
-$locale['global_413'] = "Gebruikersnaam is beschikbaar";
-$locale['global_414'] = "Gebruikersnaam is niet beschikbaar";
 // Flood control
 $locale['global_440'] = "Automatische verbanning door Flood Control";
 $locale['global_441'] = "Uw account op [SITENAME] is verbannen";
@@ -402,6 +400,8 @@ $locale['add'] = "Toevoegen";
 $locale['save'] = "Opslaan";
 $locale['save_changes'] = "Wijzigingen opslaan";
 $locale['save_and_close'] = "Opslaan en afsluiten";
+$locale['save_settings'] = "Instellingen opslaan";
+$locale['settings_updated'] = "Instellingen bijgewerkt";
 $locale['confirm'] = "Bevestig";
 $locale['update'] = "Bijwerken";
 $locale['updated'] = "Bijgewerkt";
@@ -474,6 +474,7 @@ $locale['preview'] = "Voorvertoning";
 $locale['custom'] = "Eigen";
 $locale['submit'] = "Inzenden";
 $locale['submissions'] = "Inzendingen";
+$locale['submit_access'] = "Toegang tot inzending pagina";
 $locale['categories'] = "Categorieën";
 // Alignment
 $locale['left'] = "Links";

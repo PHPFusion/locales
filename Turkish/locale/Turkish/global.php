@@ -295,8 +295,6 @@ $locale['global_409'] = "Bu hesap güvenlik nedeniyle yasaklandı.";
 $locale['global_410'] = "Bunun nedeni şudur: ";
 $locale['global_411'] = "Bu hesap iptal edildi.";
 $locale['global_412'] = "Bu hesap, muhtemelen hareketsizlik nedeniyle anonimleştirildi.";
-$locale['global_413'] = "Kullanıcı adı kullanılabilir";
-$locale['global_414'] = "Kullanıcı adı kullanılamaz";
 // Flood control
 $locale['global_440'] = "Saldırı Kontrolü ile Otomatik Yasaklama";
 $locale['global_441'] = "[SITENAME] hesabınız yasaklandı";
@@ -410,6 +408,8 @@ $locale['add'] = "Ekle";
 $locale['save'] = "Kaydet";
 $locale['save_changes'] = "Değişiklikleri Kaydet";
 $locale['save_and_close'] = "Kaydet ve Kapat";
+$locale['save_settings'] = "Ayarları Kaydet";
+$locale['settings_updated'] = "Ayarlar Başarıyla Güncellendi";
 $locale['confirm'] = "Onayla";
 $locale['update'] = "Güncelleştir";
 $locale['updated'] = "Güncellendi";
@@ -482,6 +482,7 @@ $locale['preview'] = "Önizleme";
 $locale['custom'] = "Özel";
 $locale['submit'] = "Gönder";
 $locale['submissions'] = "Gönderimler";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Kategoriler";
 // Alignment
 $locale['left'] = "Sol";

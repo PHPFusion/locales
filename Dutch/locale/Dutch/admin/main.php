@@ -32,7 +32,7 @@ $locale['PH'] = "Foto Gallerij";
 $locale['B'] = "Zwarte lijst";
 $locale['C'] = "Reacties";
 $locale['DB'] = "Database backup";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "Serverinformatie";
 $locale['PO'] = "Enqu&ecirc;tes";
 $locale['SL'] = "Site Links";
 $locale['SU'] = "Inzendingen";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Zoekstring is te kort';
 $locale['search_msg_104'] = 'Er zijn geen resultaten om weer te geven';
 
 $locale['deprecated_section'] = 'Deze sectie is verouderd. We raden het niet meer aan en zijn van plan om het binnenkort te verwijderen.';
-$locale['new_update_avalaible'] = "Een nieuwe [LINK]PHPFusion v[VERSION] update[/LINK] is beschikbaar. Graag bijwerken!";
+$locale['new_update_avalaible'] = "Er is een nieuwe PHPFusion v%s update beschikbaar!";
+$locale['update_now'] = "Werk nu bij";

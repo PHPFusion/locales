@@ -84,6 +84,12 @@ $locale['df_422'] = "Kasalahan Query";
 $locale['df_423'] = "Imej tidak dapat dimuat naikkan oleh Server dengan betul. Sila cuba sekali lagi.";
 $locale['df_424'] = "Muatan naik ini melampaui batasan yang dibenarkan. Sila cuba sekali lagi dan kurangkan fail yang dipilih.";
 
+$locale['error_rate'] = "Sila isikan Penilaian.";
+$locale['error_type'] = "Sila isikan Jenis Extension";
+$locale['error_width'] = "Sila isikan Lebar";
+$locale['error_height'] = "Sila isikan Tinggi";
+$locale['error_value'] = "Sila isikan nilai yang berkenaan";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

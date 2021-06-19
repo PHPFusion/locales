@@ -44,12 +44,11 @@ $locale['433'] = "mijnsite.nl";
 $locale['434'] = "mijnmap";
 $locale['435'] = "Uitsluiten Boven header panelen:";
 $locale['436'] = "Uitsluiten Onder footer Panelen:";
-$locale['437'] = "Bootstrap inschakelen";
+
 $locale['438'] = "Search Engine Friendly URL (SEF):";
 $locale['439'] = "Normaliseer vriendelijke URL's:";
 $locale['440'] = "SEO Debug modus inschakelen:";
-$locale['441'] = "Entypo inschakelen";
-$locale['442'] = "Lettertype-Awesome inschakelen";
+
 $locale['443a'] = "Gebruiker 1 panelen uitsluiten";
 $locale['443b'] = "Gebruiker 2 panelen uitsluiten";
 $locale['443c'] = "Gebruiker 3 panelen uitsluiten";
@@ -67,7 +66,7 @@ $locale['450'] = "Tijd en Datum";
 $locale['451'] = "Kort datumformaat:";
 $locale['452'] = "Lang datumformaat:";
 $locale['453'] = "Forum datumformaat:";
-$locale['454'] = "Subheader datumformaat:";
+
 $locale['455'] = "-- Selecteer een formaat --";
 $locale['456'] = "Gasten Tijdsverschil";
 $locale['457'] = "Nieuws &amp; artikel datum formaat:";
@@ -110,8 +109,7 @@ $locale['651'] = "Ongewenste woorden lijst:";
 $locale['652'] = "Geef &eacute;&eacute;n woord per regel.";
 $locale['653'] = "Leeg laten indien niet gewenst.";
 $locale['654'] = "Vervanging schuttingwoorden:";
-$locale['655'] = "Gasten toestaan berichten te plaatsen?";
-$locale['656'] = "Avatar reacties aanzetten?";
+
 $locale['657'] = "Onderhoudsmodus:";
 $locale['658'] = "Bericht onderhoudsmodus:";
 $locale['659'] = "Schuttingwoordenfilter inschakelen?";
@@ -146,7 +144,11 @@ $locale['669'] = "Nieuws";
 $locale['669b'] = "Blogberichten per pagina";
 $locale['669c'] = "Nieuwsberichten per pagina";
 $locale['670'] = "Dient oneven te zijn";
-$locale['671'] = "Reacties toestaan?";
+
+$locale['670a'] = "Taalpakket %s is gedownload.";
+$locale['670b'] = "Taal pakket";
+$locale['670c'] = "Download";
+
 $locale['672'] = "Waarderingen toestaan?";
 $locale['673'] = "Verberg gebruikersprofielen voor publiek";
 $locale['674'] = "SMTP Poort";
@@ -159,9 +161,7 @@ $locale['680'] = "Flood automatisch verbannen";
 $locale['681'] = "Onderhoud";
 $locale['682'] = "Flood instellingen";
 $locale['683'] = "Veiligheid instellingen";
-$locale['684'] = "Reacties sorteren";
-$locale['685'] = "Oplopend";
-$locale['686'] = "Aflopend";
+
 $locale['687'] = "Ongewenste Woorden";
 $locale['688'] = "Verwerkingstijd laten zien (in footer)?";
 $locale['689'] = "Ja (voor alle bezoekers)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "PHP-scripts toestaan";
 $locale['695'] = "WAARSCHUWING! Het toestaan van PHP scripts stelt het systeem open voor SQL kwetsbaarheden.";
 $locale['696'] = "Geef uw publieke en priv&eacute; reCAPTCHA sleutel!";
-
-$locale['913'] = "Reacties per pagina";
 
 $locale['955'] = "Origineel";
 $locale['956'] = "Vierkant";
@@ -250,11 +248,6 @@ $locale['1030'] = "Maak OpenGraph meta tags voor sociale netwerken";
 $locale['1031'] = "Index URLs in BB Codes toestaan";
 $locale['1032'] = "Index URLs in gebruikersprofielen toestaan";
 
-$locale['error_rate'] = "Geef a.u.b. een snelheid.";
-$locale['error_type'] = "Voer a.u.b. een extensie in.";
-$locale['error_width'] = "Voer a.u.b. een breedte in.";
-$locale['error_height'] = "Voer a.u.b. een hoogte in.";
-$locale['error_value'] = "Geef a.u.b. een waarde in.";
 $locale['blog_description'] = "De configuratie-instellingen voor het Blog-systeem";
 $locale['news_description'] = "De configuratie-instellingen voor het Nieuwssysteem";
 $locale['forum_description'] = "De instellingen voor de configuratie voor het forumsysteem";

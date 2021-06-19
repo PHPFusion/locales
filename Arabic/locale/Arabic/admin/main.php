@@ -32,7 +32,7 @@ $locale['PH'] = "معرض الصور";
 $locale['B'] = "القائمة السوداء";
 $locale['C'] = "التعليقات";
 $locale['DB'] = "النسخ الإحتياطي";
-$locale['PI'] = "معلومات الـPHP";
+$locale['PI'] = "معلومات الخادم";
 $locale['PO'] = "استطلاعات الرأي";
 $locale['SL'] = "الروابط";
 $locale['SU'] = "الإرساليات";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'سلسلة البحث قصيرة جدا';
 $locale['search_msg_104'] = 'لم يتم العثور على نتائج';
 
 $locale['deprecated_section'] = 'هذا القسم مهجور. لم نعد نوصي به ونخطط لإزالته قريبا.';
-$locale['new_update_avalaible'] = "تحديث [LINK]PHPFusion v[VERSION] جديد[/LINK] متوفر . الرجاء التحديث!";
+$locale['new_update_avalaible'] = "تحديث جديد للإصدار PHPFusion %s متاح!";
+$locale['update_now'] = "التحديث الآن";

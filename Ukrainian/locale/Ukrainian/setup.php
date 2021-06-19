@@ -314,13 +314,6 @@ $locale['setup_1701'] = "PHPFusion 9.0 тепер готова до викори
 $locale['setup_1702'] = "Примітка: З міркувань безпеки, настійливо рекомендується
 видалити каталог /install та встановити для файлу config.php права доступу (CHMOD) в значення 644.";
 $locale['setup_1703'] = "Дякуємо за вибір PHPFusion!";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Шаблони для електронної пошти";

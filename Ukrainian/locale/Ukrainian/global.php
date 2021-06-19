@@ -317,8 +317,6 @@ $locale['global_409'] = "Цей обліковий запис заблокова
 $locale['global_410'] = "Причина: ";
 $locale['global_411'] = "Цей обліковий запис скасовано.";
 $locale['global_412'] = "Цей обліковий запис зроблено анонімним, можливо, через бездіяльність.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Автоматичне блокування через порушення контролю за флудом";
 $locale['global_441'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано";
@@ -443,6 +441,8 @@ $locale['add'] = "Додати";
 $locale['save'] = "Зберегти";
 $locale['save_changes'] = "Зберегти зміни";
 $locale['save_and_close'] = "Зберегти та закрити";
+$locale['save_settings'] = "Зберегти";
+$locale['settings_updated'] = "Налаштування успішно оновлено!";
 $locale['confirm'] = "Ухвалити";
 $locale['update'] = "Оновити";
 $locale['updated'] = "Оновлено";
@@ -515,6 +515,7 @@ $locale['preview'] = "Попередній перегляд";
 $locale['custom'] = "Вільно";
 $locale['submit'] = "Надіслати";
 $locale['submissions'] = "Пропозиції";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Розділи";
 // Alignment
 $locale['left'] = "Зліва";

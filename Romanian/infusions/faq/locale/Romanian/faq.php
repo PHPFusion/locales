@@ -34,7 +34,7 @@ $locale['faq_0106'] = "Vizibilitate";
 $locale['faq_0107'] = "Ac&#355;iuni";
 $locale['faq_0111'] = "&#350;terg aceast&#259; intrebare frecvent&#259;?";
 $locale['faq_0112'] = "Nu exist&#259; &#238;ntreb&#259;ri frecvente definite.";
-$locale['faq_0112a'] = "There are no FAQ Categories defined.";
+$locale['faq_0112a'] = "Nu există categorii FAQ definite.";
 $locale['faq_0113'] = "Nu exist&#259; &#238;ntreb&#259;ri frecvente, care s&#259; se potriveasc&#259; cu op&#355;iunile de c&#259;utare.";
 $locale['faq_0114'] = "&#206;nainte de a creea o &#238;ntrebare frecvent&#259;, trebuie s&#259; creezi o categorie de &#238;ntreb&#259;ri frecvente.";
 $locale['faq_0115'] = "Nume categorie";
@@ -82,4 +82,4 @@ ar trebui s&#259; fie aplicabil&#259; pentru con&#355;inutul acestui sait. Trimi
 $locale['faq_0921'] = "Trebuie s&#259; te conectezi pentru a trimite o &#238;ntrebare frecvent&#259;.";
 $locale['faq_0922'] = "Nu accept&#259;m pentru moment trimiterea de &#238;ntrebari frecvente.";
 $locale['faq_0923'] = "Nu po&#355;i trimite  o &#238;ntrebare frecvent&#259;, deoarece nu exist&#259; categorii de &#238;ntrebari frecvente definite.";
-$locale['faq_submit'] = "%s FAQs";
+$locale['faq_submit'] = "%s întrebări frecvente";

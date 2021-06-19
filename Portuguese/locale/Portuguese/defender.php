@@ -84,6 +84,12 @@ $locale['df_422'] = "Erro desconhecido (Consulta)";
 $locale['df_423'] = "Ficheiro(s) não submetidos. Por favor, tente novamente";
 $locale['df_424'] = "O upload atual de ficheiros é maior que o limite máximo. Por favor, tente novamente e anexe menos ficheiros .";
 
+$locale['error_rate'] = "Por favor introduza uma avaliação.";
+$locale['error_type'] = "Por favor, insira o Tipo de Extensão.";
+$locale['error_width'] = "Por favor, insira a largura.";
+$locale['error_height'] = "Por favor, insira a Altura.";
+$locale['error_value'] = "Por favor, introduza um valor.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

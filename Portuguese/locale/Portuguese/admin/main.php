@@ -32,7 +32,7 @@ $locale['PH'] = "Galeria";
 $locale['B'] = "Lista Negra";
 $locale['C'] = "Comentários";
 $locale['DB'] = "Backup da Base de Dados";
-$locale['PI'] = "Info PHP";
+$locale['PI'] = "Server Info";
 $locale['PO'] = "Votações";
 $locale['SL'] = "Links do Site";
 $locale['SU'] = "Submissões";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'A sequência de pesquisa é muito curta';
 $locale['search_msg_104'] = 'Não foram encontrados resultados';
 
 $locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
-$locale['new_update_avalaible'] = "Uma nova atualização de [LINK]PHPFusion v[VERSION][/LINK] está disponível. Por favor, atualize!";
+$locale['new_update_avalaible'] = "A new PHPFusion v%s update is available!";
+$locale['update_now'] = "Update now";

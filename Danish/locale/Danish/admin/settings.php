@@ -44,12 +44,11 @@ $locale['433'] = "minside.dk";
 $locale['434'] = "minfolder";
 $locale['435'] = "Udeluk visning over topelementer:";
 $locale['436'] = "Udeluk visning under bundelementer:";
-$locale['437'] = "Aktiver Bootstrap";
+
 $locale['438'] = "Søgemaskinevenlige adresser (SEF):";
 $locale['439'] = "Tilpas brugervenlige adresser:";
 $locale['440'] = "Skal SEO Debug Mode slås til:";
-$locale['441'] = "Slå Entypo til";
-$locale['442'] = "Slå Font-Awesome til";
+
 $locale['443a'] = "Udeluk elementer for bruger 1";
 $locale['443b'] = "Udeluk elementer for bruger 2";
 $locale['443c'] = "Udeluk elementer for bruger 3";
@@ -58,16 +57,16 @@ $locale['444'] = "Domæneservere";
 $locale['444a'] = "Konfiguration af flere domæner på et enkelt site.<br/><br/>Adskil og tilføj et domæne i hver sin linje med (\"enter\")";
 $locale['444b'] = "Registrerede domænenavne<br/><i>Du skal indsætte det nuværende domæne (læst under webhost) når du aktiverer denne feature</i>.";
 $locale['445'] = "Ugyldig (test formål)";
-$locale['446'] = "General Settings";
-$locale['447'] = "URL Settings";
-$locale['448'] = "Panels Settings";
+$locale['446'] = "Generelle Indstillinger";
+$locale['447'] = "URL indstillinger";
+$locale['448'] = "Panel indstillinger";
 
 // Time & Date Settings
 $locale['450'] = "Tidspunkter og datoer";
 $locale['451'] = "Kort datoformat:";
 $locale['452'] = "Langt datoformat:";
 $locale['453'] = "Datoformat i debatforum:";
-$locale['454'] = "Datoformat i menulinjen:";
+
 $locale['455'] = "-- Vælg et datoformat --";
 $locale['456'] = "Gæste offset";
 $locale['457'] = "Datoformat i nyheder og artikler:";
@@ -110,8 +109,7 @@ $locale['651'] = "Liste over forbudte ord:";
 $locale['652'] = "Kun et ord pr. linje.";
 $locale['653'] = "Lad denne stå tom, hvis den ikke skal bruges.";
 $locale['654'] = "Erstatningsord:";
-$locale['655'] = "Tillad gæster at skrive replikker?";
-$locale['656'] = "Slå avatar til i kommentarer?";
+
 $locale['657'] = "Vedligeholdelsestilstand:";
 $locale['658'] = "Vedligeholdelsesbesked:";
 $locale['659'] = "Ord-censur slået til?";
@@ -146,7 +144,11 @@ $locale['669'] = "Nyheder";
 $locale['669b'] = "Blogindlæg pr. side";
 $locale['669c'] = "Antal nyheder pr. side";
 $locale['670'] = "Bør være et ulige tal";
-$locale['671'] = "Slå kommentarsystem til?";
+
+$locale['670a'] = "Sprogpakken %s er blevet downloadet.";
+$locale['670b'] = "Sprogpakke";
+$locale['670c'] = "Download";
+
 $locale['672'] = "Slå vurderingssystem til?";
 $locale['673'] = "Skjul brugerprofiler fra fremvisning";
 $locale['674'] = "SMTP-port";
@@ -159,9 +161,7 @@ $locale['680'] = "Automatisk udelukkelse ved flooding";
 $locale['681'] = "Vedligeholdelse";
 $locale['682'] = "Floodopsætning";
 $locale['683'] = "Sikkerhedsindstillinger";
-$locale['684'] = "Sortering af kommentarer";
-$locale['685'] = "Stigende";
-$locale['686'] = "Faldende";
+
 $locale['687'] = "Udelukkede ord";
 $locale['688'] = "Vis forbrugt tid ved sidedannelse";
 $locale['689'] = "Ja (for alle besøgende)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Tillad PHP Execution";
 $locale['695'] = "Advarsel! At tillade PHP-execution vil åbne systemet for SQL-sårbarheder.";
 $locale['696'] = "Venligst indsæt din offentlige og private reCAPTCHA nøgle!";
-
-$locale['913'] = "Kommentarer pr. side";
 
 $locale['955'] = "Original";
 $locale['956'] = "Kvadrat";
@@ -250,11 +248,6 @@ $locale['1030'] = "Opret OpenGraph meta tags til de sociale netværk";
 $locale['1031'] = "Tillad webadresser i BB-kode";
 $locale['1032'] = "Tillad webadresser i brugerprofiler";
 
-$locale['error_rate'] = "Angiv en værdi.";
-$locale['error_type'] = "Angiv en filtype.";
-$locale['error_width'] = "Indskriv bredde.";
-$locale['error_height'] = "Indskriv højde.";
-$locale['error_value'] = "Indskriv en værdi.";
 $locale['blog_description'] = "Opsætningsværdierne til Blog-systemet";
 $locale['news_description'] = "Opsætningsværdierne for Nyheds-systemet";
 $locale['forum_description'] = "Opsætning af debatsystemet";

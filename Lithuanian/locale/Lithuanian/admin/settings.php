@@ -48,12 +48,11 @@ $locale['433'] = "manopuslapis.lt";
 $locale['434'] = "manoaplankalas";
 $locale['435'] = "Nerodyti viršutinių panelių:";
 $locale['436'] = "Nerodyti apatinių panelių:";
-$locale['437'] = "Bootstrap:";
+
 $locale['438'] = "SEO nuorodos:";
 $locale['439'] = "Normalizuoti SEO nuorodas:";
 $locale['440'] = "Įjungti SEO debuginimą:";
-$locale['441'] = "Įjungti Entypo";
-$locale['442'] = "Įjungti Font-Awesome";
+
 $locale['443a'] = "Pašalinti Vartotojo 1 paneles";
 $locale['443b'] = "Pašalinti Vartotojo 2 paneles";
 $locale['443c'] = "Pašalinti Vartotojo 3 paneles";
@@ -71,7 +70,7 @@ $locale['450'] = "Datos ir laiko nustatymo parametrai";
 $locale['451'] = "Trumpasis datos formatas:";
 $locale['452'] = "Ilgasis datos formatas:";
 $locale['453'] = "Forumo datos formatas:";
-$locale['454'] = "Datos formatas tinklapio viršuje:";
+
 $locale['455'] = "-- pasirink formatą --";
 $locale['456'] = "Laiko balansas (Svečių)";
 $locale['457'] = "Naujienų ir straipnių datos formatas:";
@@ -114,8 +113,7 @@ $locale['651'] = "Keiksmažodžių sąrašas:";
 $locale['652'] = "Eilutėje įvesti tik vieną žodį.";
 $locale['653'] = "Jei nereikia, palik tuščią.";
 $locale['654'] = "Keiksmažodžio pakaitalas:";
-$locale['655'] = "Leisti svečiams rašyti pranešimus?";
-$locale['656'] = "Įjungti avatarų rodymą komentaruose?";
+
 $locale['657'] = "Tinklapio išjungimas:";
 $locale['658'] = "Tinklapio išjungimo priežastis ir žinutė:";
 $locale['659'] = "Įjungti keiksmažodžių filtrą?";
@@ -152,7 +150,11 @@ $locale['669'] = "Naujienos";
 $locale['669b'] = "Tinklaraščių puslapyje";
 $locale['669c'] = "Naujienų puslapyje";
 $locale['670'] = "Turėtų būti nelyginis";
-$locale['671'] = "Įjungti komentarų sistemą?";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Siuntinys";
+
 $locale['672'] = "Įjungti reitingų sistemą?";
 $locale['673'] = "Nerodyti profilių viešai";
 $locale['674'] = "SMTP prievadas";
@@ -165,9 +167,7 @@ $locale['680'] = "Floodo auto blokavimas";
 $locale['681'] = "Išjungimas";
 $locale['682'] = "Flodo nustatymai";
 $locale['683'] = "Saugumo nustatymai";
-$locale['684'] = "Komentarų rikiavimas";
-$locale['685'] = "Didėjančia tvarka";
-$locale['686'] = "Mažėjančia tvarka";
+
 $locale['687'] = "Cenzūruojami žodžiai";
 $locale['688'] = "Rodyti generavimo laiką (tinklalapio apačioje)?";
 $locale['689'] = "Taip (visiems lankytojams)";
@@ -178,8 +178,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Leisti PHP vykdymą";
 $locale['695'] = "DĖMESIO! PHP vykdymo leidimas atveria kelią SQL injekcijoms vykdyti!";
 $locale['696'] = "Prašome įvesti viešą ir privatų reCAPTCHA raktus!";
-
-$locale['913'] = "Komentarų puslapyje";
 
 $locale['955'] = "Originalus";
 $locale['956'] = "Kvadratas";
@@ -256,11 +254,6 @@ $locale['1030'] = "Sukurti OpenGraph meta žymes socialiniams tinklams";
 $locale['1031'] = "Leisti indeksuoti nuorodas BB Koduose";
 $locale['1032'] = "Leisti indeksuoti nuorodas narių profiliuose";
 
-$locale['error_rate'] = "Prašom įvesti dažnį.";
-$locale['error_type'] = "Prašom nurodyti papildinio tipą.";
-$locale['error_width'] = "Prašom įvesti plotį.";
-$locale['error_height'] = "Prašom įvesti aukštį.";
-$locale['error_value'] = "Prašom įvesti reikšmę.";
 $locale['blog_description'] = "Nustatymai Blogų sistemai";
 $locale['news_description'] = "Nustatymai Naujienų sistemai";
 $locale['forum_description'] = "Nustatymai Forumų sistemai";

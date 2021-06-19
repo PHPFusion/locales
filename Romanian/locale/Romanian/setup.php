@@ -311,13 +311,6 @@ Apas&#259; sf&#226;r&#351;it pentru rescrie fi&#351;ierul config_temp.php &#238;
 $locale['setup_1702'] = "<strong>Not&#259;: Dup&#259; ce intri pe sait trebuie s&#259; &#351;tergi &#238;ntregul director /install <br />
 &#351;i s&#259; schimbi atributele fi&#351;ierului config.php la 0644 din motive de securitate.</strong>";
 $locale['setup_1703'] = "&#206;&#355;i mul&#355;umim c&#259; &#238;ncerci PHPFusion.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "&#350;abloane e-mail";

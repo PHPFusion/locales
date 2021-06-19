@@ -84,6 +84,12 @@ $locale['df_422'] = "Ukjent feil (Query)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Current upload files is more than the maximum limit. Please try again and attach less files.";
 
+$locale['error_rate'] = "Please enter a Rate.";
+$locale['error_type'] = "Vennligst skriv inn filtype.";
+$locale['error_width'] = "Vennligst skriv inn Bredde.";
+$locale['error_height'] = "Vennligst skriv inn Høyde.";
+$locale['error_value'] = "Vennligst skriv inn en verdi.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

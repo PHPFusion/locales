@@ -32,7 +32,7 @@ $locale['PH'] = "Galeri Gambar";
 $locale['B'] = "Senarai Hitam";
 $locale['C'] = "Komen";
 $locale['DB'] = "Penyandaran Database";
-$locale['PI'] = "Maklumat PHP";
+$locale['PI'] = "Server Info";
 $locale['PO'] = "Undian";
 $locale['SL'] = "Pautan Situs";
 $locale['SU'] = "Penyerahan";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Search string is too short';
 $locale['search_msg_104'] = 'There are no results found';
 
 $locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
-$locale['new_update_avalaible'] = "[LINK]Versi PHPFusion v[VERSION] terbaru telah[/LINK] dilancarkan. Sila kemaskini!";
+$locale['new_update_avalaible'] = "A new PHPFusion v%s update is available!";
+$locale['update_now'] = "Update now";

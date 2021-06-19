@@ -84,6 +84,12 @@ $locale['df_422'] = "Bilinmeyen hata (Sorgu)";
 $locale['df_423'] = "Dosya düzgün yüklenmedi. Lütfen tekrar deneyin";
 $locale['df_424'] = "Mevcut yükleme dosyaları maksimum sınırın üzerinde. Lütfen tekrar deneyin ve daha az dosya ekleyin.";
 
+$locale['error_rate'] = "Lütfen Bir Oran Girin.";
+$locale['error_type'] = "Lütfen Uzantı Türü'nü Girin.";
+$locale['error_width'] = "Lütfen Genişlik Değerini Girin.";
+$locale['error_height'] = "Lütfen Yükseklik Değerini Girin.";
+$locale['error_value'] = "Lütfen Bir Değer Girin.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

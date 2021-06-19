@@ -302,8 +302,6 @@ $locale['global_409'] = "Akaun ini telah diharamkan kerana sebab-sebab sekuriti.
 $locale['global_410'] = "Sebab-sebab kerana ini seperti berikut: ";
 $locale['global_411'] = "Akaun ini telah ditamatkan.";
 $locale['global_412'] = "Akaun ini telah dilindungkan, kemungkinan kerana tidak aktif.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Dihentikan secara otomatik oleh Sistem kawalan pos banjir.";
 $locale['global_441'] = "Akaun anda di [SITENAME] telah dihentikan";
@@ -424,6 +422,8 @@ $locale['add'] = "Tambah";
 $locale['save'] = "Terima";
 $locale['save_changes'] = "Terima Perubahan";
 $locale['save_and_close'] = "Save and Close";
+$locale['save_settings'] = "Simpan Pengaturan";
+$locale['settings_updated'] = "Pengaturan sistem telah dikemaskinikan";
 $locale['confirm'] = "Kesahi";
 $locale['update'] = "Kemaskini";
 $locale['updated'] = "Dikemaskinikan";
@@ -496,6 +496,7 @@ $locale['preview'] = "Preview";
 $locale['custom'] = "Custom";
 $locale['submit'] = "Submit";
 $locale['submissions'] = "Penyerahan";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Sunting Artikel";
 // Alignment
 $locale['left'] = "Kiri";

@@ -164,7 +164,7 @@ $locale['setup_3016'] = "Mitglieder";
 $locale['setup_3018'] = "News";
 $locale['setup_3019'] = "Paneele";
 $locale['setup_3020'] = "Galerie-Alben";
-$locale['setup_3021'] = "Server Informationen";
+$locale['setup_3021'] = "Server-Info";
 $locale['setup_3022'] = "Umfragen";
 $locale['setup_3023'] = "Seiten links";
 $locale['setup_3024'] = "Smileys";
@@ -309,13 +309,6 @@ $locale['setup_1700'] = "Das Setup ist abgeschlossen";
 $locale['setup_1701'] = "PHPFusion 9 ist jetzt einsatzbereit. Klicken Sie auf Fertigstellen, um die Datei config_temp.php in die config.php<br/> umzuschreiben";
 $locale['setup_1702'] = "<strong>Hinweis: Nachdem Sie Ihre Seite betreten haben, sollten Sie die Datei /install.php löschen und Ihre config.php aus Sicherheitsgründen auf 0644 zurücksetzen.</strong>";
 $locale['setup_1703'] = "Vielen Dank, dass Sie sich für PHPFusion entschieden haben.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "E-Mail Vorlagen";

@@ -61,10 +61,10 @@ $locale['u115'] = "Kalba";
 $locale['u116'] = "Šioje grupėje nėra narių.";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "Vartotojo varde yra.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Neleistini simboliai vartotojo varde.";
 $locale['u121'] = "Toks vartotojo vardas jau užimtas.";
-$locale['u122'] = "Vartotojo vardas negali būti paliktas tuščias.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Klaidingas el. pašto adresas.";
 $locale['u124'] = "Jūsų el. pašto adresas ar jo domenas įtrauktas į šio tinklapio juodąjį sąrašą.";
 $locale['u125'] = "Toks el. pašto adresas jau naudojamas.";

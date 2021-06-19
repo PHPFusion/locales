@@ -294,8 +294,6 @@ $locale['global_409'] = "Denne konto er blevet udelukket af sikkerhedsårsager."
 $locale['global_410'] = "Begrundelsen er: ";
 $locale['global_411'] = "Denne konto er blevet lukket.";
 $locale['global_412'] = "Denne konto er blevet anonymiseret, sandsynligvis på grund af manglende aktivitet.";
-$locale['global_413'] = "Brugernavn er tilgængeligt";
-$locale['global_414'] = "Brugernavn ikke tilgængeligt";
 // Flood control
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
 $locale['global_441'] = "Din konto på [SITENAME] er blevet udelukket";
@@ -387,6 +385,8 @@ $locale['add'] = "Tilføj";
 $locale['save'] = "Gem";
 $locale['save_changes'] = "Gem ændringer";
 $locale['save_and_close'] = "Gem og luk";
+$locale['save_settings'] = "Gem indstillinger";
+$locale['settings_updated'] = "Opsætning er opdateret";
 $locale['confirm'] = "Bekræft";
 $locale['update'] = "Opdater";
 $locale['updated'] = "Opdateret";
@@ -459,6 +459,7 @@ $locale['preview'] = "Vis";
 $locale['custom'] = "Tilpas";
 $locale['submit'] = "Foreslå";
 $locale['submissions'] = "Brugerforslag";
+$locale['submit_access'] = "Adgang til Indsend side";
 $locale['categories'] = "Kategorier";
 // Alignment
 $locale['left'] = "Venstre";

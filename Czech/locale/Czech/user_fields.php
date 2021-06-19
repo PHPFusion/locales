@@ -61,7 +61,7 @@ $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistují žádní členové skupiny.";
 $locale['u117'] = "Žádné skupiny uživatelů.";
 // User name and email
-$locale['u119'] = "Uživatelské jméno obsahuje.";
+$locale['u119'] = "Uživatelské jméno je zakázáno.";
 $locale['u120'] = "Uživatelské jméno obsahuje neplatné znaky.";
 $locale['u121'] = "Zvolené uživatelské jméno již používá jiný uživatel.";
 $locale['u122'] = "Uživatelské jméno nesmí zůstat prázdné.";

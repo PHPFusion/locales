@@ -84,6 +84,12 @@ $locale['df_422'] = "Eroare necunoscut&#259;";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Fi&#351;ierele &#238;nc&#259;rcate au dep&#259;&#351;it limita maxim&#259;. Te rog &#238;ncearc&#259; din nou &#351;i ata&#351;eaz&#259; mai putine fi&#351;iere.";
 
+$locale['error_rate'] = "Te rog introdu un procent.";
+$locale['error_type'] = "Te rog introdu un tip de extensie.";
+$locale['error_width'] = "Te rog introdu l&#259;&#355;imea";
+$locale['error_height'] = "Te rog introdu &#238;n&#259;l&#355;imea";
+$locale['error_value'] = "Te rog introdu o valoare";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

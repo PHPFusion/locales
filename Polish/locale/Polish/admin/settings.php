@@ -44,12 +44,11 @@ $locale['433'] = "mysite.com";
 $locale['434'] = "mojfolder";
 $locale['435'] = "Wyklucz panele powyżej górnego:";
 $locale['436'] = "Wyklucz panele poniżej dolnego:";
-$locale['437'] = "Włącz Bootstrap";
+
 $locale['438'] = "URL przyjazny wyszukiwarkom (SEF):";
 $locale['439'] = "Normalizuj Friendly URL:";
 $locale['440'] = "Włącz tryb debugowania SEO:";
-$locale['441'] = "Włącz Entypo";
-$locale['442'] = "Włącz Font-Awesome";
+
 $locale['443a'] = "Wyklucz panele użytkownika 1";
 $locale['443b'] = "Wyklucz panele użytkownika 2";
 $locale['443c'] = "Wyklucz panele użytkownika 3";
@@ -67,7 +66,7 @@ $locale['450'] = "Czas i data";
 $locale['451'] = "Krótki format daty:";
 $locale['452'] = "Długi format daty:";
 $locale['453'] = "Format daty forum:";
-$locale['454'] = "Format daty w podnagłówku:";
+
 $locale['455'] = "-- Wybierz format --";
 $locale['456'] = "Strefa czasowa gości";
 $locale['457'] = "Format daty w aktualności i artykułach:";
@@ -110,8 +109,7 @@ $locale['651'] = "Lista przekleństw:";
 $locale['652'] = "Wprowadzaj każde słowo w osobnej linii.";
 $locale['653'] = "Pozostaw puste, jeśli nie jest wymagane.";
 $locale['654'] = "Zastępowanie przekleństw:";
-$locale['655'] = "Zezwolić gościom na publikowanie postów?";
-$locale['656'] = "Włączyć awatary przy komentarzach?";
+
 $locale['657'] = "Tryb konserwacji:";
 $locale['658'] = "Komunikat trybu konserwacji:";
 $locale['659'] = "Włączyć filtr przekleństw?";
@@ -146,7 +144,11 @@ $locale['669'] = "Aktualności";
 $locale['669b'] = "Liczba wpisów na stronę";
 $locale['669c'] = "Liczba aktualności na stronę";
 $locale['670'] = "Powinna być nieparzystą liczbą";
-$locale['671'] = "Włączyć system komentarzy?";
+
+$locale['670a'] = "Pobrano pakiet językowy %s.";
+$locale['670b'] = "Pakiet językowy";
+$locale['670c'] = "plik";
+
 $locale['672'] = "Włączyć system ocen?";
 $locale['673'] = "Ukryj profile użytkowników przed niezalogowanymi";
 $locale['674'] = "Port SMTP";
@@ -159,9 +161,7 @@ $locale['680'] = "Automatyczna blokada zbyt dużej aktywności";
 $locale['681'] = "Konserwacja";
 $locale['682'] = "Ustawienia zbyt dużej aktywności";
 $locale['683'] = "Ustawienia zabezpieczeń";
-$locale['684'] = "Sortowanie komentarzy";
-$locale['685'] = "Rosnąco";
-$locale['686'] = "Malejąco";
+
 $locale['687'] = "Przekleństwa";
 $locale['688'] = "Wyświetl czas renderowania";
 $locale['689'] = "Tak(wszyscy odwiedzający)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Zezwól na wykonanie PHP";
 $locale['695'] = "UWAGA! Zezwalanie wykonania PHP otworzy system do wrażliwości SQL.";
 $locale['696'] = "Proszę wprowadzić swój publiczny i prywatny klucz reCAPTCHA!";
-
-$locale['913'] = "Liczba komentarzy na stronę";
 
 $locale['955'] = "Oryginalny";
 $locale['956'] = "Kwadrat";
@@ -250,11 +248,6 @@ $locale['1030'] = "Utwórz meta tagi OpenGraph dla sieci społecznościowych";
 $locale['1031'] = "Zezwalaj na indeksowanie adresów URL w kodach BB";
 $locale['1032'] = "Zezwalaj na indeksowanie adresów URL w profilach użytkowników";
 
-$locale['error_rate'] = "Proszę wybrać ocenę.";
-$locale['error_type'] = "Proszę wprowadzić typ rozszerzenia.";
-$locale['error_width'] = "Proszę wprowadzić szerokość.";
-$locale['error_height'] = "Proszę wprowadzić wysokość.";
-$locale['error_value'] = "Proszę wprowadzić wartość.";
 $locale['blog_description'] = "Ustawienia konfiguracyjne dla systemu wpisów na blogu";
 $locale['news_description'] = "Ustawienia konfiguracyjne dla systemu aktualności";
 $locale['forum_description'] = "Ustawienia konfiguracyjne dla systemu forum";

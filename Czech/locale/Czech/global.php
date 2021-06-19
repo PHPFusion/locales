@@ -295,8 +295,6 @@ $locale['global_409'] = "Tento účet byl z bezpečnostních důvodů zakázán.
 $locale['global_410'] = "Důvodem je: ";
 $locale['global_411'] = "Tento účet byl zrušen.";
 $locale['global_412'] = "Tento účet byl anonymizovaný, pravděpodobně kvůli nečinnosti.";
-$locale['global_413'] = "Uživatelské jméno je k dispozici";
-$locale['global_414'] = "Uživatelské jméno není k dispozici";
 // Flood control
 $locale['global_440'] = "Automatický zákaz od kontroly přetečení";
 $locale['global_441'] = "Váš účet na [SITENAME] byl zakázán";
@@ -389,6 +387,8 @@ $locale['add'] = "Přidat";
 $locale['save'] = "Uložit";
 $locale['save_changes'] = "Uložit změny";
 $locale['save_and_close'] = "Uložit a Zavřít";
+$locale['save_settings'] = "Uložit nastavení";
+$locale['settings_updated'] = "Nastavení bylo úspěšně aktualizováno";
 $locale['confirm'] = "Potvrdit";
 $locale['update'] = "Aktualizovat";
 $locale['updated'] = "Aktualizováno";
@@ -461,6 +461,7 @@ $locale['preview'] = "Náhled";
 $locale['custom'] = "Vlastní";
 $locale['submit'] = "Odoslat";
 $locale['submissions'] = "Na schválení";
+$locale['submit_access'] = "Přístup ke stránce Přidat";
 $locale['categories'] = "Kategorie";
 // Alignment
 $locale['left'] = "Vlevo";

@@ -295,8 +295,6 @@ $locale['global_409'] = "Ce compte a été banni pour des raisons de sécurité.
 $locale['global_410'] = "La raison est : ";
 $locale['global_411'] = "Ce compte a été annulé.";
 $locale['global_412'] = "Ce compte a été anonymisé, probablement à cause de l'inactivité.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Interdiction automatique par contrôle d'inondations";
 $locale['global_441'] = "Votre compte sur [SITENAME] a été banni";
@@ -389,6 +387,8 @@ $locale['add'] = "Ajouter";
 $locale['save'] = "Sauvegarder";
 $locale['save_changes'] = "Enregistrer les Modifications";
 $locale['save_and_close'] = "Enregistrer et fermer";
+$locale['save_settings'] = "Enregistrer les paramètres";
+$locale['settings_updated'] = "Paramètres mis à jour avec succès";
 $locale['confirm'] = "Confirmer";
 $locale['update'] = "Mise à jour";
 $locale['updated'] = "Mis à jour";
@@ -461,6 +461,7 @@ $locale['preview'] = "Aperçu";
 $locale['custom'] = "Personnaliser";
 $locale['submit'] = "Soumettre";
 $locale['submissions'] = "Contributions";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Catégories";
 // Alignment
 $locale['left'] = "Gauche";

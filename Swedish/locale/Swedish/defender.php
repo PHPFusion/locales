@@ -84,6 +84,12 @@ $locale['df_422'] = "Okänt fel (Query)";
 $locale['df_423'] = "Filen laddades inte upp ordentligt. Försök igen";
 $locale['df_424'] = "Aktuella uppladdningsfiler är mer än maxgränsen. Försök igen och bifoga färre filer.";
 
+$locale['error_rate'] = "Vänligen ange en kurs.";
+$locale['error_type'] = "Vänligen ange tilläggstyp.";
+$locale['error_width'] = "Vänligen ange bredd.";
+$locale['error_height'] = "Vänligen ange höjd.";
+$locale['error_value'] = "Var vänlig och skriv in ett värde.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

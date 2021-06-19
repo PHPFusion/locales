@@ -32,7 +32,7 @@ $locale['PH'] = "Galeri";
 $locale['B'] = "Kara Liste";
 $locale['C'] = "Yorumlar";
 $locale['DB'] = "Veritabanı Yedekleme";
-$locale['PI'] = "PHP Bilgisi";
+$locale['PI'] = "Server Info";
 $locale['PO'] = "Anketler";
 $locale['SL'] = "Site Bağlantıları";
 $locale['SU'] = "Gönderimler";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Arama Dizesi Çok Kısa';
 $locale['search_msg_104'] = 'Sonuç Bulunamadı';
 
 $locale['deprecated_section'] = 'Bu bölüm kullanımdan kaldırılmıştır. Artık bunu önermiyoruz ve yakında kaldırmayı planlıyoruz.';
-$locale['new_update_avalaible'] = "Yeni bir [LINK]PHPFusion v[VERSION] güncellemesi [/LINK] mevcut. Lütfen güncelle!";
+$locale['new_update_avalaible'] = "A new PHPFusion v%s update is available!";
+$locale['update_now'] = "Update now";

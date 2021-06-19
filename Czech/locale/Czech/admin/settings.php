@@ -44,12 +44,11 @@ $locale['433'] = "mojestránka.cz";
 $locale['434'] = "mojesložka";
 $locale['435'] = "Vyloučit horní panely:";
 $locale['436'] = "Vyloučit dolní panely:";
-$locale['437'] = "Povolit Bootstrap";
+
 $locale['438'] = "URL adresa přátelská pro vyhledávače (SEF):";
 $locale['439'] = "Normalizovat hezké adresy URL:";
 $locale['440'] = "Povolit režim ladění SEO:";
-$locale['441'] = "Povolit Entypo";
-$locale['442'] = "Povolit Font-Awesome";
+
 $locale['443a'] = "Vypnout uživatel 1 panely";
 $locale['443b'] = "Vypnout uživatel 2 panely";
 $locale['443c'] = "Vypnout uživatel 3 panely";
@@ -67,7 +66,7 @@ $locale['450'] = "Čas a datum";
 $locale['451'] = "Krátký formát data:";
 $locale['452'] = "Dlouhý formát data:";
 $locale['453'] = "Formát data ve fóru:";
-$locale['454'] = "Formát data v podzáhlaví:";
+
 $locale['455'] = "-- Vyberte formát --";
 $locale['456'] = "Časový posun hosty";
 $locale['457'] = "Formát data pro novinky a články:";
@@ -110,8 +109,7 @@ $locale['651'] = "Seznam špatných slov:";
 $locale['652'] = "Zadejte jedno slovo na řádek.";
 $locale['653'] = "Ponechte prázdné, pokud není požadováno.";
 $locale['654'] = "Filtrované slova nahradit:";
-$locale['655'] = "Umožnit hostům publikovat příspěvky?";
-$locale['656'] = "Povolit avatar v komentářích?";
+
 $locale['657'] = "Údržbový mód:";
 $locale['658'] = "Zpráva módu údržby:";
 $locale['659'] = "Povolit filtr špatných slov?";
@@ -146,7 +144,11 @@ $locale['669'] = "Novinky";
 $locale['669b'] = "Položky blogu na stránku";
 $locale['669c'] = "Položky novinky na stránku";
 $locale['670'] = "Mělo by to být liché číslo";
-$locale['671'] = "Povolit systém komentářů?";
+
+$locale['670a'] = "Jazykový balíček %s byl stažen.";
+$locale['670b'] = "Jazykový balíček";
+$locale['670c'] = "Stáhnout";
+
 $locale['672'] = "Povolit systém hodnocení?";
 $locale['673'] = "Skrýt uživatelské profily pro veřejnost";
 $locale['674'] = "SMTP Port";
@@ -159,9 +161,7 @@ $locale['680'] = "Automatický ban zahlcení";
 $locale['681'] = "Údržba";
 $locale['682'] = "Nastavení zahlcení";
 $locale['683'] = "Nastavení bezpečnosti";
-$locale['684'] = "Řazení komentářů";
-$locale['685'] = "Vzestupně";
-$locale['686'] = "Sestupně";
+
 $locale['687'] = "Sprostá slova";
 $locale['688'] = "Zobrazit čas renderování";
 $locale['689'] = "Ano (všichni návštěvníci)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "Povolit spuštění PHP";
 $locale['695'] = "VAROVÁNÍ! Povolením provádění PHP se systém otevře do zranitelných míst SQL.";
 $locale['696'] = "Zadejte prosím svůj veřejný a soukromý klíč reCAPTCHA!";
-
-$locale['913'] = "Celkem komentářů na stránku";
 
 $locale['955'] = "Originál";
 $locale['956'] = "Čtverec";
@@ -250,11 +248,6 @@ $locale['1030'] = "Vytvořit OpenGraph meta značky pro sociální sítě";
 $locale['1031'] = "Povolit indexování URL adres v BB kódech";
 $locale['1032'] = "Povolit indexování URL adres v uživatelských profilech";
 
-$locale['error_rate'] = "Zadejte prosím hodnotu.";
-$locale['error_type'] = "Zadejte prosím typ rozšíření.";
-$locale['error_width'] = "Zadejte šířku.";
-$locale['error_height'] = "Zadejte prosím výšku.";
-$locale['error_value'] = "Zadejte prosím hodnotu.";
 $locale['blog_description'] = "Konfigurační nastavení pro blog systém";
 $locale['news_description'] = "Konfigurační nastavení pro systém novinek";
 $locale['forum_description'] = "Konfigurační nastavení pro fórum systém";

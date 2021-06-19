@@ -32,7 +32,7 @@ $locale['PH'] = "Galleri";
 $locale['B'] = "Blacklist";
 $locale['C'] = "Kommentarer";
 $locale['DB'] = "Database sikkerhedskopi";
-$locale['PI'] = "PHP-info";
+$locale['PI'] = "Server info";
 $locale['PO'] = "Brugerafstemninger";
 $locale['SL'] = "Interne links";
 $locale['SU'] = "Brugerforslag";
@@ -128,4 +128,5 @@ $locale['search_msg_103'] = 'Søgeudtryk er for kort';
 $locale['search_msg_104'] = 'Der er ikke fundet nogen resultater';
 
 $locale['deprecated_section'] = 'Dette afsnit er udfaset. Vi anbefaler det ikke længere og planlægger at fjerne det snart.';
-$locale['new_update_avalaible'] = "En ny [LINK]PHPFusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";
+$locale['new_update_avalaible'] = "En ny PHPFusion v%s opdatering er tilgængelig!";
+$locale['update_now'] = "Opdater nu";

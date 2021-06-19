@@ -61,10 +61,10 @@ $locale['u115'] = "Dil";
 $locale['u116'] = "Hiç grup üyeleri yok.";
 $locale['u117'] = "Kullanıcı grubu yok.";
 // User name and email
-$locale['u119'] = "Kullanıcı adı içeriyor.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Kullanıcı adı geçersiz karakterler içeriyor.";
 $locale['u121'] = "Seçilen kullanıcı adı başka bir kullanıcı tarafından zaten alınmış.";
-$locale['u122'] = "Kullanıcı Adı boş bırakılamaz.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "E-posta adresiniz geçerli görünmüyor.";
 $locale['u124'] = "E-posta adresiniz veya e-posta alanınız kara listeye alınmış gibi görünüyor.";
 $locale['u125'] = "E-posta adresi başka bir kullanıcı tarafından zaten kayıtlı.";

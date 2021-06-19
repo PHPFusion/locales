@@ -61,10 +61,10 @@ $locale['u115'] = "Idioma";
 $locale['u116'] = "Não há membros do grupo.";
 $locale['u117'] = "Não há grupos de utilizadores.";
 // User name and email
-$locale['u119'] = "O nome de utilizador contém.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "O nome de utilizador contém caractéres inválidos.";
 $locale['u121'] = "O nome de usuário escolhido já está sendo usado por outro utilizador.";
-$locale['u122'] = "O nome de utilizador não pode ser deixado em branco.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Endereço de email não parece ser válido.";
 $locale['u124'] = "Seu endereço de e-mail ou domínio de e-mail parece estar na lista negra.";
 $locale['u125'] = "Este endereço de email já está associado a outra conta.";

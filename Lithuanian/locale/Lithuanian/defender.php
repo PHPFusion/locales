@@ -84,6 +84,12 @@ $locale['df_422'] = "Nežinoma klaida (Užklausa)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Bandomi įkelti failai užima per daug vietos. Prašome bandyti dar kartą su mažiau failų.";
 
+$locale['error_rate'] = "Prašom įvesti dažnį.";
+$locale['error_type'] = "Prašom nurodyti papildinio tipą.";
+$locale['error_width'] = "Prašom įvesti plotį.";
+$locale['error_height'] = "Prašom įvesti aukštį.";
+$locale['error_value'] = "Prašom įvesti reikšmę.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

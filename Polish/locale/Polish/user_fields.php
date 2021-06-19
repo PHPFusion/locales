@@ -61,10 +61,10 @@ $locale['u115'] = "Język";
 $locale['u116'] = "Brak użytkowników w tej grupie.";
 $locale['u117'] = "Brak grup użytkowników.";
 // User name and email
-$locale['u119'] = "Nazwa użytkownika zawiera.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Nazwa użytkownika zawiera nieprawidłowe znaki.";
 $locale['u121'] = "Wybrana nazwa użytkownika jest już zajęta przez innego użytkownika.";
-$locale['u122'] = "Nazwa użytkownika nie może pozostać pusta.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Twój adres e-mail nie jest poprawny.";
 $locale['u124'] = "Twój adres e-mail lub domena e-mail występuje na czarnej liście.";
 $locale['u125'] = "Adres e-mail jest już zarejestrowany przez innego użytkownika.";

@@ -84,6 +84,12 @@ $locale['df_422'] = "Onbekende fout (Query)";
 $locale['df_423'] = "Bestand is niet correct geuploaded. Probeer a.u.b. nogmaals";
 $locale['df_424'] = "Huidige bestandsgrootte upload is groter dan de maximale limiet. Voeg a.u.b. minder bestanden toe en probeer nogmaals.";
 
+$locale['error_rate'] = "Geef a.u.b. een snelheid.";
+$locale['error_type'] = "Voer a.u.b. een extensie in.";
+$locale['error_width'] = "Voer a.u.b. een breedte in.";
+$locale['error_height'] = "Voer a.u.b. een hoogte in.";
+$locale['error_value'] = "Geef a.u.b. een waarde in.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

@@ -296,8 +296,6 @@ $locale['global_409'] = "Kontoen har blitt utestengt av sikkerhetsgrunner.";
 $locale['global_410'] = "Grunnen til dette er: ";
 $locale['global_411'] = "Kontoen har blitt kanselert.";
 $locale['global_412'] = "Denne konto har blitt anonymisert, sannsynligvis på grunn av inaktivitet.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatisk utestengelse av Flood Kontroll";
 $locale['global_441'] = "Your account on [SITENAME] has been banned";
@@ -390,6 +388,8 @@ $locale['add'] = "Add";
 $locale['save'] = "Save";
 $locale['save_changes'] = "Save Changes";
 $locale['save_and_close'] = "Save and Close";
+$locale['save_settings'] = "Lagre innstillinger";
+$locale['settings_updated'] = "Innstillinger oppdatert";
 $locale['confirm'] = "Confirm";
 $locale['update'] = "Update";
 $locale['updated'] = "Updated";
@@ -462,6 +462,7 @@ $locale['preview'] = "Preview";
 $locale['custom'] = "Custom";
 $locale['submit'] = "Submit";
 $locale['submissions'] = "Brukerforslag";
+$locale['submit_access'] = "Access to Submit page";
 $locale['categories'] = "Kategorier";
 // Alignment
 $locale['left'] = "Left";

@@ -44,12 +44,11 @@ $locale['433'] = "siteniz.com";
 $locale['434'] = "Klasörüm";
 $locale['435'] = "Üst Panellerin Üstünde Hariç Tut:";
 $locale['436'] = "Alt Panellerin Altında Hariç Tut:";
-$locale['437'] = "Bootstrap Etkinleştirmesi";
+
 $locale['438'] = "Arama Motoru Dostu URL (SEF):";
 $locale['439'] = "Kullanıcı Dostu URL’leri Normalleştirin:";
 $locale['440'] = "SEO Hata Ayıklama Modu Etkinleştirmesi:";
-$locale['441'] = "Entypo Etkinleştirmesi";
-$locale['442'] = "Font-Awesome Etkinleştirmesi";
+
 $locale['443a'] = "Kullanıcı 1 Panelleri Hariç Tut";
 $locale['443b'] = "Kullanıcı 2 Panelleri Hariç Tut";
 $locale['443c'] = "Kullanıcı 3 Panelleri Hariç Tut";
@@ -67,7 +66,7 @@ $locale['450'] = "Zaman ve Tarih";
 $locale['451'] = "Kısa Tarih Biçimi:";
 $locale['452'] = "Uzun Tarih Biçimi:";
 $locale['453'] = "Forum Tarih Biçimi:";
-$locale['454'] = "Alt-Üstbilgi Tarih Biçimi:";
+
 $locale['455'] = "-- Bir Biçim Seçin --";
 $locale['456'] = "Konuklar Zaman Dengesi";
 $locale['457'] = "Haberler &amp; Makaleler Tarih Biçimi:";
@@ -110,8 +109,7 @@ $locale['651'] = "Kötü Kelimeler Listesi:";
 $locale['652'] = "Her Satıra Bir Kelime Girin.";
 $locale['653'] = "Gerekli Değilse Boş Bırakın.";
 $locale['654'] = "Kötü Kelime Değiştirmesi:";
-$locale['655'] = "Konukların Mesaj Göndermesine Izin Verilsin Mi?";
-$locale['656'] = "Avatar Yorumları Etkinleştirilsin Mi?";
+
 $locale['657'] = "Bakım Modu:";
 $locale['658'] = "Bakım Modu Mesajı:";
 $locale['659'] = "Kötü Kelimeler Filtresi Etkinleştirilsin Mi?";
@@ -146,7 +144,11 @@ $locale['669'] = "Haber";
 $locale['669b'] = "Sayfa Başına Blog Öğesi";
 $locale['669c'] = "Sayfa Başına Haber Öğeleri";
 $locale['670'] = "Tek Sayı Olmalı";
-$locale['671'] = "Yorum Sistemi Etkinleştirilsin Mi?";
+
+$locale['670a'] = "Language pack %s has been downloaded.";
+$locale['670b'] = "Language pack";
+$locale['670c'] = "Dosya";
+
 $locale['672'] = "Derecelendirme Sistemini Etkinleştirilsin Mi?";
 $locale['673'] = "Kullanıcı Profillerini Herkese Gizle";
 $locale['674'] = "SMTP Bağlantı Noktası";
@@ -159,9 +161,7 @@ $locale['680'] = "Akın Saldırısı Otomatik Yasaklaması";
 $locale['681'] = "Bakım";
 $locale['682'] = "Akın Saldırısı Ayarları";
 $locale['683'] = "Güvenlik Ayarları";
-$locale['684'] = "Yorumlar Sıralaması";
-$locale['685'] = "Artan";
-$locale['686'] = "Azalan";
+
 $locale['687'] = "Kötü Kelimeler";
 $locale['688'] = "İşleme Zamanını Göster";
 $locale['689'] = "Evet (Tüm Ziyaretçiler)";
@@ -172,8 +172,6 @@ $locale['693'] = "Captcha";
 $locale['694'] = "PHP Yürütmesine İzin Ver";
 $locale['695'] = "UYARI! PHP'nin Çalıştırılmasına İzin Verilmesi, Sistemin SQL Açıklarına Karşı Açılmasına İzin Verecektir.";
 $locale['696'] = "Lütfen Genel Ve Özel reCAPTCHA Anahtarınızı Girin!";
-
-$locale['913'] = "Sayfa Başına Temel Yorumlar";
 
 $locale['955'] = "Orijinal";
 $locale['956'] = "Kare";
@@ -250,11 +248,6 @@ $locale['1030'] = "Sosyal Ağlar Için Opengraph Meta Etiketleri Oluşturun";
 $locale['1031'] = "BB Kodlarında Dizin URL'sine izin ver";
 $locale['1032'] = "Kullanıcı Profillerinde Dizin URL'sine izin ver";
 
-$locale['error_rate'] = "Lütfen Bir Oran Girin.";
-$locale['error_type'] = "Lütfen Uzantı Türü'nü Girin.";
-$locale['error_width'] = "Lütfen Genişlik Değerini Girin.";
-$locale['error_height'] = "Lütfen Yükseklik Değerini Girin.";
-$locale['error_value'] = "Lütfen Bir Değer Girin.";
 $locale['blog_description'] = "Blog sistemi İçin Yapılandırma Ayarları";
 $locale['news_description'] = "Haber Sistemi İçin Yapılandırma Ayarları";
 $locale['forum_description'] = "Forum Sistemi İçin Yapılandırma Ayarları";

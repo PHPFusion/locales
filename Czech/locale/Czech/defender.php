@@ -84,6 +84,12 @@ $locale['df_422'] = "Neznámá chyba (Query)";
 $locale['df_423'] = "Soubor nebyl nahrán správně. Prosím zkuste to znovu";
 $locale['df_424'] = "Aktuální soubory nahrávání jsou vyšší než maximální limit. Zkuste to prosím znovu a připojte méně souborů.";
 
+$locale['error_rate'] = "Zadejte prosím hodnotu.";
+$locale['error_type'] = "Zadejte prosím typ rozšíření.";
+$locale['error_width'] = "Zadejte šířku.";
+$locale['error_height'] = "Zadejte prosím výšku.";
+$locale['error_value'] = "Zadejte prosím hodnotu.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";

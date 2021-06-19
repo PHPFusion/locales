@@ -84,6 +84,12 @@ $locale['df_422'] = "Непозната грешка (Заявка)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Текущите файлове за качване са повече от максималното допустимо. Моля опитайте отново с по-малко файлове.";
 
+$locale['error_rate'] = "Моля въведете честота.";
+$locale['error_type'] = "Моля въведете тип.";
+$locale['error_width'] = "Моля въведете широчина.";
+$locale['error_height'] = "Моля въведете височина.";
+$locale['error_value'] = "Моля въведете стойност.";
+
 // ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha v2";
 $locale['grecaptcha3'] = "Google Recaptcha v3";
