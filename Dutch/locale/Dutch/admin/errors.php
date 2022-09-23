@@ -5,7 +5,7 @@ $locale['ERROR_401'] = "Neem een kijkje in het bestand";
 // Errors table
 $locale['ERROR_410'] = "Fout";
 $locale['ERROR_411'] = "Op Pagina";
-$locale['ERROR_412'] = "Gebruiker";
+$locale['ERROR_412'] = "Gebruikers";
 $locale['ERROR_413'] = "Datum";
 $locale['ERROR_414'] = "Status";
 $locale['ERROR_415'] = "Regel:";
