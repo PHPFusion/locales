@@ -1,6 +1,6 @@
 <?php
-$locale['s400'] = "Odkazy stránky";
-$locale['s401'] = "Odkazy stránky";
+$locale['s400'] = "Odkazy v menu";
+$locale['s401'] = "Odkazy v menu";
 $locale['s402'] = "odkazov";
 $locale['s403'] = "nájdené v";
 $locale['s404'] = "Názov odkazu stránky";
