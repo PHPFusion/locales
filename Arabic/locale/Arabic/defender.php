@@ -84,8 +84,15 @@ $locale['df_422'] = "خطأ غير معروف (Query)";
 $locale['df_423'] = "لم يتم تحميل الملف بشكل صحيح. يرجى المحاولة مرة أخرى";
 $locale['df_424'] = "تحميل الملفات الحالية هي أكثر من الحد الأقصى. يرجى المحاولة مرة أخرى وإرفاق ملفات أقل.";
 
-// ReCaptcha2
+$locale['error_rate'] = " من فضلك أدخل تقييماً.";
+$locale['error_type'] = " من فضلك أدخل نوع إمتداد .";
+$locale['error_width'] = " من فضلك أدخل قياس العرض .";
+$locale['error_height'] = " من فضلك أدخل قياس الإرتفاع .";
+$locale['error_value'] = " من فضلك أدخل قيمة .";
+
+// ReCaptcha
 $locale['grecaptcha'] = "ريكابتشا جوجل";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "موديول حقل ريكابتشا جوجل";
 $locale['grecaptcha_placeholder_1'] = "مفتاح الموقع من جوجل";
 $locale['grecaptcha_placeholder_2'] = "المفتاح السري من جوجل";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "داكن";
 $locale['grecaptcha_0103'] = "نوع المصادقة";
 $locale['grecaptcha_0103a'] = "نص";
 $locale['grecaptcha_0103b'] = "صوتي";
+$locale['grecaptcha_0104'] = "النتيجة";
 $locale['grecaptcha_warn'] = "من فضلك أدخل مفتاح ريكابتشا العام والخاص الخاصين بك";
