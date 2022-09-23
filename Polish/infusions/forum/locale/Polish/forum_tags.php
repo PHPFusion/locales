@@ -1,5 +1,5 @@
 <?php
-$locale['forum_tag_0100'] = "Tagi forum";
+$locale['forum_tag_0100'] = "Tagi na forum";
 $locale['forum_tag_0101'] = "Tagi są używane do organizowania wątków i pomagają Ci w mikroorganizacji tematów dyskusyjnych.";
 $locale['forum_tag_0102'] = "Bieżący tag forum";
 $locale['forum_tag_0103'] = "Utwórz tag";
@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Dyskusje dotyczące zarządzania tą stroną intern
 $locale['forum_tag_0200'] = "Tytuł tagu";
 $locale['forum_tag_0201'] = "Opis tagu";
 $locale['forum_tag_0202'] = "Kolor tagu";
+$locale['forum_tag_0202a'] = "Ikona tagu";
 $locale['forum_tag_0203'] = "Język tagu";
 $locale['forum_tag_0204'] = "Status tagu";
 $locale['forum_tag_0205'] = "Ten tag jest aktywny";
