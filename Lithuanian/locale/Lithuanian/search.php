@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Paieška [SITENAME]";
 $locale['401'] = "Ieškoti:";
-$locale['402'] = "Ieškoti";
+$locale['402'] = "Paieška";
 $locale['403'] = "Ieškoti bet kurio iš žodžių";
 $locale['404'] = "Ieškoti visų žodžių";
 $locale['405'] = "Kur:";
