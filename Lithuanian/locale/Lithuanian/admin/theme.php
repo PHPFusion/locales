@@ -1,16 +1,17 @@
 <?php
-$locale['theme_1000'] = "Dizainų administravimas";
+$locale['theme_1000'] = "Dizaino keitimai";
 $locale['theme_1001'] = "Dizaino pavadinimas:";
 $locale['theme_1002'] = "Dizainų ruošiniai";
 $locale['theme_1003'] = "Užkrauta";
 $locale['theme_1004'] = "Užkrauti";
 $locale['theme_1005'] = "Tvarkyti dizainą";
 $locale['theme_1006'] = "Esanti aktyvus dizainas";
-$locale['theme_1007'] = "Įkelti dizaino ZIP failą";
+
 $locale['theme_1008'] = "Įkelti dizainą";
 $locale['theme_1009'] = "Dizaino stiliaus redagavimas";
-$locale['theme_1010'] = "Esantys dizainai";
-$locale['theme_1011'] = "Įkelti naujus dizainus";
+$locale['theme_1010'] = "Site Themes";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Nustatyti kaip aktyvų";
 $locale['theme_1013'] = "Licenzija:";
 $locale['theme_1014'] = "Versija";
@@ -61,11 +62,11 @@ $locale['theme_2018'] = "Bazinio šrifto dydžiai";
 $locale['theme_2019'] = "Šrifto dydis";
 $locale['theme_2020'] = "Eilučių tarpai";
 $locale['theme_2021'] = "Bazinis šrifto dydis Didelis";
-$locale['theme_2022'] = "Šrifto spalva";
+$locale['theme_2022'] = "Teksto spalva";
 $locale['theme_2023'] = "Bazinis šrifto dydis Mažas";
 $locale['theme_2024'] = "Antraštė ";
 $locale['theme_2025'] = "Šrifto stilius";
-$locale['theme_2026'] = "Nuorodų nustatymai";
+$locale['theme_2026'] = "Nuorodos nustatymai";
 $locale['theme_2027'] = "Bazinė spalva";
 $locale['theme_2028'] = "Spalva užvedus pelytę";
 $locale['theme_2029'] = "Stilius užvedus pelytę";
@@ -119,8 +120,8 @@ $locale['theme_4015'] = "Horizontalaus teksto stilius";
 $locale['theme_4016'] = "Nuorodų stilius";
 
 $locale['theme_5000'] = "Normalus";
-$locale['theme_5001'] = "Ryškus";
-$locale['theme_5002'] = "Pasviręs";
+$locale['theme_5001'] = "Paryškintas";
+$locale['theme_5002'] = "Pakreiptas";
 $locale['theme_5003'] = "Pabrauktas";
 $locale['theme_5004'] = "Ryškus ir pabrauktas";
 $locale['theme_5005'] = "Pasviręs ir ryškus";
@@ -133,17 +134,10 @@ $locale['theme_5010'] = "Vertikalus perėjimas";
 $locale['theme_5011'] = "Spindulinis perėjimas";
 $locale['theme_5012'] = "Įstrižas perėjimas";
 $locale['theme_5013'] = "Išsaugoti ruošinį";
-$locale['theme_success_001'] = "Dizainas įkeltas į dizaino aplanką";
+
 $locale['theme_success_002'] = "Dizainų ruošiniai ištrinti";
 $locale['theme_success_003'] = "Dizainų ruošiniai atnaujinti";
 $locale['theme_success_004'] = "Dizainų ruošiniai pridėti sėkmingai";
 
-$locale['theme_error_001'] = "Dizaino paketas per didelis. Prašome įkelti failą, mažesnį nei %s";
-$locale['theme_error_002'] = "Dizaino paketas netinkamas. Prašome naudoti tik .zip kompresavimą";
-$locale['theme_error_003'] = "Nežinoma įkėlimo klaida";
-$locale['theme_error_004'] = "Dizaino failas nebuvo įkeliamas serverio";
-$locale['theme_error_005'] = "Dizaino failas nebuvo patikrintas. Prašome išpakuoti .zip failą ir bandyti rankiniu būdu įkelti į FTP";
-$locale['theme_error_006'] = "Jūsų serveris nepalaiko ZipArchive. Prašome išpakuoti .zip failą ir bandyti rankiniu būdu įkelti į FTP";
 $locale['theme_error_007'] = "Dizainas negali būti perkurtas dėl šių priežasčių: - Kintamieji nebuvo nustatyti arba forma turi klaidų";
 $locale['theme_error_008'] = "Kompiliavimo klaida. Dizainas nebuvo atnaujintas.";
-$locale['theme_error_009'] = "Failas theme.php nerastas.";
