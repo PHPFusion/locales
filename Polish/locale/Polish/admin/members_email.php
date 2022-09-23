@@ -26,7 +26,7 @@ Aby reaktywować swoje konto, po prostu kliknij poniższy link: [REACTIVATION_LI
 Pozdrawiamy,<br/>
 [SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Twoje konto na [SITENAME] zostało zablokowane";
+$locale['email_ban_subject'] = "Twoje konto [SITENAME] zostało zablokowane";
 $locale['email_ban_message'] = "Witaj [USER_NAME],<br/>
 Twoje konto na [SITENAME] zostało zablokowane przez [ADMIN_USERNAME] z następującego powodu:<br/>
 
@@ -35,7 +35,7 @@ Jeśli chcesz otrzymać więcej informacji o tej blokadzie, skontaktuj się z ad
 Pozdrawiamy,<br/>
 [SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "Twoje konto na [SITENAME] zostało zablokowane";
+$locale['email_secban_subject'] = "Twoje konto [SITENAME] zostało zablokowane";
 $locale['email_secban_message'] = "Witaj [USER_NAME],<br/>
 Twoje konto na [SITENAME] zostało zablokowane przez [ADMIN_USERNAME] z powodu niektórych działań przypisanych do Ciebie lub powiązanych z Twoim kontem uznanych za zagrożenie dla bezpieczeństwa witryny.<br/>
 
