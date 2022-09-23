@@ -39,6 +39,6 @@ $locale['PL_429'] = "Driver de Permalink para %s";
 
 // Other
 $locale['PL_427'] = "Nenhum Permalinks está activado.";
-$locale['PL_428'] = "Permalinks";
+$locale['PL_428'] = "Links Permanentes";
 $locale['seo_htc_warning'] = "Por favor, note que se você alterar quaisquer uma destas configurações, o conteúdo de `.htaccess` será substituído e quaisquer alterações previamente feitas a este ficheiro serão perdidas.";
 $locale['rewrite_disabled'] = "Parece que `mod_rewrite` não está habilitado em seu host. Ativar as urls SEF pode quebrar seu site. Por favor, entre em contacto com seu provedor de hospedagem sobre como activar o `mod_rewrite` no seu host.";
