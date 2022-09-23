@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion Bestands beheerder";
-
+$locale['IMGUP_100'] = "Fusion bestandsbeheerder";
 // Delete Image
-$locale['400'] = "Afbeelding verwijderen";
-$locale['401'] = "Afbeelding verwijderd";
-$locale['402'] = "Terug naar Afbeeldingen Beheer";
-$locale['403'] = "Terug naar Beheerder Index";
+$locale['IMGUP_400'] = "Afbeelding verwijderen";
+$locale['IMGUP_401'] = "Afbeelding verwijderd";
+$locale['IMGUP_402'] = "Terug naar Afbeeldingen Beheer";
+$locale['IMGUP_403'] = "Terug naar Beheerder Index";
 // Upload Image
-$locale['420'] = "Afbeelding uploaden";
-$locale['421'] = "Naam van bestand:";
-$locale['422'] = "Algemene afbeeldingen";
-$locale['423'] = "Afbeeldingen bij artikelen";
-$locale['424'] = "Afbeeldingen bij nieuws";
-$locale['425'] = "Max. bestandsgrootte %s / Toegestane bestandstypes .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Afbeelding ge-upload";
-$locale['427'] = "Afbeeldingen bij nieuwscategorie&euml;n";
-$locale['428'] = "Afbeelding bij Blog";
-$locale['429'] = "Afbeeldingen bij Blog categorie&euml;n";
+$locale['IMGUP_420'] = "Afbeelding uploaden";
+$locale['IMGUP_421'] = "Naam van bestand:";
+$locale['IMGUP_422'] = "Algemene afbeeldingen";
+$locale['IMGUP_423'] = "Afbeeldingen bij artikelen";
+$locale['IMGUP_424'] = "Afbeeldingen bij nieuws";
+$locale['IMGUP_425'] = "Max. bestandsgrootte %s / Toegestane bestandstypen .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Afbeelding ge-upload";
+$locale['IMGUP_427'] = "Afbeeldingen bij nieuwscategorie&euml;n";
+$locale['IMGUP_428'] = "Afbeelding bij Blog";
+$locale['IMGUP_429'] = "Afbeeldingen bij Blog categorie&euml;n";
 // View Image
-$locale['440'] = "Afbeelding bekijken";
-$locale['441'] = "Onbekend bestandsformaat, afbeelding kan niet worden getoond.";
-$locale['442'] = "Deze afbeelding verwijderen";
+$locale['IMGUP_440'] = "Afbeelding bekijken";
+$locale['IMGUP_441'] = "Onbekend bestandsformaat, afbeelding kan niet worden getoond.";
+$locale['IMGUP_442'] = "Deze afbeelding verwijderen";
 // Image Management
-$locale['460'] = "Afbeeldingen";
-$locale['461'] = "Bekijken";
-$locale['463'] = "Deze map is leeg";
-$locale['464'] = "Afbeeldingenlijst voor TinyMCE editor bijwerken";
+$locale['IMGUP_460'] = "Afbeeldingen";
+$locale['IMGUP_461'] = "Bekijken";
+$locale['IMGUP_463'] = "Deze map is leeg";
+$locale['IMGUP_464'] = "Afbeeldingenlijst voor TinyMCE editor bijwerken";
+$locale['IMGUP_465'] = "Afbeeldingenlijst bijgewerkt";
 // Popup Error/Warning Messages
-$locale['470'] = "Deze afbeelding verwijderen?";
+$locale['IMGUP_470'] = "Deze afbeelding verwijderen?";
