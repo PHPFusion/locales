@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Foren Auswahl best&auml;tigen";
 $locale['forum_0397'] = "Es wurden noch keine Foren angelegt.";
 $locale['forum_0398'] = "Nicht m&ouml;glich die Datei herunterzuladen";
 $locale['forum_0399'] = "Belohnung hinzufügen";
-
 $locale['forum_0400'] = "Thread-Bounty wurde aktualisiert. Bitte wählen Sie die Antwort, die mit der Bounty verliehen werden soll";
 
 $locale['forum_0500'] = "Themenvorschau";
@@ -342,6 +341,9 @@ $locale['forum_4109'] = "Thread-Bounty nicht verliehen";
 $locale['forum_4110'] = "Thread Bounty kann nicht an dich selbst gegeben werden.";
 $locale['forum_4120'] = "Es sind keine Forum-ID oder Thread-ID definiert. Bitte definieren Sie eine.";
 $locale['forum_4121'] = "Es gibt keine Aktivitäten in diesem Forum.";
+$locale['forum_4122'] = "Herzlichen Glückwunsch, dass Sie in {%thread_link%} wertvolle Punkte zu dieser Frage erhalten haben.";
+$locale['forum_4123'] = "Wir möchten Sie darüber informieren, dass die ausgewählte Antwort mit den wertvolle Punkte ausgezeichnet wurde. Du kannst die Antwort auf deine wertvolle Punkte {%link_start%}hier sehen.{%link_end%}";
+$locale['forum_4124'] = "Dieses Thema hat noch offene wertvolle Punkte";
 
 $locale['forum_p001'] = "1 Tag";
 $locale['forum_p002'] = "2 Tage";
