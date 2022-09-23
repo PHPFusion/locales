@@ -16,3 +16,4 @@ $locale['news_0016'] = "Es wurden bisher noch keine Kategorien angelegt.";
 $locale['news_0017'] = "Filtern nach";
 $locale['news_0018'] = "Zeige alle Neuigkeiten";
 $locale['news_0019'] = "News Bilder";
+$locale['news_0020'] = "Meistgelesene News";
