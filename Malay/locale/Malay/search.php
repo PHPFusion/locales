@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Search [SITENAME]";
+$locale['400'] = "Carian [SITENAME]";
 $locale['401'] = "Mencari:";
 $locale['402'] = "Cari";
 $locale['403'] = "cari apapun atas kalimat tersebut";
