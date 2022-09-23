@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Tiada Blog didapati";
 $locale['blog_3001'] = "Tiada Kategori";
 $locale['blog_3002'] = "Tiada Blog";
 $locale['blog_3003'] = "Tiada Pengarang";
+$locale['blog_3004'] = "Blog paling dibaca";
 $locale['testimonial_rank'] = "Saya adalah %s halaman web ini";
 $locale['testimonial_location'] = "dan saya tinggal di %s";
 $locale['testimonial_join'] = "Saya telah menjadi ahli laman web ini sejak %s";
