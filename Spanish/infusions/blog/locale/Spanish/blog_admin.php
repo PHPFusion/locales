@@ -23,8 +23,8 @@ $locale['blog_0400'] = "Blogs actuales";
 $locale['blog_0401'] = "Añadir Blog";
 $locale['blog_0402'] = "Editar Blog";
 $locale['blog_0405'] = "Blog";
-$locale['blog_0406'] = "Ajustes de blog";
-$locale['blog_0407'] = "Blog Categorias";
+$locale['blog_0406'] = "Ajustes";
+$locale['blog_0407'] = "Categorías de blog";
 $locale['blog_0408'] = "Actualmente exhibiendo %d de %d total entradas de blog";
 $locale['blog_0409'] = "Añadir Categoría Blog";
 // Blog messages
@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Error desconocido";
 // Blog form
 $locale['blog_0422'] = "Asunto:";
 $locale['blog_0423'] = "Categoría:";
-$locale['blog_0424'] = "sin categorizar";
+$locale['blog_0424'] = "Otras Noticias";
 $locale['blog_0425'] = "Breve fragmento:";
 $locale['blog_0425a'] = "Breve Introducción";
 $locale['blog_0426'] = "Extendido:";
@@ -51,8 +51,8 @@ $locale['blog_0430'] = "Visibilidad:";
 $locale['blog_0431'] = "Guardar como borrador";
 $locale['blog_0432'] = "Hacer este Blog tema pegajoso";
 $locale['blog_0433'] = "Saltos de línea automáticos";
-$locale['blog_0434'] = "Permitir comentarios";
-$locale['blog_0435'] = "Permiten calificaciones";
+$locale['blog_0434'] = "Habilitar comentarios";
+$locale['blog_0435'] = "Habilitar calificaciones";
 $locale['blog_0437'] = "Guardar Blog";
 $locale['blog_0438'] = "borrador";
 $locale['blog_0439'] = "Blog imagen:";
@@ -78,7 +78,7 @@ $locale['blog_0532'] = "Guardar Categoría";
 $locale['blog_0533'] = "Categoría Superior:";
 $locale['blog_0535'] = "No hay categorías definidas blog";
 $locale['blog_0536'] = "Haga clic aquí para subir imágenes categoría";
-$locale['blog_0537'] = "Padres";
+$locale['blog_0537'] = "Parent";
 $locale['blog_0538'] = "Bytes (bytes)";
 $locale['blog_0539'] = "KB (Kilobytes)";
 $locale['blog_0540'] = "MB (Megabytes)";
@@ -90,8 +90,9 @@ $locale['blog_0561'] = "Esta categoría ya existe.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Por favor especifique un tema";
 $locale['blog_0451'] = "¿Borrar este Blog?";
-$locale['blog_0452'] = "%s están deshabilitados para todos los elementos.
-Este ajuste sólo tendrá efecto cuando se habilitan de nuevo.";
+$locale['blog_0452'] = "%s está deshabilitado para todos los elementos.
+
+Esta configuración sólo tendrá efecto cuando se vuelven a habilitar.";
 $locale['blog_0456'] = 'No hay ningún Blog en esta categoría.';
 $locale['blog_0457'] = "Por favor especifique palabras clave";
 $locale['blog_0461'] = 'No hay categorías de Blog definidas.';
@@ -103,7 +104,7 @@ $locale['blog_0460'] = "Todas las entradas de blog";
 $locale['left'] = "Izquierda";
 $locale['center'] = "Centro";
 $locale['right'] = "Derecha";
-$locale['blog_0600'] = "presentaciones de blog";
+$locale['blog_0600'] = "Las presentaciones";
 $locale['blog_0601'] = "presentación imagen";
 $locale['blog_0602'] = "¿Requerido el blog extendida?";
 // Public Submissions Form
