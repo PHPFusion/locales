@@ -1,6 +1,6 @@
 <?php
-$locale['news.php'] = "Novinky";
-$locale['n400'] = "Novinky";
+$locale['news.php'] = "Zprávy";
+$locale['n400'] = "Zprávy";
 $locale['n401'] = "Novinka";
 $locale['n402'] = "novinek";
 $locale['n403'] = "nalezeno v";
