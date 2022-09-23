@@ -1,19 +1,19 @@
 <?php
 $locale['susp00'] = "Leden";
-$locale['susp01'] = "Verbannen";
-$locale['susp02'] = "Niet geactiveerde";
-$locale['susp03'] = "Geschorste";
-$locale['susp04'] = "Veiligheidsverbanning";
+$locale['susp01'] = "Geband";
+$locale['susp02'] = "Nog te activeren";
+$locale['susp03'] = "Geschorst";
+$locale['susp04'] = "Veiligheids Verbanning";
 $locale['susp05'] = "Geannuleerde";
 $locale['susp06'] = "Geanonimiseerde";
-$locale['susp07'] = "Gedeactiveerde";
-$locale['susp08'] = "Inactieve";
+$locale['susp07'] = "Gedeactiveerd";
+$locale['susp08'] = "Inactief";
 $locale['susp10'] = "Herstellen";
-$locale['susp11'] = "Verbannen";
+$locale['susp11'] = "Ban";
 $locale['susp12'] = "Niet actief";
 $locale['susp13'] = "Schorsen";
 $locale['susp14'] = "VeiligheidsBan";
-$locale['susp15'] = "Annuleren";
+$locale['susp15'] = "Afbreken";
 $locale['susp16'] = "Anonimiseren";
 $locale['susp17'] = "Deactiveren";
 $locale['susp18'] = "Inactief";
