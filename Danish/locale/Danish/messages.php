@@ -129,6 +129,7 @@ $locale['628'] = "Var ikke i stand til at aflevere den private besked. Brugerens
 $locale['629'] = "Du kan ikke flytte de valgte beskeder over i den valgte folder, fordi der så vil være for mange beskeder i denne folder.";
 $locale['630'] = " Maksimalt antal beskeder";
 $locale['631'] = "Denne besked blev sendt automatisk af en bot og kræver ikke noget svar.";
+$locale['632'] = "System";
 
 $locale['700'] = "Brugerens indbakke er fuld. Slet indholdet eller opgrader den til status 102 eller 103";
 $locale['701'] = "Afsenders bruger-ID eksisterer ikke i databasen. Afsendelse opgivet.";
