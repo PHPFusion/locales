@@ -5,9 +5,9 @@ $locale['ERROR_401'] = "إلقاء نظرة على الملف";
 // Errors table
 $locale['ERROR_410'] = "خطأ";
 $locale['ERROR_411'] = "في الصفحة";
-$locale['ERROR_412'] = "مستخدم";
+$locale['ERROR_412'] = "المستخدم";
 $locale['ERROR_413'] = "التاريخ";
-$locale['ERROR_414'] = "الحالات";
+$locale['ERROR_414'] = "الحالة";
 $locale['ERROR_415'] = "الخط:";
 $locale['ERROR_416'] = "المستوى:";
 $locale['ERROR_417'] = "عنوان البروتوكول (IP):";
