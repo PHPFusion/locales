@@ -14,7 +14,7 @@ $locale['SL_0020'] = "Bağlantı Adı";
 $locale['SL_0020a'] = "Bağlantı Simgesi";
 $locale['SL_0021'] = "Bağlantı URL'si";
 $locale['SL_0022'] = "Bağlantı Görünürlüğü";
-$locale['SL_0023'] = "Sıra";
+$locale['SL_0023'] = "Düzen";
 $locale['SL_0024'] = "Konumu";
 $locale['SL_0025'] = "Yalnızca Ana Menü Paneli";
 $locale['SL_0026'] = "Ana Menü Paneli ve Üst Menü";
@@ -45,15 +45,15 @@ $locale['SL_0049'] = "Evet, Bağlantılar \"Daha Fazla Göster\" Olarak Gruplans
 
 // Site Links list
 $locale['SL_0050'] = "Bağlantı Adı";
-$locale['SL_0051'] = "Görünürlük";
-$locale['SL_0052'] = "Sıra";
+$locale['SL_0051'] = "Erişim";
+$locale['SL_0052'] = "Düzen";
 $locale['SL_0053'] = "Seçenekler";
 
 $locale['SL_0062'] = "Site Bağlantıları Tanımlanmadı.";
 $locale['SL_0063'] = "Bağlantı Adında BBCode Kullanılsın Mı?";
 $locale['SL_0064'] = "Bunu etkinleştirmek, bağlantı adını BBcodes ile yeniden biçimlendirir";
 
-$locale['SL_0070'] = "Simge";
+$locale['SL_0070'] = "İkon";
 $locale['SL_0071'] = "Yeni Pencere mi?";
 $locale['SL_0072'] = "Menü";
 $locale['SL_0073'] = "Yeniden Sırala";
