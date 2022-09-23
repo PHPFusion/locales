@@ -25,4 +25,4 @@ Kata alauan anda untuk log masuk ke akaun anda di [SITENAME] adalah seperti beri
 Sekian,
 [SITEUSERNAME]";
 $locale['412'] = "Kesalahan didapati, sila cuba sekali lagi.";
-$locale['413'] = "Please enter your email address:";
+$locale['413'] = "Masukkan alamat e-mel anda:";
