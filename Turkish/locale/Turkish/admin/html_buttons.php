@@ -12,7 +12,7 @@ $locale['html_008'] = "Sağa Yasla";
 $locale['html_009'] = "İki Yana Yasla";
 $locale['html_010'] = "Link Ekle";
 $locale['html_011'] = "Resim Ekle";
-$locale['html_012'] = "Ortala";
+$locale['html_012'] = "Merkez";
 $locale['html_013'] = "Küçük";
 $locale['html_014'] = "Küçük 2";
 $locale['html_015'] = "Alt";
@@ -23,7 +23,7 @@ $locale['html_019'] = "Başlıklar";
 $locale['html_020'] = "Satır Sonu";
 
 $locale['texts'] = "Metin";
-$locale['preview'] = "Önizle";
+$locale['preview'] = "Önizleme";
 $locale['word_count'] = "Karakter Sayısı";
 $locale['error_preview'] = "Önizleme Hatası";
 $locale['error_preview_text'] = "Önizleme geçici olarak oluşturulamaz. Lütfen sayfayı yeniden yükleyin ve tekrar deneyin.";
