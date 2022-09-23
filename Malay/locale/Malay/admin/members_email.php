@@ -61,7 +61,7 @@ Jika anda ingin mendapatkan maklumat lanjut tentang pergantungan ini, sila hubun
 Sekian,
 [SITEUSERNAME]";
 
-$locale['email_resend_subject'] = "Re-sent activation link - [SITENAME]";
+$locale['email_resend_subject'] = "Kirim semula pautan pengaktifkan - [SITENAME]";
 $locale['email_resend_message'] = "Hello [USER_NAME],<br/>
 You received this email because you did not activate the email on our site - [SITENAME].<br/>If you do not activate an email within one day, your registration request will be canceled.<br/>
 You have registered with the following information:<br/>Username: [USER_NAME]<br/>
