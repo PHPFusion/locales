@@ -1,17 +1,17 @@
 var pwstrength_locale = {
-    wordMinLength: 'Vaše heslo je príliž krátke',
-    wordMaxLength: 'Vaše heslo je príliš dlhé',
-    wordInvalidChar: 'Vaše heslo obsahuje neplatný znak',
-    wordNotEmail: 'Nepoužívajte Váš email ako Vaše heslo',
-    wordSimilarToUsername: 'Vaše heslo nesmie obsahovať prihlasovacie meno',
-    wordTwoCharacterClasses: 'Použite rôzne druhy znakov',
-    wordRepetitions: 'Príliš veľa opakovaní',
-    wordSequences: 'Vaše heslo obsahuje postupnosť',
-    errorList: 'Chyby:',
-    veryWeak: 'Veľmi slabé',
-    weak: 'Slabé',
+    wordMinLength: 'Your password is too short',
+    wordMaxLength: 'Your password is too long',
+    wordInvalidChar: 'Your password contains an invalid character',
+    wordNotEmail: 'Do not use your email as your password',
+    wordSimilarToUsername: 'Your password cannot contain your username',
+    wordTwoCharacterClasses: 'Use different character classes',
+    wordRepetitions: 'Too many repetitions',
+    wordSequences: 'Your password contains sequences',
+    errorList: 'Errors:',
+    veryWeak: 'Very Weak',
+    weak: 'Weak',
     normal: 'Normálne',
-    medium: 'Stredne silné',
-    strong: 'Silné',
-    veryStrong: 'Veľmi silné'
-}
+    medium: 'Medium',
+    strong: 'Strong',
+    veryStrong: 'Very Strong'
+};
