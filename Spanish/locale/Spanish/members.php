@@ -1,5 +1,5 @@
 <?php
-$locale['MEMB_000'] = "Lista de Miembros";
+$locale['MEMB_000'] = "Lista de miembros";
 $locale['MEMB_001'] = "Avatar";
 $locale['MEMB_002'] = "Nombre de Usuario";
 $locale['MEMB_003'] = "Grupos del Usuario";
