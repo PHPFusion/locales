@@ -26,9 +26,9 @@ $locale['SMLY_424'] = "Попередній перегляд:";
 // Current Smileys
 $locale['SMLY_430'] = "Код";
 $locale['SMLY_431'] = "Зображення";
-$locale['SMLY_432'] = "Значення";
-$locale['SMLY_433'] = "Опції";
-$locale['SMLY_435'] = "Видалити";
+$locale['SMLY_432'] = "Текст";
+$locale['SMLY_433'] = "Параметри";
+$locale['SMLY_435'] = "Неактивний";
 $locale['SMLY_436'] = "Усміхайлики відсутні";
 // Error Message
 $locale['SMLY_437'] = "Будь ласка, введіть код усміхайлика";
