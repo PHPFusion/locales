@@ -30,9 +30,9 @@ $locale['GRP_432'] = "Nume grup";
 $locale['GRP_433'] = "Descriere grup";
 $locale['GRP_434'] = "Salveaz&#259; grup";
 $locale['GRP_435'] = "ID";
-$locale['GRP_436'] = "Imagine";
+$locale['GRP_436'] = "Icon";
 $locale['GRP_437'] = "Ac&#355;iune";
-$locale['GRP_438'] = "Memberi";
+$locale['GRP_438'] = "Membri";
 $locale['GRP_439'] = "Imagine grup";
 // Search/Add Group Users
 $locale['GRP_440'] = "Adaug&#259; utilizatori la grup";
@@ -49,6 +49,6 @@ $locale['GRP_452'] = "Grup curent: ";
 $locale['GRP_460'] = "Grupuri de utilizatori";
 $locale['GRP_461'] = "&#350;terge utilizatorii selecta&#355;i";
 $locale['GRP_462'] = "&#350;terge to&#355;i utilizatorii";
-$locale['GRP_463'] = "Nu exist&#259; utilizatori aloca&#355;i acestui grup.";
+$locale['GRP_463'] = "Nu sunt utilizatori &#238;n acest grup.";
 // Error Messages
 $locale['GRP_464'] = "Te rog introdu un nume de grup";
