@@ -16,7 +16,7 @@ $locale['412'] = "Sauvegarder";
 $locale['413'] = "Annuler l'enregistrement";
 $locale['414'] = "Lu";
 $locale['415'] = "Non lu";
-$locale['416'] = "Supprimer la conversation";
+$locale['416'] = "Supprimer";
 $locale['417'] = "Afficher l'expéditeur avec les lettres :";
 $locale['418'] = "Tous";
 $locale['419'] = "Vous n'avez aucun message privé";
@@ -129,6 +129,7 @@ $locale['628'] = "Impossible d'envoyer le message privé. La boîte de réceptio
 $locale['629'] = "Vous ne pouvez pas déplacer le(s) message(s) sélectionné(s) dans le dossier spécifié, car il dépassera la limite maximale de message.";
 $locale['630'] = " Limite de message";
 $locale['631'] = "Ce message a été envoyé automatiquement par le Bot et ne nécessite aucune réponse.";
+$locale['632'] = "System";
 
 $locale['700'] = "La boîte de réception de l'utilisateur est pleine. Essayez de la supprimer ou mettez à niveau le statut 102 ou 103";
 $locale['701'] = "L'identifiant de l'utilisateur Sender n'existe pas dans la base de données. Séquence interrompue.";
