@@ -1,27 +1,27 @@
 <?php
-$locale['BLS_000'] = "Čierna listina"; //406
+$locale['BLS_000'] = "Čierna listina";
 //Blacklist message
-$locale['BLS_010'] = "Neplatná adresa e-mailu alebo IP.";
-$locale['BLS_011'] = "Pridávanie používateľov do čiernej listiny.";
-$locale['BLS_012'] = "Používateľom upravená čierna listina.";
-$locale['BLS_013'] = "Používateľ bol odstránený z čiernej listiny"; //401
+$locale['BLS_010'] = "Emailová adresa alebo IP adresa musí byť zadaná.";
+$locale['BLS_011'] = "Záznam bol pridaný.";
+$locale['BLS_012'] = "Záznam bol upravený.";
+$locale['BLS_013'] = "Záznam bol odstránený.";
 $locale['BLS_014'] = "Naozaj chcete túto položku odstrániť?";
-$locale['BLS_015'] = "Čierna listina je momentálne prázdna."; //465
-$locale['BLS_016'] = "E-mailová adresa čiernej listiny nie je platným e-mailom."; //405
+$locale['BLS_015'] = "Čierna listina je momentálne prázdna.";
+$locale['BLS_016'] = "Emailová adresa nie je platná.";
 
-$locale['BLS_020'] = "Zablokovať"; //420
-$locale['BLS_021'] = "Upraviť blokovaného užívateľa"; //421
+$locale['BLS_020'] = "Zablokovať";
+$locale['BLS_021'] = "Upraviť blokovaného užívateľa";
 $locale['BLS_022'] = "Pridať užívateľa do čiernej listiny";
 $locale['BLS_023'] = "Momentálne zobrazuje %d z %d celkových položiek čiernej listiny.";
 
-$locale['BLS_030'] = "Info o zablokovaných"; //461
-$locale['BLS_031'] = "Admin"; //467
-$locale['BLS_032'] = "Dátum";  //468
-$locale['BLS_033'] = "Možnosti"; //462
-$locale['BLS_034'] = "Blokované IP adresy: [STRONG]alebo[/STRONG]"; //441
-$locale['BLS_035'] = "Blokované e-mailové adresy"; //442
-$locale['BLS_036'] = "Dôvod zablokovania"; //443
-$locale['BLS_037'] = "Zablokovať užívateľa";  //444
+$locale['BLS_030'] = "Info o zablokovaných";
+$locale['BLS_031'] = "Administrátor";
+$locale['BLS_032'] = "Dátum";
+$locale['BLS_033'] = "Možnosti";
+$locale['BLS_034'] = "Blokované IP adresy: [STRONG]alebo[/STRONG]";
+$locale['BLS_035'] = "Blokované e-mailové adresy";
+$locale['BLS_036'] = "Dôvod zablokovania";
+$locale['BLS_037'] = "Zablokovať užívateľa";
 $locale['BLS_038'] = "Aktualizovať";
 $locale['BLS_039'] = "Označiť všetko";
 
@@ -41,4 +41,4 @@ Môžete vložiť celý e-mail, napr.: <em>foo@bar.com</em>, alebo len doménu, 
 %@domain.tld zakáže akúkoľvek adresu od domain.tld<br/>
 %.domain.tld zakáže všetky subdomény domain.tld<br/>
 %payday% zakáže akúkoľvek adresu, ktorá obsahuje slovo \"payday\" ktoré je veľmi časté na stránkach.<br/>
-domain.tld je alias %@domain.tld aby bol kompatibilný s pravidlami definovanými v v7.<br/>"; //440
+domain.tld je alias %@domain.tld aby bol kompatibilný s pravidlami definovanými v v7.<br/>";
