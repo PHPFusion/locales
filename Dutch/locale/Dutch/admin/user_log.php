@@ -1,7 +1,7 @@
 <?php
-$locale['UL_001'] = "Gebruiker Log";
+$locale['UL_001'] = "Gebruikers Log";
 $locale['UL_002'] = "Datum";
-$locale['UL_003'] = "Gebruiker naam";
+$locale['UL_003'] = "Gebruikersnaam";
 $locale['UL_004'] = "Gebruiker veld";
 $locale['UL_005'] = "Alle inzendingen ouder dan %d dagen worden gewist.";
 $locale['UL_006'] = "Gebruikers log regel verwijderd";
@@ -9,7 +9,7 @@ $locale['UL_007'] = "E-mail van gebruiker";
 $locale['UL_008'] = "Sorteer op:";
 $locale['UL_009'] = "Gebruikersnaam / gebruikers-ID:";
 $locale['UL_010'] = "Gebruiker veld:";
-$locale['UL_011'] = "Versturen";
+$locale['UL_011'] = "Inzenden";
 $locale['UL_012'] = "Waarde Oud";
 $locale['UL_013'] = "Waarde Nieuw";
 $locale['UL_014'] = "Opties";
@@ -18,4 +18,4 @@ $locale['UL_016'] = "Verwijderen Items ouder dan:";
 $locale['UL_017'] = "Dagen";
 $locale['UL_018'] = "Oplopend";
 $locale['UL_019'] = "Aflopend";
-$locale['UL_020'] = "Selecteer Alles";
+$locale['UL_020'] = "Selecteer alles";
