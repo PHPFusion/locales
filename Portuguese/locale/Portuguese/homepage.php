@@ -1,7 +1,7 @@
 <?php
 // block titles
 $locale['home_0000'] = "Últimas Notícias";
-$locale['home_0001'] = "Últimos Artigos";
+$locale['home_0001'] = "Artigos mais Recentes";
 $locale['home_0002'] = "Últimos Blogs";
 $locale['home_0003'] = "Últimos Downloads";
 // no content messages
