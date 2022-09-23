@@ -17,7 +17,7 @@ $locale['error_invalid_theme'] = "Selecteer a.u.b. een geldig thema";
 $locale['error_input_checkbox'] = "Vink a.u.b. deze checkbox aan";
 $locale['error_input_file'] = "Selecteer a.u.b. een geldig bestand";
 $locale['error_secure_file'] = "Het ge&uuml;ploaded bestand is afgewezen door een mogelijk aanwezigheid van kwaadaardige inhoud.";
-$locale['error_input_login'] = "Incorrect username or password";
+$locale['error_input_login'] = "Onjuiste gebruikersnaam of wachtwoord";
 // Admin Login
 $locale['cookie_title'] = "Sessie Verlopen";
 $locale['cookie_description'] = "Er is geen geldige aanmelding / of uw sessie is verlopen. Log a.u.b. opnieuw in.";
@@ -84,8 +84,15 @@ $locale['df_422'] = "Onbekende fout (Query)";
 $locale['df_423'] = "Bestand is niet correct geuploaded. Probeer a.u.b. nogmaals";
 $locale['df_424'] = "Huidige bestandsgrootte upload is groter dan de maximale limiet. Voeg a.u.b. minder bestanden toe en probeer nogmaals.";
 
-// ReCaptcha2
+$locale['error_rate'] = "Geef a.u.b. een snelheid.";
+$locale['error_type'] = "Voer a.u.b. een extensie in.";
+$locale['error_width'] = "Voer a.u.b. een breedte in.";
+$locale['error_height'] = "Voer a.u.b. een hoogte in.";
+$locale['error_value'] = "Geef a.u.b. een waarde in.";
+
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Veld Module";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY van Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY van Google";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Donker";
 $locale['grecaptcha_0103'] = "Validatie Type";
 $locale['grecaptcha_0103a'] = "Tekst";
 $locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Vul a.u.b. uw publieke en priv&eacute; reCAPTCHA sleutel in";
