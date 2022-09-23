@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Diskussionen &uuml;ber die Verwaltung dieser Websit
 $locale['forum_tag_0200'] = "Stichwort Titel";
 $locale['forum_tag_0201'] = "Stichwort Beschreibung";
 $locale['forum_tag_0202'] = "Stichwort Farbe";
+$locale['forum_tag_0202a'] = "Schlagwort-Symbol";
 $locale['forum_tag_0203'] = "Stichwort Sprache";
 $locale['forum_tag_0204'] = "Stichwort Status";
 $locale['forum_tag_0205'] = "Dieses Stichwort ist active";
