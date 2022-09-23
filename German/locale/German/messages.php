@@ -131,6 +131,7 @@ $locale['628'] = "Die private Nachricht konnte nicht gesendet werden. Der Postei
 $locale['629'] = "Du kannst die markierten Nachrichten nicht in das Postfach verschieben, da sonst das Limit &uuml;berschritten wird.";
 $locale['630'] = " Nachrichten Limit";
 $locale['631'] = "Diese Nachricht wurde automatisch von Bot gesendet und erfordert keine Antwort.";
+$locale['632'] = "System";
 
 $locale['700'] = "Der Posteingang ist voll. Löschen Sie ihn oder aktualisieren Sie ihn auf 102 oder 103 Status";
 $locale['701'] = "Absender-Benutzer-ID existiert in DB nicht abgebrochen.";
