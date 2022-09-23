@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Hľadať na [SITENAME]";
 $locale['401'] = "Vyhľadávanie";
-$locale['402'] = "Hľadať";
+$locale['402'] = "Vyhľadávanie";
 $locale['403'] = "hľadať hociktoré z týchto slov";
 $locale['404'] = "výsledok musí obsahovať všetky tieto slová";
 $locale['405'] = "Kde:";
