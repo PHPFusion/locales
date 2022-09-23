@@ -5,7 +5,7 @@ $locale['402'] = "La tua nuova password è stata inviata";
 $locale['403'] = "Ritorna in Home Page";
 $locale['404'] = "Indirizzo che hai specificato non è stato trovato";
 $locale['405'] = "Indirizzo email che hai specificato non è valido";
-$locale['406'] = "Riprova";
+$locale['406'] = "Please try again.";
 $locale['407'] = "Inserisci Indirizzo email con il quale il tuo account è registrato.<br />
 Sar&agrave; creata una nuova password ed inviata a questo indirizzo email.";
 $locale['408'] = "Invia password";
