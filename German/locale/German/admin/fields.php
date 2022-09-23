@@ -112,7 +112,7 @@ $locale['fields_0500'] = "Modul";
 $locale['fields_0501'] = "Textbox";
 $locale['fields_0502'] = "Drop &amp; Down";
 $locale['fields_0503'] = "Textarea";
-$locale['fields_0504'] = "Checkbox";
+$locale['fields_0504'] = "Kontrollkästchen";
 $locale['fields_0505'] = "Umschalten";
 $locale['fields_0506'] = "Datum";
 $locale['fields_0507'] = "Farbe";
@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Es ist/sind %s Unterkategorie(n) in dieser Kategorie."
 $locale['fields_0601'] = "Es ist/sind %s Benutzerfeld(er) in dieser Kategorie.";
 $locale['fields_0602'] = "Das Modul kann nicht installiert werden. Es fehlt die Tabellenfeldinformation.";
 
-$locale['fields_0650'] = "Bewege Feld ID ";
-$locale['fields_0651'] = " Einen Slot hoch und die Feld-ID [FIELD_ID] einen Slot runter.";
-$locale['fields_0652'] = " Einen Slot runter und die Feld-ID [FIELD_ID] einen Slot rauf.";
 $locale['fields_0653'] = "Keine R&uuml;ckmeldung";
-$locale['fields_0654'] = "L&ouml;sche Felder";
-$locale['fields_0655'] = "Cat ID wurde nicht fegunden. Bitte erneut &uuml;berfr&uuml;fen.";
-$locale['fields_0656'] = "Kategorie ID wurde nicht fegunden. Bitte erneut &uuml;berfr&uuml;fen.";
-$locale['fields_0657'] = " gesetzt zum hochladen.";
-$locale['fields_0658'] = " Geladen.";
+
 $locale['fields_0659'] = " Sprache fehlt!";
 $locale['fields_0660'] = "Keine Module gefunden";
-$locale['fields_0661'] = "Aktualisierungsmodus";
-$locale['fields_0662'] = "Modus speichern";
+
 $locale['fields_0663'] = "Tabellen Name";
-$locale['fields_0664'] = "Alte Tabellen information -";
-$locale['fields_0665'] = "Neue Tabellen information -";
-$locale['fields_0666'] = "Fork Nr.1 - Feld für eine andere Tabelle aktualisieren";
-$locale['fields_0667'] = "Spalten Konflikt. Es sind Spalten in [OLD_TABLE] die existieren in ";
-$locale['fields_0668'] = "Fork Nr.2 - Update-Feld in derselben Tabelle";
-$locale['fields_0669'] = "Umbenennen der Spalte [FIELD_NAME] in [OLD_TABLE] in [FIELD_NAME_] mit den Attributen von ";
-$locale['fields_0670'] = "Alte Daten";
 $locale['fields_0671'] = "Ihre Tabelle muss eine gültige Tabelle sein. Ihre Spalte muss eine Spalte einer Benutzer-Id in dieser Tabelle sein.";
