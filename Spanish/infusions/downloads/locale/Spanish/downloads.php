@@ -24,6 +24,6 @@ $locale['download_2002'] = 'Más reciente';
 $locale['download_2003'] = 'Más descargados';
 $locale['download_2004'] = 'los mejores';
 $locale['download_3000'] = "Aún No se han agregado Descargas";
-$locale['download_3001'] = "Sin categoría";
+$locale['download_3001'] = "Ninguna Categoría";
 $locale['download_3002'] = "Sin Editor";
 $locale['download_3003'] = "Ver y votar esta descarga";
