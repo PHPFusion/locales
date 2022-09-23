@@ -16,7 +16,7 @@ $locale['blog_0144'] = "ID příspěvku";
 $locale['blog_0145'] = "Příspěvek byl smazán";
 $locale['blog_0146'] = "Příspěvek byl zveřejněn";
 $locale['blog_0147'] = "Příspěvek je uložen jako koncept";
-$locale['blog_0148'] = "Přidáno od ";
+$locale['blog_0148'] = "Přidal/a ";
 $locale['blog_0149'] = "%s byl deaktivován a nebude se projevovat.";
 // Blog titles
 $locale['blog_0400'] = "Aktuální blogy";
@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Neznámá chyba";
 // Blog form
 $locale['blog_0422'] = "Předmět blogu";
 $locale['blog_0423'] = "Kategorie:";
-$locale['blog_0424'] = "Nezařazené";
+$locale['blog_0424'] = "Nekategorizováno";
 $locale['blog_0425'] = "Úryvek:";
 $locale['blog_0425a'] = "Stručný úvod blogu";
 $locale['blog_0426'] = "Rozšířené:";
@@ -57,7 +57,7 @@ $locale['blog_0437'] = "Uložit blog";
 $locale['blog_0438'] = "Koncept";
 $locale['blog_0439'] = "Obrázek blogu:";
 $locale['blog_0440'] = "Max. velikost souboru %s / Povolené typy souborů GIF, JPEG nebo PNG.";
-$locale['blog_0441'] = "Zalomení stránky";
+$locale['blog_0441'] = "Přerušení stránky";
 $locale['blog_0442'] = "Poloha obrázku:";
 $locale['blog_0443'] = "Klíčová slova:";
 $locale['blog_0444'] = "Po každém zadání klíčového slova stiskněte Enter";
@@ -80,7 +80,7 @@ $locale['blog_0535'] = "Nebyly definovány žádné kategorie blogu";
 $locale['blog_0536'] = "Kliknutím sem můžete nahrát obrázky kategorií";
 $locale['blog_0537'] = "Rodič";
 $locale['blog_0538'] = "Byty (bajty)";
-$locale['blog_0539'] = "KB (Kilobyty)";
+$locale['blog_0539'] = "KB (Kilobajty)";
 $locale['blog_0540'] = "MB (Megabajty)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Odstranit tuto kategorii blogu?";
@@ -106,7 +106,7 @@ $locale['blog_0600'] = "Na schválení";
 $locale['blog_0601'] = "Odeslání obrázku";
 $locale['blog_0602'] = "Požadovaný rozšířený blog?";
 // Public Submissions Form
-$locale['blog_0700'] = "Odeslat blog";
+$locale['blog_0700'] = "Přidat blog";
 $locale['blog_0701'] = "Děkujeme za zaslání vašeho blogu";
 $locale['blog_0702'] = "Odeslat další blog";
 $locale['blog_0703'] = "Použijte tento formulář k odeslání blogu.<br/>Váš příspěvek bude kontrolován administrátorem.
