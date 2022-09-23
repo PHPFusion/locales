@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Erreur inconnue";
 // Blog form
 $locale['blog_0422'] = "Sujet du blog";
 $locale['blog_0423'] = "Catégorie :";
-$locale['blog_0424'] = "Sans catégorie";
+$locale['blog_0424'] = "Non catégorisé";
 $locale['blog_0425'] = "Extrait:";
 $locale['blog_0425a'] = "Introduction courte du blog";
 $locale['blog_0426'] = "Étendu :";
@@ -101,12 +101,12 @@ $locale['blog_0460'] = "Toutes les entrées du blog";
 //Alignment
 $locale['left'] = "Gauche";
 $locale['center'] = "Centre";
-$locale['right'] = "À droit";
-$locale['blog_0600'] = "Soumissions";
+$locale['right'] = "Droite";
+$locale['blog_0600'] = "Contributions";
 $locale['blog_0601'] = "Image de soumission";
 $locale['blog_0602'] = "Blog étendu requis ?";
 // Public Submissions Form
-$locale['blog_0700'] = "Soumettre le Blog";
+$locale['blog_0700'] = "Soumettre un blog";
 $locale['blog_0701'] = "Merci pour l'envoi de votre blog";
 $locale['blog_0702'] = "Soumettre un autre élément de blog";
 $locale['blog_0703'] = "Utilisez le formulaire suivant pour soumettre un blog. Votre soumission sera examinée par un administrateur
@@ -129,4 +129,4 @@ $locale['blog_956'] = "Carré";
 $locale['blog_959'] = "Photo transférée";
 $locale['blog_960'] = "Catégorie image";
 $locale['blog_961'] = "Types de fichiers autorisés :";
-$locale['blog_submit'] = "Blog %s";
+$locale['blog_submit'] = "%s Blog";
