@@ -31,7 +31,7 @@ Per riattivare il tuo account, clicca il link seguente:
 Regards,
 [REACTIVATION_LINK] [SITEUSERNAME] ";
 
-$locale['email_ban_subject'] = "il tuo account su [SITENAME] è stata vietata";
+$locale['email_ban_subject'] = "il tuo account su [SITENAME] è stato bannato";
 $locale['email_ban_message'] = "Ciao [USER_NAME],
 Your account su [SITENAME] è stato vietato da [ADMIN_USERNAME] a causa del seguente motivo:
 
@@ -41,7 +41,7 @@ If si desiderano ulteriori informazioni su questo divieto, si prega di contattar
 Regards,
 [SITEUSERNAME] ";
 
-$locale['email_secban_subject'] = "il tuo account su [SITENAME] è stata vietata";
+$locale['email_secban_subject'] = "il tuo account su [SITENAME] è stato bannato";
 $locale['email_secban_message'] = "Ciao [USER_NAME],
 Your account su [SITENAME] è stato vietato da [ADMIN_USERNAME] a causa di alcune azioni accreditati a voi o collegato al tuo account sono state considerate una minaccia per la sicurezza per il sito.
 
