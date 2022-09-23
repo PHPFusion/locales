@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Geladen";
 $locale['theme_1004'] = "Laden";
 $locale['theme_1005'] = "Theme verwalten";
 $locale['theme_1006'] = "Derzeit aktives Theme";
-$locale['theme_1007'] = "ZIP-Archiv hochladen";
+
 $locale['theme_1008'] = "Theme hochladen";
 $locale['theme_1009'] = "Theme Aussehen";
 $locale['theme_1010'] = "Aktuell vorhandene Themes";
-$locale['theme_1011'] = "Neues Theme hochladen";
+
+$locale['theme_1011a'] = "Admin Designs";
 $locale['theme_1012'] = "Dieses Theme aktivieren";
 $locale['theme_1013'] = "Lizenz";
 $locale['theme_1014'] = "Version";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Vertikaler Verlauf";
 $locale['theme_5011'] = "Kreisverlauf";
 $locale['theme_5012'] = "Diagonaler Verlauf";
 $locale['theme_5013'] = "Style speichern";
-$locale['theme_success_001'] = "Das Theme wurde erfolgreich in den Themeordner hochgeladen.";
+
 $locale['theme_success_002'] = "Das Theme Style wurde erfolgreich entfernt.";
 $locale['theme_success_003'] = "Das Theme Style wurde erfolgreich aktualisiert.";
 $locale['theme_success_004'] = "Das Theme Style wurde erfolgreich hinzugef&uuml;gt";
 
-$locale['theme_error_001'] = "Das Themearchiv ist zu gro&szlig;. Bitte lade nur Dateien hoch, die kleiner als %s sind.";
-$locale['theme_error_002'] = "Das Themearchiv ist nicht korrekt. Bitte nur Themes, die ein ZIP-Archiv sind.";
-$locale['theme_error_003'] = "Unbekannter Uploadfehler.";
-$locale['theme_error_004'] = "Die Themedatei wurde nicht auf den Server geladen.";
-$locale['theme_error_005'] = "Die &Uuml;berpr&uuml;fung der Datei schlug fehl. Bitte entpacke das ZIP-Archiv manuell und lade es per FTP hoch.";
-$locale['theme_error_006'] = "Dein Server unterst&uuml;tzt Zip-Archive nicht. Bitte entpacke das ZIP-Archiv manuell und lade es per FTP hoch.";
 $locale['theme_error_007'] = "Das Theme kann nicht erneuert werden! Gr&uuml;nde: Variablen nicht gesetzt oder das Formular ist fehlerhaft.";
 $locale['theme_error_008'] = "Compiler Fehler. Theme wurde nicht aktualisiert.";
-$locale['theme_error_009'] = "Datei theme.php wurde nicht gefunden.";
