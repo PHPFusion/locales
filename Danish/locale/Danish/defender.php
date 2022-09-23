@@ -84,8 +84,15 @@ $locale['df_422'] = "Ukendt fejl (Query)";
 $locale['df_423'] = "Filen blev ikke uploadet korrekt. Prøv igen";
 $locale['df_424'] = "Der er udpeget flere filer til upload, end det er tilladt. Prøv igen og tilknyt færre filer.";
 
-// ReCaptcha2
+$locale['error_rate'] = "Venligst indtast en fejlrate.";
+$locale['error_type'] = "Venligst indtast filendelsestype.";
+$locale['error_width'] = "Venligst indtast bredde.";
+$locale['error_height'] = "Venligst indtast højde.";
+$locale['error_value'] = "Venligst indtast en værdi.";
+
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Field Module";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY fra Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY fra Google";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Mørk";
 $locale['grecaptcha_0103'] = "Valideringstype";
 $locale['grecaptcha_0103a'] = "Tekst";
 $locale['grecaptcha_0103b'] = "Lyd";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Indsæt din offentlige og private reCAPTCHA nøgle";
