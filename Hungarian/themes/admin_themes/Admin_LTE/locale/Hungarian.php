@@ -1,0 +1,14 @@
+<?php
+$locale['ALT_001'] = 'Neked van';
+$locale['ALT_002'] = 'Nincs üzenet.';
+$locale['ALT_003'] = 'Új üzenet írása';
+$locale['ALT_004'] = 'A tagság kezdete';
+$locale['ALT_005'] = 'Keresés...';
+$locale['ALT_006'] = 'Készítette';
+$locale['ALT_007'] = 'Admin jelszó';
+$locale['ALT_008'] = 'Elrendezési beállítások';
+$locale['ALT_009'] = 'Fix elrendezés';
+$locale['ALT_010'] = 'Kis oldalsáv';
+$locale['ALT_011'] = 'Felület';
+$locale['ALT_012'] = 'Sötét';
+$locale['ALT_013'] = 'Világos';
