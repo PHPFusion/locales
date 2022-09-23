@@ -84,8 +84,15 @@ $locale['df_422'] = "Nieznany błąd (zapytanie)";
 $locale['df_423'] = "Plik nie został prawidłowo przesłany. Proszę spróbować ponownie";
 $locale['df_424'] = "Aktualnie przesyłane pliki przekraczają maksymalny limit. Proszę spróbować ponownie dodając mniej plików.";
 
-// ReCaptcha2
+$locale['error_rate'] = "Proszę wybrać ocenę.";
+$locale['error_type'] = "Proszę wprowadzić typ rozszerzenia.";
+$locale['error_width'] = "Proszę wprowadzić szerokość.";
+$locale['error_height'] = "Proszę wprowadzić wysokość.";
+$locale['error_value'] = "Proszę wprowadzić wartość.";
+
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Moduł pola Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Google";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Ciemny";
 $locale['grecaptcha_0103'] = "Typ walidacji";
 $locale['grecaptcha_0103a'] = "Tekst";
 $locale['grecaptcha_0103b'] = "Dźwięk";
+$locale['grecaptcha_0104'] = "Wynik";
 $locale['grecaptcha_warn'] = "Proszę wprowadzić swój publiczny i prywatny klucz reCAPTCHA";
