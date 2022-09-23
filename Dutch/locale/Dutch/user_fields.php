@@ -160,3 +160,8 @@ Opmerking: Je moet ingelogd zijn om door te gaan.<br/>
 Groeten,
 [SITEUSERNAME]<br/>
 [SITENAME]";
+// Checker
+$locale['u300'] = "Het wachtwoord moet bestaan uit ten minste één speciaal teken";
+$locale['u301'] = "Wachtwoord moet ten minste 1 hoofdletter en 1 kleine letter bevatten";
+$locale['u302'] = "Het wachtwoord moet minimaal 1 cijfer bevatten";
+$locale['u303'] = "Wachtwoord moet minimaal 8 tekens lang zijn";
