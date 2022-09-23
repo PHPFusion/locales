@@ -84,8 +84,15 @@ $locale['df_422'] = "Neznámá chyba (Query)";
 $locale['df_423'] = "Soubor nebyl nahrán správně. Prosím zkuste to znovu";
 $locale['df_424'] = "Aktuální soubory nahrávání jsou vyšší než maximální limit. Zkuste to prosím znovu a připojte méně souborů.";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google reCAPTCHA";
+$locale['error_rate'] = "Zadejte prosím hodnotu.";
+$locale['error_type'] = "Zadejte prosím typ rozšíření.";
+$locale['error_width'] = "Zadejte šířku.";
+$locale['error_height'] = "Zadejte prosím výšku.";
+$locale['error_value'] = "Zadejte prosím hodnotu.";
+
+// ReCaptcha
+$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Referenční modul Google reCAPTCHA";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY od Googlu";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Tmavá";
 $locale['grecaptcha_0103'] = "Typ validace";
 $locale['grecaptcha_0103a'] = "Text";
 $locale['grecaptcha_0103b'] = "Zvuk";
+$locale['grecaptcha_0104'] = "Skóre";
 $locale['grecaptcha_warn'] = "Zadejte prosím svůj klíč stránky a tajný klíč reCAPTCHA";
