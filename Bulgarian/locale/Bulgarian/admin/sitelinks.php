@@ -53,7 +53,7 @@ $locale['SL_0062'] = "Няма дефинирани връзкйи в сайта
 $locale['SL_0063'] = "Use BBCode in Link Name?";
 $locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
-$locale['SL_0070'] = "Икона";
+$locale['SL_0070'] = "Icon";
 $locale['SL_0071'] = "Нов процорец?";
 $locale['SL_0072'] = "Меню";
 $locale['SL_0073'] = "Подреждане";
