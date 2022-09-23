@@ -4,7 +4,7 @@ $locale['u040'] = "Katılım Tarihi";
 $locale['u041'] = "Son Ziyaret";
 $locale['u042'] = "Ziyaret Etmemiş";
 $locale['u043'] = "Özel Mesaj Gönder";
-$locale['u044'] = "İletişim Bilgisi";
+$locale['u044'] = "İletişim Bilgileri";
 $locale['u045'] = "Çeşitli Bilgiler";
 $locale['u046'] = "Seçenekler";
 $locale['u047'] = "İstatistikler";
@@ -28,13 +28,13 @@ $locale['u064'] = "E-posta";
 $locale['u066'] = "Katılım Tarihi";
 $locale['u067'] = "Son Ziyaret";
 $locale['u068'] = "Kullanıcı Adı";
-$locale['u070'] = "Yasakla";
+$locale['u070'] = "Yasak";
 $locale['u071'] = "Askıya Al";
 $locale['u073'] = "Bu kullanıcı silinsin mi?";
 $locale['u074'] = "Yasağı Kaldır";
 // Profile and register
 $locale['u100'] = "Şifrenizi veya e-posta adresinizi değiştirmek için geçerli şifrenizi girmeniz gerekir.";
-$locale['u101'] = "Kayıt Ol";
+$locale['u101'] = "Kayıt";
 $locale['u102'] = "Profili Düzenle";
 $locale['u103'] = "Profil";
 $locale['u104'] = "Üye Profili";
@@ -61,10 +61,10 @@ $locale['u115'] = "Dil";
 $locale['u116'] = "Hiç grup üyeleri yok.";
 $locale['u117'] = "Kullanıcı grubu yok.";
 // User name and email
-$locale['u119'] = "Kullanıcı adı içeriyor.";
+$locale['u119'] = "Kullanıcı adı yasaktır.";
 $locale['u120'] = "Kullanıcı adı geçersiz karakterler içeriyor.";
 $locale['u121'] = "Seçilen kullanıcı adı başka bir kullanıcı tarafından zaten alınmış.";
-$locale['u122'] = "Kullanıcı Adı boş bırakılamaz.";
+$locale['u122'] = "Kullanıcı adı boş bırakılamaz.";
 $locale['u123'] = "E-posta adresiniz geçerli görünmüyor.";
 $locale['u124'] = "E-posta adresiniz veya e-posta alanınız kara listeye alınmış gibi görünüyor.";
 $locale['u125'] = "E-posta adresi başka bir kullanıcı tarafından zaten kayıtlı.";
@@ -172,3 +172,8 @@ Saygılarımızla,
 [SITEUSERNAME]<br/>
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Şifre en az 1 özel karakter içermelidir";
+$locale['u301'] = "Şifre en az 1 büyük harf ve 1 küçük harf içermelidir";
+$locale['u302'] = "Şifre en az 1 rakam içermelidir";
+$locale['u303'] = "Şifre en az 8 karakter uzunluğunda olmalıdır";
