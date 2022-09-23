@@ -34,7 +34,7 @@ Norėdami iš naujo aktyvuoti vartotoją paspauskite ant žemiau esančios nuoro
 Pagarbiai,
 [SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Jūsų vartotojas puslapyje [SITENAME] buvo užblokuotas";
+$locale['email_ban_subject'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
 $locale['email_ban_message'] = "Sveiki [USER_NAME],
 
 Jūsų vartotojas puslapyje [SITENAME] dėl žemiau nurodytų priežasčių buvo užblokuotas administratoriaus [ADMIN_USERNAME]:
@@ -45,7 +45,7 @@ Jeigu norite gauti daugiau informacijos susisiekite su puslapio administratorium
 Pagarbiai,
 [SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "Jūsų vartotojas puslapyje [SITENAME] buvo užblokuotas.";
+$locale['email_secban_subject'] = "Jūsų vartotojas [SITENAME] buvo blokuotas";
 $locale['email_secban_message'] = "Sveiki [USER_NAME],
 
 Jūsų vartotojas puslapyje [SITENAME] buvo užblokuotas administratoriaus [ADMIN_USERNAME], nes jūsų vartotojo veiksmai, ar jo buvimas puslapyje traktuojami kaip tiesioginė grėsmė puslapio saugumui.
