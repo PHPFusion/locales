@@ -31,7 +31,7 @@ Si deseas reactivar tu cuenta, pulsa el siguiente enlace: [REACTIVATION_LINK]
 Saludos,
 [SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Su cuenta en [SITENAME] ha sido prohibida";
+$locale['email_ban_subject'] = "Tu cuenta en [SITENAME] ha sido prohibida";
 $locale['email_ban_message'] = "Hola [USER_NAME],
 Tu cuenta en [SITENAME] ha sido expulsada por [ADMIN_USERNAME] El motivo es el siguiente:
 
@@ -40,7 +40,7 @@ Si deseas más información sobre esta expulsión, contacta con el administrador
  Saludos,
 [SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "Su cuenta en [SITENAME] ha sido prohibida";
+$locale['email_secban_subject'] = "Tu cuenta en [SITENAME] ha sido prohibida";
 $locale['email_secban_message'] = "Hola [USER_NAME],
 Tu cuenta en [SITENAME] ha sido expulsada por [ADMIN_USERNAME] debido a que algunas acciones atribuidas a tí o relacionadas con tu cuenta han sido consideradas como una amenaza de seguridad para el sitio.
 
