@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "RU"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ru"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "ru"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "ru"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "ru"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "ru"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "ru"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ru-ru"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "ru"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "ru"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "ru"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ru"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "ru"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "ru"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "ru"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Январь|Февраль|Март|Апрель|Май|Июнь|Июль|Август|Сентябрь|Октябрь|Ноябрь|Декабрь";
@@ -108,7 +108,7 @@ $locale['global_031'] = "Нет статей";
 // Downloads Side panel
 $locale['global_032'] = "Последние загрузки";
 $locale['global_033'] = "Нет загрузок";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Добро пожаловать";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Последние активные темы форума";
@@ -175,7 +175,7 @@ $locale['global_101b'] = "Е-майл";
 $locale['global_101c'] = "Логин или Е-майл";
 $locale['global_102'] = "Пароль";
 $locale['global_103'] = "Не выходить с сайта";
-$locale['global_104'] = "Войти";
+$locale['global_104'] = "Вход на сайт";
 $locale['global_105'] = "Не зарегистрированы? [LINK]Нажмите[/LINK] для регистрации.";
 $locale['global_106'] = "[LINK]Забыли пароль?[/LINK]";
 $locale['global_107'] = "Регистрация";
@@ -206,10 +206,10 @@ $locale['UM066'] = "Забыли пароль?<br/>[LINK]Запросите но
 $locale['UM067'] = "(не рекомендуется для публичных или общих компьютеров)";
 $locale['UM080'] = "Изменить<br/> профиль";
 $locale['UM081'] = "Личные сообщения";
-$locale['UM082'] = "Участники";
-$locale['UM083'] = "Админпанель";
+$locale['UM082'] = "Список участников";
+$locale['UM083'] = "Панель администратора";
 $locale['UM084'] = "Выход";
-$locale['UM085'] = "У вас %u новых ";
+$locale['UM085'] = "Вы имеете %u новых ";
 $locale['UM086'] = "сообщение";
 $locale['UM087'] = "сообщений";
 $locale['UM088'] = "Отслеживаемые темы";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Выйти как пользователь";
 $locale['UM098'] = "Входящие сообщения:";
 $locale['UM099'] = "Отправленные сообщения:";
 $locale['UM100'] = "Архив сообщений:";
-
 // Keywords and Meta
 $locale['tags'] = "Теги";
 // Captcha
@@ -252,9 +251,6 @@ $locale['global_182'] = "Админпароль не введён или вве�
 $locale['global_183'] = "Ваш сеанс входа истек. Пожалуйста, войдите снова.";
 $locale['global_184'] = "Теперь вы вошли как %s";
 $locale['global_185'] = "Теперь вы вернулись к своей учетной записи.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Включен режим обслуживания";
 $locale['global_191'] = "Ваш IP-адрес находится в чёрном списке.";
@@ -266,13 +262,13 @@ $locale['global_196'] = "Неверное имя пользователя или
 $locale['global_197'] = "Подождите, пока мы перенаправим Вас..<br/>[ [LINK]Или нажмите здесь, если не хотите ждать[/LINK] ]";
 $locale['global_198'] = "ВНИМАНИЕ: ОБНАРУЖЕН ФАЙЛ УСТАНОВКИ, ПОЖАЛУЙСТА, УДАЛИТЕ ЕГО НЕМЕДЛЕННО.";
 $locale['global_199'] = "Внимание: не установлен административный пароль, нажмите «[LINK]Изменить профиль[/LINK]» для установки.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Поиск";
 $locale['global_203'] = "ЧаВо";
 $locale['global_204'] = "Форум";
-//Themes
+// Themes
 $locale['global_210'] = "Пропустить";
 $locale['global_300'] = "Тема не найдена";
 $locale['global_301'] = "К сожалению, эта страница не может быть отображена. По каким-тоо причинам файлы темы оформления не были найдены.
@@ -298,8 +294,6 @@ $locale['global_409'] = "Эта учётная запись была забло�
 $locale['global_410'] = "Причина для этого: ";
 $locale['global_411'] = "Действие учётной записи было отменено.";
 $locale['global_412'] = "Эта учетная запись была анонимизирована, вероятно, из-за бездействия.";
-$locale['global_413'] = "Имя пользователя доступно";
-$locale['global_414'] = "Имя пользователя не доступно";
 // Flood control
 $locale['global_440'] = "Автоматическая блокировка антифлудом";
 $locale['global_441'] = "Ваша учётная запись на сайте «[SITENAME]» была заблокирована";
@@ -332,7 +326,7 @@ $locale['global_459'] = "Для пользователя USER_NAME был уст
 // Function parsebytesize()
 $locale['global_460'] = "Пусто";
 $locale['global_461'] = "Байт";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Вы перенаправляетесь на %s, пожалуйста, обождите. Если Вас не перенаправило, нажмите здесь.";
 // Captcha Locales
 $locale['global_600'] = "Код проверки:";
@@ -340,18 +334,18 @@ $locale['global_601'] = "Следует ввести правильный код
 $locale['recaptcha'] = "ru";
 // Site links
 $locale['global_700'] = "Показать больше";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Невозможно преобразовать HEX в DEC";
 $locale['global_901'] = "Вставить медиа";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Язык:";
 $locale['global_ML101'] = "- Выберите язык -";
 $locale['global_ML102'] = "Язык сайта";
-$locale['global_ML103'] = "Переключить язык";
+$locale['global_ML103'] = "Изменить язык";
 // Flood Control
 $locale['flood'] = "Вам запрещено размещать сообщения до окончания времени действия антифлуда. Пожалуйста, подожите до %s";
 $locale['no_image'] = "Нет изображения";
-$locale['send_message'] = "Отправить<br/> сообщение";
+$locale['send_message'] = "Отправить";
 $locale['go_profile'] = "Перейти к профилю %s";
 // Global one word locales
 $locale['hello'] = "Приветствую!";
@@ -363,8 +357,8 @@ $locale['error'] = "Ошибка!";
 $locale['success'] = "Успешно!";
 $locale['enable'] = "Разрешить";
 $locale['disable'] = "Запретить";
-$locale['can'] = "можите";
-$locale['cannot'] = "не можите";
+$locale['can'] = "можете";
+$locale['cannot'] = "не можете";
 $locale['no'] = "Нет";
 $locale['yes'] = "Да";
 $locale['off'] = "Откл.";
@@ -380,6 +374,8 @@ $locale['joined'] = "Зарегистрирован с: ";
 $locale['next'] = "След.";
 $locale['previous'] = "Пред.";
 $locale['back'] = "Назад";
+$locale['first'] = "Первый";
+$locale['last'] = "Последний";
 $locale['forward'] = "Вперёд";
 $locale['go'] = "Перейти";
 $locale['cancel'] = "Отмена";
@@ -394,6 +390,8 @@ $locale['add'] = "Добавить";
 $locale['save'] = "Сохранить";
 $locale['save_changes'] = "Сохранить изменения";
 $locale['save_and_close'] = "Сохранить и закрыть";
+$locale['save_settings'] = "Сохранить параметры";
+$locale['settings_updated'] = "Настройки успешно обновлены";
 $locale['confirm'] = "Подтвердить";
 $locale['update'] = "Обновить";
 $locale['updated'] = "Обновлено";
@@ -411,6 +409,7 @@ $locale['hide'] = "Скрыть";
 $locale['actions'] = "Действия";
 $locale['language'] = "Язык";
 $locale['loading'] = "Загрузка...";
+$locale['options'] = "Параметры";
 // Persons & Identifiers
 $locale['you'] = "Вы";
 $locale['me'] = "я";
@@ -420,7 +419,7 @@ $locale['us'] = "нам";
 $locale['he'] = "он";
 $locale['she'] = "она";
 $locale['it'] = "оно";
-//Tables
+// Tables
 $locale['order'] = "Порядок";
 $locale['sort'] = "Сортировка";
 $locale['id'] = "ID";
@@ -448,10 +447,10 @@ $locale['draft'] = "Черновик";
 $locale['settings'] = "Параметры";
 $locale['posted'] = "размещено";
 $locale['profile'] = "Профиль";
-$locale['edit'] = "Изменить";
+$locale['edit'] = "Правка";
 $locale['qedit'] = "Быстрая правка";
 $locale['view'] = "Смотреть<br/>";
-$locale['login'] = "Вход";
+$locale['login'] = "Логин";
 $locale['logout'] = "Выход";
 $locale['admin-logout'] = "Выход из админпанели";
 $locale['message'] = "Личные сообщения";
@@ -462,8 +461,13 @@ $locale['close'] = "Закрыть";
 $locale['nopreview'] = "Нет данных для предпросмотра";
 $locale['mark_as'] = "Отметить как";
 $locale['preview'] = "Предпросмотр";
+$locale['unpreview'] = "Скрыть предварительный просмотр";
 $locale['custom'] = "Произвольно";
 $locale['submit'] = "Отправить";
+$locale['submissions'] = "Присланное";
+$locale['submit_access'] = "Доступ к странице отправки";
+$locale['categories'] = "Категории";
+$locale['thumbnail'] = "Эскиз";
 // Alignment
 $locale['left'] = "Влево";
 $locale['center'] = "По центру";
@@ -477,6 +481,16 @@ $locale['about'] = "О";
 // User status
 $locale['online'] = "В сети";
 $locale['offline'] = "Не в сети";
+// Misc
+$locale['max_fs_allowed_ft'] = "Макс. размер файла %s / Допустимые типы файлов %s";
+// DataTables
+$locale['processing_locale'] = "Ожидайте. Идёт обработка...";
+$locale['menu_locale'] = "Отображать _MENU_ записей на странице"; // Don't translate _MENU_
+$locale['zero_locale'] = "Извините. Ничего не найдено";
+$locale['result_locale'] = "Показана страница _PAGE_ and _PAGES "; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "Нет доступных записей";
+$locale['filter_locale'] = "Отфильтровано из _MAX_ всех записей"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Искать записи";
 // Timer
 $locale['timer_year'] = "год|года|лет";
 $locale['timer_month'] = "месяц|месяца|месяцев";
