@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "Der BB-Code wurde nach unten verschoben.";
 $locale['BBCA_431'] = "Der BB-Code wurde nach unten verschoben.";
 $locale['BBCA_432'] = "Der BB-Code wurde aktiviert.";
 $locale['BBCA_433'] = "Der BB-Code wurde deaktiviert.";
+$locale['BBCA_444'] = "BB-Code wurde aktualisiert";
+$locale['BBCA_445'] = "BB-Code konnte nicht aktualisiert werden";
+
+$locale['BBCA_500'] = "Trennzeichen hinzufügen";
+$locale['BBCA_501'] = "Trennzeichen";
+$locale['BBCA_502'] = "Trennzeichen für die Gruppierung von BBCode-Schaltflächen";
