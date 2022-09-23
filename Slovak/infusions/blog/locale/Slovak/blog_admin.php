@@ -24,7 +24,7 @@ $locale['blog_0401'] = "Pridať blog";
 $locale['blog_0402'] = "Upraviť blog";
 $locale['blog_0405'] = "Blog";
 $locale['blog_0406'] = "Nastavenia";
-$locale['blog_0407'] = "Kategórie";
+$locale['blog_0407'] = "Kategórie blogov";
 $locale['blog_0408'] = "Momentálne zobrazuje %d z %d celkových záznamov blogu";
 $locale['blog_0409'] = "Pridať kategóriu";
 // Blog messages
@@ -100,13 +100,13 @@ $locale['blog_0459'] = "Zobraziť kategóriu podľa";
 $locale['blog_0460'] = "Všetky položky blogu";
 //Alignment
 $locale['left'] = "Vľavo";
-$locale['center'] = "Na stred";
+$locale['center'] = "Stred";
 $locale['right'] = "Vpravo";
 $locale['blog_0600'] = "Na schválenie";
 $locale['blog_0601'] = "Obrázok príspevku";
 $locale['blog_0602'] = "Požadovaný rozšírený blog?";
 // Public Submissions Form
-$locale['blog_0700'] = "Odoslať blog";
+$locale['blog_0700'] = "Pridať blog";
 $locale['blog_0701'] = "Ďakujeme za odoslanie vášho blogu";
 $locale['blog_0702'] = "Odošlite ďalší blog";
 $locale['blog_0703'] = "Použite nasledujúci formulár na odoslanie blogu.<br/>Váš príspevok bude posúdený administrátorom.
