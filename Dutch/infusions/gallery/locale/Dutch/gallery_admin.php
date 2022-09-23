@@ -91,6 +91,7 @@ $locale['gallery_0220'] = "Foto-instellingen";
 $locale['gallery_0221'] = "Configuratie voor Galerij Systeem";
 $locale['gallery_0222'] = "Breedte";
 $locale['gallery_0223'] = "Hoogte";
+$locale['gallery_0224'] = "Toon laatste foto als albumminiatuur";
 $locale['photo_0001'] = "Fototitel";
 $locale['photo_0002'] = "Foto naam";
 $locale['photo_0003'] = "Fotoalbum";
