@@ -3,7 +3,7 @@
 $locale['SMLY_400'] = "Current Smileys";
 $locale['SMLY_401'] = "Add Smiley";
 $locale['SMLY_402'] = "Edit Smiley";
-$locale['SMLY_403'] = "Smileys";
+$locale['SMLY_403'] = "Senyuman";
 $locale['SMLY_404'] = "Active Smileys";
 $locale['SMLY_405'] = "Inactive Smileys";
 // Smiley messages
