@@ -1,17 +1,17 @@
 var pwstrength_locale = {
-    wordMinLength: 'Jūsų slaptažodis yra per trumpas',
+    wordMinLength: 'Your password is too short',
     wordMaxLength: 'Your password is too long',
     wordInvalidChar: 'Your password contains an invalid character',
-    wordNotEmail: 'Nenaudokite savo el. pašto adreso kaip slaptažodžio',
-    wordSimilarToUsername: 'Jūsų slaptažodyje negali būti slapyvardžio',
-    wordTwoCharacterClasses: 'Naudokite skirtingas charakterių klases',
-    wordRepetitions: 'Per daug pasikartojimų',
-    wordSequences: 'Jūsų slaptažodyje yra sekų',
+    wordNotEmail: 'Do not use your email as your password',
+    wordSimilarToUsername: 'Your password cannot contain your username',
+    wordTwoCharacterClasses: 'Use different character classes',
+    wordRepetitions: 'Too many repetitions',
+    wordSequences: 'Your password contains sequences',
     errorList: 'Errors:',
-    veryWeak: 'Labai silpnas',
-    weak: 'Silpnas',
+    veryWeak: 'Very Weak',
+    weak: 'Weak',
     normal: 'Normalus',
-    medium: 'Vidutiniškas',
-    strong: 'Striprus',
-    veryStrong: 'Labai stiprus'
-}
+    medium: 'Medium',
+    strong: 'Strong',
+    veryStrong: 'Very Strong'
+};
