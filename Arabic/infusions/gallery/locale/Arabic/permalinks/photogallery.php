@@ -1,3 +1,3 @@
 <?php
-$locale['pl_gallery_title'] = "ألبوم الصور";
-$locale['pl_gallery_desc'] = "تمكين الروابط الدائمة لرابط ألبوم الصور في الموقع.";
+$locale['pl_gallery_title'] = "ألبومات الصور";
+$locale['pl_gallery_desc'] = "تفعيل الروابط الثابتة لروابط ألبومات الصور في الموقع .";
