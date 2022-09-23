@@ -13,3 +13,4 @@ $locale['article_0041'] = "Kategori berjaya dikemaskini";
 $locale['article_0060'] = "Sumbangan berjaya diterbitkan";
 $locale['article_0061'] = "Sumbangan berjaya disimpan sebagai draf";
 $locale['article_0062'] = "Sumbangan berjaya dipadam";
+$locale['article_0063'] = "Paling Dibaca";
