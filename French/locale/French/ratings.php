@@ -1,5 +1,5 @@
 <?php
-$locale['r100'] = "Évaluations";
+$locale['r100'] = "Notes";
 $locale['r101'] = "Aucune évaluation n'a été publiée.";
 $locale['r102'] = "Retirer l'évaluation";
 $locale['r103'] = "Évaluation de post";
