@@ -27,8 +27,8 @@ $locale['SMLY_424'] = "Šypsenėlės peržiūra:";
 $locale['SMLY_430'] = "Kodas";
 $locale['SMLY_431'] = "Paveiksliukas";
 $locale['SMLY_432'] = "Tekstas";
-$locale['SMLY_433'] = "Nustatymai";
-$locale['SMLY_435'] = "Neaktyvus";
+$locale['SMLY_433'] = "Pasirinkimai";
+$locale['SMLY_435'] = "Neaktyvūs";
 $locale['SMLY_436'] = "Nėra pridėtų šypsenėlių.";
 // Error Message
 $locale['SMLY_437'] = "Prašom įvesti šypsenėlės kodą";
