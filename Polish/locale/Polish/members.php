@@ -1,11 +1,11 @@
 <?php
-$locale['MEMB_000'] = "Użytkownicy";
+$locale['MEMB_000'] = "Lista użytkowników";
 $locale['MEMB_001'] = "Awatar";
 $locale['MEMB_002'] = "Nazwa użytkownika";
 $locale['MEMB_003'] = "Grupy użytkownika";
 $locale['MEMB_004'] = "Typ użytkownika";
 $locale['MEMB_005'] = "Szukaj użytkownika...";
-$locale['MEMB_006'] = "Szukaj";
+$locale['MEMB_006'] = "Wyszukiwarka";
 $locale['MEMB_007'] = "Sortuj&nbsp;według";
 $locale['MEMB_008'] = "Ostatnia aktywność";
 $locale['MEMB_009'] = "Nowo zarejestrowany";
