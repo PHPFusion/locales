@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Bekræft debatforumvalg";
 $locale['forum_0397'] = "Der er ikke oprettet debatforums endnu.";
 $locale['forum_0398'] = "Kunne ikke downloade fil";
 $locale['forum_0399'] = "Tilføj dusør";
-
 $locale['forum_0400'] = "Tråddusør er opdateret. Vær sikker på at vælge det svar, der skal tildeles dusøren";
 
 $locale['forum_0500'] = "Gennemse tråd";
@@ -345,6 +344,9 @@ $locale['forum_4109'] = "Tråddusør ikke tildelt";
 $locale['forum_4110'] = "Du kan ikke tildele dig selv en tråddusør.";
 $locale['forum_4120'] = "Der er ingen forum-ID eller tråd-ID angivet. Venligst angiv en af dem.";
 $locale['forum_4121'] = "Ingen aktivitet i dette debatforum.";
+$locale['forum_4122'] = "Tillykke med de optjente dusørpoint på spørgsmålet i {%thread_link%}.";
+$locale['forum_4123'] = "Vi ønsker at informere dig om, at valgte svar er blevet tildelt dusørpoint. Du kan se svaret på din dusør {%link_start%}her.{%link_end%}";
+$locale['forum_4124'] = "Denne tråd har en åben dusør";
 
 $locale['forum_p001'] = "1 dag";
 $locale['forum_p002'] = "2 dage";
