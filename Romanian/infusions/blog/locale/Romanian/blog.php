@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Nu exist&#259; nici o postare pe blog";
 $locale['blog_3001'] = "Nicio categorie";
 $locale['blog_3002'] = "Nicio postare pe blog";
 $locale['blog_3003'] = "Niciun autor";
+$locale['blog_3004'] = "Cele mai citite bloguri";
 $locale['testimonial_rank'] = "Sunt %s al acestui sait";
 $locale['testimonial_location'] = "&#351;i acum locuiesc &#238;n %s";
 $locale['testimonial_join'] = "M-am &#238;nscris pe acest sait pe %s";
