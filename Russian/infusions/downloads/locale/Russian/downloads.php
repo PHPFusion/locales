@@ -1,5 +1,5 @@
 <?php
-$locale['download_1000'] = "Скачать";
+$locale['download_1000'] = "Загрузки";
 $locale['download_1001'] = "В начало загрузок";
 $locale['download_1003'] = "Категории файлов";
 $locale['download_1004'] = "Файлы загрузили";
@@ -24,6 +24,6 @@ $locale['download_2002'] = 'Последние';
 $locale['download_2003'] = 'Наиболее скачиваемые';
 $locale['download_2004'] = 'С наивысшими оценками';
 $locale['download_3000'] = "Загрузки не добавлены";
-$locale['download_3001'] = "Категория не указана";
+$locale['download_3001'] = "Нет категории";
 $locale['download_3002'] = "Автор не указан";
 $locale['download_3003'] = "Посмотрите и оцените загрузку";
