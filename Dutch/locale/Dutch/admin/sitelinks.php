@@ -57,7 +57,7 @@ $locale['SL_0070'] = "Icoon";
 $locale['SL_0071'] = "Nieuw venster?";
 $locale['SL_0072'] = "Menu";
 $locale['SL_0073'] = "Herschikken";
-$locale['SL_0074'] = "Verplaatsen";
+$locale['SL_0074'] = "Verplaats";
 $locale['SL_0075'] = "Toon Opties";
 
 // Delete Site Link category
