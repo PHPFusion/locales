@@ -8,8 +8,8 @@ $locale['web_0030'] = "En Yeni";
 $locale['web_0031'] = "En Çok Açılan";
 $locale['web_0032'] = "En Eski";
 // Views
-$locale['web_0040'] = "Galeri Görünümü";
-$locale['web_0041'] = "Liste Görünümü";
+$locale['web_0040'] = "Küçük resim görüntüsü";
+$locale['web_0041'] = "Liste görünümü";
 // Messages
 $locale['web_0060'] = "Tanımlanmış Web Bağlantı Kategorisi yok.";
 $locale['web_0062'] = "Bu Kategoride Web Bağlantısı Yok.";
