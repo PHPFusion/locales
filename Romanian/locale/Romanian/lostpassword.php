@@ -5,7 +5,7 @@ $locale['402'] = "Noua ta parol&#259; a fost trimis&#259; la adresa ta de e-mail
 $locale['403'] = "Revenire la pagina principal&#259;";
 $locale['404'] = "Adresa de e-mail pe care ai specificat-o nu a fost g&#259;sit&#259;.";
 $locale['405'] = "Adresa de e-mail pe care ai specificat-o nu este valid&#259;.";
-$locale['406'] = "Te rog &#238;ncearc&#259; din nou.";
+$locale['406'] = "Please try again.";
 $locale['407'] = "Te rog introdu adresa de e-mail cu care &#355;i-ai &#238;nregistrat contul.<br />
 O nou&#259; parol&#259; va fi creat&#259; &#351;i trimis&#259; la aceast&#259; adres&#259;.";
 $locale['408'] = "Trimite parola";
