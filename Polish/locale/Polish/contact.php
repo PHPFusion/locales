@@ -3,7 +3,7 @@
 $locale['CT_400'] = "Kontakt";
 $locale['CT_401'] = "Istnieje kilka sposobów, dzięki którym możesz się skontaktować. Możesz napisać bezpośrednio na [SITE_EMAIL]. Jeśli jesteś użytkownikiem, możesz wysłać [PM_LINK].
 Alternatywnie można wypełnić formularz na tej stronie, która wysyła wiadomość za pośrednictwem poczty elektronicznej.";
-$locale['CT_402'] = "Nazwa użytkownika:";
+$locale['CT_402'] = "Nazwa:";
 $locale['CT_403'] = "Adres e-mail:";
 $locale['CT_404'] = "Temat:";
 $locale['CT_405'] = "Treść wiadomości:";
