@@ -3,7 +3,7 @@
 $locale['u040'] = "Datum registrace";
 $locale['u041'] = "Poslední návštěva";
 $locale['u042'] = "Žádné návštěvy";
-$locale['u043'] = "Odeslat soukromou zprávu";
+$locale['u043'] = "Poslat soukromou zprávu";
 $locale['u044'] = "Kontaktní informace";
 $locale['u045'] = "Různé informace";
 $locale['u046'] = "Možnosti";
@@ -27,7 +27,7 @@ $locale['u063'] = "Úroveň uživatele";
 $locale['u064'] = "E-mail";
 $locale['u066'] = "Datum registrace";
 $locale['u067'] = "Poslední návštěva";
-$locale['u068'] = "Uživatelské jméno";
+$locale['u068'] = "Jméno";
 $locale['u070'] = "Ban";
 $locale['u071'] = "Pozastavit";
 $locale['u073'] = "Smazat tohoto uživatele?";
@@ -55,13 +55,13 @@ $locale['uf_108'] = "Nebyly definovány žádná uživatelská pole";
 $locale['u110'] = "Zobrazit uživatelské skupiny";
 $locale['u111'] = "%u uživatel";
 $locale['u112'] = "%u Uživatelů";
-$locale['u113'] = "Uživatelské jméno";
+$locale['u113'] = "Jméno";
 $locale['u114'] = "Typ uživatele";
 $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistují žádní členové skupiny.";
 $locale['u117'] = "Žádné skupiny uživatelů.";
 // User name and email
-$locale['u119'] = "Uživatelské jméno obsahuje.";
+$locale['u119'] = "Uživatelské jméno je zakázáno.";
 $locale['u120'] = "Uživatelské jméno obsahuje neplatné znaky.";
 $locale['u121'] = "Zvolené uživatelské jméno již používá jiný uživatel.";
 $locale['u122'] = "Uživatelské jméno nesmí zůstat prázdné.";
@@ -69,7 +69,7 @@ $locale['u123'] = "Vaše e-mailová adresa se nezdá být platná.";
 $locale['u124'] = "Vaše e-mailová adresa nebo e-mailová doména se zdají být na černé listině.";
 $locale['u125'] = "E-mailová adresa je již zaregistrována jiným uživatelem.";
 $locale['u126'] = "E-mailová adresa nemůže být prázdná.";
-$locale['u127'] = "Uživatelské jméno";
+$locale['u127'] = "Jméno";
 $locale['u128'] = "Emailová adresa";
 $locale['u129'] = "Základní informace o uživateli";
 // Passwords
@@ -157,3 +157,8 @@ Pokud opravdu chcete změnit svou e-mailovou adresu na tuto, klikněte na násle
 [EMAIL_VERIFY_LINK]<br/>
 Poznámka: Pro pokračování musíte být přihlášeni<br/>
 S pozdravem[SITEUSERNAME]<br/>[SITENAME]";
+// Checker
+$locale['u300'] = "Heslo by mělo obsahovat nejméně 1 speciální znak";
+$locale['u301'] = "Heslo by mělo obsahovat nejméně 1 velké a 1 malé písmeno";
+$locale['u302'] = "Heslo by mělo obsahovat nejméně 1 číslo";
+$locale['u303'] = "Heslo by mělo mít nejméně 8 znaků";
