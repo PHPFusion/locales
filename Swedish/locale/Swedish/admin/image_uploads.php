@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion Filhanterare";
-
+$locale['IMGUP_100'] = "Fusion Filhanterare";
 // Delete Image
-$locale['400'] = "Radera bild";
-$locale['401'] = "Bild raderad";
-$locale['402'] = "Tillbaka";
-$locale['403'] = "Tillbaka till Administrationspanelen";
+$locale['IMGUP_400'] = "Radera bild";
+$locale['IMGUP_401'] = "Bilden är raderad";
+$locale['IMGUP_402'] = "Tillbaka till bildadministrationen";
+$locale['IMGUP_403'] = "Återgå till Admin Index";
 // Upload Image
-$locale['420'] = "Ladda upp bild";
-$locale['421'] = "Filnamn:";
-$locale['422'] = "Huvudbilder";
-$locale['423'] = "Artikelbilder";
-$locale['424'] = "Nyhetsbilder";
-$locale['425'] = "Max. filstorlek %s / Tillåtna filtyper .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Bild uppladdad";
-$locale['427'] = "Nyhetskategori bilder";
-$locale['428'] = "Blogg Bilder";
-$locale['429'] = "Bloggkategori Bilder";
+$locale['IMGUP_420'] = "Ladda upp bild";
+$locale['IMGUP_421'] = "Filnamn:";
+$locale['IMGUP_422'] = "Huvudbilder";
+$locale['IMGUP_423'] = "Artikelbilder";
+$locale['IMGUP_424'] = "Nyhetsbilder";
+$locale['IMGUP_425'] = "Max. file size %s / Allowed file types .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Bilden är uppladdad";
+$locale['IMGUP_427'] = "Bilder nyhetskategorier";
+$locale['IMGUP_428'] = "Blogg Bilder";
+$locale['IMGUP_429'] = "Blogg Kategori Bilder";
 // View Image
-$locale['440'] = "Visa bild";
-$locale['441'] = "Okänt filformat, bilden kan inte visas.";
-$locale['442'] = "Radera denna bild";
+$locale['IMGUP_440'] = "Granska bild";
+$locale['IMGUP_441'] = "Okänt filformat, bilden kan inte visas.";
+$locale['IMGUP_442'] = "Radera denna bild";
 // Image Management
-$locale['460'] = "Bilder";
-$locale['461'] = "Visa";
-$locale['463'] = "Denna mapp är tom";
-$locale['464'] = "Uppdatera bildlistan för TinyMCE editor";
+$locale['IMGUP_460'] = "Bilder";
+$locale['IMGUP_461'] = "Visa";
+$locale['IMGUP_463'] = "Denna mapp är tom";
+$locale['IMGUP_464'] = "Uppdatera bildlistan för TinyMCE editor";
+$locale['IMGUP_465'] = "Image list updated";
 // Popup Error/Warning Messages
-$locale['470'] = "Radera denna bild?";
+$locale['IMGUP_470'] = "Radera denna bild?";
