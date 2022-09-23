@@ -1,6 +1,6 @@
 <?php
-$locale['forum.php'] = "Fóra";
-$locale['f400'] = "Příspěvky ve fóru";
+$locale['forum.php'] = "Fórum";
+$locale['f400'] = "Příspěvky fóra";
 $locale['f401'] = "všechny fóra";
 $locale['f402'] = "Příspěvek fóra";
 $locale['f403'] = "Příspěvky fóra";
