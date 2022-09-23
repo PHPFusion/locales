@@ -1,9 +1,9 @@
 <?php
 // block titles
 $locale['home_0000'] = "En Son Haberler";
-$locale['home_0001'] = "En Son Makaleler";
+$locale['home_0001'] = "Son Makaleler";
 $locale['home_0002'] = "En Son Bloglar";
-$locale['home_0003'] = "En Son Dosyalar";
+$locale['home_0003'] = "Son Dosyalar";
 // no content messages
 $locale['home_0050'] = "Görüntülenecek Haberler Yok";
 $locale['home_0051'] = "Görüntülenecek Makaleler Yok";
