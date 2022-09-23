@@ -10,8 +10,8 @@ var pwstrength_locale = {
     errorList: 'Errors:',
     veryWeak: 'Very Weak',
     weak: 'Weak',
-    normal: 'Normal',
+    normal: 'Нормален',
     medium: 'Medium',
     strong: 'Strong',
     veryStrong: 'Very Strong'
-}
+};
