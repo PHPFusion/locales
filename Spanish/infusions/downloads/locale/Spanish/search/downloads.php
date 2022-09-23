@@ -7,5 +7,5 @@ $locale['d403'] = "[NUEVA]";
 $locale['d404'] = "Licencia:";
 $locale['d405'] = "S/O:";
 $locale['d406'] = "Versión:";
-$locale['d407'] = "Añadida el:";
+$locale['d407'] = "Date Added:";
 $locale['d408'] = "Descargas:";
