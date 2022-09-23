@@ -10,10 +10,10 @@ $locale['ME_407'] = 'Zobrazení %s - %d z %d nalezených záznamů';
 $locale['ME_408'] = 'Základní informace';
 $locale['ME_409'] = 'Detailní informace';
 $locale['ME_410'] = 'Uživatel';
-$locale['ME_411'] = 'Úroveň';
-$locale['ME_412'] = 'E-mailová adresa';
+$locale['ME_411'] = 'Úroveň uživatele';
+$locale['ME_412'] = 'Emailová adresa';
 $locale['ME_413'] = ' Uživatelský účet';
-$locale['ME_414'] = 'Vybrat vše';
+$locale['ME_414'] = 'Označit vše';
 $locale['ME_415'] = 'Skrytý';
 $locale['ME_416'] = 'Zobrazeno';
 
@@ -61,7 +61,7 @@ $locale['ME_468'] = 'Automatické deaktivování neaktivních uživatelů.';
 $locale['ME_469'] = 'Uživatel byl aktivován';
 
 // Actions
-$locale['ME_500'] = 'Zabanovat';
+$locale['ME_500'] = 'Ban';
 $locale['ME_501'] = 'Obnovit';
 $locale['ME_502'] = 'Deaktivovat';
 $locale['ME_503'] = 'Pozastavit';
@@ -72,10 +72,10 @@ $locale['ME_507'] = 'Aktivovat';
 $locale['ME_508'] = 'Přihlásit se jako uživatel';
 
 // a_message keys
-$locale['ME_550'] = 'zakázán';
+$locale['ME_550'] = 'zabanovaný';
 $locale['ME_551'] = 'obnoven';
-$locale['ME_552'] = 'deaktivován';
-$locale['ME_553'] = 'pozastaven';
+$locale['ME_552'] = 'deaktivovaný';
+$locale['ME_553'] = 'suspendovaný';
 $locale['ME_554'] = 'bezpečnostně zakázán';
 $locale['ME_555'] = 'zrušen';
 $locale['ME_556'] = 'anonymizován';
