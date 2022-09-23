@@ -3,7 +3,7 @@
 $locale['u040'] = "Data &#238;nscrierii";
 $locale['u041'] = "Ultima vizit&#259;";
 $locale['u042'] = "Niciodat&#259;";
-$locale['u043'] = "Trimite un mesaj privat";
+$locale['u043'] = "Trimite mesaj privat";
 $locale['u044'] = "Date de contact";
 $locale['u045'] = "Alte informa&#355;ii";
 $locale['u046'] = "Op&#355;iuni";
@@ -28,7 +28,7 @@ $locale['u064'] = "E-mail";
 $locale['u066'] = "Data &#238;nscrierii";
 $locale['u067'] = "Ultima vizit&#259;";
 $locale['u068'] = "Nume utilizator";
-$locale['u070'] = "Interzice";
+$locale['u070'] = "Baneaz&#259;";
 $locale['u071'] = "Suspend&#259;";
 $locale['u073'] = "&#350;tergi acest utilizator?";
 $locale['u074'] = "Unban";
@@ -45,7 +45,7 @@ $locale['uf_100'] = "Set&#259;ri cont generale";
 $locale['uf_101'] = "Set&#259;i informa&#355;i utilizatori";
 $locale['uf_102'] = "Set&#259;ri avatar utilizatori";
 $locale['uf_103'] = "General";
-$locale['uf_104'] = "Informa&#355;i utilizatori";
+$locale['uf_104'] = "Informa&#355;ii utilizatori";
 $locale['uf_105'] = "Imagine profil";
 $locale['uf_106'] = "Informa&#355;i de baz&#259;";
 $locale['uf_107'] = "%s nu are nicio informa&#355;ie disponibil&#259;.";
@@ -55,14 +55,14 @@ $locale['uf_108'] = "Nu este definit niciun c&#238;mp de utilizatori";
 $locale['u110'] = "Vezi grupul de utilizatori";
 $locale['u111'] = "%u utilizator";
 $locale['u112'] = "%u utilizatori";
-$locale['u113'] = "Nume utilizatori";
+$locale['u113'] = "Nume utilizator";
 $locale['u114'] = "Tip utilizator";
-$locale['u115'] = "Limb&#259;";
+$locale['u115'] = "Limba";
 $locale['u116'] = "Nu exist&#259; niciun membru &#238;n grup.";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "User name contains.";
-$locale['u120'] = "Numele de utilizator con&#355;ine caractere nevalide.";
+$locale['u119'] = "User name is prohibited.";
+$locale['u120'] = "Numele utilizatorului con&#355;ine caractere nepermise.";
 $locale['u121'] = "Numele ales este deja folosit de un alt utilizator.";
 $locale['u122'] = "Numele de utilizator nu poate fi gol.";
 $locale['u123'] = "Adresa ta de e-mail nu pare s&#259; fie valid&#259;.";
@@ -149,7 +149,7 @@ $locale['u186'] = "D&#259; clic pe R&#259;sfoie&#351;te/Browse pentru a &#238;nc
 // Captcha and terms
 $locale['u190'] = "Cod de validare";
 $locale['u191'] = "Introdu codul de validare";
-$locale['u192'] = "Termeni de utilizare";
+$locale['u192'] = "Termeni de &#238;nregistrare";
 $locale['u193'] = "Am citit [LINK]Acordul de utilizare[/LINK] &#351;i sunt de acord cu acesta.";
 $locale['u193a'] = "Actualizat";
 $locale['u193b'] = "Sunt de acord";
@@ -173,3 +173,8 @@ Cu respect,
 [SITEUSERNAME]
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";
