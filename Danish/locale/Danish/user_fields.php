@@ -160,3 +160,8 @@ Bemærk: Du skal være logget på for at kunne fortsætte.<br/>
 Venlig hilsen
 [SITEUSERNAME]<br/>
 [SITENAME]";
+// Checker
+$locale['u300'] = "Adgangskoden skal indeholde mindst et specialtegn";
+$locale['u301'] = "Adgangskoden skal indeholde mindst 1 stort og 1 lille bogstav";
+$locale['u302'] = "Adgangskoden skal indeholde mindst et tal";
+$locale['u303'] = "Adgangskoden skal være mindst 8 tegn langt";
