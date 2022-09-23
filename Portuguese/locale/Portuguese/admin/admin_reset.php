@@ -27,7 +27,7 @@ Atenciosamente,<br/>
 [ADMIN]";
 $locale['apw_410'] = "Redefinir Resultados";
 $locale['apw_411'] = "Actualizar senha do administrador.";
-$locale['apw_412'] = "Senha do Admin:";
+$locale['apw_412'] = "Palavra-passe de Admin:";
 $locale['apw_415'] = "Redefinir Log";
 $locale['apw_416'] = "ID do Log";
 $locale['apw_417'] = "Redefinir horário";
