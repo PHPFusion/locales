@@ -11,17 +11,17 @@ $locale['ME_408'] = 'Temel Bilgiler';
 $locale['ME_409'] = 'Detaylı bilgi';
 $locale['ME_410'] = 'Kullanıcı';
 $locale['ME_411'] = 'Kullanıcı Seviyesi';
-$locale['ME_412'] = 'E-posta Adresi';
+$locale['ME_412'] = 'E-Posta Adresi';
 $locale['ME_413'] = ' Kullanıcı Hesabı';
-$locale['ME_414'] = 'Tümünü Seç';
-$locale['ME_415'] = 'Gizlenen';
+$locale['ME_414'] = 'Tümünü seç';
+$locale['ME_415'] = 'Gizli';
 $locale['ME_416'] = 'Gösterilen';
 
 // Core Fields Filter
 $locale['ME_420'] = 'E-Posta Gizlensin Mi?';
 $locale['ME_421'] = 'Katılma Tarihi';
 $locale['ME_422'] = 'Son giriş';
-$locale['ME_423'] = 'IP Adresi';
+$locale['ME_423'] = 'IP Addresi';
 $locale['ME_424'] = 'IP Tipi';
 $locale['ME_425'] = 'Kullanıcı Grupları';
 $locale['ME_426'] = 'Zaman Dilimi';
@@ -61,21 +61,21 @@ $locale['ME_468'] = 'Etkin Olmayan Kullanıcıları Otomatik Olarak Devre Dış�
 $locale['ME_469'] = 'Kullanıcı etkinleştirildi';
 
 // Actions
-$locale['ME_500'] = 'Yasakla';
+$locale['ME_500'] = 'Yasak';
 $locale['ME_501'] = 'Yasağı Kaldır';
 $locale['ME_502'] = 'Devre Dışı Bırak';
 $locale['ME_503'] = 'Askıya Al';
 $locale['ME_504'] = 'Güvenlik Yasağı';
-$locale['ME_505'] = 'İptal Et';
+$locale['ME_505'] = 'İptal';
 $locale['ME_506'] = 'Anonimleştir';
 $locale['ME_507'] = 'Etkinleştir';
 $locale['ME_508'] = 'Kullanıcı olarak giriş yap';
 
 // a_message keys
-$locale['ME_550'] = 'Yasaklandı';
+$locale['ME_550'] = 'yasaklandı';
 $locale['ME_551'] = 'Yasağı Kaldırıldı';
-$locale['ME_552'] = 'Devre Dışı Bırakıldı';
-$locale['ME_553'] = 'Askıya Alındı';
+$locale['ME_552'] = 'devre dışı bırakıldı';
+$locale['ME_553'] = 'askıya alındı';
 $locale['ME_554'] = 'Güvenlik Yasağı Uygulandı';
 $locale['ME_555'] = 'İptal Edildi';
 $locale['ME_556'] = 'Anonimleştirildi';
