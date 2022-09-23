@@ -4,7 +4,7 @@ $locale['u040'] = "Date d'inscription";
 $locale['u041'] = "Derniere visite";
 $locale['u042'] = "Non visité";
 $locale['u043'] = "Envoyer un message privé";
-$locale['u044'] = "Informations de contact";
+$locale['u044'] = "Information Contact";
 $locale['u045'] = "Informations diverses";
 $locale['u046'] = "Options";
 $locale['u047'] = "Statistiques";
@@ -24,9 +24,9 @@ $locale['u060'] = "Ajouter cet utilisateur au groupe sélectionné ?";
 $locale['u061'] = "Ajouter au groupe";
 $locale['u062'] = "Avatar de l'utilisateur";
 $locale['u063'] = "Niveau de l'utilisateur";
-$locale['u064'] = "Email";
-$locale['u066'] = "Date d’adhésion";
-$locale['u067'] = "Dernière visite";
+$locale['u064'] = "Adresse email";
+$locale['u066'] = "Date d'inscription";
+$locale['u067'] = "Derniere visite";
 $locale['u068'] = "Nom d'utilisateur";
 $locale['u070'] = "Banni";
 $locale['u071'] = "Suspendue";
@@ -45,7 +45,7 @@ $locale['uf_100'] = "Réglages généraux du Compte";
 $locale['uf_101'] = "Paramètres d'information utilisateur";
 $locale['uf_102'] = "Paramètres de l'Avatar de l'utilisateur";
 $locale['uf_103'] = "Général";
-$locale['uf_104'] = "Infos de l'utilisateur";
+$locale['uf_104'] = "Informations sur l'utilisateur";
 $locale['uf_105'] = "Image de profil";
 $locale['uf_106'] = "Informations basiques";
 $locale['uf_107'] = "%s n'a pas d'informations utilisateur disponibles.";
@@ -61,10 +61,10 @@ $locale['u115'] = "Langue";
 $locale['u116'] = "Il n'y a pas de membre du groupe.";
 $locale['u117'] = "Aucun groupe d'utilisateurs.";
 // User name and email
-$locale['u119'] = "Le nom d'utilisateur contient.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Le nom d'utilisateur contient des caractères invalides.";
 $locale['u121'] = "Le nom d'utilisateur choisi est déjà utilisé par un autre utilisateur.";
-$locale['u122'] = "Le nom d'utilisateur ne peut pas être laissé vide.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Votre adresse e-mail ne semble pas être valide.";
 $locale['u124'] = "Votre adresse e-mail ou votre domaine de messagerie semble être mis sur liste noire.";
 $locale['u125'] = "L'adresse e-mail est déjà enregistrée par un autre utilisateur.";
@@ -172,3 +172,8 @@ Cordialement,
 [SITEUSERNAME]<br/>
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";
