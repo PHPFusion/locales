@@ -1,0 +1,24 @@
+files:
+  - source: English/includes/**/*.*
+    ignore:
+      - index.php
+      - '*.md'
+      - '*.min.js'
+    translation: /%language%/includes/**/%file_name%.%file_extension%
+  - source: English/locale/English/**/*.*
+    ignore:
+      - '*.png'
+      - index.php
+    translation: /%language%/locale/%language%/**/%file_name%.%file_extension%
+  - source: English/infusions/**/locale/English/**/*.*
+    ignore:
+      - index.php
+    translation: /%language%/infusions/**/locale/%language%/**/%file_name%.%file_extension%
+  - source: English/themes/**/*.*
+    ignore:
+      - index.php
+    translation: /%language%/themes/**/%language%.%file_extension%
+  - source: English/widgets/**/*.*
+    ignore:
+      - index.php
+    translation: /%language%/widgets/**/%language%.%file_extension%
