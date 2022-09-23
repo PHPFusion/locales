@@ -74,13 +74,13 @@ $locale['blog_0524b'] = "Usunięto kategorię";
 // Blog Categories form
 $locale['blog_0530'] = "Nazwa kategorii:";
 $locale['blog_0531'] = "Obraz kategorii:";
-$locale['blog_0532'] = "Zapisz";
+$locale['blog_0532'] = "Zapisz kategorię";
 $locale['blog_0533'] = "Nadrzędna kategoria:";
 $locale['blog_0535'] = "Nie zdefiniowano kategorii wpisów";
 $locale['blog_0536'] = "Kliknij tutaj, aby przesłać obraz kategorii";
 $locale['blog_0537'] = "Nadrzędna";
-$locale['blog_0538'] = "Bajty (bajtów)";
-$locale['blog_0539'] = "KB (Kilobajtów)";
+$locale['blog_0538'] = "Bajtów (bajtów)";
+$locale['blog_0539'] = "KB (Kilobajty)";
 $locale['blog_0540'] = "MB (Megabajtów)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Usunąć tę kategorię wpisów?";
@@ -99,9 +99,9 @@ $locale['blog_0458'] = "Filtruj według:";
 $locale['blog_0459'] = "Filtruj widoczną kategorię według";
 $locale['blog_0460'] = "Wszystkie wpisy";
 //Alignment
-$locale['left'] = "Po lewej";
+$locale['left'] = "Z lewej";
 $locale['center'] = "Wyśrodkuj";
-$locale['right'] = "prawej";
+$locale['right'] = "Z prawej";
 $locale['blog_0600'] = "Zgłoszenia";
 $locale['blog_0601'] = "Obraz zgłoszenia";
 $locale['blog_0602'] = "Wymagać rozszerzenia wpisu?";
@@ -127,4 +127,4 @@ $locale['blog_956'] = "Kwadratowy";
 $locale['blog_959'] = "Przesłano zdjęcie";
 $locale['blog_960'] = "Obraz kategorii";
 $locale['blog_961'] = "Dozwolone typy plików:";
-$locale['blog_submit'] = "%s wpisów";
+$locale['blog_submit'] = "%s wpis";
