@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion-Datei-Manager";
-
+$locale['IMGUP_100'] = "Fusion-Datei-Manager";
 // Delete Image
-$locale['400'] = "Bild löschen";
-$locale['401'] = "Das Bild wurde gelöscht";
-$locale['402'] = "Zurück zur Bilder Verwaltung";
-$locale['403'] = "Zurück zur Admin Übersicht";
+$locale['IMGUP_400'] = "Bild löschen";
+$locale['IMGUP_401'] = "Bild gelöscht";
+$locale['IMGUP_402'] = "Zurück zum Bilder-Admin";
+$locale['IMGUP_403'] = "Zurück zur Admin Übersicht";
 // Upload Image
-$locale['420'] = "Bild hinzufügen";
-$locale['421'] = "Dateiname:";
-$locale['422'] = "Hauptbilder";
-$locale['423'] = "Artikelbilder";
-$locale['424'] = "Newsbilder";
-$locale['425'] = "Die Bilddatei muss im .GIF, .JPEG oder .PNG-Format sein.";
-$locale['426'] = "Das Bild wurde hinzugef&uuml;gt.";
-$locale['427'] = "Newskategoriebilder";
-$locale['428'] = "Blogbilder";
-$locale['429'] = "Blogkategoriebilder";
+$locale['IMGUP_420'] = "Bild hochladen";
+$locale['IMGUP_421'] = "Dateiname:";
+$locale['IMGUP_422'] = "Hauptbilder";
+$locale['IMGUP_423'] = "Artikel-Bilder";
+$locale['IMGUP_424'] = "News Bilder";
+$locale['IMGUP_425'] = "Max. Dateigröße %s / Erlaubte Dateitypen .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Bild hochgeladen";
+$locale['IMGUP_427'] = "News Kategorien Bilder";
+$locale['IMGUP_428'] = "Blog Bilder";
+$locale['IMGUP_429'] = "Blog Kategorien Bilder";
 // View Image
-$locale['440'] = "Bild ansehen";
-$locale['441'] = "Das Bild hat ein unbekanntes Dateiformat und kann daher nicht angezeigt werden.";
-$locale['442'] = "Dieses Bild l&ouml;schen";
+$locale['IMGUP_440'] = "Bild ansehen";
+$locale['IMGUP_441'] = "Unbekanntes Dateiformat, Bild kann nicht angezeigt werden.";
+$locale['IMGUP_442'] = "Dieses Bild löschen";
 // Image Management
-$locale['460'] = "Aktuell vorhandene Bilder";
-$locale['461'] = "Ansehen";
-$locale['463'] = "Dieser Ordner ist leer.";
-$locale['464'] = "Die Bilderliste f&uuml;r den TinyMCE Editor erneuern";
+$locale['IMGUP_460'] = "Bilder";
+$locale['IMGUP_461'] = "Ansehen";
+$locale['IMGUP_463'] = "Dieser Ordner ist leer.";
+$locale['IMGUP_464'] = "Bildliste für TinyMCE Editor aktualisieren";
+$locale['IMGUP_465'] = "Bildliste aktualisiert";
 // Popup Error/Warning Messages
-$locale['470'] = "Willst du dieses Bild wirklich entfernen?";
+$locale['IMGUP_470'] = "Dieses Bild löschen?";
