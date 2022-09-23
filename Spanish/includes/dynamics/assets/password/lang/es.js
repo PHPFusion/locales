@@ -1,17 +1,17 @@
 var pwstrength_locale = {
-    wordMinLength: 'Tu contraseña es demasiado corta',
-    wordMaxLength: 'Tu contraseña es muy larga',
-    wordInvalidChar: 'Tu contraseña contiene un carácter no válido',
-    wordNotEmail: 'No uses tu email como tu contraseña',
-    wordSimilarToUsername: 'Tu contraseña no puede contener tu nombre de usuario',
-    wordTwoCharacterClasses: 'Mezcla diferentes clases de caracteres',
-    wordRepetitions: 'Demasiadas repeticiones',
-    wordSequences: 'Tu contraseña contiene secuencias',
-    errorList: 'Errores:',
-    veryWeak: 'Muy Débil',
-    weak: 'Débil',
+    wordMinLength: 'Your password is too short',
+    wordMaxLength: 'Your password is too long',
+    wordInvalidChar: 'Your password contains an invalid character',
+    wordNotEmail: 'Do not use your email as your password',
+    wordSimilarToUsername: 'Your password cannot contain your username',
+    wordTwoCharacterClasses: 'Use different character classes',
+    wordRepetitions: 'Too many repetitions',
+    wordSequences: 'Your password contains sequences',
+    errorList: 'Errors:',
+    veryWeak: 'Very Weak',
+    weak: 'Weak',
     normal: 'Normal',
-    medium: 'Media',
-    strong: 'Fuerte',
-    veryStrong: 'Muy Fuerte'
-}
+    medium: 'Medium',
+    strong: 'Strong',
+    veryStrong: 'Very Strong'
+};
