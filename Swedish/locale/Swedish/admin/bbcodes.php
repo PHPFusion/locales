@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "BB koden har flyttats upp.";
 $locale['BBCA_431'] = "BB koden har flyttats Ned.";
 $locale['BBCA_432'] = "BB koden har aktiverats.";
 $locale['BBCA_433'] = "BB koden har inaktiverats.";
+$locale['BBCA_444'] = "BB Code has been updated";
+$locale['BBCA_445'] = "BB Code failed to be updated";
+
+$locale['BBCA_500'] = "Add Separator";
+$locale['BBCA_501'] = "Separator";
+$locale['BBCA_502'] = "Separator for grouping BBcode buttons";
