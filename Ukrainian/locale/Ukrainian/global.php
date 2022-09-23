@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "UA"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "uk"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "uk"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "uk"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "uk"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "uk"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "uk"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "uk_UA"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "uk"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "uk"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "uk"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "uk"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "uk"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "uk_UA"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "uk"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Січень|Лютий|Березень|Квітень|Травень|Червень|Липень|Серпень|Вересень|Жовтень|Листопад|Грудень";
@@ -62,7 +62,7 @@ $locale['user0'] = "Загальний";
 $locale['user1'] = "Користувач";
 $locale['user2'] = "Адміністратор";
 $locale['user3'] = "Головний адміністратор";
-$locale['user_na'] = "не визначено";
+$locale['user_na'] = "немає";
 $locale['user_guest'] = "Гість";
 $locale['user_anonymous'] = "Анонім";
 $locale['genitive'] = "%s %s";
@@ -109,7 +109,7 @@ $locale['global_031'] = "Статті відсутні";
 // Downloads Side panel
 $locale['global_032'] = "Останні завантаження";
 $locale['global_033'] = "Завантаження відсутні";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Ласкаво просимо";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Останні активні теми на форумі";
@@ -176,7 +176,7 @@ $locale['global_101b'] = "Електронна адреса";
 $locale['global_101c'] = "Ім&lsquo;я або електронна адреса";
 $locale['global_102'] = "Пароль";
 $locale['global_103'] = "зберігати";
-$locale['global_104'] = "Вхід";
+$locale['global_104'] = "Авторизація";
 $locale['global_105'] = "Ще не зареєстровані?
 
 [LINK]Зареєструватися[/LINK]";
@@ -240,12 +240,11 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Вхідні:";
 $locale['UM099'] = "Вихідні:";
 $locale['UM100'] = "Архів:";
-
 // Keywords and Meta
 $locale['tags'] = "Теґи";
 // Captcha
-$locale['global_150'] = "Код підтвердження:";
-$locale['global_151'] = "Введіть код підтвердження:";
+$locale['global_150'] = "Validation Code:";
+$locale['global_151'] = "Enter Validation Code:";
 // Footer Counter
 $locale['global_170'] = "відвідувач";
 $locale['global_171'] = "відвідувачів";
@@ -261,9 +260,6 @@ $locale['global_182'] = "Пароль адміністрування введе�
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Ввімкнено режим обслуговування";
 $locale['global_191'] = "Вашу IP адресу заблоковано";
@@ -280,13 +276,13 @@ $locale['global_197'] = "Будь ласка, зачекайте ...
 [ [LINK]можете натиснути тут, якщо не бажаєте більше чекати[/LINK] ]";
 $locale['global_198'] = "УВАГА: ВИЯВЛЕНО МОДУЛЬ ВСТАНОВЛЕННЯ. БУДЬ ЛАСКА, НЕГАЙНО ВИДАЛІТЬ КАТАЛОГ /INSTALL/.";
 $locale['global_199'] = "Увага: Не введено пароль адміністрування, натисніть [LINK]Редагувати обліковий запис[/LINK] і введіть його";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Пошук";
 $locale['global_203'] = "ЧАП";
 $locale['global_204'] = "Форум";
-//Themes
+// Themes
 $locale['global_210'] = "Перейти до змісту";
 $locale['global_300'] = "Тему сайту не визначено";
 $locale['global_301'] = "Вибачте, неможливо відобразити сторінку. Через певні обставини, неможливо знайти жодну тему оформлення сайту.
@@ -320,8 +316,6 @@ $locale['global_409'] = "Цей обліковий запис заблокова
 $locale['global_410'] = "Причина: ";
 $locale['global_411'] = "Цей обліковий запис скасовано.";
 $locale['global_412'] = "Цей обліковий запис зроблено анонімним, можливо, через бездіяльність.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Автоматичне блокування через порушення контролю за флудом";
 $locale['global_441'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано";
@@ -384,7 +378,7 @@ $locale['global_459'] = "Новий пароль для користувача U
 // Function parsebytesize()
 $locale['global_460'] = " - ";
 $locale['global_461'] = " Байт";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Ваш запит перенаправлено на %s, будь ласка, зачекайте. Якщо перенаправлення не відбулось, натисніть тут";
 // Captcha Locales
 $locale['global_600'] = "Код захисту";
@@ -392,18 +386,18 @@ $locale['global_601'] = "Ви маєте ввести коректний код 
 $locale['recaptcha'] = "uk";
 // Site links
 $locale['global_700'] = "Більше...";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Неможливо конвертувати HEX в DEC";
 $locale['global_901'] = "Додати медіадані";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Мова:";
 $locale['global_ML101'] = "- виберіть мову -";
 $locale['global_ML102'] = "Мова сайту";
-$locale['global_ML103'] = "Змінити мову";
+$locale['global_ML103'] = "Зміна мови";
 // Flood Control
 $locale['flood'] = "Нові публікації заблоковані до завершення встановленого часу контролю за флудом. Будь ласка, зачекайте %s";
 $locale['no_image'] = "Зображення відсутнє";
-$locale['send_message'] = "Надіслати повідомлення";
+$locale['send_message'] = "Send Message";
 $locale['go_profile'] = "Перейти у профіль %s";
 // Global one word locales
 $locale['hello'] = "Вітаємо!";
@@ -423,15 +417,17 @@ $locale['off'] = "Вимкнути";
 $locale['on'] = "Увімкнути";
 $locale['or'] = "або";
 $locale['by'] = "за";
-$locale['in'] = "в";
+$locale['in'] = "in";
 $locale['of'] = "з";
 $locale['and'] = "та";
 $locale['na'] = "не визначено";
 $locale['joined'] = "Приєднання: ";
 // Navigation
-$locale['next'] = "Наступний";
+$locale['next'] = "Наступна&raquo;";
 $locale['previous'] = "Попередній";
 $locale['back'] = "Назад";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "Далі";
 $locale['go'] = "Перейти";
 $locale['cancel'] = "Скасувати";
@@ -446,14 +442,16 @@ $locale['add'] = "Додати";
 $locale['save'] = "Зберегти";
 $locale['save_changes'] = "Зберегти зміни";
 $locale['save_and_close'] = "Зберегти та закрити";
+$locale['save_settings'] = "Зберегти";
+$locale['settings_updated'] = "Налаштування успішно оновлено!";
 $locale['confirm'] = "Ухвалити";
 $locale['update'] = "Оновити";
 $locale['updated'] = "Оновлено";
 $locale['remove'] = "Видалити";
 $locale['delete'] = "Видалити";
-$locale['search'] = "Знайти";
+$locale['search'] = "Пошук";
 $locale['help'] = "Допомога";
-$locale['register'] = "Реєстрація";
+$locale['register'] = "Реєстрація на сайті";
 $locale['ban'] = "Бан";
 $locale['reactivate'] = "Відновлення";
 $locale['user'] = "Користувач";
@@ -463,6 +461,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Дії";
 $locale['language'] = "Мова";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Параметри";
 // Persons & Identifiers
 $locale['you'] = "Ви";
 $locale['me'] = "Я";
@@ -472,11 +471,11 @@ $locale['us'] = "Нас";
 $locale['he'] = "Він";
 $locale['she'] = "Вона";
 $locale['it'] = "Воно";
-//Tables
+// Tables
 $locale['order'] = "Порядок";
 $locale['sort'] = "Сортування";
 $locale['id'] = "Код ID";
-$locale['title'] = "Назва";
+$locale['title'] = "Заголовок";
 $locale['rights'] = "Права";
 $locale['info'] = "Додатково";
 $locale['image'] = "Зображення";
@@ -500,10 +499,10 @@ $locale['draft'] = "Чернетка";
 $locale['settings'] = "Налаштування";
 $locale['posted'] = "опубліковано";
 $locale['profile'] = "Профіль";
-$locale['edit'] = "Редагування";
+$locale['edit'] = "Редагувати";
 $locale['qedit'] = "Швидке редагування";
 $locale['view'] = "Перегляд";
-$locale['login'] = "Вхід";
+$locale['login'] = "Авторизація";
 $locale['logout'] = "Вихід";
 $locale['admin-logout'] = "Вихід з адміністрування";
 $locale['message'] = "Приватні повідомлення";
@@ -514,8 +513,13 @@ $locale['close'] = "Закрити";
 $locale['nopreview'] = "Дані для перегляду відсутні";
 $locale['mark_as'] = "Позначити як";
 $locale['preview'] = "Попередній перегляд";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "Вільно";
 $locale['submit'] = "Надіслати";
+$locale['submissions'] = "Пропозиції";
+$locale['submit_access'] = "Access to Submit page";
+$locale['categories'] = "Розділи";
+$locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "Зліва";
 $locale['center'] = "Центр";
@@ -529,6 +533,16 @@ $locale['about'] = "Опис";
 // User status
 $locale['online'] = "В мережі";
 $locale['offline'] = "Не в мережі";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
+// DataTables
+$locale['processing_locale'] = "Please wait patiently while processing...";
+$locale['menu_locale'] = "Display _MENU_ records per page"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nothing found - sorry";
+$locale['result_locale'] = "Showing page _PAGE_ of _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "No records available";
+$locale['filter_locale'] = "(Filtered from _MAX_ total records)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Search Records";
 // Timer
 $locale['timer_year'] = "рік|роки|років";
 $locale['timer_month'] = "місяць|місяця|місяців";
