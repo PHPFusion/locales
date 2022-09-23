@@ -22,7 +22,7 @@ $locale['html_018'] = "Bekezdés";
 $locale['html_019'] = "Címsorok";
 $locale['html_020'] = "Sortörés";
 
-$locale['texts'] = "Szöveg";
+$locale['texts'] = "Text";
 $locale['preview'] = "Előnézet";
 $locale['word_count'] = "Karakterszámláló";
 $locale['error_preview'] = "Előnézeti hiba";
