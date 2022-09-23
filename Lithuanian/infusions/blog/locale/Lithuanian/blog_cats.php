@@ -6,4 +6,4 @@ $locale['403'] = "Nekategorizuoti tinklaraščiai";
 $locale['404'] = "Šioje kategorijoje nėra tinklaraščių.";
 $locale['405'] = "Daugiau";
 $locale['406'] = "Rodyti visas kategorijas";
-$locale['407'] = "Nėra sukurtų tinklaraščių kategorijų";
+$locale['407'] = "Nėra pridėtų tinklaraščių kategorijų";
