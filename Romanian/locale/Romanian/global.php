@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "RO"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ro"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "ro"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "ro"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "ro"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "ro"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "ro"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ro-ro"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "ro"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "ro"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "ro"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ro"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "ro"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "ro-ro"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "ro"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Ianuarie|Februarie|Martie|Aprilie|Mai|Iunie|Iulie|August|Septembrie|Octombrie|Noiembrie|Decembrie";
@@ -109,7 +109,7 @@ $locale['global_031'] = "Niciun articol disponibil";
 // Downloads Side panel
 $locale['global_032'] = "Ultimele desc&#259;rc&#259;ri";
 $locale['global_033'] = "Nu exist&#259; desc&#259;rc&#259;ri";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Bun venit";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Cele mai noi discu&#355;ii active &#238;n forum";
@@ -151,7 +151,7 @@ $locale['global_078'] = "&#206;nc&#259; nu au fost postate &#351;tiri";
 $locale['global_079'] = "&#206;n ";
 $locale['global_080'] = "Nicio categorie";
 $locale['global_081'] = "&#350;tiri";
-$locale['global_082'] = "&#350;tiri";
+$locale['global_082'] = "&#351;tire";
 $locale['global_083'] = "Ultima actualizare";
 $locale['global_084'] = "Categorie &#351;tiri";
 $locale['global_085'] = "Toate cateogiriile";
@@ -233,12 +233,11 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Intrare :";
 $locale['UM099'] = "Ie&#351;ire :";
 $locale['UM100'] = "Arhiv&#259; :";
-
 // Keywords and Meta
 $locale['tags'] = "Etichete";
 // Captcha
-$locale['global_150'] = "Cod de validare:";
-$locale['global_151'] = "Introdu codul de validare:";
+$locale['global_150'] = "Validation Code:";
+$locale['global_151'] = "Enter Validation Code:";
 // Footer Counter
 $locale['global_170'] = "vizit&#259; unic&#259;";
 $locale['global_171'] = "vizite unice";
@@ -254,9 +253,6 @@ $locale['global_182'] = "Parola de administrare nu a fost setat&#259; sau este i
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Mod de &#238;ntre&#355;inere activat";
 $locale['global_191'] = "Adresa ta de IP este &#238;n lista neagr&#259; momentan.";
@@ -271,13 +267,13 @@ $locale['global_197'] = "Te rog a&#351;teapt&#259; transferul...
 [ [LINK]Sau apas&#259; aici dac&#259; nu dore&#351;ti s&#259; a&#351;tep&#355;i[/LINK] ]";
 $locale['global_198'] = "Aten&#355;ie: Fi&#351;ierul de instalare a fost detectat. Te rog &#351;terge imediat fi&#351;ierul install.php.";
 $locale['global_199'] = "Aten&#355;ie: parola de administrare nu este setat&#259;, apas&#259; [LINK]aici[LINK] pentru a o seta.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Search";
 $locale['global_203'] = "FAQ";
 $locale['global_204'] = "Forum";
-//Themes
+// Themes
 $locale['global_210'] = "Salt la con&#355;inut";
 $locale['global_300'] = "Nu am g&#259;sit nicio tematic&#259;.";
 $locale['global_301'] = "Ne pare sincer r&#259;u, dar aceast&#259; pagin&#259; nu poate fi afi&#351;at&#259;. Din cauza unor circumstan&#355;e, tematica saitului nu poate fi g&#259;sit&#259;. Dac&#259; e&#351;ti un administrator al site-ului, folose&#351;te clientul t&#259;u de FTP pentru a &#238;nc&#259;rca o tematic&#259; pentru <em>PHPFusion 9</em> &#238;n directorul <em>themes/</em>. Dup&#259; &#238;nc&#259;rcare, verific&#259; &#238;n <em>Set&#259;ri tematic&#259;</em> dac&#259; tematica selectat&#259; a fost corect &#238;nc&#259;rcat&#259; &#238;n directorul <em>themes/</em>. Directorul tematicii &#238;nc&#259;rcate trebuie s&#259; aib&#259; acela&#351;i nume (incluz&#226;nd literele mici sau mari, care sunt importante pe serverele bazate pe Unix) cu cel ales &#238;n pagina <em>Set&#259;ri tematic&#259;</em>.
@@ -301,8 +297,6 @@ $locale['global_409'] = "Acest cont a fost suspendat din motive de securitate.";
 $locale['global_410'] = "Motivul pentru asta este: ";
 $locale['global_411'] = "Acest cont a fost anulat.";
 $locale['global_412'] = "Acest cont este anonim, probabil din cauza inactivit&#259;&#355;ii.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Suspendat automat de Controlul abuzurilor";
 $locale['global_441'] = "Contul t&#259;u pe [SITENAME] a fost suspendat";
@@ -359,7 +353,7 @@ $locale['global_459'] = "Noua parol&#259; a fost setat&#259; pentru USER_NAME, &
 // Function parsebytesize()
 $locale['global_460'] = "Gol";
 $locale['global_461'] = "Octe&#355;i";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Vei fi redirec&#355;ionat la %s; te rog a&#351;teapt&#259;. Dac&#259; nu vei fi redirec&#355;ionat, apas&#259; aici.";
 // Captcha Locales
 $locale['global_600'] = "Cod de validare";
@@ -367,10 +361,10 @@ $locale['global_601'] = "Trebuie s&#259; introduci un cod de validare corect";
 $locale['recaptcha'] = "ro";
 // Site links
 $locale['global_700'] = "Arat&#259; mai mult";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Hexazecimala nu a putut fi convertit&#259; &#238;n zecimal&#259;";
 $locale['global_901'] = "Adaug&#259; media";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Limba:";
 $locale['global_ML101'] = "- Selecteaz&#259; limba -";
 $locale['global_ML102'] = "Limba site-ului";
@@ -378,7 +372,7 @@ $locale['global_ML103'] = "Schimb&#259; limba";
 // Flood Control
 $locale['flood'] = "&#206;&#355;i este interzis&#259; postarea p&#226;n&#259; perioada de flood. Te rog a&#351;teapt&#259; %s.";
 $locale['no_image'] = "Nicio imagine";
-$locale['send_message'] = "Trimite mesaj";
+$locale['send_message'] = "Send Message";
 $locale['go_profile'] = "Du-te la pagina lui %s";
 // Global one word locales
 $locale['hello'] = "Salut!";
@@ -398,15 +392,17 @@ $locale['off'] = "Nu";
 $locale['on'] = "Da";
 $locale['or'] = "sau";
 $locale['by'] = "de";
-$locale['in'] = "&#238;n";
+$locale['in'] = "in";
 $locale['of'] = "din";
 $locale['and'] = "&#351;i";
 $locale['na'] = "Nu este disponibil";
 $locale['joined'] = "&#206;nscris din: ";
 // Navigation
-$locale['next'] = "Urm&#259;ator";
+$locale['next'] = "&#206;nainte";
 $locale['previous'] = "Anterior";
 $locale['back'] = "&#206;napoi";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "&#206;nainte";
 $locale['go'] = "Du-te";
 $locale['cancel'] = "Anuleaz&#259;";
@@ -421,12 +417,14 @@ $locale['add'] = "Adaug&#259;";
 $locale['save'] = "Salveaz&#259;";
 $locale['save_changes'] = "Salveaz&#259; schimb&#259;rile";
 $locale['save_and_close'] = "Salveaz&#259; &#351;i &#238;nchide";
+$locale['save_settings'] = "Salveaz&#259; set&#259;rile";
+$locale['settings_updated'] = "Set&#259;ri actualizate";
 $locale['confirm'] = "Confirm&#259;";
 $locale['update'] = "Actualizeaz&#259;";
 $locale['updated'] = "Actualizat";
 $locale['remove'] = "&#350;terge";
 $locale['delete'] = "&#350;terge";
-$locale['search'] = "Caut&#259;";
+$locale['search'] = "Search";
 $locale['help'] = "Ajutor";
 $locale['register'] = "&#206;nregistrare";
 $locale['ban'] = "Baneaz&#259;";
@@ -438,6 +436,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Ac&#355;iuni";
 $locale['language'] = "Limba";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Op&#355;iuni";
 // Persons & Identifiers
 $locale['you'] = "&#354;ie";
 $locale['me'] = "Eu";
@@ -447,7 +446,7 @@ $locale['us'] = "Noi";
 $locale['he'] = "El";
 $locale['she'] = "Ea";
 $locale['it'] = "Ei";
-//Tables
+// Tables
 $locale['order'] = "Ordine";
 $locale['sort'] = "Sorteaz&#259;";
 $locale['id'] = "ID";
@@ -475,7 +474,7 @@ $locale['draft'] = "Ciorn&#259;";
 $locale['settings'] = "Set&#259;ri";
 $locale['posted'] = "postat";
 $locale['profile'] = "Profil";
-$locale['edit'] = "Editare";
+$locale['edit'] = "Editeaz&#259;";
 $locale['qedit'] = "Editare rapid&#259;";
 $locale['view'] = "Vizualizare";
 $locale['login'] = "Conectare";
@@ -489,8 +488,13 @@ $locale['close'] = "&#206;nchide";
 $locale['nopreview'] = "Nu este nimic de previzualizat";
 $locale['mark_as'] = "Marcheaz&#259; ca";
 $locale['preview'] = "Previzualizeaz&#259;";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "Personalizat";
 $locale['submit'] = "Trimite";
+$locale['submissions'] = "Trimiteri";
+$locale['submit_access'] = "Access to Submit page";
+$locale['categories'] = "Categorii";
+$locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "St&#226;nga";
 $locale['center'] = "Centru";
@@ -504,6 +508,16 @@ $locale['about'] = "Despre";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
+// DataTables
+$locale['processing_locale'] = "Please wait patiently while processing...";
+$locale['menu_locale'] = "Display _MENU_ records per page"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nothing found - sorry";
+$locale['result_locale'] = "Showing page _PAGE_ of _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "No records available";
+$locale['filter_locale'] = "(Filtered from _MAX_ total records)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Search Records";
 // Timer
 $locale['timer_year'] = "ani|an";
 $locale['timer_month'] = "luni|lun&#259;";
