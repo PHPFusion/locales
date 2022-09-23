@@ -22,10 +22,10 @@ $locale['ADM_440'] = "Beheerderrechten wijzigen";
 $locale['ADM_441'] = "Content Beheer";
 $locale['ADM_442'] = "Leden Beheer";
 $locale['ADM_443'] = "Systeem Beheer";
-$locale['ADM_444'] = "Infusies";
-$locale['ADM_445'] = "Alle aanvinken";
+$locale['ADM_444'] = "Infusie Beheer";
+$locale['ADM_445'] = "Alle inclusief &rsquo;onveilige&rsquo; opties selecteren";
 $locale['ADM_448'] = "Beheerderrechten opslaan";
-$locale['ADM_449'] = "Instellingen";
+$locale['ADM_449'] = "Instellingen Beheer";
 $locale['ADM_450'] = "Alle &rsquo;veilige&rsquo; opties selecteren";
 // Popup Error/Warning Messages
 $locale['ADM_460'] = "Deze beheerder verwijderen?";
