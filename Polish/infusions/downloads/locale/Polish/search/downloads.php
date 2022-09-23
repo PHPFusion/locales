@@ -2,7 +2,7 @@
 $locale['downloads.php'] = "Download";
 $locale['d400'] = "Download";
 $locale['d401'] = "plik";
-$locale['d402'] = "plików";
+$locale['d402'] = "Download";
 $locale['d403'] = "[NOWY]";
 $locale['d404'] = "Licencja:";
 $locale['d405'] = "O/S:";
