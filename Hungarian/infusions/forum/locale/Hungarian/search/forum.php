@@ -1,11 +1,11 @@
 <?php
-$locale['forum.php'] = "Fórum";
-$locale['f400'] = "Fórum";
+$locale['forum.php'] = "Fórumok";
+$locale['f400'] = "Fórum hozzászólások";
 $locale['f401'] = "teljes fórumban";
 $locale['f402'] = "hozzászólás";
-$locale['f403'] = "Hozzászólást";
+$locale['f403'] = "Fórum hozzászólások";
 $locale['f404'] = "Megjegyzés:";
 $locale['f405'] = "Kiemelés:";
-$locale['f406'] = "találat a";
+$locale['f406'] = "találtam a(z)";
 $locale['f407'] = "fórumtéma nevében";
 $locale['f408'] = "hozzászólásban";
