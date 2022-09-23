@@ -5,7 +5,7 @@ $locale['ERROR_401'] = "Peržiūrėti failą";
 // Errors table
 $locale['ERROR_410'] = "Klaida";
 $locale['ERROR_411'] = "Puslapyje";
-$locale['ERROR_412'] = "Vartotojas";
+$locale['ERROR_412'] = "Narys";
 $locale['ERROR_413'] = "Data";
 $locale['ERROR_414'] = "Statusas";
 $locale['ERROR_415'] = "Eilutė:";
@@ -27,7 +27,7 @@ $locale['ERROR_454'] = "Sunkumas";
 
 $locale['ERROR_460'] = "Klaidos";
 $locale['ERROR_461'] = "Klaidos failas";
-$locale['ERROR_462'] = "Nustatymai";
+$locale['ERROR_462'] = "Pasirinkimai";
 $locale['ERROR_463'] = "Sugeneruota";
 $locale['ERROR_464'] = "Klaidos konsolė";
 $locale['ERROR_465'] = "Pradinis failas";
