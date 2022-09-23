@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "المناقشات المتعلقة بإدارة ه
 $locale['forum_tag_0200'] = "عنوان الوسم";
 $locale['forum_tag_0201'] = "وصف الوسم";
 $locale['forum_tag_0202'] = "لون الوسم";
+$locale['forum_tag_0202a'] = "أيقونة الوسم";
 $locale['forum_tag_0203'] = "لغة الوسم";
 $locale['forum_tag_0204'] = "حالة الوسم";
 $locale['forum_tag_0205'] = "هذا الوسم نشط";
