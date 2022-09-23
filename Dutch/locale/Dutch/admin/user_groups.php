@@ -15,10 +15,10 @@ $locale['GRP_411'] = "Gebruiker \"%s\" verwijderd uit groep \"%s\"";
 $locale['GRP_412'] = "\"%s\" gebruikers verwijderd uit groep \"%s\"";
 
 // Edit/Delete Options
-$locale['GRP_420'] = "Gebruikersgroepen";
+$locale['GRP_420'] = "Gebruikers Groepen";
 $locale['GRP_421'] = "Wijzigen";
 $locale['GRP_422'] = "Verwijderen";
-$locale['GRP_423'] = "Gebruikers Beheer";
+$locale['GRP_423'] = "Gebruikersbeheer";
 $locale['GRP_424'] = "Toon %d gebruikersgroep.";
 $locale['GRP_425'] = "Deze gebruikersgroep verwijderen?";
 $locale['GRP_426'] = "Standaardgroep";
@@ -38,7 +38,7 @@ $locale['GRP_439'] = "Groep pictogram";
 $locale['GRP_440'] = "Leden aan groep toevoegen";
 $locale['GRP_441'] = "Zoek naar toe te voegen leden door gebruik te maken van onderstaand formulier.";
 $locale['GRP_442'] = "U kunt naar meerdere leden zoeken door items door middel van komma&rsquo;s te scheiden.";
-$locale['GRP_446'] = "Naam van gebruiker";
+$locale['GRP_446'] = "Gebruikersnaam";
 $locale['GRP_447'] = "Gebruikerstype";
 $locale['GRP_448'] = "Alle aankruisen";
 $locale['GRP_449'] = "Alle wissen";
