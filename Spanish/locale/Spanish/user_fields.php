@@ -3,7 +3,7 @@
 $locale['u040'] = "Fecha de Registro";
 $locale['u041'] = "Última Visita";
 $locale['u042'] = "Nunca";
-$locale['u043'] = "Enviar un Mensaje Privado";
+$locale['u043'] = "Enviar Mensaje Privado";
 $locale['u044'] = "Información de Contacto";
 $locale['u045'] = "Otra Información";
 $locale['u046'] = "Opciones";
@@ -28,7 +28,7 @@ $locale['u064'] = "Email";
 $locale['u066'] = "Fecha de Registro";
 $locale['u067'] = "Última Visita";
 $locale['u068'] = "Nombre de Usuario";
-$locale['u070'] = "Expulsar";
+$locale['u070'] = "Prohibición";
 $locale['u071'] = "Suspender";
 $locale['u073'] = "¿Borrar este usuario?";
 $locale['u074'] = "Unban";
@@ -45,7 +45,7 @@ $locale['uf_100'] = "Configuración de la cuenta general";
 $locale['uf_101'] = "Ajustes información de usuario";
 $locale['uf_102'] = "Ajustes Avatar de Usuario";
 $locale['uf_103'] = "General";
-$locale['uf_104'] = "Información de usuario";
+$locale['uf_104'] = "Información de Usuarios";
 $locale['uf_105'] = "Foto de perfil";
 $locale['uf_106'] = "Información básica";
 $locale['uf_107'] = "%s no se tiene información disponible del usuario.";
@@ -61,10 +61,10 @@ $locale['u115'] = "Idioma";
 $locale['u116'] = "No hay miembros del grupo";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "User name contains.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "El nombre de usuario contiene caracteres no válidos.";
 $locale['u121'] = "El nombre de usuario que has elegido ya está registrado.";
-$locale['u122'] = "El nombre de usuario no puede dejarse vacío.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "La dirección de email que has indicado parece no ser válida.";
 $locale['u124'] = "Tu dirección de email o el dominio de tu email parece estar expulsado.";
 $locale['u125'] = "La dirección de email que has indicado ya está registrada.";
@@ -177,3 +177,8 @@ Saludos,
 [SITEUSERNAME]
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";
