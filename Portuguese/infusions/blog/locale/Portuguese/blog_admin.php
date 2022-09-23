@@ -52,7 +52,7 @@ $locale['blog_0431'] = "Guardar como rascunho";
 $locale['blog_0432'] = "Tornar este item do blog fixo";
 $locale['blog_0433'] = "Quebra de Linhas Automática";
 $locale['blog_0434'] = "Activar Comentários";
-$locale['blog_0435'] = "Activar Avaliações";
+$locale['blog_0435'] = "Habilitar Avaliações";
 $locale['blog_0437'] = "Salvar Blog";
 $locale['blog_0438'] = "Rascunho";
 $locale['blog_0439'] = "Imagem do Blog:";
@@ -90,7 +90,7 @@ $locale['blog_0561'] = "Esta categoria já existe.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Por favor especifique um tópico";
 $locale['blog_0451'] = "Eliminar este Blog?";
-$locale['blog_0452'] = "%s estão desactivados para todos os items.<br/>Esta configuração só terá efeito quando forem activados novamente.";
+$locale['blog_0452'] = "%s estão desativados para todos os items.<br/>Esta configuração só terá efeito quando forem activados novamente.";
 $locale['blog_0456'] = 'Não há Blogs nesta Categoria.';
 $locale['blog_0457'] = "Por favor, especifique as palavras-chave";
 $locale['blog_0461'] = 'Não há Categorias de Blog definidas.';
