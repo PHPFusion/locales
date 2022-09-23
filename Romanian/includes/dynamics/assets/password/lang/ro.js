@@ -1,17 +1,17 @@
 var pwstrength_locale = {
-    wordMinLength: 'Parola ta este prea scurtă',
+    wordMinLength: 'Your password is too short',
     wordMaxLength: 'Your password is too long',
     wordInvalidChar: 'Your password contains an invalid character',
-    wordNotEmail: 'Nu folosi e-mail-ul tău ca parolă',
-    wordSimilarToUsername: 'Parola ta nu poate conține numele tau de utilizator',
-    wordTwoCharacterClasses: 'Folosestește alte clase de caractere',
-    wordRepetitions: 'Prea multe repetiții',
-    wordSequences: 'Parola ta conține secvențe',
+    wordNotEmail: 'Do not use your email as your password',
+    wordSimilarToUsername: 'Your password cannot contain your username',
+    wordTwoCharacterClasses: 'Use different character classes',
+    wordRepetitions: 'Too many repetitions',
+    wordSequences: 'Your password contains sequences',
     errorList: 'Errors:',
-    veryWeak: 'Foarte slab',
-    weak: 'Slab',
+    veryWeak: 'Very Weak',
+    weak: 'Weak',
     normal: 'Normal',
-    medium: 'Mediu',
-    strong: 'Tare',
-    veryStrong: 'Foarte tare'
-}
+    medium: 'Medium',
+    strong: 'Strong',
+    veryStrong: 'Very Strong'
+};
