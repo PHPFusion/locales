@@ -1,5 +1,5 @@
 <?php
-$locale['gallery_400'] = "Fotoalba";
+$locale['gallery_400'] = "Galérie";
 $locale['gallery_401'] = "Otevřit album";
 $locale['gallery_402'] = "Žádný náhled";
 $locale['gallery_403'] = "Datum:";
@@ -34,4 +34,4 @@ $locale['gallery_460'] = "Poslední fotka";
 $locale['gallery_461'] = "fotka|fotky|fotek";
 $locale['gallery_463'] = "vydavatel|vydavatelé|vydavatelů";
 $locale['gallery_464'] = "Datum přidání:";
-$locale['gallery_465'] = "Galerie";
+$locale['gallery_465'] = "Galérie";
