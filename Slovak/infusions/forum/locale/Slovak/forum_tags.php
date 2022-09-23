@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Diskusie týkajúce sa správy tejto webovej strán
 $locale['forum_tag_0200'] = "Názov tagu";
 $locale['forum_tag_0201'] = "Popis tagu";
 $locale['forum_tag_0202'] = "Farba tagu";
+$locale['forum_tag_0202a'] = "Ikona tagu";
 $locale['forum_tag_0203'] = "Jazyk tagu";
 $locale['forum_tag_0204'] = "Stav tagu";
 $locale['forum_tag_0205'] = "Tento tag je aktívny";
