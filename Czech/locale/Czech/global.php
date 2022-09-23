@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "CZ"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "cs"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "cs"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "cs"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "cs"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "cs"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "cs"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "cs"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "cs"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "cs"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "cs"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "cs"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "cs"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "cs"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "cs"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Leden|Únor|Březen|Duben|Květen|Červen|Červenec|Srpen|Září|Říjen|Listopad|Prosinec";
@@ -108,7 +108,7 @@ $locale['global_031'] = "Žádné články k dispozici";
 // Downloads Side panel
 $locale['global_032'] = "Nejnovější soubory ke stažení";
 $locale['global_033'] = "Žádné soubory ke stažení";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Vítejte";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Nejnovější témata fóra";
@@ -150,7 +150,7 @@ $locale['global_078'] = "Žádné zprávy zatím nebyly zveřejněny";
 $locale['global_079'] = "V ";
 $locale['global_080'] = "Nekategorizováno";
 $locale['global_081'] = "Domovská stránka novinky";
-$locale['global_082'] = "Novinky";
+$locale['global_082'] = "Zprávy";
 $locale['global_083'] = "Naposledy aktualizováno";
 $locale['global_084'] = "Zprávy kategorie";
 $locale['global_085'] = "Všechny ostatní kategorie";
@@ -175,7 +175,7 @@ $locale['global_101b'] = "Zadejte email";
 $locale['global_101c'] = "Zadejte e-mail nebo uživatelské jméno";
 $locale['global_102'] = "Heslo";
 $locale['global_103'] = "Zůstat přihlášen";
-$locale['global_104'] = "Přihlásit se";
+$locale['global_104'] = "Přihlášení";
 $locale['global_105'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] a zaregistrujte se.";
 $locale['global_106'] = "[LINK]Zapomenuté heslo?[/LINK]";
 $locale['global_107'] = "Registrace";
@@ -209,7 +209,7 @@ $locale['UM081'] = "Soukromé zprávy";
 $locale['UM082'] = "Seznam členů";
 $locale['UM083'] = "Administrace webu";
 $locale['UM084'] = "Odhlásit se";
-$locale['UM085'] = "Máte %u novou/é";
+$locale['UM085'] = "Máte %u novou/é ";
 $locale['UM086'] = "zprávu";
 $locale['UM087'] = "zprávy";
 $locale['UM088'] = "Moje sledovaná vlákna";
@@ -231,12 +231,11 @@ $locale['UM103'] = "Odhlásit se jako uživatel";
 $locale['UM098'] = "Doručená pošta: ";
 $locale['UM099'] = "Odeslaná pošta: ";
 $locale['UM100'] = "Archiv: ";
-
 // Keywords and Meta
 $locale['tags'] = "Tagy";
 // Captcha
-$locale['global_150'] = "Ověřovací kód:";
-$locale['global_151'] = "Zadejte ověřovací kód:";
+$locale['global_150'] = "Validační kód:";
+$locale['global_151'] = "Zadejte validační kód:";
 // Footer Counter
 $locale['global_170'] = "unikátní návštěvy";
 $locale['global_171'] = "unikátních návštěv";
@@ -252,9 +251,6 @@ $locale['global_182'] = "Heslo správce nebylo zadáno nebo je nesprávné.";
 $locale['global_183'] = "Vaše relace vypršela. Prosím, přihlaste se znovu.";
 $locale['global_184'] = "Nyní jste přihlášen jako %s";
 $locale['global_185'] = "Nyní jste přepnut zpět na svůj vlastní účet.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Režim údržby je aktivován";
 $locale['global_191'] = "Vaše IP adresa je v současné době na černé listině.";
@@ -266,13 +262,13 @@ $locale['global_196'] = "Neplatné uživatelské jméno či heslo.";
 $locale['global_197'] = "Počkejte prosím, přihlašování může chvíli trvat ...<br/><br/>[LINK]Nebo klikněte zde, pokud nechcete čekat[/LINK]";
 $locale['global_198'] = "UPOZORNĚNÍ: INSTALAČNÍ SOUBOR BOL DETEKOVÁN, PROSÍM VYMAŽTE INSTALL.PHP.";
 $locale['global_199'] = "UPOZORNĚNÍ: heslo administrátoru není nastaveno, klepněte na [LINK]Upravit profil[/LINK] a nastavte ho.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Hledat";
 $locale['global_203'] = "FAQ";
 $locale['global_204'] = "Fórum";
-//Themes
+// Themes
 $locale['global_210'] = "Přejít na obsah";
 $locale['global_300'] = "žádná téma nebyla nalezena";
 $locale['global_301'] = "Je nám líto, ale tuto stránku nelze zobrazit. Vzhledem k některým okolnostem nelze nalézt téma webu.
@@ -298,8 +294,6 @@ $locale['global_409'] = "Tento účet byl z bezpečnostních důvodů zakázán.
 $locale['global_410'] = "Důvodem je: ";
 $locale['global_411'] = "Tento účet byl zrušen.";
 $locale['global_412'] = "Tento účet byl anonymizovaný, pravděpodobně kvůli nečinnosti.";
-$locale['global_413'] = "Uživatelské jméno je k dispozici";
-$locale['global_414'] = "Uživatelské jméno není k dispozici";
 // Flood control
 $locale['global_440'] = "Automatický zákaz od kontroly přetečení";
 $locale['global_441'] = "Váš účet na [SITENAME] byl zakázán";
@@ -330,18 +324,18 @@ $locale['global_459'] = "Bylo nastaveno nové heslo USER_NAME, A e-mail nebyl od
 // Function parsebytesize()
 $locale['global_460'] = "Prázdný";
 $locale['global_461'] = "Byty";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Budete přesměrováni %s, prosím, čekejte. Pokud nejste přesměrováni, klikněte sem.";
 // Captcha Locales
 $locale['global_600'] = "Ověřovací kód";
 $locale['global_601'] = "Musíte zadat správný ověřovací kód";
-$locale['recaptcha'] = "cz";
+$locale['recaptcha'] = "cs";
 // Site links
 $locale['global_700'] = "Zobrazit více";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Nelze konvertovat HEX na DEC";
 $locale['global_901'] = "Vložte médium";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Jazyk:";
 $locale['global_ML101'] = "- Zvolte jazyk -";
 $locale['global_ML102'] = "Jazyk stránek";
@@ -349,7 +343,7 @@ $locale['global_ML103'] = "Přepnout jazyk";
 // Flood Control
 $locale['flood'] = "Je zakázáno odeslat příspěvek, dokud nebude ukončene protečení. Počkejte prosím %s.";
 $locale['no_image'] = "Bez obrázku";
-$locale['send_message'] = "Poslat zprávu";
+$locale['send_message'] = "Odeslat";
 $locale['go_profile'] = "Jít na profil %s";
 // Global one word locales
 $locale['hello'] = "Ahoj!";
@@ -369,7 +363,7 @@ $locale['off'] = "Vypnuto";
 $locale['on'] = "Zapnuto";
 $locale['or'] = "nebo";
 $locale['by'] = "od";
-$locale['in'] = "v";
+$locale['in'] = "ve";
 $locale['of'] = "z";
 $locale['and'] = "a";
 $locale['na'] = "Nejsou k dispozici žádné informace";
@@ -378,6 +372,8 @@ $locale['joined'] = "Připojen od: ";
 $locale['next'] = "Další";
 $locale['previous'] = "Předchozí";
 $locale['back'] = "Zpět";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "Vpřed";
 $locale['go'] = "Jít";
 $locale['cancel'] = "Zrušit";
@@ -392,6 +388,8 @@ $locale['add'] = "Přidat";
 $locale['save'] = "Uložit";
 $locale['save_changes'] = "Uložit změny";
 $locale['save_and_close'] = "Uložit a Zavřít";
+$locale['save_settings'] = "Uložit nastavení";
+$locale['settings_updated'] = "Nastavení bylo úspěšně aktualizováno";
 $locale['confirm'] = "Potvrdit";
 $locale['update'] = "Aktualizovat";
 $locale['updated'] = "Aktualizováno";
@@ -399,7 +397,7 @@ $locale['remove'] = "Odstranit";
 $locale['delete'] = "Vymazat";
 $locale['search'] = "Hledat";
 $locale['help'] = "Pomoc";
-$locale['register'] = "Registrovat";
+$locale['register'] = "Registrace";
 $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reaktivovat";
 $locale['user'] = "Uživatel";
@@ -409,6 +407,7 @@ $locale['hide'] = "Skrýt";
 $locale['actions'] = "Akce";
 $locale['language'] = "Jazyk";
 $locale['loading'] = "Načítá...";
+$locale['options'] = "Možnosti";
 // Persons & Identifiers
 $locale['you'] = "Vy";
 $locale['me'] = "Ja";
@@ -418,11 +417,11 @@ $locale['us'] = "Nás";
 $locale['he'] = "On";
 $locale['she'] = "Ona";
 $locale['it'] = "Ono";
-//Tables
+// Tables
 $locale['order'] = "Pořadí";
 $locale['sort'] = "Seřadit";
 $locale['id'] = "ID";
-$locale['title'] = "Nadpis";
+$locale['title'] = "Název";
 $locale['rights'] = "Práva";
 $locale['info'] = "Info";
 $locale['image'] = "Obrázek";
@@ -460,8 +459,13 @@ $locale['close'] = "Zavřít";
 $locale['nopreview'] = "Náhled není k dispozici";
 $locale['mark_as'] = "Označit jako";
 $locale['preview'] = "Náhled";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "Vlastní";
 $locale['submit'] = "Odoslat";
+$locale['submissions'] = "Na schválení";
+$locale['submit_access'] = "Přístup ke stránce Přidat";
+$locale['categories'] = "Kategorie";
+$locale['thumbnail'] = "Náhled";
 // Alignment
 $locale['left'] = "Vlevo";
 $locale['center'] = "Uprostřed";
@@ -475,13 +479,23 @@ $locale['about'] = "O nás";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. velikost souboru %s / Povolené typy souborů %s";
+// DataTables
+$locale['processing_locale'] = "Počkejte prosím trpělivě při zpracování...";
+$locale['menu_locale'] = "Zobrazit _MENU_ záznamů na stránce"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nic nenalezeno - omlouváme se";
+$locale['result_locale'] = "Zobrazuji stránku _PAGE_ z _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "Žádné záznamy k dispozici";
+$locale['filter_locale'] = "(Filtrováno z _MAX_ záznamů)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Hledat záznamy";
 // Timer
-$locale['timer_year'] = "rokem|lety|lety";
-$locale['timer_month'] = "měsícem|měsíci|měsíci";
-$locale['timer_day'] = "dnem|dny|dny";
-$locale['timer_hour'] = "hodinou|hodinami|hodinami";
-$locale['timer_minute'] = "minutou|minutami|minutami";
-$locale['timer_second'] = "vteřinou|vteřinami|vteřinami";
+$locale['timer_year'] = "rok|roky|let";
+$locale['timer_month'] = "měsíc|měsíce|měsíců";
+$locale['timer_day'] = "den|dny|dní";
+$locale['timer_hour'] = "hodina|hodiny|hodin";
+$locale['timer_minute'] = "minuta|minuty|minut";
+$locale['timer_second'] = "sekunda|sekundy|sekund";
 $locale['timer'] = "[AGO] [DAYS]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "předložení|předložení|předložení";
