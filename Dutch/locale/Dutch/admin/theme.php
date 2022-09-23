@@ -1,16 +1,17 @@
 <?php
-$locale['theme_1000'] = "Thema Beheerder";
+$locale['theme_1000'] = "Thema Instellingen";
 $locale['theme_1001'] = "Thema naam:";
 $locale['theme_1002'] = "Thema voorinstellingen";
 $locale['theme_1003'] = "Geladen";
 $locale['theme_1004'] = "Laden";
 $locale['theme_1005'] = "Beheer thema";
 $locale['theme_1006'] = "Huidig actief thema";
-$locale['theme_1007'] = "Upload Thema ZIP bestand";
+
 $locale['theme_1008'] = "Upload thema";
 $locale['theme_1009'] = "Thema Opmaak";
 $locale['theme_1010'] = "Huidige Thema´s";
-$locale['theme_1011'] = "Upload Nieuw Thema";
+
+$locale['theme_1011a'] = "Admin thema 's";
 $locale['theme_1012'] = "Instellen als Actief";
 $locale['theme_1013'] = "Licentie:";
 $locale['theme_1014'] = "Versie";
@@ -42,7 +43,7 @@ $locale['theme_1037'] = "Selecteer Thema Pakket";
 $locale['theme_2001'] = "Basis lettertypes";
 $locale['theme_2002'] = "Thema onderdelen";
 $locale['theme_2003'] = "Navigatie";
-$locale['theme_2004'] = "Basis lettertypen";
+$locale['theme_2004'] = "Basis lettertypes";
 $locale['theme_2005'] = "Nieuw thema %s opnieuw opbouwen";
 $locale['theme_2006'] = "De Thema machine is momenteel uw nieuw thema aan het herbouwen, en dit kan 15 tot 30 seconden duren, afhankelijk van de netwerk status.<br/>A.u.b. Dit venster niet sluiten of vernieuwen.";
 $locale['theme_2007'] = "Eigen vooringestelde titel";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Verticale Gradient";
 $locale['theme_5011'] = "Radiale Gradient";
 $locale['theme_5012'] = "Diagonale Gradient";
 $locale['theme_5013'] = "Voorinstelling opslaan";
-$locale['theme_success_001'] = "Thema is geüpload naar uw thema map";
+
 $locale['theme_success_002'] = "Thema instellingen verwijderd";
 $locale['theme_success_003'] = "Thema voorinstellingen bijgewerkt";
 $locale['theme_success_004'] = "Thema voorinstellingen succesvol toegevoegd";
 
-$locale['theme_error_001'] = "Thema pakket is te groot. A.u.b. upload files minder dan %s";
-$locale['theme_error_002'] = "Thema pakket is ongeldig. A.u.b. alleen compimeren met een .zip file extensie";
-$locale['theme_error_003'] = "Onbekende Upload Fout";
-$locale['theme_error_004'] = "Thema bestand is niet geüploaded naar de server";
-$locale['theme_error_005'] = "The file kan niet worden geverifieerd. A.u.b het bestand uitpakken en manueel via FTP uploaden";
-$locale['theme_error_006'] = "Uw server ondersteunt geen ZipArchive. Haal de zip uit en doe een handmatige FTP upload";
 $locale['theme_error_007'] = "Thema kan niet worden geherbouwd door de volgende redene(en): - Variablen zijn niet ingevuld of het formulier heeft een fout";
 $locale['theme_error_008'] = "Compiler fout. Thema is niet aangepast.";
-$locale['theme_error_009'] = "Bestand thema.php is niet gevonden.";
