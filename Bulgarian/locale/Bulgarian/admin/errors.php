@@ -1,6 +1,6 @@
 <?php
 // Titles
-$locale['ERROR_400'] = "Лист с грешките";
+$locale['ERROR_400'] = "Журнал на грешките";
 $locale['ERROR_401'] = "Погледнете във файла";
 // Errors table
 $locale['ERROR_410'] = "Грешка";
