@@ -151,7 +151,7 @@ $locale['setup_3000'] = "Administratoren";
 $locale['setup_3002'] = "Artikel";
 $locale['setup_3003'] = "Banner";
 $locale['setup_3004'] = "BB-Codes Verwaltung";
-$locale['setup_3005'] = "Blacklist";
+$locale['setup_3005'] = "Sperrliste";
 $locale['setup_3006'] = "Kommentare";
 $locale['setup_3007'] = "Eigene Seiten";
 $locale['setup_3008'] = "Datenbankbackup";
@@ -269,7 +269,7 @@ $locale['setup_3604'] = "Jung Mitglied";
 $locale['setup_3605'] = "Mitglied";
 $locale['setup_3606'] = "Senior Mitglied";
 $locale['setup_3607'] = "Veteran Mitglied";
-$locale['setup_3608'] = "Fusioneer";
+$locale['setup_3608'] = "Fusionierer";
 // Stage 6 - Sample Smileys
 $locale['setup_3620'] = "L&auml;cheln";
 $locale['setup_3621'] = "Zwinkern";
@@ -310,13 +310,6 @@ $locale['setup_1700'] = "Die Einrichtung ist abgeschlossen";
 $locale['setup_1701'] = "PHPFusion 9 ist jetzt einsatzbereit. Klicken Sie auf Fertigstellen, um die Datei config_temp.php in die config.php<br/> umzuschreiben";
 $locale['setup_1702'] = "<strong>Hinweis: Nachdem Sie Ihre Seite betreten haben, sollten Sie die Datei /install.php löschen und Ihre config.php aus Sicherheitsgründen auf 0644 zurücksetzen.</strong>";
 $locale['setup_1703'] = "Vielen Dank, dass Sie sich für uns entschieden haben.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%d. %B %Y %H:%M:%S";
-$locale['setup_3702'] = "%d.%m.%Y um %H:%M";
-$locale['setup_3703'] = "%d. %B %Y";
-$locale['setup_3704'] = "%d. %B %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "E-Mail Templates";
