@@ -1,16 +1,17 @@
 <?php
-$locale['theme_1000'] = "Administrare tematic&#259;";
+$locale['theme_1000'] = "Cuntomiz&#259;ri tematici";
 $locale['theme_1001'] = "Nume tematic&#259;:";
 $locale['theme_1002'] = "Set&#259;ri predefinite tematic&#259;";
 $locale['theme_1003'] = "&#206;nc&#259;rcat&#259;";
 $locale['theme_1004'] = "&#206;ncarc&#259;";
 $locale['theme_1005'] = "Administrare tematic&#259;";
 $locale['theme_1006'] = "Tematica curent&#259;";
-$locale['theme_1007'] = "&#206;ncarc&#259; fi&#351;ier tematic&#259;";
+
 $locale['theme_1008'] = "&#206;ncarc&#259; tematic&#259;";
 $locale['theme_1009'] = "Stiluri tematic&#259;";
 $locale['theme_1010'] = "Tematicile actuale";
-$locale['theme_1011'] = "&#206;ncarc&#259; o nou&#259; tematic&#259;";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Seteaz&#259; ca activ&#259;";
 $locale['theme_1013'] = "Licen&#355;&#259;:";
 $locale['theme_1014'] = "Versiune:";
@@ -60,11 +61,11 @@ $locale['theme_2018'] = "M&#259;rime font de baz&#259;";
 $locale['theme_2019'] = "M&#259;rime font";
 $locale['theme_2020'] = "Spa&#355;iere linie";
 $locale['theme_2021'] = "M&#259;rime font de baz&#259; mare";
-$locale['theme_2022'] = "Culoare font";
+$locale['theme_2022'] = "Culoare text";
 $locale['theme_2023'] = "M&#259;rime font de baz&#259; mic";
 $locale['theme_2024'] = "Titlu";
 $locale['theme_2025'] = "Stiluri font";
-$locale['theme_2026'] = "Set&#259;ri leg&#259;turi";
+$locale['theme_2026'] = "Set&#259;ri leg&#259;tur&#259;";
 $locale['theme_2027'] = "Culoarea de baz&#259;";
 $locale['theme_2028'] = "Culoare Hover";
 $locale['theme_2029'] = "Stil font Hover";
@@ -118,9 +119,9 @@ $locale['theme_4015'] = "Stil text orizontal";
 $locale['theme_4016'] = "Stil leg&#259;tur&#259;";
 
 $locale['theme_5000'] = "Normal";
-$locale['theme_5001'] = "&#206;ngro&#351;at";
+$locale['theme_5001'] = "&#206;gro&#351;at (Ctrl B)";
 $locale['theme_5002'] = "Italic (Ctrl+I)";
-$locale['theme_5003'] = "Subliniat";
+$locale['theme_5003'] = "Subliniat (Ctrl+U)";
 $locale['theme_5004'] = "&#206;ngro&#351;at &#351;i subliniat";
 $locale['theme_5005'] = "Italic &#351;i &#238;ngro&#351;at";
 $locale['theme_5006'] = "Italic &#351;i subliniat";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Varia&#355;ie vertical&#259;";
 $locale['theme_5011'] = "Varia&#355;ie radial&#259;";
 $locale['theme_5012'] = "Varia&#355;ie diagonal&#259;";
 $locale['theme_5013'] = "Salveaz&#259; preset&#259;rile";
-$locale['theme_success_001'] = "Tematica a fost &#238;nc&#259;rcat&#259; &#238;n directorul themes";
+
 $locale['theme_success_002'] = "Preset&#259;ri tematic&#259; &#351;terse";
 $locale['theme_success_003'] = "Preset&#259;ri tematic&#259; actualizate";
 $locale['theme_success_004'] = "Presetare tematic&#259; ad&#259;ugat&#259;";
 
-$locale['theme_error_001'] = "Pachetul tematicii este prea mare. Te rog &#238;ncarc&#259; un fi&#351;ier mai mic dec&#226;t %s";
-$locale['theme_error_002'] = "Pachetul tematicii nu este valid. Te rog adaug&#259; tematici cu extensia .zip";
-$locale['theme_error_003'] = "Eroare necunoscut&#259;";
-$locale['theme_error_004'] = "Fi&#351;ierul tematicii nu a fost &#238;nc&#259;rcat pe server";
-$locale['theme_error_005'] = "Verificarea fi&#351;ierului a e&#351;uat. Te rog extrage arhiva &#351;i &#238;ncarc&#259; manual prin FTP";
-$locale['theme_error_006'] = "Serverul t&#259;u nu suport&#259; ZipArchive. Te rog extrage arhiva &#351;i &#238;ncarc&#259; manual prin FTP";
 $locale['theme_error_007'] = "Tematica nu a putut fi reconstruit&#259; din urm&#259;torul motiv(e): - Variabilele nu au fost setate sau formularul are o eroare";
 $locale['theme_error_008'] = "Eroare compilare. Tematica nu a fost actualizat&#259;.";
-$locale['theme_error_009'] = "Fi&#351;ierul theme.php nu a fost g&#259;sit.";
