@@ -16,7 +16,7 @@ $locale['412'] = "Zapisz";
 $locale['413'] = "Anuluj";
 $locale['414'] = "Przeczytane";
 $locale['415'] = "Nieprzeczytane";
-$locale['416'] = "Usuń konwersację";
+$locale['416'] = "Usuń";
 $locale['417'] = "Pokaż nadawcę z literami:";
 $locale['418'] = "Wszystkie";
 $locale['419'] = "Nie masz żadnych prywatnych wiadomości";
@@ -130,6 +130,7 @@ $locale['628'] = "Nie można wysłać wiadomości prywatnej. Skrzynka odbiorcza 
 $locale['629'] = "Nie można przenieść wybranej/nych wiadomości do określonego folderu, ponieważ przekroczy to maksymalny limit wiadomości.";
 $locale['630'] = " Limit wiadomości";
 $locale['631'] = "Ta wiadomość została wysłana automatycznie przez bota i nie wymaga żadnej odpowiedzi.";
+$locale['632'] = "System";
 
 $locale['700'] = "Skrzynka odbiorcza użytkownika jest pełna. Spróbuj usunąć lub uaktualnić go do statusu 102 lub 103";
 $locale['701'] = "Identyfikator użytkownika nadawcy nie istnieje w bazie danych. Sekwencja przerwana.";
