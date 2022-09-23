@@ -7,5 +7,5 @@ $locale['d403'] = "[NY]";
 $locale['d404'] = "Lisens:";
 $locale['d405'] = "O/S:";
 $locale['d406'] = "Versjon:";
-$locale['d407'] = "Lagt til dato:";
+$locale['d407'] = "Date Added:";
 $locale['d408'] = "Nedlastinger:";
