@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Thema Instellingen";
+$locale['theme_1000'] = "Thema Beheerder";
 $locale['theme_1001'] = "Thema naam:";
 $locale['theme_1002'] = "Thema voorinstellingen";
 $locale['theme_1003'] = "Geladen";
@@ -43,7 +43,7 @@ $locale['theme_1037'] = "Selecteer Thema Pakket";
 $locale['theme_2001'] = "Basis lettertypes";
 $locale['theme_2002'] = "Thema onderdelen";
 $locale['theme_2003'] = "Navigatie";
-$locale['theme_2004'] = "Basis lettertypes";
+$locale['theme_2004'] = "Basis lettertypen";
 $locale['theme_2005'] = "Nieuw thema %s opnieuw opbouwen";
 $locale['theme_2006'] = "De Thema machine is momenteel uw nieuw thema aan het herbouwen, en dit kan 15 tot 30 seconden duren, afhankelijk van de netwerk status.<br/>A.u.b. Dit venster niet sluiten of vernieuwen.";
 $locale['theme_2007'] = "Eigen vooringestelde titel";
