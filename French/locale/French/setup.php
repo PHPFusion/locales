@@ -21,7 +21,7 @@ $locale['setup_0054'] = "Support de base de données PDO";
 $locale['setup_0055'] = "Limite de mémoire de PHP";
 $locale['setup_0056'] = "Exigences pour la vérification des fichiers";
 $locale['setup_0101'] = "Introduction";
-$locale['setup_0102'] = "Diagnostics de fichiers et de dossiers";
+$locale['setup_0102'] = "System Requirements";
 $locale['setup_0103'] = "Paramètres de la base de données";
 $locale['setup_0104'] = "Configuration de la base de données";
 $locale['setup_0105'] = "Configurer le système de base";
@@ -164,7 +164,7 @@ $locale['setup_3016'] = "Membres";
 $locale['setup_3018'] = "News";
 $locale['setup_3019'] = "Panneaux";
 $locale['setup_3020'] = "Galerie d'albums";
-$locale['setup_3021'] = "PHP info";
+$locale['setup_3021'] = "Server Info";
 $locale['setup_3022'] = "Votes";
 $locale['setup_3023'] = "Lien du site";
 $locale['setup_3024'] = "Émoticône";
@@ -192,7 +192,7 @@ $locale['setup_3057'] = "Outil de migration";
 $locale['setup_3058'] = "Paramètres de thème";
 $locale['setup_3059'] = "Gestionnaire de fichiers Fusion";
 // Multilanguage table rights
-$locale['setup_3200'] = "Article";
+$locale['setup_3200'] = "Articles";
 $locale['setup_3201'] = "Pages personnalisées";
 $locale['setup_3202'] = "Téléchargements";
 $locale['setup_3203'] = "FAQs";
@@ -309,13 +309,6 @@ $locale['setup_1700'] = "L'installation est terminée";
 $locale['setup_1701'] = "PHP Fusion 9 est maintenant prêt à être utilisé. Cliquez sur Terminer pour réécrire votre fichier config_temp.php dans config.php<br/>";
 $locale['setup_1702'] = "<strong>Remarque : Après avoir entré votre site vous devriez supprimer le fichier /install.php et chmod votre config.php à 0644 pour des raisons de sécurité.</strong>";
 $locale['setup_1703'] = "Merci d'avoir choisi PHPFusion.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Modèles d'e-mail";
@@ -329,7 +322,7 @@ $locale['setup_3807'] = "Formulaire de contact";
 $locale['setup_3808'] = "[SUBJECT]";
 $locale['setup_3809'] = "[MESSAGE]";
 // Official Supported System List
-$locale['articles']['title'] = "Article";
+$locale['articles']['title'] = "Articles";
 $locale['articles']['description'] = "Un système de documentation standard.";
 $locale['blog']['title'] = "Blog";
 $locale['blog']['description'] = "Un système de blogs standard.";
