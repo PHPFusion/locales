@@ -84,8 +84,15 @@ $locale['df_422'] = "Okänt fel (Query)";
 $locale['df_423'] = "Filen laddades inte upp ordentligt. Försök igen";
 $locale['df_424'] = "Aktuella uppladdningsfiler är mer än maxgränsen. Försök igen och bifoga färre filer.";
 
-// ReCaptcha2
+$locale['error_rate'] = "Vänligen ange en kurs.";
+$locale['error_type'] = "Vänligen ange tilläggstyp.";
+$locale['error_width'] = "Vänligen ange bredd.";
+$locale['error_height'] = "Vänligen ange höjd.";
+$locale['error_value'] = "Var vänlig och skriv in ett värde.";
+
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha fältmodul";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY från Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY från Google";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Mörkt";
 $locale['grecaptcha_0103'] = "Valideringstyp";
 $locale['grecaptcha_0103a'] = "Text";
 $locale['grecaptcha_0103b'] = "Ljud";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Ange din offentliga och privata reCAPTCHA-nyckel";
