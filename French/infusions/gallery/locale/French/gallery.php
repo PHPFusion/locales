@@ -1,5 +1,5 @@
 <?php
-$locale['gallery_400'] = "Albums de Galerie";
+$locale['gallery_400'] = "Galerie d'albums";
 $locale['gallery_401'] = "Ouvrir l'album";
 $locale['gallery_402'] = "Aucune miniature";
 $locale['gallery_403'] = "Date :";
@@ -10,7 +10,7 @@ $locale['gallery_420'] = "Informations de l'album";
 $locale['gallery_421'] = "Album:";
 $locale['gallery_422'] = "Nombre de photos :";
 $locale['gallery_423'] = "Dernière photo ajoutée par";
-$locale['gallery_424'] = "on";
+$locale['gallery_424'] = "sur";
 $locale['gallery_425'] = "Aucune photo n'a été ajoutée à cet album";
 $locale['gallery_430'] = "Afficher l'album";
 $locale['gallery_431'] = "Cliquer pour afficher";
