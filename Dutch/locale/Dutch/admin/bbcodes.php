@@ -1,5 +1,5 @@
 <?php
-$locale['BBCA_400'] = "BB Codes";
+$locale['BBCA_400'] = "BB-code Beheer";
 $locale['BBCA_400a'] = "BB-codes Administratie";
 $locale['BBCA_401'] = "BB-codes testen";
 // Enabled BB Codes
