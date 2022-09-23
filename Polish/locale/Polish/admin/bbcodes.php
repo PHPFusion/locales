@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "Kod BB został przeniesiony w górę.";
 $locale['BBCA_431'] = "Kod BB został przeniesiony w dół.";
 $locale['BBCA_432'] = "Kod BB został włączony.";
 $locale['BBCA_433'] = "Kod BB został wyłączony.";
+$locale['BBCA_444'] = "Kod BB został zaktualizowany";
+$locale['BBCA_445'] = "Kod BB nie został zaktualizowany";
+
+$locale['BBCA_500'] = "Dodaj separator";
+$locale['BBCA_501'] = "Separator";
+$locale['BBCA_502'] = "Separator do grupowania przycisków BBcode";
