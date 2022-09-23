@@ -1,5 +1,5 @@
 <?php
-$locale['400'] = "Categorías del blog";
+$locale['400'] = "Categorías de blog";
 $locale['401'] = "Categoría:";
 $locale['402'] = "Número de artículos:";
 $locale['403'] = "Blogs No-categorizados";
