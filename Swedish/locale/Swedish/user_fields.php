@@ -61,10 +61,10 @@ $locale['u115'] = "Språk";
 $locale['u116'] = "Det finns inga gruppmedlemmar.";
 $locale['u117'] = "Inga användargrupper.";
 // User name and email
-$locale['u119'] = "Användarnamnet innehåller.";
+$locale['u119'] = "User name is prohibited.";
 $locale['u120'] = "Användarnamnet innehåller ogiltiga tecken.";
 $locale['u121'] = "Det valda användarnamnet är redan taget av en annan användare.";
-$locale['u122'] = "Användarnamn kan inte vara tomt.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "E-postadressen är inte giltig.";
 $locale['u124'] = "Din e-postadress eller e-postdomän verkar vara svartlistad.";
 $locale['u125'] = "E-postadressen är redan registrerad.";
@@ -157,3 +157,8 @@ Om du verkligen vill ändra din e-postadress till denna klickar du på följande
 [EMAIL_VERIFY_LINK]<br/>
 Obs: du måste vara inloggad för att fortsätta.<br/>
 Hälsningar, [SITEUSERNAME]<br/>[SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";
