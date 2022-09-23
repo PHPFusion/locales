@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "BB Code has been moved Up.";
 $locale['BBCA_431'] = "BB Code has been moved Down.";
 $locale['BBCA_432'] = "BB Code has been Enabled.";
 $locale['BBCA_433'] = "BB Code has been Disabled.";
+$locale['BBCA_444'] = "Codul BB a fost actualizat";
+$locale['BBCA_445'] = "Actualizarea codului BB a eșuat";
+
+$locale['BBCA_500'] = "Adăugare separator";
+$locale['BBCA_501'] = "Separator";
+$locale['BBCA_502'] = "Separator pentru gruparea butoanelor BBcode";
