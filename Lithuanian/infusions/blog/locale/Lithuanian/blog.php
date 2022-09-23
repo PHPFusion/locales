@@ -1,5 +1,5 @@
 <?php
-$locale['blog_1000'] = "Tinklaraštis";
+$locale['blog_1000'] = "Tinklaraščiai";
 $locale['blog_1001'] = "Tinklaraščio pradžia";
 $locale['blog_1003'] = "Tinklaraščio kategorija";
 $locale['blog_1004'] = "Tinklaraščio archyvas";
@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Nėra sukurtų tinklaraščių";
 $locale['blog_3001'] = "Nėra kategorijų";
 $locale['blog_3002'] = "Nėra pranešimų";
 $locale['blog_3003'] = "Nėra autoriaus";
+$locale['blog_3004'] = "Most Read Blogs";
 $locale['testimonial_rank'] = "Aš esu šio tinklapio %s";
 $locale['testimonial_location'] = "ir šiuo metu gyvenu %s";
 $locale['testimonial_join'] = "Šio tinklapio nariu tapau %s";
