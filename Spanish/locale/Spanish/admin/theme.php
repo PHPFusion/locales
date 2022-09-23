@@ -1,16 +1,17 @@
 <?php
-$locale['theme_1000'] = "Gestor de temas";
+$locale['theme_1000'] = "Personalizaciones Theme";
 $locale['theme_1001'] = "Nombre del tema:";
 $locale['theme_1002'] = "Presets de tema";
 $locale['theme_1003'] = "Cargado";
 $locale['theme_1004'] = "Cargar";
 $locale['theme_1005'] = "Administrar Tema";
 $locale['theme_1006'] = "Tema activo actual";
-$locale['theme_1007'] = "Subir archivo ZIP del tema";
+
 $locale['theme_1008'] = "Cargar tema";
 $locale['theme_1009'] = "Estilo del tema";
-$locale['theme_1010'] = "Temas actuales";
-$locale['theme_1011'] = "Cargar nuevo tema";
+$locale['theme_1010'] = "Site Themes";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Establecer como activo";
 $locale['theme_1013'] = "Licencia:";
 $locale['theme_1014'] = "Versión";
@@ -65,7 +66,7 @@ $locale['theme_2022'] = "Color de fuente";
 $locale['theme_2023'] = "Tamaño de fuente base pequeño";
 $locale['theme_2024'] = "Encabezado";
 $locale['theme_2025'] = "Estilo de fuente";
-$locale['theme_2026'] = "Configuración del enlace";
+$locale['theme_2026'] = "Configuración de enlace";
 $locale['theme_2027'] = "Color base";
 $locale['theme_2028'] = "Color de desplazamiento";
 $locale['theme_2029'] = "Estilo de fuente de desplazamiento";
@@ -133,17 +134,10 @@ $locale['theme_5010'] = "Gradiente vertical";
 $locale['theme_5011'] = "Gradiente radial";
 $locale['theme_5012'] = "Gradiente Diagonal";
 $locale['theme_5013'] = "Guardar preestablecido";
-$locale['theme_success_001'] = "Tema fue cargado en su carpeta de temas";
+
 $locale['theme_success_002'] = "Ajustes preestablecidos del tema eliminados";
 $locale['theme_success_003'] = "Ajustes preestablecidos del tema actualizados";
 $locale['theme_success_004'] = "Ajustes preestablecidos del tema agregados con éxito";
 
-$locale['theme_error_001'] = "El paquete del tema es demasiado grande. Cargue archivos de menos de %s";
-$locale['theme_error_002'] = "El paquete del tema no es válido. Por favor, solo comprima los temas usando la extensión de archivo .zip";
-$locale['theme_error_003'] = "Error de carga desconocida";
-$locale['theme_error_004'] = "El archivo del tema no fue cargado por el servidor";
-$locale['theme_error_005'] = "El archivo no se pudo verificar. Extraiga el archivo comprimido y realice una carga manual de FTP";
-$locale['theme_error_006'] = "Su servidor no es compatible con ZipArchive. Extraiga el zip y realice una carga manual de FTP";
 $locale['theme_error_007'] = "El tema no se puede reconstruir debido a los siguientes motivos: - Las variables no se establecieron o la forma tiene error";
 $locale['theme_error_008'] = "Error del compilador. El tema no se actualizó.";
-$locale['theme_error_009'] = "Archivo theme.php no se encontró.";
