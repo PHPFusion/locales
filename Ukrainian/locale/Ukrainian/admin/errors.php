@@ -27,7 +27,7 @@ $locale['ERROR_454'] = "Важливість";
 
 $locale['ERROR_460'] = "Помилки";
 $locale['ERROR_461'] = "Помилковий файл";
-$locale['ERROR_462'] = "Опції";
+$locale['ERROR_462'] = "Параметри";
 $locale['ERROR_463'] = "Створено";
 $locale['ERROR_464'] = "Консоль помилок";
 $locale['ERROR_465'] = "Початковий файл";
