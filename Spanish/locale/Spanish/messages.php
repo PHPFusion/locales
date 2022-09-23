@@ -30,7 +30,7 @@ $locale['425'] = "Opciones";
 $locale['426'] = "Enviar";
 $locale['427'] = "Desactivar Smileys en el mensaje";
 $locale['428'] = "Mostrar la firma en el mensaje";
-$locale['429'] = "Vista Previa";
+$locale['429'] = "Vista previa";
 $locale['430'] = "Enviar";
 $locale['431'] = "Leer Mensaje Privado";
 $locale['432'] = "Cerrar";
@@ -46,15 +46,15 @@ $locale['444'] = "Más";
 $locale['445'] = "Configuración guardada";
 $locale['446'] = "Mensajes no leídos";
 $locale['447'] = "Leer mensajes";
-$locale['448'] = "Configuración";
+$locale['448'] = "Ajustes";
 
 // Search Options -- this is used by Search.php
 $locale['450'] = "Opciones de Búsqueda y Orden";
 $locale['451'] = "Buscar/Ordenar";
-$locale['452'] = "Limpiar";
+$locale['452'] = "Claro";
 $locale['453'] = "No hay resultados para tu búsqueda";
 $locale['454'] = "Buscar";
-$locale['455'] = "en";
+$locale['455'] = "in";
 $locale['456'] = "Ordenar por";
 $locale['457'] = "(Usa ? y * como comodines)";
 $locale['458'] = "Mostrando miembros con '%s' en '%s' ";
@@ -117,7 +117,7 @@ $locale['523'] = "No mantener un registro";
 $locale['524'] = "Sí, guardar mis mensajes enviados";
 
 // Options
-$locale['620'] = "Opciones";
+$locale['620'] = "Ajustes";
 $locale['621'] = "Notificar por email la recepción de mensajes:";
 $locale['622'] = "Guardar automáticamente los mensajes enviados:";
 $locale['623'] = "Guardar";
@@ -128,7 +128,8 @@ $locale['627'] = "Erreur";
 $locale['628'] = "No se ha podido enviar el mensaje privado. La bandeja de entrada del destinatario está llena.";
 $locale['629'] = "No se pueden mover los mensajes seleccionados a la carpeta indicada, ya que se excedería el límite máximo de mensajes.";
 $locale['630'] = " Límite de Mensajes";
-$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
+$locale['631'] = "This message was sent automatically by system and does not require any reply.";
+$locale['632'] = "System";
 
 $locale['700'] = "La bandeja de entrada del usuario está llena. Intente eliminarlo o actualizarlo al estado 102 o 103";
 $locale['701'] = "El ID de usuario del remitente no existe en el DB. Secuencia Abortada.";
