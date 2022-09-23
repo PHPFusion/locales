@@ -309,13 +309,6 @@ $locale['setup_1700'] = "Installatie is voltooid";
 $locale['setup_1701'] = "PHPFusion 9 is nu klaar voor gebruik. Klik op Voltooien om uw config_temp.php bestand te herschrijven naar config.php<br/>";
 $locale['setup_1702'] = "<strong> Indien uw site goed blijkt te werken dient u uit veiligheidsoverwegingen setup.php van uw server te verwijderen en moet u config.php tegen schrijven beveiligen (CHMOD 644).</strong>";
 $locale['setup_1703'] = "Dank u wel voor het kiezen van PHPFusion.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Email Sjablonen";
