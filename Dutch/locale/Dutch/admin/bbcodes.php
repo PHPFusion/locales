@@ -1,5 +1,5 @@
 <?php
-$locale['BBCA_400'] = "BB-code Beheer";
+$locale['BBCA_400'] = "BB Codes";
 $locale['BBCA_400a'] = "BB-codes Administratie";
 $locale['BBCA_401'] = "BB-codes testen";
 // Enabled BB Codes
@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "BB Code is omhoog geplaatst.";
 $locale['BBCA_431'] = "BB Code is omlaag geplaatst.";
 $locale['BBCA_432'] = "BB Code is ingeschakeld.";
 $locale['BBCA_433'] = "BB Code is uitgeschakeld.";
+$locale['BBCA_444'] = "BB Code is bijgewerkt";
+$locale['BBCA_445'] = "BB Code kon niet worden bijgewerkt";
+
+$locale['BBCA_500'] = "Scheidingsteken toevoegen";
+$locale['BBCA_501'] = "Scheidingsteken";
+$locale['BBCA_502'] = "Scheidingsteken voor het groeperen van BBcode knoppen";
