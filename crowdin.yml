@@ -1,10 +1,10 @@
 files:
-  - source: English/includes/**/*.*
+  - source: English/includes/dynamics/assets/datepicker/**/*.*
     ignore:
       - index.php
       - '*.md'
       - '*.min.js'
-    translation: /%language%/includes/**/%file_name%.%file_extension%
+    translation: /%language%/includes/**/%locale%.%file_extension%
   - source: English/locale/English/**/*.*
     ignore:
       - '*.png'
@@ -22,3 +22,5 @@ files:
     ignore:
       - index.php
     translation: /%language%/widgets/**/%language%.%file_extension%
+  - source: /English/includes/dynamics/assets/password/lang/en.js
+    translation: /%language%/includes/dynamics/assets/password/lang/%two_letters_code%.%file_extension%
