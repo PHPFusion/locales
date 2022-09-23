@@ -16,14 +16,14 @@ $locale['blog_0144'] = "Pateikimo ID";
 $locale['blog_0145'] = "Tinklaraščio pateikimas buvo ištrintas";
 $locale['blog_0146'] = "Tinklaraščio pateikimas buvo publikuotas";
 $locale['blog_0147'] = "Tinklaraščio pateikimas išsaugotas kaip juodraštis";
-$locale['blog_0148'] = "Įkėlė ";
+$locale['blog_0148'] = "Parašė ";
 $locale['blog_0149'] = "%s buvo išjungtas, todėl neveikia.";
 // Blog titles
 $locale['blog_0400'] = "Esami tinklaraščiai";
 $locale['blog_0401'] = "Pridėti tinklaraštį";
 $locale['blog_0402'] = "Redaguoti tinklaraštį";
-$locale['blog_0405'] = "Tinklaraštis";
-$locale['blog_0406'] = "Tinklaraščio nustatymai";
+$locale['blog_0405'] = "Tinklaraščiai";
+$locale['blog_0406'] = "Nustatymai";
 $locale['blog_0407'] = "Tinklaraščių kategorijos";
 $locale['blog_0408'] = "Rodoma %d iš visų %d tinklaraščių įrašų";
 $locale['blog_0409'] = "Pridėti tinklaraščių kategoriją";
@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Nežinoma klaida";
 // Blog form
 $locale['blog_0422'] = "Tema:";
 $locale['blog_0423'] = "Kategorija:";
-$locale['blog_0424'] = "Nepriskirta";
+$locale['blog_0424'] = "Nekategorizuota";
 $locale['blog_0425'] = "Ištraukta:";
 $locale['blog_0425a'] = "Trumpas tinklaraščio pristatymas";
 $locale['blog_0426'] = "Pilnas:";
@@ -51,20 +51,20 @@ $locale['blog_0430'] = "Matomumas:";
 $locale['blog_0431'] = "Išsaugoti kaip juodraštį";
 $locale['blog_0432'] = "Prisegti šį įrašą";
 $locale['blog_0433'] = "Automatinis eilučių laužymas";
-$locale['blog_0434'] = "Įjungti komentarus";
-$locale['blog_0435'] = "Įjungti reitingus";
+$locale['blog_0434'] = "Leisti komentarus";
+$locale['blog_0435'] = "Leisti įvertinti";
 $locale['blog_0437'] = "Išsaugot tinklaraštį";
-$locale['blog_0438'] = "Juodarštis";
+$locale['blog_0438'] = "Juodraštis";
 $locale['blog_0439'] = "Įrašo nuotrauka:";
 $locale['blog_0440'] = "Didž. failo dydis %s / Leidžiami failų tipai GIF, JPEG arba PNG.";
-$locale['blog_0441'] = "Puslapio atskyrimas";
+$locale['blog_0441'] = "Puslapio pabaiga";
 $locale['blog_0442'] = "Pasirinkti nuotraukos lygiavimą:";
 $locale['blog_0443'] = "Raktažodžiai:";
 $locale['blog_0444'] = "Po kiekvieno raktažodžio spauskite Enter";
 // Blog Category
 // Blog Categories titles
 $locale['blog_0500'] = "Redaguoti tinklaraščių kategoriją";
-$locale['blog_0502'] = "Esamos tinklaraščių kategorijos";
+$locale['blog_0502'] = "Kategorijos";
 // Blog Categories messages
 $locale['blog_0520'] = "Kategorija pridėta";
 $locale['blog_0521'] = "Kategorija atnaujinta";
@@ -74,11 +74,11 @@ $locale['blog_0524b'] = "Kategorija ištrinta";
 // Blog Categories form
 $locale['blog_0530'] = "Kategorijos pavadinimas:";
 $locale['blog_0531'] = "Kategorijos nuotrauka:";
-$locale['blog_0532'] = "Išsaugoti";
+$locale['blog_0532'] = "Išsaugoti kategoriją";
 $locale['blog_0533'] = "Kategorija priklauso:";
 $locale['blog_0535'] = "Nėra pridėtų tinklaraščių kategorijų";
 $locale['blog_0536'] = "Spauskite čia norėdami įkelti kategorijos nuotraukas";
-$locale['blog_0537'] = "Priklausomumas";
+$locale['blog_0537'] = "Priklausymas";
 $locale['blog_0538'] = "Baitai (bytes)";
 $locale['blog_0539'] = "KB (Kilobaitai)";
 $locale['blog_0540'] = "MB (Megabaitai)";
@@ -90,8 +90,9 @@ $locale['blog_0561'] = "Tokia kategorija jau egzistuoja.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Prašome nurodyti pavadinimą";
 $locale['blog_0451'] = "Ištrinti šį tinklaraštį?";
-$locale['blog_0452'] = "%s yra išjungta viskam.
-Šis nustatymas veiks tik tuomet, kai bus vėl įjungta.";
+$locale['blog_0452'] = "%s yra išjungtas.
+
+Šis nustatymas pradės galioti, kai tai bus įjungta.";
 $locale['blog_0456'] = 'Šioje kategorijoje nėra tinklaraščių.';
 $locale['blog_0457'] = "Prašome nurodyti raktažodžius";
 $locale['blog_0461'] = 'Nėra pridėtų tinklaraščių kategorijų.';
@@ -103,11 +104,11 @@ $locale['blog_0460'] = "Visi tinklaraščio įrašai";
 $locale['left'] = "Kairė";
 $locale['center'] = "Centras";
 $locale['right'] = "Dešinė";
-$locale['blog_0600'] = "Tinklaraščio pateikimai";
+$locale['blog_0600'] = "Pateikimai";
 $locale['blog_0601'] = "Pateikimo nuotrauka";
 $locale['blog_0602'] = "Reikalaujamas ilgas įrašas?";
 // Public Submissions Form
-$locale['blog_0700'] = "Pateikti įrašą";
+$locale['blog_0700'] = "Pateikti tinklaraštį";
 $locale['blog_0701'] = "Ačiū, kad pateikėte savo tinklaraštį";
 $locale['blog_0702'] = "Pateikti kitą tinklaraščio įrašą";
 $locale['blog_0703'] = "Naudokitės šia forma, kad pateiktumėte tinklaraštį. Jūsų pateikimas bus peržiūrėtas
