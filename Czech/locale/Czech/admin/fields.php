@@ -49,7 +49,7 @@ $locale['fields_0404'] = "Nelze nainstalovat";
 $locale['fields_0405'] = "Informace o poli sloupce tabulky:";
 $locale['fields_0406'] = "Toto není pole";
 $locale['fields_0407'] = "Popis pole:";
-$locale['fields_0410'] = "Vybrat kategorii";
+$locale['fields_0410'] = "Vyberte kategorii";
 $locale['fields_0411'] = "Toto je požadované pole";
 $locale['fields_0412'] = "Záznam uživatelských polí";
 $locale['fields_0413'] = "Připojte pole k registračnímu formuláři?";
@@ -66,7 +66,7 @@ $locale['fields_0435'] = "Uživatelský sloupec primární tabulky";
 $locale['fields_0436'] = "Třída ikony";
 $locale['fields_0437'] = "Ikonu pro karty";
 
-$locale['fields_0450'] = "Vybrat kategorii";
+$locale['fields_0450'] = "Vyberte kategorii";
 $locale['fields_0451'] = "Název pole";
 $locale['fields_0452'] = "Název formulářového pole";
 $locale['fields_0453'] = "Jméno pole";
@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Existují %s podkategorií v této kategorii";
 $locale['fields_0601'] = "Existují %s pole v této kategorii";
 $locale['fields_0602'] = "Tento modul nelze nainstalovat. Chybí informace o sloupcích tabulky.";
 
-$locale['fields_0650'] = "Přesunout ID pole ";
-$locale['fields_0651'] = " Zadejte slot a ID pole [FIELD_ID] dolů.";
-$locale['fields_0652'] = " Dole a slot a pole ID [FIELD_ID] nahoru slot.";
 $locale['fields_0653'] = "Žádný výsledek";
-$locale['fields_0654'] = "Odstranit pole";
-$locale['fields_0655'] = "ID kočky nebylo nalezeno. Zkontrolujte prosím znovu.";
-$locale['fields_0656'] = "ID kategorie nebylo nalezeno. Zkontrolujte prosím znovu.";
-$locale['fields_0657'] = " nastavit na načtení.";
-$locale['fields_0658'] = " načteno.";
+
 $locale['fields_0659'] = " chybí lokalizace!";
 $locale['fields_0660'] = "Nebyly nalezeny žádné moduly";
-$locale['fields_0661'] = "Režim aktualizace";
-$locale['fields_0662'] = "Uložit režim";
+
 $locale['fields_0663'] = "Název tabulky";
-$locale['fields_0664'] = "Staré informace o tabulce -";
-$locale['fields_0665'] = "Nové informace o tabulce -";
-$locale['fields_0666'] = "Vidlice č.1 - Aktualizační pole na jiné tabulce";
-$locale['fields_0667'] = "Konflikt sloupců. Ve sloupcích [OLD_TABLE] existují sloupce ";
-$locale['fields_0668'] = "Vidlice č.2 - Aktualizovat pole na stejné tabulce";
-$locale['fields_0669'] = "Přejmenovat sloupec [FIELD_NAME] na [OLD_TABLE] na [FIELD_NAME_] s atributy ";
-$locale['fields_0670'] = "Staré údaje";
 $locale['fields_0671'] = "Vaša tabuľka musí být platná tabulka. Váš sloupec musí být sloupcom Id uživatele v této tabulce.";
