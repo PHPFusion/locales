@@ -27,7 +27,7 @@ $locale['u063'] = "Úroveň užívateľa";
 $locale['u064'] = "E-mail";
 $locale['u066'] = "Dátum registrácie";
 $locale['u067'] = "Posledná návšteva";
-$locale['u068'] = "Užívateľské meno";
+$locale['u068'] = "Meno";
 $locale['u070'] = "Ban";
 $locale['u071'] = "Pozastaviť";
 $locale['u073'] = "Zmazať tohto užívateľa?";
@@ -45,7 +45,7 @@ $locale['uf_100'] = "Všeobecné nastavenia účtu";
 $locale['uf_101'] = "Nastavenia informácií o používateľovi";
 $locale['uf_102'] = "Nastavenia používateľského avataru";
 $locale['uf_103'] = "Všeobecné";
-$locale['uf_104'] = "Informácie o používateľovi";
+$locale['uf_104'] = "Info o užívateľovi";
 $locale['uf_105'] = "Profilový obrázok";
 $locale['uf_106'] = "Základné informácie";
 $locale['uf_107'] = "%s nemá k dispozícii žiadne užívateľské informácie.";
@@ -55,21 +55,21 @@ $locale['uf_108'] = "Nie sú pridané žiadne užívateľské polia";
 $locale['u110'] = "Zobraziť užívateľské skupiny";
 $locale['u111'] = "%u užívateľ";
 $locale['u112'] = "%u užívatelia";
-$locale['u113'] = "Užívateľské meno";
-$locale['u114'] = "Typ užívateľa";
+$locale['u113'] = "Meno";
+$locale['u114'] = "Typ účtu";
 $locale['u115'] = "Jazyk";
 $locale['u116'] = "Neexistujú žiadný členovia skupiny.";
 $locale['u117'] = "Žiadne skupiny užívateľov.";
 // User name and email
-$locale['u119'] = "Užívateľské meno obsahuje.";
-$locale['u120'] = "Užívateľské meno obsahuje nepovolené znaky.";
+$locale['u119'] = "Užívateľské meno je zakázané.";
+$locale['u120'] = "Uživateľské meno obsahuje neplatné znaky.";
 $locale['u121'] = "Zvolené užívateľské meno už používa iný užívateľ.";
 $locale['u122'] = "Užívateľské meno nemôže byť prázdne.";
 $locale['u123'] = "Vaša emailová adresa je neplatná.";
 $locale['u124'] = "Vaša emailová adresa alebo emailová doména je na čiernej listine.";
 $locale['u125'] = "Túto emailovú adresu už používa iný užívateľ.";
 $locale['u126'] = "Emailová adresa nemôže byť prázdna.";
-$locale['u127'] = "Užívateľské meno";
+$locale['u127'] = "Meno";
 $locale['u128'] = "E-mailová adresa";
 $locale['u129'] = "Informácie o účte";
 // Passwords
@@ -141,7 +141,7 @@ $locale['u186'] = "Kliknite na tlačidlo Prehľadávať pre nahratie obrázka";
 // Captcha and terms
 $locale['u190'] = "Validačný kód";
 $locale['u191'] = "Vložte validačný kód";
-$locale['u192'] = "Zmluvné podmienky";
+$locale['u192'] = "Licenčné podmienky";
 $locale['u193'] = "Prečítal som si [LINK]Zmluvné podmienky[/LINK] a súhlasím s nimi.";
 $locale['u193a'] = "Aktualizované";
 $locale['u193b'] = "Súhlasím";
@@ -157,3 +157,8 @@ Ak naozaj chcete zmeniť svoju e-mailovú adresu na túto, kliknite na nasleduj�
 [EMAIL_VERIFY_LINK]<br/>
 Poznámka: Ak chcete pokračovať, musíte sa prihlásiť.<br/>
 S pozdravom, [SITEUSERNAME]<br/>[SITENAME]";
+// Checker
+$locale['u300'] = "Heslo by malo obsahovať najmenej 1 špeciálny znak";
+$locale['u301'] = "Heslo by malo obsahovať najmenej 1 veľké a 1 malé písmeno";
+$locale['u302'] = "Heslo by malo obsahovať najmenej 1 číslo";
+$locale['u303'] = "Heslo by malo mať najmenej 8 znakov";
