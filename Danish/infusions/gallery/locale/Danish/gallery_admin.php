@@ -91,6 +91,7 @@ $locale['gallery_0220'] = "Fotoindstillinger";
 $locale['gallery_0221'] = "Opsætning for galerifotos";
 $locale['gallery_0222'] = "Bredde";
 $locale['gallery_0223'] = "Højde";
+$locale['gallery_0224'] = "Vis seneste foto som albumminiature";
 $locale['photo_0001'] = "Fototitel";
 $locale['photo_0002'] = "Fotonavn";
 $locale['photo_0003'] = "Fotoalbum";
