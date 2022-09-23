@@ -1,5 +1,5 @@
 <?php
-$locale['r100'] = "Vurderinger";
+$locale['r100'] = "Ratings";
 $locale['r101'] = "Teksten er ikke vurdert.";
 $locale['r102'] = "Fjern vurdering";
 $locale['r103'] = "Lagre vurdering";
