@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Diskussioner om hanteringen av denna webbplats";
 $locale['forum_tag_0200'] = "Tagg titel";
 $locale['forum_tag_0201'] = "Tagg beskrivning";
 $locale['forum_tag_0202'] = "Tagg färg";
+$locale['forum_tag_0202a'] = "Tag Icon";
 $locale['forum_tag_0203'] = "Språk för tagg";
 $locale['forum_tag_0204'] = "Tagg Status";
 $locale['forum_tag_0205'] = "Denna tagg är aktiv";
