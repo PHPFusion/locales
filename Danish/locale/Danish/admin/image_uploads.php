@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion filmanager";
-
+$locale['IMGUP_100'] = "Fusion filmanager";
 // Delete Image
-$locale['400'] = "Slet billede";
-$locale['401'] = "Billede slettet";
-$locale['402'] = "Tilbage til billedadministration";
-$locale['403'] = "Tilbage til administrationssiden";
+$locale['IMGUP_400'] = "Slet billede";
+$locale['IMGUP_401'] = "Billedet er slettet";
+$locale['IMGUP_402'] = "Tilbage til billedadministration";
+$locale['IMGUP_403'] = "Tilbage til administrationsside";
 // Upload Image
-$locale['420'] = "Upload billede";
-$locale['421'] = "Filnavn:";
-$locale['422'] = "Hovedfolder";
-$locale['423'] = "Artikler";
-$locale['424'] = "Nyheder";
-$locale['425'] = "Maks. filstørrelse %s / Tilladte filtyper .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Billedet er uploadet";
-$locale['427'] = "Nyhedskategorier";
-$locale['428'] = "Blogbilleder";
-$locale['429'] = "Blogkategorier - billeder";
+$locale['IMGUP_420'] = "Upload billede";
+$locale['IMGUP_421'] = "Filnavn:";
+$locale['IMGUP_422'] = "Hovedfolder";
+$locale['IMGUP_423'] = "Artikler";
+$locale['IMGUP_424'] = "Nyhedsbilleder";
+$locale['IMGUP_425'] = "Maks. filstørrelse %s / Tilladte filtyper .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Billedet er uploadet";
+$locale['IMGUP_427'] = "Nyhedskategorier";
+$locale['IMGUP_428'] = "Blog billeder";
+$locale['IMGUP_429'] = "Blog kategori billeder";
 // View Image
-$locale['440'] = "Se billede";
-$locale['441'] = "Ukendt filformat, billedet kan ikke vises.";
-$locale['442'] = "Slet dette billede";
+$locale['IMGUP_440'] = "Se billede";
+$locale['IMGUP_441'] = "Ukendt filformat, billedet kan ikke vises.";
+$locale['IMGUP_442'] = "Slet dette billede";
 // Image Management
-$locale['460'] = "Billeder";
-$locale['461'] = "Se";
-$locale['463'] = "Denne folder er tom";
-$locale['464'] = "Opdater billedliste til TinyMCE";
+$locale['IMGUP_460'] = "Billeder";
+$locale['IMGUP_461'] = "Se";
+$locale['IMGUP_463'] = "Denne folder er tom";
+$locale['IMGUP_464'] = "Opdater billedliste til TinyMCE";
+$locale['IMGUP_465'] = "Billedliste er opdateret";
 // Popup Error/Warning Messages
-$locale['470'] = "Skal dette billede slettes?";
+$locale['IMGUP_470'] = "Skal dette billede slettes?";
