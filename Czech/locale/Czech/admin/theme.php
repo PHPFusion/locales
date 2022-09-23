@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Naloženo";
 $locale['theme_1004'] = "Zatížení";
 $locale['theme_1005'] = "Správa vzhledu";
 $locale['theme_1006'] = "Aktuální vzhled";
-$locale['theme_1007'] = "Nahrát ZIP soubor vzhledu";
+
 $locale['theme_1008'] = "Nahrát vzhled";
 $locale['theme_1009'] = "Stylováni vzhledů";
-$locale['theme_1010'] = "Aktuální vzhledy";
-$locale['theme_1011'] = "Nahrát noví vzhled";
+$locale['theme_1010'] = "Vzhledy stránky";
+
+$locale['theme_1011a'] = "Admin vzhledy";
 $locale['theme_1012'] = "Nastavit jako aktivní";
 $locale['theme_1013'] = "Licence:";
 $locale['theme_1014'] = "Verze";
@@ -60,7 +61,7 @@ $locale['theme_2018'] = "Základní rozměry písma";
 $locale['theme_2019'] = "Velikost písma";
 $locale['theme_2020'] = "Řádkování";
 $locale['theme_2021'] = "Základní velikost písma velká";
-$locale['theme_2022'] = "Barva písma";
+$locale['theme_2022'] = "Barva fontu";
 $locale['theme_2023'] = "Základní velikost písma malá";
 $locale['theme_2024'] = "Nadpis ";
 $locale['theme_2025'] = "Styl písma";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Vertikální přechod";
 $locale['theme_5011'] = "Radiální přechod";
 $locale['theme_5012'] = "Diagonální přechod";
 $locale['theme_5013'] = "Uložit předvolbu";
-$locale['theme_success_001'] = "Téma bylo nahráno do vašeho témového souboru";
+
 $locale['theme_success_002'] = "Přednastavené motivy byly smazány";
 $locale['theme_success_003'] = "Přednastavené motivy byly aktualizovány";
 $locale['theme_success_004'] = "Přednastavené motivy byly úspěšně přidány";
 
-$locale['theme_error_001'] = "Balíček témat je příliš velký. Nahrajte soubory méně než% s";
-$locale['theme_error_002'] = "Balíček témat není platný. Použijte pouze kompresi motivů pomocí rozšíření .zip";
-$locale['theme_error_003'] = "Neznámá chyba při nahrávání";
-$locale['theme_error_004'] = "Soubor motivu nebyl na serveru nahráván";
-$locale['theme_error_005'] = "Soubor se nepodařilo ověřit. Vyjděte zip a ručně nahrát FTP";
-$locale['theme_error_006'] = "Váš server nepodporuje ZipArchive. Prosím extrahujte zip a proveďte ruční nahrávání FTP";
 $locale['theme_error_007'] = "Téma nemůže být znovu sestaveno z následujících důvodů: - proměnné nebyly nastaveny nebo chyba formuláře";
 $locale['theme_error_008'] = "Chyba kompilátoru. Téma nebyla aktualizována.";
-$locale['theme_error_009'] = "Soubor theme.php nebyl nalezen.";
