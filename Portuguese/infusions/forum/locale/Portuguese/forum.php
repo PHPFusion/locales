@@ -34,7 +34,7 @@ $locale['forum_0024'] = "Ver os posts completos da discussão";
 
 
 $locale['forum_0050'] = "Ver Fórum";
-$locale['forum_0051'] = "Tópico";
+$locale['forum_0051'] = "Assunto";
 $locale['forum_0052'] = "Autor";
 $locale['forum_0053'] = "Visualizações";
 $locale['forum_0054'] = "Respostas";
@@ -124,7 +124,7 @@ $locale['forum_0261'] = "Sem Novos Posts";
 $locale['forum_0262'] = "Tópico Fixo";
 $locale['forum_0263'] = "Tópico Bloqueado";
 
-$locale['forum_0266'] = "Citar";
+$locale['forum_0266'] = "Citação";
 $locale['forum_0267'] = "escreveu";
 $locale['forum_0268'] = "IP do Utilizador";
 $locale['forum_0269'] = "Nenhum tópico encontrado.";
@@ -166,7 +166,7 @@ $locale['forum_0363'] = "Última actualização em";
 $locale['forum_0364'] = "Site do utilizador";
 $locale['forum_0365'] = "Respostas";
 $locale['forum_0366'] = "Adicionar Votação";
-$locale['forum_0372'] = "Avaliações";
+$locale['forum_0372'] = "Classificação";
 $locale['forum_0373'] = "Última Resposta por:";
 $locale['forum_0374'] = "Todo o Conteúdo";
 $locale['forum_0378'] = "Resolvido";
@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Confirmar Selecção de Fórum";
 $locale['forum_0397'] = "Não há fóruns definidos.";
 $locale['forum_0398'] = "Não foi possível descarregar o ficheiro";
 $locale['forum_0399'] = "Adicionar Recompensa";
-
 $locale['forum_0400'] = "A recompensa do tópico foi atualizada. Por favor, certifique-se de selecionar a resposta a ser atribuída com o prémio";
 
 $locale['forum_0500'] = "Pré-visualizar tópico";
@@ -188,7 +187,7 @@ $locale['forum_0501'] = "Enviar Tópico";
 $locale['forum_0505'] = "Pré-visualizar Alterações";
 $locale['forum_0506'] = "Eliminar Post";
 $locale['forum_0507'] = "Editar Post";
-$locale['forum_0508'] = "Salvar Alterações";
+$locale['forum_0508'] = "Guardar Alterações";
 $locale['forum_0509'] = "Responder";
 $locale['forum_0510'] = "Voto Positivo";
 $locale['forum_0511'] = "Voto Negativo";
@@ -289,7 +288,7 @@ Atenciosamente,
 $locale['forum_0662'] = "Opções do utilizador";
 $locale['forum_0663'] = "Editar utilizador";
 $locale['forum_0664'] = "Banir Utilizador";
-$locale['forum_0665'] = "Apagar utilizador";
+$locale['forum_0665'] = "Apagar Utilizador";
 
 $locale['forum_0701'] = "O tópico foi apagado.";
 $locale['forum_0704'] = "Tem a certeza de que deseja apagar este tópico?";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "Recompensa do tópico não atribuída";
 $locale['forum_4110'] = "A recompensa do tópico não pode ser dada a si próprio.";
 $locale['forum_4120'] = "Não há nenhum ID do fórum ou id do tópico definido. Por favor, defina um deles.";
 $locale['forum_4121'] = "Não há actividade neste fórum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 Dia";
 $locale['forum_p002'] = "2 Dias";
