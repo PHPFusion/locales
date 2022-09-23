@@ -31,7 +31,7 @@ Pentru a reactiva contul pur si simplu da clic pe urmatoarea legatura: [REACTIVA
 Cu respect,<br />
 [SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Contul tau la [SITENAME] a fost suspendat";
+$locale['email_ban_subject'] = "Contul t&#259;u pe [SITENAME] a fost suspendat";
 $locale['email_ban_message'] = "Salut [USER_NAME],<br />
 Contul tau la [SITENAME] a fost suspendat de [ADMIN_USERNAME] ,cu precizarea:<br />
 
@@ -41,7 +41,7 @@ Daca doresti mai multe informatii despre aceasta suspendare, te rog sa contactez
 Cu respect,<br />
 [SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "Contul tau la [SITENAME] a fost suspendat";
+$locale['email_secban_subject'] = "Contul t&#259;u pe [SITENAME] a fost suspendat";
 $locale['email_secban_message'] = "Salut [USER_NAME],<br />
 Contul tau la [SITENAME] a fost suspendat de [ADMIN_USERNAME] din cauza unor actiuni acreditate tie sau contului, te consideram o amenintare pentru securitatea saitului.<br />
 
