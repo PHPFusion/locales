@@ -1,5 +1,5 @@
 <?php
-$locale['f0100'] = "Názov";
+$locale['f0100'] = "Nadpis";
 $locale['f0102'] = "Cesta súboru z koreňového adresára";
 $locale['f0103'] = "Uložiť súboru";
 $locale['f0104'] = "Uložiť a zatvoriť súbor";
