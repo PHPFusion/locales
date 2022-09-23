@@ -10,11 +10,11 @@ $locale['SL_0016'] = "Tinklapio nuoroda atnaujinta";
 $locale['SL_0017'] = "Tinklapio nuoroda ištrinta";
 $locale['SL_0018'] = "Tinklapio nuorodų nustatymai atnaujinti";
 // Site Links form
-$locale['SL_0020'] = "Nuorodos pavadinimas:";
+$locale['SL_0020'] = "Nuorodos pavadinimas";
 $locale['SL_0020a'] = "Nuorodos ikona";
 $locale['SL_0021'] = "Nuorodos adresas:";
 $locale['SL_0022'] = "Gali matyti:";
-$locale['SL_0023'] = "Eilė:";
+$locale['SL_0023'] = "Rodymo tvarka";
 $locale['SL_0024'] = "Vieta:";
 $locale['SL_0025'] = "Tiktai navigacijos meniu";
 $locale['SL_0026'] = "Navigacijos meniu ir poantraštėje";
@@ -45,15 +45,15 @@ $locale['SL_0049'] = "Taip, grupuoti nuorodas kaip \"Rodyti daugiau\"";
 
 // Site Links list
 $locale['SL_0050'] = "Nuorodos pavadinimas";
-$locale['SL_0051'] = "Gali matyti";
-$locale['SL_0052'] = "Eilė";
+$locale['SL_0051'] = "Matomumas";
+$locale['SL_0052'] = "Rodymo tvarka";
 $locale['SL_0053'] = "Pasirinkimai";
 
 $locale['SL_0062'] = "Nėra sukurtų tinklapio nuorodų.";
 $locale['SL_0063'] = "Use BBCode in Link Name?";
 $locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
-$locale['SL_0070'] = "Ikona";
+$locale['SL_0070'] = "Icon";
 $locale['SL_0071'] = "Atidaryti naujame lange?";
 $locale['SL_0072'] = "Meniu";
 $locale['SL_0073'] = "Pertvarkyti";
