@@ -1,3 +1,21 @@
 <?php
-$locale['U_0000'] = "Opgradering";
-$locale['U_0001'] = "Ingen opgradering tilgængelig";
+$locale['U_000'] = "Opgradering";
+$locale['U_001'] = "Før du opdaterer, bedes du sikkerhedskopiere databasen og filer.";
+$locale['U_002'] = "Sidst tjekket den %s.";
+$locale['U_003'] = "Tjek igen";
+$locale['U_004'] = "En ny opdatering er tilgængelig";
+$locale['U_005'] = "Kunne ikke tjekke for opdateringer!";
+$locale['U_006'] = "Ingen opdatering tilgængelig";
+$locale['U_007'] = "Du kan automatisk opdatere til PHPFusion %s.";
+$locale['U_008'] = "Nuværende version er opdateret";
+$locale['U_009'] = "Downloader %s.";
+$locale['U_010'] = "Udpakker opdateringen.";
+$locale['U_011'] = "Kopierer filer.";
+$locale['U_012'] = "Opgraderer database.";
+$locale['U_013'] = "Opdaterer oversættelser.";
+$locale['U_014'] = "PHPFusion blev opdateret.";
+$locale['U_015'] = "Opdateringen kunne ikke installeres. Prøv venligst igen senere eller download opdateringen manuelt.";
+$locale['U_016'] = "Opdater oversættelser";
+$locale['U_017'] = "Oversættelser er blevet opdateret.";
+$locale['U_018'] = "Downloader %s sprogpakke."; // %s will be replaced with language name
+$locale['U_019'] = "Nuværende version: %s";
