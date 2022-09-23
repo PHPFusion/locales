@@ -3,9 +3,9 @@
 $locale['u040'] = "Įstojęs";
 $locale['u041'] = "Paskutinis apsilankymas";
 $locale['u042'] = "Niekada";
-$locale['u043'] = "Siųsti privačią žinutę";
+$locale['u043'] = "Siųsti asmeninę žinutę";
 $locale['u044'] = "Kontaktinė informacija";
-$locale['u045'] = "Papildoma informacija";
+$locale['u045'] = "Įvairi informacija";
 $locale['u046'] = "Pasirinkimai";
 $locale['u047'] = "Statistika";
 $locale['u048'] = "Administartoriaus informacija";
@@ -17,25 +17,25 @@ $locale['u053'] = " Ne";
 $locale['u054'] = "Žiūrėti suspendavimo žurnalą";
 $locale['u055'] = "Vartotojo lygis:";
 $locale['u056'] = "Priežastis";
-$locale['u057'] = "Varotojo grupės";
+$locale['u057'] = "Narių grupės";
 $locale['u058'] = "Administratoriaus pasirinkimai";
 $locale['u059'] = "Pridėti";
 $locale['u060'] = "Ar tikrai priskirti narį į šią grupę?";
 $locale['u061'] = "Priskirti į grupę";
 $locale['u062'] = "Vartotojo avataras";
 $locale['u063'] = "Vartotojo lygis";
-$locale['u064'] = "El. pašto adresas";
-$locale['u066'] = "Prisijungimo data";
+$locale['u064'] = "El. paštas";
+$locale['u066'] = "Įstojęs";
 $locale['u067'] = "Paskutinis apsilankymas";
-$locale['u068'] = "Vartotojo vardas";
-$locale['u070'] = "Uždrausti";
+$locale['u068'] = "Nario vardas";
+$locale['u070'] = "Blokuoti";
 $locale['u071'] = "Spenduoti";
 $locale['u073'] = "Ar tikrai norite ištrinti šį narį?";
 $locale['u074'] = "Unban";
 // Profile and register
 $locale['u100'] = "Norėdami pasikeisti slaptažodį ar el. pašto adresą turite įrašyti savo slaptažodį.";
 $locale['u101'] = "Registruotis";
-$locale['u102'] = "Redaguoti profilį";
+$locale['u102'] = "Keisti profilį";
 $locale['u103'] = "Profilis";
 $locale['u104'] = "Vartotojo profilis";
 $locale['u105'] = "Atnaujinti profilį";
@@ -55,21 +55,21 @@ $locale['uf_108'] = "Vartotojo laukeliai nerasti.";
 $locale['u110'] = "Peržiūrėti vartotojų grupę";
 $locale['u111'] = "%u vartotojai";
 $locale['u112'] = "%u vartotojai";
-$locale['u113'] = "Vartotojo vardas";
+$locale['u113'] = "Nario vardas";
 $locale['u114'] = "Vartotojo tipas";
 $locale['u115'] = "Kalba";
 $locale['u116'] = "Šioje grupėje nėra narių.";
 $locale['u117'] = "No user groups.";
 // User name and email
-$locale['u119'] = "Vartotojo varde yra.";
-$locale['u120'] = "Neleistini simboliai vartotojo varde.";
+$locale['u119'] = "User name is prohibited.";
+$locale['u120'] = "Vartotojo varde yra neleistinų ženklų.";
 $locale['u121'] = "Toks vartotojo vardas jau užimtas.";
-$locale['u122'] = "Vartotojo vardas negali būti paliktas tuščias.";
+$locale['u122'] = "User name can not be left empty.";
 $locale['u123'] = "Klaidingas el. pašto adresas.";
 $locale['u124'] = "Jūsų el. pašto adresas ar jo domenas įtrauktas į šio tinklapio juodąjį sąrašą.";
 $locale['u125'] = "Toks el. pašto adresas jau naudojamas.";
 $locale['u126'] = "El. pašto adresas negali būti paliktas tuščias.";
-$locale['u127'] = "Vartotojo vardas";
+$locale['u127'] = "Nario vardas";
 $locale['u128'] = "El. pašto adresas";
 $locale['u129'] = "Paskyros informacija";
 // Passwords
@@ -146,12 +146,12 @@ $locale['u174'] = "Pridėti kitą naują narį.";
 $locale['u180'] = "Per didelis avataro dydis, didž. leidžiamas ya %s.";
 
 $locale['u184'] = "Max. failo dydis: %s / Max. išmatavimai: %ux%u pikseliai";
-$locale['u185'] = "Avataras";
+$locale['u185'] = "Nuotrauka";
 $locale['u186'] = "Spauskite Naršyti norėdami įkelti paveiksliuką";
 // Captcha and terms
 $locale['u190'] = "Patvirtinimo kodas";
 $locale['u191'] = "Įrašykite patvirtinimo kodą";
-$locale['u192'] = "Tinklapio taisyklės";
+$locale['u192'] = "Taisyklės";
 $locale['u193'] = "Aš perskaičiau [LINK]Tinklapio taisykles ir sąlygas[/LINK] ir su jomis sutinku.";
 $locale['u193a'] = "Atnaujinta";
 $locale['u193b'] = "I agree";
@@ -175,3 +175,8 @@ Linkėjimai,
 [SITEUSERNAME]
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";
