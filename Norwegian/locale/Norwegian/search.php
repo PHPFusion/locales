@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Search [SITENAME]";
 $locale['401'] = "Søk etter:";
-$locale['402'] = "Søk";
+$locale['402'] = "Search";
 $locale['403'] = "søke hvilken som helst av disse ordene";
 $locale['404'] = "resultatet må inneholder alle disse ordene";
 $locale['405'] = "Hvor skal det søkes:";
