@@ -1,11 +1,11 @@
 <?php
 // Admin Links
 $locale['200'] = "[SITENAME] administračný panel";
-$locale['200a'] = "Administračný panel";
+$locale['200a'] = "Administrácia";
 $locale['ac00'] = "Administrácia";
-$locale['ac01'] = "Obsah";
-$locale['ac02'] = "Užívatelia";
-$locale['ac03'] = "Systém";
+$locale['ac01'] = "Administrácia obsahu";
+$locale['ac02'] = "Administrácia užívateľov";
+$locale['ac03'] = "Administrácia systému";
 $locale['ac04'] = "Nastavenia";
 $locale['ac05'] = "Infúzie";
 $locale['ac10'] = "Dashboard";
@@ -23,7 +23,7 @@ $locale['FQ'] = "FAQ";
 $locale['F'] = "Fórum";
 $locale['IM'] = "Obrázky";
 $locale['I'] = "Infúzie";
-$locale['IP'] = "Panely infúzií";
+$locale['IP'] = "Panel infúzií";
 $locale['M'] = "Užívatelia";
 $locale['MI'] = "Migračný nástroj";
 $locale['N'] = "Novinky";
@@ -32,7 +32,7 @@ $locale['PH'] = "Galéria";
 $locale['B'] = "Čierna listina";
 $locale['C'] = "Komentáre";
 $locale['DB'] = "Zálohovanie databázy";
-$locale['PI'] = "PHP Info";
+$locale['PI'] = "Informácie o serveri";
 $locale['PO'] = "Ankety";
 $locale['SL'] = "Odkazy v menu";
 $locale['SU'] = "Na schválenie";
@@ -73,9 +73,9 @@ $locale['FM'] = "Fusion správca súborov";
 // Site Information
 $locale['250'] = "Prehľad o stránke";
 $locale['251'] = "Reg. užívatelia";
-$locale['252'] = "Neakt. užívatelia";
+$locale['252'] = "Neaktivovaní členovia";
 $locale['253'] = "Blok. užívatelia";
-$locale['254'] = "Na schv.";
+$locale['254'] = "Na schválenie";
 $locale['254a'] = "Momentálne nie sú žiadne príspevky na schválenie.";
 $locale['254b'] = "Momentálne nie sú žiadne hodnotenia.";
 $locale['254c'] = "Momentálne nie sú žiadne komentáre.";
@@ -128,4 +128,7 @@ $locale['search_msg_103'] = 'Hľadaný výraz je príliš krátky';
 $locale['search_msg_104'] = 'Neboli nájdené žiadne výsledky';
 
 $locale['deprecated_section'] = 'Táto sekcia je zastaraná. Už ju neodporúčame a plánujeme ju čoskoro odstrániť.';
-$locale['new_update_avalaible'] = "K dispozícii je nová aktualizácia [LINK]PHPFusion v[VERSION][/LINK]. Aktualizujte prosím!";
+$locale['new_update_avalaible'] = "K dispozícii je nová PHPFusion aktualizácia v%s!";
+$locale['infusions_updates_avalaible'] = "Sú dostupné aktualizácie pre infúzie.";
+$locale['update_now'] = "Aktualizovať teraz";
+$locale['unactivated_users'] = "V databáze je niekoľko neaktivovaných užívateľov. [LINK]Kliknutím sem[/LINK] ich zobrazíte a aktivujete.";
