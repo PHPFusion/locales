@@ -29,7 +29,7 @@ $locale['MI'] = "Migrationstool";
 $locale['N'] = "News";
 $locale['P'] = "Panel Verwaltung";
 $locale['PH'] = "Fotoalben";
-$locale['B'] = "Blacklist";
+$locale['B'] = "Sperrliste";
 $locale['C'] = "Kommentare";
 $locale['DB'] = "Datenbankbackup";
 $locale['PI'] = "PHP-Info";
@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Es wurden keine Ergebnisse gefunden';
 
 $locale['deprecated_section'] = 'Dieser Abschnitt ist veraltet. Wir empfehlen es nicht mehr und planen, es bald zu entfernen.';
 $locale['new_update_avalaible'] = "Ein neues [LINK]PHP Fusion v[VERSION] Update[/LINK] ist verfügbar. Bitte aktualisieren sie!";
+$locale['infusions_updates_avalaible'] = "Updates für Infusionen sind verfügbar.";
+$locale['update_now'] = "Jetzt aktualisieren";
+$locale['unactivated_users'] = "Es gibt mehrere nicht aktivierte Benutzer in der Datenbank. [LINK]Klicken Sie hier[/LINK], um sie anzuzeigen und zu aktivieren.";
