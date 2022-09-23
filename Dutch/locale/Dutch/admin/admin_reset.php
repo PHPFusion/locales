@@ -21,7 +21,7 @@ Groeten<br/>
 [ADMIN]";
 $locale['apw_410'] = "Reset Resultaten";
 $locale['apw_411'] = "<strong>Aankondiging:</strong> Admin wachtwoord niet ingevuld of onjuist.";
-$locale['apw_412'] = "Admin Wachtwoord:";
+$locale['apw_412'] = "Beheerderwachtwoord:";
 $locale['apw_415'] = "Reset Log";
 $locale['apw_416'] = "Log ID";
 $locale['apw_417'] = "Reset tijd";
