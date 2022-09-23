@@ -11,7 +11,7 @@ $locale['SL_0017'] = "Pautan Situs dipadamkan";
 $locale['SL_0018'] = "Site Link Settings updated";
 // Site Links form
 $locale['SL_0020'] = "Nama Pautan:";
-$locale['SL_0020a'] = "Link Icon";
+$locale['SL_0020a'] = "Ikon Pautan";
 $locale['SL_0021'] = "Pautan URL:";
 $locale['SL_0022'] = "Keperlihatan:";
 $locale['SL_0023'] = "Susunan:";
@@ -22,7 +22,7 @@ $locale['SL_0027'] = "sub-header sahaja";
 $locale['SL_0028'] = "Buka pautan dalam pelayar baru";
 $locale['SL_0029'] = "Kategori Pautan";
 $locale['SL_0030'] = "Ikon Pautan";
-$locale['SL_0031'] = "Link Status";
+$locale['SL_0031'] = "Status Pautan";
 $locale['SL_0032'] = "No Parent";
 $locale['SL_0033'] = "Link Language";
 $locale['SL_0034'] = "Protected";
@@ -57,7 +57,7 @@ $locale['SL_0070'] = "Ikon";
 $locale['SL_0071'] = "Paparan Pelayar Baru?";
 $locale['SL_0072'] = "Menu";
 $locale['SL_0073'] = "Susun semula";
-$locale['SL_0074'] = "Move";
+$locale['SL_0074'] = "Pindah";
 $locale['SL_0075'] = "Show Options";
 
 // Delete Site Link category
