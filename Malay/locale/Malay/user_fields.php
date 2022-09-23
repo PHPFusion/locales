@@ -31,7 +31,7 @@ $locale['u068'] = "Kata Nama";
 $locale['u070'] = "Haram";
 $locale['u071'] = "Dihentikan";
 $locale['u073'] = "Padam akaun ahli ini?";
-$locale['u074'] = "Unban";
+$locale['u074'] = "Nyahsekat";
 // Profile and register
 $locale['u100'] = "Anda perlu mengisi kata laluan anda untuk menukarkan kata laluan dan alamat emel.";
 $locale['u101'] = "Pendaftaran Baru";
@@ -57,9 +57,9 @@ $locale['u111'] = "%u ahli";
 $locale['u112'] = "%u ahli";
 $locale['u113'] = "Kata Nama";
 $locale['u114'] = "Jenis User";
-$locale['u115'] = "Language";
-$locale['u116'] = "There are no group members.";
-$locale['u117'] = "No user groups.";
+$locale['u115'] = "Bahasa";
+$locale['u116'] = "Tidak ada ahli di kumpulan pengguna.";
+$locale['u117'] = "Tidak ada kumpulan pengguna.";
 // User name and email
 $locale['u119'] = "User name contains.";
 $locale['u120'] = "Kata Nama mempunyai huruf yang tidak sah.";
@@ -132,12 +132,12 @@ $locale['u161'] = "Anda boleh log masuk sekarang.";
 $locale['u162'] = "Admin situs akan mengaktifkan akaun anda sebentar lagi.";
 $locale['u163'] = "Profil telah dikemaskinikan.";
 $locale['u164'] = "Tidak dapat dikemaskinikan";
-$locale['u165'] = "Email has been resended.";
+$locale['u165'] = "Emel telah dikirimkan semula.";
 
 $locale['u167'] = " untuk sebab-sebab berikut:";
 $locale['u168'] = "Sila Cuba Sekali Lagi.";
 $locale['u169'] = "Profil dikemaskinikan";
-$locale['u170'] = "Pendaftaran Selesai";
+$locale['u170'] = "Pendaftaran berjaya";
 $locale['u171'] = "Akaun anda telah disahkan.";
 $locale['u172'] = "Ahli telah ditambah.";
 $locale['u173'] = "Balik ke Back to User Management.";
@@ -154,7 +154,7 @@ $locale['u191'] = "Isikan Kod Pengesahan";
 $locale['u192'] = "Terma dan Syarat Ahli";
 $locale['u193'] = "Saya telah baca dan faham [LINK]Syarat dan Terma Keahlian[/LINK] dan saya bersetuju dengan syarat tersebut.";
 $locale['u193a'] = "Dikemaskinikan";
-$locale['u193b'] = "I agree";
+$locale['u193b'] = "Saya bersetuju";
 $locale['u194'] = "Kod pengesahan tidak betul.";
 $locale['u195'] = "Kod Captcha tidak boleh dibiarkan kosong.";
 // E-mail Change Confirmation
@@ -177,3 +177,8 @@ Sekian,
 [SITEUSERNAME]
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Kata laluan perlu sekurangnya mempunyai satu huruf istimewa";
+$locale['u301'] = "Kata laluan perlu sekurangnya mempunyai 1 huruf besar dan 1 huruf kecil";
+$locale['u302'] = "Kata laluan perlu sekurangnya mempunyai 1 angka";
+$locale['u303'] = "Kata laluan perlu sekurangnya mempunyai 8 huruf";
