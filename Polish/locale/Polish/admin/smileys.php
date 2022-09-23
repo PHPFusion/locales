@@ -3,7 +3,7 @@
 $locale['SMLY_400'] = "Bieżące emotikony";
 $locale['SMLY_401'] = "Dodaj  emotikonę";
 $locale['SMLY_402'] = "Edytuj emotikonę";
-$locale['SMLY_403'] = "Emotikony";
+$locale['SMLY_403'] = "Emotoikony";
 $locale['SMLY_404'] = "Aktywne emotikony";
 $locale['SMLY_405'] = "Nieaktywne emotikony";
 // Smiley messages
@@ -28,7 +28,7 @@ $locale['SMLY_430'] = "Kod";
 $locale['SMLY_431'] = "Obraz";
 $locale['SMLY_432'] = "Tekst";
 $locale['SMLY_433'] = "Opcje";
-$locale['SMLY_435'] = "Nieaktywny";
+$locale['SMLY_435'] = "Nieaktywny/a";
 $locale['SMLY_436'] = "Brak zdefiniowanych emotikon.";
 // Error Message
 $locale['SMLY_437'] = "Proszę wprowadzić kod emotikony";
