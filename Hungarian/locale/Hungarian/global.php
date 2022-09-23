@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "HU"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "hu"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "hu"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "hu_HU"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "hu"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "hu"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "hu"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "hu"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "hu"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "hu"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "hu"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "hu"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "hu"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "hu"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "hu"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|január|február|március|április|május|június|július|augusztus|szeptember|október|november|december";
@@ -40,12 +40,12 @@ $locale['city'] = "Város";
 $locale['postcode'] = "Irányítószám";
 $locale['sel_country'] = "Válassz országot";
 $locale['sel_state'] = "Válassz megyét";
-$locale['sel_user'] = "Adjon meg egy felhasználónevet";
+$locale['sel_user'] = "Adj meg egy felhasználónevet";
 $locale['add_language'] = "Fordítások hozzáadása";
 $locale['add_lang'] = "%s hozzáadása";
-$locale['other_states'] = "Másik Megye";
+$locale['other_states'] = "Állam/Megye (másik)";
 // Name
-$locale['name'] = "Teljes Név";
+$locale['name'] = "Teljes név";
 $locale['username_pretext'] = "A nyilvános felhasználó neved ugyanaz, mint a felhasználóneved itt: %s %s";
 $locale['first_name'] = "Keresztnév";
 $locale['middle_name'] = "Második keresztnév";
@@ -63,16 +63,16 @@ $locale['user1'] = "Tag";
 $locale['user2'] = "Adminisztrátor";
 $locale['user3'] = "Főadminisztrátor";
 $locale['user_na'] = "N/A";
-$locale['user_guest'] = "Idegen";
-$locale['user_anonymous'] = "Anonim Felhasználó";
+$locale['user_guest'] = "Vendég";
+$locale['user_anonymous'] = "Anonim felhasználó";
 $locale['genitive'] = "%s %s";
 // Standard User Status
 $locale['status0'] = "Aktív";
 $locale['status1'] = "Kitiltott";
-$locale['status2'] = "Aktiválatlan";
+$locale['status2'] = "Nem aktivált";
 $locale['status3'] = "Felfüggesztett";
 $locale['status4'] = "Kitiltva (biztonság)";
-$locale['status5'] = "Eltávolítva";
+$locale['status5'] = "Megszakított";
 $locale['status6'] = "Anonimizálva";
 $locale['status7'] = "Deaktivált";
 $locale['status8'] = "Inaktív";
@@ -80,18 +80,17 @@ $locale['status8'] = "Inaktív";
 $locale['userf1'] = "Moderátor";
 // Navigation
 $locale['global_001'] = "Navigáció";
-$locale['global_002'] = "Nincs megadva link<br />
-";
+$locale['global_002'] = "Nincs megadva link<br/>";
 $locale['global_003'] = "Nincs előnézet";
 // Users Online
-$locale['global_010'] = "Felhasználók";
+$locale['global_010'] = "Online felhasználók";
 $locale['global_011'] = "Online vendégek";
 $locale['global_012'] = "Online tagok";
-$locale['global_013'] = "Nincs Online tag";
+$locale['global_013'] = "Nincs online tag";
 $locale['global_014'] = "Regisztráltak";
-$locale['global_015'] = "Aktiválatlanok";
+$locale['global_015'] = "Nem aktivált felhasználók";
 $locale['global_016'] = "Legújabb tag";
-$locale['global_017'] = "Navigáció Váltás";
+$locale['global_017'] = "Navigáció váltás";
 // Forum Side panel
 $locale['global_020'] = "Fórumtémák";
 $locale['global_021'] = "Legújabb témák";
@@ -109,7 +108,7 @@ $locale['global_031'] = "Nincs elérhető cikk";
 // Downloads Side panel
 $locale['global_032'] = "Legújabb letöltések";
 $locale['global_033'] = "Nincs elérhető letöltés";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Üdvözöllek";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Utolsó aktív fórumtémák";
@@ -153,7 +152,7 @@ $locale['global_080'] = "Nincs";
 $locale['global_081'] = "Hírek főoldal";
 $locale['global_082'] = "Hírek";
 $locale['global_083'] = "Utoljára frissítve";
-$locale['global_084'] = "Hír kategóriák";
+$locale['global_084'] = "Hírkategória";
 $locale['global_085'] = "Összes kategória";
 $locale['global_086'] = "Legújabb hírek";
 $locale['global_087'] = "Legtöbbet hozzászólt hírek";
@@ -171,19 +170,19 @@ $locale['global_094'] = " ennyiből ";
 // Guest User Menu
 $locale['global_100'] = "Bejelentkezés";
 $locale['global_101'] = "Felhasználónév";
-$locale['global_101a'] = "Felhasználó Neved";
+$locale['global_101a'] = "Felhasználó neved";
 $locale['global_101b'] = "E-mail címed";
-$locale['global_101c'] = "E-mail vagy Felhasználó neved";
+$locale['global_101c'] = "E-mail vagy felhasználó neved";
 $locale['global_102'] = "Jelszó";
 $locale['global_103'] = "Emlékezzen rám";
 $locale['global_104'] = "Bejelentkezés";
-$locale['global_105'] = "Még nem regisztráltál?<br />[LINK]Regisztráció[/LINK]";
+$locale['global_105'] = "Még nem regisztráltál?<br/>[LINK]Regisztráció[/LINK].";
 $locale['global_106'] = "[LINK]Új jelszó kérése[/LINK]";
 $locale['global_107'] = "Regisztráció";
 $locale['global_108'] = "Elfelejtett jelszó";
 $locale['global_109'] = "Regisztráció";
 // Member User Menu
-$locale['global_120'] = "Profil Módosítás";
+$locale['global_120'] = "Profil módosítás";
 $locale['global_121'] = "Privát üzenetek";
 $locale['global_122'] = "Regisztrált tagok";
 $locale['global_123'] = "Adminisztráció";
@@ -202,17 +201,17 @@ $locale['UM061b'] = "Felhasználónév vagy email";
 $locale['UM062'] = "Jelszó";
 $locale['UM063'] = "Emlékezzen rám ezen a számítógépen";
 $locale['UM064'] = "Bejelentkezés";
-$locale['UM065'] = "Még nem regisztráltál?<br />[LINK]Regisztráció[/LINK]";
-$locale['UM066'] = "Elfelejtetted jelszavad?<br />[LINK]Új jelszó kérése[/LINK]";
-$locale['UM067'] = "(Nem ajánlott Nyilvános vagy Megosztott számítógépen)";
-$locale['UM080'] = "Profil Módosítás";
-$locale['UM081'] = "Privát Üzenetek";
-$locale['UM082'] = "Tagjaink";
+$locale['UM065'] = "Még nem regisztráltál?<br/>[LINK]Regisztráció[/LINK].";
+$locale['UM066'] = "Elfelejtetted jelszavad?<br/>[LINK]Új jelszó kérése[/LINK].";
+$locale['UM067'] = "(Nem ajánlott nyilvános vagy megosztott számítógépen)";
+$locale['UM080'] = "Profil szerkesztése";
+$locale['UM081'] = "Privát üzenetek";
+$locale['UM082'] = "Regisztrált tagok";
 $locale['UM083'] = "Adminisztráció";
-$locale['UM084'] = "Kilépés";
-$locale['UM085'] = "Neked %u új ";
-$locale['UM086'] = "üzeneted";
-$locale['UM087'] = "üzeneteid";
+$locale['UM084'] = "Kijelentkezés";
+$locale['UM085'] = "%u új ";
+$locale['UM086'] = "üzeneted van";
+$locale['UM087'] = "üzeneted van";
 $locale['UM088'] = "Nyomon követés";
 // Submit (news, link, article)
 $locale['UM089'] = "Küldés...";
@@ -227,17 +226,16 @@ $locale['UM102'] = "GyIK küldése";
 $locale['UM096'] = "Üdvözöllek: ";
 $locale['UM097'] = "Személyes menü";
 $locale['UM101'] = "Nyelv váltása";
-$locale['UM103'] = "Kijelentkezés Felhasználóként";
+$locale['UM103'] = "Kijelentkezés felhasználóként";
 // Gauges
-$locale['UM098'] = "PM Beérkezett:";
-$locale['UM099'] = "PM Kimenő:";
-$locale['UM100'] = "PM Archivált:";
-
+$locale['UM098'] = "PÜ - Bejövő:";
+$locale['UM099'] = "PÜ - kimenő:";
+$locale['UM100'] = "PÜ - Archivált:";
 // Keywords and Meta
 $locale['tags'] = "Jelölések";
 // Captcha
 $locale['global_150'] = "Ellenőrzőkód:";
-$locale['global_151'] = "Add meg az ellenőrzőkódot:";
+$locale['global_151'] = "Írd be az ellenőrző kódot:";
 // Footer Counter
 $locale['global_170'] = "egyedi látogató";
 $locale['global_171'] = "egyedi látogató";
@@ -245,17 +243,14 @@ $locale['global_172'] = "Generálási idő: %s másodperc";
 $locale['global_173'] = "Lekérdezés";
 $locale['global_174'] = "Használt memória";
 $locale['global_175'] = "Átlag: %s másodperc";
-$locale['global_176'] = "Adatvédelmi irányelvek";
+$locale['global_176'] = "Adatvédelmi nyilatkozat";
 // Admin Navigation
-$locale['global_180'] = "Adminisztrátori főmenü";
-$locale['global_181'] = "Főoldal";
+$locale['global_180'] = "Admin főoldal";
+$locale['global_181'] = "Vissza a főoldalra";
 $locale['global_182'] = "Megjegyzés: az admin jelszó nincs megadva, vagy hibás.";
-$locale['global_183'] = "A bejelentkezési session lejárt. Kérjük, jelentkezz be újra.";
-$locale['global_184'] = "Most %s néven van bejelentkezve";
+$locale['global_183'] = "A munkameneted lejárt. Kérjük lépj be újra.";
+$locale['global_184'] = "Most %s néven vagy bejelentkezve";
 $locale['global_185'] = "Visszaváltott a saját fiókjára.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Az oldal karbantartás alatt áll";
 $locale['global_191'] = "IP címed a feketelistán szerepel";
@@ -264,26 +259,23 @@ $locale['global_193'] = "A bejelentkezés nem sikerült. Kérjük ellenőrizd, h
 $locale['global_194'] = "Hozzáférésedet felfüggesztettük";
 $locale['global_195'] = "Az adminisztrátorok még nem aktiválták hozzáférésedet";
 $locale['global_196'] = "Hibás felhasználónév vagy jelszó";
-$locale['global_197'] = "Átirányítás folyamatban...<br />
-<br />
-[ [LINK]Kattints ide, ha nem akarsz várni[/LINK] ]";
-$locale['global_198'] = "FIGYELEM: Telepítő fájlt észleltünk, kérjük, törölje az install-PHP fájlt azonnal.";
-$locale['global_199'] = "FIGYELEM: Az admin jelszavad még nem állítottad be - [LINK]Profil Módosítás[/LINK]";
-//Titles
+$locale['global_197'] = "Átirányítás folyamatban...<br/><br/>[ [LINK]Kattints ide, ha nem akarsz várni[/LINK] ]";
+$locale['global_198'] = "FIGYELEM: A telepítő fájl még elérhető. Kérjük, töröld az INSTALL.PHP fájlt amint lehet.";
+$locale['global_199'] = "FIGYELEM: Az admin jelszavad még nem állítottad be - [LINK]Profil módosítás[/LINK].";
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Kereső";
 $locale['global_203'] = "GyIK";
 $locale['global_204'] = "Fórum";
-//Themes
+// Themes
 $locale['global_210'] = "Ugrás az oldal tartalmához";
 $locale['global_300'] = "nem található felület";
-$locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem található egyetlen theme (felület) sem. Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver <em>themes/</em> mappájába bármilyen <em>PHPFusion v7</em> kompatibilis készült theme-t. Feltöltés után ellenőrizd az <em>Alap beállítások</em> admin oldalon, hogy az általad választott felület szerepel-e a szerver <em>themes/</em> mappájában. Ha igen, és mégsem működik, akkor ellenőrizd, hogy nincsenek-e különleges karakterek benne, illetve ügyelj arra, hogy a szerverek többsége megkülönbözteti a kis- és Nagybetűket!<br /><br />Ha csak egy látogató vagy az oldalon, kérjük lépj kapcsolatba az oldal adminisztrátorával ([SITE_EMAIL]) és jelentsd neki a hibát.";
-$locale['global_302'] = "A Rendszer-beállítások - Alap beállítások menüpontja alatt beállított theme nem található vagy hibás!";
+$locale['global_301'] = "Sajnáljuk, de nem tudjuk megjeleníteni az oldalt. Az oldalon nem észlelünk egyetlen theme-t (felületet) sem. <br/>Ha te vagy az oldal adminisztrátora, akkor tölts fel FTP-n keresztül a szerver <em>themes/</em> mappájába bármilyen <em>PHPFusion v9</em> kompatibilis theme-t. Feltöltés után ellenőrizd az <em>Adminisztráció - Beállítások - Felület beállítások</em> oldalon, hogy az általad választott felület szerepel-e a szerver <em>themes/</em> mappájában. Ha igen és mégsem működik akkor ellenőrizd, hogy nincsenek-e különleges karakterek a nevében benne, illetve ügyelj arra, hogy a szerverek többsége megkülönbözteti a kis- és Nagybetűket!<br/><br/>Ha csak egy látogató vagy az oldalon, kérjük lépj kapcsolatba az oldal adminisztrátorával ([SITE_EMAIL]) és jelentsd neki a hibát.";
+$locale['global_302'] = "Az Adminisztráció - Beállítások - Felület beállítások menüpontja alatt beállított theme nem található vagy hibás!";
 // JavaScript Not Enabled
-$locale['global_303'] = "Hiba történt! Nem működik a <strong>JavaScript</strong>!<br />
-A böngésződben le van tiltva a JavaScript futtatása, vagy nem támogatja a JavaScript használatát. Az oldal megfelelő használatához kérjük engedélyezd a JavaScript futtatását böngésződben,<br />
- vagy frissítsd egy újabb verzióra, amely támogatja a JavaScript-et:<br /><a href='http://firefox.com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='http://apple.com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='http://opera.com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='http://www.google.com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a>, vagy az <a href='http://www.microsoft.com/windows/internet-explorer/' rel='nofollow' title='Internet Explorer'>Internet Explorer</a> 6-nál újabb verziója.";
+$locale['global_303'] = "Hiba történt! Nem működik a <strong>JavaScript</strong>!<br/> A böngésződben le van tiltva a JavaScript futtatása, vagy nem támogatja a JavaScript használatát. Az oldal megfelelő használatához kérjük engedélyezd a JavaScript futtatását böngésződben,<br/>
+ vagy frissítsd egy újabb verzióra, amely támogatja a JavaScript-et:<br /><a href='https://www. firefox. com' rel='nofollow' title='Mozilla Firefox'>Firefox</a>, <a href='https://www. apple. com/safari/' rel='nofollow' title='Safari'>Safari</a>, <a href='https://www. opera. com' rel='nofollow' title='Opera Web Browser'>Opera</a>, <a href='https://www. google. com/chrome' rel='nofollow' title='Google Chrome'>Chrome</a>, vagy az <a href='https://www. microsoft. com/hu-hu/edge? r=1' rel='nofollow' title='Microsoft Edge'>Microsoft Edge</a> legújabb verziója.";
 // User Management
 $locale['global_400'] = "felfüggesztve";
 $locale['global_401'] = "kitiltva";
@@ -298,65 +290,63 @@ $locale['global_409'] = "Ez a felhasználó biztonsági okokból ki lett tiltva.
 $locale['global_410'] = "Indoklás: ";
 $locale['global_411'] = "Ez a felhasználó el lett távolítva.";
 $locale['global_412'] = "Ez a felhasználó anonimizálva lett, valószínűleg inaktivitás miatt.";
-$locale['global_413'] = "A felhasználó név szabad";
-$locale['global_414'] = "A felhasználó név foglalt";
 // Flood control
 $locale['global_440'] = "Flood miatti automatikus kitiltás";
-$locale['global_441'] = "Felhasználóneved kitiltva - [SITENAME]";
-$locale['global_442'] = "Szia [USER_NAME],<br />
-Valaki a felhasználóneveddel túl sok hozzászólást küldött el rövid idő alatt az alábbi IP címről: [USER_IP].<br />A rendszerünk ezért kitiltotta az oldalról, hogy megelőzze az esetleges rosszindulatú robotok tevékenységét.<br />
-Kérjük lépj kapcsolatba oldalunk adminisztrátorával az alábbi címen, ha nem te okoztad a problémát: [SITE_EMAIL]<br />
-Üdvözlettel,<br />
-[SITEUSERNAME]<br />[SITENAME]";
+$locale['global_441'] = "Felhasználóneved kitiltásra került - [SITENAME]";
+$locale['global_442'] = "Kedves [USER_NAME]!<br/>
+Valaki a felhasználóneveddel túl sok hozzászólást küldött el rövid idő alatt az alábbi IP címről: [USER_IP].<br/>A rendszerünk ezért kitiltotta az oldalról, hogy megelőzze az esetleges rosszindulatú robotok tevékenységét.<br/>
+Kérjük lépj kapcsolatba oldalunk adminisztrátorával az alábbi címen, ha nem te okoztad a problémát: [SITE_EMAIL]<br/>
+Üdvözlettel,<br/>
+[SITEUSERNAME]<br/>[SITENAME]";
 // Authenticate Class
 $locale['global_450'] = "Felfüggesztésed feloldva";
 $locale['global_451'] = "Felfüggesztésed feloldva - [SITENAME]";
-$locale['global_452'] = "Szia USER_NAME,<br />
-Feloldottuk kitiltásodat oldalunkon ([SITEURL]). Bejelentkezési adataid:<br />
-Felhasználónév: USER_NAME<br />
-Jelszó: a korábban használt<br />
-Ha elfelejtetted jelszavad, az alábbi linken kérhetsz újat: LOST_PASSWORD<br />
-Üdvözlettel,<br />
-[SITEUSERNAME]<br />[SITENAME]";
-$locale['global_453'] = "Szia USER_NAME,<br />
-Feloldottuk kitiltásodat oldalunkon ([SITEURL]).<br />
-Üdvözlettel,<br />
-[SITEUSERNAME]<br />[SITENAME]";
-$locale['global_454'] = "Fiók újra aktiválása [SITENAME]";
-$locale['global_455'] = "Szia USER_NAME,<br />
-Legutóbbi bejelentkezésed alkalmával hozzáférésed aktiválva lett, így már nincs megjelölve inaktívként.<br />
-Üdvözlettel,<br />
-[SITEUSERNAME]<br />[SITENAME]";
+$locale['global_452'] = "Kedves USER_NAME!<br/>
+Feloldottuk kitiltásodat oldalunkon ([SITEURL]). Bejelentkezési adataid:<br/>
+Felhasználónév: USER_NAME<br/>
+Jelszó: a korábban használt<br/>
+Ha elfelejtetted jelszavad, az alábbi linken kérhetsz újat: LOST_PASSWORD<br/>
+Üdvözlettel,<br/>
+[SITEUSERNAME]<br/>[SITENAME]";
+$locale['global_453'] = "Kedves USER_NAME!<br/>
+Feloldottuk kitiltásodat oldalunkon ([SITEURL]).<br/>
+Üdvözlettel,<br/>
+[SITEUSERNAME]<br/>[SITENAME]";
+$locale['global_454'] = "Fiók újra aktiválva [SITENAME]";
+$locale['global_455'] = "Kedves USER_NAME,<br/>
+Legutóbbi bejelentkezésed alkalmával hozzáférésed aktiválva lett, így már nincs megjelölve inaktívként.<br/>
+Üdvözlettel,<br/>
+[SITEUSERNAME]<br/>[SITENAME]";
 $locale['global_456'] = "Új jelszó értesítő [SITENAME]";
-$locale['global_457'] = "Helló USER_NAME,
-<br />Új jelszót állított be a [SITENAME] fiókjához. Itt megtalálja a mellékelt új bejelentkezési adatait:<br />
-Felhasználó név: USER_NAME<br />Jelszó: [PASSWORD]<br />Üdvözlettel,<br />[SITEUSERNAME]";
+$locale['global_457'] = "Kedves USER_NAME!
+<br/>Új jelszó lett beállítva [SITENAME] fiókjához. Itt megtalálja a mellékelt új bejelentkezési adatait:<br/>
+Felhasználó név: USER_NAME<br/>Jelszó: [PASSWORD]<br/>Üdvözlettel,<br/>[SITEUSERNAME]";
 $locale['global_458'] = "Új jelszó elküldve USER_NAME";
-$locale['global_459'] = "Új jelszó beállítva neki: USER_NAME, de email nem lett küldve számára. Kérjük jelezd a felhasználónak a változtatást.";
+$locale['global_459'] = "Új jelszó lett beállítva neki: USER_NAME, de email nem lett küldve számára. Kérjük jelezd a felhasználónak a változtatást.";
 // Function parsebytesize()
 $locale['global_460'] = "Üres";
 $locale['global_461'] = "Bájt";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Átirányítás folyamatban: %s, kérjük várj. Ha ez nem történik meg, kérjük kattints ide.";
 // Captcha Locales
 $locale['global_600'] = "Ellenőrzőkód";
-$locale['global_601'] = "A megadott ellenőrzőkód hibás";
+$locale['global_601'] = "Add meg a helyes ellenőrzőkódot";
 $locale['recaptcha'] = "hu";
 // Site links
-$locale['global_700'] = "További Linkek";
-//Miscellaneous
+$locale['global_700'] = "Továbbiak megjelenítése";
+// Miscellaneous
 $locale['global_900'] = "Sikertelen HEX-DEC átváltás";
-$locale['global_901'] = "Média Hozzáadása";
-//Language Selection
+$locale['global_901'] = "Média hozzáadása";
+// Language Selection
 $locale['global_ML100'] = "Nyelv:";
 $locale['global_ML101'] = "- Válassz nyelvet -";
 $locale['global_ML102'] = "Oldal nyelve";
-$locale['global_ML103'] = "Nyelv váltás";
+$locale['global_ML103'] = "Nyelv váltása";
 // Flood Control
 $locale['flood'] = "Nem szólhatsz hozzá, míg a flood periódusod le nem telt. Kérjük várj ennyit: %s.";
 $locale['no_image'] = "Nincs kép";
-$locale['send_message'] = "Üzenet Küldése";
-$locale['go_profile'] = "%s Profiljának megtekintése";
+$locale['send_message'] = "Üzenet küldése";
+$locale['go_profile'] = "%s profiljának megtekintése";
 // Global one word locales
 $locale['hello'] = "Helló!";
 $locale['goodbye'] = "Viszlát!";
@@ -367,23 +357,25 @@ $locale['error'] = "Hiba!";
 $locale['success'] = "Sikeres!";
 $locale['enable'] = "Engedélyezve";
 $locale['disable'] = "Kikapcsolva";
-$locale['can'] = "tudsz";
-$locale['cannot'] = "nem tudsz";
+$locale['can'] = "van jogod";
+$locale['cannot'] = "nincs jogod";
 $locale['no'] = "Nem";
 $locale['yes'] = "Igen";
 $locale['off'] = "Kikapcsolva";
 $locale['on'] = "Bekapcsolva";
 $locale['or'] = "vagy";
-$locale['by'] = "indította";
-$locale['in'] = "-";
+$locale['by'] = " : ";
+$locale['in'] = " ";
 $locale['of'] = " / ";
 $locale['and'] = " és ";
-$locale['na'] = "Nincs adat";
+$locale['na'] = "Nincs elérhető információ";
 $locale['joined'] = "Csatlakozott: ";
 // Navigation
 $locale['next'] = "Következő";
 $locale['previous'] = "Előző";
 $locale['back'] = "Vissza";
+$locale['first'] = "Első";
+$locale['last'] = "Utolsó";
 $locale['forward'] = "Előre";
 $locale['go'] = "Mehet";
 $locale['cancel'] = "Mégsem";
@@ -398,15 +390,17 @@ $locale['add'] = "Hozzáad";
 $locale['save'] = "Ment";
 $locale['save_changes'] = "Változások mentése";
 $locale['save_and_close'] = "Mentés és Kilépés";
-$locale['confirm'] = "Meg erősít";
+$locale['save_settings'] = "Beállítások mentése";
+$locale['settings_updated'] = "Beállítások sikeresen módosítva";
+$locale['confirm'] = "Megerősítés";
 $locale['update'] = "Frissít";
-$locale['updated'] = "Frissít";
+$locale['updated'] = "Frissítve";
 $locale['remove'] = "Visszavon";
 $locale['delete'] = "Törlés";
-$locale['search'] = "Keres";
-$locale['help'] = "Segítség";
+$locale['search'] = "Kereső";
+$locale['help'] = "Súgó";
 $locale['register'] = "Regisztráció";
-$locale['ban'] = "Tilt";
+$locale['ban'] = "Kitilt";
 $locale['reactivate'] = "Újra aktivál";
 $locale['user'] = "Felhasználó";
 $locale['promote'] = "Támogat";
@@ -415,6 +409,7 @@ $locale['hide'] = "Elrejt";
 $locale['actions'] = "Művelet";
 $locale['language'] = "Nyelv";
 $locale['loading'] = "Betöltés...";
+$locale['options'] = "Lehetőségek";
 // Persons & Identifiers
 $locale['you'] = "Te";
 $locale['me'] = "Én";
@@ -424,9 +419,9 @@ $locale['us'] = "Nekünk";
 $locale['he'] = "Ő";
 $locale['she'] = "Az";
 $locale['it'] = "Azt";
-//Tables
-$locale['order'] = "Rendez";
-$locale['sort'] = "Sorba rendez";
+// Tables
+$locale['order'] = "Sorrend";
+$locale['sort'] = "Rendezés";
 $locale['id'] = "ID";
 $locale['title'] = "Cím";
 $locale['rights'] = "Jogok";
@@ -437,9 +432,9 @@ $locale['choose'] = "Kérlek válassz egyet...";
 $locale['no_opts'] = "Nincs kiválasztva";
 $locale['root'] = "Főkönyvtár";
 $locale['choose-user'] = "Kérlek válassz felhasználót...";
-$locale['choose-location'] = "Kérlek, válassz egy Helyszínt";
-$locale['parent'] = "Új kapcsolat készítése..";
-$locale['item_order'] = "Rendezés";
+$locale['choose-location'] = "Válassz ki egy helyet";
+$locale['parent'] = "Új szülő készítése..";
+$locale['item_order'] = "Elem sorrend";
 $locale['status'] = "Státusz";
 $locale['note'] = "Jegyezd fel";
 $locale['publish'] = "Publikál";
@@ -447,40 +442,55 @@ $locale['unpublish'] = "Nem publikált";
 $locale['published'] = "Publikált";
 $locale['unpublished'] = "Nem publikált";
 $locale['sticky'] = "Kiemelt";
-$locale['unsticky'] = "Normál";
+$locale['unsticky'] = "Kiemelés megszűntetése";
 $locale['draft'] = "Vázlat";
 $locale['settings'] = "Beállítások";
 $locale['posted'] = "beküldve";
 $locale['profile'] = "Profil";
-$locale['edit'] = "Szerkeszt";
-$locale['qedit'] = "Gyors Javítás";
+$locale['edit'] = "Szerkesztés";
+$locale['qedit'] = "Gyors szerkesztés";
 $locale['view'] = "Megnéz";
 $locale['login'] = "Bejelentkezés";
 $locale['logout'] = "Kijelentkezés";
 $locale['admin-logout'] = "Admin kijelentkezés";
 $locale['message'] = "Privát üzenetek";
-$locale['logged'] = "Bejelentkezve ";
+$locale['logged'] = "Bejelentkezve mint ";
 $locale['version'] = "Verzió ";
-$locale['browse'] = "Böngészés ...";
+$locale['browse'] = "Tallózás ...";
 $locale['close'] = "Bezár";
 $locale['nopreview'] = "Nincs előnézet!";
-$locale['mark_as'] = "Megjelölés";
+$locale['mark_as'] = "Megjelölés mint";
 $locale['preview'] = "Előnézet";
+$locale['unpreview'] = "Előnézet elrejtése";
 $locale['custom'] = "Mód";
 $locale['submit'] = "Beküldés";
+$locale['submissions'] = "Beküldések";
+$locale['submit_access'] = "Hozzáférés a beküldésekhez";
+$locale['categories'] = "Kategóriák";
+$locale['thumbnail'] = "Bélyegkép";
 // Alignment
-$locale['left'] = "Ball";
+$locale['left'] = "Bal";
 $locale['center'] = "Közép";
 $locale['right'] = "Jobb";
 // Comments and ratings
-$locale['comments'] = "Hozzászólás";
+$locale['comments'] = "Hozzászólások";
 $locale['ratings'] = "Értékelés";
 $locale['comments_ratings'] = "Hozzászólás és Értékelés";
 $locale['user_account'] = "Felhasználói fiók";
-$locale['about'] = "Szerző";
+$locale['about'] = "Névjegy";
 // User status
 $locale['online'] = "Online";
-$locale['offline'] = "Offline";
+$locale['offline'] = "Nem elérhető";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. fájlméret: %s / Engedélyezett fájltípusok: %s";
+// DataTables
+$locale['processing_locale'] = "Kérlek várj türelemmel amíg a folyamat tart...";
+$locale['menu_locale'] = "_MENU_ rekordok száma oldalanként"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nem találtunk semmit - sajnáljuk";
+$locale['result_locale'] = "_PAGE_ oldal megjelenítése _PAGES_-ből"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "Nincs rendelkezésre álló adat";
+$locale['filter_locale'] = "(_MAX_ rekordból kiszűrve)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Rekord keresése";
 // Timer
 $locale['timer_year'] = "év|év";
 $locale['timer_month'] = "hó|hó";
