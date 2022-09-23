@@ -12,6 +12,6 @@ $locale['home_0053'] = "Žádné soubory ke stažení";
 // common text
 $locale['home_0100'] = "Obsahové moduly nejsou nainstalovány";
 $locale['home_0101'] = "Nainstalujte alespoň jeden modul pro textový obsah nebo změňte úvodní stránku v Hlavních nastaveních.";
-$locale['home_0102'] = "Nezařazené";
+$locale['home_0102'] = "Nekategorizováno";
 $locale['home_0105'] = "Publikoval ";
 $locale['home_0106'] = " v ";
