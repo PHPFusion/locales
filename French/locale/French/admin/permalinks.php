@@ -39,6 +39,6 @@ $locale['PL_429'] = "Pilote de permalien pour %s";
 
 // Other
 $locale['PL_427'] = "Aucun Permalien n'est actif.";
-$locale['PL_428'] = "Permaliens";
+$locale['PL_428'] = "Liens permanents";
 $locale['seo_htc_warning'] = "Veuillez noter que si vous modifiez l'un de ces paramètres, le contenu du fichier `. htaccess` sera écrasé et tous les changements effectués précédemment sur ce fichier seront perdus.";
 $locale['rewrite_disabled'] = "Il semble que `mod_rewrite` ne soit pas activé sur votre hôte. L'activation des urls SEF pourrait endommager votre site web. Veuillez contacter votre hébergeur afin d'activer `mod_rewrite` sur votre hôte.";
