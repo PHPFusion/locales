@@ -1,17 +1,17 @@
 var pwstrength_locale = {
-    wordMinLength: 'Uw wachtwoord is te kort',
+    wordMinLength: 'Your password is too short',
     wordMaxLength: 'Your password is too long',
     wordInvalidChar: 'Your password contains an invalid character',
-    wordNotEmail: 'Gebruik niet uw e-mail als uw wachtwoord',
-    wordSimilarToUsername: 'Verwerk uw gebruikersnaam niet in uw wachtwoord',
-    wordTwoCharacterClasses: 'Gebruik verschillende tekenklassen',
-    wordRepetitions: 'Te veel herhalingen',
-    wordSequences: 'Uw wachtwoord bevat reeksen',
+    wordNotEmail: 'Do not use your email as your password',
+    wordSimilarToUsername: 'Your password cannot contain your username',
+    wordTwoCharacterClasses: 'Use different character classes',
+    wordRepetitions: 'Too many repetitions',
+    wordSequences: 'Your password contains sequences',
     errorList: 'Errors:',
-    veryWeak: 'Zeer Zwak',
-    weak: 'Zwak',
+    veryWeak: 'Very Weak',
+    weak: 'Weak',
     normal: 'Normaal',
-    medium: 'Gemiddeld',
-    strong: 'Sterk',
-    veryStrong: 'Zeer Sterk'
-}
+    medium: 'Medium',
+    strong: 'Strong',
+    veryStrong: 'Very Strong'
+};
