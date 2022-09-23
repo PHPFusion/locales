@@ -1,7 +1,7 @@
 <?php
-$locale['UL_001'] = "Log usuario";
+$locale['UL_001'] = "Registro de Usuarios";
 $locale['UL_002'] = "Fecha";
-$locale['UL_003'] = "Nombre de usuario";
+$locale['UL_003'] = "Nombre de Usuario";
 $locale['UL_004'] = "Campo de usuario";
 $locale['UL_005'] = "Se borran todas las entradas anteriores a %d días.";
 $locale['UL_006'] = "Entrada de registro de usuario eliminada";
@@ -16,6 +16,6 @@ $locale['UL_014'] = "Opciones";
 $locale['UL_015'] = "No hay registros disponibles en este momento.";
 $locale['UL_016'] = "Eliminar entradas anteriores a:";
 $locale['UL_017'] = "Días";
-$locale['UL_018'] = "Ascendiendo";
+$locale['UL_018'] = "Ascendente";
 $locale['UL_019'] = "Descendente";
 $locale['UL_020'] = "Select All";
