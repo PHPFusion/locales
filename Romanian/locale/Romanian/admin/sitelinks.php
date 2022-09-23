@@ -1,6 +1,6 @@
 <?php
 // News titles
-$locale['SL_0001'] = "Leg&#259;turi sait";
+$locale['SL_0001'] = "Leg&#259;turii sait";
 $locale['SL_0010'] = "Adaug&#259; o leg&#259;tur&#259;";
 $locale['SL_0011'] = "Editare leg&#259;tur&#259; sait";
 $locale['SL_0012'] = "Leg&#259;turile actuale ale saitului";
@@ -10,11 +10,11 @@ $locale['SL_0016'] = "Leg&#259;tur&#259; sait actualizat&#259;";
 $locale['SL_0017'] = "Leg&#259;tur&#259; sait &#351;tears&#259;";
 $locale['SL_0018'] = "Set&#259;ri leg&#259;turi sait actualizate";
 // Site Links form
-$locale['SL_0020'] = "Nume leg&#259;tur&#259;:";
+$locale['SL_0020'] = "Nume leg&#259;tur&#259;";
 $locale['SL_0020a'] = "Imagine leg&#259;tur&#259;";
 $locale['SL_0021'] = "URL leg&#259;tur&#259;:";
 $locale['SL_0022'] = "Vizibilitate:";
-$locale['SL_0023'] = "Ordine:";
+$locale['SL_0023'] = "Ordine";
 $locale['SL_0024'] = "Pozi&#355;ie:";
 $locale['SL_0025'] = "doar &#238;n panoul de navigare";
 $locale['SL_0026'] = "panou de navigare &#351;i sub antet";
@@ -53,11 +53,11 @@ $locale['SL_0062'] = "Nu exist&#259; leg&#259;turi ad&#259;ugate.";
 $locale['SL_0063'] = "Use BBCode in Link Name?";
 $locale['SL_0064'] = "Enabling this will reformat link name with BBcodes";
 
-$locale['SL_0070'] = "Imagine";
+$locale['SL_0070'] = "Icon";
 $locale['SL_0071'] = "Fereastr&#259; nou&#259;?";
 $locale['SL_0072'] = "Meniu";
 $locale['SL_0073'] = "Re&#238;mprosp&#259;teaz&#259; ordinea leg&#259;turilor";
-$locale['SL_0074'] = "Mut&#259;";
+$locale['SL_0074'] = "Move";
 $locale['SL_0075'] = "Arat&#259; op&#355;iunile";
 
 // Delete Site Link category
