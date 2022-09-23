@@ -1,5 +1,5 @@
 <?php
-$locale['gallery_400'] = "Albumy";
+$locale['gallery_400'] = "Galeria";
 $locale['gallery_401'] = "Otwórz album";
 $locale['gallery_402'] = "Brak miniaturki";
 $locale['gallery_403'] = "Data:";
@@ -10,7 +10,7 @@ $locale['gallery_420'] = "Informacje o albumie";
 $locale['gallery_421'] = "Album:";
 $locale['gallery_422'] = "Liczba zdjęć:";
 $locale['gallery_423'] = "Najnowsze zdjęcie dodał(a)";
-$locale['gallery_424'] = "w dniu";
+$locale['gallery_424'] = "dnia";
 $locale['gallery_425'] = "W tym albumie nikt nie dodał zdjęć";
 $locale['gallery_430'] = "Wyświetl album";
 $locale['gallery_431'] = "Kliknij, by przejrzeć";
@@ -31,7 +31,7 @@ $locale['gallery_457'] = "Liczba wyświetleń:";
 $locale['gallery_458'] = "Kliknij, by zamknąć";
 $locale['gallery_459'] = "Pierwsze zdjęcie";
 $locale['gallery_460'] = "Ostatnie zdjęcie";
-$locale['gallery_461'] = "zdjęcie|zdjęć";
+$locale['gallery_461'] = "zdjęć|zdjęcia";
 $locale['gallery_463'] = "autor|autorzy";
 $locale['gallery_464'] = "Data dodania:";
 $locale['gallery_465'] = "Galeria";
