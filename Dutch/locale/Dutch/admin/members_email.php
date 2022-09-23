@@ -24,7 +24,7 @@ Je account is gemarkeerd als inactief, maar al je gegevens zijn nog in aanwezig.
 Om je account weer te activeren, klik simpelweg op de volgende link: [REACTIVATION_LINK]<br/>
  Met vriendelijke groet,<br/> [SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Je account op [SITENAME] is verbannen";
+$locale['email_ban_subject'] = "Uw account op [SITENAME] is verbannen";
 $locale['email_ban_message'] = "Hallo [USER_NAME], <br/> Uw account op [SITENAME] is verbannen door [ADMIN_USERNAME] vanwege de volgende reden: <br/> [REASON] <br/> Als u meer informatie wilt over dit verbod, kunt u neem dan contact op met de sitebeheerder via [SITENAME]. <br/> Met vriendelijke groeten, <br/> [SITEUSERNAME]";
 
 $locale['email_secban_subject'] = "Uw account op [SITENAME] is verbannen";
