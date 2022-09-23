@@ -84,8 +84,15 @@ $locale['df_422'] = "Непозната грешка (Заявка)";
 $locale['df_423'] = "File was not uploaded properly. Please try again";
 $locale['df_424'] = "Текущите файлове за качване са повече от максималното допустимо. Моля опитайте отново с по-малко файлове.";
 
-// ReCaptcha2
-$locale['grecaptcha'] = "Google Recaptcha";
+$locale['error_rate'] = "Моля въведете честота.";
+$locale['error_type'] = "Моля въведете тип.";
+$locale['error_width'] = "Моля въведете широчина.";
+$locale['error_height'] = "Моля въведете височина.";
+$locale['error_value'] = "Моля въведете стойност.";
+
+// ReCaptcha
+$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha модул";
 $locale['grecaptcha_placeholder_1'] = "Ключ от Google";
 $locale['grecaptcha_placeholder_2'] = "Таен ключ от Google";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Тъмна";
 $locale['grecaptcha_0103'] = "Тип валидация";
 $locale['grecaptcha_0103a'] = "Текст";
 $locale['grecaptcha_0103b'] = "Аудио";
+$locale['grecaptcha_0104'] = "Score";
 $locale['grecaptcha_warn'] = "Моля въведете Вашия публичен и личен ключ за reCAPTCHA";
