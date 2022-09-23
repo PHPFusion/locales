@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion File Manager";
-
+$locale['IMGUP_100'] = "Fusion File Manager";
 // Delete Image
-$locale['400'] = "&#350;terge imaginea";
-$locale['401'] = "Imaginea a fost &#351;tears&#259;.";
-$locale['402'] = "Revenire la Administrare imagini";
-$locale['403'] = "Revenire la Index Administrare";
+$locale['IMGUP_400'] = "&#350;terge imaginea";
+$locale['IMGUP_401'] = "Imaginea a fost &#351;tears&#259;.";
+$locale['IMGUP_402'] = "Revenire la Administrare imagini";
+$locale['IMGUP_403'] = "Revenire la Index Administrare";
 // Upload Image
-$locale['420'] = "&#206;ncarc&#259; imagine ";
-$locale['421'] = "Nume fi&#351;ier:";
-$locale['422'] = "Imagini principale";
-$locale['423'] = "Imagini articole";
-$locale['424'] = "Imagini &#351;tiri";
-$locale['425'] = "Nu pot &#238;nc&#259;rca dec&#226;t imagini &#238;n format .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Imagine &#238;nc&#259;rcat&#259;";
-$locale['427'] = "Imagini pentru categoriile de &#351;tiri";
-$locale['428'] = "Imagini blog";
-$locale['429'] = "Imagini pentru categoriile de blog";
+$locale['IMGUP_420'] = "&#206;ncarc&#259; imagine ";
+$locale['IMGUP_421'] = "Nume fi&#351;ier:";
+$locale['IMGUP_422'] = "Imagini principale";
+$locale['IMGUP_423'] = "Imagini articole";
+$locale['IMGUP_424'] = "Imagini &#351;tiri";
+$locale['IMGUP_425'] = "Max. file size %s / Allowed file types .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Imagine &#238;nc&#259;rcat&#259;";
+$locale['IMGUP_427'] = "Imagini pentru categoriile de &#351;tiri";
+$locale['IMGUP_428'] = "Imagini blog";
+$locale['IMGUP_429'] = "Imagini pentru categoriile de blog";
 // View Image
-$locale['440'] = "Vizualizare imagine";
-$locale['441'] = "Format de fi&#351;ier necunoscut, nu pot afi&#351;a imaginea.";
-$locale['442'] = "&#350;terge aceast&#259; imagine";
+$locale['IMGUP_440'] = "Vizualizare imagine";
+$locale['IMGUP_441'] = "Format de fi&#351;ier necunoscut, nu pot afi&#351;a imaginea.";
+$locale['IMGUP_442'] = "&#350;terge aceast&#259; imagine";
 // Image Management
-$locale['460'] = "Imagini";
-$locale['461'] = "Vizualizeaz&#259;";
-$locale['463'] = "Acest director este gol";
-$locale['464'] = "Actualizeaz&#259; lista de imagini pentru editorul TinyMCE";
+$locale['IMGUP_460'] = "Imagini";
+$locale['IMGUP_461'] = "Vizualizare";
+$locale['IMGUP_463'] = "Acest director este gol";
+$locale['IMGUP_464'] = "Actualizeaz&#259; lista de imagini pentru editorul TinyMCE";
+$locale['IMGUP_465'] = "Image list updated";
 // Popup Error/Warning Messages
-$locale['470'] = "Sterg aceasta imagine?";
+$locale['IMGUP_470'] = "Sterg aceasta imagine?";
