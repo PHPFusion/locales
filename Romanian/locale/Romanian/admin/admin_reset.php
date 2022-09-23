@@ -34,14 +34,14 @@ Cu respect,
 [ADMIN]";
 $locale['apw_410'] = "Rezultatul reset&#259;rii";
 $locale['apw_411'] = "<strong>Atentie:</strong> Parola de a administrare nu a fost introdus&#259; sau este incorect&#259;.";
-$locale['apw_412'] = "Parola de administrare:";
+$locale['apw_412'] = "Parol&#259; de administrare:";
 $locale['apw_415'] = "Jurnal de reset&#259;ri";
 $locale['apw_416'] = "ID jurnal";
 $locale['apw_417'] = "Ora reset&#259;rii";
 $locale['apw_418'] = "Responsabilul";
 $locale['apw_419'] = "Resetat";
 $locale['apw_420'] = "Succes";
-$locale['apw_421'] = "Motiv";
+$locale['apw_421'] = "Motivul";
 $locale['apw_422'] = "din";
 $locale['apw_423'] = "Niciun motiv.";
 $locale['apw_424'] = "Reset administrator(i):";
