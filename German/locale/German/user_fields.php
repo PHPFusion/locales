@@ -155,3 +155,8 @@ $locale['u202'] = "E-Mail Adresse bei [SITENAME] bestätigen";
 $locale['u203'] = "Hallo [USER_NAME],
 
 ";
+// Checker
+$locale['u300'] = "Das Passwort sollte mindestens 1 Sonderzeichen enthalten";
+$locale['u301'] = "Das Passwort sollte mindestens 1 Groß- und 1 Kleinbuchstabe enthalten";
+$locale['u302'] = "Das Passwort sollte mindestens 1 Nummer enthalten";
+$locale['u303'] = "Das Passwort sollte mindestens 8 Zeichen lang sein";
