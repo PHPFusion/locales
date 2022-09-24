@@ -91,7 +91,7 @@ $locale['error_height'] = "Prašom įvesti aukštį.";
 $locale['error_value'] = "Prašom įvesti reikšmę.";
 
 // ReCaptcha
-$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha laukelių modulis";
 $locale['grecaptcha_placeholder_1'] = "TINKLAPIO RAKTAS (SITE KEY) iš Google";
