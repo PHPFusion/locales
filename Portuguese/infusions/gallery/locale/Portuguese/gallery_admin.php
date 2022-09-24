@@ -54,11 +54,11 @@ $locale['gallery_0102'] = "Enviar outra foto";
 $locale['gallery_0107'] = "Use o seguinte formulário para enviar uma Foto. O seu envio será analisado por um
 <br/>Administrador. [SITENAME] reserva-se o direito de alterar ou editar qualquer submissão. Fotos
 <br/>devem ser aplicáveis ao conteúdo deste site. Submissões inadequadas serão apagadas.";
-$locale['gallery_0111'] = "Submeter foto";
+$locale['gallery_0111'] = "Enviar Foto";
 $locale['gallery_0112'] = "Desculpe, de momento não aceitamos nenhum envio de fotos neste site.";
 $locale['gallery_0113'] = "Voltar para [SITENAME]";
 $locale['gallery_0150'] = "Actualmente, não há nenhuma submissão de fotos";
-$locale['gallery_0151'] = "Há atualmente %s pendentes para sua análise.";
+$locale['gallery_0151'] = "Há actualmente %s pendentes para sua análise.";
 $locale['gallery_0152'] = "Título da submissão da foto para revisão";
 $locale['gallery_0153'] = "Autor da Submissão";
 $locale['gallery_0154'] = "Hora da Submissão";
