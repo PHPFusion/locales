@@ -1,6 +1,6 @@
 <?php
 // Titles
-$locale['ERROR_400'] = "Logi błędów";
+$locale['ERROR_400'] = "Dziennik błędów";
 $locale['ERROR_401'] = "Zapoznaj się z plikiem";
 // Errors table
 $locale['ERROR_410'] = "Błąd";
