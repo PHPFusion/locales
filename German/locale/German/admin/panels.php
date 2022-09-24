@@ -1,15 +1,15 @@
 <?php
 // Panel Management
 $locale['PANEL_400'] = "Paneele";
-$locale['PANEL_401'] = "Panel Name";
+$locale['PANEL_401'] = "Paneel Name";
 $locale['PANEL_402'] = "Seite";
 $locale['PANEL_403'] = "Reihenfolge";
 $locale['PANEL_404'] = "Typ";
 $locale['PANEL_405'] = "Zugriff";
 $locale['PANEL_406'] = "Einstellungen";
 $locale['PANEL_407'] = "Aktuelle Paneele";
-$locale['PANEL_408'] = "Panel hinzufügen";
-$locale['PANEL_409'] = "Panel bearbeiten";
+$locale['PANEL_408'] = "Paneel hinzufügen";
+$locale['PANEL_409'] = "Paneel bearbeiten";
 $locale['PANEL_410'] = "Sie können die Panele per Drag & Drop über das Panel-Fenster verschieben, um die Position zu wechseln oder die Reihenfolge des Panels zu sortieren.";
 // Panel Settings
 $locale['PANEL_420'] = "Links";
@@ -31,7 +31,7 @@ $locale['PANEL_432'] = "Nach oben verschieben";
 $locale['PANEL_433'] = "Nach unten verschieben";
 $locale['PANEL_435'] = "Aktivieren";
 $locale['PANEL_436'] = "Deaktivieren";
-$locale['PANEL_438'] = "Neues Panel";
+$locale['PANEL_438'] = "Neues Paneel";
 $locale['PANEL_439'] = "Sortier werte des Panel aktualisieren";
 $locale['PANEL_440'] = "Dieses Panel löschen?";
 $locale['PANEL_441'] = "Links";
