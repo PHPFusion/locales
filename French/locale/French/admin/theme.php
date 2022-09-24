@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Thème actif actuel";
 
 $locale['theme_1008'] = "Charger le thème";
 $locale['theme_1009'] = "Style du thème";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Thèmes actuels";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Définir comme actif";
