@@ -1,5 +1,5 @@
 <?php
-$locale['blog_1000'] = "Tinklaraščiai";
+$locale['blog_1000'] = "Tinklaraštis";
 $locale['blog_1001'] = "Tinklaraščio pradžia";
 $locale['blog_1003'] = "Tinklaraščio kategorija";
 $locale['blog_1004'] = "Tinklaraščio archyvas";
