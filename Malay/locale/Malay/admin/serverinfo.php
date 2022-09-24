@@ -15,7 +15,7 @@ $locale['SRV_410'] = "Pelayar dan Perisian";
 $locale['SRV_411'] = "Terjemah oleh: Frederick MC Chan"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['SRV_420'] = "Pengaturan PHP";
-$locale['SRV_423'] = "Safe-mode";
+$locale['SRV_423'] = "Mod selamat";
 $locale['SRV_424'] = "RegisterGlobals";
 $locale['SRV_425'] = "Sokongan untuk";
 $locale['SRV_426'] = "Muat Naik Fail (Saiz fail maksimum)";
@@ -25,8 +25,8 @@ $locale['SRV_430'] = "tiada berkenaan";
 $locale['SRV_431'] = "versi";
 //Write permission
 $locale['SRV_440'] = "Hak Folder";
-$locale['SRV_441'] = "Writeable";
-$locale['SRV_442'] = "Not writeable";
+$locale['SRV_441'] = "Boleh ditulis";
+$locale['SRV_442'] = "Tidak boleh ditulis";
 //PHPinfo
 $locale['SRV_450'] = "Butir-butir";
 $locale['SRV_451'] = "Maklumat dan butiran tidak dapat didapati. Sila buat pengesahan fungsi phpinfo() didapati dan aktif?";
