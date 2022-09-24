@@ -27,7 +27,7 @@ $locale['ERROR_454'] = "Критичность";
 
 $locale['ERROR_460'] = "Ошибки";
 $locale['ERROR_461'] = "Файл с ошибкой";
-$locale['ERROR_462'] = "Параметры";
+$locale['ERROR_462'] = "Опции";
 $locale['ERROR_463'] = "Создано";
 $locale['ERROR_464'] = "Консоль ошибок";
 $locale['ERROR_465'] = "Исходный файл";
