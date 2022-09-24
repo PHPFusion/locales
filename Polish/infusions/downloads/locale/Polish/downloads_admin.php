@@ -1,5 +1,5 @@
 <?php
-$locale['download_604'] = "Szerokość x Wysokość";
+$locale['download_604'] = "Szerokość x wysokość";
 $locale['download_930'] = "Maksymalny rozmiar przesyłanego pliku:";
 $locale['download_931'] = "Maksymalny rozmiar pliku w bajtach";
 $locale['download_932'] = "Dozwolone typy plików:";
@@ -11,7 +11,7 @@ $locale['download_938'] = "Włączyć zrzuty ekranu?";
 $locale['download_939'] = "Liczba plików na stronę";
 $locale['download_940'] = "Włączyć statystyki?";
 $locale['download_0000'] = "Bieżące pliki";
-$locale['download_0001'] = "Download";
+$locale['download_0001'] = "Pliki";
 $locale['download_0002'] = "Dodaj plik";
 $locale['download_0003'] = "Edytuj plik";
 $locale['download_0004'] = "Wszystkie pliki";
@@ -115,4 +115,4 @@ $locale['download_0309'] = "Zapisz kategorię";
 $locale['download_0350'] = "Usunąć tę kategorię plików?";
 $locale['download_0351'] = "Proszę wprowadzić nazwę kategorii.";
 $locale['download_0352'] = "Ta kategoria już istnieje.";
-$locale['download_submit'] = "%s plik";
+$locale['download_submit'] = "%s plików";
