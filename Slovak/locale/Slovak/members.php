@@ -1,11 +1,11 @@
 <?php
-$locale['MEMB_000'] = "Užívatelia";
+$locale['MEMB_000'] = "Zoznam užívateľov";
 $locale['MEMB_001'] = "Avatar";
 $locale['MEMB_002'] = "Meno";
 $locale['MEMB_003'] = "Užívateľské skupiny";
 $locale['MEMB_004'] = "Typ účtu";
 $locale['MEMB_005'] = "Hľadať člena...";
-$locale['MEMB_006'] = "Vyhľadávanie";
+$locale['MEMB_006'] = "Hľadať";
 $locale['MEMB_007'] = "Triediť podľa";
 $locale['MEMB_008'] = "Posledná aktivita";
 $locale['MEMB_009'] = "Novo registrovaní";
