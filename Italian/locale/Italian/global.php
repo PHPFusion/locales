@@ -176,7 +176,7 @@ $locale['global_101b'] = "Inserisci Email";
 $locale['global_101c'] = "Inserisci Email o nome utente";
 $locale['global_102'] = "Password";
 $locale['global_103'] = "Resta connesso";
-$locale['global_104'] = "Accedi";
+$locale['global_104'] = "Login";
 $locale['global_105'] = "Non sei ancora un membro? [LINK] Clicca qui [/LINK] per registrarti. ";
 $locale['global_106'] = "[LINK] Hai dimenticato la Password? [/LINK] ";
 $locale['global_107'] = "Registrati";
@@ -202,7 +202,7 @@ $locale['UM061b'] = "Nome utente o Email";
 $locale['UM062'] = "Password";
 $locale['UM063'] = "Ricordati di me";
 $locale['UM064'] = "Accesso";
-$locale['UM065'] = "Non sei ancora un membro? [LINK] Clicca qui [/LINK] per registrarti. ";
+$locale['UM065'] = "Non ancora un membro? [LINK] Clicca qui [/LINK] per registrare. ";
 $locale['UM066'] = "Dimenticato la password?
  [LINK] richiederne uno nuovo [/LINK].";
 $locale['UM067'] = "(not recommended on public or shared computer)";
@@ -236,8 +236,8 @@ $locale['UM100'] = "Archivio PM:";
 // Keywords and Meta
 $locale['tags'] = "Etichetta";
 // Captcha
-$locale['global_150'] = "Validation Code:";
-$locale['global_151'] = "Enter Validation Code:";
+$locale['global_150'] = "Codice di convalida:";
+$locale['global_151'] = "Invio codice di convalida:";
 // Footer Counter
 $locale['global_170'] = "Unica visita";
 $locale['global_171'] = "Uniche visite";
@@ -378,7 +378,7 @@ $locale['global_ML103'] = "Cambia lingua";
 // Flood Control
 $locale['flood'] = "Non puoi postare fino a quando il tempo di flood è finito. Si prega di attendere per %s. ";
 $locale['no_image'] = "Nessuna immagine";
-$locale['send_message'] = "Send Message";
+$locale['send_message'] = "Invia messaggio";
 $locale['go_profile'] = "Vai a %s Pagina del profilo";
 // Global one word locales
 $locale['hello'] = "Ciao!";
@@ -404,7 +404,7 @@ $locale['and'] = "and";
 $locale['na'] = "Non disponibile";
 $locale['joined'] = "aderito dal:";
 // Navigation
-$locale['next'] = "Successivo";
+$locale['next'] = "Avanti";
 $locale['previous'] = "Precedente";
 $locale['back'] = "Indietro";
 $locale['first'] = "First";
@@ -430,7 +430,7 @@ $locale['update'] = "Aggiorna";
 $locale['updated'] = "Aggiornato";
 $locale['remove'] = "Rimuovi";
 $locale['delete'] = "Cancella";
-$locale['search'] = "Ricerca";
+$locale['search'] = "Cerca";
 $locale['help'] = "Aiuto";
 $locale['register'] = "Registrati";
 $locale['ban'] = "Ban";
@@ -456,7 +456,7 @@ $locale['it'] = "It";
 $locale['order'] = "Elemento ordine";
 $locale['sort'] = "Ordina";
 $locale['id'] = "ID";
-$locale['title'] = "Title";
+$locale['title'] = "Titolo";
 $locale['rights'] = "Diritti";
 $locale['info'] = "Info";
 $locale['image'] = "Immagine";
