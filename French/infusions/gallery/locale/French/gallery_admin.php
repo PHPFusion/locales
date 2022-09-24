@@ -54,11 +54,11 @@ $locale['gallery_0102'] = "Soumettre une autre photo";
 $locale['gallery_0107'] = "Utilisez le formulaire suivant pour soumettre une Photo. Votre soumission sera examinée par un administrateur
 <br/>. [SITENAME] se réserve le droit de modifier ou de modifier toute soumission. Les photos
 <br/>devraient être applicables au contenu de ce site. Les soumissions jugées inappropriées seront rejetées.";
-$locale['gallery_0111'] = "Soumettre une photo";
+$locale['gallery_0111'] = "Soumettre la photo";
 $locale['gallery_0112'] = "Désolé, nous n'acceptons actuellement aucune soumission de photo sur ce site.";
 $locale['gallery_0113'] = "Retour à [SITENAME]";
 $locale['gallery_0150'] = "Il n'y a actuellement aucune remise de photo";
-$locale['gallery_0151'] = "Il y a actuellement %s en attente de révision.";
+$locale['gallery_0151'] = "Il y a actuellement %s en attente pour votre évaluation.";
 $locale['gallery_0152'] = "Titre de soumission de la photo pour la revue";
 $locale['gallery_0153'] = "Auteur de la soumission";
 $locale['gallery_0154'] = "Heure de soumission";
@@ -86,7 +86,7 @@ $locale['gallery_0213'] = "Activer le filigrane textuel sur les photos ?";
 $locale['gallery_0214'] = "Activer le filigrane des photos ?";
 $locale['gallery_0215'] = "Enregistrer les filigranes générés ?";
 $locale['gallery_0216'] = "Enregistrer les paramètres de la galerie";
-$locale['gallery_0217'] = "Types de fichiers autorisés :";
+$locale['gallery_0217'] = "Types de fichiers autorisés :";
 $locale['gallery_0218'] = "Paramètres Principaux";
 $locale['gallery_0219'] = "Configuration du système de galerie";
 $locale['gallery_0220'] = "Paramètres photo";
