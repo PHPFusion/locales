@@ -17,7 +17,7 @@ Nové přihlašovací heslo: [NEW_PASS]<br/>Nové administrátorské heslo: [NEW
 S pozdravem,<br/>[ADMIN]";
 $locale['apw_410'] = "Resetovat výsledky";
 $locale['apw_411'] = "Aktualizovat heslo administrátora.";
-$locale['apw_412'] = "Admin heslo:";
+$locale['apw_412'] = "Heslo administrátora:";
 $locale['apw_415'] = "Záznam obnovení";
 $locale['apw_416'] = "ID záznamu";
 $locale['apw_417'] = "Obnovit čas";
