@@ -1,5 +1,5 @@
 <?php
-$locale['r100'] = "Classificação";
+$locale['r100'] = "Avaliação";
 $locale['r101'] = "Não foram publicadas avaliações.";
 $locale['r102'] = "Remover classificação";
 $locale['r103'] = "Classificação";
