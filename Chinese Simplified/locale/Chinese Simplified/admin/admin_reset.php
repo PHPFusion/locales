@@ -17,14 +17,14 @@ $locale['apw_409'] = "您好[USER_NAME]，您的登录名和管理员密码已�
 谢谢，<br/>[ADMIN]";
 $locale['apw_410'] = "重置结果";
 $locale['apw_411'] = "更新管理员密码。";
-$locale['apw_412'] = "Admin Password:";
+$locale['apw_412'] = "管理员密码:";
 $locale['apw_415'] = "重置日志";
 $locale['apw_416'] = "日志 ID";
 $locale['apw_417'] = "重置时间";
 $locale['apw_418'] = "负责";
 $locale['apw_419'] = "重 置";
 $locale['apw_420'] = "成功";
-$locale['apw_421'] = "Reason";
+$locale['apw_421'] = "原因";
 $locale['apw_422'] = "的";
 $locale['apw_423'] = "没有说明理由。";
 $locale['apw_424'] = "管理员重置";
