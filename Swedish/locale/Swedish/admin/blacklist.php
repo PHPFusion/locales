@@ -23,7 +23,7 @@ $locale['BLS_035'] = "Svartlista e-postadress";
 $locale['BLS_036'] = "Orsak till svartlistning";
 $locale['BLS_037'] = "Svartlista användare";
 $locale['BLS_038'] = "Uppdatera";
-$locale['BLS_039'] = "Markera alla";
+$locale['BLS_039'] = "Välj alla";
 
 $locale['BLS_MS'] = "Att ange en IP-adress kommer att förhindra en användare vars IP-adress matchar posten från att besöka denna webbplats.
 Du kan ange en fullständig IP, t.ex. <em>23.45.67.89.</em>, eller en partiell IP, e.. 
