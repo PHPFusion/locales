@@ -11,10 +11,10 @@ $locale['ME_408'] = 'Základné informácie';
 $locale['ME_409'] = 'Detailné informácie';
 $locale['ME_410'] = 'Užívateľ';
 $locale['ME_411'] = 'Úroveň užívateľa';
-$locale['ME_412'] = 'E-mailová adresa';
+$locale['ME_412'] = 'Emailová adresa';
 $locale['ME_413'] = ' Užívateľský účet';
-$locale['ME_414'] = 'Označiť všetko';
-$locale['ME_415'] = 'Skryté';
+$locale['ME_414'] = 'Vybrať všetko';
+$locale['ME_415'] = 'Skrytý';
 $locale['ME_416'] = 'Zobrazený';
 
 // Core Fields Filter
@@ -72,10 +72,10 @@ $locale['ME_507'] = 'Aktivovať';
 $locale['ME_508'] = 'Prihlásiť sa ako užívateľ';
 
 // a_message keys
-$locale['ME_550'] = 'zabanovaný';
+$locale['ME_550'] = 'zakázaný';
 $locale['ME_551'] = 'obnovený';
 $locale['ME_552'] = 'deaktivovaný';
-$locale['ME_553'] = 'suspendovaný';
+$locale['ME_553'] = 'pozastavený';
 $locale['ME_554'] = 'bezpečnostne zakázaný';
 $locale['ME_555'] = 'zrušený';
 $locale['ME_556'] = 'anonymizovaný';
