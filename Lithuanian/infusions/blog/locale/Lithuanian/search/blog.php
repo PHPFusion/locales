@@ -1,6 +1,6 @@
 <?php
-$locale['blog.php'] = "Tinklaraščiai";
-$locale['b400'] = "Tinklaraščiai";
+$locale['blog.php'] = "Tinklaraštis";
+$locale['b400'] = "Tinklaraštis";
 $locale['b401'] = "Tinklaraščio straipsnis";
 $locale['b402'] = "Tinklaraščio straipsniai";
 $locale['b403'] = "rasta";
