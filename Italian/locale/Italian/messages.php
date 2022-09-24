@@ -30,14 +30,14 @@ $locale['425'] = "Opzioni";
 $locale['426'] = "Invia";
 $locale['427'] = "Disabilita Smileys nel messaggio";
 $locale['428'] = "Visualizza firma nel messaggio";
-$locale['429'] = "Preview";
+$locale['429'] = "Anteprima";
 $locale['430'] = "Invia";
 $locale['431'] = "Leggi messaggi privati";
 $locale['432'] = "Chiudi";
-$locale['433'] = "Reply";
+$locale['433'] = "Rispondi";
 $locale['434'] = "Invia a tutti";
 $locale['437'] = "Invia";
-$locale['439'] = "Reply";
+$locale['439'] = "Rispondi";
 $locale['440'] = "(ricevuto il %s)";
 $locale['441'] = "Scrivi come gestore sito";
 $locale['442'] = "Livello utente";
@@ -51,7 +51,7 @@ $locale['448'] = "Impostazioni";
 // Search Options -- this is used by Search.php
 $locale['450'] = "Ordine di ricerca e opzioni";
 $locale['451'] = "Cerca / Ordina";
-$locale['452'] = "Clear";
+$locale['452'] = "Svuota";
 $locale['453'] = "Non É stato trovato nulla durante la ricerca";
 $locale['454'] = "Cerca per";
 $locale['455'] = "in";
@@ -117,7 +117,7 @@ $locale['523'] = "Non mantenere un record";
 $locale['524'] = "Sì, mantenere i miei messaggi inviati";
 
 // Options
-$locale['620'] = "Impostazioni";
+$locale['620'] = "Opzioni";
 $locale['621'] = "Notifica via Email al ricevimento di un nuovo PM:";
 $locale['622'] = "Salva automaticamente i messaggi inviati:";
 $locale['623'] = "Salva Opzioni";
@@ -128,7 +128,7 @@ $locale['627'] = "Errore";
 $locale['628'] = "Impossibile inviare il messaggio. La casella In Arrivo utente É piena.";
 $locale['629'] = "Non puoi spostare il messaggio selezionato nella cartella desiderata perché supera il limite massimo.";
 $locale['630'] = " Limite Messaggi";
-$locale['631'] = "This message was sent automatically by system and does not require any reply.";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 $locale['632'] = "System";
 
 $locale['700'] = "User inbox is full. Try delete it or upgrade it to 102 or 103 status";
