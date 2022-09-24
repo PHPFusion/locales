@@ -150,7 +150,7 @@ $locale['global_078'] = "Žádné zprávy zatím nebyly zveřejněny";
 $locale['global_079'] = "V ";
 $locale['global_080'] = "Nekategorizováno";
 $locale['global_081'] = "Domovská stránka novinky";
-$locale['global_082'] = "Zprávy";
+$locale['global_082'] = "Novinky";
 $locale['global_083'] = "Naposledy aktualizováno";
 $locale['global_084'] = "Zprávy kategorie";
 $locale['global_085'] = "Všechny ostatní kategorie";
@@ -175,7 +175,7 @@ $locale['global_101b'] = "Zadejte email";
 $locale['global_101c'] = "Zadejte e-mail nebo uživatelské jméno";
 $locale['global_102'] = "Heslo";
 $locale['global_103'] = "Zůstat přihlášen";
-$locale['global_104'] = "Přihlášení";
+$locale['global_104'] = "Přihlásit se";
 $locale['global_105'] = "Ještě nejste členem? [LINK]Klikněte zde[/LINK] a zaregistrujte se.";
 $locale['global_106'] = "[LINK]Zapomenuté heslo?[/LINK]";
 $locale['global_107'] = "Registrace";
@@ -209,7 +209,7 @@ $locale['UM081'] = "Soukromé zprávy";
 $locale['UM082'] = "Seznam členů";
 $locale['UM083'] = "Administrace webu";
 $locale['UM084'] = "Odhlásit se";
-$locale['UM085'] = "Máte %u novou/é ";
+$locale['UM085'] = "Máte %u novou/é";
 $locale['UM086'] = "zprávu";
 $locale['UM087'] = "zprávy";
 $locale['UM088'] = "Moje sledovaná vlákna";
@@ -234,8 +234,8 @@ $locale['UM100'] = "Archiv: ";
 // Keywords and Meta
 $locale['tags'] = "Tagy";
 // Captcha
-$locale['global_150'] = "Validační kód:";
-$locale['global_151'] = "Zadejte validační kód:";
+$locale['global_150'] = "Ověřovací kód:";
+$locale['global_151'] = "Zadejte ověřovací kód:";
 // Footer Counter
 $locale['global_170'] = "unikátní návštěvy";
 $locale['global_171'] = "unikátních návštěv";
@@ -329,7 +329,7 @@ $locale['global_500'] = "Budete přesměrováni %s, prosím, čekejte. Pokud nej
 // Captcha Locales
 $locale['global_600'] = "Ověřovací kód";
 $locale['global_601'] = "Musíte zadat správný ověřovací kód";
-$locale['recaptcha'] = "cs";
+$locale['recaptcha'] = "cz";
 // Site links
 $locale['global_700'] = "Zobrazit více";
 // Miscellaneous
@@ -343,7 +343,7 @@ $locale['global_ML103'] = "Přepnout jazyk";
 // Flood Control
 $locale['flood'] = "Je zakázáno odeslat příspěvek, dokud nebude ukončene protečení. Počkejte prosím %s.";
 $locale['no_image'] = "Bez obrázku";
-$locale['send_message'] = "Odeslat";
+$locale['send_message'] = "Poslat zprávu";
 $locale['go_profile'] = "Jít na profil %s";
 // Global one word locales
 $locale['hello'] = "Ahoj!";
@@ -363,7 +363,7 @@ $locale['off'] = "Vypnuto";
 $locale['on'] = "Zapnuto";
 $locale['or'] = "nebo";
 $locale['by'] = "od";
-$locale['in'] = "ve";
+$locale['in'] = "v";
 $locale['of'] = "z";
 $locale['and'] = "a";
 $locale['na'] = "Nejsou k dispozici žádné informace";
@@ -397,7 +397,7 @@ $locale['remove'] = "Odstranit";
 $locale['delete'] = "Vymazat";
 $locale['search'] = "Hledat";
 $locale['help'] = "Pomoc";
-$locale['register'] = "Registrace";
+$locale['register'] = "Registrovat";
 $locale['ban'] = "Ban";
 $locale['reactivate'] = "Reaktivovat";
 $locale['user'] = "Uživatel";
@@ -421,7 +421,7 @@ $locale['it'] = "Ono";
 $locale['order'] = "Pořadí";
 $locale['sort'] = "Seřadit";
 $locale['id'] = "ID";
-$locale['title'] = "Název";
+$locale['title'] = "Nadpis";
 $locale['rights'] = "Práva";
 $locale['info'] = "Info";
 $locale['image'] = "Obrázek";
@@ -490,12 +490,12 @@ $locale['empty_locale'] = "Žádné záznamy k dispozici";
 $locale['filter_locale'] = "(Filtrováno z _MAX_ záznamů)"; // Don't translate _MAX_
 $locale['search_input_locale'] = "Hledat záznamy";
 // Timer
-$locale['timer_year'] = "rok|roky|let";
-$locale['timer_month'] = "měsíc|měsíce|měsíců";
-$locale['timer_day'] = "den|dny|dní";
-$locale['timer_hour'] = "hodina|hodiny|hodin";
-$locale['timer_minute'] = "minuta|minuty|minut";
-$locale['timer_second'] = "sekunda|sekundy|sekund";
+$locale['timer_year'] = "rokem|lety|lety";
+$locale['timer_month'] = "měsícem|měsíci|měsíci";
+$locale['timer_day'] = "dnem|dny|dny";
+$locale['timer_hour'] = "hodinou|hodinami|hodinami";
+$locale['timer_minute'] = "minutou|minutami|minutami";
+$locale['timer_second'] = "vteřinou|vteřinami|vteřinami";
 $locale['timer'] = "[AGO] [DAYS]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "předložení|předložení|předložení";
