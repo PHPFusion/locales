@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Dizaino keitimai";
+$locale['theme_1000'] = "Dizainų administravimas";
 $locale['theme_1001'] = "Dizaino pavadinimas:";
 $locale['theme_1002'] = "Dizainų ruošiniai";
 $locale['theme_1003'] = "Užkrauta";
@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Esanti aktyvus dizainas";
 
 $locale['theme_1008'] = "Įkelti dizainą";
 $locale['theme_1009'] = "Dizaino stiliaus redagavimas";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Esantys dizainai";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Nustatyti kaip aktyvų";
@@ -62,11 +62,11 @@ $locale['theme_2018'] = "Bazinio šrifto dydžiai";
 $locale['theme_2019'] = "Šrifto dydis";
 $locale['theme_2020'] = "Eilučių tarpai";
 $locale['theme_2021'] = "Bazinis šrifto dydis Didelis";
-$locale['theme_2022'] = "Teksto spalva";
+$locale['theme_2022'] = "Šrifto spalva";
 $locale['theme_2023'] = "Bazinis šrifto dydis Mažas";
 $locale['theme_2024'] = "Antraštė ";
 $locale['theme_2025'] = "Šrifto stilius";
-$locale['theme_2026'] = "Nuorodos nustatymai";
+$locale['theme_2026'] = "Nuorodų nustatymai";
 $locale['theme_2027'] = "Bazinė spalva";
 $locale['theme_2028'] = "Spalva užvedus pelytę";
 $locale['theme_2029'] = "Stilius užvedus pelytę";
@@ -120,8 +120,8 @@ $locale['theme_4015'] = "Horizontalaus teksto stilius";
 $locale['theme_4016'] = "Nuorodų stilius";
 
 $locale['theme_5000'] = "Normalus";
-$locale['theme_5001'] = "Paryškintas";
-$locale['theme_5002'] = "Pakreiptas";
+$locale['theme_5001'] = "Ryškus";
+$locale['theme_5002'] = "Pasviręs";
 $locale['theme_5003'] = "Pabrauktas";
 $locale['theme_5004'] = "Ryškus ir pabrauktas";
 $locale['theme_5005'] = "Pasviręs ir ryškus";
