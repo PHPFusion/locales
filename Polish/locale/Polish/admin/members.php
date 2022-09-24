@@ -23,7 +23,7 @@ $locale['ME_421'] = 'Data rejestracji';
 $locale['ME_422'] = 'Ostatnie logowanie';
 $locale['ME_423'] = 'Adres IP';
 $locale['ME_424'] = 'Typ IP';
-$locale['ME_425'] = 'Grupy użytkowników';
+$locale['ME_425'] = 'Grupy użytkownika';
 $locale['ME_426'] = 'Strefa czasowa';
 $locale['ME_427'] = 'Status użytkownika';
 
@@ -72,10 +72,10 @@ $locale['ME_507'] = 'Aktywuj';
 $locale['ME_508'] = 'Zaloguj się jako Użytkownik';
 
 // a_message keys
-$locale['ME_550'] = 'zablokowany/a';
+$locale['ME_550'] = 'zablokowany';
 $locale['ME_551'] = 'przywrócony';
 $locale['ME_552'] = 'dezaktywowany';
-$locale['ME_553'] = 'zawieszony/a';
+$locale['ME_553'] = 'zawieszony';
 $locale['ME_554'] = 'zablokowany zp. bezpieczeństwa';
 $locale['ME_555'] = 'anulowany';
 $locale['ME_556'] = 'zanonimizowany';
