@@ -1,7 +1,7 @@
 <?php
 // Comments titles
 $locale['C_400'] = "Edit Comment";
-$locale['C_401'] = "Comments";
+$locale['C_401'] = "Каментары";
 // Comments messages
 $locale['C_410'] = "Comment updated";
 $locale['C_411'] = "Comment deleted";
