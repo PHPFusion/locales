@@ -1,3 +1,3 @@
 <?php
-$locale['bb_big_description'] = "Zeigt den ausgew&auml;hlten Text in gro&szlig; an.";
-$locale['bb_big_usage'] = "Text";
+$locale['bb_big_description'] = "Text als GROSS anzeigen";
+$locale['bb_big_usage'] = "Text in groß";
