@@ -6,7 +6,7 @@ $locale['admins_401b'] = "The configuration for your site url, site port and sit
 // Site Settings
 $locale['admins_401'] = "Pagrindiniai";
 $locale['admins_402'] = "Tinklapio pavadinimas";
-$locale['admins_403'] = "Site URL";
+$locale['admins_403'] = "Tinklapio URL";
 $locale['admins_404'] = "Site Logo";
 $locale['admins_405'] = "Site e-mail address";
 $locale['admins_406'] = "Your name";
@@ -197,7 +197,7 @@ $locale['admins_713'] = "Are you sure to delete all private messages?";
 $locale['admins_714'] = "Delete Messages";
 
 // Save Settings
-$locale['admins_750'] = "Save Settings";
+$locale['admins_750'] = "Išsaugoti nustatymus";
 
 // Other Settings
 $locale['admins_800'] = "Sumažinti forumus";
@@ -237,7 +237,7 @@ $locale['admins_1012'] = "Anonimizuoti vartotoją";
 $locale['admins_1013'] = "Ištrinti vartotoją";
 $locale['admins_1014'] = "Leisti nariams prisijungti iš skirtingų prietaisų vienu metu?";
 $locale['admins_1014a'] = "Dėl saugumo patariama išjungti";
-$locale['admins_1015'] = "Width";
+$locale['admins_1015'] = "Plotis";
 $locale['admins_1016'] = "Height";
 
 $locale['admins_1020'] = [1 => 'Baitai (bytes)', 1024 => 'KB (Kilobaitai)', 1048576 => 'MB (Megabaitai)'];
@@ -288,11 +288,11 @@ $locale['admins_security_009'] = "Number of issued tokens for each form";
 $locale['admins_security_010'] = "Fusion GateWay";
 $locale['admins_security_011'] = "GateWay Method";
 $locale['admins_security_012'] = "Words";
-$locale['admins_security_013'] = "Numbers";
+$locale['admins_security_013'] = "Skaičiai";
 $locale['admins_security_014'] = "Abu";
 $locale['admins_security_015'] = "Error logging";
 $locale['admins_security_016'] = "Error logging method";
 $locale['admins_security_017'] = "Failas";
-$locale['admins_security_018'] = "Database";
+$locale['admins_security_018'] = "Duomenų bazė";
 
 include_once __DIR__.'/../../../includes/dateformats.php';
