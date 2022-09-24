@@ -62,7 +62,8 @@ Sekian,
 [SITEUSERNAME]";
 
 $locale['email_resend_subject'] = "Kirim semula pautan pengaktifkan - [SITENAME]";
-$locale['email_resend_message'] = "Hello [USER_NAME],<br/>
-You received this email because you did not activate the email on our site - [SITENAME].<br/>If you do not activate an email within one day, your registration request will be canceled.<br/>
-You have registered with the following information:<br/>Username: [USER_NAME]<br/>
-You can activate account with the following link:<br/>[ACTIVATION_LINK]<br/>Regards,<br/>[SITENAME]";
+$locale['email_resend_message'] = "Apa Khabar [USER_NAME],<br/>
+Anda menerima emel ini kerana anda belum pernah lagi aktifkan alamat emel di laman [SITENAME].<br/>
+Jika anda tidak aktifkan alamat emel ini dalam masa satu hari, pendaftaran anda akan dibatalkan.<br/>
+Anda telah mendaftar dengan butir-butir berikut:<br/>Nama pengguna:[USER_NAME]<br/>
+Anda boleh aktifkan akaun anda dengan mengikuti pautan laman:<br/>[ACTIVATION_LINK]<br/>Salam,<br/>[SITENAME]";
