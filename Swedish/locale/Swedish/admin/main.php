@@ -32,7 +32,7 @@ $locale['PH'] = "Galleri";
 $locale['B'] = "Svartlista";
 $locale['C'] = "Kommentarer";
 $locale['DB'] = "Säkerhetskopiering databas";
-$locale['PI'] = "Server Info";
+$locale['PI'] = "PHP Info";
 $locale['PO'] = "Omröstningar";
 $locale['SL'] = "Sidans länkar";
 $locale['SU'] = "Förslag";
@@ -128,7 +128,7 @@ $locale['search_msg_103'] = 'Söksträngen är för kort';
 $locale['search_msg_104'] = 'Det finns inga resultat att visa';
 
 $locale['deprecated_section'] = 'Detta avsnitt är föråldrat. Vi rekommenderar inte längre det och planerar att ta bort det snart.';
-$locale['new_update_avalaible'] = "A new PHPFusion v%s update is available!";
+$locale['new_update_avalaible'] = "En ny [LINK]PHPFusion v[VERSION] uppdatering[/LINK] är tillgänglig. Vänligen uppdatera!";
 $locale['infusions_updates_avalaible'] = "Updates for infusions are available.";
 $locale['update_now'] = "Update now";
 $locale['unactivated_users'] = "There are several unactivated users in the database. [LINK]Click here[/LINK] to view them and activate.";
