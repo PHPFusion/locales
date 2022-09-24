@@ -22,7 +22,7 @@ $locale['html_018'] = "Paragraph";
 $locale['html_019'] = "Headings";
 $locale['html_020'] = "Line Break";
 
-$locale['texts'] = "Text";
+$locale['texts'] = "Тэкст";
 $locale['preview'] = "Preview";
 $locale['word_count'] = "Character Count";
 $locale['error_preview'] = "Preview Error";
