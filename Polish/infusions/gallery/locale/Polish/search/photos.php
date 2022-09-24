@@ -2,7 +2,7 @@
 $locale['photos.php'] = "Galeria zdjęć";
 $locale['p400'] = "Zdjęcia";
 $locale['p401'] = "zdjęcie";
-$locale['p402'] = "Zdjęcia";
+$locale['p402'] = "zdjęć";
 $locale['p403'] = "[NOWY]";
 $locale['p404'] = "Album:";
 $locale['p405'] = "Data dodania:";
