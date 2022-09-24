@@ -13,4 +13,4 @@ $locale['503'] = "Edytowany przez ";
 $locale['600'] = "Regulamin";
 $locale['601'] = "Ostatnia aktualizacja:";
 //Privacy Policy
-$locale['700'] = "Polityka prywatności";
+$locale['700'] = "Polityka Prywatności";
