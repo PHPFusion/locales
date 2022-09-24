@@ -8,7 +8,7 @@ $locale['web_0030'] = "Najnovšie";
 $locale['web_0031'] = "Najviac otvorené";
 $locale['web_0032'] = "Najstaršie";
 // Views
-$locale['web_0040'] = "Náhľad";
+$locale['web_0040'] = "Dlaždice";
 $locale['web_0041'] = "Zoznam";
 // Messages
 $locale['web_0060'] = "Neboli pridané žiadne kategórie odkazov.";
