@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Tema personalizzazioni";
+$locale['theme_1000'] = "Amministrazione Tema";
 $locale['theme_1001'] = "Nome del tema:";
 $locale['theme_1002'] = "Tema preset";
 $locale['theme_1003'] = "Loaded";
@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Tema attivo corrente";
 
 $locale['theme_1008'] = "Tema caricare";
 $locale['theme_1009'] = "Tema Styling";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Attuale temi";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Imposta come attivo";
@@ -66,7 +66,7 @@ $locale['theme_2022'] = "Colore";
 $locale['theme_2023'] = "Base Font Size Small";
 $locale['theme_2024'] = "Heading";
 $locale['theme_2025'] = "Font Styling";
-$locale['theme_2026'] = "Link Settings";
+$locale['theme_2026'] = "Link impostazioni";
 $locale['theme_2027'] = "Colore di Base";
 $locale['theme_2028'] = "Colore Hover";
 $locale['theme_2029'] = "Hover Font Styling";
