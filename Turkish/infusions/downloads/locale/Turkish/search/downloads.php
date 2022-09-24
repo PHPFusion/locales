@@ -6,6 +6,6 @@ $locale['d402'] = "Dosyalar";
 $locale['d403'] = "[YENİ]";
 $locale['d404'] = "Lisans:";
 $locale['d405'] = "İşletim Sistemi:";
-$locale['d406'] = "Versiyonon:";
+$locale['d406'] = "Sürüm:";
 $locale['d407'] = "Eklenme Tarihi:";
 $locale['d408'] = "Dosyalar:";
