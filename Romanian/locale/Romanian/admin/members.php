@@ -7,13 +7,13 @@ $locale['ME_404'] = 'Aplic&#259; filtru';
 $locale['ME_405'] = 'Nu exist&#259; niciun utilizator dup&#259; criteriul c&#259;utat';
 //
 $locale['ME_407'] = 'Sunt afi&#351;a&#355;i %s - %d din %d utilizatori g&#259;si&#355;i';
-$locale['ME_408'] = 'Informa&#355;i de baz&#259;';
+$locale['ME_408'] = 'Informa&#355;ii de baz&#259;';
 $locale['ME_409'] = 'Informa&#355;ii detailate';
 $locale['ME_410'] = 'Utilizator';
 $locale['ME_411'] = 'Nivel utilizator';
-$locale['ME_412'] = 'Adresa de e-mail';
+$locale['ME_412'] = 'Adres&#259; e-mail';
 $locale['ME_413'] = ' Cont utilizator';
-$locale['ME_414'] = 'Select All';
+$locale['ME_414'] = 'Selecteaz&#259; tot';
 $locale['ME_415'] = 'Ascuns';
 $locale['ME_416'] = 'Afi&#351;at';
 
@@ -32,7 +32,7 @@ $locale['ME_430'] = 'Eroare: Ac&#355;iunile &#238;mpotriva utilizatorilor nu au 
 $locale['ME_431'] = 'Urm&#259;torii utilizatori vor fi %s:';
 $locale['ME_432'] = '%s a fost %s';
 $locale['ME_433'] = 'Te rog specific&#259; un motiv';
-$locale['ME_434'] = 'Motivul';
+$locale['ME_434'] = 'Motiv';
 $locale['ME_435'] = 'Durata';
 $locale['ME_436'] = 'Zile';
 $locale['ME_437'] = 'Actualizeaz&#259; utilizator';
@@ -77,7 +77,7 @@ $locale['ME_507'] = 'Activate';
 $locale['ME_508'] = 'Login as User';
 
 // a_message keys
-$locale['ME_550'] = 'blocat';
+$locale['ME_550'] = 'banat';
 $locale['ME_551'] = 'reactivat';
 $locale['ME_552'] = 'dezactivat';
 $locale['ME_553'] = 'suspendat';
