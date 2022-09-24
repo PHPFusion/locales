@@ -1,6 +1,6 @@
 <?php
-$locale['UL_001'] = "Jurnal utilizatori";
-$locale['UL_002'] = "Data";
+$locale['UL_001'] = "Jurnal utilizator";
+$locale['UL_002'] = "Dat&#259;";
 $locale['UL_003'] = "Nume utilizator";
 $locale['UL_004'] = "C&#226;mp utilizator";
 $locale['UL_005'] = "Toate intr&#259;rile mai vechi de %d zile au fost &#351;terse.";
