@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Aktuální vzhled";
 
 $locale['theme_1008'] = "Nahrát vzhled";
 $locale['theme_1009'] = "Stylováni vzhledů";
-$locale['theme_1010'] = "Vzhledy stránky";
+$locale['theme_1010'] = "Aktuální vzhledy";
 
 $locale['theme_1011a'] = "Admin vzhledy";
 $locale['theme_1012'] = "Nastavit jako aktivní";
@@ -61,7 +61,7 @@ $locale['theme_2018'] = "Základní rozměry písma";
 $locale['theme_2019'] = "Velikost písma";
 $locale['theme_2020'] = "Řádkování";
 $locale['theme_2021'] = "Základní velikost písma velká";
-$locale['theme_2022'] = "Barva fontu";
+$locale['theme_2022'] = "Barva písma";
 $locale['theme_2023'] = "Základní velikost písma malá";
 $locale['theme_2024'] = "Nadpis ";
 $locale['theme_2025'] = "Styl písma";
