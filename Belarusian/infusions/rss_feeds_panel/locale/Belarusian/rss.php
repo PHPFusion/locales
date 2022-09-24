@@ -6,5 +6,5 @@ $locale['rss_downloads'] = "Downloads";
 $locale['rss_forums'] = "Forums";
 $locale['rss_news'] = "News";
 $locale['rss_weblinks'] = "Web Links";
-$locale['rss_in'] = " in ";
+$locale['rss_in'] = " у катэгорыю ";
 $locale['rss_nodata'] = "No RSS data available";
