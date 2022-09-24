@@ -91,7 +91,7 @@ $locale['error_height'] = "Vennligst skriv inn Høyde.";
 $locale['error_value'] = "Vennligst skriv inn en verdi.";
 
 // ReCaptcha
-$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Field Module";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY from Google";
