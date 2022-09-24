@@ -15,7 +15,7 @@ $locale['GRP_411'] = "Utilizador \"%s\" removido do grupo \"%s\"";
 $locale['GRP_412'] = "\"%s\" utilizadores removidos do grupo \"%s\"";
 
 // Edit/Delete Options
-$locale['GRP_420'] = "Grupos de Utilizadores";
+$locale['GRP_420'] = "Grupos de Utilizador";
 $locale['GRP_421'] = "Editar Grupo";
 $locale['GRP_422'] = "Apagar Grupo";
 $locale['GRP_423'] = "Gestão de Utilizadores";
