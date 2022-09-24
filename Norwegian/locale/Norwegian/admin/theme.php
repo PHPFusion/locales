@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Tema Kustom";
+$locale['theme_1000'] = "Tema Administrasjon";
 $locale['theme_1001'] = "Tema Navn:";
 $locale['theme_1002'] = "Gjeldende Tema";
 $locale['theme_1003'] = "Lastet";
@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Nåværende Aktiv Tema";
 
 $locale['theme_1008'] = "Last Opp Tema";
 $locale['theme_1009'] = "Tema Stil";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Nåværende Tema";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Sett som Aktive";
