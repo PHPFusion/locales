@@ -23,7 +23,7 @@ $locale['html_019'] = "Voci";
 $locale['html_020'] = "Line Break";
 
 $locale['texts'] = "Testo";
-$locale['preview'] = "Preview";
+$locale['preview'] = "Anteprima";
 $locale['word_count'] = "Numero di caratteri";
 $locale['error_preview'] = "Errore Anteprima";
 $locale['error_preview_text'] = "l'anteprima non è possibile generare temporaneamente. Si prega di ricaricare la pagina e riprovare. ";
