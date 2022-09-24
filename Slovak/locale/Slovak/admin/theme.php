@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Aktuálna aktívna téma";
 
 $locale['theme_1008'] = "Nahrať tému";
 $locale['theme_1009'] = "Štylovanie témy";
-$locale['theme_1010'] = "Témy stránky";
+$locale['theme_1010'] = "Aktuálne témy";
 
 $locale['theme_1011a'] = "Admin témy";
 $locale['theme_1012'] = "Nastaviť ako aktívnu";
@@ -65,7 +65,7 @@ $locale['theme_2022'] = "Farba písma";
 $locale['theme_2023'] = "Základná veľkosť písma - malé";
 $locale['theme_2024'] = "Nadpis ";
 $locale['theme_2025'] = "Štýl písma";
-$locale['theme_2026'] = "Nastavenia odkazov";
+$locale['theme_2026'] = "Nastavenia odkazu";
 $locale['theme_2027'] = "Základná farba";
 $locale['theme_2028'] = "Farba po prejdení myšou";
 $locale['theme_2029'] = "Štýl písma po prejdení myšou";
@@ -121,7 +121,7 @@ $locale['theme_4016'] = "Štýl odkazu";
 $locale['theme_5000'] = "Normálne";
 $locale['theme_5001'] = "Tučné";
 $locale['theme_5002'] = "Kurzíva";
-$locale['theme_5003'] = "Podčiarknuté";
+$locale['theme_5003'] = "Podčiarnkuté";
 $locale['theme_5004'] = "Tučné a podčiarnkuté";
 $locale['theme_5005'] = "Kurzíva a tučné";
 $locale['theme_5006'] = "Kurzíva a podčiarnkuté";
