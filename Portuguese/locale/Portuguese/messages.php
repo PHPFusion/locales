@@ -16,7 +16,7 @@ $locale['412'] = "Guardar";
 $locale['413'] = "Não guardar";
 $locale['414'] = "Lido";
 $locale['415'] = "Por ler";
-$locale['416'] = "Apagar";
+$locale['416'] = "Apagar conversa";
 $locale['417'] = "Mostrar remetente com letras:";
 $locale['418'] = "Todos";
 $locale['419'] = "Você não tem Mensagens Privadas";
@@ -129,7 +129,7 @@ $locale['627'] = "Erro";
 $locale['628'] = "Não foi possível enviar a Mensagem Privada. A caixa de entrada do destinatário está cheia.";
 $locale['629'] = "Você não pode mover a mensagem(s) selecionada para a pasta especificada, pois ela excederá o limite máximo de mensagem.";
 $locale['630'] = " Limite de Mensagens";
-$locale['631'] = "This message was sent automatically by system and does not require any reply.";
+$locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
 $locale['632'] = "System";
 
 $locale['700'] = "A caixa de entrada está cheia. Tente apagá-la ou atualizá-la para o status 102 ou 103";
