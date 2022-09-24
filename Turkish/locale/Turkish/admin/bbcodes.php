@@ -8,14 +8,14 @@ $locale['BBCA_403'] = "Adı";
 $locale['BBCA_404'] = "İkon";
 $locale['BBCA_405'] = "Açıklama";
 $locale['BBCA_406'] = "Kullanım";
-$locale['BBCA_407'] = "Düzen";
+$locale['BBCA_407'] = "Sıralama";
 $locale['BBCA_408'] = "Aşağı";
 $locale['BBCA_409'] = "Yukarı";
-$locale['BBCA_410'] = "Pasifleştir";
+$locale['BBCA_410'] = "Kapalı";
 $locale['BBCA_411'] = "Etkin BB Kodu Yok.";
 // Disabled BB Codes
 $locale['BBCA_413'] = "Kapalı BB Kodları";
-$locale['BBCA_414'] = "Etkinleştir";
+$locale['BBCA_414'] = "Aktif Et";
 $locale['BBCA_416'] = "Kapatılmış BB Kodları Yok.";
 // Test BB Codes
 $locale['BBCA_417'] = "BB Kodları Test Çıktısı";
