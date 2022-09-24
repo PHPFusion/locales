@@ -49,7 +49,7 @@ $locale['fields_0404'] = "Nelze nainstalovat";
 $locale['fields_0405'] = "Informace o poli sloupce tabulky:";
 $locale['fields_0406'] = "Toto není pole";
 $locale['fields_0407'] = "Popis pole:";
-$locale['fields_0410'] = "Vyberte kategorii";
+$locale['fields_0410'] = "Vybrat kategorii";
 $locale['fields_0411'] = "Toto je požadované pole";
 $locale['fields_0412'] = "Záznam uživatelských polí";
 $locale['fields_0413'] = "Připojte pole k registračnímu formuláři?";
@@ -66,7 +66,7 @@ $locale['fields_0435'] = "Uživatelský sloupec primární tabulky";
 $locale['fields_0436'] = "Třída ikony";
 $locale['fields_0437'] = "Ikonu pro karty";
 
-$locale['fields_0450'] = "Vyberte kategorii";
+$locale['fields_0450'] = "Vybrat kategorii";
 $locale['fields_0451'] = "Název pole";
 $locale['fields_0452'] = "Název formulářového pole";
 $locale['fields_0453'] = "Jméno pole";
