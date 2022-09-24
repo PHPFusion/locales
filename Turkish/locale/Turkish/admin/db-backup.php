@@ -4,7 +4,7 @@ $locale['BACK_400'] = "Veritabanı Onarımı";
 $locale['BACK_401'] = "Hata";
 $locale['BACK_402'] = "Geçersiz Yedekleme Dosya Formatı";
 $locale['BACK_403'] = "Kapat";
-$locale['BACK_404'] = "Database Restore complete";
+$locale['BACK_404'] = "Veritabanı Geri Yükleme tamamlandı";
 // Backup File Information
 $locale['BACK_410'] = "Yedek Dosyası Bilgisi";
 $locale['BACK_411'] = "Onarım Dosyası Bilgisi";
@@ -34,7 +34,7 @@ $locale['BACK_455'] = "Yedekleme Tipi:";
 $locale['BACK_456'] = "(sıkıştırılmış)";
 $locale['BACK_457'] = "Veritabanı Tabloları";
 $locale['BACK_458'] = "Çekirdek";
-$locale['BACK_459'] = "Start Backup";
+$locale['BACK_459'] = "Yedekle";
 $locale['BACK_460'] = "Yönetici Şifresi:";
 $locale['BACK_460b'] = "Lütfen Yönetici Parolanızı Girin";
 $locale['BACK_461'] = "Zorunlu Alanlar";
