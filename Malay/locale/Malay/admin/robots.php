@@ -1,12 +1,12 @@
 <?php
 $locale['ROBOT_400'] = "robots.txt";
-$locale['ROBOT_410'] = "Are you sure? robots.txt file will be set to default.";
-$locale['ROBOT_411'] = "robots.txt file does not exist. You can create this file in the root directory.";
-$locale['ROBOT_412'] = "robots.txt file updated.";
-$locale['ROBOT_414'] = "robots.txt file is not writable.";
-$locale['ROBOT_416'] = "robots.txt file Create.";
-$locale['ROBOT_417'] = "robots.txt content incorrect. Please use a valid content.";
-$locale['ROBOT_420'] = "Edit your robots.txt file";
-$locale['ROBOT_421'] = "[LINK]You can find more information and help about the robots.txt here.[/LINK]";
-$locale['ROBOT_422'] = "New robots.txt file Created";
-$locale['ROBOT_423'] = "Set back to default";
+$locale['ROBOT_410'] = "Adakah anda pasti? Fail robots.txt akan ditetapkan kembali ke lalai.";
+$locale['ROBOT_411'] = "fail robots.txt tidak dijumpa. Anda boleh ciptakan fail ini di direktori dasar.";
+$locale['ROBOT_412'] = "Fail robots.txt telah dikemaskinikan.";
+$locale['ROBOT_414'] = "fail robots.txct tidak dapat ditulis.";
+$locale['ROBOT_416'] = "fail robots.txt dicipta.";
+$locale['ROBOT_417'] = "kandungan robots.txt tidak betul. Sila gunakan kandungan yang sah.";
+$locale['ROBOT_420'] = "Suntung fail robots.txt";
+$locale['ROBOT_421'] = "[LINK]Anda boleh cari maklumat lanjut tentang robots.txt di sini.[/LINK]";
+$locale['ROBOT_422'] = "Fail robots.txt baru telah diciptakan";
+$locale['ROBOT_423'] = "Tetapkan ke lalai";
