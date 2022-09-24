@@ -8,7 +8,7 @@ $locale['PL_401a'] = "Nastavení trvalích odkazů";
 $locale['PL_402'] = "Název";
 $locale['PL_403'] = "Popis";
 $locale['PL_404'] = "Možnosti";
-$locale['PL_404a'] = "Povolit";
+$locale['PL_404a'] = "Nainstalovat";
 $locale['PL_404b'] = "Zakázat";
 $locale['PL_404d'] = "Přeinstalovat";
 
