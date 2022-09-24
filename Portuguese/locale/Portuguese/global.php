@@ -3,13 +3,13 @@ $locale['setlocale'] = "pt_PT"; // https://www.php.net/manual/en/function.setloc
 $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets/character-sets.xhtml
 $locale['region'] = "GB"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "en"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['short_lang_name'] = "en"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "en"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "en"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "en"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "en"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['short_lang_name'] = "pt"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['tinymce'] = "pt"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "pt-PT"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "pt"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "pt_PT"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "pt-pt"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "en"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
+$locale['password_strength'] = "pt"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;| Janeiro|Fevereiro|Março|Abril|Maio|Junho|Julho|Agosto|Setembro|Outubro|Novembro|Dezembro";
@@ -198,7 +198,7 @@ $locale['UM060'] = "Iniciar sessão";
 $locale['UM061'] = "Nome do Utilizador";
 $locale['UM061a'] = "E-mail";
 $locale['UM061b'] = "Nome de utilizador ou E-mail";
-$locale['UM062'] = "Palavra-chave";
+$locale['UM062'] = "Palavra-passe";
 $locale['UM063'] = "Lembrar-me neste computador";
 $locale['UM064'] = "Iniciar sessão";
 $locale['UM065'] = "Ainda não é um membro? [LINK]Clique aqui[/LINK] para se registar.";
@@ -350,7 +350,7 @@ $locale['global_500'] = "Você está sendo redireccionado para %s, por favor agu
 // Captcha Locales
 $locale['global_600'] = "Código de Validação";
 $locale['global_601'] = "Tem que indicar o código de validação correcto";
-$locale['recaptcha'] = "en";
+$locale['recaptcha'] = "pt";
 // Site links
 $locale['global_700'] = "Mostrar Mais";
 // Miscellaneous
