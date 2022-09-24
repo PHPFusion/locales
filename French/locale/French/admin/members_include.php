@@ -2,12 +2,12 @@
 $locale['susp00'] = "Membres";
 $locale['susp01'] = "Banni";
 $locale['susp02'] = "Non activé";
-$locale['susp03'] = "Suspendu";
-$locale['susp04'] = "Bannissement de sécurité";
+$locale['susp03'] = "Suspendues";
+$locale['susp04'] = "Banni de sécurité";
 $locale['susp05'] = "Annulé";
 $locale['susp06'] = "Anonymisé";
 $locale['susp07'] = "Désactivé";
-$locale['susp08'] = "Désactivé";
+$locale['susp08'] = "Inactif";
 $locale['susp10'] = "Rétablir";
 $locale['susp11'] = "Banni";
 $locale['susp12'] = "Non activé";
