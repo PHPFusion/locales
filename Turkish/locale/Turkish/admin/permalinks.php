@@ -9,7 +9,7 @@ $locale['PL_402'] = "Adını Yeniden Yaz";
 $locale['PL_403'] = "Açıklama";
 $locale['PL_404'] = "Seçenekler";
 $locale['PL_404a'] = "Etkinleştir";
-$locale['PL_404b'] = "Pasifleştir";
+$locale['PL_404b'] = "Devre Dışı Bırak";
 $locale['PL_404d'] = "Yeniden yükle";
 
 // Editing Permalinks
@@ -43,6 +43,6 @@ $locale['PL_429'] = "%s için Kalıcı Bağlantı Sürücüsü";
 
 // Other
 $locale['PL_427'] = "Permalinkler Etkinleştirilmedi.";
-$locale['PL_428'] = "Kalıcı Bağlantılar";
+$locale['PL_428'] = "Permalinkler";
 $locale['seo_htc_warning'] = "Bu Ayarlardan Herhangi Birini Değiştirirseniz, `.htaccess` İçeriğinin Üzerine Yazılacağı Ve Daha Önce Bu Dosyaya Yapılan Değişiklikler Kaybolacağını Lütfen Unutmayın.";
 $locale['rewrite_disabled'] = "mod_rewrite` Sunucunuzda Etkin Değil Gibi Görünüyor. SEF URL'lerini Etkinleştirmek Web Sitenizi Bozabilir. Lütfen Sunucunuzda mod_rewrite` Komutunu Etkinleştirmek İçin Barındırma Sağlayıcınıza Başvurun.";
