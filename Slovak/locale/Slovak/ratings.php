@@ -1,5 +1,5 @@
 <?php
-$locale['r100'] = "Hodnotenie";
+$locale['r100'] = "Hodnotenia";
 $locale['r101'] = "Neboli uverejnené žiadne hodnotenia.";
 $locale['r102'] = "Odstrániť hodnotenie";
 $locale['r103'] = "Odoslať hodnotenie";
