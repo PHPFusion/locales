@@ -1,5 +1,5 @@
 <?php
-$locale['ME_400'] = 'Narių valdymas';
+$locale['ME_400'] = 'Vartotojų valdymas';
 $locale['ME_401'] = 'Ieškoti vartotojo...';
 $locale['ME_402'] = 'Rodymo filtravimas';
 $locale['ME_403'] = 'Pridėti naują vartotoją';
@@ -7,14 +7,14 @@ $locale['ME_404'] = 'Įjungti filtrą';
 $locale['ME_405'] = 'Pagal šiuos paieškos kriterijus nerasta vartotojų';
 //
 $locale['ME_407'] = 'Rodoma %s - %d iš %d rastų įrašų';
-$locale['ME_408'] = 'Pagrindinė informacija';
+$locale['ME_408'] = 'Pradinė informacija';
 $locale['ME_409'] = 'Detali informacija';
-$locale['ME_410'] = 'Narys';
+$locale['ME_410'] = 'Vartotojas';
 $locale['ME_411'] = 'Vartotojo lygis';
-$locale['ME_412'] = 'El. pašto adresas';
+$locale['ME_412'] = 'El. paštas';
 $locale['ME_413'] = ' Nario vartotojas';
-$locale['ME_414'] = 'Select All';
-$locale['ME_415'] = 'Paslėpta';
+$locale['ME_414'] = 'Pažymėti viską';
+$locale['ME_415'] = 'Paslėptas';
 $locale['ME_416'] = 'Rodomas';
 
 // Core Fields Filter
@@ -23,7 +23,7 @@ $locale['ME_421'] = 'Prisijungimo data';
 $locale['ME_422'] = 'Paskutinis prisijungimas';
 $locale['ME_423'] = 'IP adresas';
 $locale['ME_424'] = 'IP tipas';
-$locale['ME_425'] = 'Narių grupės';
+$locale['ME_425'] = 'Vartotojo grupės';
 $locale['ME_426'] = 'Laiko zona';
 $locale['ME_427'] = 'User Status';
 
@@ -69,7 +69,7 @@ $locale['ME_469'] = 'User has been activated';
 $locale['ME_500'] = 'Blokuoti';
 $locale['ME_501'] = 'Atkurti';
 $locale['ME_502'] = 'Deaktyvuoti';
-$locale['ME_503'] = 'Spenduoti';
+$locale['ME_503'] = 'Suspenduoti';
 $locale['ME_504'] = 'Blokavimas dėl saugumo';
 $locale['ME_505'] = 'Atšaukti';
 $locale['ME_506'] = 'Anonimizuoti';
@@ -77,7 +77,7 @@ $locale['ME_507'] = 'Activate';
 $locale['ME_508'] = 'Login as User';
 
 // a_message keys
-$locale['ME_550'] = 'blokuotas';
+$locale['ME_550'] = 'užblokuotas';
 $locale['ME_551'] = 'atkurtas';
 $locale['ME_552'] = 'deaktyvuotas';
 $locale['ME_553'] = 'suspenduotas';
