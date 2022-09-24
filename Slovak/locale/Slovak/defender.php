@@ -91,7 +91,7 @@ $locale['error_height'] = "Prosím, zadajte výšku.";
 $locale['error_value'] = "Prosím, zadajte hodnotu.";
 
 // ReCaptcha
-$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha'] = "Google reCAPTCHA";
 $locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google reCAPTCHA modul poľa";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY od Googlu";
