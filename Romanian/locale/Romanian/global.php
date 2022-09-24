@@ -151,7 +151,7 @@ $locale['global_078'] = "&#206;nc&#259; nu au fost postate &#351;tiri";
 $locale['global_079'] = "&#206;n ";
 $locale['global_080'] = "Nicio categorie";
 $locale['global_081'] = "&#350;tiri";
-$locale['global_082'] = "&#351;tire";
+$locale['global_082'] = "&#350;tiri";
 $locale['global_083'] = "Ultima actualizare";
 $locale['global_084'] = "Categorie &#351;tiri";
 $locale['global_085'] = "Toate cateogiriile";
@@ -236,8 +236,8 @@ $locale['UM100'] = "Arhiv&#259; :";
 // Keywords and Meta
 $locale['tags'] = "Etichete";
 // Captcha
-$locale['global_150'] = "Validation Code:";
-$locale['global_151'] = "Enter Validation Code:";
+$locale['global_150'] = "Cod de validare:";
+$locale['global_151'] = "Introdu codul de validare:";
 // Footer Counter
 $locale['global_170'] = "vizit&#259; unic&#259;";
 $locale['global_171'] = "vizite unice";
@@ -372,7 +372,7 @@ $locale['global_ML103'] = "Schimb&#259; limba";
 // Flood Control
 $locale['flood'] = "&#206;&#355;i este interzis&#259; postarea p&#226;n&#259; perioada de flood. Te rog a&#351;teapt&#259; %s.";
 $locale['no_image'] = "Nicio imagine";
-$locale['send_message'] = "Send Message";
+$locale['send_message'] = "Trimite mesaj";
 $locale['go_profile'] = "Du-te la pagina lui %s";
 // Global one word locales
 $locale['hello'] = "Salut!";
@@ -392,13 +392,13 @@ $locale['off'] = "Nu";
 $locale['on'] = "Da";
 $locale['or'] = "sau";
 $locale['by'] = "de";
-$locale['in'] = "in";
+$locale['in'] = "&#238;n";
 $locale['of'] = "din";
 $locale['and'] = "&#351;i";
 $locale['na'] = "Nu este disponibil";
 $locale['joined'] = "&#206;nscris din: ";
 // Navigation
-$locale['next'] = "&#206;nainte";
+$locale['next'] = "Urm&#259;ator";
 $locale['previous'] = "Anterior";
 $locale['back'] = "&#206;napoi";
 $locale['first'] = "First";
@@ -424,7 +424,7 @@ $locale['update'] = "Actualizeaz&#259;";
 $locale['updated'] = "Actualizat";
 $locale['remove'] = "&#350;terge";
 $locale['delete'] = "&#350;terge";
-$locale['search'] = "Search";
+$locale['search'] = "Caut&#259;";
 $locale['help'] = "Ajutor";
 $locale['register'] = "&#206;nregistrare";
 $locale['ban'] = "Baneaz&#259;";
@@ -474,7 +474,7 @@ $locale['draft'] = "Ciorn&#259;";
 $locale['settings'] = "Set&#259;ri";
 $locale['posted'] = "postat";
 $locale['profile'] = "Profil";
-$locale['edit'] = "Editeaz&#259;";
+$locale['edit'] = "Editare";
 $locale['qedit'] = "Editare rapid&#259;";
 $locale['view'] = "Vizualizare";
 $locale['login'] = "Conectare";
