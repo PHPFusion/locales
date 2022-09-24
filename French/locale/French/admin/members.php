@@ -1,5 +1,5 @@
 <?php
-$locale['ME_400'] = 'Gestion d\'utilisateur';
+$locale['ME_400'] = 'Gestion des utilisateurs';
 $locale['ME_401'] = 'Rechercher un utilisateur...';
 $locale['ME_402'] = 'Afficher les filtres';
 $locale['ME_403'] = 'Ajouter un Nouvel Utilisateur';
@@ -7,7 +7,7 @@ $locale['ME_404'] = 'Appliquer Filtre';
 $locale['ME_405'] = 'Il n\'y a aucun utilisateur trouvé dans les critères de recherche';
 //
 $locale['ME_407'] = 'Affichage de %s - %d sur %d enregistrements trouvés';
-$locale['ME_408'] = 'Informations basiques';
+$locale['ME_408'] = 'Informations générales';
 $locale['ME_409'] = 'Informations détaillées';
 $locale['ME_410'] = 'Utilisateur';
 $locale['ME_411'] = 'Niveau de l\'utilisateur';
@@ -23,7 +23,7 @@ $locale['ME_421'] = 'Membre depuis';
 $locale['ME_422'] = 'Dernière connexion le';
 $locale['ME_423'] = 'Adresse IP';
 $locale['ME_424'] = 'Type d\'IP';
-$locale['ME_425'] = 'Groupes utilisateurs';
+$locale['ME_425'] = 'Groupes d\'utilisateur';
 $locale['ME_426'] = 'Fuseau horaire';
 $locale['ME_427'] = 'Statut d\'utilisateur';
 
