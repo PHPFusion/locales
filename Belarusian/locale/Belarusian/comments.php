@@ -1,14 +1,14 @@
 <?php
-$locale['c100'] = "Comments";
-$locale['c101'] = "No Comments have been Posted.";
-$locale['c102'] = "Post Comment";
-$locale['c103'] = "Update Comment";
-$locale['c104'] = "Name:";
-$locale['c105'] = "Please Login to Post a Comment.";
-$locale['c106'] = "Manage Comments";
-$locale['c107'] = " Disable smileys in this comment";
-$locale['c110'] = "Delete this Comment?";
-$locale['c111'] = "Leave a Comment";
-$locale['c112'] = "Reply";
-$locale['c113'] = "Title";
-$locale['c114'] = "Comments have been updated";
+$locale['c100'] = "Каментары";
+$locale['c101'] = "Каментароў няма.";
+$locale['c102'] = "Пакінуць каментар";
+$locale['c103'] = "Абнавіць каментар";
+$locale['c104'] = "Імя:";
+$locale['c105'] = "Увайдзіце, каб пакінуць каментар.";
+$locale['c106'] = "Кіраванне каментарамі";
+$locale['c107'] = " Адключыць смайлы ў гэтым каментары";
+$locale['c110'] = "Выдаліць гэты каментар?";
+$locale['c111'] = "Пакіньце каментар";
+$locale['c112'] = "Адказаць";
+$locale['c113'] = "Загаловак";
+$locale['c114'] = "Каментары абноўлены";
