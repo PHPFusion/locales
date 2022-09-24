@@ -1,5 +1,5 @@
 <?php
-$locale['gallery_400'] = "Albuns da Galeria";
+$locale['gallery_400'] = "Álbuns da Galeria";
 $locale['gallery_401'] = "Abrir Álbum";
 $locale['gallery_402'] = "Sem miniatura";
 $locale['gallery_403'] = "Data:";
