@@ -5,7 +5,7 @@ $locale['402'] = "Jūsų naujasis slaptažodis buvo išsiųstas į Jūsų el. pa
 $locale['403'] = "Grįžti į pagrindinį puslapį";
 $locale['404'] = "Nurodytas el. pašto adresas nerastas.";
 $locale['405'] = "Įvestas el. pašto adresas yra neteisingas.";
-$locale['406'] = "Please try again.";
+$locale['406'] = "Bandykite dar kartą.";
 $locale['407'] = "Įveskite el. pašto adresą, kurio registravotės šiame tinklapyje.<br />
 Jums bus sukurtas naujas slaptažodis ir išsiųstas į Jūsų el. pašto dėžutę.";
 $locale['408'] = "Siųsti slaptažodį";
