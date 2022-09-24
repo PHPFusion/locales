@@ -1,7 +1,7 @@
 <?php
 $locale['MG_description'] = 'Official theme for PHPFusion Andromeda 9.03';
 $locale['created_by']  = 'Created by';
-$locale['MG_001'] = 'Hi, ';
+$locale['MG_001'] = 'Sveiki, ';
 // Templates
 $locale['MG_101'] = 'Read More';
 $locale['MG_102'] = 'Popular News';
