@@ -99,8 +99,8 @@ $locale['admins_607'] = "GD1";
 $locale['admins_608'] = "GD2";
 $locale['admins_609'] = "Development Mode";
 $locale['admins_610'] = "Periksa versi terkini";
-$locale['admins_611'] = "Number Delimiter";
-$locale['admins_612'] = "Thousands separator";
+$locale['admins_611'] = "Pembatas nombor";
+$locale['admins_612'] = "Pemisah ribu";
 $locale['admins_613'] = "License";
 
 $locale['admins_649'] = "Prohibited user names:";
@@ -117,10 +117,10 @@ $locale['admins_660'] = "Selang (saat) Sistem Flooding:";
 $locale['admins_661'] = "Biar kosong untuk muat turun dan muat naik sistem penyandaran.";
 $locale['admins_662'] = "Penyunting TinyMCE";
 
-$locale['admins_664'] = "SMTP Host";
+$locale['admins_664'] = "Host SMTP";
 $locale['admins_665'] = "Biar kosong jika sendmail digunakan.";
-$locale['admins_666'] = "SMTP Username";
-$locale['admins_667'] = "SMTP Password";
+$locale['admins_666'] = "Nama Pengguna SMTP";
+$locale['admins_667'] = "Kata Laluan SMTP";
 $locale['admins_668'] = "Ahli boleh menukar tema situs";
 $locale['admins_668ML'] = "Jadual dengan sokongan lebih daripada satu bahasa";
 $locale['admins_669ML'] = "Pilihan jadual yang akan mempunyai kandugan lebih daripada satu bahasa";
@@ -151,7 +151,7 @@ $locale['admins_670c'] = "Muat Turun";
 
 $locale['admins_672'] = "Guna sistem Penilaian?";
 $locale['admins_673'] = "Jangan guna halaman profil ahli untuk orang awam";
-$locale['admins_674'] = "SMTP Port";
+$locale['admins_674'] = "Port SMTP";
 $locale['admins_675'] = "Tahap Penyelengaraan";
 $locale['admins_676'] = "Penyelia Halaman";
 $locale['admins_677'] = "Super Administrator";
@@ -168,7 +168,7 @@ $locale['admins_689'] = "Ya (orang awam)";
 $locale['admins_690'] = "Ya (admin sahaja)";
 $locale['admins_691'] = "Bolehkan ahli menukar kata nama sendiri";
 $locale['admins_692'] = "Pengaturan Captcha";
-$locale['admins_693'] = "Captcha";
+$locale['admins_693'] = "Kod pengesahan grafik";
 $locale['admins_694'] = "Benarkan Kegunaan PHP";
 $locale['admins_695'] = "AMARAN! Pengunaan PHP dalam Admin Panel akan membuka kelemahan SQL dan membahayakan sistem anda.";
 $locale['admins_696'] = "Sila isikan kekunci awam dan kekunci peribadi reCAPTCHA!";
@@ -241,8 +241,8 @@ $locale['admins_1012'] = "Awanama Ahli";
 $locale['admins_1013'] = "Padam Ahli";
 $locale['admins_1014'] = "Log Ahli boleh mengesan peranti yang berbeza pada masa yang sama?";
 $locale['admins_1014a'] = "Jangan guna supaya lebih selamat";
-$locale['admins_1015'] = "Width";
-$locale['admins_1016'] = "Height";
+$locale['admins_1015'] = "Lebar";
+$locale['admins_1016'] = "Tinggi";
 
 $locale['admins_1020'] = [1 => 'Bait (bait)', 1024 => 'KB (Kilobit)', 1048576 => 'MB (Megabit)'];
 
@@ -290,7 +290,7 @@ $locale['admins_security_007'] = "All system sessions has been cleared successfu
 $locale['admins_security_008'] = "Form Tokens";
 $locale['admins_security_009'] = "Number of issued tokens for each form";
 $locale['admins_security_010'] = "Gerbang Fusion";
-$locale['admins_security_011'] = "GateWay Method";
+$locale['admins_security_011'] = "Proses GateWay";
 $locale['admins_security_012'] = "Perkataan";
 $locale['admins_security_013'] = "Nombor";
 $locale['admins_security_014'] = "Kedua-dua";
