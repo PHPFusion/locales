@@ -1,5 +1,5 @@
 <?php
-$locale['MAIL_000'] = "Vzhledy e-mailů";
+$locale['MAIL_000'] = "Šablony e-mailů";
 $locale['MAIL_001'] = "Šablona byla úspěšně aktualizována.";
 $locale['MAIL_002'] = "Testovací předmět";
 $locale['MAIL_003'] = "Testovací zpráva";
