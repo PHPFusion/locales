@@ -8,9 +8,9 @@
    'use strict';
    //! moment.js locale configuration
    var enGb = moment.defineLocale('en-gb', {
-      months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split('_'),
+      months: 'Styczeń_Luty_Marzec_Kwiecie_Maj_Czerwień_Lipiec_wrzesień_październik_Listopad_Grudzień'.split('_'),
       monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
-      weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split('_'),
+      weekdays: 'Niedziela_Poniedziałek_Wtorek_Środa_Czwartek_Piątek_Sobota'.split('_'),
       weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
       weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
       longDateFormat: {
@@ -36,14 +36,14 @@
          ss: '%d seconds',
          m: 'a minute',
          mm: '%d minutes',
-         h: 'an hour',
-         hh: '%d hours',
-         d: 'a day',
-         dd: '%d days',
-         M: 'a month',
-         MM: '%d months',
-         y: 'a year',
-         yy: '%d years'
+         h: 'godzina',
+         hh: '%d godzin',
+         d: 'dzień',
+         dd: '%d dni',
+         M: 'miesiąc',
+         MM: '%d miesięcy',
+         y: 'rok',
+         yy: '%d lat/lata'
       },
       dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
       ordinal: function (number) {
