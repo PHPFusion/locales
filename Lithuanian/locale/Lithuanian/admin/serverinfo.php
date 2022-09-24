@@ -1,5 +1,5 @@
 <?php
-$locale['SRV_400'] = "Server Info";
+$locale['SRV_400'] = "Serverio informacija";
 //General
 $locale['SRV_401'] = "Bendri";
 $locale['SRV_402'] = "Serverio programinė įranga";
