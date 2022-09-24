@@ -1,5 +1,5 @@
 <?php
-$locale['BLS_000'] = "Expulsiones";
+$locale['BLS_000'] = "Lista negra";
 //Blacklist message
 $locale['BLS_010'] = "Correo electrónico o dirección IP inválidos.";
 $locale['BLS_011'] = "Agregar usuarios a la lista negra.";
@@ -22,7 +22,7 @@ $locale['BLS_034'] = "Dirección IP de la lista negra: <strong> o </ strong>";
 $locale['BLS_035'] = "Dirección de correo electrónico de la lista negra";
 $locale['BLS_036'] = "Motivo de la lista negra";
 $locale['BLS_037'] = "Usuario de la lista negra";
-$locale['BLS_038'] = "Actualización";
+$locale['BLS_038'] = "Actualizar";
 $locale['BLS_039'] = "Select All";
 
 $locale['BLS_MS'] = "Al ingresar una dirección IP evitará que un usuario cuya dirección IP coincida con la entrada visite este sitio.
