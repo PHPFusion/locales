@@ -27,7 +27,7 @@ $locale['email_deactivate_message'] = "مرحباً يا [USER_NAME],<br/>
 مع تحياتنا ,<br/>
 [SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "حسابك في [SITENAME] تم حظره";
+$locale['email_ban_subject'] = "تم حظر حسابك في [SITENAME] ";
 $locale['email_ban_message'] = "مرحباً يا [USER_NAME],<br/>
 حسابك في [SITENAME] تم حظره من قبل [ADMIN_USERNAME] نظراً للسبب التالي:<br/>
 
@@ -36,7 +36,7 @@ $locale['email_ban_message'] = "مرحباً يا [USER_NAME],<br/>
 مع تحياتنا ,<br/>
 [SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "حسابك في [SITENAME] تم حظره";
+$locale['email_secban_subject'] = "تم حظر حسابك في [SITENAME] ";
 $locale['email_secban_message'] = "مرحباً يا [USER_NAME],<br/>
 حسابك في [SITENAME] تم حظره من قبل [ADMIN_USERNAME] بسبب بعض الإجراءات التي تمثلك إعتبارياً أو ربطت بحسابك والتي تعتبر خطراً أمنياً على الموقع.<br/>
 
