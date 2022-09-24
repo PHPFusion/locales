@@ -10,5 +10,5 @@ $locale['ALT_008'] = 'Layout Options';
 $locale['ALT_009'] = 'Fixed layout';
 $locale['ALT_010'] = 'Small Sidebar';
 $locale['ALT_011'] = 'Skins';
-$locale['ALT_012'] = 'Dark';
-$locale['ALT_013'] = 'Light';
+$locale['ALT_012'] = 'Цёмная';
+$locale['ALT_013'] = 'Светлая';
