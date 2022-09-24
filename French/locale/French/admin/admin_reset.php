@@ -28,7 +28,7 @@ Cordialement,<br/>
 [ADMIN]";
 $locale['apw_410'] = "Résultat de la Réinitialisation";
 $locale['apw_411'] = "Mettre à jour le mot de passe d'administrateur.";
-$locale['apw_412'] = "Mot de passe admin :";
+$locale['apw_412'] = "Mot de passe de l'administrateur :";
 $locale['apw_415'] = "Réinitialiser le journal";
 $locale['apw_416'] = "ID du journal";
 $locale['apw_417'] = "Heure de réinitialisation";
