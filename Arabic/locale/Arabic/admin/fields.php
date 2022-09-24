@@ -119,10 +119,10 @@ $locale['fields_0507'] = "اللون";
 $locale['fields_0508'] = "الملف";
 $locale['fields_0509'] = "مخفي";
 $locale['fields_0510'] = "العنوان";
-$locale['fields_0511'] = "الوسوم";
+$locale['fields_0511'] = "وسوم";
 $locale['fields_0512'] = "الموقع";
-$locale['fields_0513'] = "الرقم";
-$locale['fields_0514'] = "/M/";
+$locale['fields_0513'] = "رقم";
+$locale['fields_0514'] = "البريد الإلكتروني";
 $locale['fields_0515'] = "رابط الموقع";
 $locale['fields_0516'] = "رقم الاتصال";
 
