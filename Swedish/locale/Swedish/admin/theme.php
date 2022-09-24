@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Nuvarande aktivt tema";
 
 $locale['theme_1008'] = "Ladda upp nytt tema";
 $locale['theme_1009'] = "Tema Styling";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Befintliga Teman";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Sätt som aktiv";
