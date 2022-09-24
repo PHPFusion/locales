@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "C&#259;utare [SITENAME]";
 $locale['401'] = "Caut&#259; cuvinte cheie";
-$locale['402'] = "Search";
+$locale['402'] = "Caut&#259;";
 $locale['403'] = "caut&#259; oricare din aceste cuvinte";
 $locale['404'] = "rezultate care con&#355;in toate aceste cuvinte";
 $locale['405'] = "Unde:";
