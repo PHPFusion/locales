@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Personalizaciones Theme";
+$locale['theme_1000'] = "Gestor de temas";
 $locale['theme_1001'] = "Nombre del tema:";
 $locale['theme_1002'] = "Presets de tema";
 $locale['theme_1003'] = "Cargado";
@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Tema activo actual";
 
 $locale['theme_1008'] = "Cargar tema";
 $locale['theme_1009'] = "Estilo del tema";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Temas actuales";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Establecer como activo";
@@ -66,7 +66,7 @@ $locale['theme_2022'] = "Color de fuente";
 $locale['theme_2023'] = "Tamaño de fuente base pequeño";
 $locale['theme_2024'] = "Encabezado";
 $locale['theme_2025'] = "Estilo de fuente";
-$locale['theme_2026'] = "Configuración de enlace";
+$locale['theme_2026'] = "Configuración del enlace";
 $locale['theme_2027'] = "Color base";
 $locale['theme_2028'] = "Color de desplazamiento";
 $locale['theme_2029'] = "Estilo de fuente de desplazamiento";
