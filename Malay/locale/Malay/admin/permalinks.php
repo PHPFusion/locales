@@ -28,7 +28,7 @@ $locale['PL_415'] = "Permalink Rules will transform various site URLs to Search 
                   Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
 
 // Admin Messages
-$locale['PL_420'] = "An Error occurred.";
+$locale['PL_420'] = "Kesalahan dikesan.";
 $locale['PL_421'] = "Permalinks Updated successfully.";
 $locale['PL_422'] = "No Permalink patterns found for %s.";
 $locale['PL_423'] = "Permalink not found.";
@@ -38,7 +38,7 @@ $locale['PL_426'] = "Disabled Permalinks for %s successfully.";
 $locale['PL_429'] = "Permalink Driver for %s";
 
 // Other
-$locale['PL_427'] = "No Permalinks are enabled.";
+$locale['PL_427'] = "Tidak ada Pautan Tetap yang sedang aktif.";
 $locale['PL_428'] = "Pautan Kekal";
 $locale['seo_htc_warning'] = "Sila ambil perhatian. Jika anda menukar pengaturan di kandungan fail .htaccess akan dikemaskinikan dan sebarang penukaran kepada fail tersebut sebelum ini akan dipadamkan.";
 $locale['rewrite_disabled'] = "modul mod_rewrite tidak didapati dalam sistem pelayar Server anda. Penggunaan SEF URL akan merosakkan halaman web anda. Sila hubungi pembekal hosting anda dan memohon supaya mod_rewrite boleh dipasang dalam sistem pelayar server host anda.";
