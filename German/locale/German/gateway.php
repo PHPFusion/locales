@@ -60,7 +60,7 @@ $locale['gateway_054'] = "Telefon";
 $locale['gateway_055'] = "Adresse";
 $locale['gateway_056'] = "E-Mail";
 $locale['gateway_057'] = "Name";
-$locale['gateway_058'] = "mitglieder";
+$locale['gateway_058'] = "benutzer";
 $locale['gateway_059'] = "Passwort";
 
 // General
@@ -68,7 +68,7 @@ $locale['gateway_060'] = "Was ist";
 $locale['gateway_061'] = "in";
 $locale['gateway_062'] = "Wörter";
 $locale['gateway_063'] = "Nummern";
-$locale['gateway_064'] = "Bitte beantworte die Frage";
+$locale['gateway_064'] = "Sie müssen die Frage beantworten";
 $locale['gateway_065'] = "Fortfahren";
 
 $locale['gateway_066'] = "Deine Antwort ist falsch! <br/> Bitte schreiben Sie alle Antworten in eine Zeile. Beispiel: sechsundzwanzig oder neunzehn";
