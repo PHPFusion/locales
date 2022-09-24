@@ -1,7 +1,7 @@
 <?php
 $locale['UL_001'] = "Vartotojų žurnalas";
 $locale['UL_002'] = "Data";
-$locale['UL_003'] = "Nario vardas";
+$locale['UL_003'] = "Vartotojo slapyvardis";
 $locale['UL_004'] = "Nario laukelis";
 $locale['UL_005'] = "Įrašai, senesni nei %d dienų yra ištrinti";
 $locale['UL_006'] = "Įrašas ištrintas";
@@ -12,7 +12,7 @@ $locale['UL_010'] = "Nario laukelis";
 $locale['UL_011'] = "Pateikti";
 $locale['UL_012'] = "Senas nustatymas";
 $locale['UL_013'] = "Naujas nustatymas";
-$locale['UL_014'] = "Pasirinkimai";
+$locale['UL_014'] = "Nustatymai";
 $locale['UL_015'] = "Šiuo metu nėra jokių logų.";
 $locale['UL_016'] = "Ištrinti įrašus senesnius nei: ";
 $locale['UL_017'] = "Dienos";
