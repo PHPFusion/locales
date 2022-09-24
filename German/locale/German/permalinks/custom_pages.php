@@ -1,3 +1,3 @@
 <?php
-$locale['pl_cp_title'] = "Eigene Seiten";
-$locale['pl_cp_desc'] = "Aktiviert die Permalinks f&uuml;r die eigenen Seiten auf der Homepage.";
+$locale['pl_cp_title'] = "Benutzerdefinierte Seiten";
+$locale['pl_cp_desc'] = "Aktivieren Sie Permalinks für die benutzerdefinierten Seiten.";
