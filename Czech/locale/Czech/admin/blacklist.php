@@ -1,13 +1,13 @@
 <?php
 $locale['BLS_000'] = "Černá listina";
 //Blacklist message
-$locale['BLS_010'] = "Email nebo IP adresa nesmí být prázdné.";
-$locale['BLS_011'] = "Záznam byl přidán.";
-$locale['BLS_012'] = "Záznam byl změněn.";
-$locale['BLS_013'] = "Záznam byl odstraněn.";
+$locale['BLS_010'] = "Neplatná e-mailová adresa nebo IP adresa.";
+$locale['BLS_011'] = "Přidávání uživatelů do černé listiny.";
+$locale['BLS_012'] = "Uživatelská modifikovaná černá listina.";
+$locale['BLS_013'] = "Uživatel byl smazán z černé listiny";
 $locale['BLS_014'] = "Opravdu chcete tuto položku smazat?";
 $locale['BLS_015'] = "Černá listina je momentálně prázdná.";
-$locale['BLS_016'] = "Emailová adresa není platný email.";
+$locale['BLS_016'] = "E-mailová adresa černé listiny, není platná e-mailová adresa.";
 
 $locale['BLS_020'] = "Zablokovat";
 $locale['BLS_021'] = "Upravit blokovaného uživatele";
