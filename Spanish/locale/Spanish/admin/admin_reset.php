@@ -34,7 +34,7 @@ Saludos,
 [ADMIN]";
 $locale['apw_410'] = "Resultados del Reinicio";
 $locale['apw_411'] = "Actualizar contraseña de administrador.";
-$locale['apw_412'] = "Contraseña de administrador:";
+$locale['apw_412'] = "Contraseña de Administrador:";
 $locale['apw_415'] = "Registro de Reinicios";
 $locale['apw_416'] = "ID de Registro";
 $locale['apw_417'] = "Hora de Reinicio";
