@@ -1,6 +1,6 @@
 <?php
 // News titles
-$locale['SL_0001'] = "Odkazy v menu";
+$locale['SL_0001'] = "Odkazy stránky";
 $locale['SL_0010'] = "Pridať odkaz";
 $locale['SL_0011'] = "Upraviť odkaz";
 $locale['SL_0012'] = "Aktuálne odkazy";
@@ -33,7 +33,7 @@ $locale['SL_0038'] = "Neexistujú žiadne odkazy, ktoré by mohli byť rodič";
 $locale['SL_0039'] = "Potvrdiť presun";
 
 $locale['SL_0040'] = "Uložiť odkaz";
-$locale['SL_0041'] = "Nastavenia odkazov";
+$locale['SL_0041'] = "Nastavenia odkazu";
 $locale['SL_0042'] = "Nakonfigurujte nastavenia navigácie odkazov";
 $locale['SL_0043'] = "Odkazy na stránku";
 $locale['SL_0044'] = "Max. odkazov zobrazených v navigácii";
@@ -53,11 +53,11 @@ $locale['SL_0062'] = "Neboli pridané žiadne odkazy.";
 $locale['SL_0063'] = "Použiť BB kódy v názve odkazu?";
 $locale['SL_0064'] = "Povolenie tejto možnosti preformátuje názov odkazu na BB kódy";
 
-$locale['SL_0070'] = "Ikona";
+$locale['SL_0070'] = "Ikonka";
 $locale['SL_0071'] = "Nové okno?";
 $locale['SL_0072'] = "Menu";
 $locale['SL_0073'] = "Zmena poradia";
-$locale['SL_0074'] = "Hýbať";
+$locale['SL_0074'] = "Presunúť";
 $locale['SL_0075'] = "Zobraziť možnosti";
 
 // Delete Site Link category
