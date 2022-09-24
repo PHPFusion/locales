@@ -1,18 +1,18 @@
 <?php
-$locale['susp00'] = "Nariai";
-$locale['susp01'] = "Uždrausti";
+$locale['susp00'] = "Vartotojai";
+$locale['susp01'] = "Blokuoti";
 $locale['susp02'] = "Neaktyvuoti";
 $locale['susp03'] = "Suspenduoti";
-$locale['susp04'] = "Uždrausti apsaugos";
+$locale['susp04'] = "Blokuoti apsaugos";
 $locale['susp05'] = "Atšaukti";
 $locale['susp06'] = "Anonimizuoti";
-$locale['susp07'] = "DE-Aktyvuoti";
+$locale['susp07'] = "Deaktyvuoti";
 $locale['susp08'] = "Neaktyvūs";
 $locale['susp10'] = "Atkurti";
 $locale['susp11'] = "Blokuoti";
 $locale['susp12'] = "Reaktyvuoti";
-$locale['susp13'] = "Spenduoti";
-$locale['susp14'] = "Blokavimas dėl saugumo";
+$locale['susp13'] = "Suspenduoti";
+$locale['susp14'] = "Saugumo blokavimas";
 $locale['susp15'] = "Atšaukti";
 $locale['susp16'] = "Anonimizuoti";
 $locale['susp17'] = "Deaktyvuoti";
