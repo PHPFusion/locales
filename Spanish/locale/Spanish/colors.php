@@ -3,7 +3,7 @@
 $locale['color_0'] = "Nulo";
 $locale['color_1'] = "Alice azul";
 $locale['color_2'] = "Blanco antiguo";
-$locale['color_3'] = "Aqua";
+$locale['color_3'] = "Agua";
 $locale['color_4'] = "Aguamarina";
 $locale['color_5'] = "Azul celeste";
 $locale['color_6'] = "Amarillento";
@@ -156,7 +156,7 @@ $locale['color_152'] = "Rojo Violeta";
 $locale['color_153'] = "Rosa";
 $locale['color_154'] = "Melocotón";
 $locale['color_155'] = "Amarillo claro";
-$locale['color_156'] = "Verde pálido";
+$locale['color_156'] = "Verde Pálido";
 $locale['color_157'] = "Cyano Pálido";
 $locale['color_158'] = "Azul Pálido";
 $locale['color_159'] = "Ciruela";
