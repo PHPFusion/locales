@@ -28,7 +28,7 @@ $locale['SMLY_430'] = "Kod";
 $locale['SMLY_431'] = "Resim";
 $locale['SMLY_432'] = "Metin";
 $locale['SMLY_433'] = "Seçenekler";
-$locale['SMLY_435'] = "Etkin Değil";
+$locale['SMLY_435'] = "Etkinleştirilmemiş";
 $locale['SMLY_436'] = "Hiçbir İfade Tanımlanmadı.";
 // Error Message
 $locale['SMLY_437'] = "Lütfen Bir İfade Kodu Girin";
