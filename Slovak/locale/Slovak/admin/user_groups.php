@@ -30,15 +30,15 @@ $locale['GRP_432'] = "Názov skupiny";
 $locale['GRP_433'] = "Popis skupiny";
 $locale['GRP_434'] = "Uložiť skupinu";
 $locale['GRP_435'] = "ID";
-$locale['GRP_436'] = "Ikona";
+$locale['GRP_436'] = "Ikonka";
 $locale['GRP_437'] = "Akcie";
-$locale['GRP_438'] = "Užívatelia";
+$locale['GRP_438'] = "Členovia";
 $locale['GRP_439'] = "Ikonka skupiny";
 // Search/Add Group Users
 $locale['GRP_440'] = "Pridať užívateľov do skupiny";
 $locale['GRP_441'] = "Nájdite užívateľa a pridajte ho do skupiny pomocou tohto formulára.";
 $locale['GRP_442'] = "Môžete vyhľadávať viacerých používateľov, pre oddelenie mien stlačte Enter.";
-$locale['GRP_446'] = "Meno";
+$locale['GRP_446'] = "Užívateľské meno";
 $locale['GRP_447'] = "Typ účtu";
 $locale['GRP_448'] = "Označiť všetko";
 $locale['GRP_449'] = "Odznačiť všetko";
@@ -49,6 +49,6 @@ $locale['GRP_452'] = "Aktuálna skupina: ";
 $locale['GRP_460'] = "Súčasní užívatelia v skupine";
 $locale['GRP_461'] = "Odstrániť vybraných užívateľov";
 $locale['GRP_462'] = "Odstrániť všetkých užívateľov";
-$locale['GRP_463'] = "V tejto skupine nie sú žiadni používatelia.";
+$locale['GRP_463'] = "V tejto skupine nie sú žiadny užívatelia.";
 // Error Messages
 $locale['GRP_464'] = "Prosím, zadajte názov skupiny";
