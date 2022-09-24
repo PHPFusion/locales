@@ -42,28 +42,28 @@ $locale['ME_451'] = 'Profil %s';
 $locale['ME_452'] = 'Sunting Profil %s';
 $locale['ME_453'] = 'Padam Ahli %s';
 $locale['ME_454'] = "Perhatian!";
-$locale['ME_455'] = "You are about to delete user %s!<br/><br/>The contents posted by this user on this site will be deleted if you proceed.<br/>
-Unless this is a spammer for eg. we recommend you to Ban, Suspend, Cancel or Anonymize this user.<br/>
-Are you sure you want to delete this user?<br/>";
+$locale['ME_455'] = "Anda akan padamkan ahli %s<br/><br/>Kandungan yang dipos oleh ahli di laman sesawang ini juga akan dipadamkan jika anda berterus.<br/>
+Kecuali dia adalah seorang spammer atau sebagainya kami mensyorkan anda untuk Haram, Gantung, Batal ataupun Anonimkan ahli tersebut.<br/>
+Adakah anda pasti untuk padamkan ahli tersebut?<br/>";
 $locale['ME_456'] = 'Padam Ahli';
-$locale['ME_457'] = "You are about to delete New Unactivated user %s!<br/>
-Are you sure you want to delete this user?<br/>";
+$locale['ME_457'] = "Anda akan padamkan Ahli baru yang tidak pernah diaktifkan %s!<br/>
+Adakah anda pasti untuk padamkan ahli tersebut?<br/>";
 
-$locale['ME_460'] = 'There are no users to be deactivated';
+$locale['ME_460'] = 'Tidak ada ahli untuk dinyahaktifkan';
 $locale['ME_461'] = '%s telah dinyahaktifkan';
 $locale['ME_462'] = 'Padam Ahli Tidak Aktif';
-$locale['ME_463'] = 'You have more then 50 inactive users and will have to run the deactivation process (%d) times.';
-$locale['ME_464'] = '%d user(s) have not logged in for %d day(s) and have been marked as inactive. By deactivating these users they will have (%d) day(s) before they are %s.';
-$locale['ME_465'] = 'Please note that some users may have submitted content to your site such as forum posts, comments, photos etc. These will be deleted when deactivated users are being deleted.';
-$locale['ME_466'] = 'It is strongly recommended to change deactivation action to anonymize instead of delete to prevent data loss!';
-$locale['ME_467'] = "Set deactivation system to anonymize.";
-$locale['ME_468'] = 'Automatic deactivation of inactive users.';
-$locale['ME_469'] = 'User has been activated';
+$locale['ME_463'] = 'Anda mempunyai lebih daripada 50 ahli tidak aktif dan perlu menjalankan proses penyahaktifan selama (%d) kali.';
+$locale['ME_464'] = '%d ahli tidak pernah log masuk dalam %d hari dan akan ditandakan sebagai inaktif. Dengan menyahaktifkan ahli-ahli tersebut mereka mempunyai (%d) hari sebelum mereka akan di%s.';
+$locale['ME_465'] = 'Sila ambil perhatian bahawa ada setengah ahli telah menyerahkan kandungan ke laman situs seperti pos forum, komen, gambar dll. Kandungan tersebut juga akan dipadamkan jika ahli yang tidak aktif tersebut dipadamkan.';
+$locale['ME_466'] = 'Kami mensyorkan untuk menukar proses penyahaktifkan kepada penganonim untuk mencegar sebarang kehilangan data!';
+$locale['ME_467'] = "Tetapkan proses penyahaktifan sistem kepada penganoniman.";
+$locale['ME_468'] = 'Penyahaktifkan ahli tidak aktif secara otomatik.';
+$locale['ME_469'] = 'Ahli telah diaktifkan';
 
 // Actions
 $locale['ME_500'] = 'Haram';
-$locale['ME_501'] = 'Reinstate';
-$locale['ME_502'] = 'Deactivate';
+$locale['ME_501'] = 'Memulih';
+$locale['ME_502'] = 'Disakhtikan';
 $locale['ME_503'] = 'Dihentikan';
 $locale['ME_504'] = 'Digantung Sekuriti';
 $locale['ME_505'] = 'Batal';
