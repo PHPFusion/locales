@@ -14,13 +14,13 @@ $locale['SL_0020'] = "Nome do Link";
 $locale['SL_0020a'] = "Ícone do Link";
 $locale['SL_0021'] = "URL do Link";
 $locale['SL_0022'] = "Visibilidade do Link";
-$locale['SL_0023'] = "Ordenar";
+$locale['SL_0023'] = "Ordem";
 $locale['SL_0024'] = "Posição";
 $locale['SL_0025'] = "Apenas painel de Navegação";
 $locale['SL_0026'] = "Painel de Navegação e Sub-cabeçalho";
 $locale['SL_0027'] = "Apenas o Sub-painel de Cabeçalho";
 $locale['SL_0028'] = "Abrir Link em nova janela";
-$locale['SL_0029'] = "Categorias do Link";
+$locale['SL_0029'] = "Categoria do Link";
 $locale['SL_0030'] = "Ícone do Link";
 $locale['SL_0031'] = "Estado do Link";
 $locale['SL_0032'] = "Sem Parente";
@@ -46,7 +46,7 @@ $locale['SL_0049'] = "Sim, agrupar os links como \"Mostrar mais\"";
 // Site Links list
 $locale['SL_0050'] = "Nome do Link";
 $locale['SL_0051'] = "Visibilidade";
-$locale['SL_0052'] = "Ordenar";
+$locale['SL_0052'] = "Ordem";
 $locale['SL_0053'] = "Opções";
 
 $locale['SL_0062'] = "Não foi definido nenhum link do site.";
