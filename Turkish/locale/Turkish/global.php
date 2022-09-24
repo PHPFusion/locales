@@ -206,8 +206,8 @@ $locale['UM066'] = "Şifrenizimi unuttunuz? [LINK]Yeni bir tane iste[/LINK].";
 $locale['UM067'] = "(Herkese açık veya paylaşılan bir bilgisayarda önerilmez)";
 $locale['UM080'] = "Profili Düzenle";
 $locale['UM081'] = "Özel Mesajlar";
-$locale['UM082'] = "Üye Listesi";
-$locale['UM083'] = "Yönetici Paneli";
+$locale['UM082'] = "Üyeler Listesi";
+$locale['UM083'] = "Yönetim Paneli";
 $locale['UM084'] = "Çıkış Yap";
 $locale['UM085'] = "Yeni %u ";
 $locale['UM086'] = "mesaj var";
@@ -235,7 +235,7 @@ $locale['UM100'] = "ÖM Arşivi :";
 $locale['tags'] = "Etiketler";
 // Captcha
 $locale['global_150'] = "Doğrulama Kodu:";
-$locale['global_151'] = "Doğrulama Kodunu Girin:";
+$locale['global_151'] = "Doğrulama Kodunu Giriniz:";
 // Footer Counter
 $locale['global_170'] = "benzersiz ziyaret";
 $locale['global_171'] = "benzersiz ziyaretler";
@@ -384,7 +384,7 @@ $locale['off'] = "Kapalı";
 $locale['on'] = "Açık";
 $locale['or'] = "veya";
 $locale['by'] = "tarafından";
-$locale['in'] = "=";
+$locale['in'] = "içinde";
 $locale['of'] = "-";
 $locale['and'] = "ve";
 $locale['na'] = "Bilgi bulunmamaktadır";
@@ -470,7 +470,7 @@ $locale['edit'] = "Düzenle";
 $locale['qedit'] = "Hızlı Düzenle";
 $locale['view'] = "Görüntüle";
 $locale['login'] = "Giriş";
-$locale['logout'] = "Çıkış Yap";
+$locale['logout'] = "Çıkış";
 $locale['admin-logout'] = "Yönetim Oturumunu Kapat";
 $locale['message'] = "Özel Mesajlar";
 $locale['logged'] = "Oturum açtı ";
@@ -503,13 +503,13 @@ $locale['offline'] = "Çevrimdışı";
 // Misc
 $locale['max_fs_allowed_ft'] = "Maks. dosya boyutu %s / İzin verilen dosya türleri %s";
 // DataTables
-$locale['processing_locale'] = "Please wait patiently while processing...";
-$locale['menu_locale'] = "Display _MENU_ records per page"; // Don't translate _MENU_
-$locale['zero_locale'] = "Nothing found - sorry";
-$locale['result_locale'] = "Showing page _PAGE_ of _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['processing_locale'] = "Lütfen işlenirken sabırla bekleyin...";
+$locale['menu_locale'] = "Sayfa başına _MENU_ kaydı görüntüle"; // Don't translate _MENU_
+$locale['zero_locale'] = "Üzgünüm - hiçbir şey bulunamadı";
+$locale['result_locale'] = "_PAGES_ sayfadan _PAGE_ sayfası gösteriliyor"; // Don't translate _PAGE_ and _PAGES_
 $locale['empty_locale'] = "Kayıt mevcut değil";
-$locale['filter_locale'] = "(Filtered from _MAX_ total records)"; // Don't translate _MAX_
-$locale['search_input_locale'] = "Search Records";
+$locale['filter_locale'] = "(_MAX_ toplam kayıttan filtrelenmiştir)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Kayıtları Ara";
 // Timer
 $locale['timer_year'] = "yıl|yıllar";
 $locale['timer_month'] = "ay|aylar";
