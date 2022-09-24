@@ -12,11 +12,11 @@ $locale['email_deactivate_subject'] = "Vyžaduje se reaktivace účtu na [SITENA
 $locale['email_deactivate_message'] = "Ahoj [USER_NAME],<br/>Uplynulo [DEACTIVATION_PERIOD] dní od vašeho posledního přihlášení na [SITENAME]. Byli jste označen jako neaktivní, ale údaje účtu zůstávají nezměněny.<br/>
 Chcete-li účet znovu aktivovat, stačí kliknout na následující odkaz: [REACTIVATION_LINK]<br/>S pozdravem,<br/>[SITEUSERNAME]";
 
-$locale['email_ban_subject'] = "Váš účet na [SITENAME] byl zakázán";
+$locale['email_ban_subject'] = "Váš účet je zapnutý [SITENAME] byl zakázán";
 $locale['email_ban_message'] = "Ahoj [USER_NAME],<br/>Váš účet na [SITENAME] byl zabanovaný od [ADMIN_USERNAME] z následujícího důvodu:<br/>
 [REASON]<br/>Chcete-li získat další informace o tomto zákazu, obraťte se na správce webu na [SITENAME].<br/>S pozdravem,<br/>[SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "Váš účet na [SITENAME] byl zakázán";
+$locale['email_secban_subject'] = "Váš účet je zapnutý [SITENAME] byl zakázán";
 $locale['email_secban_message'] = "Ahoj [USER_NAME],<br/>Váš účet na [SITENAME] byl zabanovaný od [ADMIN_USERNAME] protože některé vámi provedené akce byly považovány za bezpečnostní hrozbu pro web.<br/>
 Chcete-li získat další informace o tomto zákazu zabezpečení, obraťte se na správce webu na [SITENAME].<br/>S pozdravem,<br/>[SITEUSERNAME]";
 
