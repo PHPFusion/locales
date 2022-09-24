@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Tema Activo actual";
 
 $locale['theme_1008'] = "Enviar Tema";
 $locale['theme_1009'] = "Estilo do Texto";
-$locale['theme_1010'] = "Site Themes";
+$locale['theme_1010'] = "Temas Actuais";
 
 $locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Definir como Activo";
@@ -61,7 +61,7 @@ $locale['theme_2018'] = "Tamanhos da Fonte Base";
 $locale['theme_2019'] = "Tamanho da Fonte";
 $locale['theme_2020'] = "Espaço entre linhas";
 $locale['theme_2021'] = "Tamanho Grande da Fonte Base";
-$locale['theme_2022'] = "Cor do texto";
+$locale['theme_2022'] = "Cor da Fonte";
 $locale['theme_2023'] = "Tamanho Pequeno da Fonte Base";
 $locale['theme_2024'] = "Cabeçalho ";
 $locale['theme_2025'] = "Estilo da fonte";
