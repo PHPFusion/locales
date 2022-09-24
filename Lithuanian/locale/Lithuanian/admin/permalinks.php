@@ -6,7 +6,7 @@ $locale['PL_401a'] = "Permalink Settings";
 
 // Common
 $locale['PL_402'] = "Rewrite Name";
-$locale['PL_403'] = "Description";
+$locale['PL_403'] = "Aprašymas";
 $locale['PL_404'] = "Pasirinkimai";
 $locale['PL_404a'] = "Įjungti";
 $locale['PL_404b'] = "Išjungti";
@@ -15,7 +15,7 @@ $locale['PL_404d'] = "Reinstall";
 // Editing Permalinks
 $locale['PL_405'] = "Editing Permalinks for %s";
 $locale['PL_406'] = "Raktažodžiai";
-$locale['PL_407'] = "Description";
+$locale['PL_407'] = "Aprašymas";
 $locale['PL_408'] = "Types";
 $locale['PL_409'] = "Edit Pattern";
 $locale['PL_410'] = "Permalink type %u:";
@@ -28,7 +28,7 @@ $locale['PL_415'] = "Permalink Rules will transform various site URLs to Search 
                   Please note that mod_rewrite or it's equivalent is required for Permalinks to work.";
 
 // Admin Messages
-$locale['PL_420'] = "An Error occurred.";
+$locale['PL_420'] = "Įvyko klaida.";
 $locale['PL_421'] = "Permalinks Updated successfully.";
 $locale['PL_422'] = "No Permalink patterns found for %s.";
 $locale['PL_423'] = "Permalink not found.";
