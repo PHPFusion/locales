@@ -1,13 +1,13 @@
 var tooltips_locale = {
-    today: 'Go to today',
-    clear: 'Clear selection',
-    close: 'Close the picker',
-    selectMonth: 'Select Month',
-    prevMonth: 'Previous Month',
-    nextMonth: 'Next Month',
-    selectYear: 'Select Year',
-    prevYear: 'Previous Year',
-    nextYear: 'Next Year',
+    today: 'Przejdź do dnia dzisiejszego',
+    clear: 'Wyczyść zaznaczenie',
+    close: 'Zamknij wybrane',
+    selectMonth: 'Wybierz miesiąc',
+    prevMonth: 'Poprzedni Miesiąc',
+    nextMonth: 'Następny miesiąc',
+    selectYear: 'Wybierz rok',
+    prevYear: 'Poprzedni rok',
+    nextYear: 'Następny rok',
     selectDecade: 'Select Decade',
     prevDecade: 'Previous Decade',
     nextDecade: 'Next Decade',
@@ -23,5 +23,5 @@ var tooltips_locale = {
     incrementSecond: 'Increment Second',
     decrementSecond: 'Decrement Second',
     togglePeriod: 'Toggle Period',
-    selectTime: 'Select Time'
+    selectTime: 'Wybierz Czas'
 };
