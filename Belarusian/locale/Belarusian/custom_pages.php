@@ -1,7 +1,7 @@
 <?php
-$locale['page_400'] = "Access Denied!<br/>You are not permitted to view this page.";
-$locale['page_401'] = "Internal Error";
-$locale['page_402'] = "Unable to retrieve page content.";
-$locale['page_403'] = "Go Back";
-$locale['page_404'] = "Widget is missing. Please restore or remove content.";
-$locale['page_405'] = "Unable to view widget content";
+$locale['page_400'] = "Доступ забаронены!<br/>У вас недастаткова праў для прагляду гэтай старонцы.";
+$locale['page_401'] = "Унутраная памылка";
+$locale['page_402'] = "Немагчыма загрузіць змесціва старонкі.";
+$locale['page_403'] = "Вярнуцца назад";
+$locale['page_404'] = "Віджэт адсутнічае. Аднавіце ці выдаліце змесціва.";
+$locale['page_405'] = "Немагчыма адлюстраваць змесціва віджэта";
