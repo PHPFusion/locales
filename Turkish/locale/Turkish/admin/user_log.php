@@ -18,4 +18,4 @@ $locale['UL_016'] = "Daha Eski Girdileri Silin:";
 $locale['UL_017'] = "Günler";
 $locale['UL_018'] = "Artan";
 $locale['UL_019'] = "Azalan";
-$locale['UL_020'] = "Tümünü seç";
+$locale['UL_020'] = "Tümünü Seç";
