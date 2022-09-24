@@ -67,11 +67,11 @@ $locale['gateway_059'] = "password";
 $locale['gateway_060'] = "What is";
 $locale['gateway_061'] = "in";
 $locale['gateway_062'] = "Words";
-$locale['gateway_063'] = "Numbers";
-$locale['gateway_064'] = "You must answer the question";
+$locale['gateway_063'] = "Skaičiai";
+$locale['gateway_064'] = "Privalote atsakyti į klausimą";
 $locale['gateway_065'] = "Proceed";
 
 $locale['gateway_066'] = "Your answer is incorrect!<br/>Please write all answers in one line. Example: twentysix or nineteen";
-$locale['gateway_067'] = "Try Again!";
+$locale['gateway_067'] = "Bandykite dar kartą!";
 $locale['gateway_068'] = "Please try again later!";
 $locale['gateway_069'] = "Fusion GateWay";
