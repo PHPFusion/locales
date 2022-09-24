@@ -2,14 +2,14 @@
 $locale['MIG_100'] = "User Migration Tool";
 $locale['MIG_101'] = "You must select two different users for migration";
 $locale['MIG_102'] = "Forum Tracked Threads";
-$locale['MIG_103'] = "Forum Threads";
+$locale['MIG_103'] = "Тэмы форума";
 $locale['MIG_104'] = "Forum Threads Last user";
 $locale['MIG_105'] = "Forum Posts";
 $locale['MIG_106'] = "Forum Last Posts";
 $locale['MIG_107'] = "Forum Poll Votes";
 $locale['MIG_108'] = "Forum Votes";
 $locale['MIG_109'] = "Forum Reputation";
-$locale['MIG_115'] = "Comments";
+$locale['MIG_115'] = "Каментары";
 $locale['MIG_116'] = "Ratings";
 $locale['MIG_117'] = "Messages to";
 $locale['MIG_118'] = "Messages from";
