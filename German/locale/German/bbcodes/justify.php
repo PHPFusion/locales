@@ -1,3 +1,3 @@
 <?php
-$locale['bb_justify_description'] = "Richtet den ausgew&auml;hlten Text als Blocksatz aus.";
-$locale['bb_justify_usage'] = "Text";
+$locale['bb_justify_description'] = "Richtet den ausgewählten Text aus";
+$locale['bb_justify_usage'] = "Text richten";
