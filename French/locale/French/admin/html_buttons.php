@@ -12,7 +12,7 @@ $locale['html_008'] = "Aligner à droite";
 $locale['html_009'] = "Justifier";
 $locale['html_010'] = "Insérer un lien";
 $locale['html_011'] = "Inserer une image";
-$locale['html_012'] = "Centre";
+$locale['html_012'] = "Centrer";
 $locale['html_013'] = "Petit";
 $locale['html_014'] = "Minuscule";
 $locale['html_015'] = "Alt";
@@ -23,7 +23,7 @@ $locale['html_019'] = "Titres";
 $locale['html_020'] = "Saut de ligne";
 
 $locale['texts'] = "Texte";
-$locale['preview'] = "Aperçu";
+$locale['preview'] = "Prévisualiser";
 $locale['word_count'] = "Nombre de caractères";
 $locale['error_preview'] = "Erreur d'aperçu";
 $locale['error_preview_text'] = "L'aperçu ne peut pas être généré temporairement. Veuillez recharger la page et réessayer.";
