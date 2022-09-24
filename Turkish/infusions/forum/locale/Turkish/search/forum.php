@@ -1,9 +1,9 @@
 <?php
 $locale['forum.php'] = "Forumlar";
-$locale['f400'] = "Forum Mesajlar";
+$locale['f400'] = "Forum Mesajları";
 $locale['f401'] = "tüm forumlar";
 $locale['f402'] = "Forum Mesajı";
-$locale['f403'] = "Forum Mesajlar";
+$locale['f403'] = "Forum Mesajları";
 $locale['f404'] = "Sabit:";
 $locale['f405'] = "Duyuru:";
 $locale['f406'] = "içinde bulundu";
