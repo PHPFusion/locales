@@ -61,10 +61,10 @@ $locale['u115'] = "Språk";
 $locale['u116'] = "Det finns inga gruppmedlemmar.";
 $locale['u117'] = "Inga användargrupper.";
 // User name and email
-$locale['u119'] = "User name is prohibited.";
+$locale['u119'] = "Användarnamnet innehåller.";
 $locale['u120'] = "Användarnamnet innehåller ogiltiga tecken.";
 $locale['u121'] = "Det valda användarnamnet är redan taget av en annan användare.";
-$locale['u122'] = "User name can not be left empty.";
+$locale['u122'] = "Användarnamn kan inte vara tomt.";
 $locale['u123'] = "E-postadressen är inte giltig.";
 $locale['u124'] = "Din e-postadress eller e-postdomän verkar vara svartlistad.";
 $locale['u125'] = "E-postadressen är redan registrerad.";
