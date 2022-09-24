@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Geçerli Etkin Tema";
 
 $locale['theme_1008'] = "Tema Yükle";
 $locale['theme_1009'] = "Tema Şekillendirmesi";
-$locale['theme_1010'] = "Site Temaları";
+$locale['theme_1010'] = "Geçerli Temalar";
 
 $locale['theme_1011a'] = "Yönetim Temaları";
 $locale['theme_1012'] = "Etkin Olarak Ayarla";
@@ -42,7 +42,7 @@ $locale['theme_1037'] = "Tema Paketini Seçin";
 
 $locale['theme_2001'] = "Temel Yazı Türleri";
 $locale['theme_2002'] = "Tema Bileşenleri";
-$locale['theme_2003'] = "Ana Menü";
+$locale['theme_2003'] = "Navigasyon";
 $locale['theme_2004'] = "Temel Yazı Türleri";
 $locale['theme_2005'] = "Yeni %s Teması Yenilendi";
 $locale['theme_2006'] = "Tema Motoru Şu Anda Temanızı Yeniden Oluşturuyor Ve Ağ Durumuna Bağlı Olarak 15 ila 30 Saniye Sürebilir.
@@ -62,7 +62,7 @@ $locale['theme_2018'] = "Temel Yazı Boyutları";
 $locale['theme_2019'] = "Yazı Boyutu";
 $locale['theme_2020'] = "Satır Aralığı";
 $locale['theme_2021'] = "Temel Yazı Boyutu Büyüklüğü";
-$locale['theme_2022'] = "Yazı Reng";
+$locale['theme_2022'] = "Yazı Rengi";
 $locale['theme_2023'] = "Temel Yazı Boyutu Küçüklüğü";
 $locale['theme_2024'] = "Başlık ";
 $locale['theme_2025'] = "Yazı Türü Şekli";
@@ -122,7 +122,7 @@ $locale['theme_4016'] = "Bağlantı Şekli";
 $locale['theme_5000'] = "Normal";
 $locale['theme_5001'] = "Kalın";
 $locale['theme_5002'] = "İtalik";
-$locale['theme_5003'] = "Altı Çizili";
+$locale['theme_5003'] = "Alt Çizgili";
 $locale['theme_5004'] = "Kalın ve Alt Çizgili";
 $locale['theme_5005'] = "İtalik ve Kalın";
 $locale['theme_5006'] = "İtalik ve Alt Çizgili";
