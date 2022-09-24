@@ -1,11 +1,11 @@
 <?php
 $locale['forum.php'] = "Forums";
-$locale['f400'] = "Forum Posts";
+$locale['f400'] = "Messaggi forum";
 $locale['f401'] = "tutti i forum";
 $locale['f402'] = "Messaggio forum";
-$locale['f403'] = "Forum Posts";
+$locale['f403'] = "Messaggi forum";
 $locale['f404'] = "Importante:";
 $locale['f405'] = "Annuncio:";
-$locale['f406'] = "Trovata in";
+$locale['f406'] = "Trovato in";
 $locale['f407'] = "oggetto messaggio";
 $locale['f408'] = "contenuto messaggio";
