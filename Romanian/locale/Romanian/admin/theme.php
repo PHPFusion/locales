@@ -1,5 +1,5 @@
 <?php
-$locale['theme_1000'] = "Cuntomiz&#259;ri tematici";
+$locale['theme_1000'] = "Administrare tematic&#259;";
 $locale['theme_1001'] = "Nume tematic&#259;:";
 $locale['theme_1002'] = "Set&#259;ri predefinite tematic&#259;";
 $locale['theme_1003'] = "&#206;nc&#259;rcat&#259;";
@@ -61,11 +61,11 @@ $locale['theme_2018'] = "M&#259;rime font de baz&#259;";
 $locale['theme_2019'] = "M&#259;rime font";
 $locale['theme_2020'] = "Spa&#355;iere linie";
 $locale['theme_2021'] = "M&#259;rime font de baz&#259; mare";
-$locale['theme_2022'] = "Culoare text";
+$locale['theme_2022'] = "Culoare font";
 $locale['theme_2023'] = "M&#259;rime font de baz&#259; mic";
 $locale['theme_2024'] = "Titlu";
 $locale['theme_2025'] = "Stiluri font";
-$locale['theme_2026'] = "Set&#259;ri leg&#259;tur&#259;";
+$locale['theme_2026'] = "Set&#259;ri leg&#259;turi";
 $locale['theme_2027'] = "Culoarea de baz&#259;";
 $locale['theme_2028'] = "Culoare Hover";
 $locale['theme_2029'] = "Stil font Hover";
@@ -119,9 +119,9 @@ $locale['theme_4015'] = "Stil text orizontal";
 $locale['theme_4016'] = "Stil leg&#259;tur&#259;";
 
 $locale['theme_5000'] = "Normal";
-$locale['theme_5001'] = "&#206;gro&#351;at (Ctrl B)";
+$locale['theme_5001'] = "&#206;ngro&#351;at";
 $locale['theme_5002'] = "Italic (Ctrl+I)";
-$locale['theme_5003'] = "Subliniat (Ctrl+U)";
+$locale['theme_5003'] = "Subliniat";
 $locale['theme_5004'] = "&#206;ngro&#351;at &#351;i subliniat";
 $locale['theme_5005'] = "Italic &#351;i &#238;ngro&#351;at";
 $locale['theme_5006'] = "Italic &#351;i subliniat";
