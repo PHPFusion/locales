@@ -39,6 +39,6 @@ $locale['PL_429'] = "Sterownik bezpośredniego odnośnika dla %s";
 
 // Other
 $locale['PL_427'] = "Nie włączono bezpośrednich odnośników.";
-$locale['PL_428'] = "Odnośniki bezpośrednie";
+$locale['PL_428'] = "Bezpośrednie odnośniki";
 $locale['seo_htc_warning'] = "Pamiętaj, że jeśli zmienisz jakiekolwiek z tych ustawień, zawartość `. taccess` zostanie nadpisana i wszelkie zmiany dokonane wcześniej w tym pliku zostaną utracone.";
 $locale['rewrite_disabled'] = "Wygląda na to, że `mod_rewrite` nie jest włączony na Twoim serwerze. Włączenie linków SEF może uszkodzić twoją stronę. Skontaktuj się ze swoim dostawcą usług hostingowych, aby włączyć `mod_rewrite` na Twoim serwerze.";
