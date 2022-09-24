@@ -1,7 +1,7 @@
 <?php
-$locale['err401'] = "Unauthorized access to this page";
-$locale['err403'] = "Access forbidden to this page";
-$locale['err404'] = "Sorry, this page isn't available on this server";
-$locale['errunk'] = "Unknown error";
-$locale['errmsg'] = "The link you followed may have expired, or the page may not be accessible to you.";
-$locale['errret'] = "Return to main site";
+$locale['err401'] = "Несанкцыянаваны доступ да гэтай старонкі";
+$locale['err403'] = "Доступ да гэтай старонкі забаронены";
+$locale['err404'] = "Прабачце, гэта старонка недаступная на дадзеным серверы";
+$locale['errunk'] = "Невядомая памылка";
+$locale['errmsg'] = "Магчыма, спасылка, па якой вы перайшлі, устарэла, ці старонка можа быць недаступная для вас.";
+$locale['errret'] = "Вярнуцца на галоўную старонку сайта";
