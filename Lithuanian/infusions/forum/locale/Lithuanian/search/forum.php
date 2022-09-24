@@ -1,9 +1,9 @@
 <?php
 $locale['forum.php'] = "Forumai";
-$locale['f400'] = "Forum Posts";
+$locale['f400'] = "Forumo pranešimai";
 $locale['f401'] = "visi forumui";
 $locale['f402'] = "Forumo pranešimas";
-$locale['f403'] = "Forum Posts";
+$locale['f403'] = "Forumo pranešimai";
 $locale['f404'] = "Svarbu:";
 $locale['f405'] = "Pranešimas :";
 $locale['f406'] = "rasta";
