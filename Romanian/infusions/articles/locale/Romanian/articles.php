@@ -1,7 +1,7 @@
 <?php
 $locale['article_0000'] = "Articole";
 $locale['article_0001'] = "Toate articolele";
-$locale['article_0002'] = "Arată categoriile";
+$locale['article_0002'] = "Arat&#259; categoriile";
 $locale['article_0003'] = "Categorii";
 $locale['article_0004'] = "Actualizat ultima dat&#259;";
 $locale['article_0005'] = "Categorie:";
