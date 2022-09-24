@@ -91,7 +91,7 @@ $locale['error_height'] = "Te rog introdu &#238;n&#259;l&#355;imea";
 $locale['error_value'] = "Te rog introdu o valoare";
 
 // ReCaptcha
-$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Field Module";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY de la Google";
