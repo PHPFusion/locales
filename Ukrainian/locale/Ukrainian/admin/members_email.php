@@ -54,7 +54,7 @@ $locale['email_ban_message'] = "Вітаємо, [USER_NAME].
 
 [SITEUSERNAME]";
 
-$locale['email_secban_subject'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано";
+$locale['email_secban_subject'] = "Ваш обліковий запис на сайті [SITENAME] заблоковано з міркувань безпеки";
 $locale['email_secban_message'] = "Вітаємо, [USER_NAME].
 
 Ваш обліковий запис на сайті [SITENAME] заблоковано адміністратором [USERNAME] в зв&lsquo;язку з певними діями (Вашими безпосередньо або пов&lsquo;язаними з Вашим обліковим записом), що мають ознаки загрози безпеці сайту.
