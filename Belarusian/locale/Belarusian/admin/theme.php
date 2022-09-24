@@ -42,7 +42,7 @@ $locale['theme_1037'] = "Select Theme Pack";
 
 $locale['theme_2001'] = "Base Fonts";
 $locale['theme_2002'] = "Theme Components";
-$locale['theme_2003'] = "Navigation";
+$locale['theme_2003'] = "Навігацыя";
 $locale['theme_2004'] = "Base Fonts";
 $locale['theme_2005'] = "Rebuilding New %s Theme";
 $locale['theme_2006'] = "The Theme Engine is currently rebuilding your theme and may take up to 15 to 30 seconds depending of network status.<br/>Please do not close or refresh the window.";
