@@ -49,7 +49,7 @@ $locale['fields_0404'] = "Nemožno nainštalovať";
 $locale['fields_0405'] = "Informácie o poľu stĺpca tabuľky:";
 $locale['fields_0406'] = "Toto nie je pole";
 $locale['fields_0407'] = "Popis poľa:";
-$locale['fields_0410'] = "Vyberte kategóriu";
+$locale['fields_0410'] = "Vybrať kategóriu";
 $locale['fields_0411'] = "Toto pole je povinné";
 $locale['fields_0412'] = "Záznam užívateľských polí";
 $locale['fields_0413'] = "Pripojiť pole do registračného formulára?";
@@ -66,7 +66,7 @@ $locale['fields_0435'] = "Užívateľský stĺpec primárnej tabuľky";
 $locale['fields_0436'] = "Trieda ikonky";
 $locale['fields_0437'] = "iknka pre karty";
 
-$locale['fields_0450'] = "Vyberte kategóriu";
+$locale['fields_0450'] = "Vybrať kategóriu";
 $locale['fields_0451'] = "Názov poľa";
 $locale['fields_0452'] = "Názov formulároveho poľa";
 $locale['fields_0453'] = "Meno poľa";
