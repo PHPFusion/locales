@@ -34,5 +34,5 @@ $locale['SB_visbility'] = "Synlig för";
 $locale['SB_visible_shouts'] = "Synliga Rop";
 $locale['SB_warning_shout'] = "Ta bort det här ropet?";
 $locale['SB_warning_shouts'] = "Radera ropen?";
-$locale['SB_warning_validation_code'] = "You must enter correct validation code";
+$locale['SB_warning_validation_code'] = "Du måste ange korrekt valideringskod";
 $locale['SB_blocked_user'] = "The message is hidden because you have blocked this user.";
