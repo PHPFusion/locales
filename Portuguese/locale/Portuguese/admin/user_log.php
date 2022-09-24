@@ -17,5 +17,5 @@ $locale['UL_015'] = "Não há logs disponíveis no momento.";
 $locale['UL_016'] = "Apagar entradas mais antigas que:";
 $locale['UL_017'] = "Dias";
 $locale['UL_018'] = "Ascendente";
-$locale['UL_019'] = "Descendente";
+$locale['UL_019'] = "Decrescente";
 $locale['UL_020'] = "Seleccionar Tudo";
