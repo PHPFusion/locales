@@ -2,7 +2,7 @@
 $locale['downloads.php'] = "Na stiahnutie";
 $locale['d400'] = "Na stiahnutie";
 $locale['d401'] = "Stiahnuť";
-$locale['d402'] = "Na stiahnutie";
+$locale['d402'] = "súborov na stiahnutie";
 $locale['d403'] = "[NOVÉ]";
 $locale['d404'] = "Licencia:";
 $locale['d405'] = "OS:";
