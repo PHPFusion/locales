@@ -22,8 +22,8 @@ $locale['BLS_034'] = "Kara Liste IP Adresi: [STRONG]or[/STRONG]";
 $locale['BLS_035'] = "Kara Liste E-Posta Adresi";
 $locale['BLS_036'] = "Kara Listeye Neden Olan Sebep";
 $locale['BLS_037'] = "Kara Liste Kullanıcısı";
-$locale['BLS_038'] = "Güncelleştir";
-$locale['BLS_039'] = "Tümünü seç";
+$locale['BLS_038'] = "Güncelle";
+$locale['BLS_039'] = "Tümünü Seç";
 
 $locale['BLS_MS'] = "IP Adresi Girildiğinde, IP Adresi Aynı Olan Kullanıcının Bu Siteyi Ziyaret Etmesi Engellenecektir.
 Tam bir IP Girebilirsiniz, ör., <em>123.45.67.89.</em>, veya kısmi bir IP, ör. <em>123.45.67</em> veya <em>123.45</em>.
