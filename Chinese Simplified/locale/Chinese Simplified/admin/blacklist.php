@@ -1,5 +1,5 @@
 <?php
-$locale['BLS_000'] = "Blacklist";
+$locale['BLS_000'] = "黑名单";
 //Blacklist message
 $locale['BLS_010'] = "无效的电子邮件或 IP 地址。";
 $locale['BLS_011'] = "将用户添加到黑名单。";
@@ -15,8 +15,8 @@ $locale['BLS_022'] = "添加黑名单用户";
 $locale['BLS_023'] = "目前显示 %d %d 黑名单条目总数。";
 
 $locale['BLS_030'] = "黑名单信息";
-$locale['BLS_031'] = "Admin";
-$locale['BLS_032'] = "Date";
+$locale['BLS_031'] = "管理";
+$locale['BLS_032'] = "日期";
 $locale['BLS_033'] = "设置";
 $locale['BLS_034'] = "黑名单IP地址: [STRONG]或[/STRONG]";
 $locale['BLS_035'] = "黑名单电子邮件地址";
