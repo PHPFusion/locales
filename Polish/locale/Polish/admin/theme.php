@@ -9,7 +9,7 @@ $locale['theme_1006'] = "Aktualnie aktywny motyw";
 
 $locale['theme_1008'] = "Prześlij motyw";
 $locale['theme_1009'] = "Stylizacja motywu";
-$locale['theme_1010'] = "Motywy stron";
+$locale['theme_1010'] = "Bieżące motywy";
 
 $locale['theme_1011a'] = "Motywy administracyjne";
 $locale['theme_1012'] = "Ustaw jako aktywny";
