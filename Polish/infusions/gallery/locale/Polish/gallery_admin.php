@@ -116,4 +116,4 @@ $locale['photo_0024'] = "Usunięto zdjęcie";
 $locale['photo_0025'] = "Wyczyść wszystkie zdjęcia";
 $locale['photo_0026'] = "[STRONG]OSTRZEŻENIE:[/STRONG] Czyszczenie [STRONG]trwale usunie wszystkie zdjęcia[/STRONG] z tego albumu. Czy jesteś tego pewien?";
 $locale['photo_0027'] = "Potwierdź wyczyszczenie";
-$locale['gallery_submit'] = "%s zdjęcie";
+$locale['gallery_submit'] = "%s zdjęć";
