@@ -31,5 +31,5 @@ $locale['forum_rank_434'] = "Opções";
 $locale['forum_rank_437'] = "Nenhum rank de fórum definido.";
 $locale['forum_rank_438'] = "Tipo / Conta";
 $locale['forum_rank_450'] = "Ranks do fórum estão desactivados.<br/>Por favor, vá ao Painel de Administração %s para os activar.";
-$locale['forum_rank_451'] = "Defenições de Fórum";
+$locale['forum_rank_451'] = "Configurações do fórum";
 $locale['forum_rank_0100'] = "Ranks do fórum são usados para microgerenciar utilizadores do fórum e mostrar o seu desempenho e atividade";
