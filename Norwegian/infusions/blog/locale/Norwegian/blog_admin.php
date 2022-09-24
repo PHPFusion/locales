@@ -16,14 +16,14 @@ $locale['blog_0144'] = "Innleggers Id";
 $locale['blog_0145'] = "Blogg innlegget har blitt slettet";
 $locale['blog_0146'] = "Blogg innlegget har blitt publisert";
 $locale['blog_0147'] = "Blogg innlegget har blitt lagret som et utkast";
-$locale['blog_0148'] = "Skrevet av ";
+$locale['blog_0148'] = "Publisert av";
 $locale['blog_0149'] = "%s er deaktivert og trer ikke i kraft.";
 // Blog titles
 $locale['blog_0400'] = "Foreløpige Bloggs";
 $locale['blog_0401'] = "Legg til Blogg";
 $locale['blog_0402'] = "Rediger Blogg";
 $locale['blog_0405'] = "Blogg";
-$locale['blog_0406'] = "Settings";
+$locale['blog_0406'] = "Blogg Innstillinger";
 $locale['blog_0407'] = "Blogg Kategorier";
 $locale['blog_0408'] = "Foreløpig vises %d av %d totalt blogginnlegg";
 $locale['blog_0409'] = "Legg til Blogg Kategori";
@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Ukjent feil";
 // Blog form
 $locale['blog_0422'] = "Emne:";
 $locale['blog_0423'] = "Kategori:";
-$locale['blog_0424'] = "Ukategoriserte";
+$locale['blog_0424'] = "Ikke kategorisert";
 $locale['blog_0425'] = "Tekstutdrag:";
 $locale['blog_0425a'] = "Kort Blogg Innledning";
 $locale['blog_0426'] = "Utvidet:";
@@ -54,7 +54,7 @@ $locale['blog_0433'] = "Automatisk Linjeskift";
 $locale['blog_0434'] = "Aktiver Kommentarer";
 $locale['blog_0435'] = "Aktiver Vurderinger";
 $locale['blog_0437'] = "Lagre Blogg";
-$locale['blog_0438'] = "Draft";
+$locale['blog_0438'] = "Utkast";
 $locale['blog_0439'] = "Blogg Bilde:";
 $locale['blog_0440'] = "Maks filstørrelse %s / Tillatte filtyper GIF, JPEG og PNG.";
 $locale['blog_0441'] = "Sideskift";
@@ -64,7 +64,7 @@ $locale['blog_0444'] = "Trykk enter etter hver søkeord";
 // Blog Category
 // Blog Categories titles
 $locale['blog_0500'] = "Rediger Blogg Kategori";
-$locale['blog_0502'] = "Kategorier";
+$locale['blog_0502'] = "Aktuelle Blogg Kategori";
 // Blog Categories messages
 $locale['blog_0520'] = "Blogg Kategori er lagt til";
 $locale['blog_0521'] = "Blogg Kategori er oppdatert";
@@ -78,10 +78,10 @@ $locale['blog_0532'] = "Lagre Kategori";
 $locale['blog_0533'] = "Kategori Eier:";
 $locale['blog_0535'] = "Ingen Blogg Kategori er definert";
 $locale['blog_0536'] = "Klikk her for å laste opp kategori bilder";
-$locale['blog_0537'] = "Overordnet";
-$locale['blog_0538'] = "Bytes (bytes)";
-$locale['blog_0539'] = "KB (Kilobytes)";
-$locale['blog_0540'] = "MB (Megabytes)";
+$locale['blog_0537'] = "Eier";
+$locale['blog_0538'] = "Bytes (byte)";
+$locale['blog_0539'] = "KB (kilobyte)";
+$locale['blog_0540'] = "MB (megabyte)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "Slett denne Blogg Kategorien?";
 // Error Messages
@@ -90,7 +90,8 @@ $locale['blog_0561'] = "Denne kategorien finnes alle rede.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Vennligst oppgi et emne";
 $locale['blog_0451'] = "Slett denne Bloggen?";
-$locale['blog_0452'] = "%s er deaktivert for alle elementer.<br/>Disse innstillingen trer først i kraft når de er aktivert igjen.";
+$locale['blog_0452'] = "%s er deaktivert for alle elementer.
+Denne innstillingen vil bare tre i kraft når den er aktivert på nytt.";
 $locale['blog_0456'] = 'Det er ingen Blogg i denne kategorien.';
 $locale['blog_0457'] = "Vennligst oppgi søkeord";
 $locale['blog_0461'] = 'Det er ikke definert noen Blogg kategorier.';
@@ -99,14 +100,14 @@ $locale['blog_0458'] = "Filtrer etter:";
 $locale['blog_0459'] = "Filter viser kategori etter";
 $locale['blog_0460'] = "Alle Blogg Innlegg";
 //Alignment
-$locale['left'] = "Left";
-$locale['center'] = "Center";
-$locale['right'] = "Right";
-$locale['blog_0600'] = "Brukerforslag";
+$locale['left'] = "Venstre";
+$locale['center'] = "Midten";
+$locale['right'] = "Høyre";
+$locale['blog_0600'] = "Blogg Innlegg";
 $locale['blog_0601'] = "Innlegges bilde";
 $locale['blog_0602'] = "Krever utvidet Blogg?";
 // Public Submissions Form
-$locale['blog_0700'] = "Foreslå Blogg";
+$locale['blog_0700'] = "Legg til Blogg";
 $locale['blog_0701'] = "Takk for at du la til Bloggen din";
 $locale['blog_0702'] = "Legg til et annen Blogg element";
 $locale['blog_0703'] = "Bruk følgende skjema for å legge til en Blogg. Ditt bidrag vil bli vurdert av en
@@ -121,7 +122,7 @@ $locale['blog_605'] = "Maks filstørrelse (i bytes):";
 // Blog Settings
 $locale['blog_950'] = "Bildeopplasting";
 $locale['blog_951'] = "Bildekobling:";
-$locale['blog_952'] = "Category";
+$locale['blog_952'] = "Kategori";
 $locale['blog_953'] = "Bloggartikkel";
 $locale['blog_954'] = "Miniatyr forhold:";
 $locale['blog_955'] = "Original";
@@ -129,4 +130,4 @@ $locale['blog_956'] = "Firkant";
 $locale['blog_959'] = "Lastet opp bilde";
 $locale['blog_960'] = "Kategoribilde";
 $locale['blog_961'] = "Tillatte filtyper:";
-$locale['blog_submit'] = "%s Blog";
+$locale['blog_submit'] = "%s Blogg";
