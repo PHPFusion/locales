@@ -11,7 +11,7 @@ $locale['theme_1008'] = "Muat Naik Tema";
 $locale['theme_1009'] = "Sunting Tema";
 $locale['theme_1010'] = "Tema";
 
-$locale['theme_1011a'] = "Admin Themes";
+$locale['theme_1011a'] = "Tema Admin";
 $locale['theme_1012'] = "Set Sebagai Aktif";
 $locale['theme_1013'] = "Lesen:";
 $locale['theme_1014'] = "Versi";
