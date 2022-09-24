@@ -23,8 +23,8 @@ $locale['blog_0400'] = "Post&#259;ri curente pe blog";
 $locale['blog_0401'] = "Adaug&#259; o postare pe blog";
 $locale['blog_0402'] = "Editeaz&#259; o postare pe blog";
 $locale['blog_0405'] = "Blog";
-$locale['blog_0406'] = "Set&#259;ri";
-$locale['blog_0407'] = "Categorii de blog";
+$locale['blog_0406'] = "Set&#259;ri blog";
+$locale['blog_0407'] = "Categorii blog";
 $locale['blog_0408'] = "Sunt afi&#351;ate %d din %d totalul post&#259;rilor pe blog";
 $locale['blog_0409'] = "Adaug&#259; o categorie de blog";
 // Blog messages
@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Eroare necunoscut&#259;";
 // Blog form
 $locale['blog_0422'] = "Subiect:";
 $locale['blog_0423'] = "Categorie:";
-$locale['blog_0424'] = "Nicio categorie";
+$locale['blog_0424'] = "Niciuna";
 $locale['blog_0425'] = "Fragment";
 $locale['blog_0425a'] = "Introducere scurt&#259;";
 $locale['blog_0426'] = "Extins&#259;:";
@@ -52,19 +52,19 @@ $locale['blog_0431'] = "Salveaz&#259; ca ciorn&#259;";
 $locale['blog_0432'] = "Fixeaz&#259; aceast&#259; postare pe blog";
 $locale['blog_0433'] = "Aliniere automat&#259; pe r&#226;nduri";
 $locale['blog_0434'] = "Activeaz&#259; comentariile";
-$locale['blog_0435'] = "Activeaz&#259; evalu&#259;rile";
+$locale['blog_0435'] = "Activeaz&#259; vot&#259;rile";
 $locale['blog_0437'] = "Salveaz&#259; postarea pe blog";
 $locale['blog_0438'] = "Ciorn&#259;";
 $locale['blog_0439'] = "Imagine postare pe blog :";
 $locale['blog_0440'] = "Dimensiune max. fi&#351;ier %s / Tipuri de fi&#351;iere permise: GIF, JPEG or PNG.";
-$locale['blog_0441'] = "Pagebreak";
+$locale['blog_0441'] = "Final pagin&#259;";
 $locale['blog_0442'] = "Pozi&#355;ie imagine:";
 $locale['blog_0443'] = "Cuvinte cheie:";
 $locale['blog_0444'] = "Apasa enter dupa fiecare cuvant cheie";
 // Blog Category
 // Blog Categories titles
 $locale['blog_0500'] = "Editeaz&#259; o categorie de blog";
-$locale['blog_0502'] = "Categorii";
+$locale['blog_0502'] = "Categorii de blog";
 // Blog Categories messages
 $locale['blog_0520'] = "Categorie de blog ad&#259;ugat&#259;";
 $locale['blog_0521'] = "Categorie de blog actualizat&#259;";
@@ -74,14 +74,14 @@ $locale['blog_0524b'] = "Categorie de blog &#351;tears&#259;";
 // Blog Categories form
 $locale['blog_0530'] = "Nume categorie:";
 $locale['blog_0531'] = "Imagine categorie:";
-$locale['blog_0532'] = "Salveaz&#259; categorie";
+$locale['blog_0532'] = "Salveaz&#259; categoria";
 $locale['blog_0533'] = "P&#259;rinte categorie:";
 $locale['blog_0535'] = "Nu exist&#259; categorii de blog definite";
 $locale['blog_0536'] = "Apas&#259; aici pentru &#238;nc&#259;rcarea imaginilor de categorii";
 $locale['blog_0537'] = "P&#259;rinte";
-$locale['blog_0538'] = "Bytes (bytes)";
-$locale['blog_0539'] = "KO (Kilobytes)";
-$locale['blog_0540'] = "MO (Megabytes)";
+$locale['blog_0538'] = "Octe&#355;i (octe&#355;i)";
+$locale['blog_0539'] = "KO (Kiloocte&#355;i)";
+$locale['blog_0540'] = "MO (Megaocte&#355;i)";
 // Popup Error/Warning Messages
 $locale['blog_0550'] = "&#350;terg aceast&#259; categorie de blog?";
 // Error Messages
@@ -90,9 +90,8 @@ $locale['blog_0561'] = "Aceast&#259; categorie exist&#259; deja.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Te rog specifica un subiect";
 $locale['blog_0451'] = "&#350;terg aceast&#259; postare pe blog?";
-$locale['blog_0452'] = "%s sunt dezactivate pentru toate elementele.
-
-Aceast&#259; setare va avea efect c&#226;nd vor fi activate din nou.";
+$locale['blog_0452'] = "%s sunt dezactivate pentru toate post&#259;rile pe blog.
+Aceast&#259; setare va intra &#238;n vigoare numai atunci c&#226;nd acestea sunt activate din nou.";
 $locale['blog_0456'] = 'Nu exist&#259; post&#259;ri pe blog &#238;n aceast&#259; categorie.';
 $locale['blog_0457'] = "Te rog introdu un cu&#226;nt cheie";
 $locale['blog_0461'] = 'Nu exist&#259; categorii de blog definite.';
@@ -104,7 +103,7 @@ $locale['blog_0460'] = "Toate post&#259;rile pe blog";
 $locale['left'] = "St&#226;nga";
 $locale['center'] = "Centru";
 $locale['right'] = "Dreapta";
-$locale['blog_0600'] = "Trimiteri";
+$locale['blog_0600'] = "Trimiteri de post&#259;rii pe blog";
 $locale['blog_0601'] = "Imagine trimitere";
 $locale['blog_0602'] = " Postare extins&#259; obligatorie?";
 // Public Submissions Form
