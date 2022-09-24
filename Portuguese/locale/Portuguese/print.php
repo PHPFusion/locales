@@ -7,7 +7,7 @@ $locale['403'] = "Blog Extendido";
 //forums
 $locale['500'] = "Tema do tópico:";
 $locale['501'] = "Publicado por ";
-$locale['502'] = " ligado ";
+$locale['502'] = " em ";
 $locale['503'] = "Editado por ";
 //License Agreement
 $locale['600'] = "Termos & Condições";
