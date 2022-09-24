@@ -1,7 +1,7 @@
 <?php
 $locale['400'] = "Search [SITENAME]";
 $locale['401'] = "Cerca per:";
-$locale['402'] = "Ricerca";
+$locale['402'] = "Cerca";
 $locale['403'] = "Cerca una di queste parole";
 $locale['404'] = "I risultati devono contenere queste parole";
 $locale['405'] = "Dove:";
