@@ -1,6 +1,6 @@
 <?php
 // Titles
-$locale['ERROR_400'] = "Hata Günlüğü";
+$locale['ERROR_400'] = "Hata Geçmişi";
 $locale['ERROR_401'] = "Dosyaya bir göz atın";
 // Errors table
 $locale['ERROR_410'] = "Hata";
