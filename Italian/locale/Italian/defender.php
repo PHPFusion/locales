@@ -91,7 +91,7 @@ $locale['error_height'] = "Inserisci altezza.";
 $locale['error_value'] = "Inserisci un valore.";
 
 // ReCaptcha
-$locale['grecaptcha'] = "Google Recaptcha v2";
+$locale['grecaptcha'] = "Google Recaptcha";
 $locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha campo modulo";
 $locale['grecaptcha_placeholder_1'] = "Sito chiave da Google";
