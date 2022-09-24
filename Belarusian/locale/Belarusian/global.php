@@ -1,120 +1,120 @@
 <?php
-$locale['setlocale'] = "en_GB"; // https://www.php.net/manual/en/function.setlocale.php
+$locale['setlocale'] = "be_BY"; // https://www.php.net/manual/en/function.setlocale.php
 $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets/character-sets.xhtml
-$locale['region'] = "GB"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
-$locale['xml_lang'] = "en"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['short_lang_name'] = "en"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "en"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "en"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "en"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "en"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['region'] = "BY"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
+$locale['xml_lang'] = "be"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['short_lang_name'] = "be"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
+$locale['tinymce'] = "be"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "be"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "be"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "be"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
 $locale['datepicker'] = "en-gb"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "en"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
+$locale['password_strength'] = "be"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
-$locale['months'] = "&nbsp;|January|February|March|April|May|June|July|August|September|October|November|December";
-$locale['shortmonths'] = "&nbsp;|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept|Oct|Nov|Dec";
-$locale['weekdays'] = "Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday";
+$locale['months'] = "&nbsp;|студзеня|лютага|сакавіка|красавіка|мая|чэрвеня|ліпеня|жнівеня|верасня|кастрычніка|лістапада|снежня";
+$locale['shortmonths'] = "&nbsp;|сту|лют|сак|кра|мая|чэр|ліп|жні|вер|кас|ліс|сне";
+$locale['weekdays'] = "нядзеля|панядзелак|аўторак|серада|чацвер|пятніца|субота";
 // Timers
-$locale['year'] = "year";
-$locale['year_a'] = "years";
-$locale['month'] = "month";
-$locale['month_a'] = "months";
-$locale['week'] = "week";
-$locale['week_a'] = "weeks";
-$locale['day'] = "day";
-$locale['day_a'] = "days";
-$locale['hour'] = "hour";
-$locale['hour_a'] = "hours";
-$locale['minute'] = "minute";
-$locale['minute_a'] = "minutes";
-$locale['second'] = "second";
-$locale['second_a'] = "seconds";
-$locale['just_now'] = "just now";
-$locale['now'] = 'now';
-$locale['ago'] = "ago";
+$locale['year'] = "год";
+$locale['year_a'] = "гады(-оў)";
+$locale['month'] = "месяц";
+$locale['month_a'] = "месяцы(-аў)";
+$locale['week'] = "тыдзень";
+$locale['week_a'] = "тыдні(-яў)";
+$locale['day'] = "дзень";
+$locale['day_a'] = "дні(дзён)";
+$locale['hour'] = "гадзіну";
+$locale['hour_a'] = "гадзін(-ы, -у)";
+$locale['minute'] = "хвіліну";
+$locale['minute_a'] = "хвілін(-ы, -у)";
+$locale['second'] = "секунду";
+$locale['second_a'] = "секунд(-ы, -у)";
+$locale['just_now'] = "толькі што";
+$locale['now'] = 'зараз';
+$locale['ago'] = "назад";
 // Geo
-$locale['street1'] = "Street Address 1";
-$locale['street2'] = "Street Address 2";
-$locale['city'] = "City";
-$locale['postcode'] = "Postcode";
-$locale['sel_country'] = "Select Country";
-$locale['sel_state'] = "Select Region";
-$locale['sel_user'] = "Please type a user name";
-$locale['add_language'] = "Add Language Translations";
-$locale['add_lang'] = "Add %s";
-$locale['other_states'] = "Other States";
+$locale['street1'] = "Адрас вуліцы 1";
+$locale['street2'] = "Адрас вуліцы 2";
+$locale['city'] = "Горад";
+$locale['postcode'] = "Паштовы індэкс";
+$locale['sel_country'] = "Выберыце краіну";
+$locale['sel_state'] = "Выберыце рэгіён";
+$locale['sel_user'] = "Увядзіце імя карыстача";
+$locale['add_language'] = "Дадаць пераклады на іншыя мовы";
+$locale['add_lang'] = "Дадаць пераклад на %s";
+$locale['other_states'] = "Іншыя штаты";
 // Name
-$locale['name'] = "Full Name";
-$locale['username_pretext'] = "Your public username is also the same as your user profile address located at: %s %s";
-$locale['first_name'] = "First Name";
-$locale['middle_name'] = "Middle Name";
-$locale['last_name'] = "Last Name";
+$locale['name'] = "Поўнае імя";
+$locale['username_pretext'] = "Ваша публічнае імя карыстача таксама супадае з іменем у вашым профілі карыстача, размешчаным па адрасе: %s %s";
+$locale['first_name'] = "Імя";
+$locale['middle_name'] = "Імя па бацьку (другое імя)";
+$locale['last_name'] = "Прозвішча";
 // Documents
-$locale['doc_type'] = "Document type";
-$locale['doc_series'] = "Series";
-$locale['doc_number'] = "Number";
-$locale['doc_authority'] = "Authority";
-$locale['doc_date_issue'] = "Date of issue";
-$locale['doc_date_expire'] = "Date of expiry";
+$locale['doc_type'] = "Тып дакумента";
+$locale['doc_series'] = "Серыі";
+$locale['doc_number'] = "Нумар";
+$locale['doc_authority'] = "Аўтарства";
+$locale['doc_date_issue'] = "Дата выпуску";
+$locale['doc_date_expire'] = "Дата сканчэння тэрміну дзеяння";
 // Standard User Levels
-$locale['user0'] = "Public";
-$locale['user1'] = "Member";
-$locale['user2'] = "Administrator";
-$locale['user3'] = "Super Administrator";
-$locale['user_na'] = "N/A";
-$locale['user_guest'] = "Guest";
-$locale['user_anonymous'] = "Anonymous User";
-$locale['genitive'] = "%s's %s";
+$locale['user0'] = "Усе";
+$locale['user1'] = "Удзельнік";
+$locale['user2'] = "Адміністратар";
+$locale['user3'] = "Суперадміністратар";
+$locale['user_na'] = "Няма дадзеных";
+$locale['user_guest'] = "Госць";
+$locale['user_anonymous'] = "Ананімны карыстач";
+$locale['genitive'] = "%s %s";
 // Standard User Status
-$locale['status0'] = "Active";
-$locale['status1'] = "Banned";
-$locale['status2'] = "Unactivated";
-$locale['status3'] = "Suspended";
-$locale['status4'] = "Security Banned";
-$locale['status5'] = "Cancelled";
-$locale['status6'] = "Anonymous";
-$locale['status7'] = "Deactivated";
-$locale['status8'] = "Inactive";
+$locale['status0'] = "Актыўны";
+$locale['status1'] = "Забанены";
+$locale['status2'] = "Неактываваны";
+$locale['status3'] = "Прыпынены";
+$locale['status4'] = "Забанены па меркаваннях бяспекі";
+$locale['status5'] = "Скасаваны";
+$locale['status6'] = "Ананімны";
+$locale['status7'] = "Дэактываваны";
+$locale['status8'] = "Неактыўны";
 // Forum Moderator Level(s)
-$locale['userf1'] = "Moderator";
+$locale['userf1'] = "Мадэратар";
 // Navigation
-$locale['global_001'] = "Navigation";
-$locale['global_002'] = "No links defined";
-$locale['global_003'] = "Nothing to preview";
+$locale['global_001'] = "Навігацыя";
+$locale['global_002'] = "Спасылак няма";
+$locale['global_003'] = "Нічога для перадпрагляду няма";
 // Users Online
-$locale['global_010'] = "Users Online Now";
-$locale['global_011'] = "Guests Online";
-$locale['global_012'] = "Members Online";
-$locale['global_013'] = "No Members Online";
-$locale['global_014'] = "Total Members";
-$locale['global_015'] = "Unactivated Members";
-$locale['global_016'] = "Newest Member";
-$locale['global_017'] = "Toggle Navigation";
+$locale['global_010'] = "Карыстачы ў сетцы";
+$locale['global_011'] = "Гасцей у сетцы:";
+$locale['global_012'] = "Удзельнікаў у сетцы:";
+$locale['global_013'] = "Удзельнікаў у сетцы няма";
+$locale['global_014'] = "Усяго ўдзельнікаў";
+$locale['global_015'] = "Неактываваных удзельнікаў";
+$locale['global_016'] = "Найноўшы ўдзельнік";
+$locale['global_017'] = "Пераключыць навігацыю";
 // Forum Side panel
-$locale['global_020'] = "Forum Threads";
-$locale['global_021'] = "Latest Discussions";
-$locale['global_022'] = "Hottest Threads";
-$locale['global_023'] = "No Threads created";
-$locale['global_024'] = "Participated Discussions";
-$locale['global_027'] = "Unanswered Threads";
-$locale['global_028'] = "Unsolved Questions";
+$locale['global_020'] = "Тэмы форума";
+$locale['global_021'] = "Апошнія абмеркаванні";
+$locale['global_022'] = "Самыя папулярныя тэмы";
+$locale['global_023'] = "Тэм няма";
+$locale['global_024'] = "Абмеркаванні, у якіх я ўдзельнічаў";
+$locale['global_027'] = "Тэмы без адказаў";
+$locale['global_028'] = "Нявырашаныя пытанні";
 // Comments Side panel
-$locale['global_025'] = "Latest Comments";
-$locale['global_026'] = "No comments available";
+$locale['global_025'] = "Апошнія каментары";
+$locale['global_026'] = "Каментароў няма";
 // Articles Side panel
-$locale['global_030'] = "Latest Articles";
-$locale['global_031'] = "No Articles available";
+$locale['global_030'] = "Апошнія артыкулы";
+$locale['global_031'] = "Артыкулаў няма";
 // Downloads Side panel
-$locale['global_032'] = "Latest Downloads";
-$locale['global_033'] = "No Downloads available";
+$locale['global_032'] = "Апошнія загрузкі";
+$locale['global_033'] = "Загрузак няма";
 // Welcome_panel
-$locale['global_035'] = "Welcome";
+$locale['global_035'] = "Вітаем";
 // Latest Active Forum Threads panel
-$locale['global_040'] = "Latest Active Forum Threads";
-$locale['global_041'] = "My Recent Threads";
-$locale['global_042'] = "My Recent Posts";
-$locale['global_043'] = "New Posts";
+$locale['global_040'] = "Апошнія актыўныя тэмы форума";
+$locale['global_041'] = "Мае апошнія тэмы";
+$locale['global_042'] = "Мае апошнія паведамленні";
+$locale['global_043'] = "Новыя паведамленні";
 $locale['global_044'] = "Thread";
 $locale['global_045'] = "Views";
 $locale['global_046'] = "Replies";
@@ -234,8 +234,8 @@ $locale['UM100'] = "PM Archive:";
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
-$locale['global_150'] = "Validation Code:";
-$locale['global_151'] = "Enter Validation Code:";
+$locale['global_150'] = "Код праверкі:";
+$locale['global_151'] = "Увядзіце код праверкі:";
 // Footer Counter
 $locale['global_170'] = "unique visit";
 $locale['global_171'] = "unique visits";
@@ -329,7 +329,7 @@ $locale['global_500'] = "You are being redirected to %s, please wait. If you're 
 // Captcha Locales
 $locale['global_600'] = "Validation Code";
 $locale['global_601'] = "You must enter a correct validation code";
-$locale['recaptcha'] = "en";
+$locale['recaptcha'] = "be";
 // Site links
 $locale['global_700'] = "Show More";
 // Miscellaneous
@@ -343,7 +343,7 @@ $locale['global_ML103'] = "Switch Language";
 // Flood Control
 $locale['flood'] = "You are barred to post until the flood period cooldown is over. Please wait for %s.";
 $locale['no_image'] = "No Image";
-$locale['send_message'] = "Send Message";
+$locale['send_message'] = "Адправіць паведамленне";
 $locale['go_profile'] = "Go to %s Profile Page";
 // Global one word locales
 $locale['hello'] = "Hello!";
@@ -363,7 +363,7 @@ $locale['off'] = "Off";
 $locale['on'] = "On";
 $locale['or'] = "or";
 $locale['by'] = "by";
-$locale['in'] = "in";
+$locale['in'] = "?";
 $locale['of'] = "of";
 $locale['and'] = "and";
 $locale['na'] = "No information available";
@@ -421,7 +421,7 @@ $locale['it'] = "It";
 $locale['order'] = "Order";
 $locale['sort'] = "Sort";
 $locale['id'] = "ID";
-$locale['title'] = "Title";
+$locale['title'] = "Загаловак";
 $locale['rights'] = "Rights";
 $locale['info'] = "Info";
 $locale['image'] = "Image";
@@ -464,14 +464,14 @@ $locale['custom'] = "Custom";
 $locale['submit'] = "Submit";
 $locale['submissions'] = "Submissions";
 $locale['submit_access'] = "Access to Submit page";
-$locale['categories'] = "Categories";
+$locale['categories'] = "Катэгорыі";
 $locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "Left";
 $locale['center'] = "Center";
 $locale['right'] = "Right";
 // Comments and ratings
-$locale['comments'] = "Comments";
+$locale['comments'] = "Каментары";
 $locale['ratings'] = "Ratings";
 $locale['comments_ratings'] = "Comments and Ratings";
 $locale['user_account'] = "User Account";
