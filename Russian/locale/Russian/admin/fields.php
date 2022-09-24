@@ -119,10 +119,10 @@ $locale['fields_0507'] = "Цвет";
 $locale['fields_0508'] = "Файл";
 $locale['fields_0509'] = "Скрытое";
 $locale['fields_0510'] = "Адрес";
-$locale['fields_0511'] = "Теги";
+$locale['fields_0511'] = "Метки";
 $locale['fields_0512'] = "Расположение";
 $locale['fields_0513'] = "Номер";
-$locale['fields_0514'] = "E-mail";
+$locale['fields_0514'] = "Электронная почта";
 $locale['fields_0515'] = "Ссылка";
 $locale['fields_0516'] = "Контактный номер";
 
