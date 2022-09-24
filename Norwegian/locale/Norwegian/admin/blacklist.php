@@ -1,13 +1,13 @@
 <?php
 $locale['BLS_000'] = "Svarteliste";
 //Blacklist message
-$locale['BLS_010'] = "Email or IP address cannot be empty.";
-$locale['BLS_011'] = "Entry has been added.";
-$locale['BLS_012'] = "Entry has been modified.";
-$locale['BLS_013'] = "Entry has been removed.";
+$locale['BLS_010'] = "Invalid E-mail or IP address.";
+$locale['BLS_011'] = "Adding users to blacklist.";
+$locale['BLS_012'] = "User Modified blacklist.";
+$locale['BLS_013'] = "User deleted from Blacklist";
 $locale['BLS_014'] = "Are you sure you want to delete this entry?";
 $locale['BLS_015'] = "The blacklist is currently empty.";
-$locale['BLS_016'] = "Email address is not valid email.";
+$locale['BLS_016'] = "Blacklist email address is not valid email.";
 
 $locale['BLS_020'] = "Blacklist User";
 $locale['BLS_021'] = "Edit blacklisted user";
@@ -18,7 +18,7 @@ $locale['BLS_030'] = "Blacklisted info";
 $locale['BLS_031'] = "Admininistrator";
 $locale['BLS_032'] = "Dato";
 $locale['BLS_033'] = "Valg";
-$locale['BLS_034'] = "Blacklist IP address";
+$locale['BLS_034'] = "Blacklist IP address: [STRONG]or[/STRONG]";
 $locale['BLS_035'] = "Blacklist email address";
 $locale['BLS_036'] = "Blacklist reason";
 $locale['BLS_037'] = "Blacklist user";
