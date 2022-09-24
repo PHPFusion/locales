@@ -39,7 +39,7 @@ $locale['blog_0417'] = "Ismeretlen hiba";
 // Blog form
 $locale['blog_0422'] = "Tárgy:";
 $locale['blog_0423'] = "Kategória:";
-$locale['blog_0424'] = "Nincs";
+$locale['blog_0424'] = "Nincs kategorizálva";
 $locale['blog_0425'] = "Bevezető:";
 $locale['blog_0425a'] = "Rövid leírás, bevezető";
 $locale['blog_0426'] = "Tartalom:";
@@ -52,7 +52,7 @@ $locale['blog_0431'] = "Mentés piszkozatként";
 $locale['blog_0432'] = "Blogbejegyzés főoldalra tétele";
 $locale['blog_0433'] = "Automatikus sortörés";
 $locale['blog_0434'] = "Hozzászólások engedélyezése";
-$locale['blog_0435'] = "Szavazás engedélyezése";
+$locale['blog_0435'] = "Értékelés engedélyezése";
 $locale['blog_0437'] = "Mentés";
 $locale['blog_0438'] = "Vázlat";
 $locale['blog_0439'] = "Blog kép:";
@@ -74,11 +74,11 @@ $locale['blog_0524b'] = "Blog kategória törölve";
 // Blog Categories form
 $locale['blog_0530'] = "Kategória neve:";
 $locale['blog_0531'] = "Kategória képe:";
-$locale['blog_0532'] = "Kategória mentése";
+$locale['blog_0532'] = "Mentés";
 $locale['blog_0533'] = "Főkategória:";
 $locale['blog_0535'] = "Nincs Blog kategória létrehozva";
 $locale['blog_0536'] = "Kattints ide új kategória kép feltöltéséhez.";
-$locale['blog_0537'] = "Kategória";
+$locale['blog_0537'] = "Főkategória";
 $locale['blog_0538'] = "Bájt (bájt)";
 $locale['blog_0539'] = "KB (Kilobájt)";
 $locale['blog_0540'] = "MB (Megabájt)";
@@ -90,8 +90,7 @@ $locale['blog_0561'] = "Ez a kategória már létezik.";
 // Popup Error/Warning Messages
 $locale['blog_0450'] = "Adj meg új címet";
 $locale['blog_0451'] = "Törlöd ezt a blogot?";
-$locale['blog_0452'] = "%s minden elem esetében tiltva van.
-Ez a beállítás csak akkor lép életbe, ha újból engedélyezve lesz.";
+$locale['blog_0452'] = "%s tiltva.<br/>Ez a beállítás akkor érhető el, ha újra engedélyezik.";
 $locale['blog_0456'] = 'Ebben a kategóriában nincs blog.';
 $locale['blog_0457'] = "Nem adtál meg kulcsszavakat";
 $locale['blog_0461'] = 'Nincs Blog kategória definiálva.';
@@ -100,14 +99,14 @@ $locale['blog_0458'] = "Szűrés:";
 $locale['blog_0459'] = "Szűrés kategóriák szerint";
 $locale['blog_0460'] = "Minden bejegyzés";
 //Alignment
-$locale['left'] = "Bal";
-$locale['center'] = "Közép";
-$locale['right'] = "Jobb";
+$locale['left'] = "Balra";
+$locale['center'] = "Középen";
+$locale['right'] = "Jobbra";
 $locale['blog_0600'] = "Beküldések";
 $locale['blog_0601'] = "Beküldés képe";
 $locale['blog_0602'] = "Bővített blog szükséges?";
 // Public Submissions Form
-$locale['blog_0700'] = "Blog küldése";
+$locale['blog_0700'] = "Blog beküldése";
 $locale['blog_0701'] = "Köszönjük a beküldést.";
 $locale['blog_0702'] = "Új blog beküldése";
 $locale['blog_0703'] = "Blog beküldésére használd az alábbi űrlapot. A blog csak akkor kerül ki az oldalra,
