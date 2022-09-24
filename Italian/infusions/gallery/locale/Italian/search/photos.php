@@ -1,9 +1,9 @@
 <?php
 $locale['photos.php'] = "Photo Gallery";
-$locale['p400'] = "Foto";
+$locale['p400'] = "Immagini";
 $locale['p401'] = "Immagine";
-$locale['p402'] = "Foto";
+$locale['p402'] = "Immagini";
 $locale['p403'] = "[NUOVO]";
 $locale['p404'] = "Album:";
 $locale['p405'] = "Data inserimento:";
-$locale['p406'] = "Views:";
+$locale['p406'] = "Visualizzazioni:";
