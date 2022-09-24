@@ -31,6 +31,6 @@ $locale['POLL_060'] = "Votos:";
 $locale['POLL_063'] = "Archivo";
 $locale['POLL_064'] = "Estado:";
 $locale['POLL_065'] = "Inactivo";
-$locale['POLL_067'] = "Activo";
+$locale['POLL_067'] = "Activa";
 $locale['POLL_069'] = "Por favor ingrese su pregunta.";
 $locale['POLL_070'] = "Introduzca la respuesta.";
