@@ -2,7 +2,7 @@
 $locale['SB_add'] = "New shout";
 $locale['SB_admin1'] = "Shoutbox admin";
 $locale['SB_archive'] = "Shoutbox archive";
-$locale['SB_days'] = "days";
+$locale['SB_days'] = "дні(дзён)";
 $locale['SB_delete_old'] = "Delete shouts older than";
 $locale['SB_delete_shouts'] = "Delete shouts";
 $locale['SB_desc'] = "Shoutbox panel";
@@ -14,7 +14,7 @@ $locale['SB_lang'] = "Language";
 $locale['SB_login_req'] = "You must login to post a message.";
 $locale['SB_message'] = "Message";
 $locale['SB_name'] = "Name";
-$locale['SB_reply'] = "Reply";
+$locale['SB_reply'] = "Адказаць";
 $locale['SB_reply_to'] = "Reply to:";
 $locale['SB_no_msgs'] = "No messages have been posted.";
 $locale['SB_noentries'] = "There are no shouts selected";
