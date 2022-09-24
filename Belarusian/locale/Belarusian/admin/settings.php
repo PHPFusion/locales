@@ -85,11 +85,11 @@ $locale['admins_558'] = "Enable terms of agreement?";
 $locale['admins_559'] = "Terms of Agreement";
 
 // Other Settings
-$locale['admins_601'] = "Thumb size:";
-$locale['admins_602'] = "Photo size:";
-$locale['admins_603'] = "Maximum photo size:";
-$locale['admins_604'] = "Width x Height";
-$locale['admins_605'] = "Maximum file size (bytes):";
+$locale['admins_601'] = "Памер мініяцюры:";
+$locale['admins_602'] = "Памер фатаграфіі:";
+$locale['admins_603'] = "Максімальны памер фатаграфіі:";
+$locale['admins_604'] = "шырыня x вышыня";
+$locale['admins_605'] = "Максімальны памер файла:";
 $locale['admins_606'] = "Thumb compression method";
 $locale['admins_607'] = "GD1";
 $locale['admins_608'] = "GD2";
@@ -169,8 +169,8 @@ $locale['admins_694'] = "Allow PHP Execution";
 $locale['admins_695'] = "WARNING! Allowing PHP execution will open the system to SQL vulnerabilities.";
 $locale['admins_696'] = "Please enter your public and private reCAPTCHA key!";
 
-$locale['admins_955'] = "Original";
-$locale['admins_956'] = "Square";
+$locale['admins_955'] = "Як у арыгінала";
+$locale['admins_956'] = "Квадратныя";
 
 $locale['admins_698'] = "SMTP Authentication?";
 $locale['admins_699'] = "Login method";
@@ -230,7 +230,7 @@ $locale['admins_1005'] = "Response before deactivation action:";
 $locale['admins_1006'] = "Number of days to respond to deactivation notification email.";
 $locale['admins_1007'] = "User Profile Settings";
 $locale['admins_1008'] = "Avatar size:";
-$locale['admins_1009'] = "Width x Height";
+$locale['admins_1009'] = "шырыня x вышыня";
 $locale['admins_1010'] = "Maximum image size (bytes):";
 $locale['admins_1011'] = "Deactivation Action:";
 $locale['admins_1012'] = "Anonymize Users";
@@ -287,8 +287,8 @@ $locale['admins_security_008'] = "Form Tokens";
 $locale['admins_security_009'] = "Number of issued tokens for each form";
 $locale['admins_security_010'] = "Fusion GateWay";
 $locale['admins_security_011'] = "GateWay Method";
-$locale['admins_security_012'] = "Words";
-$locale['admins_security_013'] = "Numbers";
+$locale['admins_security_012'] = "Дайце адказ літарамі";
+$locale['admins_security_013'] = "Дайце адказ лічбамі";
 $locale['admins_security_014'] = "Both";
 $locale['admins_security_015'] = "Error logging";
 $locale['admins_security_016'] = "Error logging method";
