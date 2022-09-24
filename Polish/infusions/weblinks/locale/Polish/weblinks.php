@@ -1,6 +1,6 @@
 <?php
 // Overview
-$locale['web_0000'] = "Katalog stron";
+$locale['web_0000'] = "Linki";
 $locale['web_0001'] = "Wszystkie linki";
 $locale['fmt_open'] = "otwórz|otwórz";
 // Sorting
