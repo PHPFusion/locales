@@ -54,14 +54,14 @@ $locale['gallery_0102'] = "Odoslať inú fotografiu";
 $locale['gallery_0107'] = "Použite nasledujúci formulár na odoslanie fotky.<br/>Váš príspevok bude posúdený administrátorom.
 [SITENAME] si vyhradzuje právo zmeniť alebo upraviť akýkoľvek príspevok.
 Fotografie by sa mali vzťahovať na obsah tejto stránky. Nevhodné príspevky budú odstránené.";
-$locale['gallery_0111'] = "Pridať fotku";
+$locale['gallery_0111'] = "Odoslať fotku";
 $locale['gallery_0112'] = "Ospravedlňujeme sa, momentálne na týchto stránkach neprijímame odosielanie nových fotografií.";
 $locale['gallery_0113'] = "Späť na [SITENAME]";
 $locale['gallery_0150'] = "Momentálne nie sú žiadne fotografie na schválenie";
 $locale['gallery_0151'] = "Momentálne %s čakajú na vašu kontrolu.";
 $locale['gallery_0152'] = "Predmet príspevku na schválenie";
 $locale['gallery_0153'] = "Autor príspevku";
-$locale['gallery_0154'] = "Dátum odoslania";
+$locale['gallery_0154'] = "Čas príspevku";
 $locale['gallery_0155'] = "ID príspevku";
 $locale['gallery_0156'] = "Uvedená fotka bola odoslaná od";
 $locale['gallery_0157'] = "Pridané od";
