@@ -36,12 +36,12 @@ $locale['462'] = "gesamter Text";
 //No results
 $locale['500'] = "Keine Treffer gefunden.";
 $locale['501'] = "Der Suchbegriff muss mindestens 3 Zeichen lang sein.";
-$locale['502'] = "Suchbegriffe mit weniger als 3 Zeichen (%s) werden in der Suche ignoriert.";
+$locale['502'] = "Such zeichen folgen mit weniger als drei Zeichen (%s) werden bei der Suche ignoriert.";
 //Global search
-$locale['510'] = "&Uuml;bereinstimmungen in der globalen Suche";
+$locale['510'] = "übereinstimmungen in der globalen Seiten-Suche";
 //
-$locale['520'] = "&Uuml;bereinstimmung";
-$locale['521'] = "&Uuml;bereinstimmungen";
-$locale['522'] = "passend f&uuml;r die Suchkriterien.";
+$locale['520'] = "übereinstimmung";
+$locale['521'] = "übereinstimmungen";
+$locale['522'] = "passende Suchkriterien gefunden";
 //more than 100 results
-$locale['530'] = "Entschuldigung! Es wurden insgesamt %s Ergebnise gefunden! Bitte &uuml;berarbeite deine Suchkriterien. Wir zeigen dir nur die Top 100 Ergebnise an.";
+$locale['530'] = "Bitte seien Sie bei Ihrer Anfrage genauer. Ihre Abfrage gibt %s Ergebnisse zurück. Wir zeigen nur 100 Top-Ergebnisse";
