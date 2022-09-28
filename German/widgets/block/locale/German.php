@@ -13,4 +13,4 @@ $locale['BLKW_0218'] = "Blockränder und Abstände";
 $locale['BLKW_0219'] = "Block Margin";
 $locale['BLKW_0220'] = "Block Padding";
 $locale['BLKW_0221'] = "Block speichern";
-$locale['BLKW_0222'] = "Speichern und schliessen";
+$locale['BLKW_0222'] = "Block Speichern und schliessen";
