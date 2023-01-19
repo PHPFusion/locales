@@ -1,14 +1,14 @@
 <?php
-$locale['c100'] = "Comments";
-$locale['c101'] = "No Comments have been Posted.";
-$locale['c102'] = "Post Comment";
-$locale['c103'] = "Update Comment";
-$locale['c104'] = "Name:";
-$locale['c105'] = "Please Login to Post a Comment.";
-$locale['c106'] = "Manage Comments";
-$locale['c107'] = " Disable smileys in this comment";
-$locale['c110'] = "Delete this Comment?";
-$locale['c111'] = "Leave a Comment";
-$locale['c112'] = "Reply";
-$locale['c113'] = "Title";
-$locale['c114'] = "Comments have been updated";
+$locale['c100'] = "Komen";
+$locale['c101'] = "Belum ada komen dihantar.";
+$locale['c102'] = "Hantar komen";
+$locale['c103'] = "Kemas Kinikan Komen";
+$locale['c104'] = "Nama:";
+$locale['c105'] = "Sila login untuk hantar komen.";
+$locale['c106'] = "Urusan Komen";
+$locale['c107'] = " Jangan mengguna Smileys di komen ini";
+$locale['c110'] = "Padam komen ini?";
+$locale['c111'] = "Tinggalkan pesanan";
+$locale['c112'] = "Maklumbalas";
+$locale['c113'] = "Tajuk";
+$locale['c114'] = "Komen telah dikemaskinikan";

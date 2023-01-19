@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Der er ikke fundet nogen resultater';
 
 $locale['deprecated_section'] = 'Dette afsnit er udfaset. Vi anbefaler det ikke længere og planlægger at fjerne det snart.';
 $locale['new_update_avalaible'] = "En ny [LINK]PHPFusion v[VERSION] updatering[/LINK] er tilgængelig. Venligst opdater!";
+$locale['infusions_updates_avalaible'] = "Opdateringer til infusioner er tilgængelige.";
+$locale['update_now'] = "Opdater nu";
+$locale['unactivated_users'] = "Der er flere ikke-aktiverede brugere i databasen. [LINK]Klik her[/LINK] for at se dem og aktivere dem.";

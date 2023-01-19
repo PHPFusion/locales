@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Bu Web Sitesinin Yönetimiyle İlgili Tartışmalar
 $locale['forum_tag_0200'] = "Etiket Başlığı";
 $locale['forum_tag_0201'] = "Etiket Açıklaması";
 $locale['forum_tag_0202'] = "Etiket Rengi";
+$locale['forum_tag_0202a'] = "Etiket Simgesi";
 $locale['forum_tag_0203'] = "Etiket Dili";
 $locale['forum_tag_0204'] = "Etiket Durumu";
 $locale['forum_tag_0205'] = "Bu Etiket Aktif";

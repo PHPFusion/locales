@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "DK"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "da"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "da"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "da"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "da"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "da"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "da"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "da"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "da"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "da"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "da"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "da"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "da"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "da"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "da"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Januar|Februar|Marts|April|Maj|Juni|Juli|August|September|Oktober|November|December";
@@ -108,7 +108,7 @@ $locale['global_031'] = "Ingen artikler tilgængelige";
 // Downloads Side panel
 $locale['global_032'] = "Seneste downloads";
 $locale['global_033'] = "Der er ikke oprettet downloads";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Velkommen";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Senest aktive debatforumtråde";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Log ud som bruger";
 $locale['UM098'] = "Indbakke:";
 $locale['UM099'] = "Udbakke:";
 $locale['UM100'] = "Arkiv:";
-
 // Keywords and Meta
 $locale['tags'] = "Tags";
 // Captcha
@@ -252,9 +251,6 @@ $locale['global_182'] = "Administratorkodeord er ikke angivet eller ukorrekt.";
 $locale['global_183'] = "Din log ind session er udløbet. Vær sød at logge ind igen.";
 $locale['global_184'] = "Du er nu logget ind som %s";
 $locale['global_185'] = "Du er nu skiftet tilbage til din egen konto.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Vedligeholdelsestilstand er aktiveret";
 $locale['global_191'] = "Din IP-adresse er aktuelt udelukket.";
@@ -266,13 +262,13 @@ $locale['global_196'] = "Ugyldigt brugernavn eller adgangskode.";
 $locale['global_197'] = "Vent et øjeblik, mens vi overfører dig ... <br/>[ [LINK]Eller klik her, hvis du ikke ønsker at vente[/LINK] ]";
 $locale['global_198'] = "Advarsel: INSTALLATIONSPROGRAMMERNE ER IKKE SLETTET. SLET FILEN install.php MED DET SAMME!";
 $locale['global_199'] = "Advarsel: administratorkodeord er ikke oprettet. Klik på [LINK]Rediger profil[/LINK] for at oprette det.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Søg";
 $locale['global_203'] = "FAQ";
 $locale['global_204'] = "Debatforum";
-//Themes
+// Themes
 $locale['global_210'] = "Spring til indhold";
 $locale['global_300'] = "intet tema fundet";
 $locale['global_301'] = "Vi beklager meget, men siden kan ikke vises. Af ukendte årsager kan sidens tema ikke findes. Hvis du er administrator på siden, så brug din FTP-klient til at uploade et tema designet til brug i forbindelse med PHPFusion version 9 til folderen themes/. Efter at du har gjort det, skal du se
@@ -297,8 +293,6 @@ $locale['global_409'] = "Denne konto er blevet udelukket af sikkerhedsårsager."
 $locale['global_410'] = "Begrundelsen er: ";
 $locale['global_411'] = "Denne konto er blevet lukket.";
 $locale['global_412'] = "Denne konto er blevet anonymiseret, sandsynligvis på grund af manglende aktivitet.";
-$locale['global_413'] = "Brugernavn er tilgængeligt";
-$locale['global_414'] = "Brugernavn ikke tilgængeligt";
 // Flood control
 $locale['global_440'] = "Automatisk udelukkelse via Flood Control";
 $locale['global_441'] = "Din konto på [SITENAME] er blevet udelukket";
@@ -328,7 +322,7 @@ $locale['global_459'] = "Der er oprettet et nyt kodeord for USER_NAME, og der bl
 // Function parsebytesize()
 $locale['global_460'] = "Tom";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Vi sender dig videre til %s, vent venligst. Hvis du ikke bliver sendt videre, så klik her.";
 // Captcha Locales
 $locale['global_600'] = "Sikkerhedskode";
@@ -336,10 +330,10 @@ $locale['global_601'] = "Du skal angive en korrekt sikkerhedskode";
 $locale['recaptcha'] = "da";
 // Site links
 $locale['global_700'] = "Vis mere";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Ude af stand til at konvertere HEX til DEC";
 $locale['global_901'] = "Indsæt medie";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Sprog:";
 $locale['global_ML101'] = "- Vælg sprog -";
 $locale['global_ML102'] = "Sidens sprog";
@@ -376,6 +370,8 @@ $locale['joined'] = "Tilmeldt siden: ";
 $locale['next'] = "Næste";
 $locale['previous'] = "Forrige";
 $locale['back'] = "Tilbage";
+$locale['first'] = "Først";
+$locale['last'] = "Sidst";
 $locale['forward'] = "Frem";
 $locale['go'] = "Gå";
 $locale['cancel'] = "Annuller";
@@ -390,6 +386,8 @@ $locale['add'] = "Tilføj";
 $locale['save'] = "Gem";
 $locale['save_changes'] = "Gem ændringer";
 $locale['save_and_close'] = "Gem og luk";
+$locale['save_settings'] = "Gem indstillinger";
+$locale['settings_updated'] = "Opsætning er opdateret";
 $locale['confirm'] = "Bekræft";
 $locale['update'] = "Opdater";
 $locale['updated'] = "Opdateret";
@@ -407,6 +405,7 @@ $locale['hide'] = "Skjul";
 $locale['actions'] = "Handlinger";
 $locale['language'] = "Sprog";
 $locale['loading'] = "Indlæser ...";
+$locale['options'] = "Valgmuligheder";
 // Persons & Identifiers
 $locale['you'] = "Dig";
 $locale['me'] = "Mig";
@@ -416,7 +415,7 @@ $locale['us'] = "Os";
 $locale['he'] = "Ham";
 $locale['she'] = "Hende";
 $locale['it'] = "Den";
-//Tables
+// Tables
 $locale['order'] = "Rækkefølge";
 $locale['sort'] = "Sorter";
 $locale['id'] = "ID";
@@ -458,8 +457,13 @@ $locale['close'] = "Luk";
 $locale['nopreview'] = "Der er intet at vise";
 $locale['mark_as'] = "Markér som";
 $locale['preview'] = "Vis";
+$locale['unpreview'] = "Skjul forhåndsvisning";
 $locale['custom'] = "Tilpas";
 $locale['submit'] = "Foreslå";
+$locale['submissions'] = "Brugerforslag";
+$locale['submit_access'] = "Adgang til Indsend side";
+$locale['categories'] = "Kategorier";
+$locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "Venstre";
 $locale['center'] = "Midt i";
@@ -473,6 +477,16 @@ $locale['about'] = "Om";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Maks. filstørrelse %s / Tilladte filtyper %s";
+// DataTables
+$locale['processing_locale'] = "Vent venligst, mens der arbejdes ...";
+$locale['menu_locale'] = "Vis _MENU_ poster pr. side"; // Don't translate _MENU_
+$locale['zero_locale'] = "Intet fundet - desværre";
+$locale['result_locale'] = "Viser side _PAGE_ af _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "Ingen poster tilgængelige";
+$locale['filter_locale'] = "(Filtreret fra _MAX_ samlede poster)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Søg i poster";
 // Timer
 $locale['timer_year'] = "år|år";
 $locale['timer_month'] = "måned|måneder";

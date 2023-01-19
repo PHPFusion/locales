@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Beszélgetések kezelése az oldalon.";
 $locale['forum_tag_0200'] = "Címke címe";
 $locale['forum_tag_0201'] = "Címke megjegyzés";
 $locale['forum_tag_0202'] = "Címke színe";
+$locale['forum_tag_0202a'] = "Címke Ikon";
 $locale['forum_tag_0203'] = "Címke nyelve";
 $locale['forum_tag_0204'] = "Címke Státusz";
 $locale['forum_tag_0205'] = "Aktív címke";

@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Обсуждения, касающиеся упра
 $locale['forum_tag_0200'] = "Заголовок тега";
 $locale['forum_tag_0201'] = "Описание тега";
 $locale['forum_tag_0202'] = "Цвет тега";
+$locale['forum_tag_0202a'] = "Иконка тега";
 $locale['forum_tag_0203'] = "Язык тега";
 $locale['forum_tag_0204'] = "Статус тега";
 $locale['forum_tag_0205'] = "Этот тег активен";

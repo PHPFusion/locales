@@ -1,17 +1,26 @@
 <?php
 // Comments titles
-$locale['400'] = "Redigera kommentarer";
-$locale['401'] = "Kommentarer";
+$locale['C_400'] = "Redigera kommentarer";
+$locale['C_401'] = "Kommentarer";
 // Comments messages
-$locale['410'] = "Kommentaren har uppdaterats";
-$locale['411'] = "Kommentar borttagen";
+$locale['C_410'] = "Kommentarer";
+$locale['C_411'] = "Redigera";
+$locale['C_412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
-$locale['420'] = "Inaktivera smileys i denna kommentar";
-$locale['421'] = "Spara kommentar";
+$locale['C_420'] = "Inaktivera smileys i den h";
+$locale['C_421'] = "Spara kommentar";
 // Comments
-$locale['431'] = "Radera & Banna";
-$locale['432'] = "Användar IP:";
-$locale['433'] = "Ta bort den här kommentaren?";
-$locale['434'] = "Det finns inga kommentarer.";
-$locale['435'] = "Vill du verkligen lägga till den här användaren till en svartlistan?";
-$locale['436'] = "Din kommentar är svartlistad.";
+$locale['C_431'] = "Delete & Ban";
+$locale['C_432'] = "Användar IP:";
+$locale['C_433'] = "Ta bort den här kommentaren?";
+$locale['C_434'] = "Det finns inga kommentarer.";
+$locale['C_435'] = "Do you really want to add this user to a blacklist?";
+$locale['C_436'] = "Blacklisted comment.";
+// Settings
+$locale['C_440'] = "Aktivera kommentarssystemet?";
+$locale['C_441'] = "Tillåt gäster att posta?";
+$locale['C_442'] = "Aktivera avatar i kommentarer?";
+$locale['C_443'] = "Kommentarer per sida";
+$locale['C_444'] = "Sortering av kommentarer";
+$locale['C_445'] = "Stigande";
+$locale['C_446'] = "Fallande";

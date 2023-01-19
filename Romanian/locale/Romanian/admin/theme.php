@@ -6,11 +6,12 @@ $locale['theme_1003'] = "&#206;nc&#259;rcat&#259;";
 $locale['theme_1004'] = "&#206;ncarc&#259;";
 $locale['theme_1005'] = "Administrare tematic&#259;";
 $locale['theme_1006'] = "Tematica curent&#259;";
-$locale['theme_1007'] = "&#206;ncarc&#259; fi&#351;ier tematic&#259;";
+
 $locale['theme_1008'] = "&#206;ncarc&#259; tematic&#259;";
 $locale['theme_1009'] = "Stiluri tematic&#259;";
 $locale['theme_1010'] = "Tematicile actuale";
-$locale['theme_1011'] = "&#206;ncarc&#259; o nou&#259; tematic&#259;";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Seteaz&#259; ca activ&#259;";
 $locale['theme_1013'] = "Licen&#355;&#259;:";
 $locale['theme_1014'] = "Versiune:";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Varia&#355;ie vertical&#259;";
 $locale['theme_5011'] = "Varia&#355;ie radial&#259;";
 $locale['theme_5012'] = "Varia&#355;ie diagonal&#259;";
 $locale['theme_5013'] = "Salveaz&#259; preset&#259;rile";
-$locale['theme_success_001'] = "Tematica a fost &#238;nc&#259;rcat&#259; &#238;n directorul themes";
+
 $locale['theme_success_002'] = "Preset&#259;ri tematic&#259; &#351;terse";
 $locale['theme_success_003'] = "Preset&#259;ri tematic&#259; actualizate";
 $locale['theme_success_004'] = "Presetare tematic&#259; ad&#259;ugat&#259;";
 
-$locale['theme_error_001'] = "Pachetul tematicii este prea mare. Te rog &#238;ncarc&#259; un fi&#351;ier mai mic dec&#226;t %s";
-$locale['theme_error_002'] = "Pachetul tematicii nu este valid. Te rog adaug&#259; tematici cu extensia .zip";
-$locale['theme_error_003'] = "Eroare necunoscut&#259;";
-$locale['theme_error_004'] = "Fi&#351;ierul tematicii nu a fost &#238;nc&#259;rcat pe server";
-$locale['theme_error_005'] = "Verificarea fi&#351;ierului a e&#351;uat. Te rog extrage arhiva &#351;i &#238;ncarc&#259; manual prin FTP";
-$locale['theme_error_006'] = "Serverul t&#259;u nu suport&#259; ZipArchive. Te rog extrage arhiva &#351;i &#238;ncarc&#259; manual prin FTP";
 $locale['theme_error_007'] = "Tematica nu a putut fi reconstruit&#259; din urm&#259;torul motiv(e): - Variabilele nu au fost setate sau formularul are o eroare";
 $locale['theme_error_008'] = "Eroare compilare. Tematica nu a fost actualizat&#259;.";
-$locale['theme_error_009'] = "Fi&#351;ierul theme.php nu a fost g&#259;sit.";

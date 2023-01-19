@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Loaded";
 $locale['theme_1004'] = "Carica";
 $locale['theme_1005'] = "Il gestore di tema";
 $locale['theme_1006'] = "Tema attivo corrente";
-$locale['theme_1007'] = "File Upload tema ZIP";
+
 $locale['theme_1008'] = "Tema caricare";
 $locale['theme_1009'] = "Tema Styling";
 $locale['theme_1010'] = "Attuale temi";
-$locale['theme_1011'] = "Carica il nuovo tema";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Imposta come attivo";
 $locale['theme_1013'] = " licenza:";
 $locale['theme_1014'] = "Versione";
@@ -133,17 +134,10 @@ $locale['theme_5010'] = "Pendenza verticale";
 $locale['theme_5011'] = "Sfumatura radiale";
 $locale['theme_5012'] = "Diagonale pendenza";
 $locale['theme_5013'] = "Save Preset";
-$locale['theme_success_001'] = "Il tema è stato caricato nella cartella tema";
+
 $locale['theme_success_002'] = "Tema preset cancellato";
 $locale['theme_success_003'] = "Tema preset aggiornato";
 $locale['theme_success_004'] = "Tema preset aggiunto con successo";
 
-$locale['theme_error_001'] = "tema del pacchetto è troppo grande. Si prega di caricare file minori di %s";
-$locale['theme_error_002'] = "tema del pacchetto non è valido. Si prega solo comprimere temi utilizzando l'estensione di file zip";
-$locale['theme_error_003'] = "Errore sconosciuto Upload";
-$locale['theme_error_004'] = "file di tema è non stato essere caricato dal server";
-$locale['theme_error_005'] = "il file Impossibile da verificare. Si prega di estrarre lo zip e fare lupload di un FTP manuale";
-$locale['theme_error_006'] = "il server non supporta il ZipArchive. Si prega di estrarre lo zip e fare l'upload di un FTP manuale";
 $locale['theme_error_007'] = "tema non può ricostruire per i seguenti motivi: - non sono state impostate le variabili o forma è ha errore";
 $locale['theme_error_008'] = "errore del compilatore. Tema non è stato aggiornato. ";
-$locale['theme_error_009'] = "File theme.php was not found.";

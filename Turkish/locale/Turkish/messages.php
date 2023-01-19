@@ -130,6 +130,7 @@ $locale['628'] = "Özel Mesaj gönderilemedi. Alıcının gelen kutusu dolu.";
 $locale['629'] = "Seçilen mesajlar maksimum mesaj sınırını aşacağı için belirtilen klasöre taşıyamazsınız.";
 $locale['630'] = " Mesaj Sınırı";
 $locale['631'] = "Bu mesaj Bot tarafından otomatik olarak gönderilmiştir ve herhangi bir cevap gerektirmez.";
+$locale['632'] = "Sistem";
 
 $locale['700'] = "Kullanıcı gelen kutusu doldu. Silmeyi deneyin veya 102 veya 103 durumuna yükseltin.";
 $locale['701'] = "Gönderen kullanıcı kimliği DB'de mevcut değil. Dizi İptal Oldu.";

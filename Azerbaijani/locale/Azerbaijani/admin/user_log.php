@@ -1,0 +1,21 @@
+<?php
+$locale['UL_001'] = "User Log";
+$locale['UL_002'] = "Date";
+$locale['UL_003'] = "User Name";
+$locale['UL_004'] = "User Field";
+$locale['UL_005'] = "%d gündən yuxarı bütün girişlər silinir.";
+$locale['UL_006'] = "İstifadəçi giriş qeydləri silindi";
+$locale['UL_007'] = "İstifadəçi Emaili";
+$locale['UL_008'] = "Sırala:";
+$locale['UL_009'] = "İstifadəçi adı / İstifadəçi ID:";
+$locale['UL_010'] = "User Field:";
+$locale['UL_011'] = "Submit";
+$locale['UL_012'] = "Old Value";
+$locale['UL_013'] = "New Value";
+$locale['UL_014'] = "Options";
+$locale['UL_015'] = "Hal-hazırda girişlər mövcud deyil.";
+$locale['UL_016'] = "Keçmiş daxil olanları silin:";
+$locale['UL_017'] = "Days";
+$locale['UL_018'] = "Ascending";
+$locale['UL_019'] = "Descending";
+$locale['UL_020'] = "Select All";

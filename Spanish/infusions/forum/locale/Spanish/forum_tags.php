@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Debates sobre la gestión de este sitio web";
 $locale['forum_tag_0200'] = "Título de la etiqueta";
 $locale['forum_tag_0201'] = "Descripción de la etiqueta";
 $locale['forum_tag_0202'] = "Color de etiqueta";
+$locale['forum_tag_0202a'] = "Tag Icon";
 $locale['forum_tag_0203'] = "Lenguaje de etiquetas";
 $locale['forum_tag_0204'] = "Estado de etiqueta";
 $locale['forum_tag_0205'] = "Esta etiqueta está activa";

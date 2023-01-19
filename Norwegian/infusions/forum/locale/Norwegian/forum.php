@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Bekreft Forum Valg";
 $locale['forum_0397'] = "Det er ingen forum definert.";
 $locale['forum_0398'] = "Kan ikke laste ned filen";
 $locale['forum_0399'] = "Add Bounty";
-
 $locale['forum_0400'] = "Thread bounty has been updated. Please be sure to select the answer to be awarded with the bounty";
 
 $locale['forum_0500'] = "Forhåndsvis Tråd";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "Thread bounty not awarded";
 $locale['forum_4110'] = "Thread bounty cannot be given to yourself.";
 $locale['forum_4120'] = "There are no forum ID or thread id defined. Please define either one.";
 $locale['forum_4121'] = "There are no activity in this forum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 Dag";
 $locale['forum_p002'] = "2 Dager";

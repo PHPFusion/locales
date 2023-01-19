@@ -14,4 +14,4 @@ var pwstrength_locale = {
     medium: 'Média',
     strong: 'Forte',
     veryStrong: 'Muito Forte'
-}
+};

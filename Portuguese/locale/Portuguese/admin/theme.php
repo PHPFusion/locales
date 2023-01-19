@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Carregado";
 $locale['theme_1004'] = "Carregar";
 $locale['theme_1005'] = "Gerir tema";
 $locale['theme_1006'] = "Tema Activo actual";
-$locale['theme_1007'] = "Upload de arquivo ZIP do tema";
+
 $locale['theme_1008'] = "Enviar Tema";
 $locale['theme_1009'] = "Estilo do Texto";
 $locale['theme_1010'] = "Temas Actuais";
-$locale['theme_1011'] = "Enviar Novo Tema";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Definir como Activo";
 $locale['theme_1013'] = "Licença:";
 $locale['theme_1014'] = "Versão";
@@ -95,7 +96,7 @@ $locale['theme_3017'] = "Estado de Realce";
 $locale['theme_3018'] = "Estado Activo";
 $locale['theme_3019'] = "Cor do Fundo de Realce";
 $locale['theme_3020'] = "Cor de Fundo Activo";
-$locale['theme_3021'] = "Info";
+$locale['theme_3021'] = "Informação";
 $locale['theme_3022'] = "Sucesso";
 $locale['theme_3023'] = "Atenção";
 $locale['theme_3024'] = "Perigo";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Gradiente Vertical";
 $locale['theme_5011'] = "Gradiente Radial";
 $locale['theme_5012'] = "Gradiente Diagonal";
 $locale['theme_5013'] = "Salvar Predefinição";
-$locale['theme_success_001'] = "O tema foi carregado para a sua pasta de temas";
+
 $locale['theme_success_002'] = "Predefinições de tema apagadas";
 $locale['theme_success_003'] = "Predefinições de tema actualizadas";
 $locale['theme_success_004'] = "Predefinições de tema adicionadas com sucesso";
 
-$locale['theme_error_001'] = "O pacote do tema é muito grande. Por favor, faça upload de ficheiros menores que %s";
-$locale['theme_error_002'] = "O pacote do tema não é válido. Por favor, compacte apenas temas usando a extensão do ficheiro .zip";
-$locale['theme_error_003'] = "Erro de Upload Desconhecido";
-$locale['theme_error_004'] = "O Ficheiro de tema não estava a ser carregado pelo servidor";
-$locale['theme_error_005'] = "O ficheiro não foi verificado. Por favor, extraia o zip e faça um upload manual via FTP";
-$locale['theme_error_006'] = "Seu servidor não suporta ZipArchive. Por favor, extraia o zip e faça um upload manual via FTP";
 $locale['theme_error_007'] = "O tema não pode ser reconstruído devido ao seguinte motivo(s): - As variáveis não foram definidas ou o formulário tem erro(s)";
 $locale['theme_error_008'] = "Erro de compilador. O tema não foi actualizado.";
-$locale['theme_error_009'] = "O ficheiro theme.php não foi encontrado.";

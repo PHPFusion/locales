@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Результаты не найдены';
 
 $locale['deprecated_section'] = 'Этот раздел устарел. Мы больше не рекомендуем его и планируем вскоре удалить.';
 $locale['new_update_avalaible'] = "Доступно новое обновление [LINK]PHPFusion v[VERSION][/LINK]. Пожалуйста, обновите!";
+$locale['infusions_updates_avalaible'] = "Доступны обновления для плагинов.";
+$locale['update_now'] = "Обновить сейчас";
+$locale['unactivated_users'] = "В базе данных есть несколько неактивированных пользователей. [LINK]Нажмите здесь[/LINK] для просмотра и активации.";

@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "BB-kode er blevet flyttet op.";
 $locale['BBCA_431'] = "BB-kode er blevet flyttet ned.";
 $locale['BBCA_432'] = "BB-kode er blevet aktiveret.";
 $locale['BBCA_433'] = "BB-kode er blevet deaktiveret.";
+$locale['BBCA_444'] = "BB-kode er blevet opdateret";
+$locale['BBCA_445'] = "BB-kode kunne ikke opdateres";
+
+$locale['BBCA_500'] = "Tilføj separator";
+$locale['BBCA_501'] = "Separator";
+$locale['BBCA_502'] = "Separator til gruppering af BBcode-knapper";

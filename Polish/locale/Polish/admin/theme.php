@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Załadowano";
 $locale['theme_1004'] = "Załaduj";
 $locale['theme_1005'] = "Zarządzaj motywem";
 $locale['theme_1006'] = "Aktualnie aktywny motyw";
-$locale['theme_1007'] = "Prześlij plik ZIP motywu";
+
 $locale['theme_1008'] = "Prześlij motyw";
 $locale['theme_1009'] = "Stylizacja motywu";
 $locale['theme_1010'] = "Bieżące motywy";
-$locale['theme_1011'] = "Prześlij nowy motyw";
+
+$locale['theme_1011a'] = "Motywy administracyjne";
 $locale['theme_1012'] = "Ustaw jako aktywny";
 $locale['theme_1013'] = "Licencja:";
 $locale['theme_1014'] = "Wersja";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Pionowy gradient";
 $locale['theme_5011'] = "Radialny gradient";
 $locale['theme_5012'] = "Przekątny gradient";
 $locale['theme_5013'] = "Zapisz preset";
-$locale['theme_success_001'] = "Motyw został przesłany do Twojego folderu motywu";
+
 $locale['theme_success_002'] = "Usunięto presety motywu";
 $locale['theme_success_003'] = "Zaktualizowano presety motywu";
 $locale['theme_success_004'] = "Pomyślnie dodano presety motywu";
 
-$locale['theme_error_001'] = "Paczka motywu jest zbyt duża. Proszę przesłać pliki mniejsze niż %s";
-$locale['theme_error_002'] = "Paczka motywu nie jest prawidłowa. Proszę kompresować motywy tylko za pomocą rozszerzenia pliku .zip";
-$locale['theme_error_003'] = "Nieznany błąd wysyłania";
-$locale['theme_error_004'] = "Plik motywu nie został przesłany przez serwer";
-$locale['theme_error_005'] = "Plik nie został zweryfikowany. Rozpakuj zip i prześlij ręczne używając FTP";
-$locale['theme_error_006'] = "Twój serwer nie obsługuje archiwum Zip. Rozpakuj zip i prześlij ręczne używając FTP";
 $locale['theme_error_007'] = "Motyw nie może przebudować z następującego/ych powodu/ów: - Zmienne nie zostały ustawione lub formularz ma błąd";
 $locale['theme_error_008'] = "Błąd kompilatora. Motyw nie został zaktualizowany.";
-$locale['theme_error_009'] = "Nie znaleziono pliku theme.php.";

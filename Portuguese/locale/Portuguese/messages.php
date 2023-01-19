@@ -130,6 +130,7 @@ $locale['628'] = "Não foi possível enviar a Mensagem Privada. A caixa de entra
 $locale['629'] = "Você não pode mover a mensagem(s) selecionada para a pasta especificada, pois ela excederá o limite máximo de mensagem.";
 $locale['630'] = " Limite de Mensagens";
 $locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
+$locale['632'] = "System";
 
 $locale['700'] = "A caixa de entrada está cheia. Tente apagá-la ou atualizá-la para o status 102 ou 103";
 $locale['701'] = "O ID de usuário do remetente não existe na DB. Sequência cancelada.";

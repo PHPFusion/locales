@@ -16,3 +16,4 @@ $locale['news_0016'] = "Nu exist&#259; categorii de &#351;tiri definite.";
 $locale['news_0017'] = "Filtreaz&#259; dup&#259;";
 $locale['news_0018'] = "Arat&#259; toate &#351;tirile";
 $locale['news_0019'] = "Galerie &#351;tiri";
+$locale['news_0020'] = "Most Read News";

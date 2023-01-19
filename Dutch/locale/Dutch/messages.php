@@ -130,6 +130,7 @@ $locale['628'] = "Niet in staat het priv&eacute; bericht te versturen. Het postv
 $locale['629'] = "U kunt het geselecteerde bericht/de geselecteerde berichten niet naar het aangegeven postvak verplaatsen, omdat daarmee het maximale aantal berichten in dat postvak zou worden overschreden.";
 $locale['630'] = " Berichtenlimiet";
 $locale['631'] = "Dit bericht werd automatisch verzonden door Bot en heeft geen reactie nodig.";
+$locale['632'] = "Systeem";
 
 $locale['700'] = "Gebruiker inbox is vol. Probeer inhoud te verwijderen of te upgraden naar 102 of 103 status";
 $locale['701'] = "Afzender gebruiker-ID bestaat niet in DB. Sequence afgebroken.";

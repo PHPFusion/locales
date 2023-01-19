@@ -1,27 +1,27 @@
 <?php
-$locale['BLS_000'] = "Juodasis sąrašas"; //406
+$locale['BLS_000'] = "Juodasis sąrašas";
 //Blacklist message
 $locale['BLS_010'] = "Blogas el. paštas arba IP adresas.";
 $locale['BLS_011'] = "Vartotojų įtraukimas į juodąjį sąrašą.";
 $locale['BLS_012'] = "Vartotojo modifikuotas juodasis sąrašas.";
-$locale['BLS_013'] = "Vartotojas ištrintas iš juodojo sąrašo"; //401
+$locale['BLS_013'] = "Vartotojas ištrintas iš juodojo sąrašo";
 $locale['BLS_014'] = "Ar tikrai norite ištrinti šį įrašą?";
-$locale['BLS_015'] = "Šiuo metu juodasis sąrašas tuščias."; //465
-$locale['BLS_016'] = "El. paštas blogai įvestas"; //405
+$locale['BLS_015'] = "Šiuo metu juodasis sąrašas tuščias.";
+$locale['BLS_016'] = "El. paštas blogai įvestas";
 
-$locale['BLS_020'] = "Įtraukti vartotoją į juodąjį sąrašą"; //420
-$locale['BLS_021'] = "Redaguoti narį, esantį Juodąjame sąraše"; //421
+$locale['BLS_020'] = "Įtraukti vartotoją į juodąjį sąrašą";
+$locale['BLS_021'] = "Redaguoti narį, esantį Juodąjame sąraše";
 $locale['BLS_022'] = "Įtraukti vartotoją";
 $locale['BLS_023'] = "Rodoma %d iš %d visų įrašų.";
 
-$locale['BLS_030'] = "Juodojo sąrašo info"; //461
-$locale['BLS_031'] = "Administratorius"; //467
-$locale['BLS_032'] = "Data";  //468
-$locale['BLS_033'] = "Nustatymai"; //462
-$locale['BLS_034'] = "Uždrausti IP adresą: [STRONG]arba[/STRONG]"; //441
-$locale['BLS_035'] = "Uždrausti el. pašto adresą"; //442
-$locale['BLS_036'] = "Uždraudimo motyvas"; //443
-$locale['BLS_037'] = "Uždrausti vartotoją";  //444
+$locale['BLS_030'] = "Juodojo sąrašo info";
+$locale['BLS_031'] = "Administratorius";
+$locale['BLS_032'] = "Data";
+$locale['BLS_033'] = "Nustatymai";
+$locale['BLS_034'] = "Uždrausti IP adresą: [STRONG]arba[/STRONG]";
+$locale['BLS_035'] = "Uždrausti el. pašto adresą";
+$locale['BLS_036'] = "Uždraudimo motyvas";
+$locale['BLS_037'] = "Uždrausti vartotoją";
 $locale['BLS_038'] = "Atnaujinti";
 $locale['BLS_039'] = "Select All";
 
@@ -43,4 +43,4 @@ Galite įrašyti pilną adresą, pvz.: <em>123@on.lt</em>, arba el. pašto domai
 %@domain.tld blokuoja bet kokį adresą iš domain.tld<br />
 %.domain.tld blokuoja visus subdomenus iš domain.tld<br />
 %payday% blokuoja visus adresus, kuriuose yra žodis \"payday\".<br />
-"; //440
+";

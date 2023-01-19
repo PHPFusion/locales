@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Istnieje %s podkategoria/i w tej kategorii";
 $locale['fields_0601'] = "Istnieje %s pole/pól w tej kategorii";
 $locale['fields_0602'] = "Tego modułu nie można zainstalować. Brak informacji o kolumnie tabeli.";
 
-$locale['fields_0650'] = "Przenieś pola ";
-$locale['fields_0651'] = " Przenieś pozycję w górę i identyfikator pola [FIELD_ID] przenieś na dół.";
-$locale['fields_0652'] = " Przenieś pozycję w dół i identyfikator pola [FIELD_ID] przenieś w górę.";
 $locale['fields_0653'] = "Brak wyniku";
-$locale['fields_0654'] = "Usuń pole";
-$locale['fields_0655'] = "ID kategorii nie zostało znalezione. Proszę sprawdzić ponownie.";
-$locale['fields_0656'] = "ID kategorii nie zostało znalezione. Proszę sprawdzić ponownie.";
-$locale['fields_0657'] = "ustaw do ładowania.";
-$locale['fields_0658'] = " załadowano.";
+
 $locale['fields_0659'] = "brakujące ustawienia regionalne!";
 $locale['fields_0660'] = "Nie znaleziono modułów";
-$locale['fields_0661'] = "Tryb aktualizacji";
-$locale['fields_0662'] = "Tryb oszczędzania";
+
 $locale['fields_0663'] = "Nazwa tabeli";
-$locale['fields_0664'] = "Stara tabela informacji -";
-$locale['fields_0665'] = "Nowa tabela informacji -";
-$locale['fields_0666'] = "Fork nr 1 - Aktualizuj pole w innej tabeli";
-$locale['fields_0667'] = "Konflikt kolumny. Kolumny na [OLD_TABLE] istnieją w ";
-$locale['fields_0668'] = "Fork nr 2 - Aktualizuj pole w tej samej tabeli";
-$locale['fields_0669'] = "Zmiana nazwy kolumny [FIELD_NAME] w [OLD_TABLE] na [FIELD_NAME_] z atrybutami";
-$locale['fields_0670'] = "Stare dane";
 $locale['fields_0671'] = "Twoja tabela musi być prawidłową tabelą. Kolumna musi być kolumną identyfikatora użytkownika w tej tabeli.";

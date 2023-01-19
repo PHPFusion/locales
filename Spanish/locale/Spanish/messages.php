@@ -129,6 +129,7 @@ $locale['628'] = "No se ha podido enviar el mensaje privado. La bandeja de entra
 $locale['629'] = "No se pueden mover los mensajes seleccionados a la carpeta indicada, ya que se excedería el límite máximo de mensajes.";
 $locale['630'] = " Límite de Mensajes";
 $locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
+$locale['632'] = "System";
 
 $locale['700'] = "La bandeja de entrada del usuario está llena. Intente eliminarlo o actualizarlo al estado 102 o 103";
 $locale['701'] = "El ID de usuario del remitente no existe en el DB. Secuencia Abortada.";

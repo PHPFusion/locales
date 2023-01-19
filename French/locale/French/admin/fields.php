@@ -119,10 +119,10 @@ $locale['fields_0507'] = "Couleur ";
 $locale['fields_0508'] = "Fichier";
 $locale['fields_0509'] = "Caché";
 $locale['fields_0510'] = "Adresse";
-$locale['fields_0511'] = "Tags";
+$locale['fields_0511'] = "Mots-clés";
 $locale['fields_0512'] = "Emplacement";
 $locale['fields_0513'] = "Nombre";
-$locale['fields_0514'] = "Email";
+$locale['fields_0514'] = "Adresse email";
 $locale['fields_0515'] = "Url Web";
 $locale['fields_0516'] = "Contact Number";
 
@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Il y a %s sous-catégorie(s) dans cette catégorie";
 $locale['fields_0601'] = "Il y a %s champ(s) dans cette catégorie";
 $locale['fields_0602'] = "Ce module ne peut pas être installé. Les informations de colonne de la table sont manquantes.";
 
-$locale['fields_0650'] = "Déplacer ID de champ ";
-$locale['fields_0651'] = " Monter un emplacement et le champ ID [FIELD_ID] vers le bas d'un emplacement.";
-$locale['fields_0652'] = " Descendre un emplacement et ID de champ [FIELD_ID] vers le haut un emplacement.";
 $locale['fields_0653'] = "Aucun résultat";
-$locale['fields_0654'] = "Supprimer les champs";
-$locale['fields_0655'] = "Cat ID n'a pas été trouvé. Veuillez vérifier à nouveau.";
-$locale['fields_0656'] = "L'ID de la catégorie n'a pas été trouvé. Veuillez vérifier à nouveau.";
-$locale['fields_0657'] = " défini pour le chargement.";
-$locale['fields_0658'] = " chargé.";
+
 $locale['fields_0659'] = " locale manquante !";
 $locale['fields_0660'] = "Aucun module trouvé";
-$locale['fields_0661'] = "Mode de mise à jour";
-$locale['fields_0662'] = "Mode d'enregistrement";
+
 $locale['fields_0663'] = "Nom de la table";
-$locale['fields_0664'] = "Ancienne information de table -";
-$locale['fields_0665'] = "Nouvelles informations de la table -";
-$locale['fields_0666'] = "Fork No.1 - Mettre à jour le champ dans une table différente";
-$locale['fields_0667'] = "Conflit de colonnes. Il y a des colonnes sur [OLD_TABLE] qui existaient dans ";
-$locale['fields_0668'] = "Fork No.2 - Mettre à jour le champ sur la même table";
-$locale['fields_0669'] = "Renommer la colonne [FIELD_NAME] sur [OLD_TABLE] en [FIELD_NAME_] avec des attributs de ";
-$locale['fields_0670'] = "Anciennes données";
 $locale['fields_0671'] = "Votre table doit être une table valide. Votre colonne doit être une colonne d'un identifiant utilisateur dans cette table.";

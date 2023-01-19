@@ -93,6 +93,7 @@ $locale['gallery_0220'] = "إعدادات الصور";
 $locale['gallery_0221'] = "إعدادات معرض الصور";
 $locale['gallery_0222'] = "العرض";
 $locale['gallery_0223'] = "الطول";
+$locale['gallery_0224'] = "عرض أحدث صورة كصورة مصغرة للألبوم";
 $locale['photo_0001'] = "عنوان الصورة";
 $locale['photo_0002'] = "إسم الصورة";
 $locale['photo_0003'] = "ألبوم الصور";

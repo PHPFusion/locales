@@ -14,4 +14,4 @@ var pwstrength_locale = {
     medium: 'Vidutiniškas',
     strong: 'Striprus',
     veryStrong: 'Labai stiprus'
-}
+};

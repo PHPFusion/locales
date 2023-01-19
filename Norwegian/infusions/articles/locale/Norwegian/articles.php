@@ -13,3 +13,4 @@ $locale['article_0041'] = "Listevisning";
 $locale['article_0060'] = "Ingen artikkelskategiroer definert.";
 $locale['article_0061'] = "Ingen artikler definert.";
 $locale['article_0062'] = "Det er ingen artikler i denne kategorien.";
+$locale['article_0063'] = "Most Read";

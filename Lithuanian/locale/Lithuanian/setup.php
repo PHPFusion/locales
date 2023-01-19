@@ -8,7 +8,7 @@ $locale['setup_0007'] = "Sistemos su instaliuota OPcache privalo turėti <a href
 $locale['setup_5000'] = "Norėdami naudotis PHPFusion, turite perskaityti ir sutikti su sąlygomis</a>.";
 $locale['setup_0010'] = "Dabartinė versija - ";
 $locale['setup_0011'] = "lt";
-$locale['setup_0012'] = "utf-8";
+$locale['setup_0012'] = "UTF-8";
 $locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHPFusion atnaujinimas";
 $locale['setup_0022'] = "Sveiki atvykę į PHPFusion atnaujinimų tarnybą";
@@ -308,14 +308,7 @@ $locale['setup_3650'] = "Sveiki atvykę į savo tinklapį!";
 $locale['setup_1700'] = "Setup is Complete";
 $locale['setup_1701'] = "PHPFusion 9 is now ready for use. Click Finish to rewrite your config_temp.php file to config.php<br/>";
 $locale['setup_1702'] = "<strong>Note: After you enter your site you should delete /install.php file and chmod your config.php back to 0644 for security reasons.</strong>";
-$locale['setup_1703'] = "Thank you for choosing PHPFusion.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%y-%m-%d";
-$locale['setup_3701'] = "%Y %B %d %H:%M:%S";
-$locale['setup_3702'] = "%Y-%m-%d %H:%M";
-$locale['setup_3703'] = "%Y %B %d";
-$locale['setup_3704'] = "%Y  %B %d %H:%M:%S";
+$locale['setup_1703'] = "Dėkojame, kad pasirinkote PHPFusion.";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "El. laiškų ruošiniai";

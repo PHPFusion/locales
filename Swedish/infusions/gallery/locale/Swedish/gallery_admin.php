@@ -93,6 +93,7 @@ $locale['gallery_0220'] = "Bildinställningar";
 $locale['gallery_0221'] = "Konfiguration för Galleribilder";
 $locale['gallery_0222'] = "Bredd";
 $locale['gallery_0223'] = "Höjd";
+$locale['gallery_0224'] = "Display latest photo as album thumbnail";
 $locale['photo_0001'] = "Titel";
 $locale['photo_0002'] = "Namn";
 $locale['photo_0003'] = "Album";

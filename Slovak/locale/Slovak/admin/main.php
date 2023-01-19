@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Neboli nájdené žiadne výsledky';
 
 $locale['deprecated_section'] = 'Táto sekcia je zastaraná. Už ju neodporúčame a plánujeme ju čoskoro odstrániť.';
 $locale['new_update_avalaible'] = "K dispozícii je nová aktualizácia [LINK]PHPFusion v[VERSION][/LINK]. Aktualizujte prosím!";
+$locale['infusions_updates_avalaible'] = "Sú dostupné aktualizácie pre infúzie.";
+$locale['update_now'] = "Aktualizovať teraz";
+$locale['unactivated_users'] = "V databáze je niekoľko neaktivovaných užívateľov. [LINK]Kliknutím sem[/LINK] ich zobrazíte a aktivujete.";

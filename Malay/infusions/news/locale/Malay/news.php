@@ -16,3 +16,4 @@ $locale['news_0016'] = "Tiada kategori ditakrifkan.";
 $locale['news_0017'] = "Tapis dengan";
 $locale['news_0018'] = "Tunjukkan semua berita";
 $locale['news_0019'] = "News Gallery";
+$locale['news_0020'] = "Most Read News";

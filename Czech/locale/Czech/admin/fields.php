@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Existují %s podkategorií v této kategorii";
 $locale['fields_0601'] = "Existují %s pole v této kategorii";
 $locale['fields_0602'] = "Tento modul nelze nainstalovat. Chybí informace o sloupcích tabulky.";
 
-$locale['fields_0650'] = "Přesunout ID pole ";
-$locale['fields_0651'] = " Zadejte slot a ID pole [FIELD_ID] dolů.";
-$locale['fields_0652'] = " Dole a slot a pole ID [FIELD_ID] nahoru slot.";
 $locale['fields_0653'] = "Žádný výsledek";
-$locale['fields_0654'] = "Odstranit pole";
-$locale['fields_0655'] = "ID kočky nebylo nalezeno. Zkontrolujte prosím znovu.";
-$locale['fields_0656'] = "ID kategorie nebylo nalezeno. Zkontrolujte prosím znovu.";
-$locale['fields_0657'] = " nastavit na načtení.";
-$locale['fields_0658'] = " načteno.";
+
 $locale['fields_0659'] = " chybí lokalizace!";
 $locale['fields_0660'] = "Nebyly nalezeny žádné moduly";
-$locale['fields_0661'] = "Režim aktualizace";
-$locale['fields_0662'] = "Uložit režim";
+
 $locale['fields_0663'] = "Název tabulky";
-$locale['fields_0664'] = "Staré informace o tabulce -";
-$locale['fields_0665'] = "Nové informace o tabulce -";
-$locale['fields_0666'] = "Vidlice č.1 - Aktualizační pole na jiné tabulce";
-$locale['fields_0667'] = "Konflikt sloupců. Ve sloupcích [OLD_TABLE] existují sloupce ";
-$locale['fields_0668'] = "Vidlice č.2 - Aktualizovat pole na stejné tabulce";
-$locale['fields_0669'] = "Přejmenovat sloupec [FIELD_NAME] na [OLD_TABLE] na [FIELD_NAME_] s atributy ";
-$locale['fields_0670'] = "Staré údaje";
 $locale['fields_0671'] = "Vaša tabuľka musí být platná tabulka. Váš sloupec musí být sloupcom Id uživatele v této tabulce.";

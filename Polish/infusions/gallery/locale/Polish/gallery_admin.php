@@ -91,6 +91,7 @@ $locale['gallery_0220'] = "Ustawienia zdjęcia";
 $locale['gallery_0221'] = "Konfiguracja zdjęć galerii";
 $locale['gallery_0222'] = "Szerokość";
 $locale['gallery_0223'] = "Wysokość";
+$locale['gallery_0224'] = "Wyświetlaj najnowsze zdjęcie jako miniaturę albumu";
 $locale['photo_0001'] = "Tytuł zdjęcia";
 $locale['photo_0002'] = "Nazwa zdjęcia";
 $locale['photo_0003'] = "Album zdjęć";

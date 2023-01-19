@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Patvirtinti forumo pasirinkimą";
 $locale['forum_0397'] = "Nėra priskirtų forumų.";
 $locale['forum_0398'] = "Nepavyksta atsiųsti failo";
 $locale['forum_0399'] = "Pridėti atlygį";
-
 $locale['forum_0400'] = "Temos atlygis buvo atnaujintas. Pasirinkite atsakymą, kuriam bus suteiktas atlygis";
 
 $locale['forum_0500'] = "Peržiūrėti temą";
@@ -250,7 +249,7 @@ $locale['forum_0592'] = "Išvalyti temas";
 $locale['forum_0593'] = "Išvalyti prikabintus failus";
 $locale['forum_0595'] = "Išvalyti apklausas";
 $locale['forum_0596'] = "Klausimas";
-$locale['forum_0597'] = "Question|Questions";
+$locale['forum_0597'] = "Klausimas|Klausimai";
 
 $locale['forum_0601'] = "Žinutė";
 $locale['forum_0602'] = "Nustatymai";
@@ -345,6 +344,9 @@ $locale['forum_4109'] = "Temos atlygis neskirtas";
 $locale['forum_4110'] = "Temos atlygis negali būti skirtas Jums.";
 $locale['forum_4120'] = "Nėra nurodytas forumo arba temos ID. Prašome nurodyti bent vieną.";
 $locale['forum_4121'] = "There are no activity in this forum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 diena";
 $locale['forum_p002'] = "2 dienos";

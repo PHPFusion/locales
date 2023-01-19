@@ -93,6 +93,7 @@ $locale['gallery_0220'] = "Fotoğraf Ayarları";
 $locale['gallery_0221'] = "Albüm Fotoğrafları İçin Yapılandırma";
 $locale['gallery_0222'] = "Genişlik";
 $locale['gallery_0223'] = "Yükseklik";
+$locale['gallery_0224'] = "En son fotoğrafı albüm küçük resmi olarak göster";
 $locale['photo_0001'] = "Fotoğraf Başlığı";
 $locale['photo_0002'] = "Fotoğrafın Adı";
 $locale['photo_0003'] = "Fotoğraf Albümü";

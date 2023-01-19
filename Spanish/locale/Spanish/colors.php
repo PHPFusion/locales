@@ -3,7 +3,7 @@
 $locale['color_0'] = "Nulo";
 $locale['color_1'] = "Alice azul";
 $locale['color_2'] = "Blanco antiguo";
-$locale['color_3'] = "Aqua";
+$locale['color_3'] = "Agua";
 $locale['color_4'] = "Aguamarina";
 $locale['color_5'] = "Azul celeste";
 $locale['color_6'] = "Amarillento";

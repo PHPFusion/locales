@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'لم يتم العثور على نتائج';
 
 $locale['deprecated_section'] = 'هذا القسم مهجور. لم نعد نوصي به ونخطط لإزالته قريبا.';
 $locale['new_update_avalaible'] = "تحديث [LINK]PHPFusion v[VERSION] جديد[/LINK] متوفر . الرجاء التحديث!";
+$locale['infusions_updates_avalaible'] = "تحديثات للملحقات البرمجية هي متوفرة.";
+$locale['update_now'] = "قم بالتحديث الأن";
+$locale['unactivated_users'] = "هناك العديد من المستخدمين غير النشطين في قاعدة البيانات. [LINK]اضغط هنا[/LINK] لعرضهم وتنشيطهم.";

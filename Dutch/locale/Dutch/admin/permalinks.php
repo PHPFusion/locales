@@ -14,7 +14,7 @@ $locale['PL_404d'] = "Herinstalleer";
 
 // Editing Permalinks
 $locale['PL_405'] = "Wijzigen Permalinks voor %s";
-$locale['PL_406'] = "Tags";
+$locale['PL_406'] = "Labels";
 $locale['PL_407'] = "Beschrijving";
 $locale['PL_408'] = "Types";
 $locale['PL_409'] = "Wijzig patroon";

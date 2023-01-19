@@ -129,6 +129,7 @@ $locale['628'] = "Nem sikerült elküldeni az üzenetet. A fogadó postafiókja 
 $locale['629'] = "Nem helyezheted át a kijelölt üzeneteket, mert a másik mappa megtelt.";
 $locale['630'] = " üzenet limit";
 $locale['631'] = "Ez egy automatikus üzenet, nem kell rá válaszolni.";
+$locale['632'] = "Rendszer";
 
 $locale['700'] = "A postaláda megtelt. Próbáld törölni, vagy módosítani 102 vagy 103 a státuszát";
 $locale['701'] = "A Feladó felhasználó azonosítója nem létezik az adatbázisban. A szekvencia megszakítva.";

@@ -1,27 +1,27 @@
 <?php
-$locale['BLS_000'] = "Liste noire"; //406
+$locale['BLS_000'] = "Liste noire";
 //Blacklist message
 $locale['BLS_010'] = "E-mail ou adresse IP invalide.";
 $locale['BLS_011'] = "Ajout des utilisateurs à la liste noire.";
 $locale['BLS_012'] = "Liste noire d’utilisateur modifiée.";
-$locale['BLS_013'] = "Utilisateur supprimé de la liste noire"; //401
+$locale['BLS_013'] = "Utilisateur supprimé de la liste noire";
 $locale['BLS_014'] = "Êtes-vous sûr de vouloir supprimer cette entrée ?";
-$locale['BLS_015'] = "La liste noire est actuellement vide."; //465
-$locale['BLS_016'] = "L'adresse e-mail de la liste noire n'est pas valide."; //405
+$locale['BLS_015'] = "La liste noire est actuellement vide.";
+$locale['BLS_016'] = "L'adresse e-mail de la liste noire n'est pas valide.";
 
-$locale['BLS_020'] = "Liste noire de l'utilisateur"; //420
-$locale['BLS_021'] = "Modifier un utilisateur de la liste noire"; //421
+$locale['BLS_020'] = "Liste noire de l'utilisateur";
+$locale['BLS_021'] = "Modifier un utilisateur de la liste noire";
 $locale['BLS_022'] = "Ajouter un utilisateur dans la liste noire";
 $locale['BLS_023'] = "Affichage actuel de %d entrées sur %d de la liste noire.";
 
-$locale['BLS_030'] = "Informations de la liste noire"; //461
-$locale['BLS_031'] = "Admin"; //467
-$locale['BLS_032'] = "Date ";  //468
-$locale['BLS_033'] = "Options"; //462
-$locale['BLS_034'] = "Adresse IP de la liste noire : [STRONG]ou[/STRONG]"; //441
-$locale['BLS_035'] = "Liste noire des adresses e-mail"; //442
-$locale['BLS_036'] = "Raison de la liste noire"; //443
-$locale['BLS_037'] = "Liste noire d'utilisateur";  //444
+$locale['BLS_030'] = "Informations de la liste noire";
+$locale['BLS_031'] = "Admin";
+$locale['BLS_032'] = "Date ";
+$locale['BLS_033'] = "Options";
+$locale['BLS_034'] = "Adresse IP de la liste noire : [STRONG]ou[/STRONG]";
+$locale['BLS_035'] = "Liste noire des adresses e-mail";
+$locale['BLS_036'] = "Raison de la liste noire";
+$locale['BLS_037'] = "Liste noire d'utilisateur";
 $locale['BLS_038'] = "Mise à jour";
 $locale['BLS_039'] = "Sélectionner tout";
 
@@ -42,4 +42,4 @@ Vous pouvez entrer une adresse e-mail complète. . <em>foo@bar.com</em>, ou un d
 %@domain.tld bannit toute adresse de domain.tld<br />
 %.domain.tld bannit tous les sous-domaines de domaine .tld<br />
 %payday% interdit toute adresse qui contient le mot \"payday\" qui était très souvent sur les sites.<br />
-domain.tld est un alias de %@domain.tld pour le rendre compatible avec les règles définies dans v7.<br />"; //440
+domain.tld est un alias de %@domain.tld pour le rendre compatible avec les règles définies dans v7.<br />";

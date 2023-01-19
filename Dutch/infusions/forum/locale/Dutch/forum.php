@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Forumselectie bevestigen";
 $locale['forum_0397'] = "Er zijn geen forums gedefinieerd.";
 $locale['forum_0398'] = "Kan bestand niet downloaden";
 $locale['forum_0399'] = "Premie toevoegen";
-
 $locale['forum_0400'] = "Onderwerp premiw is bijgewerkt. Zorg ervoor dat u het antwoord selecteert waaraan de premie moet worden toegekend";
 
 $locale['forum_0500'] = "Voorvertoning onderwerp";
@@ -345,6 +344,9 @@ $locale['forum_4109'] = "Onderwerp premie niet toegekend";
 $locale['forum_4110'] = "Onderwerp premie kan niet aan uzelf worden gegeven.";
 $locale['forum_4120'] = "Er is geen forum ID of onderwerp id gedefinieerd. Definieer er een.";
 $locale['forum_4121'] = "Er is geen activiteit in dit forum.";
+$locale['forum_4122'] = "Gefeliciteerd met het verdienen van premiepunten die gemaakt zijn op de vraag in {%thread_link%}.";
+$locale['forum_4123'] = "We willen u informeren dat het geselecteerde antwoord is toegekend met de premiepunten. U kunt het antwoord op uw premie {%link_start%}hier bekijken.{%link_end%}";
+$locale['forum_4124'] = "Deze discussie heeft een open premie";
 
 $locale['forum_p001'] = "1 dag";
 $locale['forum_p002'] = "2 dagen";

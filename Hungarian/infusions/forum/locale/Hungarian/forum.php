@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Fórum kijelölésének megerősítése";
 $locale['forum_0397'] = "Nincs létrehozva Fórum kategória.";
 $locale['forum_0398'] = "Nem sikerült letölteni a fájlt";
 $locale['forum_0399'] = "Bounty Hozzáadása";
-
 $locale['forum_0400'] = "A Bounty téma frissült. Kérjük, válassza ki az adható Bounty-t";
 
 $locale['forum_0500'] = "Fórumtéma előnézet";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "A témában nincs Bounty Díj";
 $locale['forum_4110'] = "A Bounty Díjat nem adhatod saját magadnak.";
 $locale['forum_4120'] = "Nincs fórum ID vagy téma id. Kérlek hozz létre egyet.";
 $locale['forum_4121'] = "Ebben a Témában nincs aktivitás.";
+$locale['forum_4122'] = "Gratulálunk a {%thread_link%} kérdésben kapott jutalompontok megszerzéséhez.";
+$locale['forum_4123'] = "Tájékoztatlak, hogy a kiválasztott választ jutalompontokkal jutalmazták. A jutalomra adott választ {%link_start%}itt tekintheted meg.{%link_end%}";
+$locale['forum_4124'] = "Ennek a kérdésnek nyitott jutalma van";
 
 $locale['forum_p001'] = "1 napja";
 $locale['forum_p002'] = "2 napja";

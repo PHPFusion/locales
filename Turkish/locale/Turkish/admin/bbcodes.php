@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "BB Kodu Yukarı Taşındı.";
 $locale['BBCA_431'] = "BB Kodu Aşağı Taşındı.";
 $locale['BBCA_432'] = "BB Kodu Etkinleştirildi.";
 $locale['BBCA_433'] = "BB Kodu Devre Dışı Bırakıldı.";
+$locale['BBCA_444'] = "BB Kodu güncellendi";
+$locale['BBCA_445'] = "BB Kodu güncelleme hatası";
+
+$locale['BBCA_500'] = "Ayırıcı ekle";
+$locale['BBCA_501'] = "Ayırıcı";
+$locale['BBCA_502'] = "BBcode düğmelerini gruplamak için ayırıcı";

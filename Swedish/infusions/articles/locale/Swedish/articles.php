@@ -13,3 +13,4 @@ $locale['article_0041'] = "Listvy";
 $locale['article_0060'] = "Det finns inga artikelkategorier.";
 $locale['article_0061'] = "Inga artiklar inlagda.";
 $locale['article_0062'] = "Det finns inga artiklar i denna kategori.";
+$locale['article_0063'] = "Most Read";

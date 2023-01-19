@@ -176,3 +176,8 @@ Pozdrawiamy,
 [SITEUSERNAME]
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Hasło musi zawierać co najmniej jeden znak specjalny";
+$locale['u301'] = "Hasło powinno zawierać co najmniej 1 wielką literę i 1 małą literę";
+$locale['u302'] = "Hasło musi zawierać co najmniej jedną liczbę";
+$locale['u303'] = "Hasło powinno składać się z co najmniej 8 znaków";

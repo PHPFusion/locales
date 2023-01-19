@@ -154,7 +154,7 @@ $locale['u191'] = "Įrašykite patvirtinimo kodą";
 $locale['u192'] = "Tinklapio taisyklės";
 $locale['u193'] = "Aš perskaičiau [LINK]Tinklapio taisykles ir sąlygas[/LINK] ir su jomis sutinku.";
 $locale['u193a'] = "Atnaujinta";
-$locale['u193b'] = "I agree";
+$locale['u193b'] = "Sutinku";
 $locale['u194'] = "Neteisingas patvirtinimo kodas.";
 $locale['u195'] = "Patvirtinimo kodo laukelis negali būt paliktas tuščias.";
 // E-mail Change Confirmation
@@ -175,3 +175,8 @@ Linkėjimai,
 [SITEUSERNAME]
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";

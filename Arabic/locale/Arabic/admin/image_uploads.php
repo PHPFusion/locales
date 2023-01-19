@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion مدير الملفات";
-
+$locale['IMGUP_100'] = "Fusion مدير الملفات";
 // Delete Image
-$locale['400'] = "حذف الصورة";
-$locale['401'] = "تم حذف الصورة";
-$locale['402'] = "العودة إلى صور الإدارة";
-$locale['403'] = "العودة إلى لوحة التحكم";
+$locale['IMGUP_400'] = "حذف الصورة";
+$locale['IMGUP_401'] = "تم حذف الصورة";
+$locale['IMGUP_402'] = "العودة إلى صور الإدارة";
+$locale['IMGUP_403'] = "العودة إلى لوحة التحكم";
 // Upload Image
-$locale['420'] = "تحميل الصور";
-$locale['421'] = "اسم الملف:";
-$locale['422'] = "الصور الأساسية";
-$locale['423'] = "صور المقال";
-$locale['424'] = "صور الأخبار";
-$locale['425'] = "حجم الملف المسموح به %s / أنواع الملفات المسموح بها .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "تم رفع الصورة";
-$locale['427'] = "صور تصنيفات الأخبار";
-$locale['428'] = "صور المدونة";
-$locale['429'] = "صور تصنيفات المدونة";
+$locale['IMGUP_420'] = "تحميل الصور";
+$locale['IMGUP_421'] = "اسم الملف:";
+$locale['IMGUP_422'] = "الصور الأساسية";
+$locale['IMGUP_423'] = "صور المقال";
+$locale['IMGUP_424'] = "صور الأخبار";
+$locale['IMGUP_425'] = "Max. file size %s / Allowed file types .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "تم رفع الصورة";
+$locale['IMGUP_427'] = "صور تصنيفات الأخبار";
+$locale['IMGUP_428'] = "صور المدونة";
+$locale['IMGUP_429'] = "صور تصنيفات المدونة";
 // View Image
-$locale['440'] = "عرض الصورة";
-$locale['441'] = "صيغة ملف غير معروفة , لا يمكن عرض الصورة.";
-$locale['442'] = "حذف هذه الصورة";
+$locale['IMGUP_440'] = "عرض الصورة";
+$locale['IMGUP_441'] = "صيغة ملف غير معروفة , لا يمكن عرض الصورة.";
+$locale['IMGUP_442'] = "حذف هذه الصورة";
 // Image Management
-$locale['460'] = "الصور";
-$locale['461'] = "عرض";
-$locale['463'] = "هذا المجلد فارغ";
-$locale['464'] = "تحديث قائمة صور محرر TinyMCE ";
+$locale['IMGUP_460'] = "الصور";
+$locale['IMGUP_461'] = "عرض";
+$locale['IMGUP_463'] = "هذا المجلد فارغ";
+$locale['IMGUP_464'] = "تحديث قائمة صور محرر TinyMCE ";
+$locale['IMGUP_465'] = "Image list updated";
 // Popup Error/Warning Messages
-$locale['470'] = "حذف هذه الصورة؟";
+$locale['IMGUP_470'] = "حذف هذه الصورة؟";

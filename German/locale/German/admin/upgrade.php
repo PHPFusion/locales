@@ -1,3 +1,21 @@
 <?php
-$locale['U_0000'] = "Upgrade";
-$locale['U_0001'] = "Keine Upgrades verfügbar";
+$locale['U_000'] = "Aktualisieren";
+$locale['U_001'] = "Bitte sichern Sie vor dem Update die Datenbank und die Dateien.";
+$locale['U_002'] = "Zuletzt am %s überprüft.";
+$locale['U_003'] = "Nochmal Überprüfen";
+$locale['U_004'] = "Ein neues Update ist verfügbar";
+$locale['U_005'] = "Konnte nicht nach Updates suchen!";
+$locale['U_006'] = "Kein Update verfügbar";
+$locale['U_007'] = "Sie können automatisch auf PHPFusion %s aktualisieren.";
+$locale['U_008'] = "Sie haben die neueste Version";
+$locale['U_009'] = "Wird heruntergeladen %s.";
+$locale['U_010'] = "Update auspacken.";
+$locale['U_011'] = "Dateien kopieren.";
+$locale['U_012'] = "Datenbank aktualisieren.";
+$locale['U_013'] = "Übersetzungen aktualisieren.";
+$locale['U_014'] = "PHPFusion erfolgreich aktualisiert.";
+$locale['U_015'] = "Das Update konnte nicht installiert werden. Bitte versuchen Sie es später erneut oder laden Sie das Update manuell herunter.";
+$locale['U_016'] = "Übersetzungen aktualisieren";
+$locale['U_017'] = "Die Übersetzungen wurden erfolgreich aktualisiert.";
+$locale['U_018'] = "Das Sprachpaket %s wird heruntergeladen."; // %s will be replaced with language name
+$locale['U_019'] = "Aktuelle Version：%s";

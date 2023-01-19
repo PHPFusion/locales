@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Henüz blog gönderilmemiş";
 $locale['blog_3001'] = "Kategori Yok";
 $locale['blog_3002'] = "Gönderi Yok";
 $locale['blog_3003'] = "Yazar yok";
+$locale['blog_3004'] = "En Çok Okunan Bloglar";
 $locale['testimonial_rank'] = "Ben bu web sitesinde %s rütbesindeyim";
 $locale['testimonial_location'] = "ve şuan %s içinde yaşıyorum";
 $locale['testimonial_join'] = "Bu web sitesine %s tarihinde katıldım";

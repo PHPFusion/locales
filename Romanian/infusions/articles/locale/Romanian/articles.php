@@ -13,3 +13,4 @@ $locale['article_0041'] = "Vizualizare ca list&#259;";
 $locale['article_0060'] = "Nu exist&#259; categorii de articole definite.";
 $locale['article_0061'] = "Nu exist&#259; articole definite.";
 $locale['article_0062'] = "Nu a fost ad&#259;ugat niciun articol &#238;n aceast&#259; categorie.";
+$locale['article_0063'] = "Cele mai citite";

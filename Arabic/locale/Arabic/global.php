@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "JO"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "ar"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "ar"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "ar"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "ar"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "ar"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "ar"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "ar"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "ar"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "ar"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "ar"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "ar"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "ar"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "ar"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "ar"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "rtl";
 // Full & Short Months
 $locale['months'] = "&nbsp;|كانون2|شباط|آذار|نيسان|أيار|حزيران|تموز|آب|أيلول|تشرين1|تشرين2|كانون1";
@@ -108,7 +108,7 @@ $locale['global_031'] = "لا توجد مقالات";
 // Downloads Side panel
 $locale['global_032'] = "أحدث الملفات";
 $locale['global_033'] = "لا توجد ملفات";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "مرحباً";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "أحدث موضوعات المنتديات النشطة";
@@ -231,7 +231,6 @@ $locale['UM103'] = "تسجيل خروجك كعضو";
 $locale['UM098'] = "صندوق الوارد :";
 $locale['UM099'] = "صندوق الصادر :";
 $locale['UM100'] = "أرشيف الرسائل :";
-
 // Keywords and Meta
 $locale['tags'] = "وسوم";
 // Captcha
@@ -252,9 +251,6 @@ $locale['global_182'] = "لم يتم إدخال كلمة المرور أو إن�
 $locale['global_183'] = "انتهت صلاحية جلسة تسجيل الدخول الخاصة بك. يرجى تسجيل الدخول مرة أخرى.";
 $locale['global_184'] = "أنت الآن مسجل دخولك كـ %s";
 $locale['global_185'] = "لقد تم الآن تحويلك مرة أخرى إلى حسابك.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "تم تنشيط وضع الصيانة";
 $locale['global_191'] = "تم حظر عنوان البروتوكول (IP) الخاص بك.";
@@ -266,13 +262,13 @@ $locale['global_196'] = "خطأ في إسم المستخدم أو كلمة ال�
 $locale['global_197'] = "الرجاء الانتظار حتى يتم نقلك ...<br/>[ [LINK]أو اضغط هنا إذا لم ترد الانتظار[/LINK] ]";
 $locale['global_198'] = "تحذير: العثور على ملف التنصيب, الرجاء حذف مجلد /INSTALL/ فوراً.";
 $locale['global_199'] = "تحذير: كلمة سر المدير العام لم تحدد بعد, اضغط [LINK]تعديل الملف الشخصي[/LINK] لإضافتها.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "البحث";
 $locale['global_203'] = "الأسئلة المتكررة";
 $locale['global_204'] = "المنتدى";
-//Themes
+// Themes
 $locale['global_210'] = "الانتقال إلى المحتوى";
 $locale['global_300'] = "لا يوجد قالب";
 $locale['global_301'] = "نأسف حقًا ولكن لا يمكن عرض هذه الصفحة. نظرًا لبعض الظروف ، لا يمكن العثور على سمة الموقع.
@@ -298,8 +294,6 @@ $locale['global_409'] = "تم حظر هذا الحساب لأسباب أمنية
 $locale['global_410'] = "السبب لهذا هو: ";
 $locale['global_411'] = "تم إلغاء هذا الحساب.";
 $locale['global_412'] = "تم وضع هذا الحساب بهيئة مخفية ربما لعدم وجود نشاط.";
-$locale['global_413'] = "اسم المستخدم متاح";
-$locale['global_414'] = "اسم المستخدم غير متاح";
 // Flood control
 $locale['global_440'] = "حظر ذاتي بسبب نظام مكافحة الإغراق";
 $locale['global_441'] = "تم حظر حسابك في [SITENAME] ";
@@ -332,7 +326,7 @@ $locale['global_459'] = "تم تغيير كلمة المرور الخاصة با
 // Function parsebytesize()
 $locale['global_460'] = "فارغ";
 $locale['global_461'] = "بايت";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "يتم نقلك إلى  %s، نرجو الإنتظار. إذا لم يتم نقلك، اضغط هنا.";
 // Captcha Locales
 $locale['global_600'] = "رمز التحقق";
@@ -340,10 +334,10 @@ $locale['global_601'] = "يجب عليك إدخال رمز التحقق الصح
 $locale['recaptcha'] = "ar";
 // Site links
 $locale['global_700'] = "عرض المزيد";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "لا يمكن التحويل من HEX إلى DEC";
 $locale['global_901'] = "إدراج وسائل الإعلام";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "اللغة:";
 $locale['global_ML101'] = "- اختيار لغة -";
 $locale['global_ML102'] = "لغة الموقع";
@@ -380,6 +374,8 @@ $locale['joined'] = "عضو منذ: ";
 $locale['next'] = "التالي";
 $locale['previous'] = "السابق";
 $locale['back'] = "رجوع";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "للأمام";
 $locale['go'] = "اذهب";
 $locale['cancel'] = "إلغاء";
@@ -394,6 +390,8 @@ $locale['add'] = "إضافة";
 $locale['save'] = "حفظ";
 $locale['save_changes'] = "حفظ التغييرات";
 $locale['save_and_close'] = "حفط واغلاق";
+$locale['save_settings'] = "حفظ الإعدادات";
+$locale['settings_updated'] = "تم تحديث الإعدادات بنجاح";
 $locale['confirm'] = "تطبيق";
 $locale['update'] = "التحديث";
 $locale['updated'] = "تم التحديث";
@@ -411,6 +409,7 @@ $locale['hide'] = "إخفاء";
 $locale['actions'] = "الإجراءات";
 $locale['language'] = "اللّغة";
 $locale['loading'] = "جاري التحميل...";
+$locale['options'] = "الخيارات";
 // Persons & Identifiers
 $locale['you'] = "أنت";
 $locale['me'] = "أنا";
@@ -420,7 +419,7 @@ $locale['us'] = "لنا";
 $locale['he'] = "هو";
 $locale['she'] = "هي";
 $locale['it'] = "هذا";
-//Tables
+// Tables
 $locale['order'] = "الترتيب";
 $locale['sort'] = "الفرز";
 $locale['id'] = "المعرّف";
@@ -462,8 +461,13 @@ $locale['close'] = "إغلاق";
 $locale['nopreview'] = "لا يوجد شيئ للمعاينة";
 $locale['mark_as'] = "وضع علامة";
 $locale['preview'] = "معاينة";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "تخصيص";
 $locale['submit'] = "إرسال";
+$locale['submissions'] = "الإرساليات";
+$locale['submit_access'] = "الوصول إلى صفحة الإرسال";
+$locale['categories'] = "التصنيفات";
+$locale['thumbnail'] = "الصورة المصغرة";
 // Alignment
 $locale['left'] = "يسار";
 $locale['center'] = "وسط";
@@ -477,6 +481,16 @@ $locale['about'] = "حول";
 // User status
 $locale['online'] = "متصل";
 $locale['offline'] = "غير مُتصل";
+// Misc
+$locale['max_fs_allowed_ft'] = "الحد الأقصى لحجم الملف %s / أنواع الملفات المسموحة %s";
+// DataTables
+$locale['processing_locale'] = "يرجى الانتظار بصبر أثناء المعالجة...";
+$locale['menu_locale'] = "عرض سجلات _MENU_ لكل صفحة"; // Don't translate _MENU_
+$locale['zero_locale'] = "لم يتم العثور على شيء - عذراً";
+$locale['result_locale'] = "عرض الصفحة _PAGE_ من _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "لا توجد سجلات متاحة";
+$locale['filter_locale'] = "(تمت التصفية من _MAX_ إجمالي السجلات)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "سجلات البحث";
 // Timer
 $locale['timer_year'] = "سنة|سنوات";
 $locale['timer_month'] = "شهر|أشهر";
@@ -484,7 +498,7 @@ $locale['timer_day'] = "يوم|أيام";
 $locale['timer_hour'] = "ساعة|ساعات";
 $locale['timer_minute'] = "دقيقة|دقائق";
 $locale['timer_second'] = "ثانية|ثواني";
-$locale['timer'] = "[DAYS] [AGO]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
+$locale['timer'] = "[AGO] [DAYS]"; // Don't translate text between []! Only change the order if you need [AGO] [DAYS].
 // Words for formatting to single and plural forms. Count of forms is language-dependent
 $locale['fmt_submission'] = "مشاركة|مشاركات";
 $locale['fmt_article'] = "مقال|مقالات";

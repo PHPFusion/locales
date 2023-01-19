@@ -14,7 +14,7 @@ $locale['PL_404d'] = "Reinstall";
 
 // Editing Permalinks
 $locale['PL_405'] = "Editing Permalinks for %s";
-$locale['PL_406'] = "Tags";
+$locale['PL_406'] = "Etiquetas";
 $locale['PL_407'] = "Description";
 $locale['PL_408'] = "Types";
 $locale['PL_409'] = "Edit Pattern";

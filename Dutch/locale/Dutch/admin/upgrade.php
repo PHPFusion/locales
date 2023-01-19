@@ -1,3 +1,21 @@
 <?php
-$locale['U_0000'] = "Upgrade";
-$locale['U_0001'] = "Er is geen Database upgrade beschikbaar";
+$locale['U_000'] = "Upgrade";
+$locale['U_001'] = "Maak een reservekopie van de database en bestanden voor het updaten.";
+$locale['U_002'] = "Laatst gecontroleerd op %s.";
+$locale['U_003'] = "Opnieuw controleren";
+$locale['U_004'] = "Er is een nieuwe update beschikbaar";
+$locale['U_005'] = "Kon niet controleren op updates!";
+$locale['U_006'] = "Geen update beschikbaar";
+$locale['U_007'] = "U kunt automatisch bijwerken naar PHPFusion %s.";
+$locale['U_008'] = "De huidige versie is up-to-date";
+$locale['U_009'] = "Downloaden %s.";
+$locale['U_010'] = "Update uitpakken.";
+$locale['U_011'] = "Bestanden kopiëren.";
+$locale['U_012'] = "Database bijwerken.";
+$locale['U_013'] = "Vertalingen bijwerken.";
+$locale['U_014'] = "PHPFusion is succesvol bijgewerkt.";
+$locale['U_015'] = "De update kon niet worden geïnstalleerd. Probeer het later opnieuw of download de update handmatig.";
+$locale['U_016'] = "Vertalingen bijwerken";
+$locale['U_017'] = "De vertalingen zijn succesvol bijgewerkt.";
+$locale['U_018'] = "Taalbestand %s downloaden."; // %s will be replaced with language name
+$locale['U_019'] = "Huidige versie: %s";

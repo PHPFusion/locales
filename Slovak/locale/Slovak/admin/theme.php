@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Načítaný";
 $locale['theme_1004'] = "Načítať";
 $locale['theme_1005'] = "Spravovať tému";
 $locale['theme_1006'] = "Aktuálna aktívna téma";
-$locale['theme_1007'] = "Nahrať ZIP súbor témy";
+
 $locale['theme_1008'] = "Nahrať tému";
 $locale['theme_1009'] = "Štylovanie témy";
 $locale['theme_1010'] = "Aktuálne témy";
-$locale['theme_1011'] = "Nahrať novú tému";
+
+$locale['theme_1011a'] = "Admin témy";
 $locale['theme_1012'] = "Nastaviť ako aktívnu";
 $locale['theme_1013'] = "Licencia:";
 $locale['theme_1014'] = "Verzia";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Vertical Gradient";
 $locale['theme_5011'] = "Radial Gradient";
 $locale['theme_5012'] = "Diagonal Gradient";
 $locale['theme_5013'] = "Uložiť predvoľbu";
-$locale['theme_success_001'] = "Téma bola nahratá do priečinka tém";
+
 $locale['theme_success_002'] = "Predvoľby témy boli odstránené";
 $locale['theme_success_003'] = "Predvoľby témy boli aktualizované";
 $locale['theme_success_004'] = "Predvoľby témy boli úspešne pridané";
 
-$locale['theme_error_001'] = "Balík témy je príliš veľký. Nahrajte súbor menší ako %s";
-$locale['theme_error_002'] = "Balík témy nie je platný. Témy komprimujte iba pomocou prípony súboru .zip";
-$locale['theme_error_003'] = "Neznáma chyba pri nahrávaní";
-$locale['theme_error_004'] = "Súbor témy nebol odovzdaný serverom";
-$locale['theme_error_005'] = "Súbor sa nepodarilo overiť. Prosím extrahujte zip a manuálne nahrajte cez FTP";
-$locale['theme_error_006'] = "Váš server nepodporuje ZipArchive. Prosím extrahujte zip a manuálne nahrajte cez FTP";
 $locale['theme_error_007'] = "Téma nie je možné prerobiť z nasledujúcich dôvodov: - premenné neboli nastavené alebo chyba formulára";
 $locale['theme_error_008'] = "Chyba kompilátora. Téma nebola aktualizovaná.";
-$locale['theme_error_009'] = "Súbor theme.php nebol nájdený.";

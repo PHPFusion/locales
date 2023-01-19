@@ -12,6 +12,7 @@ $locale['blog_3000'] = "Дописи відсутні";
 $locale['blog_3001'] = "Розділи відсутні";
 $locale['blog_3002'] = "Дописи відсутні";
 $locale['blog_3003'] = "Автори відсутні";
+$locale['blog_3004'] = "Most Read Blogs";
 $locale['testimonial_rank'] = "Я %s цього сайту";
 $locale['testimonial_location'] = " і на даний час проживаю в %s";
 $locale['testimonial_join'] = "Мене зареєстровано на цьому сайті %s";

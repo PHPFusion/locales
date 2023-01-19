@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Potvrďte výběr fóra";
 $locale['forum_0397'] = "Nejsou definovány žádné fórum.";
 $locale['forum_0398'] = "Nelze stáhnout soubor";
 $locale['forum_0399'] = "Přidat bounty";
-
 $locale['forum_0400'] = "Bounty vlákna byla aktualizována. Nezapomeňte vybrat odpověď, která vám bude udělena s odměnou";
 
 $locale['forum_0500'] = "Náhled tématu";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "Bounty vlákna nebyla udělena";
 $locale['forum_4110'] = "Nemůžeme vám dát odměnu.";
 $locale['forum_4120'] = "Neexistuje ID fóra ani ID vlákna definované. Určete jeden z nich.";
 $locale['forum_4121'] = "Na tomto fóru není žádná aktivita.";
+$locale['forum_4122'] = "Gratulujeme za získání bodů z otázky v {%thread_link%}.";
+$locale['forum_4123'] = "Chtěli bychom vás informovat, že vybraná odpověď získala odměnu. Odpověď si můžete prohlédnout {%link_start%}zde.{%link_end%}";
+$locale['forum_4124'] = "Toto vlákno má otevřenou odměnu";
 
 $locale['forum_p001'] = "1 den";
 $locale['forum_p002'] = "2 dny";

@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Discussies over het beheer van deze website";
 $locale['forum_tag_0200'] = "Label titel";
 $locale['forum_tag_0201'] = "Label Beschrijving";
 $locale['forum_tag_0202'] = "Label kleur";
+$locale['forum_tag_0202a'] = "Tag pictogram";
 $locale['forum_tag_0203'] = "Label taal";
 $locale['forum_tag_0204'] = "Label status";
 $locale['forum_tag_0205'] = "Dit label is actief";

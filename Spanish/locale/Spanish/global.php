@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "ES"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "es"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "es"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "es"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "es"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "es"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "es"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "es-es"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "es"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "es"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "es"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "es"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "es"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "es-es"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "es"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre";
@@ -20,8 +20,8 @@ $locale['year'] = "año";
 $locale['year_a'] = "años";
 $locale['month'] = "mes";
 $locale['month_a'] = "meses";
-$locale['week'] = "week";
-$locale['week_a'] = "weeks";
+$locale['week'] = "semana";
+$locale['week_a'] = "semanas";
 $locale['day'] = "dia";
 $locale['day_a'] = "dias";
 $locale['hour'] = "hora";
@@ -31,7 +31,7 @@ $locale['minute_a'] = "minutos";
 $locale['second'] = "segundo";
 $locale['second_a'] = "segundos";
 $locale['just_now'] = "En este momento";
-$locale['now'] = 'now';
+$locale['now'] = 'ahora';
 $locale['ago'] = "hace";
 // Geo
 $locale['street1'] = "Dirección calle 1";
@@ -109,7 +109,7 @@ $locale['global_031'] = "No hay artículos";
 // Downloads Side panel
 $locale['global_032'] = "Últimas Descargas";
 $locale['global_033'] = "No hay descargas";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Bienvenida";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Últimos Temas Activos del Foro";
@@ -197,7 +197,7 @@ $locale["global_130"] = "Panel %s could not be found";
 // User Menu
 $locale['UM060'] = "Entrar";
 $locale['UM061'] = "Nombre de usuario";
-$locale['UM061a'] = "Email";
+$locale['UM061a'] = "Correo electrónico";
 $locale['UM061b'] = "Nombre de usuario o correo electrónico";
 $locale['UM062'] = "Contraseña";
 $locale['UM063'] = "Acuérdate de mí";
@@ -233,9 +233,8 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Mensajes Bandeja de entrada:";
 $locale['UM099'] = "Mensajes Bandeja de salida:";
 $locale['UM100'] = "Archivo de mensajes:";
-
 // Keywords and Meta
-$locale['tags'] = "Tags";
+$locale['tags'] = "Etiquetas";
 // Captcha
 $locale['global_150'] = "Código de Validación:";
 $locale['global_151'] = "Introduce el Código de Validación:";
@@ -254,9 +253,6 @@ $locale['global_182'] = "Contraseña de Administración no introducida o incorre
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Modo de mantenimiento activado";
 $locale['global_191'] = "Tu dirección IP está expulsada.";
@@ -270,13 +266,13 @@ $locale['global_197'] = "Espera mientras eres transferido...
 [ [LINK]o pulsa aquí si no quieres esperar[/LINK] ]";
 $locale['global_198'] = "ADVERTENCIA: INSTALADOR DETECTADO, POR FAVOR ELIMINE EL ARCHIVO INSTALL-PHP INMEDIATAMENTE.";
 $locale['global_199'] = "ADVERTENCIA: No está configurada la contraseña de administrador. Pulsa [LINK]Editar Perfil[/LINK] para configurarla.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Buscar";
 $locale['global_203'] = "FAQ";
 $locale['global_204'] = "Foro";
-//Themes
+// Themes
 $locale['global_210'] = "Ir al Contenido";
 $locale['global_300'] = "No se han encontrado temas";
 $locale['global_301'] = "Lo sentimos, pero esta página no se puede mostrar. Debido a algunas circunstancias no se puede encontrar ningún tema del sitio.
@@ -305,8 +301,6 @@ $locale['global_409'] = "Esta cuenta ha sido expulsada por motivos de seguridad.
 $locale['global_410'] = "El motivo es: ";
 $locale['global_411'] = "Esta cuenta ha sido cancelada.";
 $locale['global_412'] = "Esta cuenta ha sido anonimizada debido, probablemente, a su inactividad.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Prohibición automática por control de inundación";
 $locale['global_441'] = "Tu cuenta en [SITENAME] ha sido prohibida";
@@ -365,7 +359,7 @@ $locale['global_459'] = "Se ha establecido una nueva contraseña para USER_NAME 
 // Function parsebytesize()
 $locale['global_460'] = "Vacío";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Espera... Estás siendo redirigido a %s. Si no eres redirigido, pulsa aquí.";
 // Captcha Locales
 $locale['global_600'] = "Código de Validación";
@@ -373,10 +367,10 @@ $locale['global_601'] = "Debe introducir un código de validación correcto";
 $locale['recaptcha'] = "es";
 // Site links
 $locale['global_700'] = "Mostrar más";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "No se puede convertir HEX a DEC";
 $locale['global_901'] = "Insertar medios";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Idioma:";
 $locale['global_ML101'] = "- Seleccione Idioma -";
 $locale['global_ML102'] = "idioma del sitio";
@@ -392,7 +386,7 @@ $locale['goodbye'] = "¡Adiós!";
 $locale['welcome'] = "Bienvenido de vuelta";
 $locale['home'] = "Inicio";
 // Status
-$locale['error'] = "Error!";
+$locale['error'] = "¡Error!";
 $locale['success'] = "éxito!";
 $locale['enable'] = "Habilitar";
 $locale['disable'] = "Desactivar";
@@ -413,6 +407,8 @@ $locale['joined'] = "Registrado desde: ";
 $locale['next'] = "Siguiente";
 $locale['previous'] = "Anterior";
 $locale['back'] = "Atrás";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "Adelante";
 $locale['go'] = "Ir";
 $locale['cancel'] = "Cancelar";
@@ -427,6 +423,8 @@ $locale['add'] = "Añadir";
 $locale['save'] = "Guardar";
 $locale['save_changes'] = "Guardar Cambios";
 $locale['save_and_close'] = "Guardar y Salir";
+$locale['save_settings'] = "Guardar configuración";
+$locale['settings_updated'] = "Configuraciones actualizadas con éxito";
 $locale['confirm'] = "Confirmar";
 $locale['update'] = "Actualización";
 $locale['updated'] = "Actualizado";
@@ -440,10 +438,11 @@ $locale['reactivate'] = "Reactivar";
 $locale['user'] = "Usuario";
 $locale['promote'] = "Promover";
 $locale['show'] = "Mostrar";
-$locale['hide'] = "Hide";
+$locale['hide'] = "Ocultar";
 $locale['actions'] = "Acciones";
 $locale['language'] = "Idioma";
-$locale['loading'] = "Loading...";
+$locale['loading'] = "Cargando...";
+$locale['options'] = "Opciones";
 // Persons & Identifiers
 $locale['you'] = "Tú";
 $locale['me'] = "Yo";
@@ -453,7 +452,7 @@ $locale['us'] = "Nos";
 $locale['he'] = "Él";
 $locale['she'] = "Ella";
 $locale['it'] = "Ello";
-//Tables
+// Tables
 $locale['order'] = "Orden";
 $locale['sort'] = "Tipo";
 $locale['id'] = "ID";
@@ -495,8 +494,13 @@ $locale['close'] = "Cerrar";
 $locale['nopreview'] = "No hay nada para una vista previa";
 $locale['mark_as'] = "Marcado como";
 $locale['preview'] = "Vista previa";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "Personalizado";
 $locale['submit'] = "Enviar";
+$locale['submissions'] = "Las presentaciones";
+$locale['submit_access'] = "Access to Submit page";
+$locale['categories'] = "Categorías";
+$locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "Izquierda";
 $locale['center'] = "Centro";
@@ -510,6 +514,16 @@ $locale['about'] = "Acerca de";
 // User status
 $locale['online'] = "En línea";
 $locale['offline'] = "Fuera de línea";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
+// DataTables
+$locale['processing_locale'] = "Please wait patiently while processing...";
+$locale['menu_locale'] = "Display _MENU_ records per page"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nothing found - sorry";
+$locale['result_locale'] = "Showing page _PAGE_ of _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "No records available";
+$locale['filter_locale'] = "(Filtered from _MAX_ total records)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Search Records";
 // Timer
 $locale['timer_year'] = "años|año";
 $locale['timer_month'] = "meses|mes";

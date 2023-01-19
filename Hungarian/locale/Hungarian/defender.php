@@ -84,8 +84,15 @@ $locale['df_422'] = "Ismeretlen Hiba (Query)";
 $locale['df_423'] = "A fájlt nem töltötte fel megfelelően. Kérlek próbáld újra";
 $locale['df_424'] = "A fájlok mérete nagyobb, mint a maximálisan megengedett határértéket. Kérjük, próbálja meg újra, és csatoljon kisebb fájlokat.";
 
-// ReCaptcha2
+$locale['error_rate'] = "Add meg az értéket.";
+$locale['error_type'] = "Add meg a kiterjesztés típusát.";
+$locale['error_width'] = "Add meg a szélességet.";
+$locale['error_height'] = "Add meg a magasságot.";
+$locale['error_value'] = "Add meg az értéket.";
+
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google reCaptcha v3";
 $locale['grecaptcha_desc'] = "Google Recaptcha Profil Modul";
 $locale['grecaptcha_placeholder_1'] = "SITE KEY a Google-tól";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY a Google-tól";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Sötét";
 $locale['grecaptcha_0103'] = "Érvényes típus";
 $locale['grecaptcha_0103a'] = "Text";
 $locale['grecaptcha_0103b'] = "Audio";
+$locale['grecaptcha_0104'] = "Pontszám";
 $locale['grecaptcha_warn'] = "Kérjük, adja meg a nyilvános és a magán reCAPTCHA kulcsot";

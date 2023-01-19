@@ -14,4 +14,4 @@ var pwstrength_locale = {
     medium: 'Közepes',
     strong: 'Erős',
     veryStrong: 'Nagyon erős'
-}
+};

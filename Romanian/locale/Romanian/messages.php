@@ -129,6 +129,7 @@ $locale['628'] = "Nu pot trimite mesajul privat. C&#259;su&#355;a de Intrare a u
 $locale['629'] = "Nu po&#355;i muta selec&#355;ia &#238;n folderul specificat, deoarece va dep&#259;&#351;i limita maxim&#259; de mesaje.";
 $locale['630'] = " Limit&#259; de mesaje";
 $locale['631'] = "This message was sent automatically by Bot and does not require any reply.";
+$locale['632'] = "Sistem";
 
 $locale['700'] = "Inboxul utilizatorului este plin. &#206;ncearc&#259; s&#259; &#351;tergi mesaje sau promoveaz&#259; utilizatorul la Administrator sau Super Administrator";
 $locale['701'] = "ID utilizator nu exist&#259; &#238;n baza de date. Secven&#355;&#259; anulat&#259;.";

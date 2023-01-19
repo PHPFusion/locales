@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Exist&#259; %s subcategorie(i) &#238;n aceast&#259; ca
 $locale['fields_0601'] = "Exist&#259; %s c&#226;mp(uri) utilizatori &#238;n aceast&#259; categorie";
 $locale['fields_0602'] = "Acest c&#226;mp nu poate fi instalat. Coloanele &#351;i/sau tabelele lipsesc.";
 
-$locale['fields_0650'] = "Mut&#259; ID c&#226;mp ";
-$locale['fields_0651'] = " Sus un loc &#351;i c&#226;mpul [FIELD_ID] jos un loc";
-$locale['fields_0652'] = " Jos un loc &#351;i c&#226;mpul [FIELD_ID] sus un loc";
 $locale['fields_0653'] = "Niciun rezultat";
-$locale['fields_0654'] = "&#350;terge c&#226;mpurile";
-$locale['fields_0655'] = "ID categoriei nu a fost g&#259;sit. Verific&#259; &#238;nc&#259; odat&#259;.";
-$locale['fields_0656'] = "ID categoriei nu a fost g&#259;sit. Verific&#259; &#238;nc&#259; odat&#259;.";
-$locale['fields_0657'] = " setat pentru &#238;nc&#259;rcare.";
-$locale['fields_0658'] = " &#238;nc&#259;rcat.";
+
 $locale['fields_0659'] = " fi&#351;iere de limb&#259; lipsesc!";
 $locale['fields_0660'] = "Niciun modul g&#259;sit";
-$locale['fields_0661'] = "Actualizeaz&#259; mod";
-$locale['fields_0662'] = "Salveaz&#259; mod";
+
 $locale['fields_0663'] = "Nume tabel";
-$locale['fields_0664'] = "Informa&#355;ie veche tabel -";
-$locale['fields_0665'] = "Informa&#355;ie nou&#259; tabel -";
-$locale['fields_0666'] = "Pas 1 - Actualizare c&#226;mp &#238;ntr-un tabel diferit";
-$locale['fields_0667'] = "Conflict coloane. Exist&#259; coloane &#238;n tabelul [OLD_TABLE]";
-$locale['fields_0668'] = "Pas 2 -  Actualizare c&#226;mp &#238;n acela&#351;i tabel";
-$locale['fields_0669'] = "Coloane r&#259;mase [FIELD_NAME] &#238;n [OLD_TABLE] cu  atribute de [FIELD_NAME_] ";
-$locale['fields_0670'] = "Date vechi";
 $locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";

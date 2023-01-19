@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "NO"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "no"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "no"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "nb_NO"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "nb"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "nb"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "no"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "no"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "no"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "nb_NO"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "nb"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "nb"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "no"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "no"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "no"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp|Januar|Februar|Mars|April|Mai|Juni|July|August|September|Oktober|November|Desember";
@@ -109,7 +109,7 @@ $locale['global_031'] = "Ingen tilgjengelige artikler";
 // Downloads Side panel
 $locale['global_032'] = "Siste Nedlastinger";
 $locale['global_033'] = "Ingen Nedlastinger tilgjengelig";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Velkommen";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Siste aktive forumtråder";
@@ -232,7 +232,6 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "PM Innboks :";
 $locale['UM099'] = "PM Utboks :";
 $locale['UM100'] = "PM Arkiv :";
-
 // Keywords and Meta
 $locale['tags'] = "Merker";
 // Captcha
@@ -253,9 +252,6 @@ $locale['global_182'] = "Admin Passord ikke skrevet inn eller er feil.";
 $locale['global_183'] = "Your login session has expired. Please login again.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Vedlikeholdsmodus Er Aktivert";
 $locale['global_191'] = "Din IP-adresse er for tiden svartelistet.";
@@ -269,13 +265,13 @@ $locale['global_197'] = "Vennligst vent mens du blir omdirigert...
 [ [LINK]Eller klikk her om du ikke ønsker å vente[/LINK] ]";
 $locale['global_198'] = "ADVARSEL: INSTALLER FINNES FORSATT, VENNLIGST SLETT /MAPPEN / INSTALL ØYEBLIKKELIG.";
 $locale['global_199'] = "ADVARSEL: admin passord er ikke angitt, klikk [LINK]Rediger profil[/LINK] for å oppgi det.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Search";
 $locale['global_203'] = "FAQ";
 $locale['global_204'] = "Forum";
-//Themes
+// Themes
 $locale['global_210'] = "Hopp til innhold";
 $locale['global_300'] = "tema ikke funnet";
 $locale['global_301'] = "Vi beklager, men denne siden kan ikke vises. Av en eller annen grunn finnes det ikke noe tema for siden. Hvis du er administrator for siden bruk din FTP klient og last opp et tema laget for PHPFusion 9 til mappen Themes. Etter opplasting sjekk Tema Innstillinger for å se om det valgte temaet ble riktig lastet opp til temaer katalogen. Hvis så er tilfelle - sjekk at opplastet tema har samme navn (inkludert store og små bokstaver; viktig på UNIX baserte servere) som valgt på sidens Hovedinnstillinger.
@@ -299,8 +295,6 @@ $locale['global_409'] = "Kontoen har blitt utestengt av sikkerhetsgrunner.";
 $locale['global_410'] = "Grunnen til dette er: ";
 $locale['global_411'] = "Kontoen har blitt kanselert.";
 $locale['global_412'] = "Denne konto har blitt anonymisert, sannsynligvis på grunn av inaktivitet.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Automatisk utestengelse av Flood Kontroll";
 $locale['global_441'] = "Your account on [SITENAME] has been banned";
@@ -331,7 +325,7 @@ $locale['global_459'] = "New password has been set for USER_NAME, and email was 
 // Function parsebytesize()
 $locale['global_460'] = "Tom";
 $locale['global_461'] = "Bytes";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Du blir nå omdirigert til %s, vennligst vent. Hvis du ikke blir omdirigert, klikk her.";
 // Captcha Locales
 $locale['global_600'] = "Sikkerhetskode";
@@ -339,10 +333,10 @@ $locale['global_601'] = "You must enter a correct validation code";
 $locale['recaptcha'] = "no";
 // Site links
 $locale['global_700'] = "Show More";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Ikke mulig å konvertere HEX til DEC";
 $locale['global_901'] = "Insert Media";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Språk:";
 $locale['global_ML101'] = "- Velg Språk -";
 $locale['global_ML102'] = "Nettsidens Språk";
@@ -379,6 +373,8 @@ $locale['joined'] = "Joined since: ";
 $locale['next'] = "Neste";
 $locale['previous'] = "Previous";
 $locale['back'] = "Back";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "Forward";
 $locale['go'] = "Go";
 $locale['cancel'] = "Cancel";
@@ -393,6 +389,8 @@ $locale['add'] = "Add";
 $locale['save'] = "Save";
 $locale['save_changes'] = "Save Changes";
 $locale['save_and_close'] = "Save and Close";
+$locale['save_settings'] = "Lagre innstillinger";
+$locale['settings_updated'] = "Innstillinger oppdatert";
 $locale['confirm'] = "Confirm";
 $locale['update'] = "Update";
 $locale['updated'] = "Updated";
@@ -410,6 +408,7 @@ $locale['hide'] = "Hide";
 $locale['actions'] = "Actions";
 $locale['language'] = "Language";
 $locale['loading'] = "Loading...";
+$locale['options'] = "Valg";
 // Persons & Identifiers
 $locale['you'] = "You";
 $locale['me'] = "Me";
@@ -419,7 +418,7 @@ $locale['us'] = "Us";
 $locale['he'] = "He";
 $locale['she'] = "She";
 $locale['it'] = "It";
-//Tables
+// Tables
 $locale['order'] = "Order";
 $locale['sort'] = "Sort";
 $locale['id'] = "ID";
@@ -461,8 +460,13 @@ $locale['close'] = "Close";
 $locale['nopreview'] = "There is nothing to Preview";
 $locale['mark_as'] = "Mark As";
 $locale['preview'] = "Preview";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "Custom";
 $locale['submit'] = "Submit";
+$locale['submissions'] = "Brukerforslag";
+$locale['submit_access'] = "Access to Submit page";
+$locale['categories'] = "Kategorier";
+$locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "Left";
 $locale['center'] = "Center";
@@ -476,6 +480,16 @@ $locale['about'] = "About";
 // User status
 $locale['online'] = "Online";
 $locale['offline'] = "Offline";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
+// DataTables
+$locale['processing_locale'] = "Please wait patiently while processing...";
+$locale['menu_locale'] = "Display _MENU_ records per page"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nothing found - sorry";
+$locale['result_locale'] = "Showing page _PAGE_ of _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "No records available";
+$locale['filter_locale'] = "(Filtered from _MAX_ total records)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Search Records";
 // Timer
 $locale['timer_year'] = "year|years";
 $locale['timer_month'] = "month|months";

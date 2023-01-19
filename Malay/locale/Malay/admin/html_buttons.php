@@ -20,7 +20,7 @@ $locale['html_016'] = "Muka seterus";
 $locale['html_017'] = "Warna Font";
 $locale['html_018'] = "Perrengan";
 $locale['html_019'] = "Tajuk";
-$locale['html_020'] = "Line Break";
+$locale['html_020'] = "Garis pemisah";
 
 $locale['texts'] = "Teks";
 $locale['preview'] = "Paparan";

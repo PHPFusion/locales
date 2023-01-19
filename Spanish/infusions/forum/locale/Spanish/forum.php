@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Confirmar selección de foro";
 $locale['forum_0397'] = "No hay foro definido.";
 $locale['forum_0398'] = "Imposible descargar el archivo";
 $locale['forum_0399'] = "Agregar Gratificación";
-
 $locale['forum_0400'] = "La recompensa del hilo ha sido actualizada. Asegúrese de seleccionar la respuesta que se otorgará con la recompensa";
 
 $locale['forum_0500'] = "Vista previa del hilo";
@@ -346,6 +345,9 @@ $locale['forum_4109'] = "Recompensa del hilo no adjudicada";
 $locale['forum_4110'] = "No se puede administrar la recompensa de subprocesos.";
 $locale['forum_4120'] = "No hay ID de foro ni id de subproceso definidos. Defina cualquiera de los dos.";
 $locale['forum_4121'] = "There are no activity in this forum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 día";
 $locale['forum_p002'] = "2 días";

@@ -24,7 +24,7 @@ $locale['u060'] = "Ajouter cet utilisateur au groupe sélectionné ?";
 $locale['u061'] = "Ajouter au groupe";
 $locale['u062'] = "Avatar de l'utilisateur";
 $locale['u063'] = "Niveau de l'utilisateur";
-$locale['u064'] = "Email";
+$locale['u064'] = "Adresse email";
 $locale['u066'] = "Date d’adhésion";
 $locale['u067'] = "Dernière visite";
 $locale['u068'] = "Nom d'utilisateur";
@@ -172,3 +172,8 @@ Cordialement,
 [SITEUSERNAME]<br/>
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";

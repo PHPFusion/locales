@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Confirmer la sélection du forum";
 $locale['forum_0397'] = "Aucun forum n'est défini.";
 $locale['forum_0398'] = "Impossible de télécharger le fichier";
 $locale['forum_0399'] = "Ajouter une récompense";
-
 $locale['forum_0400'] = "La récompense du sujet a été mise à jour. Assurez-vous de sélectionner la réponse à donner avec la prime";
 
 $locale['forum_0500'] = "Aperçu du sujet";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "Prime de discussion non attribuée";
 $locale['forum_4110'] = "La récompense du sujet ne peut pas être attribuée à vous-même.";
 $locale['forum_4120'] = "Il n'y a pas d'ID de forum ou d'identifiant de fil défini. Veuillez en définir un.";
 $locale['forum_4121'] = "Il n'y a aucune activité dans ce forum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 jour";
 $locale['forum_p002'] = "2 Jours";

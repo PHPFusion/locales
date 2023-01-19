@@ -131,25 +131,10 @@ $locale['fields_0600'] = "Šioje kategorijoje yra %s subkategorija(-ių)";
 $locale['fields_0601'] = "Šioje kategorijoje yra %s laukelis(-ių)";
 $locale['fields_0602'] = "Šis modulis negali būti įdiegtas. Trūksta lentelės stulpelių informacijos.";
 
-$locale['fields_0650'] = "Perkelti laukelį ID ";
-$locale['fields_0651'] = " Per vieną aukštyn, o laukelį ID [FIELD_ID] vienu žemyn.";
-$locale['fields_0652'] = " Per vieną žemyn, o laukelį ID [FIELD_ID] vienu aukštyn.";
 $locale['fields_0653'] = "Nėra rezultato";
-$locale['fields_0654'] = "Ištrinti laukelius";
-$locale['fields_0655'] = "Cat ID nerastas. Prašome patikrinti dar kartą.";
-$locale['fields_0656'] = "Kategorijos ID nerastas. Prašome patikrinti dar kartą.";
-$locale['fields_0657'] = " nustatytas įkėlimui.";
-$locale['fields_0658'] = " įkeltas.";
+
 $locale['fields_0659'] = " vertimas dingęs!";
 $locale['fields_0660'] = "Moduliai nerasti";
-$locale['fields_0661'] = "Atnaujinti modą";
-$locale['fields_0662'] = "Išsaugoti modą";
+
 $locale['fields_0663'] = "Lentelės pavadinimas";
-$locale['fields_0664'] = "Senoji lentelės informacija -";
-$locale['fields_0665'] = "Naujoji lentelės informacija -";
-$locale['fields_0666'] = "Atšaka Nr.1 - Atnaujinti laukelį kitoje lentelėje";
-$locale['fields_0667'] = "Stulpelių konfliktas. Lentelėje [OLD_TABLE] yra stulpelių ";
-$locale['fields_0668'] = "Atšaka Nr.2 - Atnaujinti laukelį toje pačioje lentelėje";
-$locale['fields_0669'] = "Pervadinamas stulpelis [FIELD_NAME] lentelėje [OLD_TABLE] į [FIELD_NAME_] su atributais ";
-$locale['fields_0670'] = "Seni duomenys";
 $locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";

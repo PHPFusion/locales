@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Potwierdź wybór forum";
 $locale['forum_0397'] = "Brak zdefiniowanych for.";
 $locale['forum_0398'] = "Nie można pobrać pliku";
 $locale['forum_0399'] = "Dodaj nagrodę";
-
 $locale['forum_0400'] = "Nagroda za wątek została zaktualizowana. Proszę upewnić się, że za wybraną odpowiedź została przyznana nagroda";
 
 $locale['forum_0500'] = "Podgląd wątku";
@@ -346,6 +345,9 @@ $locale['forum_4109'] = "Nagroda za wątek nie została przyznana";
 $locale['forum_4110'] = "Nagroda za wątek nie może być przyznana samemu.";
 $locale['forum_4120'] = "Brak ID forum lub identyfikatora wątku. Proszę zdefiniować jeden z nich.";
 $locale['forum_4121'] = "Brak aktywności na tym forum.";
+$locale['forum_4122'] = "Gratulacje za zdobycie punktów w {%thread_link%}.";
+$locale['forum_4123'] = "Informujemy, że za wybraną odpowiedź zostały przyznane punkty. Możesz wyświetlić odpowiedź za którą otrzymałeś nagrodę {%link_start%}tutaj.{%link_end%}";
+$locale['forum_4124'] = "Ten wątek posiada nagrodę";
 
 $locale['forum_p001'] = "1 dzień";
 $locale['forum_p002'] = "2 dni";

@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Gestionnaire de fichiers Fusion";
-
+$locale['IMGUP_100'] = "Gestionnaire de fichiers Fusion";
 // Delete Image
-$locale['400'] = "Effacer l'image";
-$locale['401'] = "Image supprimée";
-$locale['402'] = "Retourner à l'admin des images";
-$locale['403'] = "Retour à l'index de l'administrateur";
+$locale['IMGUP_400'] = "Effacer l'image";
+$locale['IMGUP_401'] = "Image supprimée";
+$locale['IMGUP_402'] = "Retourner à l'admin des images";
+$locale['IMGUP_403'] = "Retour à l'index de l'administrateur";
 // Upload Image
-$locale['420'] = "Envoyer une image";
-$locale['421'] = "Nom de fichier :";
-$locale['422'] = "Images Principales";
-$locale['423'] = "Images de l'article";
-$locale['424'] = "Images de News";
-$locale['425'] = "Taille de fichier max %s / types de fichiers autorisés .jpg,.JPG,.png,.PNG,.JPEG,.gif,.GIF,.bmp,.BMP,.svg,.SVG,.tiff,.TIFF";
-$locale['426'] = "Image envoyée";
-$locale['427'] = "Nouvelles Catégorie d'images";
-$locale['428'] = "Images de blog";
-$locale['429'] = "Images de Catégorie du blog";
+$locale['IMGUP_420'] = "Envoyer une image";
+$locale['IMGUP_421'] = "Nom de fichier :";
+$locale['IMGUP_422'] = "Images Principales";
+$locale['IMGUP_423'] = "Images de l'article";
+$locale['IMGUP_424'] = "Images de News";
+$locale['IMGUP_425'] = "Max. file size %s / Allowed file types .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Image envoyée";
+$locale['IMGUP_427'] = "Nouvelles Catégorie d'images";
+$locale['IMGUP_428'] = "Images de blog";
+$locale['IMGUP_429'] = "Images de Catégorie du blog";
 // View Image
-$locale['440'] = "Voir l'mage";
-$locale['441'] = "Format de fichier inconnu, impossible d'afficher l'image.";
-$locale['442'] = "Supprimer cette image";
+$locale['IMGUP_440'] = "Voir l'mage";
+$locale['IMGUP_441'] = "Format de fichier inconnu, impossible d'afficher l'image.";
+$locale['IMGUP_442'] = "Supprimer cette image";
 // Image Management
-$locale['460'] = "Images";
-$locale['461'] = "View";
-$locale['463'] = "Ce dossier est vide";
-$locale['464'] = "Mettre à jour la liste des images pour l'éditeur TinyMCE";
+$locale['IMGUP_460'] = "Images";
+$locale['IMGUP_461'] = "Vue";
+$locale['IMGUP_463'] = "Ce dossier est vide";
+$locale['IMGUP_464'] = "Mettre à jour la liste des images pour l'éditeur TinyMCE";
+$locale['IMGUP_465'] = "Image list updated";
 // Popup Error/Warning Messages
-$locale['470'] = "Supprimer cette image ?";
+$locale['IMGUP_470'] = "Supprimer cette image ?";

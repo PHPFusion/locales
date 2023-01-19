@@ -1,8 +1,8 @@
 <?php
 $locale['weblinks.php'] = "Weblinks";
-$locale['w400'] = "Weblinks";
+$locale['w400'] = "Web-Links";
 $locale['w401'] = "Weblink";
 $locale['w402'] = "WeblLinks";
-$locale['w403'] = "[NEU]]";
-$locale['w404'] = "Hinzugef&uuml;gt am:";
-$locale['w405'] = "Besuch(e):";
+$locale['w403'] = "[NEW]";
+$locale['w404'] = "Hinzufüge Datum:";
+$locale['w405'] = "Besuche:";

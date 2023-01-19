@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Užkrauta";
 $locale['theme_1004'] = "Užkrauti";
 $locale['theme_1005'] = "Tvarkyti dizainą";
 $locale['theme_1006'] = "Esanti aktyvus dizainas";
-$locale['theme_1007'] = "Įkelti dizaino ZIP failą";
+
 $locale['theme_1008'] = "Įkelti dizainą";
 $locale['theme_1009'] = "Dizaino stiliaus redagavimas";
 $locale['theme_1010'] = "Esantys dizainai";
-$locale['theme_1011'] = "Įkelti naujus dizainus";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Nustatyti kaip aktyvų";
 $locale['theme_1013'] = "Licenzija:";
 $locale['theme_1014'] = "Versija";
@@ -133,17 +134,10 @@ $locale['theme_5010'] = "Vertikalus perėjimas";
 $locale['theme_5011'] = "Spindulinis perėjimas";
 $locale['theme_5012'] = "Įstrižas perėjimas";
 $locale['theme_5013'] = "Išsaugoti ruošinį";
-$locale['theme_success_001'] = "Dizainas įkeltas į dizaino aplanką";
+
 $locale['theme_success_002'] = "Dizainų ruošiniai ištrinti";
 $locale['theme_success_003'] = "Dizainų ruošiniai atnaujinti";
 $locale['theme_success_004'] = "Dizainų ruošiniai pridėti sėkmingai";
 
-$locale['theme_error_001'] = "Dizaino paketas per didelis. Prašome įkelti failą, mažesnį nei %s";
-$locale['theme_error_002'] = "Dizaino paketas netinkamas. Prašome naudoti tik .zip kompresavimą";
-$locale['theme_error_003'] = "Nežinoma įkėlimo klaida";
-$locale['theme_error_004'] = "Dizaino failas nebuvo įkeliamas serverio";
-$locale['theme_error_005'] = "Dizaino failas nebuvo patikrintas. Prašome išpakuoti .zip failą ir bandyti rankiniu būdu įkelti į FTP";
-$locale['theme_error_006'] = "Jūsų serveris nepalaiko ZipArchive. Prašome išpakuoti .zip failą ir bandyti rankiniu būdu įkelti į FTP";
 $locale['theme_error_007'] = "Dizainas negali būti perkurtas dėl šių priežasčių: - Kintamieji nebuvo nustatyti arba forma turi klaidų";
 $locale['theme_error_008'] = "Kompiliavimo klaida. Dizainas nebuvo atnaujintas.";
-$locale['theme_error_009'] = "Failas theme.php nerastas.";

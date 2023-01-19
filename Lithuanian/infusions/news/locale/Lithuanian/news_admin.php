@@ -113,7 +113,7 @@ $locale['news_0703'] = "Naudokite šią formą norėdami pateikti naujieną. Jū
 administratoriaus. [SITENAME] pasilieka teisę redaguoti ar pakeisti pateiktą naujieną. Naujienos turinys turi atitikti tinklapio temą. Netinkami pateikimai bus ištrinti.";
 $locale['news_0704'] = "Grįžti į [SITENAME]";
 
-$locale['news_0705'] = "Width";
+$locale['news_0705'] = "Plotis";
 $locale['news_0706'] = "Height";
 $locale['news_0707'] = "Pagrindiniai nustatymai";
 $locale['news_0708'] = "Configuration for News System";

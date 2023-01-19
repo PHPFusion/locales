@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Nie znaleziono wyników';
 
 $locale['deprecated_section'] = 'Ta sekcja jest przestarzała. Nie zalecamy jej i planujemy ją wkrótce usunąć.';
 $locale['new_update_avalaible'] = "Nowa aktualizacja [LINK]PHPFusion v[VERSION][/LINK] jest dostępna. Proszę zaktualizować!";
+$locale['infusions_updates_avalaible'] = "Dostępne są aktualizacje dla wtyczek.";
+$locale['update_now'] = "Aktualizuj teraz";
+$locale['unactivated_users'] = "W bazie danych jest kilku nieaktywnych użytkowników. [LINK]Kliknij tutaj[/LINK], aby je zobaczyć i aktywować.";

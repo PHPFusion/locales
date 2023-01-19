@@ -309,13 +309,6 @@ $locale['setup_1700'] = "A configuração está concluída";
 $locale['setup_1701'] = "PHPFusion 9 já está pronto para ser usado. Clique em Concluir para reescrever o seu ficheiro config_temp.php para config.php<br/>";
 $locale['setup_1702'] = "<strong>Nota: Após entrar no seu site, você deve apagar o ficheiro /install.php e chmod o ficheiro config.php de volta a 0644 por razões de segurança</strong>";
 $locale['setup_1703'] = "Obrigado por escolher o PHPFusion.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%d.%m.%y";
-$locale['setup_3701'] = "%B %d %Y %H:%M:%S";
-$locale['setup_3702'] = "%d-%m-%Y %H:%M";
-$locale['setup_3703'] = "%B %d %Y";
-$locale['setup_3704'] = "%B %d %Y %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Modelos de E-Mail";

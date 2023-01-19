@@ -4,12 +4,12 @@ $locale['charset'] = "utf-8"; // https://www.iana.org/assignments/character-sets
 $locale['region'] = "FR"; // ISO-3166 (Alpha-2 code) https://www.iso.org/obp/ui/#search
 $locale['xml_lang'] = "fr"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
 $locale['short_lang_name'] = "fr"; // ISO 639-1 Code http://www.loc.gov/standards/iso639-2/php/code_list.php
-$locale['tinymce'] = "fr_FR"; // refer to path includes/jscripts/tinymce/langs/{value}.js
-$locale['select2'] = "fr"; // refer to path includes/dynamics/assets/select2/select2_locale_{value}.js
-$locale['phpmailer'] = "fr"; // refer to path includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
-$locale['filemanager'] = "fr"; // refer to path includes/elFinder/js/i18n/{value}.js
-$locale['datepicker'] = "fr"; // refer to path includes/dynamics/assets/datepicker/locale/{value}.js
-$locale['password_strength'] = "fr"; // refer to path includes/dynamics/assets/password/lang/{value}.js
+$locale['tinymce'] = "fr_FR"; // refer to path locale/Lang/includes/jscripts/tinymce/langs/{value}.js
+$locale['select2'] = "fr"; // refer to path locale/Lang/includes/dynamics/assets/select2/select2_locale_{value}.js
+$locale['phpmailer'] = "fr"; // refer to path locale/Lang/includes/classes/PHPMailer/language/phpmailer.lang-{value}.php
+$locale['filemanager'] = "fr"; // refer to path locale/Lang/includes/elFinder/js/i18n/{value}.js
+$locale['datepicker'] = "fr"; // refer to path locale/Lang/includes/dynamics/assets/datepicker/locale/{value}.js
+$locale['password_strength'] = "fr"; // refer to path locale/Lang/includes/dynamics/assets/password/lang/{value}.js
 $locale['text-direction'] = "ltr";
 // Full & Short Months
 $locale['months'] = "&nbsp;|Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre";
@@ -108,7 +108,7 @@ $locale['global_031'] = "Aucun article disponible";
 // Downloads Side panel
 $locale['global_032'] = "Derniers Téléchargements";
 $locale['global_033'] = "Aucun téléchargement disponible";
-// Welcome panel
+// Welcome_panel
 $locale['global_035'] = "Bienvenu(e)";
 // Latest Active Forum Threads panel
 $locale['global_040'] = "Derniers sujets actifs du forum";
@@ -231,7 +231,6 @@ $locale['UM103'] = "Logoff as User";
 $locale['UM098'] = "Boîte de réception MP:";
 $locale['UM099'] = "Boîte d'envoi MP:";
 $locale['UM100'] = "Archives de MP:";
-
 // Keywords and Meta
 $locale['tags'] = "Mots-clés";
 // Captcha
@@ -252,9 +251,6 @@ $locale['global_182'] = "Mot de passe admin non saisi ou incorrect.";
 $locale['global_183'] = "Votre session de connexion a expiré. Veuillez vous reconnecter.";
 $locale['global_184'] = "You are now logged in as %s";
 $locale['global_185'] = "You are now switched back to your own account.";
-
-// Do not add anything within global_183-190. To be reserved for code verification development.
-
 // Miscellaneous
 $locale['global_190'] = "Mode maintenance activé";
 $locale['global_191'] = "Votre adresse IP est actuellement sur la liste noire.";
@@ -266,13 +262,13 @@ $locale['global_196'] = "Nom d'utilisateur ou mot de passe invalide.";
 $locale['global_197'] = "Veuillez patienter pendant que nous vous transférons...<br/>[ [LINK]Ou cliquez ici si vous ne souhaitez pas attendre[/LINK]]";
 $locale['global_198'] = "AVERTISSEMENT : INSTALLER DÉTECTE, VEUILLEZ SUPPRIMER IMMÉDIATEMENT LE FICHIER SETUP.PHP.";
 $locale['global_199'] = "ATTENTION : mot de passe admin non défini, cliquez sur [LINK]Modifier le profil[/LINK] pour le définir.";
-//Titles
+// Titles
 $locale['global_200'] = " - ";
 $locale['global_201'] = ": ";
 $locale['global_202'] = "Recherche";
 $locale['global_203'] = "FAQ";
 $locale['global_204'] = "Forum";
-//Themes
+// Themes
 $locale['global_210'] = "Passer au contenu";
 $locale['global_300'] = "aucun thème trouvé";
 $locale['global_301'] = "Cette page ne peut pas être affichée. Pour des raisons inconnues, un thème de site valide ne peut être trouvé.
@@ -298,8 +294,6 @@ $locale['global_409'] = "Ce compte a été banni pour des raisons de sécurité.
 $locale['global_410'] = "La raison est : ";
 $locale['global_411'] = "Ce compte a été annulé.";
 $locale['global_412'] = "Ce compte a été anonymisé, probablement à cause de l'inactivité.";
-$locale['global_413'] = "Username is available";
-$locale['global_414'] = "Username is not available";
 // Flood control
 $locale['global_440'] = "Interdiction automatique par contrôle d'inondations";
 $locale['global_441'] = "Votre compte sur [SITENAME] a été banni";
@@ -330,7 +324,7 @@ $locale['global_459'] = "Un nouveau mot de passe a été configuré pour USER_NA
 // Function parsebytesize()
 $locale['global_460'] = "Vide";
 $locale['global_461'] = "Octets";
-//Safe Redirect
+// Safe Redirect
 $locale['global_500'] = "Vous êtes redirigé vers %s, veuillez patienter. Si vous n'êtes pas redirigé, cliquez ici.";
 // Captcha Locales
 $locale['global_600'] = "Code de validation";
@@ -338,10 +332,10 @@ $locale['global_601'] = "Vous devez entrer un code de validation correct";
 $locale['recaptcha'] = "fr";
 // Site links
 $locale['global_700'] = "Afficher Plus";
-//Miscellaneous
+// Miscellaneous
 $locale['global_900'] = "Impossible de convertir HEX en DEC";
 $locale['global_901'] = "Insérer un média";
-//Language Selection
+// Language Selection
 $locale['global_ML100'] = "Langue :";
 $locale['global_ML101'] = "- Sélectionnez la langue -";
 $locale['global_ML102'] = "Langue du site";
@@ -378,6 +372,8 @@ $locale['joined'] = "Inscrit depuis : ";
 $locale['next'] = "Suivant";
 $locale['previous'] = "Précédent";
 $locale['back'] = "Retour";
+$locale['first'] = "First";
+$locale['last'] = "Last";
 $locale['forward'] = "Transférer";
 $locale['go'] = "Aller";
 $locale['cancel'] = "Annuler";
@@ -392,6 +388,8 @@ $locale['add'] = "Ajouter";
 $locale['save'] = "Sauvegarder";
 $locale['save_changes'] = "Enregistrer les Modifications";
 $locale['save_and_close'] = "Enregistrer et fermer";
+$locale['save_settings'] = "Enregistrer les paramètres";
+$locale['settings_updated'] = "Paramètres mis à jour avec succès";
 $locale['confirm'] = "Confirmer";
 $locale['update'] = "Mise à jour";
 $locale['updated'] = "Mis à jour";
@@ -409,6 +407,7 @@ $locale['hide'] = "Masquer";
 $locale['actions'] = "Actions";
 $locale['language'] = "Langue";
 $locale['loading'] = "Chargement en cours...";
+$locale['options'] = "Options";
 // Persons & Identifiers
 $locale['you'] = "Vous";
 $locale['me'] = "Moi";
@@ -418,7 +417,7 @@ $locale['us'] = "Nous";
 $locale['he'] = "Il";
 $locale['she'] = "Elle";
 $locale['it'] = "Il";
-//Tables
+// Tables
 $locale['order'] = "Commande";
 $locale['sort'] = "Trier";
 $locale['id'] = "Identifiant";
@@ -460,8 +459,13 @@ $locale['close'] = "Fermer";
 $locale['nopreview'] = "Il n'y a rien à prévisualiser";
 $locale['mark_as'] = "Marquer comme";
 $locale['preview'] = "Aperçu";
+$locale['unpreview'] = "Hide Preview";
 $locale['custom'] = "Personnaliser";
 $locale['submit'] = "Soumettre";
+$locale['submissions'] = "Contributions";
+$locale['submit_access'] = "Access to Submit page";
+$locale['categories'] = "Catégories";
+$locale['thumbnail'] = "Thumbnail";
 // Alignment
 $locale['left'] = "Gauche";
 $locale['center'] = "Centre";
@@ -475,6 +479,16 @@ $locale['about'] = "À propos";
 // User status
 $locale['online'] = "En ligne";
 $locale['offline'] = "Hors ligne";
+// Misc
+$locale['max_fs_allowed_ft'] = "Max. file size %s / Allowed file types %s";
+// DataTables
+$locale['processing_locale'] = "Please wait patiently while processing...";
+$locale['menu_locale'] = "Display _MENU_ records per page"; // Don't translate _MENU_
+$locale['zero_locale'] = "Nothing found - sorry";
+$locale['result_locale'] = "Showing page _PAGE_ of _PAGES_"; // Don't translate _PAGE_ and _PAGES_
+$locale['empty_locale'] = "No records available";
+$locale['filter_locale'] = "(Filtered from _MAX_ total records)"; // Don't translate _MAX_
+$locale['search_input_locale'] = "Search Records";
 // Timer
 $locale['timer_year'] = "année | années";
 $locale['timer_month'] = "mois";

@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Potvrďte výber fóra";
 $locale['forum_0397'] = "Nie sú pridané žiadne fóra.";
 $locale['forum_0398'] = "Súbor sa nepodarilo stiahnuť";
 $locale['forum_0399'] = "Pridať odmenu";
-
 $locale['forum_0400'] = "Bounty vlákna bola aktualizovaná. Nezabudnite vybrať odpoveď, ktorá vám bude udelená s odmenou";
 
 $locale['forum_0500'] = "Náhľad vlákna";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "Odmena vlákna nebola udelená";
 $locale['forum_4110'] = "Nemôžeme vám dať odmenu.";
 $locale['forum_4120'] = "Neexistujú ID fóra ani ID vlákien. Prosím definujte aspoň jedno.";
 $locale['forum_4121'] = "V tomto fóre nie je žiadna aktivita.";
+$locale['forum_4122'] = "Blahoželáme vám k tomu, že ste získali odmenu v otázke {%thread_link%}.";
+$locale['forum_4123'] = "Chceli by sme vás informovať, že vybraná odpoveď získala odmenu. Odpoveď si môžete pozrieť {%link_start%}tu.{%link_end%}";
+$locale['forum_4124'] = "Toto vlákno má otvorenú odmenu";
 
 $locale['forum_p001'] = "1 deň";
 $locale['forum_p002'] = "2 dni";

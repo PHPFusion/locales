@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Chargé";
 $locale['theme_1004'] = "Charger";
 $locale['theme_1005'] = "Gérer le thème";
 $locale['theme_1006'] = "Thème actif actuel";
-$locale['theme_1007'] = "Charger le fichier ZIP du thème";
+
 $locale['theme_1008'] = "Charger le thème";
 $locale['theme_1009'] = "Style du thème";
 $locale['theme_1010'] = "Thèmes actuels";
-$locale['theme_1011'] = "Charger un nouveau thème";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Définir comme actif";
 $locale['theme_1013'] = "Licence :";
 $locale['theme_1014'] = "Version";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Dégradé vertical";
 $locale['theme_5011'] = "Dégradé radial";
 $locale['theme_5012'] = "Dégradé diagonal";
 $locale['theme_5013'] = "Enregistrer le préréglage";
-$locale['theme_success_001'] = "Le thème a été téléchargé dans votre dossier de thème";
+
 $locale['theme_success_002'] = "Les préréglages du thème ont été supprimés";
 $locale['theme_success_003'] = "Les préréglages du thème ont été mis à jour";
 $locale['theme_success_004'] = "Les préréglages du thème ont été ajoutés avec succès";
 
-$locale['theme_error_001'] = "Le pack de thème est trop grand. Veuillez télécharger des fichiers inférieurs à %s";
-$locale['theme_error_002'] = "Le package de thème n'est pas valide. Veuillez compresser uniquement les thèmes en utilisant l'extension de fichier .zip";
-$locale['theme_error_003'] = "Erreur de chargement inconnue";
-$locale['theme_error_004'] = "Le fichier du thème n'a pas été téléchargé par le serveur";
-$locale['theme_error_005'] = "Le fichier n'a pas pu être vérifié. Veuillez extraire le zip et faire un téléchargement FTP manuel";
-$locale['theme_error_006'] = "Votre serveur ne prend pas en charge ZipArchive. Veuillez extraire le zip et faire un téléchargement FTP manuel";
 $locale['theme_error_007'] = "Le thème ne peut pas être reconstruit à cause des raisons suivantes : - Les variables n'ont pas été définies ou le formulaire a une erreur";
 $locale['theme_error_008'] = "Erreur de compilation. Le thème n'a pas été mis à jour.";
-$locale['theme_error_009'] = "Le fichier theme.php n'a pas été trouvé.";

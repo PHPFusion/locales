@@ -157,3 +157,8 @@ Om du verkligen vill ändra din e-postadress till denna klickar du på följande
 [EMAIL_VERIFY_LINK]<br/>
 Obs: du måste vara inloggad för att fortsätta.<br/>
 Hälsningar, [SITEUSERNAME]<br/>[SITENAME]";
+// Checker
+$locale['u300'] = "Password should contain at least 1 special character";
+$locale['u301'] = "Password should contain at least 1 uppercase and 1 lowercase character";
+$locale['u302'] = "Password should contain at least 1 number";
+$locale['u303'] = "Password should be at least 8 characters long";

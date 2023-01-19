@@ -93,6 +93,7 @@ $locale['gallery_0220'] = "Nastavenia fotografií";
 $locale['gallery_0221'] = "Konfigurácia pre fotky galérie";
 $locale['gallery_0222'] = "Šírka";
 $locale['gallery_0223'] = "Výška";
+$locale['gallery_0224'] = "Zobraziť najnovšiu fotografiu ako náhľad albumu";
 $locale['photo_0001'] = "Titulok fotky";
 $locale['photo_0002'] = "Názov fotky";
 $locale['photo_0003'] = "Fotoalbum";

@@ -2,7 +2,7 @@
 $locale['download_604'] = "Plotis x Aukštis";
 $locale['download_930'] = "Maximum size uploads:";
 $locale['download_931'] = "Maximum file size in bytes";
-$locale['download_932'] = "Allowed file types:";
+$locale['download_932'] = "Leidžiami failų tipai:";
 $locale['download_933'] = "Separate each type with a comma";
 $locale['download_934'] = "Maximum screenshot size:";
 $locale['download_936'] = "Maximum screenshot file size (bytes):";

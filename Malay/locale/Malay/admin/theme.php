@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Muatan Selesai";
 $locale['theme_1004'] = "Muat";
 $locale['theme_1005'] = "Konfigursasi Tema";
 $locale['theme_1006'] = "Tema Aktif";
-$locale['theme_1007'] = "Muat Naik fail ZIP Tema";
+
 $locale['theme_1008'] = "Muat Naik Tema";
 $locale['theme_1009'] = "Sunting Tema";
 $locale['theme_1010'] = "Tema";
-$locale['theme_1011'] = "Muat Naik Tema";
+
+$locale['theme_1011a'] = "Tema Admin";
 $locale['theme_1012'] = "Set Sebagai Aktif";
 $locale['theme_1013'] = "Lesen:";
 $locale['theme_1014'] = "Versi";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Warna Gradien Menegak";
 $locale['theme_5011'] = "Warna Gradien Radial";
 $locale['theme_5012'] = "Warna Gradien Pepenjuru";
 $locale['theme_5013'] = "Simpan Preset";
-$locale['theme_success_001'] = "Tema telah berjaya dimuatnaikkan";
+
 $locale['theme_success_002'] = "Preset Tema dipadamkan";
 $locale['theme_success_003'] = "Preset Tema dikemaskinikan";
 $locale['theme_success_004'] = "Preset Tema ditambah";
 
-$locale['theme_error_001'] = "Pakej Tema terlalu besar. Sila muat nail fail kurang daripada %s";
-$locale['theme_error_002'] = "Pakej Tema tidak sah. Sila guna pakej fail .zip sahaja";
-$locale['theme_error_003'] = "Kesalahan Muatnaik";
-$locale['theme_error_004'] = "Tema tidak dapat dimuatnaikkan.";
-$locale['theme_error_005'] = "Tema digugur kerana tidak dapat disahkan. Untuk keselematan, sila ekstrak/buka fail zip dan buat pindaan fail-fail tema dan muat naik dengan FTP.";
-$locale['theme_error_006'] = "Komputer Pelayan tidak mempunyai modul ZipArchive. Sila ekstrak/buka fail zip dan buat pindaan fail-fail tema dan muat naik dengan FTP.";
 $locale['theme_error_007'] = "Tema tidak dapat dibina kerana reka bentuk belum diisi dengan penuh.";
 $locale['theme_error_008'] = "Kelasahan Compiler. Perekaan Tema digugurkan";
-$locale['theme_error_009'] = "File theme.php was not found.";

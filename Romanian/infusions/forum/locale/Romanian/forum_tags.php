@@ -12,6 +12,7 @@ $locale['forum_tag_0111'] = "Discu&#355;ii cu privire la managementul acestui sa
 $locale['forum_tag_0200'] = "Titlu etichet&#259;";
 $locale['forum_tag_0201'] = "Descriere etichet&#259;";
 $locale['forum_tag_0202'] = "Culoare etichet&#259;";
+$locale['forum_tag_0202a'] = "Tag Icon";
 $locale['forum_tag_0203'] = "Limb&#259; etichet&#259;";
 $locale['forum_tag_0204'] = "Stare etichet&#259;";
 $locale['forum_tag_0205'] = "Aceast&#259; etichet&#259; este activ&#259;";

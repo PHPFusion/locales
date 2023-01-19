@@ -13,3 +13,4 @@ $locale['article_0041'] = "Liste Görünümü";
 $locale['article_0060'] = "Tanımlanmış hiçbir Makale Kategorisi yok.";
 $locale['article_0061'] = "Henüz Makale Tanımlanmamış.";
 $locale['article_0062'] = "Bu Kategoride Makale Bulunmamaktadır.";
+$locale['article_0063'] = "En Çok Okunan";

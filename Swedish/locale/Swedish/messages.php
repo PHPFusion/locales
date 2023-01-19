@@ -129,6 +129,7 @@ $locale['628'] = "Användarens inkorg är full, det gick ej att skicka meddeland
 $locale['629'] = "Du kan inte flytta de valda meddelande(n) till den angivna mappen eftersom den överskrider den maximala meddelandegränsen.";
 $locale['630'] = " Meddelandegräns";
 $locale['631'] = "Detta meddelande skickades automatiskt av en Bot och kräver inget svar.";
+$locale['632'] = "System";
 
 $locale['700'] = "Användarens inkorg är full. Prova att ta bort den eller uppgradera den till 102 eller 103 status";
 $locale['701'] = "Avsändarens användar-ID finns inte i DB. Sekvensen avbruten.";

@@ -63,7 +63,7 @@ $locale['ERRO'] = "Relatório de Erros";
 $locale['AD'] = "Administradores";
 $locale['UL'] = "Relatório de Utilizadores";
 $locale['MAIL'] = "Modelos de e-mail";
-$locale['PL'] = "Permalinks";
+$locale['PL'] = "Links Permanentes";
 $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Gestor de Temas";
 $locale['S13'] = "Configurações do Blog";
@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Não foram encontrados resultados';
 
 $locale['deprecated_section'] = 'This section is deprecated. We no longer recommend it and plan to remove it soon.';
 $locale['new_update_avalaible'] = "Uma nova atualização de [LINK]PHPFusion v[VERSION][/LINK] está disponível. Por favor, atualize!";
+$locale['infusions_updates_avalaible'] = "Updates for infusions are available.";
+$locale['update_now'] = "Update now";
+$locale['unactivated_users'] = "There are several unactivated users in the database. [LINK]Click here[/LINK] to view them and activate.";

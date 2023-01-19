@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Yüklendi";
 $locale['theme_1004'] = "Yükle";
 $locale['theme_1005'] = "Temayı Yönet";
 $locale['theme_1006'] = "Geçerli Etkin Tema";
-$locale['theme_1007'] = "Tema ZIP dosyası Yükle";
+
 $locale['theme_1008'] = "Tema Yükle";
 $locale['theme_1009'] = "Tema Şekillendirmesi";
 $locale['theme_1010'] = "Geçerli Temalar";
-$locale['theme_1011'] = "Yeni Tema Yükle";
+
+$locale['theme_1011a'] = "Yönetim Temaları";
 $locale['theme_1012'] = "Etkin Olarak Ayarla";
 $locale['theme_1013'] = "Lisans:";
 $locale['theme_1014'] = "Sürüm";
@@ -133,17 +134,10 @@ $locale['theme_5010'] = "Dikey Eğim";
 $locale['theme_5011'] = "Dairesel Eğim";
 $locale['theme_5012'] = "Çapraz Eğim";
 $locale['theme_5013'] = "Ön Ayar Kaydet";
-$locale['theme_success_001'] = "Tema, Temanızın Klasörüne Yüklendi";
+
 $locale['theme_success_002'] = "Tema Ön Ayarları Silindi";
 $locale['theme_success_003'] = "Tema Ön Ayarları Güncellendi";
 $locale['theme_success_004'] = "Tema Ön Ayarları Başarıyla Eklendi";
 
-$locale['theme_error_001'] = "Tema Paketi Çok Büyük. Lütfen %s Boyutundan Daha Küçük Dosya Yükleyin";
-$locale['theme_error_002'] = "Tema Paketi Geçerli Değil. Lütfen Yalnızca .Zip Dosya Uzantısını Kullanarak Temaları Sıkıştırın";
-$locale['theme_error_003'] = "Bilinmeyen Yükleme Hatası";
-$locale['theme_error_004'] = "Tema Dosyası Sunucu Tarafından Yüklenemiyor";
-$locale['theme_error_005'] = "Dosya Doğrulaması Başarısız Oldu. Lütfen .Zip Dosyasını Çıkarın Ve El ile Ftp'den Yükleyin";
-$locale['theme_error_006'] = "Sunucunuz ZipArşiv'i Desteklemiyor. Lütfen .Zip Dosyasını Çıkarın Ve El Ile Ftp'den Yükleyin";
 $locale['theme_error_007'] = "Tema Aşağıdaki Sebeplerden Dolayı Yeniden Oluşturulamıyor: - Değişkenler Ayarlanmamış Veya Form Hatası Var";
 $locale['theme_error_008'] = "Derleyici Hatası. Tema Güncellenmedi.";
-$locale['theme_error_009'] = "theme.php Dosyası Bulunamadı.";

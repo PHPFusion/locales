@@ -20,17 +20,17 @@ $locale['forum_0011'] = "Post&#259;rile mele";
 $locale['forum_0012'] = "Ultimele discu&#355;ii";
 $locale['forum_0013'] = "Categorii forum";
 $locale['forum_0014'] = "Reputa&#355;ie";
-$locale['forum_0015'] = "Forum Overview";
-$locale['forum_0016'] = "Activity";
-$locale['forum_0017'] = "People";
-$locale['forum_0018'] = "Person";
-$locale['forum_0019'] = "There are no sub-forums available";
+$locale['forum_0015'] = "Prezentare Forum";
+$locale['forum_0016'] = "Activitate";
+$locale['forum_0017'] = "Persoane";
+$locale['forum_0018'] = "Persoană";
+$locale['forum_0019'] = "Nu există sub-forumuri disponibile";
 
-$locale['forum_0020'] = "Last Activity";
-$locale['forum_0021'] = "on %s by %s";
-$locale['forum_0022'] = "Responded in";
-$locale['forum_0023'] = "Re:";
-$locale['forum_0024'] = "See the full discussion posts";
+$locale['forum_0020'] = "Ultima activitate";
+$locale['forum_0021'] = "pe %s de %s";
+$locale['forum_0022'] = "A răspuns în";
+$locale['forum_0023'] = "Răspuns:";
+$locale['forum_0024'] = "Vezi toate posturile pentru discuție";
 
 
 $locale['forum_0050'] = "Vizualizare forum";
@@ -41,7 +41,7 @@ $locale['forum_0054'] = "R&#259;spunsuri";
 $locale['forum_0055'] = "Pagina: ";
 $locale['forum_0056'] = "Nicio discu&#355;ie pornit&#259;";
 $locale['forum_0057'] = "Porne&#351;te o nou&#259; discu&#355;ie";
-$locale['forum_0058'] = "Ask a Question";
+$locale['forum_0058'] = "Pune o întrebare";
 
 $locale['forum_0080'] = "Bifeaz&#259; tot";
 $locale['forum_0081'] = "Debifeaz&#259; tot";
@@ -130,13 +130,13 @@ $locale['forum_0268'] = "IP utilizator";
 $locale['forum_0269'] = "&#206;nc&#259; nu exist&#259; nicio discu&#355;ie pornit&#259;.";
 $locale['forum_0270'] = "Nicio postare gasit&#259;.";
 $locale['forum_0271'] = "Nu mai sunt post&#259;ri &#238;n aceast&#259; discu&#355;ie.Te rog revino la &lt;a href=&#039;../../infusions/forum/index.php&#039;&gt;indexul forumului&lt;/a&gt;";
-$locale['forum_0272'] = "Filter by Tags";
-$locale['forum_0273'] = "Popular Threads This Week";
-$locale['forum_0274'] = "There are no thread tags";
-$locale['forum_0275'] = "There are no threads found";
-$locale['forum_0276'] = "There are no tags defined";
+$locale['forum_0272'] = "Filtrează după etichete";
+$locale['forum_0273'] = "Discutii populare în această săptămână";
+$locale['forum_0274'] = "Nu există nici o etichetă de discuţie";
+$locale['forum_0275'] = "Nu au fost gasite discutii";
+$locale['forum_0276'] = "Nu există etichete definite";
 
-$locale['forum_0300'] = "Move to a new thread";
+$locale['forum_0300'] = "Mută într-o temă nouă";
 $locale['forum_0301'] = "Alege noul forum";
 $locale['forum_0302'] = "Urm&#259;torul";
 $locale['forum_0303'] = "Alege o nou&#259; discu&#355;ie";
@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Confirm&#259; selectarea forumului";
 $locale['forum_0397'] = "Nu sunt forumuri definite.";
 $locale['forum_0398'] = "Nu am putut desc&#259;rca fi&#351;ierul";
 $locale['forum_0399'] = "Adaug&#259; premiu";
-
 $locale['forum_0400'] = "Premiul discu&#355;iei a fost actualizat. Te rog fi sigur c&#259; ai selectat r&#259;spunsul pentru ai acorda premiul";
 
 $locale['forum_0500'] = "Previzualizeaz&#259; discu&#355;ia";
@@ -206,7 +205,7 @@ $locale['forum_0524'] = "Postat ";
 $locale['forum_0525'] = "Ultimele post&#259;ri";
 $locale['forum_0526'] = "Ultimele %s post&#259;ri";
 $locale['forum_0527'] = "%s a r&#259;spuns la aceast&#259; - %s";
-$locale['forum_0528'] = "reacted to this post"; // 3 users reacted to this post
+$locale['forum_0528'] = "a reacționat la această postare"; // 3 users reacted to this post
 $locale['forum_0529'] = "a reac&#355;ionat la";
 $locale['forum_0529a'] = "Nu ai permisiunea de a vota";
 $locale['forum_0530'] = "&#351;i altor";
@@ -250,7 +249,7 @@ $locale['forum_0592'] = "&#350;terge toate discu&#355;iile";
 $locale['forum_0593'] = "&#350;terge toate ata&#351;amentele";
 $locale['forum_0595'] = "&#350;terge toate sondajele";
 $locale['forum_0596'] = "&#206;ntrebare";
-$locale['forum_0597'] = "Question|Questions";
+$locale['forum_0597'] = "Întrebare|Întrebări";
 
 $locale['forum_0601'] = "Mesaj";
 $locale['forum_0602'] = "Op&#355;iuni";
@@ -287,9 +286,9 @@ Daca nu mai doresti sa urmaresti aceasta discutie, poti apasa pe legatura 'Nu ma
 Cu respect,
 {SITEUSERNAME}.";
 
-$locale['forum_0662'] = "User Options";
-$locale['forum_0663'] = "Edit User";
-$locale['forum_0664'] = "Ban User";
+$locale['forum_0662'] = "Opțiunile utilizatorului";
+$locale['forum_0663'] = "Editare utilizator";
+$locale['forum_0664'] = "Blochează utilizator";
 $locale['forum_0665'] = "&#350;terge utilizatorul";
 
 $locale['forum_0701'] = "Discu&#355;ia a fost &#351;tears&#259;.";
@@ -344,7 +343,10 @@ $locale['forum_4108'] = "Premiul a fost acordat precum ai cerut";
 $locale['forum_4109'] = "Premiul discu&#355;iei nu a fost acordat";
 $locale['forum_4110'] = "Premiul discu&#355;iei nu-&#355;i poate fi acordat";
 $locale['forum_4120'] = "Nu este definit niciun id forum sau id discu&#355;ie. Te rog define&#351;te oricare dintre ele";
-$locale['forum_4121'] = "There are no activity in this forum.";
+$locale['forum_4121'] = "Nu există nici o activitate în acest forum.";
+$locale['forum_4122'] = "Felicitări pentru că ai câștigat puncte de recompensă la întrebare în {%thread_link%}.";
+$locale['forum_4123'] = "Dorim să vă informăm că răspunsul selectat a fost acordat cu punctele recompensă. Poți vedea răspunsul la recompensa ta {%link_start%}aici.{%link_end%}";
+$locale['forum_4124'] = "Această discuție are o recompensă deschisă";
 
 $locale['forum_p001'] = "1 zi";
 $locale['forum_p002'] = "2 zile";

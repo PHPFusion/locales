@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Nincs találat';
 
 $locale['deprecated_section'] = 'Ez a szakasz elavult. Már nem javasoljuk, és tervezzük, hogy hamarosan eltávolítjuk.';
 $locale['new_update_avalaible'] = "Elérhető egy új [LINK]PHPFusion v[VERSION] frissítés [/LINK]. Kérem frissítsen!";
+$locale['infusions_updates_avalaible'] = "Frissítések érhetők el néhány Infusionhoz.";
+$locale['update_now'] = "Frissítés most";
+$locale['unactivated_users'] = "Van néhány nem aktivált felhasználó az adatbázisban. [LINK]Ide kattintva[/LINK] megnézheted és aktiválhatod őket.";

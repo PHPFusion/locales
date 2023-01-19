@@ -16,3 +16,4 @@ $locale['news_0016'] = "Não há categorias definidas.";
 $locale['news_0017'] = "Filtrar por";
 $locale['news_0018'] = "Mostrar todas as notícias";
 $locale['news_0019'] = "Galeria de Notícias";
+$locale['news_0020'] = "Notícias mais lidas";

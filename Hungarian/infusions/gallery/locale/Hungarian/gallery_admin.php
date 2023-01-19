@@ -91,6 +91,7 @@ $locale['gallery_0220'] = "Fotóbeállítások";
 $locale['gallery_0221'] = "Konfiguráció a Galéria fotóihoz";
 $locale['gallery_0222'] = "Szélesség";
 $locale['gallery_0223'] = "Magasság";
+$locale['gallery_0224'] = "A legújabb fénykép megjelenítése album miniatűrjeként";
 $locale['photo_0001'] = "Kép címe:";
 $locale['photo_0002'] = "Kép neve";
 $locale['photo_0003'] = "Kép Album";

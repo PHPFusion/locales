@@ -130,25 +130,10 @@ $locale['fields_0600'] = "%s alkategória van ebben a kategóriában";
 $locale['fields_0601'] = "%s mező van ebben a kategóriában";
 $locale['fields_0602'] = "A modul nem telepíthető. Hiányzó táblázat oszlop információ.";
 
-$locale['fields_0650'] = "Mező ID Mozgatás ";
-$locale['fields_0651'] = " Felfelé és a Field ID [FIELD_ID] Lefelé.";
-$locale['fields_0652'] = " Lefelé és a Field ID [FIELD_ID] Felfelé.";
 $locale['fields_0653'] = "Nincs eredmény";
-$locale['fields_0654'] = "Profil Törlése";
-$locale['fields_0655'] = "Cat ID nem található. Kérlek vizsgáld meg újra.";
-$locale['fields_0656'] = "Kategória ID nem található. Kérlek vizsgáld meg újra.";
-$locale['fields_0657'] = " beállítás betöltése.";
-$locale['fields_0658'] = " betöltve.";
+
 $locale['fields_0659'] = " nyelv hiányzik!";
 $locale['fields_0660'] = "Nincs modul";
-$locale['fields_0661'] = "Mod Módosítás";
-$locale['fields_0662'] = "Mod Mentés";
+
 $locale['fields_0663'] = "Tábla Neve";
-$locale['fields_0664'] = "Régi tábla információ -";
-$locale['fields_0665'] = "Új tábla információ -";
-$locale['fields_0666'] = "No.1 - Mező frissítése egy másik táblázatban";
-$locale['fields_0667'] = "Oszlop ütközés. Ilyen nevű oszlop már létezik [OLD_TABLE] ";
-$locale['fields_0668'] = "No.2 - Módosítva a Field Ugyabban a táblában";
-$locale['fields_0669'] = "[FIELD_NAME] Oszlopot átneveztük, régi neve [OLD_TABLE], új neve [FIELD_NAME_], jellemzői ";
-$locale['fields_0670'] = "Régi Adat";
 $locale['fields_0671'] = "A érvényes táblának kell lennie. Az oszlopnak a felhasználói azonosító oszlopának kell lennie a táblázatban.";

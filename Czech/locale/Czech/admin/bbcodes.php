@@ -27,3 +27,9 @@ $locale['BBCA_430'] = "BB kód byl přesunut nahoru.";
 $locale['BBCA_431'] = "BB kód byl přesunut dolů.";
 $locale['BBCA_432'] = "BB kód byl povolen.";
 $locale['BBCA_433'] = "BB kód byl zakázán.";
+$locale['BBCA_444'] = "BB kód byl aktualizován";
+$locale['BBCA_445'] = "BB kód se nepodařilo aktualizovat";
+
+$locale['BBCA_500'] = "Přidat oddělovač";
+$locale['BBCA_501'] = "Oddělovač";
+$locale['BBCA_502'] = "Oddělovač pro seskupení tlačítek BB kódů";

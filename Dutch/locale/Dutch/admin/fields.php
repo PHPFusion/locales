@@ -119,7 +119,7 @@ $locale['fields_0507'] = "Kleur";
 $locale['fields_0508'] = "Bestand";
 $locale['fields_0509'] = "Verborgen";
 $locale['fields_0510'] = "Adres";
-$locale['fields_0511'] = "Tags";
+$locale['fields_0511'] = "Labels";
 $locale['fields_0512'] = "Locatie";
 $locale['fields_0513'] = "Nummer";
 $locale['fields_0514'] = "E-mail";
@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Er zijn %s sub-categorie(en) in deze categorie";
 $locale['fields_0601'] = "Er zijn %s veld(en) in deze categorie";
 $locale['fields_0602'] = "Deze module kan niet worden geïnstalleerd. Er ontbreekt kolom informatie.";
 
-$locale['fields_0650'] = "Verplaats veld ID ";
-$locale['fields_0651'] = " Een slot omhoog en Veld ID [FIELD_ID] een slot omlaag.";
-$locale['fields_0652'] = " Een slot omlaag en Veld ID [FIELD_ID] een slot omhoog.";
 $locale['fields_0653'] = "Niets gevonden";
-$locale['fields_0654'] = "Verwijder velden";
-$locale['fields_0655'] = "Cat ID is niet gevonden. Controleer opnieuw.";
-$locale['fields_0656'] = "Categorie-ID is niet gevonden. Controleer opnieuw.";
-$locale['fields_0657'] = " ingesteld voor laden.";
-$locale['fields_0658'] = " geladen.";
+
 $locale['fields_0659'] = " taalbestand ontbreekt!";
 $locale['fields_0660'] = "Er zijn geen modules gevonden";
-$locale['fields_0661'] = "Wijzig mode";
-$locale['fields_0662'] = "Mode opslaan";
+
 $locale['fields_0663'] = "Tabelnaam";
-$locale['fields_0664'] = "Oude tabel informatie -";
-$locale['fields_0665'] = "Nieuwe tabel informatie -";
-$locale['fields_0666'] = "Vork Nr.1 - Update Veld op een andere tabel";
-$locale['fields_0667'] = "Kolom conflict. Er zijn kolommen in [OLD_TABLE] die bestaan in ";
-$locale['fields_0668'] = "Vork Nr.2 - Werk veld bij op dezelfde tabel";
-$locale['fields_0669'] = "Wijzigen kolom [FIELD_NAME] in [OLD_TABLE] naar [FIELD_NAME_] met attributen van ";
-$locale['fields_0670'] = "Oude Gegevens";
 $locale['fields_0671'] = "De tabel moet een geldige tabel zijn. De kolom moet een kolom van een gebruikers-id zijn in die tabel.";

@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion File Manager";
-
+$locale['IMGUP_100'] = "Fusion File Manager";
 // Delete Image
-$locale['400'] = "Borrar Imagen";
-$locale['401'] = "Imagen borrada";
-$locale['402'] = "Volver a la Administración de Imágenes";
-$locale['403'] = "Volver a Administración";
+$locale['IMGUP_400'] = "Borrar Imagen";
+$locale['IMGUP_401'] = "Imagen borrada";
+$locale['IMGUP_402'] = "Volver a la Administración de Imágenes";
+$locale['IMGUP_403'] = "Volver a Administración";
 // Upload Image
-$locale['420'] = "Transferir";
-$locale['421'] = "Nombre del Archivo:";
-$locale['422'] = "Imágenes Principales";
-$locale['423'] = "Imágenes de Artículos";
-$locale['424'] = "Imágenes de Noticias";
-$locale['425'] = "Sólo se pueden transferir imágenes en formato GIF, JPG o PNG";
-$locale['426'] = "Imagen transferida";
-$locale['427'] = "Imágenes de Categorías de Noticias";
-$locale['428'] = "Blog Imágenes";
-$locale['429'] = "Blog Categorías Imágenes";
+$locale['IMGUP_420'] = "Transferir";
+$locale['IMGUP_421'] = "Nombre del Archivo:";
+$locale['IMGUP_422'] = "Imágenes Principales";
+$locale['IMGUP_423'] = "Imágenes de Artículos";
+$locale['IMGUP_424'] = "Imágenes de noticias";
+$locale['IMGUP_425'] = "Max. file size %s / Allowed file types .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Imagen transferida";
+$locale['IMGUP_427'] = "Imágenes de Categorías de Noticias";
+$locale['IMGUP_428'] = "Blog Imágenes";
+$locale['IMGUP_429'] = "Blog Categorías Imágenes";
 // View Image
-$locale['440'] = "Ver Imagen";
-$locale['441'] = "Formato de archivo desconocido. No se puede mostrar la imagen.";
-$locale['442'] = "Borrar";
+$locale['IMGUP_440'] = "Ver Imagen";
+$locale['IMGUP_441'] = "Formato de archivo desconocido. No se puede mostrar la imagen.";
+$locale['IMGUP_442'] = "Borrar";
 // Image Management
-$locale['460'] = "Imágenes Existentes";
-$locale['461'] = "Ver";
-$locale['463'] = "Este directorio está vacío";
-$locale['464'] = "Actualizar la lista de imágenes para el editor TinyMCE";
+$locale['IMGUP_460'] = "Imágenes";
+$locale['IMGUP_461'] = "Ver";
+$locale['IMGUP_463'] = "Este directorio está vacío";
+$locale['IMGUP_464'] = "Actualizar la lista de imágenes para el editor TinyMCE";
+$locale['IMGUP_465'] = "Image list updated";
 // Popup Error/Warning Messages
-$locale['470'] = "¿Borrar esta imagen?";
+$locale['IMGUP_470'] = "¿Borrar esta imagen?";

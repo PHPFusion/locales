@@ -1,30 +1,30 @@
 <?php
-$locale['100'] = "Fusion File Manager";
-
+$locale['IMGUP_100'] = "Fusion File Manager";
 // Delete Image
-$locale['400'] = "Slett bilde";
-$locale['401'] = "Bilde er slettet";
-$locale['402'] = "Retuner til Bilde Admin";
-$locale['403'] = "Retuner til Admin Hovedside";
+$locale['IMGUP_400'] = "Slett bilde";
+$locale['IMGUP_401'] = "Bilde er slettet";
+$locale['IMGUP_402'] = "Retuner til Bilde Admin";
+$locale['IMGUP_403'] = "Retuner til Admin Hovedside";
 // Upload Image
-$locale['420'] = "Last opp bilde";
-$locale['421'] = "Filnavn:";
-$locale['422'] = "Hoved Mappe";
-$locale['423'] = "Artikkler";
-$locale['424'] = "Nyheter";
-$locale['425'] = "Du kan bare laste opp bilder i gif, jpg eller png format";
-$locale['426'] = "Bilde er opplastet";
-$locale['427'] = "Nyhetskategorier";
-$locale['428'] = "Bloggbilder";
-$locale['429'] = "Bloggkategorier - bilder";
+$locale['IMGUP_420'] = "Last opp bilde";
+$locale['IMGUP_421'] = "Filnavn:";
+$locale['IMGUP_422'] = "Hoved Mappe";
+$locale['IMGUP_423'] = "Artikkler";
+$locale['IMGUP_424'] = "Nyheter";
+$locale['IMGUP_425'] = "Max. file size %s / Allowed file types .jpg,.jpeg,.png,.gif,.bmp,.svg,.tiff,.webp";
+$locale['IMGUP_426'] = "Bilde er opplastet";
+$locale['IMGUP_427'] = "Nyhetskategorier";
+$locale['IMGUP_428'] = "Bloggbilder";
+$locale['IMGUP_429'] = "Bloggkategorier - bilder";
 // View Image
-$locale['440'] = "Se Bilde";
-$locale['441'] = "Ukjent filformat, kan ikke vise bilde.";
-$locale['442'] = "Slett dette bilde";
+$locale['IMGUP_440'] = "Se Bilde";
+$locale['IMGUP_441'] = "Ukjent filformat, kan ikke vise bilde.";
+$locale['IMGUP_442'] = "Slett dette bilde";
 // Image Management
-$locale['460'] = "Bilder";
-$locale['461'] = "Vis";
-$locale['463'] = "Denne mappen er tom";
-$locale['464'] = "Oppdater bilde liste for TinyMCE editor";
+$locale['IMGUP_460'] = "Bilder";
+$locale['IMGUP_461'] = "View";
+$locale['IMGUP_463'] = "Denne mappen er tom";
+$locale['IMGUP_464'] = "Oppdater bilde liste for TinyMCE editor";
+$locale['IMGUP_465'] = "Image list updated";
 // Popup Error/Warning Messages
-$locale['470'] = "Slett dette bilde?";
+$locale['IMGUP_470'] = "Slett dette bilde?";

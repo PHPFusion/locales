@@ -181,7 +181,6 @@ $locale['forum_0396'] = "Forum Seçimini Onayla";
 $locale['forum_0397'] = "Tanımlanmış Forum Yok.";
 $locale['forum_0398'] = "Dosya İndirilemiyor";
 $locale['forum_0399'] = "Puan Ekle";
-
 $locale['forum_0400'] = "Konu Puanı Güncellendi. Lütfen Puan İle Ödüllendirilecek Cevabı Seçtiğinizden Emin Olun.";
 
 $locale['forum_0500'] = "Konu Önizlemesi";
@@ -345,6 +344,9 @@ $locale['forum_4109'] = "Konu Puanlaması Ödüllendirilemedi";
 $locale['forum_4110'] = "Kendi Oluşturduğunuz Konuya Puan Veremezsiniz.";
 $locale['forum_4120'] = "Tanımlanmış Hiçbir Forum ID Veya Konu ID Yok. Lütfen Birini Tanımlayın.";
 $locale['forum_4121'] = "Bu Forumda Etkinlik Yok.";
+$locale['forum_4122'] = "Soruda verilen ödül puanlarını kazandığınız için tebrikler.";
+$locale['forum_4123'] = "Seçilen yanıtın ödül puanlarıyla ödüllendirildiğini size bildirmek istiyoruz. Ödülünüzün yanıtını {%link_start%}buradan{%link_end%} görebilirsiniz.";
+$locale['forum_4124'] = "Bu konu açık bir ödüle sahiptir";
 
 $locale['forum_p001'] = "1 Gün";
 $locale['forum_p002'] = "2 Gün";

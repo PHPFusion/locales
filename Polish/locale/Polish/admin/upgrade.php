@@ -1,3 +1,21 @@
 <?php
-$locale['U_0000'] = "Aktualizacja";
-$locale['U_0001'] = "Brak dostępnych aktualizacji";
+$locale['U_000'] = "Aktualizacja";
+$locale['U_001'] = "Przed aktualizacją, wykonaj kopię zapasową bazy danych i plików.";
+$locale['U_002'] = "Ostatnio sprawdzone %s.";
+$locale['U_003'] = "Sprawdź ponownie";
+$locale['U_004'] = "Dostępna jest nowa aktualizacja";
+$locale['U_005'] = "Nie udało się sprawdzić aktualizacji!";
+$locale['U_006'] = "Brak dostępnych aktualizacji";
+$locale['U_007'] = "Możesz automatycznie zaktualizować do PHPFusion %s.";
+$locale['U_008'] = "Masz najnowszą wersję";
+$locale['U_009'] = "Pobieranie %s.";
+$locale['U_010'] = "Rozpakowywanie aktualizacji.";
+$locale['U_011'] = "Kopiowanie plików.";
+$locale['U_012'] = "Aktualizowanie bazy danych.";
+$locale['U_013'] = "Aktualizacja tłumaczeń.";
+$locale['U_014'] = "PHPFusion zaktualizowano pomyślnie.";
+$locale['U_015'] = "Nie można zainstalować aktualizacji. Spróbuj ponownie później lub pobierz aktualizację ręcznie.";
+$locale['U_016'] = "Aktualizacja tłumaczeń";
+$locale['U_017'] = "Tłumaczenia zostały pomyślnie zaktualizowane.";
+$locale['U_018'] = "Pobieranie %s paczki językowej."; // %s will be replaced with language name
+$locale['U_019'] = "Aktualna wersja: %s";

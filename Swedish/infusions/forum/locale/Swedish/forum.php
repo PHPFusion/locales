@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Bekräfta ditt val";
 $locale['forum_0397'] = "Det finns inga forum.";
 $locale['forum_0398'] = "Kunde ej hämta fil";
 $locale['forum_0399'] = "Lägg till Belöning";
-
 $locale['forum_0400'] = "Trådens belöning har uppdaterats. Var noga med att välja det svar som ska tilldelas belöning";
 
 $locale['forum_0500'] = "Förhandsgranska";
@@ -340,6 +339,9 @@ $locale['forum_4109'] = "Trådens belöning har inte tilldelats";
 $locale['forum_4110'] = "Belöningspoäng kan inte ges till dig själv.";
 $locale['forum_4120'] = "Det finns inget forum-ID eller tråd-id definierat. Vänligen definiera något av dem.";
 $locale['forum_4121'] = "Det finns ingen aktivitet i detta forum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 Dag";
 $locale['forum_p002'] = "2 Dagar";

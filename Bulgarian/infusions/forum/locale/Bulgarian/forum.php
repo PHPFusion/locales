@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Потвърждаване на избора на фо�
 $locale['forum_0397'] = "Няма дефинирани форуми.";
 $locale['forum_0398'] = "Свалянето на файла е невъзможно";
 $locale['forum_0399'] = "Добавяне на награда";
-
 $locale['forum_0400'] = "Наградата на темата е обновена. Моля, уверете се, че избраният отговор ще бъде награден";
 
 $locale['forum_0500'] = "Преглед на темата";
@@ -344,6 +343,9 @@ $locale['forum_4109'] = "Не беше получена награда";
 $locale['forum_4110'] = "Наградата не може да бъде на Вас самият.";
 $locale['forum_4120'] = "Няма дефинирани ИН на форум или ИН на теми. Моля, определете един от тях.";
 $locale['forum_4121'] = "There are no activity in this forum.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 ден";
 $locale['forum_p002'] = "2 дни";

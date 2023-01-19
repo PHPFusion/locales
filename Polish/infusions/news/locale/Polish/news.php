@@ -16,3 +16,4 @@ $locale['news_0016'] = "Nie zdefiniowano kategoriii.";
 $locale['news_0017'] = "Filtruj według";
 $locale['news_0018'] = "Pokaż wszystkie aktualności";
 $locale['news_0019'] = "Galeria wpisów";
+$locale['news_0020'] = "Najczęściej Czytane Aktualności";

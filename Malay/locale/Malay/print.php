@@ -3,7 +3,7 @@
 $locale['400'] = "Diposkan Oleh ";
 $locale['401'] = " pada ";
 $locale['402'] = "Blog Penuh";
-$locale['403'] = "Extended Blog";
+$locale['403'] = "Sambungan Blog";
 //forums
 $locale['500'] = "Utusan Perbincangan:";
 $locale['501'] = "Dipos oleh ";

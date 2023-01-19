@@ -122,7 +122,7 @@ $locale['fields_0510'] = "Dirección";
 $locale['fields_0511'] = "Etiquetas";
 $locale['fields_0512'] = "Localización";
 $locale['fields_0513'] = "Número";
-$locale['fields_0514'] = "Email";
+$locale['fields_0514'] = "Correo electrónico";
 $locale['fields_0515'] = "Url web";
 $locale['fields_0516'] = "Contact Number";
 
@@ -130,25 +130,10 @@ $locale['fields_0600'] = "Hay %s sub-categoría(s) en esta categoría";
 $locale['fields_0601'] = "Hay %s campo(s) en esta categoría";
 $locale['fields_0602'] = "Este módulo no se puede instalar. Información de la columna de la tabla que falta.";
 
-$locale['fields_0650'] = "Mover ID de campo";
-$locale['fields_0651'] = "Subir una ranura e ID de campo [FIELD_ID] en una ranura.";
-$locale['fields_0652'] = "Abajo una ranura e ID de campo [FIELD_ID] en una ranura.";
 $locale['fields_0653'] = "Sin resultado";
-$locale['fields_0654'] = "Eliminar campos";
-$locale['fields_0655'] = "No se encontró el ID del gato. Vuelva a verificarlo";
-$locale['fields_0656'] = "No se encontró la ID de categoría. Vuelva a verificar.";
-$locale['fields_0657'] = "establecer para la carga.";
-$locale['fields_0658'] = "cargado.";
+
 $locale['fields_0659'] = "locale faltante!";
 $locale['fields_0660'] = "No se encontraron módulos";
-$locale['fields_0661'] = "Modo de actualización";
-$locale['fields_0662'] = "Modo guardar";
+
 $locale['fields_0663'] = "Nombre de tabla";
-$locale['fields_0664'] = "Información de la tabla anterior -";
-$locale['fields_0665'] = "Nueva información de la tabla -";
-$locale['fields_0666'] = "Fork No.1 - Actualizar campo en una tabla diferente";
-$locale['fields_0667'] = "Conflicto de columna. Existen columnas en [OLD_TABLE] en";
-$locale['fields_0668'] = "Tenedor No.2 - Actualizar campo en la misma tabla";
-$locale['fields_0669'] = "Cambio de nombre de columna [FIELD_NAME] en [OLD_TABLE] a [FIELD_NAME_] con atributos de";
-$locale['fields_0670'] = "Datos antiguos";
 $locale['fields_0671'] = "Your table must be a valid table. Your column must be a column of a user id in that table.";

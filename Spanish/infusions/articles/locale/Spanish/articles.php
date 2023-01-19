@@ -13,3 +13,4 @@ $locale['article_0041'] = "Vista de lista";
 $locale['article_0060'] = "No se han definido categorías de artículos.";
 $locale['article_0061'] = "No hay artículos definidos.";
 $locale['article_0062'] = "No hay artículos en esta categoría.";
+$locale['article_0063'] = "Most Read";

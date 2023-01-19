@@ -164,7 +164,7 @@ $locale['currency'] = [
     "ZAR" => "Rand",
     "ZMK" => "Sambischer Kwacha",
     "ZWD" => "Simbabwe Dollar",
-    "NA"  => "Nicht verf&uuml;gbar"
+    "NA"  => "Nicht verfügbar"
 ];
 
 include_once __DIR__.'../../../includes/currency_symbols.php';

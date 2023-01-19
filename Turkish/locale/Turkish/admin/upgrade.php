@@ -1,3 +1,21 @@
 <?php
-$locale['U_0000'] = "Yükselt";
-$locale['U_0001'] = "Yükseltmeler Mevcut Değil";
+$locale['U_000'] = "Yükselt";
+$locale['U_001'] = "Güncellemeden önce lütfen veritabanını ve dosyaları yedekleyin.";
+$locale['U_002'] = "Son kontrol: %s.";
+$locale['U_003'] = "Tekrar kontrol et";
+$locale['U_004'] = "Yeni bir güncelleme mevcut";
+$locale['U_005'] = "Güncellemeler kontrol edilemedi!";
+$locale['U_006'] = "Güncelleme mevcut değil";
+$locale['U_007'] = "PHP Fusion %s otomatik olarak güncelleyebilirsiniz.";
+$locale['U_008'] = "En son sürüme sahipsiniz";
+$locale['U_009'] = "%s indiriliyor.";
+$locale['U_010'] = "Güncelleme paketi açılıyor.";
+$locale['U_011'] = "Dosyalar kopyalanıyor.";
+$locale['U_012'] = "Veritabanı yükseltiliyor.";
+$locale['U_013'] = "Çeviriler güncelleniyor.";
+$locale['U_014'] = "PHPFusion başarıyla güncellendi.";
+$locale['U_015'] = "Güncelleme yüklenemedi. Lütfen daha sonra tekrar deneyin veya güncellemeyi manuel olarak indirin.";
+$locale['U_016'] = "Çevirileri güncelle";
+$locale['U_017'] = "Çeviriler başarıyla güncellendi.";
+$locale['U_018'] = "%s dil paketi indiriliyor."; // %s will be replaced with language name
+$locale['U_019'] = "Güncel sürüm %s";

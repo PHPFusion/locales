@@ -13,8 +13,8 @@ $locale['ADM_418'] = "Tiada ahli didapati.";
 $locale['ADM_419'] = "Cari Semula";
 // Current Administrators
 $locale['ADM_420'] = "Admin";
-$locale['ADM_421'] = "Kata Nama";
-$locale['ADM_422'] = "Hak Admin";
+$locale['ADM_421'] = "Nama ahli";
+$locale['ADM_422'] = "Pangkat Admin";
 $locale['ADM_423'] = "Pilihan";
 $locale['ADM_425'] = "Tiada hak diberikan";
 // Edit Admin Rights

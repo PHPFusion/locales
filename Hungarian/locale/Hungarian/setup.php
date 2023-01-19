@@ -13,7 +13,7 @@ $locale['setup_0012a'] = "ltr";
 $locale['setup_0020'] = "PHPFusion Frissítés";
 $locale['setup_0022'] = "Üdvözöllek a PHPFusion Frissítő";
 $locale['setup_0023'] = "A frissítési szolgáltatás végigvezet a szükséges lépéseken, hogy frissítse a PHPFusion CMS-t a szerverén. Kérjük, kövesse az alábbi lépéseket, és ellenőrizze a kötelező információkat.";
-$locale['setup_0050'] = "Web Server";
+$locale['setup_0050'] = "Webszerver";
 $locale['setup_0051'] = "PHP Verzió";
 $locale['setup_0052'] = "PHP Kiterjesztés";
 $locale['setup_0053'] = "OPCache Támogatás";
@@ -309,13 +309,6 @@ $locale['setup_1700'] = "A telepítés befejeződött.";
 $locale['setup_1701'] = "PHPFusion 9 készen áll a használatra. Kattints a Befejezés gombra, hogy átírjam a config_temp.php fájlt config.php-ra.";
 $locale['setup_1702'] = "<strong>Megjegyzés:</strong> az /install.php fájlt biztonsági okokból törölni kell a szerverről, és a 'config.php' fájl jogosultságait 644-re kell állítani (CHMOD)";
 $locale['setup_1703'] = "Köszönjük, hogy a PHPFusion-t választotta.";
-// Default time settings
-// http://php.net/manual/en/function.strftime.php
-$locale['setup_3700'] = "%Y.%m.%d";
-$locale['setup_3701'] = "%Y %B %d %H:%M:%S";
-$locale['setup_3702'] = "%Y-%m-%d %H:%M";
-$locale['setup_3703'] = "%Y %B %d";
-$locale['setup_3704'] = "%Y %B %d %H:%M:%S";
 // Email Template Setup
 // Please do NOT translate the words between brackets [] !
 $locale['setup_3800'] = "Email Minták";

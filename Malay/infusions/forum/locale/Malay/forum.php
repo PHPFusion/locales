@@ -182,7 +182,6 @@ $locale['forum_0396'] = "Pilihan Forum";
 $locale['forum_0397'] = "Tiada forum didapati.";
 $locale['forum_0398'] = "Tidak dapati muat turun fail ini";
 $locale['forum_0399'] = "Tambah Karunia";
-
 $locale['forum_0400'] = "Karunia telah dikemaskinikan. Sila pastikan pilihan jawapan diberi ganjaran karunia.";
 
 $locale['forum_0500'] = "Pratonton Utusan";
@@ -342,6 +341,9 @@ $locale['forum_4109'] = "Karunia Perbincangan tidak dianugerahkan";
 $locale['forum_4110'] = "Karunia tidak boleh dianugerahkan kepada sendiri";
 $locale['forum_4120'] = "Tiada ID forum atau topik perbincangan ditakrifkan. Sila berikan ID yang sahlaku";
 $locale['forum_4121'] = "Tiada aktiviti di forum ini.";
+$locale['forum_4122'] = "Taniah kepada anda yang berjaya mendapat mata ganjaran habuan untuk soalan di {%thread_link%}.";
+$locale['forum_4123'] = "Kami ingin memberi maklum kepada anda bahawa soalan yang disebutkan telah diberi mata ganjaran habuan. Anda boleh mendapatkan jawapan untuk soalan habuan anda di {%link_start%}sini.{%link_end%}";
+$locale['forum_4124'] = "Thread ini ada habuan terbuka";
 
 $locale['forum_p001'] = "1 Hari";
 $locale['forum_p002'] = "2 Hari";

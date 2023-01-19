@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Laddat";
 $locale['theme_1004'] = "Ladda";
 $locale['theme_1005'] = "Hantera tema";
 $locale['theme_1006'] = "Nuvarande aktivt tema";
-$locale['theme_1007'] = "Ladda upp tema-ZIP-fil";
+
 $locale['theme_1008'] = "Ladda upp nytt tema";
 $locale['theme_1009'] = "Tema Styling";
 $locale['theme_1010'] = "Befintliga Teman";
-$locale['theme_1011'] = "Ladda upp nytt tema";
+
+$locale['theme_1011a'] = "Admin Themes";
 $locale['theme_1012'] = "Sätt som aktiv";
 $locale['theme_1013'] = "Licens:";
 $locale['theme_1014'] = "Version";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Vertikal gradient";
 $locale['theme_5011'] = "Radiell gradient";
 $locale['theme_5012'] = "Diagonal gradient";
 $locale['theme_5013'] = "Spara förval";
-$locale['theme_success_001'] = "Temat laddades upp till din temamapp";
+
 $locale['theme_success_002'] = "Tema förinställningar borttagna";
 $locale['theme_success_003'] = "Tema förinställningar uppdaterade";
 $locale['theme_success_004'] = "Tema förval har lagts till";
 
-$locale['theme_error_001'] = "Temapaketet är för stort. Ladda upp filer mindre än %s";
-$locale['theme_error_002'] = "Temapaketet är inte giltigt. Vänligen komprimera teman med .zip-filtillägget";
-$locale['theme_error_003'] = "Okänt uppladdningsfel";
-$locale['theme_error_004'] = "Temafilen laddades inte upp av servern";
-$locale['theme_error_005'] = "Filen kunde inte verifieras. Vänligen extrahera zip-filen och gör en manuell FTP-uppladdning";
-$locale['theme_error_006'] = "Din server har inte stöd för ZipArchive. Packa upp zipfilen och gör en manuell FTP-uppladdning";
 $locale['theme_error_007'] = "Temat kan inte bygga om på grund av följande orsaker(er): - Variabler har inte angetts eller formulär har fel";
 $locale['theme_error_008'] = "Compiler fel. Temat uppdaterades inte.";
-$locale['theme_error_009'] = "Filtema.php hittades inte.";

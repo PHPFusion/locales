@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Indlæst";
 $locale['theme_1004'] = "Indlæs";
 $locale['theme_1005'] = "Håndter tema";
 $locale['theme_1006'] = "Aktuelt aktivt tema";
-$locale['theme_1007'] = "Upload en temafil i ZIP-format";
+
 $locale['theme_1008'] = "Upload tema";
 $locale['theme_1009'] = "Temastyling";
 $locale['theme_1010'] = "Aktuelle temaer";
-$locale['theme_1011'] = "Upload et nyt tema";
+
+$locale['theme_1011a'] = "Admin Temaer";
 $locale['theme_1012'] = "Slå til";
 $locale['theme_1013'] = "Licens:";
 $locale['theme_1014'] = "Version";
@@ -132,17 +133,10 @@ $locale['theme_5010'] = "Vertikal gradering";
 $locale['theme_5011'] = "Radial gradering";
 $locale['theme_5012'] = "Diagonal gradering";
 $locale['theme_5013'] = "Gem værdier";
-$locale['theme_success_001'] = "Temaet blev uploadet til din temamappe";
+
 $locale['theme_success_002'] = "Temaopsætningen er slettet";
 $locale['theme_success_003'] = "Temaopsætningen er opdateret";
 $locale['theme_success_004'] = "Temaopsætningen er blevet tilføjet";
 
-$locale['theme_error_001'] = "Temapakken er for stor. Du kan kun uploade filer mindre end %s";
-$locale['theme_error_002'] = "Temapakken er fejlbehæftet. Du kan kun pakke temaer ud med efternavnet .zip";
-$locale['theme_error_003'] = "Ukendt fejl ved upload";
-$locale['theme_error_004'] = "Temafilen blev ikke uploadet af serveren";
-$locale['theme_error_005'] = "Vi kunne ikke kontrollere filen. Pak temafilen ud og upload temaet manuelt via FTP";
-$locale['theme_error_006'] = "Din server kan ikke håndtere ZIP-filer. Pak filen ud og anvend manuel FTP-upload";
 $locale['theme_error_007'] = "Temaet kunne ikke genopbygges af følgende årsag(er): - De nødvendige variabler var ikke sat korrekt, eller også opstod der fejl i formularen";
 $locale['theme_error_008'] = "Fejl i kompileringen. Temaet blev ikke opdateret.";
-$locale['theme_error_009'] = "Filen theme.php kunne ikke findes.";

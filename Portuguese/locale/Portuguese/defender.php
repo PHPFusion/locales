@@ -17,14 +17,14 @@ $locale['error_invalid_theme'] = "Por favor, selecione um tema válido";
 $locale['error_input_checkbox'] = "Por favor, assinala esta caixa";
 $locale['error_input_file'] = "Por favor, selecione um tema válido";
 $locale['error_secure_file'] = "O arquivo enviado foi rejeitado devido à possibilidade de carregamento malicioso.";
-$locale['error_input_login'] = "Incorrect username or password";
+$locale['error_input_login'] = "Nome de usuário ou senha incorreta";
 // Admin Login
 $locale['cookie_title'] = "A sessão expirou";
 $locale['cookie_description'] = "Não há autenticação válida / ou a sua sessão provavelmente expirou. Por favor, faça login novamente.";
 $locale['cookie_expired'] = "A sua sessão expirou. Por favor, inicie sessão novamente.";
 $locale['password_invalid'] = "Palavra-passe errada ou inválida";
 $locale['password_invalid_description'] = "A palavra-passe digitada está incorreta. Tente novamente.";
-$locale['prefix_error'] = "Contact prefix requires attention.";
+$locale['prefix_error'] = "O país requer atenção.";
 $locale['contact_error'] = "Contact number requires attention.";
 $locale['cookie_error'] = "Erro de Cookie";
 $locale['cookie_error_description'] = "Você precisa ativar os cookies no navegador para entrar na administração.";
@@ -84,8 +84,15 @@ $locale['df_422'] = "Erro desconhecido (Consulta)";
 $locale['df_423'] = "Ficheiro(s) não submetidos. Por favor, tente novamente";
 $locale['df_424'] = "O upload atual de ficheiros é maior que o limite máximo. Por favor, tente novamente e anexe menos ficheiros .";
 
-// ReCaptcha2
+$locale['error_rate'] = "Por favor introduza uma avaliação.";
+$locale['error_type'] = "Por favor, insira o Tipo de Extensão.";
+$locale['error_width'] = "Por favor, insira a largura.";
+$locale['error_height'] = "Por favor, insira a Altura.";
+$locale['error_value'] = "Por favor, introduza um valor.";
+
+// ReCaptcha
 $locale['grecaptcha'] = "Google Recaptcha";
+$locale['grecaptcha3'] = "Google Recaptcha v3";
 $locale['grecaptcha_desc'] = "Módulo de Campo do Google Recaptcha";
 $locale['grecaptcha_placeholder_1'] = "KEY SITE do Google";
 $locale['grecaptcha_placeholder_2'] = "SECRET-KEY do Google";
@@ -98,4 +105,5 @@ $locale['grecaptcha_0102b'] = "Escuro";
 $locale['grecaptcha_0103'] = "Tipo de Validação";
 $locale['grecaptcha_0103a'] = "Texto";
 $locale['grecaptcha_0103b'] = "Áudio";
+$locale['grecaptcha_0104'] = "Pontos";
 $locale['grecaptcha_warn'] = "Por favor, insira a sua chave reCAPTCHA pública e privada";

@@ -6,11 +6,12 @@ $locale['theme_1003'] = "Betöltött";
 $locale['theme_1004'] = "Betölt";
 $locale['theme_1005'] = "Témabeállítás";
 $locale['theme_1006'] = "Aktuálisan használt téma";
-$locale['theme_1007'] = "Téma feltöltése ZIP fájl";
+
 $locale['theme_1008'] = "Téma feltöltése";
 $locale['theme_1009'] = "Téma Stílus";
 $locale['theme_1010'] = "Témák";
-$locale['theme_1011'] = "Új téma feltöltése";
+
+$locale['theme_1011a'] = "Admin témák";
 $locale['theme_1012'] = "Aktivál";
 $locale['theme_1013'] = "Licensz:";
 $locale['theme_1014'] = "Verzió";
@@ -133,17 +134,10 @@ $locale['theme_5010'] = "Függőleges Színátmenet";
 $locale['theme_5011'] = "Sugaras Színátmenet";
 $locale['theme_5012'] = "Átlós Színátmenet";
 $locale['theme_5013'] = "Egyéni Beállítás Mentés";
-$locale['theme_success_001'] = "téma került fel a mappába";
+
 $locale['theme_success_002'] = "téma Egyéni Beállítás Törölve";
 $locale['theme_success_003'] = "téma Egyéni Beállítás Módosítva";
 $locale['theme_success_004'] = "téma Egyéni Beállítás Hozzáadva";
 
-$locale['theme_error_001'] = "A témacsomag túl nagy. Tölts fel kisebb fájlt. %s";
-$locale['theme_error_002'] = "témacsomag nem érvényes. Kérjük, hogy csak .zip kiterjesztésű tömörített fájlokat tölts fel";
-$locale['theme_error_003'] = "Ismeretlen Feltöltési Hiba";
-$locale['theme_error_004'] = "A téma fájl nem kerül feltöltésre a kiszolgálóra";
-$locale['theme_error_005'] = "A fájlt nem sikerült ellenőrizni. Kérlek, FTP-n keresztül töltsd fel a .zip fájlt";
-$locale['theme_error_006'] = "A Kiszolgálód nem támogatja a  .Zip tömörítést. Kérlek Bontsd ki a .zip állományt és manuálisan FTP-n keresztül másold fel";
 $locale['theme_error_007'] = "A témát nem lehet újjáépíteni a következő ok (ok): - Változók nem kerültek be vagy form hiba";
 $locale['theme_error_008'] = "Fordító Hiba. téma nincs Módosítva.";
-$locale['theme_error_009'] = "A theme.php Fájl nem található.";

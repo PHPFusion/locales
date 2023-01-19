@@ -178,3 +178,8 @@ Megjegyzés: a link használata előtt jelentkezz be!<br />
 [SITEUSERNAME]<br />
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "A jelszónak legalább 1 speciális karaktert kell tartalmaznia";
+$locale['u301'] = "A jelszónak tartalmaznia kell legalább 1 nagybetűs és 1 kisbetűs karaktert";
+$locale['u302'] = "A jelszónak legalább 1 számot kell tartalmaznia";
+$locale['u303'] = "A jelszónak legalább 8 karakter hosszúnak kell lennie";

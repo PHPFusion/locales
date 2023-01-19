@@ -129,5 +129,5 @@ $locale['blog_955'] = "Originalus";
 $locale['blog_956'] = "Kvadratas";
 $locale['blog_959'] = "Uploaded Photo";
 $locale['blog_960'] = "Category Image";
-$locale['blog_961'] = "Allowed file types:";
+$locale['blog_961'] = "Leidžiami failų tipai:";
 $locale['blog_submit'] = "%s Blog";

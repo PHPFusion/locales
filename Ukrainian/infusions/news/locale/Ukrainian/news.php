@@ -16,3 +16,4 @@ $locale['news_0016'] = "Розділи відсутні";
 $locale['news_0017'] = "Сортування:";
 $locale['news_0018'] = "Всі новини";
 $locale['news_0019'] = "Галерея новин";
+$locale['news_0020'] = "Most Read News";

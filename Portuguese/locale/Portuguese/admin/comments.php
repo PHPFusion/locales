@@ -1,17 +1,26 @@
 <?php
 // Comments titles
-$locale['400'] = "Editar Comentário";
-$locale['401'] = "Comentários";
+$locale['C_400'] = "Editar Comentário";
+$locale['C_401'] = "Comentários";
 // Comments messages
-$locale['410'] = "Comentário actualizado";
-$locale['411'] = "Comentário apagado";
+$locale['C_410'] = "Comentário actualizado";
+$locale['C_411'] = "Comentário apagado";
+$locale['C_412'] = "The comment has been removed and user added to blacklist.";
 // Edit Comment form
-$locale['420'] = "Desactivar smileys neste comentário";
-$locale['421'] = "Guardar comentário";
+$locale['C_420'] = "Desactivar smileys neste comentário";
+$locale['C_421'] = "Guardar comentário";
 // Comments
-$locale['431'] = "Apagar e banir";
-$locale['432'] = "IP do Utilizador:";
-$locale['433'] = "Apagar este comentário?";
-$locale['434'] = "Não existem comentários para este item.";
-$locale['435'] = "Você realmente quer adicionar este utilizador à lista negra?";
-$locale['436'] = "O seu comentário está na lista negra.";
+$locale['C_431'] = "Delete & Ban";
+$locale['C_432'] = "IP do Utilizador:";
+$locale['C_433'] = "Apagar este comentário?";
+$locale['C_434'] = "Não existem comentários para este item.";
+$locale['C_435'] = "Do you really want to add this user to a blacklist?";
+$locale['C_436'] = "Blacklisted comment.";
+// Settings
+$locale['C_440'] = "Activar sistema de comentários?";
+$locale['C_441'] = "Permitir que os convidados postem?";
+$locale['C_442'] = "Activar comentários à imagem de perfil?";
+$locale['C_443'] = "Comentários Base por Página";
+$locale['C_444'] = "Ordenar Comentários";
+$locale['C_445'] = "Ascendente";
+$locale['C_446'] = "Descendente";

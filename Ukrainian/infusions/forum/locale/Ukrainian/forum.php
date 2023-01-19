@@ -180,7 +180,6 @@ $locale['forum_0396'] = "Підтвердження вибору";
 $locale['forum_0397'] = "Розділи відсутні";
 $locale['forum_0398'] = "Неможливо завантажити файл";
 $locale['forum_0399'] = "Додати винагороду";
-
 $locale['forum_0400'] = "Винагороду успішно оновлено. Будь ласка, не забудьте обрати відповідь для її отримання.";
 
 $locale['forum_0500'] = "Попередній перегляд теми";
@@ -346,6 +345,9 @@ $locale['forum_4109'] = "Винагороду не надано";
 $locale['forum_4110'] = "Неможливо надати винагороду самому собі.";
 $locale['forum_4120'] = "Відсутній код ID розділу або теми. Будь ласка, вкажіть хоча б одне значення.";
 $locale['forum_4121'] = "В цьому розділі активність відсутня.";
+$locale['forum_4122'] = "Congratulations for earning bounty points made on the question in {%thread_link%}.";
+$locale['forum_4123'] = "We wish to inform you that selected answer has been awarded with the bounty points. You can view the answer to your bounty {%link_start%}here.{%link_end%}";
+$locale['forum_4124'] = "This thread has an open bounty";
 
 $locale['forum_p001'] = "1 день";
 $locale['forum_p002'] = "2 дні";

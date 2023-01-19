@@ -129,3 +129,6 @@ $locale['search_msg_104'] = 'Sonuç Bulunamadı';
 
 $locale['deprecated_section'] = 'Bu bölüm kullanımdan kaldırılmıştır. Artık bunu önermiyoruz ve yakında kaldırmayı planlıyoruz.';
 $locale['new_update_avalaible'] = "Yeni bir [LINK]PHPFusion v[VERSION] güncellemesi [/LINK] mevcut. Lütfen güncelle!";
+$locale['infusions_updates_avalaible'] = "İnfüzyonlar için güncellemeler mevcut.";
+$locale['update_now'] = "Şimdi güncelle";
+$locale['unactivated_users'] = "Veritabanında birkaç etkinleştirilmemiş kullanıcı var. Bunları görüntülemek ve etkinleştirmek için [LINK]burayı tıklayın[/LINK].";

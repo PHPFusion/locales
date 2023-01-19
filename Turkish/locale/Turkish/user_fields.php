@@ -172,3 +172,8 @@ Saygılarımızla,
 [SITEUSERNAME]<br/>
 
 [SITENAME]";
+// Checker
+$locale['u300'] = "Şifre en az 1 özel karakter içermelidir";
+$locale['u301'] = "Şifre en az 1 büyük harf ve 1 küçük harf içermelidir";
+$locale['u302'] = "Şifre en az 1 rakam içermelidir";
+$locale['u303'] = "Şifre en az 8 karakter uzunluğunda olmalıdır";
