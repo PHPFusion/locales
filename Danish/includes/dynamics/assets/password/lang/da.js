@@ -1,17 +1,17 @@
 var pwstrength_locale = {
-    wordMinLength: 'Your password is too short',
+    wordMinLength: 'Dit kodeord er for kort',
     wordMaxLength: 'Din adgangskode er for lang',
     wordInvalidChar: 'Din adgangskode indeholder et ugyldigt tegn',
-    wordNotEmail: 'Do not use your email as your password',
-    wordSimilarToUsername: 'Your password cannot contain your username',
-    wordTwoCharacterClasses: 'Use different character classes',
-    wordRepetitions: 'Too many repetitions',
-    wordSequences: 'Your password contains sequences',
+    wordNotEmail: 'Anvend ikke din mail som dit kodeord',
+    wordSimilarToUsername: 'Dit kodeord må ikke indeholde dit brugernavn',
+    wordTwoCharacterClasses: 'Brug forskellige karakterklasser',
+    wordRepetitions: 'For mange gentagelser',
+    wordSequences: 'Dit kodeord indeholder sekvenser',
     errorList: 'Fejl:',
-    veryWeak: 'Very Weak',
-    weak: 'Weak',
+    veryWeak: 'Meget svag',
+    weak: 'Svag',
     normal: 'Normal',
     medium: 'Middel',
-    strong: 'Strong',
-    veryStrong: 'Very Strong'
+    strong: 'Stærk',
+    veryStrong: 'Meget stærk'
 };
