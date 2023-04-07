@@ -6,7 +6,7 @@ Third-party scripts (includes folder) or readme-\*.html you need to translate ma
 
 Crowdin [invitation link](https://translate.phpfusion.com/project/php-fusion-locales/invite). Members with no contributions will be removed.
 
-Locales for v9.10: [tree/version-9](https://github.com/PHPFusion/locales/tree/version-9)
+Locales for v9.10: [tree/version-9.10](https://github.com/PHPFusion/locales/tree/9.10.30)
 
 Locales for v9.03: [tree/version-9.03](https://github.com/PHPFusion/locales/tree/version-9.03)
 
