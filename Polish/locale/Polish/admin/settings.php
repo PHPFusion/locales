@@ -166,7 +166,7 @@ $locale['admins_691'] = "Zezwalaj użytkownikom na zmianę nazwy użytkownika";
 $locale['admins_692'] = "Ustawienia Captcha";
 $locale['admins_693'] = "Captcha";
 $locale['admins_694'] = "Zezwól na wykonanie PHP";
-$locale['admins_695'] = "WARNING! Allowing PHP execution will open the system to SQL vulnerabilities.";
+$locale['admins_695'] = "OSTRZEŻENIE! Zezwolenie na wykonanie PHP otworzy system na luki w zabezpieczeniach SQL.";
 $locale['admins_696'] = "Proszę wprowadzić swój publiczny i prywatny klucz reCAPTCHA!";
 
 $locale['admins_955'] = "Oryginał";
