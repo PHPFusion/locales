@@ -14,18 +14,18 @@
       weekdaysShort: 'Nie_Pon_Wto_Śro_Czw_Pią_Sob'.split('_'),
       weekdaysMin: 'Nd_Pn_Wt_Śr_Cz_Pt_So'.split('_'),
       longDateFormat: {
-         LT: 'HH:mm',
-         LTS: 'HH:mm:ss',
+         LT: 'GG:mm',
+         LTS: 'GG:mm:ss',
          L: 'DD/MM/YYYY',
          LL: 'D MMMM YYYY',
          LLL: 'D MMMM YYYY HH:mm',
          LLLL: 'dddd, D MMMM YYYY HH:mm'
       },
       calendar: {
-         sameDay: '[Today at] LT',
-         nextDay: '[Tomorrow at] LT',
+         sameDay: '[Dziś o] LT',
+         nextDay: '[Jutro o] LT',
          nextWeek: 'dddd [at] LT',
-         lastDay: '[Yesterday at] LT',
+         lastDay: '[Wczoraj o] LT',
          lastWeek: '[Last] dddd [at] LT',
          sameElse: 'L'
       },
