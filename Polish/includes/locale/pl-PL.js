@@ -16,10 +16,10 @@
       longDateFormat: {
          LT: 'GG:mm',
          LTS: 'GG:mm:ss',
-         L: 'DD/MM/YYYY',
-         LL: 'D MMMM YYYY',
-         LLL: 'D MMMM YYYY HH:mm',
-         LLLL: 'dddd, D MMMM YYYY HH:mm'
+         L: 'DD/MM/RRRR',
+         LL: 'D MMMM RRRR',
+         LLL: 'D MMMM RRRR GG:mm',
+         LLLL: 'dddd, D MMMM RRRR GG:mm'
       },
       calendar: {
          sameDay: '[Dziś o] LT',
