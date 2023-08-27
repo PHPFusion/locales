@@ -3,51 +3,51 @@
 //! author : Chris Gedrim : https://github.com/chrisgedrim
 ;
 (function (global, factory) {
-   typeof exports === 'object' && typeof module !== 'undefined' && typeof require === 'function' ? factory(require('../moment')) : typeof define === 'function' && define.amd ? define(['../moment'], factory) : factory(global.moment);
+   typeof exports === 'object' && typeof module !== 'undefined' && typeof require === 'function' ? factory(require('../moment')) : typeof define === 'function' && define.amd ? define(['../اللحظة'], factory) : factory(global.moment);
 }(this, function (moment) {
-   'use strict';
+   'استخدام صارم';
    //! moment.js locale configuration
    var enGb = moment.defineLocale('en-gb', {
-      months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split('_'),
-      monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
-      weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split('_'),
-      weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
-      weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+      months: 'يناير_فبراير_مارس_أبريل_مايو_يونيو_يوليو_أغسطس_سبتمبر_أكتوبر_نوفمبر_ديسمبر'.split('_'),
+      monthsShort: 'يناير_فبراير_مارس_أبريل_مايو_يونيو_يوليو_أغسطس_سبتمبر_أكتوبر_نوفمبر_ديسمبر'.split('_'),
+      weekdays: 'الأحد_الإثنين_الثلاثاء_الأربعاء_الخميس_الجمعة_السبت'.split('_'),
+      weekdaysShort: 'الأحد_الإثنين_الثلاثاء_الأربعاء_الخميس_الجمعة_السبت'.split('_'),
+      weekdaysMin: 'الأحد_الإثنين_الثلاثاء_الأربعاء_الخميس_الجمعة_السبت'.split('_'),
       longDateFormat: {
          LT: 'HH:mm',
          LTS: 'HH:mm:ss',
-         L: 'DD/MM/YYYY',
+         L: 'يوم/شهر/سنة',
          LL: 'D MMMM YYYY',
          LLL: 'D MMMM YYYY HH:mm',
          LLLL: 'dddd, D MMMM YYYY HH:mm'
       },
       calendar: {
-         sameDay: '[Today at] LT',
-         nextDay: '[Tomorrow at] LT',
+         sameDay: '[اليوم في] LT',
+         nextDay: '[غداً في] LT',
          nextWeek: 'dddd [at] LT',
-         lastDay: '[Yesterday at] LT',
+         lastDay: '[بالأمس] LT',
          lastWeek: '[Last] dddd [at] LT',
          sameElse: 'L'
       },
       relativeTime: {
-         future: 'in %s',
-         past: '%s ago',
-         s: 'a few seconds',
-         ss: '%d seconds',
-         m: 'a minute',
-         mm: '%d minutes',
-         h: 'an hour',
-         hh: '%d hours',
-         d: 'a day',
-         dd: '%d days',
-         M: 'a month',
-         MM: '%d months',
-         y: 'a year',
-         yy: '%d years'
+         future: 'في %s',
+         past: 'منذ %s',
+         s: 'بضعة ثواني',
+         ss: '%d ثانية',
+         m: 'منذ دقيقة',
+         mm: '%d دقائق',
+         h: 'ساعة',
+         hh: '%d ساعات',
+         d: 'يوم',
+         dd: '%d أيام',
+         M: 'شهر',
+         MM: '%d أشهر',
+         y: 'سنة',
+         yy: '%d سنوات'
       },
       dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
       ordinal: function (number) {
-         var b = number % 10, output = ~~(number % 100 / 10) === 1 ? 'th' : b === 1 ? 'st' : b === 2 ? 'nd' : b === 3 ? 'rd' : 'th';
+         var b = number % 10, output = ~~(number % 100 / 10) === 1 ? 'ثانيةً' : b === 1 ? 'الأول' : b === 2 ? 'الثاني' : b === 3 ? 'الثالث' : 'ثانيةً';
          return number + output;
       },
       week: {

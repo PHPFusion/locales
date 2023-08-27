@@ -5,37 +5,37 @@
 (function (global, factory) {
    typeof exports === 'object' && typeof module !== 'undefined' && typeof require === 'function' ? factory(require('../moment')) : typeof define === 'function' && define.amd ? define(['../moment'], factory) : factory(global.moment);
 }(this, function (moment) {
-   'use strict';
+   'doprecyzuj';
    //! moment.js locale configuration
    var enGb = moment.defineLocale('en-gb', {
       months: 'Styczeń_Luty_Marzec_Kwiecie_Maj_Czerwień_Lipiec_wrzesień_październik_Listopad_Grudzień'.split('_'),
-      monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+      monthsShort: 'Sty_Lut_Mar_Kwi_Maj_Cze_Lip_Sie_Wrz_Paź_Lis_Gru'.split('_'),
       weekdays: 'Niedziela_Poniedziałek_Wtorek_Środa_Czwartek_Piątek_Sobota'.split('_'),
-      weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
-      weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+      weekdaysShort: 'Nie_Pon_Wto_Śro_Czw_Pią_Sob'.split('_'),
+      weekdaysMin: 'Nd_Pn_Wt_Śr_Cz_Pt_So'.split('_'),
       longDateFormat: {
-         LT: 'HH:mm',
-         LTS: 'HH:mm:ss',
-         L: 'DD/MM/YYYY',
-         LL: 'D MMMM YYYY',
-         LLL: 'D MMMM YYYY HH:mm',
-         LLLL: 'dddd, D MMMM YYYY HH:mm'
+         LT: 'GG:mm',
+         LTS: 'GG:mm:ss',
+         L: 'DD/MM/RRRR',
+         LL: 'D MMMM RRRR',
+         LLL: 'D MMMM RRRR GG:mm',
+         LLLL: 'dddd, D MMMM RRRR GG:mm'
       },
       calendar: {
-         sameDay: '[Today at] LT',
-         nextDay: '[Tomorrow at] LT',
+         sameDay: '[Dziś o] LT',
+         nextDay: '[Jutro o] LT',
          nextWeek: 'dddd [at] LT',
-         lastDay: '[Yesterday at] LT',
+         lastDay: '[Wczoraj o] LT',
          lastWeek: '[Last] dddd [at] LT',
          sameElse: 'L'
       },
       relativeTime: {
-         future: 'in %s',
-         past: '%s ago',
-         s: 'a few seconds',
-         ss: '%d seconds',
-         m: 'a minute',
-         mm: '%d minutes',
+         future: 'za %s',
+         past: '%s temu',
+         s: 'kilka sekund',
+         ss: '%d sekund',
+         m: 'minuta',
+         mm: '%d minut',
          h: 'godzina',
          hh: '%d godzin',
          d: 'dzień',
@@ -47,7 +47,7 @@
       },
       dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
       ordinal: function (number) {
-         var b = number % 10, output = ~~(number % 100 / 10) === 1 ? 'th' : b === 1 ? 'st' : b === 2 ? 'nd' : b === 3 ? 'rd' : 'th';
+         var b = number % 10, output = ~~(number % 100 / 10) === 1 ? '.' : b === 1 ? '.' : b === 2 ? '.' : b === 3 ? '.' : '.';
          return number + output;
       },
       week: {

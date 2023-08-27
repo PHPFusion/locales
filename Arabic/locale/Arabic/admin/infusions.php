@@ -23,5 +23,5 @@ $locale['INF_419'] = "الخيارات";
 $locale['INF_420'] = "الإصدار";
 $locale['INF_421'] = "المؤلف";
 $locale['INF_422'] = "تحميل المزيد من الإضافات";
-$locale['INF_423'] = "%s Infusion has been installed";
-$locale['INF_424'] = "%s Infusion has been uninstalled";
+$locale['INF_423'] = "%s تم تثبيته";
+$locale['INF_424'] = "%s تم إزالة تثبيته";

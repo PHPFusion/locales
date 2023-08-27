@@ -15,7 +15,7 @@ $locale['SRV_410'] = "المتصفح والنظام التشغيل";
 $locale['SRV_411'] = "الترجمة إلى اللغة العربية  بواسطة : Eng. Khamis Alqutob </br>   الدعم العربي لمجلة PHPFusion العربية © 2020 </br>   http://phpfusion-ar.xyz </br> إحدى قنوات شبكة زاد العرب - ArabZad.Com "; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
 $locale['SRV_420'] = "إعدادات PHP";
-$locale['SRV_423'] = "Safe-mode";
+$locale['SRV_423'] = "وضع التشغيل الآمن";
 $locale['SRV_424'] = "Register Globals";
 $locale['SRV_425'] = "دعم";
 $locale['SRV_426'] = "أقصى حجم مسموح في الملف المرفوع";
@@ -25,8 +25,8 @@ $locale['SRV_430'] = "غير متوفر";
 $locale['SRV_431'] = "الإصدار";
 //Write permission
 $locale['SRV_440'] = "تراخيص المجلدات";
-$locale['SRV_441'] = "Writeable";
-$locale['SRV_442'] = "Not writeable";
+$locale['SRV_441'] = "قابل للكتابة";
+$locale['SRV_442'] = "غير قابل للكتابة";
 //PHPinfo
 $locale['SRV_450'] = "التفاصيل";
 $locale['SRV_451'] = "لم يمكن الحصول على البيانات. تحقق إن كانت دالة phpinfo() معطلة?";
